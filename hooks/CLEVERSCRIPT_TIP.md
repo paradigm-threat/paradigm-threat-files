@@ -67,11 +67,22 @@ Validate on park-local: after hydrate, theme click must **not** remount the arti
 
 Site-shell SSR is **article-first**, not catalog-first. If it is not the article path or static chrome, it belongs on hydrate.
 
+### Verdict: do **not** SSR DirNav / ChangeLog / article-list rows
+
+**Anti-pattern** for park — even if you “cache it harder.” Evidence:
+
+1. **Same-Host QUERY / HTTP `fetch` during site-shell SSR deadlocks** the gateway worker (or burns a cold index path). `RepoFetchHost` can read tip blobs in-process; that is **not** a license to fan out catalog work on every HTML miss.
+2. **Render rarity:** post-hydrate `setState` re-runs the **whole** shell and replaces `innerHTML`. Catalog trees baked into SSR HTML still remount when any tip state thrash happens; placeholders + hydrate keep P0 article stable.
+3. **Gateway `ssr_html_cache`** keys by tip OID — a correct miss path must stay **cheap** (P0+P1 only). Putting nav-index parse / card fan-out / QUERY into SSR reintroduces the old multi-second (~10s) cold path on every tip push and cache miss.
+4. **Bots / SEO** already get article HTML + `sitemap.xml`. DirNav cards are not the crawler contract.
+
+**Optimal pattern:** SSR **P0 article + P1 static chrome** (placeholders for catalog) → client hydrate when `isClientLive() === true` → one warmed tip GET of `nav-index.txt` / thumbs via `@relay/catalog.loadNavIndex` + tip `loadArticleRows` (runtime `tip_cached_get` + `tip_cached_nav_index_rows`).
+
 | Tier | Examples | SSR | Hydrate |
 |------|----------|-----|---------|
 | **P0 Content** | Article / `page.md` markdown, heading TOC from the same `extractMarkdownHeadings` | **Required** — tip-safe `cachedGet('/'+path)` (in-process on gateway; not same-Host HTTP) + `MarkdownRenderer` | Reuse same tree (no blank flash) |
 | **P1 Shell** | Brand, hardcoded header/footer links in `Nav.jsx`, theme CSS markers | **Required**, **fetch-free** (literals only; never `nav-index` for the top nav) | Menu / theme / font handlers only |
-| **P2 Catalog** | DirNav tree, ChangeLog cards, Feeling Lucky, neighbors, AutoIndex, Home index lists | **Forbidden** — placeholder only | `loadNavIndex` / `loadArticleRows` |
+| **P2 Catalog** | DirNav tree, ChangeLog cards, Feeling Lucky, neighbors, AutoIndex, Home index lists | **Forbidden** — placeholder only (`data-pt-dirnav-ssr` / `data-pt-changelog-ssr`) | `loadNavIndex` / `loadArticleRows` |
 | **P3 Interactive** | Gallery, TTS, theme/font persistence, search QUERY | **Forbidden** | Only when `isClientLive() === true` |
 
 **Soft rule:** tip-blob reads for P0 are allowed on SSR via `RepoFetchHost` / `cachedGet`. Same-Host **HTTP** `fetch` / QUERY still deadlocks the worker — never do that. Optional later: host lint when `loadNavIndex` runs with `!isClientLive`.
@@ -80,7 +91,28 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 
 **Bots:** expect **`sitemap.xml`** + article HTML, not DirNav. Regenerate sitemap with the nav-index script before push.
 
-**Gateway reuse (Next-like):** fleet may cache SSR HTML keyed by `(repo, tipCommit, path, web-assets oid)` with `s-maxage≈60` / SWR — see `relay-gateway/docs/RELAY_POLICY_AND_PERFORMANCE.md` (SSR HTML cache). Tip still must be correct without that cache.
+### Cache layers (catalog stays off SSR HTML)
+
+| Layer | Key / scope | What it caches | TTL / invalidation |
+|-------|-------------|----------------|--------------------|
+| Gateway **`ssr_html_cache`** | `(repo, branch, tipCommitOID, path, clientHook, webAssetsOID)` | P0+P1 HTML document only | Tip / web-assets OID change → miss; `s-maxage=60`, SWR 3600; `RELAY_DISABLE_SSR_HTML_CACHE=1` |
+| Runtime **`tip_cached_get`** | URL string, per RunState / hydrate session | Raw tip blob text (`nav-index.txt`, thumbs, article md) | Cleared with run state; one GET per URL per session |
+| Runtime **`tip_cached_nav_index_rows`** | Hash of nav-index text | Parsed row `Rc` shared by DirNav / ChangeLog / neighbors | Same session; remounts reuse parse |
+| Tip module warm | `changelogThumbsWarm` in `loadArticles.jsx` | Parsed `changelog-thumbs.json` | Module lifetime (hydrate session) |
+| Gateway **QUERY LRU** | `(repo, tipHead, collection, query, limit, order)` | Search / optional articles QUERY | ~45s; tip HEAD in key; **never** call from site-shell SSR |
+| CDN / browser | On-tree GET paths | `nav-index.txt`, thumbs, assets | CDN-friendly blob GET; bump `?v=` when content must pierce |
+
+**Do / don’t (loading):**
+
+| Do | Don’t |
+|----|--------|
+| SSR article + static nav chrome; catalog placeholders | SSR full DirNav / ChangeLog / AutoIndex rows |
+| Hydrate: `loadNavIndex` / `loadArticleRows` once live | Same-Host HTTP QUERY inside site-shell SSR |
+| Rely on tip OID HTML cache for cheap P0+P1 hits | Stuff catalog into SSR so every tip push pays parse again |
+| On-tree `nav-index.txt` + thumbs for park lists | Re-parse nav-index in every catalog child without host warm |
+| CSS tabs / dual theme CSS (no catalog remount) | `setState` tabs or theme that wipe the article |
+
+**Gateway reuse (Next-like):** fleet caches SSR HTML keyed by tip OID with `s-maxage≈60` / SWR — see `relay-gateway/docs/RELAY_POLICY_AND_PERFORMANCE.md`. Tip still must be correct without that cache — and that cache must **not** embed P2 catalog.
 
 ## SSR data
 
@@ -119,4 +151,8 @@ Do **not** treat rapid fleet deploy / `autossh` into production `:8080` as the p
 - Host helpers: `relay-gateway/docs/CS_HOST_HELPERS.md`
 - Gap log: `relay-gateway/docs/CLEVERSCRIPT_GAP_LOG.md` (G-005–G-007)
 - Policy / SSR HTML cache: `relay-gateway/docs/RELAY_POLICY_AND_PERFORMANCE.md`
+- QUERY + catalog warm (hydrate only): `relay-gateway/docs/QUERY_CLEVERSCRIPT.md`
+- Runtime tip checklist: `relay-runtime/docs/CLEVERSCRIPT.md` §5.1
 - Disabled components: `hooks/COMPONENTS_DISABLED.md`
+
+*Last updated: 2026-08-02*
