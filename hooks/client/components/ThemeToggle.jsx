@@ -6,6 +6,14 @@ import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
  * Flip html.light / html.dark only — no useState / set_render_requested.
  * Dual theme CSS (html.dark / html.light) + both icons live in the sheet;
  * show/hide via navChromeCss. Do not call setCurrentTheme or set data-theme.
+ *
+ * Host note: relay-runtime-web.js applyInjectedCss → syncHtmlThemeClass mirrors
+ * WASM get_current_theme_name() (theme.yaml current_theme, usually light) onto
+ * <html class> on every doRender. That overwrites tip class flips after catalog
+ * hydrate remounts. Re-assert from tip localStorage on an interval.
+ *
+ * CleverScript localStorage is in-memory (TLS), not browser localStorage — it
+ * survives remounts within a session but not a full page reload.
  */
 
 function applyThemeClass(name) {
@@ -13,6 +21,9 @@ function applyThemeClass(name) {
     if (!document || !document.documentElement) return
     if (name === 'light' || name === 'dark') {
       document.documentElement.setAttribute('class', name)
+    } else if (name === '') {
+      // Empty class → dual CSS honors prefers-color-scheme (undo host light force).
+      document.documentElement.setAttribute('class', '')
     }
   } catch (e) {}
 }
@@ -56,12 +67,27 @@ function saveTheme(name) {
   } catch (e) {}
 }
 
-function resolveInitialTheme() {
+/** Explicit tip preference, or '' to leave class empty (OS preference). */
+function resolveWantedTheme() {
   const saved = readSavedTheme()
   if (saved === 'dark' || saved === 'light') return saved
-  const onHtml = readHtmlTheme()
-  if (onHtml === 'dark' || onHtml === 'light') return onHtml
-  return 'light'
+  return ''
+}
+
+function assertThemeClass() {
+  const want = resolveWantedTheme()
+  const cur = readHtmlTheme()
+  if (want === 'dark' || want === 'light') {
+    if (cur !== want) {
+      applyThemeClass(want)
+    }
+    return
+  }
+  // No saved preference: undo syncHtmlThemeClass forcing WASM current_theme=light
+  // so html.dark/html.light dual sheet can follow prefers-color-scheme.
+  if (cur === 'light' || cur === 'dark') {
+    applyThemeClass('')
+  }
 }
 
 export default function ThemeToggle() {
@@ -69,7 +95,16 @@ export default function ThemeToggle() {
 
   useEffect(() => {
     if (!live) return
-    applyThemeClass(resolveInitialTheme())
+    assertThemeClass()
+    // Beat host syncHtmlThemeClass after each doRender (catalog hydrate, etc.).
+    const id = setInterval(() => {
+      assertThemeClass()
+    }, 200)
+    return () => {
+      try {
+        clearInterval(id)
+      } catch (e) {}
+    }
   }, [live])
 
   return (
