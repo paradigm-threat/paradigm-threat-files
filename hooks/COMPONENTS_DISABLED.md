@@ -13,7 +13,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
 | PopImage / gallery | **shipped** | `img`/`PopImage` overrides; gallery overlay; `#img=` hash; CSS used-class marker |
 | Floating dir / back-to-top | **shipped** | sticky `pt-dir-nav-lg`; back-to-top chevron in TTS dock |
-| Article TTS dock | **shipped** | Old-site style: indigo play/pause circle, stop, seek count; Piper `@relay/tts` |
+| Article TTS dock | **shipped** | Vercel-parity: Play; Stop only after session (`sentences.length > 0`); seek + count; settings (`ml-auto`) Piper voice strip; no Site AI sparkle; Piper `@relay/tts` |
 | VisTimeline / maps / Three | deferred | Own routes / timeline tip |
 | Files `/timeline` subpath | deferred | External timeline host only |
 | `expandMdComponents.jsx` | pass-through | Reserved |

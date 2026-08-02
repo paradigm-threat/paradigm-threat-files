@@ -1226,17 +1226,74 @@ themes:
         color: "#ffffff"
         cursor: "pointer"
         padding: 0
-      ".pt-tts-status":
-        fontSize: "0.75rem"
-        color: "#94a3b8"
+      ".pt-tts-seek-wrap":
+        display: "flex"
+        flex: "1 1 auto"
+        minWidth: 0
+        alignItems: "center"
+        gap: "0.5rem"
         marginLeft: "0.25rem"
-        flexShrink: 0
+        marginRight: "0.25rem"
+      ".pt-tts-seek":
+        flex: "1 1 auto"
+        minWidth: 0
+        width: "100%"
+        height: "0.5rem"
+        cursor: "pointer"
+        accentColor: "#6366f1"
       ".pt-tts-count":
         fontSize: "0.75rem"
         color: "#94a3b8"
         fontVariantNumeric: "tabular-nums"
-        marginLeft: "auto"
         flexShrink: 0
+      ".pt-tts-settings":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        width: "2.5rem"
+        height: "2.5rem"
+        flexShrink: 0
+        marginLeft: "auto"
+        borderRadius: "9999px"
+        borderWidth: 0
+        backgroundColor: "rgba(255, 255, 255, 0.05)"
+        color: "#94a3b8"
+        cursor: "pointer"
+        padding: 0
+      ".pt-tts-settings-open":
+        backgroundColor: "rgba(79, 70, 229, 0.3)"
+        color: "#a5b4fc"
+      ".pt-tts-settings-strip":
+        display: "flex"
+        flexWrap: "wrap"
+        alignItems: "center"
+        gap: "0.75rem"
+        padding: "0.85rem 1rem"
+        borderTopWidth: 1
+        borderTopStyle: "solid"
+        borderTopColor: "rgba(51, 65, 85, 0.55)"
+        boxSizing: "border-box"
+      ".pt-tts-setting":
+        display: "inline-flex"
+        alignItems: "center"
+        gap: "0.4rem"
+        backgroundColor: "rgba(0, 0, 0, 0.3)"
+        borderRadius: "0.5rem"
+        padding: "0.45rem 0.75rem"
+      ".pt-tts-setting-label":
+        fontSize: "0.625rem"
+        fontWeight: "700"
+        textTransform: "uppercase"
+        color: "#94a3b8"
+        letterSpacing: "0.04em"
+      ".pt-tts-setting-select":
+        backgroundColor: "transparent"
+        color: "#f1f5f9"
+        fontSize: "0.75rem"
+        borderWidth: 0
+        outline: "none"
+        cursor: "pointer"
+        maxWidth: "10rem"
       ".pt-tts-err":
         pointerEvents: "auto"
         fontSize: "0.8125rem"

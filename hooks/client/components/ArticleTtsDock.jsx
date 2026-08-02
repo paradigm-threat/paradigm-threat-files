@@ -1,6 +1,6 @@
 /**
  * Bottom TTS dock — visual match for paradigm-threat-site ArticleTTSOverlay
- * (circular indigo play/pause, stop, optional back-to-top).
+ * (circular indigo play/pause, stop when session active, seek, settings).
  */
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
@@ -10,7 +10,18 @@ import {
   IconPause,
   IconStop,
   IconChevronUp,
+  IconSettings,
 } from 'hooks/client/components/Icons.jsx'
+
+const DEFAULT_VOICE = 'en_US-lessac-medium'
+
+/** Known Piper ids (gateway /voices may offer a subset). */
+const PIPER_VOICES = [
+  { id: 'en_US-lessac-medium', label: 'Lessac (US)' },
+  { id: 'en_GB-cori-medium', label: 'Cori (GB)' },
+  { id: 'en_US-amy-medium', label: 'Amy (US)' },
+  { id: 'en_US-libritts-high', label: 'LibriTTS (US)' },
+]
 
 function articlePlainText() {
   try {
@@ -93,6 +104,12 @@ function scrollToTop() {
   } catch (e3) {}
 }
 
+function clamp(n, lo, hi) {
+  if (n < lo) return lo
+  if (n > hi) return hi
+  return n
+}
+
 /** Bottom playback dock — Piper via @relay/tts (client-live only). */
 export default function ArticleTtsDock() {
   const live = isClientLive() === true
@@ -120,6 +137,15 @@ export default function ArticleTtsDock() {
   const scrollState = useState(false)
   const scrolled = scrollState[0]
   const setScrolled = scrollState[1]
+  const expandedState = useState(false)
+  const expanded = expandedState[0]
+  const setExpanded = expandedState[1]
+  const voiceState = useState(DEFAULT_VOICE)
+  const voiceId = voiceState[0]
+  const setVoiceId = voiceState[1]
+  const seekState = useState(-1)
+  const seekValue = seekState[0]
+  const setSeekValue = seekState[1]
 
   useEffect(() => {
     if (!live) return
@@ -143,6 +169,8 @@ export default function ArticleTtsDock() {
     setPlaying(false)
     setSrc('')
     setSentenceIdx(0)
+    setSentences([])
+    setSeekValue(-1)
     setCmdSeq(cmdSeq + 1)
   }
 
@@ -159,7 +187,7 @@ export default function ArticleTtsDock() {
     try {
       const dataUrl = synthesize({
         text: chunk.text,
-        voiceId: 'en_US-lessac-medium',
+        voiceId: voiceId,
       })
       if (typeof dataUrl !== 'string' || dataUrl.length === 0) {
         setErr('TTS returned empty audio')
@@ -217,10 +245,21 @@ export default function ArticleTtsDock() {
     playFrom(sentences, sentenceIdx)
   }
 
+  function onSeekCommit(idx) {
+    if (!sentences || sentences.length === 0) return
+    const i = clamp(idx, 0, sentences.length - 1)
+    setSeekValue(-1)
+    setPlaying(false)
+    setSrc('')
+    setSentenceIdx(i)
+    setCmdSeq(cmdSeq + 1)
+    playFrom(sentences, i)
+  }
+
   if (!live) {
     return (
       <div
-        className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible"
+        className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible pt-client-only"
         hidden={true}
         aria-hidden="true"
         data-pt-tts-css="true"
@@ -228,26 +267,23 @@ export default function ArticleTtsDock() {
         <span
           aria-hidden="true"
           hidden={true}
-          className="pt-tts-panel pt-tts-dock-row pt-tts-play pt-tts-stop pt-tts-top pt-tts-status pt-tts-err pt-tts-count"
+          className="pt-tts-panel pt-tts-dock-row pt-tts-play pt-tts-stop pt-tts-top pt-tts-settings pt-tts-seek-wrap pt-tts-count pt-tts-err pt-tts-settings-strip"
         />
       </div>
     )
   }
 
-  let status = 'Ready'
-  if (busy) status = 'Synthesizing…'
-  else if (playing) status = 'Playing'
-  let countLabel = ''
-  if (sentences && sentences.length > 0) {
-    let shown = sentenceIdx
-    if (shown < 1) shown = 1
-    if (shown > sentences.length) shown = sentences.length
-    countLabel = shown + ' / ' + sentences.length
-  }
+  const sessionActive = sentences && sentences.length > 0
+  let displayIdx = sentenceIdx
+  if (seekValue >= 0) displayIdx = seekValue
+  displayIdx = clamp(displayIdx, 0, sessionActive ? sentences.length - 1 : 0)
+  let countShown = displayIdx + 1
+  if (countShown < 1) countShown = 1
+  if (sessionActive && countShown > sentences.length) countShown = sentences.length
 
   return (
     <div
-      className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible"
+      className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible pt-client-only"
       data-pt-tts-dock="true"
     >
       {err.length > 0 ? <div className="pt-tts-err">{err}</div> : null}
@@ -257,21 +293,24 @@ export default function ArticleTtsDock() {
             type="button"
             className="pt-tts-play"
             disabled={busy}
+            aria-busy={busy ? 'true' : 'false'}
             onClick={onPlayToggle}
             aria-label={playing ? 'Pause' : 'Play article'}
-            title={playing ? 'Pause' : 'Play article (Piper)'}
+            title={busy ? 'Synthesizing…' : playing ? 'Pause' : 'Play article (Piper)'}
           >
             {playing ? <IconPause /> : <IconPlay />}
           </button>
-          <button
-            type="button"
-            className="pt-tts-stop"
-            onClick={onStopClick}
-            aria-label="Stop"
-            title="Stop"
-          >
-            <IconStop />
-          </button>
+          {sessionActive ? (
+            <button
+              type="button"
+              className="pt-tts-stop"
+              onClick={onStopClick}
+              aria-label="Stop"
+              title="Stop"
+            >
+              <IconStop />
+            </button>
+          ) : null}
           {scrolled ? (
             <button
               type="button"
@@ -285,12 +324,76 @@ export default function ArticleTtsDock() {
               <IconChevronUp />
             </button>
           ) : null}
-          {countLabel.length > 0 ? (
-            <span className="pt-tts-count">{countLabel}</span>
-          ) : (
-            <span className="pt-tts-status">{status}</span>
-          )}
+          {sessionActive ? (
+            <div className="pt-tts-seek-wrap">
+              <input
+                type="range"
+                className="pt-tts-seek"
+                min={0}
+                max={sentences.length - 1}
+                step={1}
+                value={displayIdx}
+                aria-label="Seek position in article"
+                onChange={(e) => {
+                  let v = 0
+                  try {
+                    v = parseInt(e.target.value, 10)
+                  } catch (err2) {
+                    v = 0
+                  }
+                  if (typeof v !== 'number' || v !== v) v = 0
+                  setSeekValue(v)
+                }}
+                onMouseUp={() => {
+                  if (seekValue >= 0) onSeekCommit(seekValue)
+                }}
+                onTouchEnd={() => {
+                  if (seekValue >= 0) onSeekCommit(seekValue)
+                }}
+              />
+              <span className="pt-tts-count">
+                {countShown + ' / ' + sentences.length}
+              </span>
+            </div>
+          ) : null}
+          <button
+            type="button"
+            className={
+              expanded
+                ? 'pt-tts-settings pt-tts-settings-open'
+                : 'pt-tts-settings'
+            }
+            onClick={() => {
+              setExpanded(!expanded)
+            }}
+            aria-label="TTS settings"
+            aria-expanded={expanded ? 'true' : 'false'}
+            title="TTS settings"
+          >
+            <IconSettings />
+          </button>
         </div>
+        {expanded ? (
+          <div className="pt-tts-settings-strip">
+            <div className="pt-tts-setting">
+              <span className="pt-tts-setting-label">Voice</span>
+              <select
+                className="pt-tts-setting-select"
+                value={voiceId}
+                onChange={(e) => {
+                  setVoiceId(e.target.value)
+                }}
+                aria-label="Piper voice"
+              >
+                {PIPER_VOICES.map((v) => (
+                  <option key={v.id} value={v.id}>
+                    {v.label}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+        ) : null}
       </div>
       {src.length > 0 ? (
         <AudioPlayer
