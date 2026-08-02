@@ -2,7 +2,7 @@
 
 ![Richard Gage / AE911Truth — investigation header graphic](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
-> **TL;DR:** Structural/forensic lane around **Richard Gage** / **AE911Truth** (controlled demolition WTC 1/2/7) plus NIST/*PM* counters, platform actions, **Judy Wood / DEW** hangout fracture (**project rejects DEW**), and **nonprofit open-air containment**. **Author update (2026-08-01):** Gage’s Substack + ***9/11: Crime Scene to Courtroom*** push an **Epstein-files-style name / shame / grand-jury / “identify and indict”** path — **major CO flag**. **Same flag, Oct 7 mirror:** RG911 restacks Corbett that the wildest Oct 7 “conspiracy theories” are those **promoted by U.S. and Israeli governments** — read here as **Democrat-aligned perp walk against Bibi**. Related FF chain (France / Vegas / *Children of Men* / CIA rebrand war): [related false flags dossier](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md). **Second flag:** resistance to **NSA-aligned / interagency** debate. **Author alternative:** sanctioned inside job → **deductive truth now**, not arrest theater; **Trump survival** as end-state. Anchors: [Epstein research call](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research); [C2C](https://911c2c.org/); [§12](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08). Cross-read [09-11](09-11-investigation.md); [Epstein × 9/11](./epstein-blackmail-network-9-11-crosslinks-investigation.md).
+> **TL;DR:** Structural/forensic lane around **Richard Gage** / **AE911Truth** (controlled demolition WTC 1/2/7) plus NIST/*PM* counters, platform actions, **Judy Wood / DEW** hangout fracture (**project rejects DEW**), and **nonprofit open-air containment**. **Author update (2026-08-01):** Gage’s Substack + ***9/11: Crime Scene to Courtroom*** push an **Epstein-files-style name / shame / grand-jury / “identify and indict”** path — **major CO flag**. **Same flag, Oct 7 mirror:** RG911 restacks Corbett that the wildest Oct 7 “conspiracy theories” are those **promoted by U.S. and Israeli governments** — read here as **Democrat-aligned perp walk against Bibi**. **Confirm (2026-08-02):** author **banned** from Gage’s Substack (“**100 years**”) after **zero substantive replies** to necessary-inside-job / anti–Deep-State-silencing pushback — **page = CO** (Gage’s self-image **irrelevant**). Related FF chain: [related false flags dossier](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md). **Second flag:** resistance to **NSA-aligned / interagency** debate. Anchors: [Epstein research call](https://richardgage911.substack.com/p/911-and-epstein-a-call-for-research); [C2C](https://911c2c.org/); [§12](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08) · [§12.6 ban](#126-substack-ban--zero-engagement--co-confirmation-author-2026-08-02). Cross-read [09-11](09-11-investigation.md); [Epstein × 9/11](./epstein-blackmail-network-9-11-crosslinks-investigation.md).
 
 ## Scope, evidence limits, and cross-links
 
@@ -20,7 +20,7 @@
 1. [Gage / AE911Truth institutional arc](#1-richard-gage-and-architects--engineers-for-911-truth) — includes org-as-CO thesis + open-air prison
 2. [Major CD claims vs NIST](#2-major-claims-gage--ae911truthstyle-bundle) · [§3](#3-mainstream-and-skeptical-counter-debunks)
 3. [Judy Wood / DEW fracture](#4-judy-wood-dew-and-poison-the-well-fracture)
-4. [**Perp-walk / Epstein-files CO flag (author)**](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08) ← **start here for 2026 sentiment** · includes [§12.5 Oct 7 / Bibi](#125-october-7--bibi-perp-walk-specimen-gage--corbett)
+4. [**Perp-walk / Epstein-files CO flag (author)**](#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08) ← **start here for 2026 sentiment** · [§12.5 Oct 7 / Bibi](#125-october-7--bibi-perp-walk-specimen-gage--corbett) · [§12.6 Substack ban](#126-substack-ban--zero-engagement--co-confirmation-author-2026-08-02)
 5. [Author’s open claims](#13-authors-open-claims) · [Questions](#14-questions-to-clarify-verify-or-debunk)
 6. Related FF chain → [Oct 7 / France / Vegas / *Children of Men*](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md)
 7. Platform / Loose Change / no-planes / steel / building history → §§5–10
@@ -381,6 +381,36 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 
 **Discipline:** This does **not** prove Oct 7 had zero Hamas agency. It flags **Gage’s method**: convert Oct 7 into **govt-liar / Bibi-purge** energy instead of **interagency / antibody** deduction.
 
+### 12.6 Substack ban / zero engagement — CO confirmation (author, 2026-08-02)
+
+![Richard Gage Substack — FDNY thread; author replies; 100-year comment ban](richard-gage-substack-ban-fdny-thread-2026-08.png?w=900 '{"className":"rounded-md m-auto"}')
+
+**Author (verbatim capture):**
+
+> I got banned on Richard Gage’s page. He responded to **zero** of my replies. This **confirms** my suspicion that his page is **controlled opposition** (even if he himself thinks he is not. **That is irrelevant** at this point).
+
+**Documented thread grammar (screenshot above — FDNY / silence thread on Gage Substack, ~Aug 2026):**
+
+| Beat | Detail |
+|------|--------|
+| **Third-party ask** | *The Family Industrial Complex*: “Are there any FDNY witnesses to explosions to speak?” |
+| **Author reply (substance)** | Witnesses **disappeared / went silent** — not because Gage’s “compromised by evil agenda” read, but because they were **individually told 9/11 was a necessary inside job** and **chose** to go along; Gage **doesn’t understand this** → suspicion |
+| **Gage on thread** | One-word public reply to the FDNY question: **“Yes!”** — **no** engagement with author’s necessary-inside-job / choice frame |
+| **Author follow-up to Gage** | Why silence in the end? Not “SILENCED by the DEEP STATE” Democrat talking points — real history available to anyone willing to read |
+| **Platform outcome** | UI on both author reply boxes: **“You are banned from commenting until 100 years from now.”** |
+| **Engagement score** | Author: **zero** substantive replies from Gage to the author’s posts |
+
+**What this means (author unpack)**
+
+| Claim | Unpack |
+|-------|--------|
+| **Page = CO** | Ban + non-engagement after **deductive / antibody** pushback is **containment behavior** — keep forensics / witness theater; **eject** sanctioned-inside-job synthesis |
+| **Sincerity irrelevant** | Whether Gage **believes** he is a truth-seeker does **not** change **function**: the **page** will not host the debate that would break the ceiling |
+| **Flag #2 hardened** | Prior “resistance to NSA / interagency debate” was open; **ban after necessary-inside-job challenge** is a **hard specimen** |
+| **Witness silence read** | Author: **choice under necessity brief**, not Deep State kidnapping narrative Gage’s lane implies |
+
+**Tier:** Ban UI + thread text = **documented (author primary / screenshot)**. “Page is CO” = **author confirmation** of prior suspicion — **not** a confession from Gage or a Substack policy memo.
+
 ---
 
 ## 13. Author’s open claims
@@ -388,13 +418,15 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 1. **Perp-walk / name-shame / “identify and indict the perpetrators”** advocacy on 9/11 is a **major controlled-opposition flag**, including when the speaker is sincere.
 2. **Gage** (and the **C2C / LC911** lane) currently trips that flag via **Epstein-dump research calls** and **grand-jury film** grammar.
 3. **Gage’s Oct 7 / Corbett restack** trips the **same flag** as a **Democrat-aligned Bibi perp walk**.
-4. **AE911Truth** was **CO from the start** (prior thesis); Gage may have been **sabotaged by the org** and **still run method-CO** after 2021 — both can be true.
-5. 9/11 as **government/military-sanctioned inside job** is **not** correctly processed as ordinary **illegal** conspiracy ripe for **perp walks**.
-6. **Deductive public truth** does **not** require mass arrests, testimony theater, or new official investigations.
-7. **Trump survival** (and protection of those under that umbrella) is the realistic **closure geometry**.
-8. **Refusal to debate NSA-aligned / interagency** frames is **CO flag #2**.
-9. **Most modern 9/11 movements** share the perp-walk / forever-forensics subtext and are therefore **CO-shaped**.
-10. **Oct 7 / France / Vegas** belong on the **related false-flag** board — see [related FF dossier](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md).
+4. **Gage’s Substack page is controlled opposition** (2026-08-02 confirm) — **ban + zero replies** to necessary-inside-job pushback; **Gage’s self-image is irrelevant**.
+5. **AE911Truth** was **CO from the start** (prior thesis); Gage may have been **sabotaged by the org** and **still run method-CO** after 2021 — both can be true.
+6. 9/11 as **government/military-sanctioned inside job** is **not** correctly processed as ordinary **illegal** conspiracy ripe for **perp walks**.
+7. **FDNY / first-responder silence** (where it occurred) is better read as **chosen compliance** after a **necessity** brief than as **Deep State silencing** theater.
+8. **Deductive public truth** does **not** require mass arrests, testimony theater, or new official investigations.
+9. **Trump survival** (and protection of those under that umbrella) is the realistic **closure geometry**.
+10. **Refusal to debate NSA-aligned / interagency** frames is **CO flag #2** — now with a **ban specimen**.
+11. **Most modern 9/11 movements** share the perp-walk / forever-forensics subtext and are therefore **CO-shaped**.
+12. **Oct 7 / France / Vegas** belong on the **related false-flag** board — see [related FF dossier](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md).
 
 ---
 
@@ -402,12 +434,13 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 
 | # | Question | How to adjudicate |
 |---|----------|-------------------|
-| Q1 | Does Gage ever **engage** NSA/CIA two-camp or antibody framing in **long-form** (not one-line dismissal)? | Substack / conference archive audit 2021–2026 |
+| Q1 | Does Gage ever **engage** NSA/CIA two-camp or antibody framing in **long-form** (not one-line dismissal)? | Substack / conference archive audit 2021–2026 — **Aug 2026 ban** already shows **page-level** refusal of related pushback ([§12.6](#126-substack-ban--zero-engagement--co-confirmation-author-2026-08-02)) |
 | Q2 | Exact **C2C** episode scripts — how often **“indict / arrest / perpetrators”** vs pure **mechanism**? | Episode transcripts when released |
 | Q3 | Did Gage **personally** write the Epstein “conspirators” CTA or only host volunteer-team copy? | Byline / editorial note on Feb 2026 post |
 | Q4 | Is there a **Gage** piece that **rejects** criminalization and chooses **public deduction only**? | If found, **weaken** Flag #1 for that text |
 | Q5 | LC911 petition text — what **charging theories** (murder, terrorism, conspiracy) vs **civil** inquiry? | [LC911 grand-jury petition materials](https://www.lawyerscommitteefor9-11inquiry.org/grand-jury-petition-executive-summary/) |
 | Q6 | Exact **Corbett** Oct 7 piece behind the Gage restack — thesis vs paraphrase? | Archive video/article; [related FF Q1](./related-false-flags-911-oct7-france-vegas-children-of-men-investigation.md#10-questions-to-clarify-verify-or-debunk) |
+| Q7 | Is the **100-year** ban publisher-side (Gage) vs Substack trust/safety automation? | Irrelevant to author **function** read; optional for ops curiosity |
 
 ---
 
@@ -423,9 +456,9 @@ Sources: [Wikipedia — Original World Trade Center (1973–2001)](https://en.wi
 - [ic911a.org / 9/11 Revisionist — DEW hangout CO dossier](./ic911a-911revision-controlled-opposition-investigation.md)
 - [Platform blocks — Instagram / Substack Jun 2026](/influence/censorship/platform-blocks-instagram-substack-2026-06.md)
 
-Keywords: #RichardGage #AE911Truth #ControlledDemolition #NineEleven #Physics #Forensic #NoPlanes #WTC7 #Censorship #ControlledOpposition #Covid #OpenAirPrison #NonprofitContainment #JudyWood #DEW #Dustification #PoisonTheWell #ExtremeHangout #Thermite #PerpWalk #EpsteinFiles #CrimeSceneToCourtroom #GrandJury #LawyersCommittee #NSA #Interagency #October7 #Netanyahu #Bibi #CorbettReport
+Keywords: #RichardGage #AE911Truth #ControlledDemolition #NineEleven #Physics #Forensic #NoPlanes #WTC7 #Censorship #ControlledOpposition #Covid #OpenAirPrison #NonprofitContainment #JudyWood #DEW #Dustification #PoisonTheWell #ExtremeHangout #Thermite #PerpWalk #EpsteinFiles #CrimeSceneToCourtroom #GrandJury #LawyersCommittee #NSA #Interagency #October7 #Netanyahu #Bibi #CorbettReport #SubstackBan
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-02*
 
 ---
 
@@ -434,8 +467,10 @@ Keywords: #RichardGage #AE911Truth #ControlledDemolition #NineEleven #Physics #F
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers above adjudicate specific claims.
 
 - **Author thesis (§12–§13)** is **first-class** pattern language for this project and is **not** automatically factual; **no** claim here that Gage is a **named paid asset**.
-- **CO flag** attaches to **method** (perp-walk / indictment theater / Epstein-proximity hunting; refusal of interagency debate), not to every **forensic CD** sentence Gage has uttered.
+- **CO flag** attaches to **method** (perp-walk / indictment theater / Epstein-proximity hunting; refusal of interagency debate; **ban after antibody pushback**), not to every **forensic CD** sentence Gage has uttered.
+- **Sincerity:** Author explicitly treats Gage’s **self-belief** as **irrelevant** to **page function** ([§12.6](#126-substack-ban--zero-engagement--co-confirmation-author-2026-08-02)).
 - **Fiction / film series ≠ conviction:** *Crime Scene to Courtroom* is **advocacy media**, not a sitting grand jury verdict.
+- **Ban UI** is **author-primary** (screenshot); Substack may change copy; do not invent a published ban reason.
 - Cross-links to good-actor / NSA theses are **thematic**, not proof that Gage knows and rejects those frames.
 
 ---
@@ -443,6 +478,7 @@ Keywords: #RichardGage #AE911Truth #ControlledDemolition #NineEleven #Physics #F
 ## Investigator notes
 
 - Session 2026-08-01: author voice-note on Gage CO / Epstein perp-walk / Trump end-state captured in §12; C2C + Feb 2026 Epstein post used as primary anchors.
+- Session 2026-08-02: Substack ban screenshot shipped as `richard-gage-substack-ban-fdny-thread-2026-08.png` (replaces earlier Cursor-asset capture); FDNY thread; “100 years”; zero replies; author CO confirm.
 - Keywords normalized to Option B PascalCase (prior split tags `#Controlled #Demolition` etc. were invalid for `check-keywords`).
 - Prior incomplete PATCO presidency edit (Jul 26 session) is a **separate** file — not this dossier.
 
