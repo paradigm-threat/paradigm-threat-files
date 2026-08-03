@@ -1,6 +1,6 @@
 # Cherokee Moors Meme — Delaware Lenape “Moor” Label, Photo Forensics, and Three Moor Lanes
 
-![Cherokee Moors viral meme — framed studio portrait with overlay text (study copy)](cherokee-moors-lenape-delaware-moor-label-investigation.png)
+![Delaware Moors — Lenape-associated Kent County paper trail (Cheswold / Smithsonian 1948)](delaware-moor-label-investigation.png)
 
 > **TL;DR:** **Author locks (2026-08-03):** Delaware **“Moor”** paper trail = **clear redaction** of an **African–Indian–Moor connection** (**erased, then erased again**); **Civil War classroom canon** is the erasure test ([REDACTION.md](/docs/REDACTION.md) **R1/R5**); free / non-slave Africans **marrying into Native nations** dropped from that pedagogy. The June 2026 **“Cherokee Moors”** meme is **deliberately wrong** — **controlled opposition / honeypot**. **Prerequisite (§0.3 / AU-043):** none of this (or “Spanish/African Moors = American Moors”) makes sense **without** the **first redaction** — erasure of the **Rus-Horde world empire** (plurality, intermarriage, long peace, stone architecture), which required **massive physical** wipe ([MFEE](/history/mudflood/investigations/mfee-investigation.md), buried/forgotten pyramids) and ends in the **post–Civil War Black/White** filter. **Documented:** 29 Del. C. § 106, 1921 Moor schools, Gilbert 1948. **Do not merge** Delaware Lenape Moors with Cherokee Nation ethnography. Full stack: [moorish §7b](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md), [europe §2c](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), **AU-042**, **AU-043**.
 
@@ -99,9 +99,9 @@ Canonical vocabulary: [docs/REDACTION.md](/docs/REDACTION.md).
 
 ## 1. Meme artifact (archived in repo)
 
-**Source:** Facebook / “Sacred Spaces · Native Flute Ensemble” style share, June 2026; hashtag **`#charlesformosa`**.
+**Source (viral plate):** Facebook / “Sacred Spaces · Native Flute Ensemble” style share, June 2026; hashtag **`#charlesformosa`**.
 
-**Overlay text (verbatim from image):**
+**Original viral overlay text (verbatim — June 2026 share; no longer stored as a separate PNG):**
 
 - Header: **“Cherokee Moors.”**
 - Subhead: **“The REAL BLACK History”**
@@ -110,11 +110,20 @@ Canonical vocabulary: [docs/REDACTION.md](/docs/REDACTION.md).
 
 **Accompanying post caption (paraphrased):** North American **Lenape Moors**; Moors as teachers of natural medicine; tags `#iroquois #moors #yamasee #comanche #tamarie`.
 
-**Geography ambiguity (do not merge):** **Image** claims **Cherokee / Oklahoma / 1890s**; **thread** often cites **Delaware Lenape “Moor” law** (Cheswold, Kent County). **Same meme genre** — **not** the same claim. Validating **§ 106** does **not** authenticate **this plate**.
+**Geography ambiguity (do not merge):** The **viral** image claimed **Cherokee / Oklahoma / 1890s**; the **thread** often cites **Delaware Lenape “Moor” law** (Cheswold, Kent County). **Same meme genre** — **not** the same claim. Validating **§ 106** does **not** authenticate the sitters as Cherokee. Under **§0.1 L5**, that geography jump is the **controlled-opposition** paste.
 
-**Study copy:** `cherokee-moors-lenape-delaware-moor-label-investigation.png` (this file).
+**CO / forensic study plate (`cherokee-moors-lenape-delaware-moor-label-investigation.png`, 2026-08-03):** same framed portrait + `#charlesformosa` plate; overlays rewritten to mark the Oklahoma caption as the honeypot and point to Delaware:
 
-**Visual read:** Eleven subjects, formal **studio cabinet-card** aesthetic (dark backdrop, Victorian dress), consistent with **Indian Territory / Oklahoma** portrait practice **circa 1890–1900** — but **studio genre alone does not prove** tribe, blood quantum, or “Moor” identity.
+![CO forensic plate — Oklahoma Cherokee Moors caption marked MISCAPTION / honeypot](cherokee-moors-lenape-delaware-moor-label-investigation.png)
+
+- Header retained: **“Cherokee Moors.”** (names the viral claim under audit)
+- Stamp: **“MISCAPTION”**
+- Body: **“Oklahoma ‘Cherokee Moors’ caption = honeypot”** / **“Real paper trail: Delaware Lenape called ‘Moors’”** / **“Cheswold / Kent County — not Cherokee Nation 1890s”**
+- Footer: **“Refuting the meme ≠ closing Delaware Moor redaction”**
+
+**Author plate (dossier hero + reader essays — `delaware-moor-label-investigation.png`):** assertive Delaware Lenape Moor caption — **“Delaware Moors.”** / Kent County Cheswold paper trail / Smithsonian 1948. This is the image used outside the CO callout.
+
+**Visual read:** Formal **studio cabinet-card** aesthetic (dark backdrop, Victorian dress), consistent with late-19th-century portrait practice — **studio genre alone does not prove** tribe, blood quantum, or “Moor” identity. Accession for the sitters remains **open** (§8).
 
 ---
 
@@ -239,7 +248,7 @@ The meme is **controlled-opposition bait** (§0.1 L5) built on a **real** catego
 
 ## 8. Open questions (not reopening locks)
 
-- [ ] Reverse-image search: accession for `cherokee-moors-lenape-delaware-moor-label-investigation.png`
+- [ ] Reverse-image search: accession for sitters (crop from `cherokee-moors-lenape-delaware-moor-label-investigation.png` / `delaware-moor-label-investigation.png`)
 - [ ] Dawes roll cross-check if sitter names surface
 - [ ] **`charlesformosa`** account — prior meme catalog patterns (CO network map)
 - [ ] Compare Gilbert 1948 **family-name list** to modern Lenape enrollment surnames
@@ -272,4 +281,4 @@ The meme is **controlled-opposition bait** (§0.1 L5) built on a **real** catego
 
 Keywords: #Cherokee #Lenape #Delaware #Moor #Moors #IndianTerritory #Oklahoma #CherokeeFreedmen #Smithsonian1948 #RaceLabels #MemeForensics #ControlledOpposition #RusHorde #MFEE #AU042 #AU043 #LLMRefusal #ChatGPT #ParadigmThreatFiles
 
-**Last updated:** 2026-08-03
+**Last updated:** 2026-08-03T10:38:37-04:00

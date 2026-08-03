@@ -38,7 +38,7 @@ Once the Horde was gone, the splinters remained: religions, tribes, mixed towns,
 
 Delaware’s legal “Moor” slot for Lenape-associated people, the Civil War classroom’s Black/White binary, and the later forgetting of even that Moor label are late American filters on the same program. Lenape speech need not be fake; what is fake is the story that it grew in isolation after the empire fell. Without Horde erasure first, “Spanish Moors or African Moors as American Moors” hits a wall of fake isolation. With it, the wall is the redaction. The viral “Cherokee Moors” meme pastes an Oklahoma caption onto a Delaware Lenape Moor-law trail; that packaging is controlled opposition, not recovery of the erased lane.
 
-![Cherokee Moors viral meme — Oklahoma caption pasted onto a Delaware Lenape Moor law trail](https://paradigmthreat.net/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png)
+![Delaware Moors — Lenape-associated Kent County Cheswold paper trail](https://paradigmthreat.net/history/chronology/investigations/delaware-moor-label-investigation.png)
 
 ## Natives against Natives
 
@@ -103,7 +103,7 @@ On 2026-08-03, ChatGPT refused to create a hero image for this thesis when the c
 
 Keywords: #NoneOfThemSurvived #RedCloud #RedCloudsWar #FortLaramie1868 #WarTribes #Reservations #ConcentrationCamps #RusHorde #MFEE #DelawareMoors #CherokeeMoors #NativeAuxiliaries #Monotheism #GreatSpirit #Franklin #SlaveBible #Protestantism #ShipOfFools #MartinLuther #LLMRefusal #ChatGPT #ParadigmThreatFiles
 
-**Last updated:** 2026-08-03T10:05:36-04:00
+**Last updated:** 2026-08-03T10:38:37-04:00
 
 ---
 

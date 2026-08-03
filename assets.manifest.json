@@ -7292,10 +7292,16 @@
     {
       "id": "history_chronology_investigations_cherokee-moors-lenape-delaware-moor-label-investigation.png",
       "path": "history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png",
-      "ipfs": "bafybeiguiwrc3g2et5jztj6eifxudtzsa26duuyjkfgizydbdqyfj7ayne",
       "contentType": "image/png",
-      "sha256": "94451bd2bd7158a9c026d7aea0fac9669a01767277392c646f39441a33d38a40",
-      "bytes": 323549
+      "sha256": "ab6d05458a88cc5f5b8ad8b596525107fd1c1d9278080ed717fc511f3d391aaf",
+      "bytes": 1521224
+    },
+    {
+      "id": "history_chronology_investigations_delaware-moor-label-investigation.png",
+      "path": "history/chronology/investigations/delaware-moor-label-investigation.png",
+      "contentType": "image/png",
+      "sha256": "04c58d41f16b45ef247ea0be07cd5d26385efd00d004b4659a0a206fddfb2877",
+      "bytes": 2944828
     },
     {
       "id": "history_chronology_investigations_etana-sumerian-king-list-saturnian-investigation.png",
