@@ -98,7 +98,7 @@ Mainstream cartography treats the join as explorer confusion. Under this chronol
 
 Gastaldi himself later introduced the **Strait of Anian** (1562 pamphlet), separating America from Asia — a **paper revision** that precedes the physical MFEE but foreshadows the post-event world model. After ~1774, the join is gone on official maps and the Pacific appears as a vast empty ocean.
 
-**Related:** [Tartarian maps investigation](tartarian-maps-investigation.md) | [MudFlood main article](../page.md) | [New World naming & colonization memory](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md)
+**Related:** [Tartarian maps investigation](tartarian-maps-investigation.md) | [MudFlood main article](../page.md) | [New World naming & colonization memory](/history/chronology/investigations/new-world-naming-mfee-and-colonization-memory.md) | **Horde-first redaction → Moor/Civil War filter:** [Cherokee §0.3 / AU-043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) (physical wipe as enabling condition for later race-bin redaction)
 
 ---
 

@@ -34,7 +34,7 @@
 
 ## 0. Method — investigating redacted truth, not meme forensics
 
-**Repo rule:** This dossier **tests whether the author’s claims can be true under redaction**, not whether a social-media collage is a primary source. Per [Cherokee / Moorish cluster method](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md §0): name **handbook baselines**, keep **author thesis first-class**, and **do not** treat easy debunk of viral art as **closure** on the stratum behind the garble.
+**Repo rule:** This dossier **tests whether the author’s claims can be true under redaction**, not whether a social-media collage is a primary source. Per [Cherokee / Moorish cluster method](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) **§0 / §0.1**: name **handbook baselines**, keep **author thesis first-class**, treat **CO memes** as deliberate traps (**AU-042**), and **do not** treat easy debunk of viral art as **closure** on the stratum behind the garble.
 
 **Honeypot risk (qualified):** Shares that glue **Tartaria + Moor + NYC** into one AI tableau are **easy to laugh off**. Debunkers may stop at “fake art” and never ask whether **Wall Street’s wall** or **pre–Civil War Atlantic sovereignty labels** were **substituted**. This file **does not** validate Meru-as-census-king from the poster; it **keeps the redaction question open**.
 
@@ -313,7 +313,7 @@ Registered in [author-unique theories](/history/chronology/investigations/author
 
 Keywords: #Amaruka #KhanMeru #WallStreet #OttomanWall #NewAmsterdam #DutchShell #MoorishKing #BlackKingGeorge #BlackMeansEastern #Tartaria #Redaction #ParadigmThreatFiles #AU038
 
-**Last updated:** 2026-07-24
+**Last updated:** 2026-08-03
 
 ---
 

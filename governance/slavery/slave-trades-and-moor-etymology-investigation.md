@@ -135,6 +135,8 @@ After the fracture:
 
 **Author's sentiment:** The irony is that the old Serbian/Slavic empire — often portrayed in mainstream historiography as "Mongol hordes" or "oriental despotism" — may have been *more* humane than what followed. The splinter states, freed from Imperial constraint and driven by competition, engaged in mass enslavement, genocide, and resource extraction on a scale the unified order had no structural motive to pursue. The worst crimes of the modern era were committed not by the empire but by the **splinter empires and detached aristocracies** that replaced it. Once again this world-wide networked behavior is evidence of a Deep State influence, even if it only traces back to protestant literature.
 
+**Cluster lock (2026-08-03 — AU-043):** Erasing this world empire is the **first redaction**. Later American Moor / Civil War Black-White filters are **downstream** — see [Cherokee §0.3](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md). Horde-era **plurality and intermarriage** is why Spanish/African/American Moor continuity is even thinkable; isolation handbooks are part of the wipe.
+
 ### Validation Status
 
 | Claim | Status |
@@ -250,7 +252,7 @@ After the fracture:
 
 - [Franklin “Palatine Moors” screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — Circulated book page vs authentic *Observations* (1751); Boors/Moors forensics; Palatine settlers inside British colonial slavery; Anna’s Archive book hunt.
 - [Europe: white bloodline, complexion, whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) — Status vs pigment; Moor/swarthy taxonomy; Fomenko map erasure parallel.
-- [Cherokee Moors meme — Delaware Lenape “Moor” label](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) — **Validated:** 29 Del. C. § 106, 1921 Moor schools, Smithsonian 1948; **unverified:** Oklahoma “Cherokee Moors” photo; three Moor lanes.
+- [Cherokee Moors meme — Delaware Lenape “Moor” label (**AU-042**)](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) — **Validated:** 29 Del. C. § 106, 1921 Moor schools, Smithsonian 1948; **author locks:** curriculum redaction + Civil War erasure test; meme = **deliberate CO**; **not** Oklahoma ethnography; three Moor lanes.
 - [Promised land](/history/mudflood/investigations/promised-land-investigation.md) — 1492 expulsion + voyage + embed.
 - [Hidden History of Words](/history/chronology/the-hidden-history-of-words.md) — Spanish←span; Moscow/Mexico/mosque.
 

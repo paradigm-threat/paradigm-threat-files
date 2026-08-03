@@ -121,7 +121,7 @@ so the public forgets **migration, exodus, Horde fracture, and elite intermarria
 | **“Same people” literally** (every Moor = every German peasant) | **Overstated** — needs **elite genealogy** and regional nuance |
 | **Franklin “Palatine Moors”** | **Forensic sidebar** — shows **conflation** in modern books; **not** required for §2c |
 
-**Moor meme cluster (2026):** [Cherokee](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) and [ten-presidents](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) dossiers apply this **forced-split** frame to **American race law** — **refute memes literally**, test **§7b redaction thesis** separately. **Link does not imply meme validation.**
+**Moor meme cluster (2026; locks 2026-08-03):** [Cherokee §0.1–§0.3 / AU-042–043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) and [ten-presidents](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) apply this **forced-split** frame to **American race law** — **refute CO memes literally**, keep **Delaware curriculum redaction** locked, keep **Horde-first** as the enabling wipe (plurality / MFEE / terminal Black-White), test deeper ethnogenesis **separately**. **Link does not imply meme validation.**
 
 ---
 
@@ -290,7 +290,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 
 Keywords: #Europe #NorthAmerica #WhiteBloodline #Complexion #Whitewash #Fomenko #NewChronology #MudFlood #Atlantis #RusHorde #Swarthy #Moor #PalatineBoors #Columbus1492 #Indigenous #Nazism #ParadigmThreatFiles
 
-**Last updated:** 2026-05-20
+**Last updated:** 2026-08-03
 
 ---
 

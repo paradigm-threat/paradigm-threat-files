@@ -2,10 +2,10 @@
 
 ![Moorish ten presidents infographic — study copy](moorish-ten-presidents-liberia-record-investigation.png)
 
-> **TL;DR:** Infographic claims **ten Moorish men** were **real first U.S. presidents** and identities were **reassigned to Liberia** — **refuted literally** (§2). **This dossier tests the author’s thesis, not the meme:** **Moor** labels and **Horde–Ottoman iconography** (crescent, turban) point to **redacted Rus-Horde memory** (§2b, §10 — **interpretive only**, cited). **§2b does not rehabilitate** the ordinal hoax. **Honeypot read (qualified):** easily debunked **black-nationalist** paste may **trap** seekers so they never ask what was redacted. **Core investigation (§7b):** documented **African Moor presence in the Americas** collides with both the **“Redskins” autochthon** story and the **simplified racial-slavery** story — we assess how far **19th–20th c. eugenics/race taxonomy** falsified both official narratives.
+> **TL;DR:** Infographic claims **ten Moorish men** were **real first U.S. presidents** and identities were **reassigned to Liberia** — **refuted literally** (§2). **Cluster locks:** [Cherokee §0.1](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) (**AU-042**) + Horde-first prerequisite [§0.3](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) (**AU-043**) — without erasing the **Rus-Horde world empire** (plurality / intermarriage / stone peace), Spanish/African/American Moor continuity **hits a wall**; CO memes are **deliberately wrong**. **§2b** Horde iconography = **interpretive only**, does **not** rehab the ordinal hoax. **§7b** still tests African Moor presence vs Redskins + slavery binaries.
 
-**Status:** Open — meme archived; validation complete; provenance hunt for graphic author open.  
-**Date:** 2026-06-11
+**Status:** Open on graphic provenance; **literal meme refuted**; **CO / redaction / Horde-first locks** align with Cherokee dossier §0.1–§0.3.  
+**Date:** 2026-06-11 (cluster locks 2026-08-03)
 
 ---
 
@@ -31,7 +31,7 @@
 
 **Repo rule:** Viral memes are expected to carry **bad facts**, **arbitrary conflation**, **ordinal paste**, and **anachronism**. We **name what is wrong** (§2, §6) and **separately** test whether the **author’s redaction thesis** survives (§2b, §7b, §10). **If the thesis fails, it fails** — meme refutation does not automatically rescue it.
 
-**Honeypot read (qualified):** Some shares may be **designed to be easily disproved** so debunking **feels like closure** and fewer readers trace the **stratum behind the garble**. Infographics that **paste Liberia ordinals** onto **Confederation chairs** are a **high-risk** case for **black-nationalist** audiences: critics dismiss **all Moor-America memory** when only the **hoax layer** fails. **This file does not validate the meme** to compensate.
+**Controlled opposition (author lock, 2026-08-03 — align [Cherokee §0.1 L5](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md)):** Shares like this ordinal paste are **deliberately wrong** — **controlled opposition / honeypot**. Debunking **Liberia reassignment** is meant to feel like **closure** so fewer readers ask what **Moor / Horde** memory was redacted. Infographics that **paste Liberia ordinals** onto **Confederation chairs** are a **high-risk** trap for **black-nationalist** audiences: critics dismiss **all Moor-America memory** when only the **hoax layer** fails. **This file does not validate the meme** to compensate. **Erasure test:** if it is not in **Civil War / early republic classroom** teaching, it is **erased from history** for the public ([Cherokee §0.1 L3](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md)).
 
 **Horde iconography (critics often miss this):** Mocking **crescent + turban** stacks as pure **20th-c. MST novelty** ignores Fomenko’s **Rus-Horde ↔ Ottoman** record: **crescent with star** = branch of the **unified cross** after Christianity split [`05.html`](https://chronologia.org/en/how_it_was/05.html); **turbans and pagri** on **imperial eagles** (Cologne, Barbarossa, Conrad) because Hordian and Ottoman czar-khans **wore them** — later **reformed into crowns** [`08_14.html`](https://chronologia.org/en/how_it_was/08_14.html). **AI portraits dated to 1781** remain **refuted**; the **icon type** is not automatically absurd in a Horde frame.
 
@@ -110,7 +110,7 @@
 - **Ten** two-year Moorish names — Fomenko’s **“local first czar”** is **Andronicus-Christ** duplicated in **provincial chronicles**, not an ordinal list of **1840s Monrovia merchants**.
 - **Nat Turner El** — pure meme noise; **anachronism**.
 
-**One-line author read:** Folk channels sense **official succession is wrong**; without Horde grammar they rebuild it from **Moor + Liberia + president** tokens — **right unease, wrong transcript** (same pattern as **Palatine Moors** misquote and **Cherokee Moors** meme).
+**One-line author read:** Folk channels sense **official succession is wrong**; without Horde grammar they rebuild it from **Moor + Liberia + president** tokens — **right unease, wrong transcript** (same **CO** pattern as **Palatine Moors** misquote and **Cherokee Moors** meme — [AU-042](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md)).
 
 ---
 
@@ -207,7 +207,7 @@ Under the **Articles of Confederation**, the **President of the United States in
 | **Racial chattel slavery** — clean **white owner / black victim** cartoon; **Native** side separate | **Barbary white slavery**, **Atlantic Moor traders**, **Delaware tri-racial schools** break the **binary**; **Moor** often marks **status + empire**, not census **race** ([europe §2c](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md), Fomenko **Chermnaya → Chernaya** §10E) |
 | **Both** packaged in **19th–20th c. eugenics** vocabulary | **Huge counterfactual (author):** both narratives may be **largely falsified** — not “no suffering,” but **wrong ontology** — using **racist taxonomy** after **Horde fracture** and **Reformation map erasure** |
 
-**Repo stance:** **Open investigative** — gather **Tier A** labels (Delaware law, Gilbert 1948, Barbary record, Franklin **swarthy/tawny** rhetoric) and **refute meme hoaxes** without letting hoax-debunk **close** the **redaction** question. **Wrong is wrong** at meme level; **thesis** still needs its **own** evidence ladder (§8–9 open questions).
+**Repo stance:** **Author locks** on **curriculum redaction + CO memes** live in [Cherokee / Delaware §0.1](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) (**AU-042**). **Horde-first prerequisite** lives in [§0.3 / AU-043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) — later race redaction is **downstream** of wiping the **world empire** of plurality. This file keeps gathering **Tier A** labels (Delaware law, Gilbert 1948, Barbary record, Franklin **swarthy/tawny** rhetoric) and **refuting meme hoaxes** without letting hoax-debunk **close** the **redaction** question. **Wrong is wrong** at meme level; **thesis** still needs its **own** evidence ladder (§8–9 open questions) beyond the **classroom-erasure** definition.
 
 ---
 
@@ -322,6 +322,6 @@ Same section, Moscow **Golden Chamber**:
 
 ---
 
-Keywords: #Moorish #Liberia #JohnHanson #ArticlesOfConfederation #MemeForensics #Hoax #JosephRoberts #Fomenko #RusHorde #KingRhyme #ParadigmThreatFiles
+Keywords: #Moorish #Liberia #JohnHanson #ArticlesOfConfederation #MemeForensics #Hoax #JosephRoberts #Fomenko #RusHorde #KingRhyme #ControlledOpposition #MFEE #AU042 #AU043 #ParadigmThreatFiles
 
-**Last updated:** 2026-06-23
+**Last updated:** 2026-08-03

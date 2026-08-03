@@ -79,6 +79,7 @@ In [**New Chronology**](https://en.wikipedia.org/wiki/New_chronology_(Fomenko)) 
 3. Ask whether **suppression** (enforcement) or **redaction** (record shape) is the better label.  
 4. Distinguish **guild silence** (no follow-up paper) from **post-hoc PDF scrub** (rare; need edition proof).  
 5. Link **cross-case** rhymes ([Curie](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md), [virus isolation Track 2](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md), [Rife](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)) without collapsing mechanisms.
+6. **Order of operations (Moor / Americas cluster):** later race-bin and Civil War classroom redactions are **downstream** of erasing the **Rus-Horde world empire** — see [Cherokee §0.3 / AU-043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md). Do not demand Spanish/African/American continuity prove itself inside the **isolation handbook**.
 
 ---
 
@@ -90,8 +91,9 @@ In [**New Chronology**](https://en.wikipedia.org/wiki/New_chronology_(Fomenko)) 
 | Curie — flattening / martyrdom | [Marie Curie dossier §6.3–8](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) |
 | Flexner capture (class-level) | [Royal Rife §8](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md); [Tennant index](/science/health/tennant/index-tennant-healing-voltage.md) |
 | Vril — redaction potential | [Vril Society](/governance/war/investigations/vril-society.md) |
+| Horde-first → Moor / Civil War filter | [Cherokee / Delaware §0.3 AU-043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md); [MFEE](/history/mudflood/investigations/mfee-investigation.md) |
 | Investigation writing rules | [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) |
 
-**Keywords:** #Redaction #NarrativeRewrite #PriscaSapientia #ParadigmThreatFiles
+**Keywords:** #Redaction #NarrativeRewrite #PriscaSapientia #RusHorde #ParadigmThreatFiles
 
-**Last updated:** 2026-06-25
+**Last updated:** 2026-08-03
