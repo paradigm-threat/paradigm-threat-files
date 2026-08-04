@@ -111,15 +111,52 @@ Gastaldi himself later introduced the **Strait of Anian** (1562 pamphlet), separ
 
 ---
 
-## 5. Next Steps
+## 5. Gold hunger as control by Horde redaction alone (**AU-044**)
+
+**Registry:** **AU-044** — [author-unique theories](/history/chronology/investigations/author-unique-theories.md).  
+**Reader essay:** [None of Them Survived — gold section](/history/chronology/none-of-them-survived.md).
+
+### Author lock (2026-08-04)
+
+**Gold is a primary instrument of deep-state control that works by redaction alone.** Erase the memory that gold could be **made**, and you do not need to lift a finger or fire a bullet from the planning desk: within a few generations a predictable hunger appears. People break paper. Armies protect miners. Those without the metal can be driven, bought, or enslaved by those who hold it. On-the-ground consequences are **forecastable** because the belief was installed upstream.
+
+**Specimen:** U.S. treaties with Plains nations (Fort Laramie lane) did not price that hunger. Black Hills gold publicity (1874 onward) produced the stampede; soldiers protected miners against the treaty parties; the paper died. See [None of Them Survived](/history/chronology/none-of-them-survived.md).
+
+### Why people are vulnerable to this gold thought
+
+After the **Rus-Horde** world empire was erased (**AU-043**), memory of imperial **alchemy** — creating gold from other elements — fell into myth. That craft is named here the **philosopher’s stone**. Whether the stone also named a building material such as **concrete** remains **in dispute** (open). The load-bearing claim: once **making** gold is forgotten, gold looks rare and can only be **found**. “Gold mines” may be **buried golden cities** in America and elsewhere — melted Horde architecture misfiled as ore. Timeline / mudflood teaching already notes the striking correlation between **global gold-mine concentrations** and melted Tartarian / Horde city sites (§2 quote above; asset `goldmap_melted_cities.jpg`).
+
+Successor operators reasserting regional control **knew** gold was in those hills. A propaganda campaign was enough to convince the public to **betray** remaining Native treaty partners and open perpetual fight-and-enslavement chapters for gold. Redaction did the heavy lifting; the rush did the rest.
+
+### Evidence tiers (this §)
+
+| Piece | Tier |
+|-------|------|
+| Black Hills gold rush → treaty break / Army protection of miners | **Documented** public history |
+| Gold-mine map ↔ melted-city correlation (timeline / mudflood teaching) | **Investigative** — dataset still open (§6) |
+| Horde alchemy / philosopher’s stone as forgotten make-gold capacity | **Author lock** |
+| Philosopher’s stone = concrete | **Open dispute** |
+| American “mines” as buried golden cities | **Author lock** / open physical track |
+| Deep-state forecast that gold hunger enslaves non-holders | **Author lock** |
+
+### Cross-links
+
+- [None of Them Survived](/history/chronology/none-of-them-survived.md) — Black Hills specimen + manifesto gold section  
+- [Cherokee / AU-043 Horde-first](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) — prerequisite wipe  
+- [Radiocarbon / SAFIRE transmutation lane](/history/chronology/investigations/radiocarbon-dating-investigation.md) — adjacent modern claims that discharge can transmute elements (does **not** by itself prove Horde gold alchemy)
+
+---
+
+## 6. Next Steps
 
 - [ ] Extract and list all map figures from chronologia4 4N12-* and 4N14-* PDFs
 - [ ] Create comparison table: feature (e.g., Grand Canyon) | old map status | modern map | source
 - [ ] Download high-resolution versions of key maps (Blaeu, Ortelius, Britannica 1771) where possible
-- [ ] Trace gold-mine / melted-city correlation claim to specific datasets
+- [ ] Trace gold-mine / melted-city correlation claim to specific datasets (**AU-044** support)
 - [ ] Survey excavation reports for buried-building / mud-strata evidence (separate track)
 - [ ] Build Gastaldi → Ruscelli → Mercator revision table (Anian break, label migration)
 - [ ] Catalog Pacific bathymetry / submerged-structure anomalies against pre-MFEE coast maps
+- [ ] Philosopher’s stone / concrete lexical dispute — gather NC + alchemical primary cites
 
 ---
 
@@ -129,11 +166,14 @@ Gastaldi himself later introduced the **Strait of Anian** (1562 pamphlet), separ
 - [The MudFlood and World Cataclysm](/timeline/evt-the-mudflood-and-world-cataclysm)
 - paradigm-threat-files: `history/maps/`, `history/chronology/tartaria/`, `history/chronology/page.md`
 - wget/chronologia.org: `en/old_maps/`, `en/chronologia4/4N12-*.pdf`, `en/e_books/14_great_tartary.html`
+- [None of Them Survived](/history/chronology/none-of-them-survived.md) — **AU-044** reader specimen
 
 ---
 
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #MFEE #Evidence #Map #Changes #Over #Time
+Keywords: #MFEE #Gold #PhilosophersStone #Alchemy #AU044 #Evidence #Map #Changes #Over #Time
+
+**Last updated:** 2026-08-04
 

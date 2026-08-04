@@ -135,7 +135,7 @@ or *not* believing.
 * [Europe: white bloodline, complexion, whitewash](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) - Fomenko + author thesis; taxonomy of non-white labels; Atlantis/MFEE/Europe redoubt.
 * [Franklin "Palatine Moors" screenshot](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) - *Observations* (1751) text forensics; Boors vs Moors; book hunt; colonial/slave cross-links.
 * [Cherokee Moors / Delaware Lenape “Moor” label (**AU-042** / **AU-043**)](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) - Delaware Moor = curriculum redaction; CO meme; **Horde-first** prerequisite (plurality, MFEE physical wipe, terminal Black/White filter).
-* [None of Them Survived](/history/chronology/none-of-them-survived.md) - Peaceful bands erased; war tribes kept as camps and taught a new Great Spirit.
+* [None of Them Survived](/history/chronology/none-of-them-survived.md) - Peaceful bands erased; war tribes kept as camps; gold as control by redaction alone (**AU-044**).
 * [Moorish “ten presidents / Liberia by record” cluster](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) - Literal hoax refuted; CO lock aligns Cherokee §0.1; §7b Redskins + slavery narrative collision.
 * [Amaruka / Khan Meru & Wall Street Ottoman wall (AU-038)](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) - Open redaction: pre-Civil War Amaruka/Meru royalty; Wall Street as Ottoman Amaruka wall; Dutch New Amsterdam as shell.
 * [Giants, Infantry, Guerrilla, and the Children's Crusade](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) - Lexical and Horde-infantry thesis.
@@ -157,7 +157,7 @@ or *not* believing.
 * [Bilbo Mound and America's buried past](/history/mudflood/bilbo-mound-and-americas-buried-past.md) - Reader essay: catastrophe graves, MFEE hinge, generational scar, pro-American ancestry.
 * [Blood rain](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md) - Passat dust, Dust Bowl, post-mud-flood ecological shocks.
 * [Cargo Cults](/history/mudflood/investigations/cargo-cults-investigation.md) - Official history vs manna redaction and behavior.
-* [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) - Map evidence and boundary changes over time.
+* [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) - Map evidence and boundary changes; **AU-044** gold hunger after Horde alchemy-memory wipe (Black Hills specimen in [None of Them Survived](/history/chronology/none-of-them-survived.md)).
 * [Mudfossil University / Roger Spurr](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md) - Soft-tissue mudfossils, Helix P-234 mtDNA, Yale outreach claims (open).
 * [Meltrix / Druzhinin - mudflood CO poison pills](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) - Meltrix **brand** + Druzhinin + StolenHistory = CO; melt cities **supported**; Autodidactic / Jon Levi = not CO (open).
 * [Deliverance to a Promised Land](/history/mudflood/investigations/promised-land-investigation.md) - 1492 BCE/CE threads; Europe, America, promised lands.
@@ -430,7 +430,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ### Reader-facing articles
 
-* [None of Them Survived](/history/chronology/none-of-them-survived.md) - Peaceful bands erased; war tribes kept as camps and taught a new Great Spirit.
+* [None of Them Survived](/history/chronology/none-of-them-survived.md) - Peaceful bands erased; war tribes kept as camps; gold as control by redaction alone (**AU-044**).
 * [The Hidden History of Words](/history/chronology/the-hidden-history-of-words.md) - Lexical reset thesis, Latin breakaway + informational passageways, curated word glossary (nice, Jew, Moor, Horde, eponyms); links [lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md).
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) - Scalar / aether continuity, first life and womb, Bardo and afterlife phenomenology, reincarnation bands; links [DNA / scalar dossier](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md).
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) - Hope, celebrity silence, terrain vs incurability marketing; links [GNM / cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).

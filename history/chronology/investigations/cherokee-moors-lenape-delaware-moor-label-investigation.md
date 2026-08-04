@@ -93,7 +93,7 @@ Canonical vocabulary: [docs/REDACTION.md](/docs/REDACTION.md).
 
 **Lane discipline:** AU-043 **enables** reading Spanish / African / American **Moor** as **possibly continuous strata**. It does **not** collapse §5 lanes into one Facebook caption or validate the Oklahoma meme (L5–L6 still bind). It does **not** require calling Lenape a fabricated tongue (L8).
 
-**Cross-links:** [slave-trades — Horde fracture](/governance/slavery/slave-trades-and-moor-etymology-investigation.md); [MFEE](/history/mudflood/investigations/mfee-investigation.md); [europe §2c forced split](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md); [moorish §7b](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md); timeline Horde fracture / Romanov seizure lanes on site.
+**Cross-links:** [slave-trades — Horde fracture](/governance/slavery/slave-trades-and-moor-etymology-investigation.md); [MFEE](/history/mudflood/investigations/mfee-investigation.md) (**AU-044** gold hunger after alchemy-memory wipe); [None of Them Survived](/history/chronology/none-of-them-survived.md); [europe §2c forced split](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md); [moorish §7b](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md); timeline Horde fracture / Romanov seizure lanes on site.
 
 ---
 
