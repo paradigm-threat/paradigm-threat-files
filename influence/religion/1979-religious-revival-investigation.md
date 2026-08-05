@@ -156,6 +156,10 @@ Across its history, CIA behaviour appears consistently oriented toward **routing
 
 ---
 
+## Related
+
+- [Presidency decoupling pattern — Eisenhower → Trump](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) — Reagan Revolution religious-revival pretense inside cast-vs-base spine (**AU-045**)
+
 ## Next Steps
 
 - [ ] Locate and verify video evidence of church ray/tech claims

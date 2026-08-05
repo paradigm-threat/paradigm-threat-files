@@ -147,6 +147,8 @@ After Lawrence’s failed attack, **Jackson** accused **Poindexter** / **Calhoun
 
 **Site synthesis:** Same **board grammar** — **scripted presidential exit** — **inverted**: **help** the compliant president (**JFK**) vs **trap** the non-compliant one (**Nixon**). Shows the system already knew **two exit modes** before **RFK** (1968) and **9/11** (2001).
 
+**Long-chain spine:** [Presidency decoupling pattern — Eisenhower → Trump (**AU-045**)](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) places this inverse-exit pair inside the full cast-vs-base timeline (Ajax origin through Trump NSA cleanup).
+
 ### 1.3 Legal responses & gaps (health concealment, autopen, 25th)
 
 **Audit question:** What **laws** were passed to stop **presidential health concealment** and **staff-run shadow presidencies** (Tier B in [§1.1](#11-pre-1963-presidential-precedents-threat-coercion-hoax-grammar))?

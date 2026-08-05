@@ -1,6 +1,6 @@
 # Investigation: NSA-Aligned Presidencies — Nixon, Reagan, Trump (Republican Gauge)
 
-> **TL;DR:** Open dossier on **presidential alignment** with the **NSA antibody** lane vs **CIA / globalist** war-state. **Method (author):** only **Republican** nominees are useful gauges of **groundedness with constituents** — Democratic whip uniformity hides the same test. **Working map:** **Nixon** ≈ grounded American + **non-compliant** executive → **Watergate containment** (media = crook / liar). **Reagan** ≈ **Hollywood construct** sold as man-of-the-people while the administration **ran Russia-containment / Cold War escalation** grammar → media attack = **incompetent puppet / senile actor**. **Trump** ≈ **fully NSA-aligned** multi-decade containment plan against Deep State holy-war geometry. Film clues: ***Back to the Future* (1985) + *Part II* (1989)** = **NSA-aligned** (Reagan-as-actor call-out; Libyan nuclear-proxy terror; 9/11 PP cluster) — [§4](#4-back-to-the-future-12--nsa-camp-assessment); ***Airplane!* / *Airplane II*** = Reagan **incompetence** attack lane, with **PATCO** named in the sequel — [§5](#5-patco-1981--airplane-attack-lane). Cross-read: [NSA investigation](/governance/war/investigations/nsa-investigation.md), [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), [JFK dossier Nixon inverse exit](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate), [Hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md), [Trump dynasty / antibody](/events/trump/index-trump-investigation.md), [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md).
+> **TL;DR:** Open dossier on **presidential alignment** with the **NSA antibody** lane vs **CIA / globalist** war-state. **Method (author):** only **Republican** nominees are useful gauges of **groundedness with constituents** — Democratic whip uniformity hides the same test. **Working map:** **Nixon** ≈ grounded American + **non-compliant** executive → **Watergate containment** (media = crook / liar). **Reagan** ≈ **Hollywood construct** sold as man-of-the-people while the administration **ran Russia-containment / Cold War escalation** grammar → media attack = **incompetent puppet / senile actor**. **Trump** ≈ **fully NSA-aligned** multi-decade containment plan against Deep State holy-war geometry. Film clues: ***Back to the Future* (1985) + *Part II* (1989)** = **NSA-aligned** (Reagan-as-actor call-out; Libyan nuclear-proxy terror; 9/11 PP cluster) — [§4](#4-back-to-the-future-12--nsa-camp-assessment); ***Airplane!* / *Airplane II*** = Reagan **incompetence** attack lane, with **PATCO** named in the sequel — [§5](#5-patco-1981--airplane-attack-lane). **Long-chain companion:** [Presidency decoupling — Eisenhower → Trump (**AU-045**)](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md). Cross-read: [NSA investigation](/governance/war/investigations/nsa-investigation.md), [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), [JFK dossier Nixon inverse exit](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate), [Hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md), [Trump dynasty / antibody](/events/trump/index-trump-investigation.md), [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md).
 
 **Status:** Open — author thesis first-class; Reagan globalist-play strongest open claim; BTTF camp labeled **NSA** with residual notes.
 
@@ -177,6 +177,11 @@ Author asked: *if you think there is some globalist vision, say so.*
 | **Iran / Middle East** | Iran–Contra; Lebanon; tilt games vs Soviet influence | CIA-lane **covert** grammar overlaps ([CIA investigation](/governance/war/investigations/cia-investigation.md)) |
 | **Labor** | PATCO mass firing → **pro-federal strike deterrent** | Not “pro-American worker” — [§5.1.1](#511-author-refinement--pro-federal-deterrent-not-pro-american-toughness) |
 | **Hinckley 1981** | Attempt → sympathy / mandate narratives | Logged in [JFK dossier attempt envelope](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md) — **not** re-litigated here |
+| **Long-chain spine** | New Federalism hollow / voter conversion / unknowing carrier / RINO turn | Full treatment: [Presidency decoupling (**AU-045**)](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#8-reagan-revolution--planned-cast-voter-conversion-rino-turn) |
+
+### 6.1.1 Companion — New Federalism, voter conversion, unknowing carrier
+
+This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Federalism ledger** (swap died; block-grant cuts; employment/debt; preemption), **voter conversion** into fear-driven anti-Russia federal-fist dogma, **unknowing / badly advised carrier**, and **1980s RINO turn**, use [Presidency decoupling §8](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#8-reagan-revolution--planned-cast-voter-conversion-rino-turn) — do not duplicate long tables here.
 
 ### 6.2 Author hypothesis (L3–L4)
 
@@ -291,13 +296,14 @@ Author asked: *if you think there is some globalist vision, say so.*
 | [Libya / Benghazi / *BTTF* Libya PP](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) | Libyan terrorists beat |
 | [Trump antibody index](/events/trump/index-trump-investigation.md) | Trump NSA plan |
 | [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) | GOP gauge / managed opposition |
+| [Presidency decoupling — Eisenhower → Trump](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) | Multi-party cast-vs-base spine (**AU-045**); Reagan New Federalism / RINO turn |
 | [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | Biff / Trump fiction row |
 | [Iran 2026 / leave-behind](/governance/war/mission-accomplished-again-iran-2026.md) | Nuclear-Hormuz board rhyme to *BTTF* plutonium PP |
-| [Author-unique theories registry](/history/chronology/investigations/author-unique-theories.md) | **AU-039** |
+| [Author-unique theories registry](/history/chronology/investigations/author-unique-theories.md) | **AU-039**; companion **AU-045** |
 
 Keywords: #NSA #CIA #Nixon #Reagan #Trump #BackToTheFuture #Airplane #PATCO #AirTrafficControllers #PredictiveProgramming #Hollywood #Antibody #Globalist #Watergate #ColdWar #Libya #Iran #TwoCamps #ParadigmThreatFiles
 
-*Last updated: 2026-07-26*
+*Last updated: 2026-08-05*
 
 ---
 

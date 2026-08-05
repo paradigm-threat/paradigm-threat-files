@@ -188,6 +188,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 - [Snowden × WikiLeaks — CIA-aligned CO](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) — CIA pedigree → NSA-targeting celebrity leak; Vault 7 contrast; antibody counter-read
 - [Weather modification investigation](/science/geoengineering/weather-modification-investigation.md) — Popeye, ENMOD, § Political authorization lane; [rural burn zones](/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.md) — selective destruction + CO trap
 - [1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand) (timeline article)
+- [Presidency decoupling pattern — Eisenhower → Trump](./presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) — Ajax / gold OS / cast-vs-base spine (**AU-045**)
 - [False Flags: Architecture](/timeline/evt-false-flags-architecture)
 - [Historical Antibodies](/timeline/evt-historical-antibodies)
 - [World War II: Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii)
