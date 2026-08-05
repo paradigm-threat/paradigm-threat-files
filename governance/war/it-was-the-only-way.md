@@ -164,6 +164,8 @@ Tony Stark and Trump comparisons already circulate in commentary and satire. Map
 
 Keywords: #InfinityWar #DoctorStrange #TonyStark #IronMan #Thanos #Trump #RepublicanParty #GivingUpPower #Avengers #Endgame #RINO #TedCruz #Eisenhower #Truman #Nixon #Watergate #Reagan #NewFederalism #GeorgeHWBush #GeorgeWBush #Clinton #Obama #HillaryClinton #Iraq #Gold #Animatrix #Iran #ParadigmThreatFiles
 
+**Substack:** [paradigmthreat2.substack.com/p/it-was-the-only-way](https://paradigmthreat2.substack.com/p/it-was-the-only-way)
+
 **Last updated:** 2026-08-05
 
 ---
