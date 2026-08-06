@@ -38,6 +38,8 @@ The nomination never felt like a normal promotion. It felt like defeat first: lo
 
 Those failed futures did not appear overnight. They run from the end of World War II through the presidents everyone already knows by name.
 
+![Presidential alignment — NSA vs CIA: antibody cleanup vs covert war-state from Truman to Trump](https://paradigmthreat.net/governance/war/cia-nsa-align-president-comparison.png)
+
 ---
 
 ## After the war, the secret war never ended
@@ -166,7 +168,7 @@ Keywords: #InfinityWar #DoctorStrange #TonyStark #IronMan #Thanos #Trump #Republ
 
 **Substack:** [paradigmthreat2.substack.com/p/it-was-the-only-way](https://paradigmthreat2.substack.com/p/it-was-the-only-way)
 
-**Last updated:** 2026-08-05
+**Last updated:** 2026-08-06
 
 ---
 
