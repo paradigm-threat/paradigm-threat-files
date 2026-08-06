@@ -359,6 +359,7 @@ Link [Obama / Malcolm X puppet curation](/governance/war/investigations/obama-ma
 | [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) | Post-Reagan GOP |
 | [Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md) | DU fuse close |
 | [It was the only way](/governance/war/it-was-the-only-way.md) | Reader essay — Strange bargain; Trump as Tony |
+| [Presidential alignment — Globalist vs Nationalist (AU-046)](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) | All-era parent taxonomy; CIA/NSA = post-1947 sublayer |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-045** |
 
 Keywords: #PresidencyDecoupling #Eisenhower #Ajax #OperationAjax #Truman #Nixon #Watergate #Reagan #NewFederalism #SilentMajority #WarOnDrugs #RINO #BackToTheFuture #GeorgeHWBush #GeorgeWBush #Clinton #Obama #HillaryClinton #TedCruz #Trump #TonyStark #Thanos #InfinityWar #PearlHarbor #NineEleven #NSA #CIA #Gold #Iran #Mossadegh #SaddamHussein #Gaddafi #Antibody #ParadigmThreatFiles

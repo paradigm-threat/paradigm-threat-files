@@ -926,6 +926,7 @@ Blockbuster exits normally **sanitize** — score reprise, radio single, emotion
 | Holy-war / blame-Islam geometry | [good-actor § I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) |
 | “Networks at work” / deferral | [what-are-you-waiting-for.md](/influence/controlled_opposition/what-are-you-waiting-for.md) |
 | *Wake Up* credits (Thread L) | [Thread L](#thread-l--malcolm-x-woke-and-wake-up-end-credits-m1-psyop-lane) · [reader essay § Wake Up](/influence/controlled_opposition/not-like-this.md) |
+| Presidential alignment / FBI ledger (**AU-046**) | [presidential-alignment-globalist-vs-nationalist-investigation.md](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) — J. Edgar “body remover”; COINTELPRO / FBI as globalist institution |
 
 ---
 

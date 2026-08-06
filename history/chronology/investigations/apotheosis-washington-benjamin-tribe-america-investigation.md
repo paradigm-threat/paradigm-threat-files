@@ -291,6 +291,7 @@ Cross-read [reader article — fresco / fiction encoding](/history/chronology/lo
 | [14.07.00 Mockingbird public erasure](/timeline/evt-mockingbird-public-erasure) | Rus-Horde memory erasure / US narrative |
 | [Predictive Programming hub](/influence/predictive_programming/page.md) | PP methodology — fiction as data, not proof |
 | [Asimov — Foundation index](/influence/predictive_programming/fiction_encoding/asimov/foundation-index.md) | Priesthood / encyclopedia preservation lane (§10.5) |
+| [Presidential alignment — Globalist vs Nationalist (**AU-046**)](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) | Washington ≠ nationalist lock; founding fork scorecard parent |
 
 ---
 

@@ -165,6 +165,7 @@ The expanded investigation carries §2.8 (deep-state seesaw / WWZ–III), §4.4 
 - [Mission accomplished again — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — WWIII accelerant lane  
 - [Napoleonic 1812 investigation](https://paradigmthreat.net/governance/war/investigations/napoleonic-advanced-artillery-airship-investigation.md) — imperial arc contemporaneous with TONA  
 - [US Civil War investigation](https://paradigmthreat.net/governance/war/investigations/us-civil-war-investigation.md) — war as instrument; unnecessary-war tangent  
+- [Presidential alignment — Globalist vs Nationalist](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) — all-era scorecard; TONA erase as presidential behavior (**AU-046**)  
 - [Constitutional coining vs Fed / usury](https://paradigmthreat.net/governance/usury/d.md) — 1913 cluster  
 - [Captured courts](https://paradigmthreat.net/influence/controlled_opposition/captured-courts-wrong-villain.md) — judiciary terrain  
 - [America First Legal victory trend](https://paradigmthreat.net/governance/war/investigations/america-first-legal-victory-trend-investigation.md) — nationalist lawfare lane

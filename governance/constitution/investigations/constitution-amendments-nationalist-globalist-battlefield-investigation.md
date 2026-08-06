@@ -3,7 +3,7 @@
 > **TL;DR:** Reads the **1787 Constitution** and all **27 ratified amendments** as a **two-camp battlefield**. **Centerpiece:** **TONA (1810)** — nationalist anti-nobility **13th** — **memory-holed** and replaced by **1865 carceral 13th** + **1868 birthright 14th**; **Statue of Liberty (1886)**; **amendment cascade** (XV–XVI); **June–July 2026** — *Trump v. Barbara* + **JD Vance (Jul 1): “she made a mistake”** on **vacation birth** → **family citizenship**; **flight intake** + **COVID hotel resettlement**; **no race war** doctrine. **Reader article:** [TONA, Not War](/governance/constitution/tona-not-war-liberty-rebrand.md). §14 live controversy.
 
 **Status:** Open — **TONA ratification**, **XVI Benson dispute**, **Barbara** docket, and **Reconstruction intent** remain **contested**; **author battlefield frame** is **interpretive**.  
-**Last updated:** 2026-07-02
+**Last updated:** 2026-08-06
 
 **Guide (read order)**
 
@@ -815,6 +815,7 @@ Objective (C): critical mass — European-replaces-Native demographic geometry a
 | Captured courts / administrative state | [/influence/controlled_opposition/captured-courts-wrong-villain.md](/influence/controlled_opposition/captured-courts-wrong-villain.md) |
 | Promised land / immigration narrative | [/history/mudflood/investigations/promised-land-investigation.md](/history/mudflood/investigations/promised-land-investigation.md) |
 | America First Legal — nationalist lawfare | [/governance/war/investigations/america-first-legal-victory-trend-investigation.md](/governance/war/investigations/america-first-legal-victory-trend-investigation.md) |
+| Presidential alignment — Globalist vs Nationalist (**AU-046**) | [/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) |
 | Modern involuntary servitude (Hollywood) | [/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) |
 
 Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment #FourteenthAmendment #BirthrightCitizenship #TrumpVBarbara #AmyConeyBarrett #StatueOfLiberty #SixteenthAmendment #Nationalist #Globalist #Reconstruction #InvoluntaryServitude #PrisonLabor #JusSoli #BorderSovereignty #CorwinAmendment #ParadigmThreatFiles
@@ -837,4 +838,4 @@ Keywords: #Constitution #Amendments #TitlesOfNobility #TONA #ThirteenthAmendment
 
 **Cross-investigations** are **thematic** **rhymes**, **not** **proof** **transfers**.
 
-*Last updated: 2026-07-02 — §2.8 deep-state seesaw / WWZ–III / source-destination; §4.4 two-part replacement; §14 Vance Jul 2026*
+*Last updated: 2026-08-06 — Related: presidential alignment AU-046; prior §2.8 / §4.4 / §14 Vance Jul 2026*

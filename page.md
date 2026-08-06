@@ -104,6 +104,7 @@ or *not* believing.
 * [RINO effect - Graham, McConnell, Trump](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) - Ukraine/Iran split, media "ally" framing, controlled GOP opposition (Jul 2026).
 * [NSA-aligned presidencies - Nixon, Reagan, Trump](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) - Republican gauge; Reagan Hollywood/CIA-play hypothesis; *BTTF* NSA list; PATCO / *Airplane* (Jul 2026).
 * [Presidency decoupling pattern - Eisenhower to Trump](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) - Cast vs base spine; Ajax/Iran DU; gold OS; Reagan RINO turn; oil/dinar wars; *Infinity War* Tony/Thanos; AU-045 (Aug 2026).
+* [Presidential alignment - Globalist vs Nationalist](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) - All-era taxonomy; Jefferson/Lincoln Neonationalist; Vacuum puppets; NSA ≠ Nationalist; Depression → AU-047; AU-046 (Aug 2026).
 * [Obama / Malcolm X - birth record & puppet curation](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md) - name-change birth-cert fork, prior art, MK plausibility, woke pivot (Jul 2026).
 * [Operation Paperclip & Nazi continuity](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) - US absorption of German science; WWII defeat narrative vs continuity.
 * [The Four Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md) - Structural comparison (1812, 1914, 1941, 2022-style arcs).
@@ -112,6 +113,7 @@ or *not* believing.
 * [Managed democracy, puppets, and redemption](/governance/war/managed-democracy-puppets-and-redemption.md) - Reader essay: *House of Cards* grammar, Obama/RINO puppet slots, Epstein two-axis read, DINO symmetry, Christian mercy exit; links RINO + Obama dossiers.
 * [It was the only way](/governance/war/it-was-the-only-way.md) - Reader essay: *Infinity War* Strange bargain; Trump as Tony; giving up power; AU-045 companion (Aug 2026).
 * [Holodomor-Holocaust memory investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) - Memory redaction, Dec 1932 Stalin primaries, geography of horror.
+* [Great Depression — planned crash, census control, purposeful neglect](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) - Not negligence; WWI power guise → Fed → census whitewash → SS federal citizen; AU-047 (Aug 2026).
 * [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) - Western orchestration, media, post-WWII isolation.
 * [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) - Timing, alternative narratives, inquiries and aftermath.
 * [Armed confrontations](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md) - Citizens vs federal government, military, and agents.

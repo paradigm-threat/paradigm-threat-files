@@ -297,13 +297,14 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 | [Trump antibody index](/events/trump/index-trump-investigation.md) | Trump NSA plan |
 | [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) | GOP gauge / managed opposition |
 | [Presidency decoupling — Eisenhower → Trump](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) | Multi-party cast-vs-base spine (**AU-045**); Reagan New Federalism / RINO turn |
+| [Presidential alignment — Globalist vs Nationalist](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) | All-era parent taxonomy; CIA/NSA = post-1947 sublayer (**AU-046**) |
 | [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | Biff / Trump fiction row |
 | [Iran 2026 / leave-behind](/governance/war/mission-accomplished-again-iran-2026.md) | Nuclear-Hormuz board rhyme to *BTTF* plutonium PP |
-| [Author-unique theories registry](/history/chronology/investigations/author-unique-theories.md) | **AU-039**; companion **AU-045** |
+| [Author-unique theories registry](/history/chronology/investigations/author-unique-theories.md) | **AU-039**; companions **AU-045**, **AU-046** |
 
 Keywords: #NSA #CIA #Nixon #Reagan #Trump #BackToTheFuture #Airplane #PATCO #AirTrafficControllers #PredictiveProgramming #Hollywood #Antibody #Globalist #Watergate #ColdWar #Libya #Iran #TwoCamps #ParadigmThreatFiles
 
-*Last updated: 2026-08-05*
+*Last updated: 2026-08-06*
 
 ---
 

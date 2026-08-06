@@ -125,6 +125,7 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 - [Constitution & amendments — nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — TONA vs 1865 13th; 14th birthright; Liberty §12; cascade §13; *Trump v. Barbara* §14
 - [TONA, Not War — Liberty’s Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) — reader essay companion
 - [Georgia naming — Savannah Civil War / DU land-intact deal (§7)](/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md) — localizes DU thesis: Fort Pulaski rifled-cannon cover, Savannah Christmas surrender as land-preservation bargain, Georgia as expected longest holdout
+- [Presidential alignment — Globalist vs Nationalist (**AU-046**)](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) — Lincoln locks (misled good intentions; stature Tier A; Black-identity Author/open); carceral 13th continuity
 
 ---
 

@@ -147,6 +147,7 @@ It was the only way.
 More calendar and receipt detail for this presidential chain:
 
 - [Presidency decoupling — Eisenhower to Trump](https://paradigmthreat.net/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md)
+- [Presidential alignment — Globalist vs Nationalist](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) — all-era parent taxonomy (**AU-046**); CIA/NSA = post-1947 badges
 - [NSA-aligned presidencies — Nixon, Reagan, Trump](https://paradigmthreat.net/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)
 - [Cruz / Kevin Malone / Angry Birds](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)
 - [RINO effect](https://paradigmthreat.net/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md)
