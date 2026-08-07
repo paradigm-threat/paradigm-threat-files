@@ -175,7 +175,7 @@ Antibody lineage kept its eye on the **Oval**: without a tip that actually repre
 **Do not conflate** with **J.Q. Adams** (Madison→Buchanan **Globalist** continuity tip, §4).
 
 ---
-## 4. TONA window — Madison → Buchanan (Globalist continuity; Vacuum bar fails)
+## 4. TONA window — Madison → Buchanan (Globalist continuity; Vacuum parent retired)
 
 **Deep proof:** [TONA, Not War](/governance/constitution/tona-not-war-liberty-rebrand.md); [constitution battlefield §2](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md#2-the-original-thirteenth-amendment--titles-of-nobility-tona-1810).
 
@@ -202,7 +202,7 @@ Antibody lineage kept its eye on the **Oval**: without a tip that actually repre
 
 | Axis | Badge |
 |------|-------|
-| **Parent (Madison→Buchanan)** | **Globalist** — argued era policy inside compromised federal machine — **except Jackson = Nationalist (failed)** §4.4 |
+| **Parent (Madison→Buchanan)** | **Globalist** — argued era policy inside compromised federal machine — **except Jackson** §4.4; **W.H. Harrison / Taylor** §10.1b |
 | **System** | **Globalist** compromised federal (empire-join + erase path) |
 | **TONA / Civil War prevention** | **Failed** — reset not taken (quote above) |
 | **Jackson** | **Nationalist who failed** — Bank War grounded; Removal = inclusion failure; Jefferson remains **Neonationalist** specimen 1 (do not promote Jackson to that badge) — §4.4 |
