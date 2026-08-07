@@ -1,11 +1,11 @@
 # Investigation: Presidential Alignment — Globalist vs Nationalist
 
-> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Vacuum parent column retired** — cut-short tips that looked like fall-guy Vacuums score **Nationalist (failed)** (§10.1b). **Rocking:** Cleveland↔Benjamin Harrison (§2.4). **Nationalist∩NSA** + sin-eater (§9). **Locks:** Washington/Adams Globalist; Jefferson+Lincoln Neonationalist; Madison→Buchanan Globalist **except Jackson** + **W.H. Harrison / Taylor** Nationalist (failed); **Garfield / Coolidge** Nationalist (failed); Johnson–Arthur (ex-Garfield) + Cleveland/B. Harrison + Harding + Progressive empire + Hoover + FDR Globalist; **Nixon / GHWB / Trump Nationalist**; GWB bandage→Epstein→Obama. Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
+> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Vacuum parent column retired** — cut-short tips that looked like fall-guy Vacuums score **Nationalist (failed)** (§10.1b). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison (§2.4). **Nationalist∩NSA** + sin-eater (§9). **Locks:** Washington/Adams Globalist; Jefferson+Lincoln Neonationalist; Madison→Buchanan Globalist **except Jackson** + **W.H. Harrison / Taylor** Nationalist (failed); **Garfield / Coolidge** Nationalist (failed); Johnson–Arthur (ex-Garfield) + Cleveland/B. Harrison + Harding + Progressive empire + Hoover + FDR Globalist; **Nixon / GHWB / Trump Nationalist**; GWB bandage→Epstein→Obama. Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
 
 **Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting; master graphic deferred until art pass.
 
 
-**Last updated:** 2026-08-07 — Vacuum column retired; W.H. Harrison / Taylor / Garfield = Nationalist (failed); Coolidge quote bank + reader article
+**Last updated:** 2026-08-07 — Wall chart shipped (§10.0); Vacuum retired; W.H. Harrison / Taylor / Garfield Nationalist (failed); Coolidge quote bank + reader article
 
 ---
 
@@ -20,7 +20,7 @@
 7. Depression / Hoover / FDR — [§7](#7-depression--herbert-hoover-fdr-census-trust)
 8. FBI / J. Edgar — [§8](#8-fbi--j-edgar-hoover-body-remover)
 9. Bridge Truman→Trump — [§9](#9-bridge--post-1947-cia-nsa-sublayer)
-10. Scorecard — [§10](#10-master-scorecard-stubs) · Gilded/Progressive [§10.1](#101-gilded--progressive--split-lock-author-revised-2026-08-07) · Coolidge [§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07) · Cut-short / Vacuum retired [§10.1b](#101b-cut-short-tips--wh-harrison-taylor-garfield--nationalist-failed-vacuum-column-retired)
+10. Scorecard — [§10](#10-master-scorecard-stubs) · **Wall chart [§10.0](#100-wall-chart-shipped-2026-08-07)** · Gilded/Progressive [§10.1](#101-gilded--progressive--split-lock-author-revised-2026-08-07) · Coolidge [§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07) · Cut-short / Vacuum retired [§10.1b](#101b-cut-short-tips--wh-harrison-taylor-garfield--nationalist-failed-vacuum-column-retired)
 11. Claims / Qs — [§11](#11-authors-open-claims-au-046) · [§12](#12-questions-to-clarify-verify-or-debunk)
 
 ---
@@ -426,6 +426,30 @@ Do **not** re-litigate Truman→Trump here. Point:
 
 Author fill. Deep essays only where marked; others are lean stubs.
 
+### 10.0 Wall chart (shipped 2026-08-07)
+
+![U.S. Presidents alignment scorecard — Globalist / Nationalist / Neonationalist; Vacuum retired](/governance/war/presidential-alignment-scorecard-au046.png)
+
+**File:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) · Reader: [Nationalists who failed](/governance/war/nationalists-who-failed.md) · Post-1947 overlay companion: [`cia-nsa-align-president-comparison.png`](/governance/war/cia-nsa-align-president-comparison.png)
+
+**Chart audit vs locks (Author + desk):**
+
+| Check | Result |
+|-------|--------|
+| Three parents only; **Vacuum retired** | **Pass** — legend + footer |
+| **Neonationalist** = Jefferson + Lincoln only | **Pass** |
+| **Nationalist (failed)** = Jackson, W.H. Harrison, Taylor, Garfield, Coolidge | **Pass** — FAILED border tag |
+| **Nationalist** = Nixon; GHWB + Trump (+ NSA chip); no NSA on Nixon | **Pass** |
+| **GWB** Contested + early NSA bandage → compromise note | **Pass** |
+| **W.H. Harrison ≠ Benjamin Harrison** footer | **Pass** |
+| Cleveland ×2 (terms) + B. Harrison Globalist rocking | **Pass** |
+| Contested/Open = Eisenhower, JFK, Ford, Carter, Reagan (+ GWB) | **Pass** |
+| Soft **Globalist\*** = Truman, LBJ, Clinton, Obama, Biden (not deep essay locks) | **Pass** — footnote matches desk |
+| Dual Trump cells (2017–21 + 2025–) | **Accept** — calendar continuity; same Nationalist+NSA parent |
+| Invented counts / fake Vacuum / wrong Neonationalist sprawl | **None found** |
+
+**Open after chart (unchanged):** Eisenhower / JFK / Ford / Carter / Reagan parent essays; Biden soft Globalist\* only; GWB parent still Contested.
+
 | President / era | Lean (stub) | Notes |
 |-----------------|-------------|-------|
 | **Washington** | **Globalist** | Closed-door federal; Rus-Horde redaction; slavery parchment; Apotheosis deification |
@@ -526,7 +550,7 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 
 **Reader:** [Nationalists who failed](/governance/war/nationalists-who-failed.md).
 
-**Graphic TODO:** **three** parent columns + overlay (Vacuum retired). Nationalist: **Jackson (failed)** · **W.H. Harrison (failed)** · **Taylor (failed)** · **Garfield (failed)** · **Coolidge (failed)** · **Nixon** · **GHWB** · **Trump**. Neonationalist: **Jefferson / Lincoln**. Globalist: Madison→Buchanan (ex-Jackson/W.H. Harrison/Taylor), Johnson–Arthur (ex-Garfield), Cleveland/B. Harrison rocking, Progressive empire, Harding, Hoover, FDR, etc.
+**Graphic:** shipped — [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). Three parent columns + Contested/Open + NSA overlay chips; Vacuum retired.
 
 ---
 
@@ -583,7 +607,7 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 - [ ] **Q1 / Q2a:** Author-remembered cites — **still looking**; do not close; CO/soft recoveries still loggable
 - [x] Scorecard parent locks — founding / TONA / Lincoln / Adams / Gilded / Hoover — **2026-08-06**; Nationalist∩NSA + Nixon/GHWB/Trump/GWB — **2026-08-07**
 - [ ] **Q1 detail:** Pin census memory to 1890 wipe / 1920 nullification / 1930 distrust (or find archived “not taken” cite); do not let “never skipped” FAQ erase those three
-- [ ] After art OK: ship **three-column** PNG (Vacuum retired) + optional [it-was-the-only-way](/governance/war/it-was-the-only-way.md) embed
+- [x] Wall chart PNG — [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) audit §10.0
 - [ ] Sample Lincoln contemporaneous physical descriptions beyond height tables
 - [ ] **Q2a detail:** locate museum-plaque + book citation for “Lincoln = first Black president” teaching (author memory); candidate museums — Great Blacks in Wax (Baltimore), Oran Z’s Black Facts (LA, closed), DuSable, Griot / Black World History Wax (St. Louis) — **no plaque text confirmed yet**
 - [ ] Verify Rogers’s Herndon / *Hidden Lincoln* page cites against primary editions
@@ -662,6 +686,7 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - Session 2026-08-07 (later): **Coolidge → Nationalist (failed)** — refused Fed/Congress stock regulation as power grab vs states; soft history inverts to Depression villain; *I do not choose to run* (1927) while popular = suspicious forced exit; Hoover remains Globalist.
 - Session 2026-08-07 (later): Coolidge **quote bank** in §10.1a; reader article [nationalists-who-failed.md](/governance/war/nationalists-who-failed.md).
 - Session 2026-08-07 (later): **Vacuum column retired**; **W.H. Harrison / Taylor / Garfield → Nationalist (failed)** — cut-short missions; deep-state lesson Americans couldn’t really run for president; soft fall-guy Vacuum packaging inverted; B. Harrison stays Globalist rocking.
+- Session 2026-08-07 (later): Wall chart **shipped** — `presidential-alignment-scorecard-au046.png`; audit pass §10.0 (locks match; soft Globalist\* + Contested/Open + dual Trump cells noted).
 - Session 2026-08-06 (later): **John Adams = Globalist** — Jefferson foil; Federalist↔Democrat intertwine → world-order vision, not sovereign-citizen rights.
 - Session 2026-08-06 (later): Gilded→Progressive **Option D** — Vacuum majority; McKinley/TR/Taft/Wilson **Globalist** (Wilson hard).
 - Graphic deferred until author art pass (parent locks dense enough).

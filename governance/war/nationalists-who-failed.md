@@ -3,7 +3,9 @@
 
 Soft history has a habit of renaming America-first presidents as villains of neglect — or as blank “fall guys” whose terms barely count. The ones who fought the money board get remembered as the men who “failed to regulate,” as if handing the Federal Reserve more power would have saved the country. The ones who died early get remembered as empty chairs. Both stories are backwards. A Nationalist tip does what it said for the people under the flag. When that tip lacks foresight, or when death and board pressure cut the mission short, the machine returns. Call that badge **Nationalist who failed**. It is not a Globalist puppet wearing nationalist branding. It is grounded intent that did not stick.
 
-There is no fourth “Vacuum” camp on this scorecard. Soft fall-guy packaging once invited one. The tips that looked most like Vacuums — William Henry Harrison, Zachary Taylor, and James A. Garfield — lock as Nationalists who failed instead. The presidents who matter to this argument are the ones who fought the money fight, got cut short teaching Americans they could not really run the chair, inverted power into federal consolidation, or later proved what durable Nationalist foresight looks like. Everyone else can wait on the wall chart.
+There is no fourth “Vacuum” camp on this scorecard. Soft fall-guy packaging once invited one. The tips that looked most like Vacuums — William Henry Harrison, Zachary Taylor, and James A. Garfield — lock as Nationalists who failed instead. The presidents who matter to this argument are the ones who fought the money fight, got cut short teaching Americans they could not really run the chair, inverted power into federal consolidation, or later proved what durable Nationalist foresight looks like.
+
+![U.S. Presidents — Globalist / Nationalist / Neonationalist scorecard; Vacuum retired](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046.png)
 
 ## Three camps, one foresight bar
 
@@ -69,11 +71,11 @@ Those later tips prove the category is real. Jackson and Coolidge prove it can l
 
 ## Framing and limits
 
-This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): ancient and early modern political wisdom is not automatically inferior to modern consensus packaging. Parent badges, Coolidge quote pins, and the retired Vacuum column live in the [alignment investigation](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md). Depression mechanism and census fights live in the [Depression companion](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md). The all-presidents wall chart uses **three** parent camps when it ships; until then the dossier scorecard is the inventory.
+This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): ancient and early modern political wisdom is not automatically inferior to modern consensus packaging. Parent badges, Coolidge quote pins, and the retired Vacuum column live in the [alignment investigation](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md). Depression mechanism and census fights live in the [Depression companion](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md). The all-presidents wall chart is embedded above; the dossier holds the [chart audit](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#100-wall-chart-shipped-2026-08-07).
 
 Keywords: #NationalistsWhoFailed #CalvinCoolidge #AndrewJackson #WilliamHenryHarrison #ZacharyTaylor #JamesGarfield #BankWar #FederalReserve #GreatDepression #PresidentialAlignment #Globalist #Nationalist #Neonationalist #HerbertHoover #FDR #AU046 #ParadigmThreatFiles
 
-**Last updated:** 2026-08-07T09:56:27-04:00
+**Last updated:** 2026-08-07T10:07:00-04:00
 
 ---
 
