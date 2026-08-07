@@ -1,18 +1,18 @@
 # Investigation: Presidential Alignment — Globalist vs Nationalist
 
-> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Vacuum parent column retired** — cut-short tips that looked like fall-guy Vacuums score **Nationalist (failed)** (§10.1b). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison (§2.4). **Nationalist∩NSA** + sin-eater (§9). **Locks:** Washington/Adams Globalist; Jefferson+Lincoln Neonationalist; Madison→Buchanan Globalist **except Jackson** + **W.H. Harrison / Taylor** Nationalist (failed); **Garfield / Coolidge** Nationalist (failed); Johnson–Arthur (ex-Garfield) + Cleveland/B. Harrison + Harding + Progressive empire + Hoover + FDR Globalist; **Nixon / GHWB / Trump Nationalist**; GWB bandage→Epstein→Obama. Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
+> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Nationalist∩NSA** + sin-eater (§9). **Locks:** Washington/Adams Globalist; Jefferson+Lincoln Neonationalist; Madison→Buchanan Globalist **except Jackson** + **W.H. Harrison / Taylor** Nationalist (failed); **Garfield / Coolidge** Nationalist (failed); Johnson–Arthur (ex-Garfield) + Cleveland/B. Harrison + Harding + Progressive empire + Hoover + FDR Globalist; **Eisenhower / JFK / Reagan Globalist**; **Ford / Carter rocking Globalist**; **Nixon / GHWB / Trump Nationalist**; **GWB = Nationalist (failed) + NSA** (bandage then Epstein compromise). Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
 
-**Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting; master graphic deferred until art pass.
+**Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting.
 
 
-**Last updated:** 2026-08-07 — Wall chart shipped (§10.0); Vacuum retired; W.H. Harrison / Taylor / Garfield Nationalist (failed); Coolidge quote bank + reader article
+**Last updated:** 2026-08-07 — Contested/Open retired; Eisenhower/JFK/Reagan Globalist; Ford↔Carter rocking Globalist; GWB Nationalist (failed)+NSA; chart refreshed
 
 ---
 
 ## Guide (read order)
 
 1. Session capture — [§1](#1-authors-originating-thesis)
-2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **Vacuum retired** / **puppet witting (§2.2)** / **immune kill (§2.3)** — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
+2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **puppet witting (§2.2)** / **immune kill (§2.3)** / rocking (§2.4) — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
 3. Founding fork — Washington + **Jefferson** + **John Adams foil** — [§3](#3-founding-fork--washington-closed-door-federal-parchment)
 4. TONA window — Madison→Buchanan Globalist continuity (**Jackson** Nationalist-failed exception §4.4) — [§4](#4-tona-window--madison--buchanan-globalist-continuity-vacuum-bar-fails)
 5. Civil War / Lincoln — [§5](#5-civil-war--lincoln) (stature · **Black-identity inventory §5.3** · alignment)
@@ -97,6 +97,8 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 
 **High-profile pawn rhyme:** Same family of motion as **Saddam** / **Hitler**-class seesaw assets — spectacular rise → strict consolidation / authority over populations fooled → wreck or blame theater ([AU-045 Saddam seesaw](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#123-saddam-seesaw-puppet--definitely-real-gold)). Cleveland and Harrison **engaged** the rocking as visible poles; they may not have realized full damage (**philosophically unwitting** on outcomes) while **passionately** arguing their eras. Parent: **Globalist** (both).
 
+**Ford ↔ Carter (Author lock 2026-08-07):** Same rocking grammar after Nixon. Soft history sells post-Watergate recovery rivalry. Parent for both: **Globalist** rocking poles — back-and-forth on a compromised board, not blank tips and not Nationalist repair.
+
 **Condition lock — only when both sides are fully compromised:** Rocking is **possible only** when **both** poles are under control. Otherwise a **rational human — or even an animal** — would sense the seesaw early and **get off**. Uncompromised tips break the motion.
 
 **Not rocking (antibody / repair grammar):**
@@ -104,10 +106,9 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 | Specimen | Why not rocking |
 |----------|-----------------|
 | **Nixon** | Not a pole in a managed duel. Tried to **repair Asia damage** done under **Kennedy / Johnson**; grounded Nationalist tip — Watergate containment, not seesaw attrition ([AU-039](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)) |
-| **Ford (after Nixon)** | Not the opposite rocking pole either — contested tip years, not Cleveland↔Harrison alternation |
 | **NSA / antibody plans** | When an **antibody** plan is live, it is often so strong in the **revelation-of-the-method** sense that there is **no way to rock it** — the public is forced to see a real fork, not two fake neo-sides. Rocking returns when both party tickets are owned again |
 
-**Other rhyme specimens (Author catalog — not all locked as full Cleveland pairs):** modern **bipartisan** “nothing major / same agenda” theater (war authorizations, surveillance stacks, bailout continuity); managed Dem↔Rep brand fights that leave Fed / empire / Title-class machinery untouched. **Hoover → FDR** is **not** classic rocking — it is **one-way Globalist deepening** (tariff/tax/relief dogma into New Deal fishery), not a popular sweep that later returns the prior pole unchanged. Scorecard: [§10](#10-master-scorecard-stubs).
+**Other rhyme specimens (Author catalog — not all locked as full Cleveland pairs):** modern **bipartisan** “nothing major / same agenda” theater (war authorizations, surveillance stacks, bailout continuity); managed Dem↔Rep brand fights that leave Fed / empire / Title-class machinery untouched. **Hoover → FDR** is **not** classic rocking — it is **one-way Globalist deepening** (tariff/tax/relief dogma into New Deal fishery), not a popular sweep that later returns the prior pole unchanged. **Eisenhower** and **JFK** score **Globalist** on argued machine/war-state continuity — **not** a Ford↔Carter rocking pair. **Reagan** scores **Globalist** (CIA-carrier / RINO turn lean — [AU-045 §8](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#8-reagan-revolution--planned-cast-voter-conversion-rino-turn)). Scorecard: [§10](#10-master-scorecard-stubs).
 
 **Falsifiers:** A true two-pole alternation that delivers **lasting** Nationalist rights geometry (natives included / limited federal / keep-word) would break the “nothing major accomplished” giveaway.
 
@@ -377,7 +378,7 @@ Do **not** re-litigate Truman→Trump here. Point:
 |-----|--------|---------|------|
 | **Nixon** | **Nationalist** | **None / not NSA-aligned** | Pure Nationalist; NSA still waking (often CIA-order cleanup). Priorities **inverted** after resignation threat. **Pentagon Papers** SCOTUS lane = early antibody win; Watergate cited to **absolve Ellsberg** — Nixon on the wrong end of rising antibody law. His containment taught NSA-aligned entities why **both parties** would need rules + sin-eating in a blackmail-compromised government. |
 | **GHW Bush** | **Nationalist** | **NSA-aligned** | Antibody **born inside** CIA disease who chose to fight. **1991** = Nationalist tip running **necessary containment / sin-eater** on a **board CIA lit** (dinar / settlement war) — not “CIA product tip.” Kept America’s interests even when media made them unsayable; feared **Clinton** chaos-for-order cast. |
-| **G.W. Bush** | Contested → **compromised** (open) | **NSA-aligned family** early | **2001–~2005 = strong NSA bandage** (§9.1a): Tonkin/Hanyok declass, Mars RV daylight fight, PP culture push that mostly failed. Mid/late term ruined — Author: **Epstein blackmail compromise** is the fit that explains collapse **while still in office**; enables next tips; **Obama** already prepared as automated ideology cast. |
+| **G.W. Bush** | **Nationalist (failed)** | **NSA-aligned** | **2001–~2005 = strong NSA bandage** (§9.1a): Tonkin/Hanyok declass, Mars RV daylight fight, PP culture push that mostly failed. Mid/late term ruined — Author: **Epstein blackmail compromise** owns the tip **while still in office**; that compromise is the failure mode (not cut-short death, not Jackson-class money foresight alone). Enables next tips; **Obama** already prepared as automated ideology cast. |
 | **Trump** | **Nationalist** | **NSA-aligned** | Every action for America + **kept word** — not Vacuum puppet, not Globalist CO. Epstein-network hinge (tipster / not owned — [Epstein crosslinks §5](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md#5-trump-netanyahu-likud)); public presidency = [*It was the only way*](/governance/war/it-was-the-only-way.md). |
 
 ### 9.1a G.W. Bush — 2001–~2005 NSA “bandage” then Epstein hinge (Author lock 2026-08-07)
@@ -416,7 +417,7 @@ Do **not** re-litigate Truman→Trump here. Point:
 |---------------|------------|-----------------|
 | CIA-aligned / carrier / managed cast | Disease / war-state cast | Often **Globalist** — confirm per row |
 | NSA-aligned / cleanup tip | Antibody inside the disease | **Usually overlaps Nationalist**; may include **sin-eater** beats; never auto-badge without keep-word / America-first read |
-| Contested tip (overlay) | **Overlay only** when neither camp allowed a real tip to voters | Score parent on argued policies / cut-short Nationalist-failed grammar — **not** a Vacuum column |
+| Contested tip (overlay) | **Retired 2026-08-07** — do not use as a parent or legend badge | Score every tip Globalist / Nationalist / Neonationalist (with Nationalist-failed overlay when needed) |
 
 **Graphic caption (required when PNG ships):** *NSA antibody overlaps Nationalist agendas; sin-eater moves are the hinge. CIA/NSA = disease fight inside the machine — chips are not party labels.*
 
@@ -428,7 +429,7 @@ Author fill. Deep essays only where marked; others are lean stubs.
 
 ### 10.0 Wall chart (shipped 2026-08-07)
 
-![U.S. Presidents alignment scorecard — Globalist / Nationalist / Neonationalist; Vacuum retired](/governance/war/presidential-alignment-scorecard-au046.png)
+![U.S. Presidents alignment scorecard — Globalist / Nationalist / Neonationalist](/governance/war/presidential-alignment-scorecard-au046.png)
 
 **File:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) · Reader: [Nationalists who failed](/governance/war/nationalists-who-failed.md) · Post-1947 overlay companion: [`cia-nsa-align-president-comparison.png`](/governance/war/cia-nsa-align-president-comparison.png)
 
@@ -436,19 +437,19 @@ Author fill. Deep essays only where marked; others are lean stubs.
 
 | Check | Result |
 |-------|--------|
-| Three parents only; **Vacuum retired** | **Pass** — legend + footer |
+| Three parents only; no Contested/Open legend | **Pass** |
 | **Neonationalist** = Jefferson + Lincoln only | **Pass** |
-| **Nationalist (failed)** = Jackson, W.H. Harrison, Taylor, Garfield, Coolidge | **Pass** — FAILED border tag |
-| **Nationalist** = Nixon; GHWB + Trump (+ NSA chip); no NSA on Nixon | **Pass** |
-| **GWB** Contested + early NSA bandage → compromise note | **Pass** |
+| **Nationalist (failed)** = Jackson, W.H. Harrison, Taylor, Garfield, Coolidge, **GWB** | **Pass** — FAILED border; GWB + NSA chip |
+| **Nationalist** = Nixon (no NSA); GHWB + Trump (+ NSA) | **Pass** |
+| **Eisenhower / JFK / Reagan** Globalist | **Pass** |
+| **Ford / Carter** Globalist (rocking pair) | **Pass** |
 | **W.H. Harrison ≠ Benjamin Harrison** footer | **Pass** |
-| Cleveland ×2 (terms) + B. Harrison Globalist rocking | **Pass** |
-| Contested/Open = Eisenhower, JFK, Ford, Carter, Reagan (+ GWB) | **Pass** |
-| Soft **Globalist\*** = Truman, LBJ, Clinton, Obama, Biden (not deep essay locks) | **Pass** — footnote matches desk |
-| Dual Trump cells (2017–21 + 2025–) | **Accept** — calendar continuity; same Nationalist+NSA parent |
-| Invented counts / fake Vacuum / wrong Neonationalist sprawl | **None found** |
+| Cleveland ×2 + B. Harrison Globalist rocking | **Pass** |
+| Soft **Globalist\*** = Truman, LBJ, Clinton, Obama, Biden | **Pass** |
+| Dual Trump cells (2017–21 + 2025–) | **Accept** — same Nationalist+NSA parent |
+| Contested/Open cells remaining | **None found** |
 
-**Open after chart (unchanged):** Eisenhower / JFK / Ford / Carter / Reagan parent essays; Biden soft Globalist\* only; GWB parent still Contested.
+**Open after chart:** deep parent essays for Eisenhower / JFK / Reagan; Biden remains soft Globalist\* only.
 
 | President / era | Lean (stub) | Notes |
 |-----------------|-------------|-------|
@@ -456,18 +457,22 @@ Author fill. Deep essays only where marked; others are lean stubs.
 | **Jefferson** | **Neonationalist** | Pure limited-gov / plurality vision; **disqualified** by Declaration savages + native/apartheid hole |
 | **John Adams** | **Globalist** | Jefferson’s Federalist **foil**; Sedition/centralizing lean; Federalist↔Democrat eventually **intertwined** into shared federal/world-order vision — **not** sovereign-citizen rights orientation (§3.4) |
 | **Jackson** | **Nationalist (failed)** | Grounded Bank War intent; no durable crisis solution — central bank returns later; Removal = inclusion failure; **not** Globalist puppet — §4.4. Black-identity/whitewash Author/open |
-| **W.H. Harrison / Taylor / Garfield** | **Nationalist (failed)** | Cut short by death; unfinished missions; early deep-state lesson — soft “Vacuum fall guy” packaging retired → §10.1b |
+| **W.H. Harrison / Taylor / Garfield** | **Nationalist (failed)** | Cut short by death; unfinished missions; early deep-state lesson — §10.1b |
 | **Madison–Buchanan (TONA window)** | **Globalist** (except **Jackson**, **W.H. Harrison**, **Taylor**) | Passionate era tips; failed sovereign/TONA reset — §4; cut-short exceptions §10.1b |
 | **Lincoln** | **Neonationalist** | New America-vision; white-to-blame war read; post-CW race-blind **under federal**; not slavery-causation (Author); carceral XIII / forced-war parallel; §5.4 |
 | **Coolidge** | **Nationalist (failed)** | Blocked Fed/Congress stock-power grab; popular tip exits 1927 (“I do not choose to run”) — suspicious for Depression fork; **not** Globalist neglect — §10.1a |
 | **Gilded → Progressive (§10.1)** | **Mostly Globalist** | Johnson–Arthur (**ex-Garfield**) + **Cleveland/B. Harrison rocking** + McKinley–Wilson + Harding Globalist; **Coolidge** + **Garfield** exceptions |
-| **Herbert Hoover** | **Globalist** | Owns Smoot-Hawley / 1932 taxes / limited-relief dogma he argued hard; sincerity ≠ Vacuum ([§7.2a](#72a-herbert-hoover--globalist-author-lock-2026-08-07)); Fed board detail → [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) |
+| **Herbert Hoover** | **Globalist** | Owns Smoot-Hawley / 1932 taxes / limited-relief dogma he argued hard; sincerity ≠ blank tip ([§7.2a](#72a-herbert-hoover--globalist-author-lock-2026-08-07)); Fed board detail → [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) |
 | **FDR** | **Globalist** | New Deal state; war entry; health concealment |
 | **J. Edgar Hoover (FBI)** | **Globalist institution** | Body remover; not a president |
-| Truman→Trump | Parent + **CIA/NSA overlay** (§9) | **Nixon** Nationalist (no NSA); **GHWB + Trump** Nationalist+NSA; GWB NSA-family → compromise open; NSA alone ≠ auto-Nationalist; sin-eater named when needed |
+| **Eisenhower** | **Globalist** | CIA weaponization / Ajax / political-warfare continuity — [AU-045](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) |
+| **JFK** | **Globalist** | Machine/war-state continuity tip; detail fights are distraction — prefer [JFK article](/events/jfk/jfk-was-never-assassinated.md) |
+| **Ford / Carter** | **Globalist** (rocking) | Post-Nixon seesaw pair — §2.4 |
+| **Reagan** | **Globalist** | CIA-carrier / RINO turn lean — [AU-045 §8](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#8-reagan-revolution--planned-cast-voter-conversion-rino-turn) |
+| Truman→Trump | Parent + **CIA/NSA overlay** (§9) | **Nixon** Nationalist (no NSA); **GHWB + Trump** Nationalist+NSA; **GWB** Nationalist (failed)+NSA; NSA alone ≠ auto-Nationalist; sin-eater named when needed |
 | **Nixon** | **Nationalist** | No real NSA alignment; Watergate / Ellsberg chronology — §9.1 |
 | **GHW Bush** | **Nationalist** + **NSA** | Sin-eater tip on CIA-lit 1991 board — §9.1 · [AU-045 §10](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#10-ghw-bush--nationalist-tip-nsa-sin-eater-on-cia-lit-board) |
-| **G.W. Bush** | Contested / compromised (open) + early **NSA** | **2001–~2005 bandage** then Epstein hinge — §9.1a |
+| **G.W. Bush** | **Nationalist (failed)** + **NSA** | Bandage then Epstein compromise failure — §9.1a |
 | **Trump** | **Nationalist** + **NSA** | Keep-word America-first; Epstein tipster hinge; [*It was the only way*](/governance/war/it-was-the-only-way.md) |
 
 ### 10.1 Gilded → Progressive — split lock (Author, revised 2026-08-07)
@@ -550,7 +555,7 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 
 **Reader:** [Nationalists who failed](/governance/war/nationalists-who-failed.md).
 
-**Graphic:** shipped — [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). Three parent columns + Contested/Open + NSA overlay chips; Vacuum retired.
+**Graphic:** shipped — [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). Three parent camps + Nationalist-failed overlay + NSA chips; Contested/Open legend removed.
 
 ---
 
@@ -686,7 +691,8 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - Session 2026-08-07 (later): **Coolidge → Nationalist (failed)** — refused Fed/Congress stock regulation as power grab vs states; soft history inverts to Depression villain; *I do not choose to run* (1927) while popular = suspicious forced exit; Hoover remains Globalist.
 - Session 2026-08-07 (later): Coolidge **quote bank** in §10.1a; reader article [nationalists-who-failed.md](/governance/war/nationalists-who-failed.md).
 - Session 2026-08-07 (later): **Vacuum column retired**; **W.H. Harrison / Taylor / Garfield → Nationalist (failed)** — cut-short missions; deep-state lesson Americans couldn’t really run for president; soft fall-guy Vacuum packaging inverted; B. Harrison stays Globalist rocking.
-- Session 2026-08-07 (later): Wall chart **shipped** — `presidential-alignment-scorecard-au046.png`; audit pass §10.0 (locks match; soft Globalist\* + Contested/Open + dual Trump cells noted).
+- Session 2026-08-07 (later): Wall chart **shipped** — `presidential-alignment-scorecard-au046.png`; audit pass §10.0 (locks match; soft Globalist\* + dual Trump cells noted).
+- Session 2026-08-07 (later): **Contested/Open retired** — Eisenhower / JFK / Reagan = **Globalist**; Ford↔Carter = **rocking Globalist**; **GWB = Nationalist (failed) + NSA** (compromise failure); chart refreshed.
 - Session 2026-08-06 (later): **John Adams = Globalist** — Jefferson foil; Federalist↔Democrat intertwine → world-order vision, not sovereign-citizen rights.
 - Session 2026-08-06 (later): Gilded→Progressive **Option D** — Vacuum majority; McKinley/TR/Taft/Wilson **Globalist** (Wilson hard).
 - Graphic deferred until author art pass (parent locks dense enough).

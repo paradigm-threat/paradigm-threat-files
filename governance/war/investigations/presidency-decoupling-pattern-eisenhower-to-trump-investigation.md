@@ -46,7 +46,7 @@
 | **Decouple** | Cast ≠ base | JFK trauma federalization; Reagan voter conversion; Obama curated revolutionary |
 | **Reground** | Principal hears actual voters | Nixon Silent Majority / China–détente surface |
 | **Contain** | Scandal/staff-flip exit | Watergate |
-| **Vacuum** | No party allowed real tip | Ford / Carter reception |
+| **Rock** | Compromised poles bounce; nothing major for the people | Ford ↔ Carter (AU-046 §2.4) |
 | **Planned cast** | Popular actor / brand install | Reagan; Clinton; Obama |
 | **Antibody tell** | Fiction names the construct | *BTTF*; *Infinity War* Tony vs Thanos |
 | **Force-guardrail** | Rule-bend to keep tip on rails | GWB Florida; senators/brother geometry |
@@ -61,8 +61,8 @@ flowchart LR
   TrumanCast --> JFK["JFK decouple Dems"]
   JFK --> Nixon["Nixon reground"]
   Nixon --> WG["Watergate"]
-  WG --> Vacuum["Ford Carter vacuum"]
-  Vacuum --> Reagan["Reagan RINO turn"]
+  WG --> Rock["Ford Carter rocking Globalist"]
+  Rock --> Reagan["Reagan RINO turn"]
   Reagan --> BTTF["BTTF antibody"]
   BTTF --> OilWar["GHWB oil dinar war"]
   OilWar --> Clinton["Clinton cast"]
@@ -160,11 +160,11 @@ Cite [JFK §1.2](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-in
 
 ---
 
-## 7. Ford / Carter — contested tip years (parent not strict Vacuum)
+## 7. Ford / Carter — rocking Globalist poles
 
-**Author:** Both widely received as **ineffective**; neither party allowed a tip regrounded to actual voter intent — someone prevented Americans from having a **real president** from either party. Public unrest risk → board plans **Reagan Revolution** as controlled popular install.
+**Author:** Both widely received as **ineffective**; soft history sells post-Watergate recovery rivalry. Public unrest risk → board plans **Reagan Revolution** as controlled popular install.
 
-**Parent (2026-08-07):** Under **strict Vacuum** ([AU-046 §2](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md)), Ford and Carter still **argued era policies** — not literal do-nothings. Score parent **Globalist** (continuity faces on a compromised board) + overlay **Vacuum / contested** only in the sense that **neither camp allowed a real tip to voters**. Do not file them as blank sponges.
+**Parent (2026-08-07 lock):** **Globalist** rocking pair — same seesaw grammar as Cleveland↔Benjamin Harrison ([AU-046 §2.4](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#24-rocking-pawns--clevelandharrison-author-lock-2026-08-07)). They **argued era policies** — not blank tips. Contested/Open overlay **retired**; do not file them as a separate camp.
 
 ---
 

@@ -3,7 +3,7 @@
 
 Soft history has a habit of renaming America-first presidents as villains of neglect — or as blank “fall guys” whose terms barely count. The ones who fought the money board get remembered as the men who “failed to regulate,” as if handing the Federal Reserve more power would have saved the country. The ones who died early get remembered as empty chairs. Both stories are backwards. A Nationalist tip does what it said for the people under the flag. When that tip lacks foresight, or when death and board pressure cut the mission short, the machine returns. Call that badge **Nationalist who failed**. It is not a Globalist puppet wearing nationalist branding. It is grounded intent that did not stick.
 
-The presidents who matter to this argument are the ones who fought the money fight, got cut short teaching Americans they could not really run the chair, inverted power into federal consolidation, or later proved what durable Nationalist foresight looks like. William Henry Harrison, Zachary Taylor, and James A. Garfield sit with Jackson and Coolidge as Nationalists who failed — cut short before the mission could finish.
+The presidents who matter to this argument are the ones who fought the money fight, got cut short teaching Americans they could not really run the chair, inverted power into federal consolidation, got compromised mid-term, or later proved what durable Nationalist foresight looks like. William Henry Harrison, Zachary Taylor, and James A. Garfield sit with Jackson and Coolidge as Nationalists who failed — cut short before the mission could finish. George W. Bush sits with them too — NSA-aligned, then owned by compromise.
 
 ![U.S. Presidents — Globalist / Nationalist / Neonationalist scorecard](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046.png)
 
@@ -53,13 +53,17 @@ A tip that mattered this much to later events does not casually walk away withou
 
 Not every Globalist tip is a blank chair. Grover Cleveland and Benjamin Harrison swapped the White House three times from 1885 to 1897 while the economy convulsed. Soft history sells rivalry. The colder pattern is rocking. Two compromised poles exhaust the public. Power flips by attrition. Nothing major is delivered for the people while similar Globalist agendas advance under both brands. In 1893 Cleveland repealed the Sherman Silver Purchase Act and sold it as gold-reserve defense. The colder read is an early kill of a domestic silver challenger to gold monopoly. That rhyme shows up later whenever a ruble path or a gold-dinar challenger threatens the creditor OS.
 
+Ford and Carter run the same rocking grammar after Nixon. Soft history sells post-Watergate recovery rivalry. Both score Globalist. The bounce is the point.
+
 Hoover into Roosevelt is not that bounce. It is one-way Globalist deepening. First the crash. Then tariff and tax dogma. Then the New Deal fishery. Take away the ability to fish. Sell the fish under federal terms. Both men believed their dogma. Neither was a Nationalist repair tip. The living already named the Fed. Later textbooks converted that knowledge into “they didn’t understand.”
 
 ## Tips that kept word later
 
-The category did not die with Coolidge. Richard Nixon tried to repair Asia damage done under Kennedy and Johnson, and he was not a rocking pawn. Watergate removed a tip who would not stay compliant. George H. W. Bush ran Nationalist priorities on a board the covert war-state had already lit. Some of that work was necessary containment — sin-eater dirt that kept cleaner Nationalist wins possible later. Donald Trump kept word, built his own network, and cleared the foresight bar the failed Nationalists missed. George W. Bush is a different story. His early-2000s disclosure fight reads as an NSA bandage that later collapses into compromise of the tip, not a clean Nationalist column.
+The category did not die with Coolidge. Richard Nixon tried to repair Asia damage done under Kennedy and Johnson, and he was not a rocking pawn. Watergate removed a tip who would not stay compliant. George H. W. Bush ran Nationalist priorities on a board the covert war-state had already lit. Some of that work was necessary containment — sin-eater dirt that kept cleaner Nationalist wins possible later. Donald Trump kept word, built his own network, and cleared the foresight bar the failed Nationalists missed.
 
-Those later tips prove the category is real. Jackson and Coolidge prove it can lose on the money board. Harrison, Taylor, and Garfield prove it can be interrupted before the fight finishes.
+George W. Bush is a Nationalist who failed with an NSA chip. The early years read as a strong NSA bandage — disclosure fights, Tonkin truth pressure, culture pushes that mostly did not stick. Then the tip was compromised while still in office. Epstein blackmail is the hinge that fits. That is not a clean Nationalist column. It is Nationalist intent ruined by capture — the same failed badge as Jackson and Coolidge, different failure mode.
+
+Those later tips prove the category is real. Jackson and Coolidge prove it can lose on the money board. Harrison, Taylor, and Garfield prove it can be interrupted before the fight finishes. George W. Bush proves it can be owned mid-term.
 
 ## Where next
 
@@ -69,7 +73,7 @@ The companion dossier for parent badges and the wall-chart audit is the [preside
 
 This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): ancient and early modern political wisdom is not automatically inferior to modern consensus packaging. Parent badges and Coolidge quote pins live in the [alignment investigation](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md). Depression mechanism and census fights live in the [Depression companion](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md). The all-presidents wall chart is embedded above. The dossier holds the [chart audit](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#100-wall-chart-shipped-2026-08-07).
 
-Keywords: #NationalistsWhoFailed #CalvinCoolidge #AndrewJackson #WilliamHenryHarrison #ZacharyTaylor #JamesGarfield #BankWar #FederalReserve #GreatDepression #PresidentialAlignment #Globalist #Nationalist #Neonationalist #HerbertHoover #FDR #AU046 #ParadigmThreatFiles
+Keywords: #NationalistsWhoFailed #CalvinCoolidge #AndrewJackson #WilliamHenryHarrison #ZacharyTaylor #JamesGarfield #GeorgeWBush #BankWar #FederalReserve #GreatDepression #PresidentialAlignment #Globalist #Nationalist #Neonationalist #HerbertHoover #FDR #AU046 #ParadigmThreatFiles
 
 **Last updated:** 2026-08-07
 
