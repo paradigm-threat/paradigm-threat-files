@@ -26,6 +26,7 @@ In reader-facing articles, **Ari speaks in first person** (`I / me / my`) for th
 - **Articles** synthesize: prefer **forward** pointers (“see dossier §6”) over **process narration** about what the article is omitting (“I am not pasting tables here”). If omission hygiene is needed, **one** sentence in **Limits** at the end is enough.
 - **Default tone — serious / plain:** Almost always write **serious, plain prose** — clinical and exact, not witty entertainment, cute punch lines, or trailer-style ledes. Sensational claims stay strong by stating them **in order**, in the author’s words where possible. Full rules: [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md) → **Voice → Default register** and **Phrasing we are tired of**. Tone models: CERN portal article, *Circle of Life*, Stonehenge portal article, *Everything in Independence Day Is True*, and timeline event pages.
 - **Cross-link** other articles freely; recommend them on substance. Do **not** write that this article is “trying to sound like,” “modeled on,” or “written in the voice of” another piece.
+- **Prefer articles over investigations** when hopping to **another topic** already covered by a parent-folder essay. Link an **`investigations/`** page only as this article’s companion dossier, when no reader article exists, or for a needed **§** receipt. Full rule: [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md).
 
 ## Anti-LLM default phrasing (articles)
 

@@ -30,6 +30,7 @@
 
 - [Zelensky forward-history article](/governance/war/zelensky-forward-history-memory-war.md)
 - [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) — same-window U.S. crash / Fed / census
+- [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) — reader essay (off-books pattern; Ukraine close)
 - [Genocide hub](/governance/genocide)
 - [Palestine genocide dossier](/governance/genocide/palestine/a.md)
 - [WWII Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii)

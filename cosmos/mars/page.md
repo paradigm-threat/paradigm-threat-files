@@ -756,7 +756,7 @@ once again slaughtering the pagans. In particular, Christianity, Islam, and Juda
 even as they continue to share the Old Testament as their primary book source.
 20th Century genocides such as the Great Depression, Holodomor and Holocaust, and African Genocides resulted in
 segregation of earth populations into controllable religious sects.
-(Depression mechanism spine: [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md); Holodomor–Holocaust memory: [investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md).)
+(Depression mechanism spine: [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md); reader essay: [The Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md); Holodomor–Holocaust memory: [investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md).)
 For more on World War 2, check out my [other article](/history/chronology/history-qa).
 
 ![The objectives of the covert tripod incursions were to co-opt and reassert control over the governments of Earth.

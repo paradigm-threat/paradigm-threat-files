@@ -1,6 +1,6 @@
 # Investigation: Presidency Decoupling Pattern — Eisenhower to Trump
 
-> **TL;DR:** Open spine on **decoupling the presidency / leadership cast from the voting base** after WWII. **Origin:** failure to **destroy/occupy Russia** → forever political-warfare board; **Eisenhower** weaponizes **CIA** (Ajax 1953 starts **Iran holy-war / DU pipeline** — biggest continuous modern warfare priority); **gold** (Nazi loot → OSS/CIA fuel; Iraq/Libya settlement wars; *Three Kings* CIA-camp tease) is the monetary OS. **Chain:** Truman betrayal/atom carrier → JFK staged Dem federalization → Nixon short reground + War on Drugs → Watergate → Ford/Carter vacuum → **Reagan Revolution** (voter conversion, hollow New Federalism, RINO turn, unknowing carrier) → *BTTF* antibody attack → GHWB oil/dinar war under Nixon-style vice → Clinton managed cast → GWB Florida pincer → **9/11 antibody** → Obama Malcolm-X revolutionary cast → Hillary public-option B-rail → Angry Birds → Cruz fails → *Infinity War* (Trump=Tony / Thanos=Global South–China cull cynicism) → **Trump** outsider NSA cleanup. Companion gauge: [NSA-aligned presidencies (AU-039)](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md). **AU-045.**
+> **TL;DR:** Open spine on **decoupling the presidency / leadership cast from the voting base** after WWII. **Origin:** failure to **destroy/occupy Russia** → forever political-warfare board; **Eisenhower** weaponizes **CIA** (Ajax 1953 starts **Iran holy-war / DU pipeline**). **Gold** = monetary OS. **Chain:** Truman → JFK → **Nixon Nationalist** + Watergate → Ford/Carter vacuum → Reagan CIA-carrier → *BTTF* → **GHWB Nationalist+NSA sin-eater** on CIA-lit dinar board → Clinton chaos cast → **GWB** NSA tip then mid-term compromise open → 9/11 antibody → Obama → Cruz fails → *Infinity War* → **Trump Nationalist+NSA**. Companion: [AU-039](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md); parent locks [AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07). **AU-045.**
 
 **Status:** Open — author thesis first-class; calendars Tier A; camp/motive reads Author unless cited.
 
@@ -160,9 +160,11 @@ Cite [JFK §1.2](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-in
 
 ---
 
-## 7. Ford / Carter vacuum
+## 7. Ford / Carter — contested tip years (parent not strict Vacuum)
 
 **Author:** Both widely received as **ineffective**; neither party allowed a tip regrounded to actual voter intent — someone prevented Americans from having a **real president** from either party. Public unrest risk → board plans **Reagan Revolution** as controlled popular install.
+
+**Parent (2026-08-07):** Under **strict Vacuum** ([AU-046 §2](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md)), Ford and Carter still **argued era policies** — not literal do-nothings. Score parent **Globalist** (continuity faces on a compromised board) + overlay **Vacuum / contested** only in the sense that **neither camp allowed a real tip to voters**. Do not file them as blank sponges.
 
 ---
 
@@ -211,16 +213,21 @@ See presidencies §5.1.1 — mass firing as **pro-federal continuity / anti-mili
 
 ---
 
-## 10. GHW Bush — oil war, dinar strategy, Nixon-style vice
+## 10. GHW Bush — Nationalist tip, NSA sin-eater on CIA-lit board
+
+**Author lock (2026-08-07):** **George H. W. Bush** = **Nationalist** parent + **NSA-aligned** overlay — antibody **born inside** the CIA disease who chose to fight. Not scored as a CIA-product tip.
 
 **Author:**
 
-- **1991 Gulf War real reason** = **Iraq/Libya dinar-class CIA monetary strategy** (kill challenge to US-backed fiat / settlement). If paper is thin, **whitewash**. Official story does **not** hold.
+- **1991 Gulf War board** was **CIA-lit** (Iraq/Libya **dinar-class** monetary strategy — kill challenge to US-backed fiat / settlement). If paper is thin, **whitewash**. Official story does **not** hold.
 - Same class of reason **Gaddafi’s gold-dinar / paradise** had to be destroyed later ([Libya / gold §6](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md#6-libya-under-gaddafi--threat-to-the-west-gold-and-african-currency); [Great Awakening §3.3](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md#33-case-studies-public-products-and-author-read--iraq-libya-revaluation-resets)).
-- **CIA** built religion-controlled **oil/embargo pipeline** knowing it would warp world politics; **NSA forced to fight the oil war CIA started**.
-- **Read my lips** honesty brand; White House leaks / staff turn = **Nixon-style vice**; political cost locks GOP into **warlike brand** Reaganism sold.
+- **GHWB’s role:** Nationalist tip running **necessary containment / sin-eater** on that CIA-lit board so America-first priorities could continue — **NSA forced to fight the oil war CIA started**, with Bush as the keep-word face who could not always say the real stakes in a compromised media environment.
+- Feared what came next: lose to **Clinton**-class petty-criminal cast → abject WW / chaos-for-order ([§11](#11-clinton--managed-cast)).
+- **Read my lips** honesty brand; White House leaks / staff turn = **Nixon-style vice** pressure on a Nationalist tip; political cost still locked GOP into warlike brand Reaganism sold.
 
 **Documented anchors:** Desert Storm calendar; 2000 Iraq **euro** oil invoices (not gold standard act); Libya gold-dinar proposal discourse.
+
+**Cross-lock:** [AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07).
 
 ---
 
@@ -240,7 +247,24 @@ See presidencies §5.1.1 — mass firing as **pro-federal continuity / anti-mili
 
 Link [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md); [good-actor](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
 
-**Author:** Spectacular **NSA-aligned** counter to CIA pipeline after tip install. **Iraq forever-war / gold erasure** = fighting the **oil war CIA started** (and/or hijack contamination) — brand cost on the Republican face.
+**Author:** Spectacular **NSA-aligned** counter to CIA pipeline after tip install. **Iraq forever-war / gold erasure** = fighting the **oil war CIA started** (and/or hijack contamination) — brand cost on the Republican face. Early: **NSA-aligned family** willing to helm dinar / DU-proxy containment; Author read he did not “react” to 9/11 news as a surprise because he was **inside that plan**.
+
+### 12.2a 2001–~2005 — NSA “five years of bandage” (Author lock 2026-08-07)
+
+**Author:** Those first ~five years are the **strong NSA-alignment** stretch — a **bandage** on a diseased state: force critical truth into daylight, not soft bipartisan theater.
+
+| Fight | Anchor |
+|-------|--------|
+| **Tonkin / Hanyok** | NSA internal push ~2002→; public **2005** — second attack never occurred ([09-11 Tonkin](/events/false_flag/investigations/09-11-investigation.md#gulf-of-tonkin-the-template)) |
+| **Mars RV daylight** | `CIA-RDP96-00788R001900760001-9` **Approved For Release 2000/08/08** — present civilization under collapse / leave-for-elsewhere; **not** a light drop ([Mars 1984 RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#571-nsa-antibody-window-20002005--tonkin-declass-fight-vs-mars-stamp-author-speculation)) |
+| **Pentagon Papers culture** | **2003** TV film pushed onto screens; most people did not care; Tonkin still not taught as false flag in ordinary schools |
+| **Honest dating** | Full unredacted Pentagon Papers **NARA 2011** ≠ this bandage window — do not collapse; map Author “PP for real” memory to **Tonkin SIGINT + PP culture** in 2001–05 |
+
+Full parent/overlay lock: [AU-046 §9.1a](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91a-gw-bush--2001-2005-nsa-bandage-then-epstein-hinge-author-lock-2026-08-07).
+
+### 12.2b Mid-term ruin — Epstein compromise hinge (Author — best fit 2026-08-07)
+
+**Author:** After ~**2005**, the bandage is **ruined** while Bush is **still in office**. Soft Iraq-fatigue alone does not explain undoing an NSA-family tip that was inside the plan. **Best fit / only coherent hinge so far:** **Epstein blackmail network** compromise of **G.W. Bush** (double/clone lore may be downstream theater of the same capture). Consequence: NSA-aligned board can **install nearly any later president**; **Obama** already born/raised as **automated ideology** tip — appears orderless / non-conspiratorial, **and yet completely was** ([§13](#13-obama--malcolm-x-revolutionary-cast)). Cross-read [Epstein × 9/11](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md). **Open** on Tier A paper; **locked** as Author mechanism.
 
 ### 12.3 Saddam seesaw puppet + definitely real gold
 
@@ -263,6 +287,8 @@ Link [09-11 investigation](/events/false_flag/investigations/09-11-investigation
 Link [Obama / Malcolm X puppet curation](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md).
 
 **Author (spine):** Popular **revolutionary Democrat** cast modeled off **Malcolm X** threat/answer geometry — curated slot, not organic base sovereignty.
+
+**Author add (2026-08-07):** After the **GWB ~2005 Epstein-compromise hinge** ([§12.2b](#122b-mid-term-ruin--epstein-compromise-hinge-author--best-fit-2026-08-07); [AU-046 §9.1a](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91a-gw-bush--2001-2005-nsa-bandage-then-epstein-hinge-author-lock-2026-08-07)), NSA-aligned / board planners could install nearly any tip. **Obama** was already **born and raised** with ideology set so he would operate as a **more-or-less automated** president — appearing to take **no orders** and to sit outside conspiracy — **and yet completely was**. That is maximum-polish managed cast: sincere-feeling autonomy as the product.
 
 ---
 
@@ -309,12 +335,12 @@ Link [Obama / Malcolm X puppet curation](/governance/war/investigations/obama-ma
 7. **Nixon** reground + intentional Silent Majority/War on Drugs; **Watergate** containment; RINOs seize initiatives.
 8. **Reagan** planned cast + voter conversion + hollow New Federalism + **RINO turn**; unknowing carrier.
 9. ***BTTF*** attacks entire Reagan Revolution (NSA).
-10. **1991** real reason = dinar/settlement CIA strategy; NSA fights oil war CIA started.
+10. **1991** board = dinar/settlement **CIA-lit**; **GHWB** = **Nationalist + NSA** tip running **sin-eater / necessary containment** (not CIA-product tip).
 11. **Saddam** = CIA seesaw puppet; *Three Kings* = CIA gold tease vs NSA-allies.
-12. **GWB** Florida force-guardrail → 9/11 antibody → oil/gold war brand cost.
+12. **GWB** **2001–~2005 NSA bandage** (Tonkin 2005, Mars RV daylight, PP culture fail) → mid-term **Epstein compromise** hinge (Author best fit) → automated **Obama** cast → outsider Trump path.
 13. **Obama** Malcolm-X revolutionary cast; **Hillary** public-option B-rail without self-label socialist.
 14. **Cruz** last Angry Birds break fails; **Trump** required; ***Infinity War*** Trump=Tony / Thanos=Global South–China cull cynicism.
-15. **Trump** = NSA cleanup tip finishing old CIA plans.
+15. **Trump** = **Nationalist + NSA** cleanup tip finishing old CIA plans ([AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07)).
 
 ---
 
@@ -364,7 +390,7 @@ Link [Obama / Malcolm X puppet curation](/governance/war/investigations/obama-ma
 
 Keywords: #PresidencyDecoupling #Eisenhower #Ajax #OperationAjax #Truman #Nixon #Watergate #Reagan #NewFederalism #SilentMajority #WarOnDrugs #RINO #BackToTheFuture #GeorgeHWBush #GeorgeWBush #Clinton #Obama #HillaryClinton #TedCruz #Trump #TonyStark #Thanos #InfinityWar #PearlHarbor #NineEleven #NSA #CIA #Gold #Iran #Mossadegh #SaddamHussein #Gaddafi #Antibody #ParadigmThreatFiles
 
-*Last updated: 2026-08-05*
+*Last updated: 2026-08-07*
 
 ---
 

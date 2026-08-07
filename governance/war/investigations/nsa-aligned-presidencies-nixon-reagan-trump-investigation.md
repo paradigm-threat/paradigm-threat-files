@@ -1,6 +1,6 @@
 # Investigation: NSA-Aligned Presidencies — Nixon, Reagan, Trump (Republican Gauge)
 
-> **TL;DR:** Open dossier on **presidential alignment** with the **NSA antibody** lane vs **CIA / globalist** war-state. **Method (author):** only **Republican** nominees are useful gauges of **groundedness with constituents** — Democratic whip uniformity hides the same test. **Working map:** **Nixon** ≈ grounded American + **non-compliant** executive → **Watergate containment** (media = crook / liar). **Reagan** ≈ **Hollywood construct** sold as man-of-the-people while the administration **ran Russia-containment / Cold War escalation** grammar → media attack = **incompetent puppet / senile actor**. **Trump** ≈ **fully NSA-aligned** multi-decade containment plan against Deep State holy-war geometry. Film clues: ***Back to the Future* (1985) + *Part II* (1989)** = **NSA-aligned** (Reagan-as-actor call-out; Libyan nuclear-proxy terror; 9/11 PP cluster) — [§4](#4-back-to-the-future-12--nsa-camp-assessment); ***Airplane!* / *Airplane II*** = Reagan **incompetence** attack lane, with **PATCO** named in the sequel — [§5](#5-patco-1981--airplane-attack-lane). **Long-chain companion:** [Presidency decoupling — Eisenhower → Trump (**AU-045**)](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md). Cross-read: [NSA investigation](/governance/war/investigations/nsa-investigation.md), [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md), [JFK dossier Nixon inverse exit](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate), [Hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md), [Trump dynasty / antibody](/events/trump/index-trump-investigation.md), [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md).
+> **TL;DR:** Open dossier on **presidential alignment** with the **NSA antibody** lane vs **CIA / globalist** war-state. **Method (author):** only **Republican** nominees are useful gauges of **groundedness with constituents** — Democratic whip uniformity hides the same test. **Working map:** **Nixon** = **pure Nationalist** (not NSA-aligned — NSA still waking); Watergate + Ellsberg absolution = wrong end of rising antibody law. **Reagan** ≈ **Hollywood construct** / CIA Russia-containment → senile-actor attack. **Trump** ≈ **Nationalist + NSA-aligned** keep-word tip ([AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07)). Film: ***BTTF* 1–2** NSA; ***Airplane*** + **PATCO** Reagan lane — [§4](#4-back-to-the-future-12--nsa-camp-assessment); [§5](#5-patco-1981--airplane-attack-lane). Companion: [AU-045](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md).
 
 **Status:** Open — author thesis first-class; Reagan globalist-play strongest open claim; BTTF camp labeled **NSA** with residual notes.
 
@@ -65,11 +65,11 @@
 
 | President | Groundedness (author) | Camp hypothesis | Media attack grammar | Exit / pressure form |
 |-----------|----------------------|-----------------|----------------------|----------------------|
-| **Nixon** | High — direct American, constituent plight | **NSA-leaning / non-compliant** vs CIA war-state | **Crook / liar / degenerate** (character assassination) | **Watergate** scandal theater → resignation ([JFK dossier §1.2](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate)) |
+| **Nixon** | High — direct American, constituent plight | **Nationalist parent — not NSA-aligned** (NSA still waking; often CIA-order cleanup). Priorities inverted after resignation threat; Watergate / Ellsberg absolution put him on the wrong end of rising antibody law ([AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07)) | **Crook / liar / degenerate** (character assassination) | **Watergate** scandal theater → resignation ([JFK dossier §1.2](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate)) |
 | **Reagan** | **Performed** groundedness (Hollywood everyman) | **CIA / globalist-aligned** or **heavily played** — Russia-containment board | **Incompetent / senile / actor-puppet** | Survives Hinckley theater; **PATCO** as domestic toughness theater; Cold War escalation as foreign product |
-| **Trump** | High — outsider brand + base lock | **NSA-aligned** containment plan (decades) | **Crook / fascist / clown** hybrid — closer to Nixon smear + competence denial | Assassination attempts / lawfare / RINO brake ([assassination dossier](/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md); [RINO](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md)) |
+| **Trump** | High — outsider brand + base lock | **Nationalist parent + NSA-aligned** overlay — keep-word America-first; not Vacuum / not Globalist CO | **Crook / fascist / clown** hybrid — closer to Nixon smear + competence denial | Assassination attempts / lawfare / RINO brake ([assassination dossier](/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md); [RINO](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md)) |
 
-**One-line spine:** Nixon **broke script** and was **contained**; Reagan **was the script** (or carried it); Trump **is the antibody script** fighting the prior board.
+**One-line spine:** Nixon was a **pure Nationalist** crushed while NSA woke; Reagan **was the CIA-board script** (or carried it); Trump is **Nationalist + NSA antibody** — the public tip that could actually work.
 
 ---
 
@@ -205,7 +205,7 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 | Element | Author read |
 |---------|-------------|
 | **Groundedness** | Straight-talk American; understood constituent plight; wanted direct address |
-| **Alignment** | **NSA-leaning / antibody-compatible** relative to CIA escalation lane (interpretive) |
+| **Alignment** | **Nationalist parent — not NSA-aligned tip** (NSA still waking / often CIA-order cleanup). Watergate + Ellsberg absolution = wrong end of rising antibody law; his fall teaches sin-eating ([AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07)) |
 | **Media knife** | **Moral / criminal** smear (crook, liar, degenerate) — destroy **character** because the **policy break** was real |
 | **Contrast to Reagan** | Opposite smear → opposite role |
 
@@ -215,7 +215,7 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 
 ## 8. Trump — NSA-aligned containment plan
 
-**Author (this session):** Trump is **completely NSA-aligned** and likely part of an **NSA-backed plan in motion for decades** — containment of the Deep State plan.
+**Author (this session):** Trump is **Nationalist** (America-first + kept word) **and** **completely NSA-aligned** — multi-decade containment of the Deep State plan. Parent + overlay per [AU-046 §9.1](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#91-author-lock--nationalist--nsa--sin-eater-2026-08-07).
 
 **Corpus anchors (do not re-litigate full Trump stack here):**
 
@@ -304,7 +304,7 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 
 Keywords: #NSA #CIA #Nixon #Reagan #Trump #BackToTheFuture #Airplane #PATCO #AirTrafficControllers #PredictiveProgramming #Hollywood #Antibody #Globalist #Watergate #ColdWar #Libya #Iran #TwoCamps #ParadigmThreatFiles
 
-*Last updated: 2026-08-06*
+*Last updated: 2026-08-07*
 
 ---
 

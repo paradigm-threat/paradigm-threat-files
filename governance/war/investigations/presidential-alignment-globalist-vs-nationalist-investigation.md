@@ -1,26 +1,26 @@
 # Investigation: Presidential Alignment — Globalist vs Nationalist
 
-> **TL;DR:** Master taxonomy for **all** U.S. presidents is **Globalist vs Nationalist** (not CIA/NSA alone), with **Neonationalist** as the exclusion fork (specimens: **Jefferson**, **Lincoln**). **Nationalist** = individual rights, state rights, limited federal government — **including natives**. **Globalist** = centralizing machine / Rus-Horde redaction / managed cast. **Vacuum** = puppet / do-nothing faces. **Post-1947 CIA vs NSA** = **sublayer only** — NSA is an **antibody within the disease**, **not** Nationalist ([§9](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#9-bridge--post-1947-cia-nsa-sublayer); [AU-045](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md); [AU-039](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)). **Locks:** Washington Globalist; Jefferson + Lincoln Neonationalist; Madison→Buchanan Vacuum; Hoover Vacuum fall-guy; FDR Globalist; Depression → **AU-047**; J. Edgar = Rage body remover. **AU-046.**
+> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Vacuum parent column retired** — cut-short tips that looked like fall-guy Vacuums score **Nationalist (failed)** (§10.1b). **Rocking:** Cleveland↔Benjamin Harrison (§2.4). **Nationalist∩NSA** + sin-eater (§9). **Locks:** Washington/Adams Globalist; Jefferson+Lincoln Neonationalist; Madison→Buchanan Globalist **except Jackson** + **W.H. Harrison / Taylor** Nationalist (failed); **Garfield / Coolidge** Nationalist (failed); Johnson–Arthur (ex-Garfield) + Cleveland/B. Harrison + Harding + Progressive empire + Hoover + FDR Globalist; **Nixon / GHWB / Trump Nationalist**; GWB bandage→Epstein→Obama. Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
 
 **Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting; master graphic deferred until art pass.
 
 
-**Last updated:** 2026-08-06 — Gilded→Progressive **split D** (§10.1); John Adams Globalist; NSA ≠ Nationalist; Lincoln Neonationalist; Hoover Vacuum
+**Last updated:** 2026-08-07 — Vacuum column retired; W.H. Harrison / Taylor / Garfield = Nationalist (failed); Coolidge quote bank + reader article
 
 ---
 
 ## Guide (read order)
 
 1. Session capture — [§1](#1-authors-originating-thesis)
-2. Vocabulary — Nationalist / **Neonationalist** / Globalist / Vacuum / **puppet witting (§2.2)** — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
+2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **Vacuum retired** / **puppet witting (§2.2)** / **immune kill (§2.3)** — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
 3. Founding fork — Washington + **Jefferson** + **John Adams foil** — [§3](#3-founding-fork--washington-closed-door-federal-parchment)
-4. TONA window — Madison→Buchanan puppets — [§4](#4-tona-window--madison--buchanan-puppets--do-nothing-presidency)
+4. TONA window — Madison→Buchanan Globalist continuity (**Jackson** Nationalist-failed exception §4.4) — [§4](#4-tona-window--madison--buchanan-globalist-continuity-vacuum-bar-fails)
 5. Civil War / Lincoln — [§5](#5-civil-war--lincoln) (stature · **Black-identity inventory §5.3** · alignment)
 6. Slave-owning count + carceral 13th — [§6](#6-slave-owning-presidents--carceral-continuity)
 7. Depression / Hoover / FDR — [§7](#7-depression--herbert-hoover-fdr-census-trust)
 8. FBI / J. Edgar — [§8](#8-fbi--j-edgar-hoover-body-remover)
 9. Bridge Truman→Trump — [§9](#9-bridge--post-1947-cia-nsa-sublayer)
-10. Scorecard — [§10](#10-master-scorecard-stubs) · Gilded/Progressive split [§10.1](#101-gilded--progressive--split-lock-author-2026-08-06)
+10. Scorecard — [§10](#10-master-scorecard-stubs) · Gilded/Progressive [§10.1](#101-gilded--progressive--split-lock-author-revised-2026-08-07) · Coolidge [§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07) · Cut-short / Vacuum retired [§10.1b](#101b-cut-short-tips--wh-harrison-taylor-garfield--nationalist-failed-vacuum-column-retired)
 11. Claims / Qs — [§11](#11-authors-open-claims-au-046) · [§12](#12-questions-to-clarify-verify-or-debunk)
 
 ---
@@ -35,11 +35,11 @@
 
 | Beat | Meaning |
 |------|---------|
-| **Master taxonomy** | Globalist / Nationalist / **Neonationalist** / Vacuum; CIA/NSA only after 1947 |
+| **Master taxonomy** | Globalist / Nationalist / **Neonationalist** (**Vacuum parent retired** 2026-08-07); CIA/NSA only after 1947 |
 | **Nationalist bar** | Rights geometry must include natives — race apartheid = disqualifier |
 | **Jefferson fork** | Pure visionary except native/race hole → **Neonationalist** badge |
 | **Washington fork** | Federal project as redaction + vassal geometry — **Globalist**, not nationalist founding |
-| **TONA erase** | Madison→Buchanan = **Vacuum puppets** (elected to do nothing); federal compromised since inception; TONA erase needs Civil War; missed post-Napoleon reset |
+| **TONA erase** | Madison→Buchanan = **Globalist** tips who **failed** sovereign/TONA reset (not strict Vacuum) — **except Jackson = Nationalist (failed)** §4.4; federal compromised since inception; TONA erase needs Civil War |
 | **Lincoln** | Intent ≠ outcome; war scale is the charge; parent = **Neonationalist** (new vision; §5.4); physical/identity claims stay tiered |
 | **Depression** | Author genocide read — full spine in **[AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)**; this file scores Hoover/FDR only |
 | **Two Hoovers** | J. Edgar = body remover; Herbert = Depression president — never conflate |
@@ -55,10 +55,10 @@ Reuse the constitution battlefield **Nationalist / Globalist** core ([§1.1](/go
 
 | Camp | Working definition (this file) |
 |------|--------------------------------|
-| **Nationalist** | Individual rights, **state rights**, limited federal government (if any), sovereignty close to accountable citizens; anti-foreign-title / anti-emolument firewalls (**TONA** class). **Must** treat the people under the flag as the people — **including Native nations / indigenous continuity**. A vision that is “pure” only for one race is **not** nationalist here. |
+| **Nationalist** | **America-first** tip that **does what it said** — individual / state rights grammar, limited federal lean where real, sovereignty close to accountable citizens; **not** Globalist controlled opposition. Pre-1947 **native-inclusion** bar still applies: a vision “pure” only by excluding Native nations / races fails this badge and scores **Neonationalist** (Jefferson / Lincoln). Post-1947: large **overlap** with **NSA-aligned** antibody agendas ([§9](#9-bridge--post-1947-cia-nsa-sublayer)). **Foresight bar (2026-08-07):** a Nationalist tip must grasp that Oval wins are **not** safe from **immediate reversal** in the next **rocky election**. Bad leadership = acting as if “we’re in charge now, we do what we want” with no path that survives the bounce. Major tell: did they play a **durable strategy / real compromise** that outlasts a single tip — or a **hardline sweep** that the rocking/Globalist board can erase next cycle? Rocking poles (§2.4) fail this bar by design. **Nationalist (failed):** Author overlay when grounded America-first intent is clear and the tip is **not** a Globalist puppet, yet foresight, inclusion, multi-cycle settlement, **or unfinished mission cut short by death / board removal** still fails hard — specimens **Jackson** ([§4.4](#44-andrew-jackson--nationalist-who-failed-author-lock-2026-08-07)), **Coolidge** ([§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07)), **W.H. Harrison / Taylor / Garfield** ([§10.1b](#101b-cut-short-tips--wh-harrison-taylor-garfield--nationalist-failed-vacuum-column-retired)). Do **not** promote those tips to Neonationalist specimen class. |
 | **Neonationalist** | **Looks** nationalist on democracy / plurality / limited-gov fights — **except** a load-bearing failure: **excludes peoples / races / dissenting populations** from the “real” America. Two specimen classes here: **(1) Jefferson** — Declaration **“merciless Indian savages”** / native-apartheid hole; **(2) Lincoln** — new post-war nation-vision that already omitted Black + Native peoples, then demotes white privilege and forces dissenters into war (§5.4). |
-| **Globalist** | Centralizes authority; integrates into transnational finance/war/law; replaces “the people” with administrable categories; redacts Rus-Horde / indigenous continuity; managed cast |
-| **Vacuum / contested** | Neither side allowed a real tip; mixed board; **puppet / do-nothing face**; or insufficient gauge |
+| **Globalist** | Centralizes authority; integrates into transnational finance/war/law; replaces “the people” with administrable categories; redacts Rus-Horde / indigenous continuity; managed cast. Includes **rocking-pawn** tactics (§2.4) and tips who **passionately argued** consolidating policies even when later damage was unforeseen. |
+| **Vacuum (retired)** | **Parent column removed 2026-08-07.** Soft “fall guy / unfinished term / do-nothing sponge” packaging once looked like a fourth camp. The tips that best fit that packaging — **W.H. Harrison, Zachary Taylor, James A. Garfield** — lock as **Nationalist (failed)** (§10.1b): missions cut short; early deep-state lesson that Americans could not actually run the presidency unless agendas served evil purposes. Do **not** revive parent Vacuum for wall charts. Post-1947 **“contested tip” overlay** may still mean *neither camp allowed a real tip to voters* without inventing a Vacuum parent. |
 
 ### 2.1 Why “neo-” (author lock)
 
@@ -80,16 +80,49 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 
 | Rule | Application |
 |------|-------------|
-| **Default** | Vacuum / puppet / fall-guy = **unwitting** |
+| **Default** | Outcome-blind / script-believing tips may be **philosophically unwitting** (§2.2) **without** inventing a retired Vacuum parent |
 | **Seeming-witting** | Subjective certainty (“I chose this”) ≠ operational authorship |
 | **Philosophical floor** | Inability to foresee / negligence toward outcomes = still unwitting on this desk |
 | **Rare “witting” claim** | Needs extraordinary evidence; still may collapse to programming + outcome-blindness |
-| **Do not** | Write “Herbert Hoover knowingly took the fall” as Tier A; purposeful neglect selects an **unwitting** face ([AU-047 §6](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)) |
+| **Do not** | Treat Globalist **sincerity** (“thought he was doing right”) or passionate advocacy as blank sponge — **Hoover**, **Johnson–Arthur** (ex-Garfield), **Cleveland/B. Harrison**, TONA-window tips who sold era policy ([§2.4](#24-rocking-pawns--clevelandharrison-author-lock-2026-08-07), [§4](#4-tona-window--madison--buchanan-globalist-continuity-vacuum-bar-fails), [§7](#7-depression--herbert-hoover-fdr-census-trust), [§10.1](#101-gilded--progressive--split-lock-author-revised-2026-08-07)) |
+| **Cut-short tips** | **W.H. Harrison / Taylor / Garfield** → **Nationalist (failed)** (§10.1b) — not a Vacuum column |
+
+### 2.4 Rocking pawns — seesaw attrition (Author lock 2026-08-07)
+
+**Documented surface — Cleveland / Harrison:** **Grover Cleveland** and **Benjamin Harrison** swapped the White House **1885–1897** (Cleveland 1885–89 → Harrison 1889–93 → Cleveland 1893–97) under **extreme economic instability**, taking intense criticism as rivals.
+
+**Cleveland — Sherman Silver Purchase Act repeal (Documented + Author 2026-08-07):** Under **Harrison**, Congress passed the **Sherman Silver Purchase Act (1890)** — large mandatory Treasury silver buys, notes redeemable in silver **or gold**. In the **Panic of 1893**, **Cleveland** called a **special session**, blamed silver-purchase law for draining **gold** reserves, and drove **repeal** (message **8 Aug 1893**; repeal later that year). Soft history: sound money / gold defense. **Author:** highly suspicious — a major **precursor** to later **wars over gold**: anything fought over the **ruble**, or to destroy states building **hard / settlement / gold-backed** alternatives (**Iraq**, **Libya** gold-dinar class). Killing a domestic silver-challenger path that threatened gold monopoly rhymes with later killing **foreign** currency challengers so fiat / creditor OS wins ([AU-045 gold OS](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#10-ghw-bush--nationalist-tip-nsa-sin-eater-on-cia-lit-board); [Libya gold/dinar](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md#6-libya-under-gaddafi--threat-to-the-west-gold-and-african-currency); [usury / coining](/governance/usury/d.md)). Cleveland **owned** this fork in public at length — Globalist sincerity on the money board, not limited-gov Nationalist myth.
+
+**Author definition — rocking motion:** Two **ideological puppet poles** force the public into a **back-and-forth** presence fight until resistance to *both* neo-sides is **exhausted**. Power is taken by **attrition** in a popular sweep — then lost again to the other pole in the next sweep. The **big giveaway:** **nothing major is actually accomplished** for the people, while **similar Globalist agendas** advance under **bipartisan** guise (modern theater is thick with this). Soft history sells the rivalry as real choice; the machine harvests consolidation either way.
+
+**High-profile pawn rhyme:** Same family of motion as **Saddam** / **Hitler**-class seesaw assets — spectacular rise → strict consolidation / authority over populations fooled → wreck or blame theater ([AU-045 Saddam seesaw](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#123-saddam-seesaw-puppet--definitely-real-gold)). Cleveland and Harrison **engaged** the rocking as visible poles; they may not have realized full damage (**philosophically unwitting** on outcomes) while **passionately** arguing their eras. Parent: **Globalist** (both).
+
+**Condition lock — only when both sides are fully compromised:** Rocking is **possible only** when **both** poles are under control. Otherwise a **rational human — or even an animal** — would sense the seesaw early and **get off**. Uncompromised tips break the motion.
+
+**Not rocking (antibody / repair grammar):**
+
+| Specimen | Why not rocking |
+|----------|-----------------|
+| **Nixon** | Not a pole in a managed duel. Tried to **repair Asia damage** done under **Kennedy / Johnson**; grounded Nationalist tip — Watergate containment, not seesaw attrition ([AU-039](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)) |
+| **Ford (after Nixon)** | Not the opposite rocking pole either — contested tip years, not Cleveland↔Harrison alternation |
+| **NSA / antibody plans** | When an **antibody** plan is live, it is often so strong in the **revelation-of-the-method** sense that there is **no way to rock it** — the public is forced to see a real fork, not two fake neo-sides. Rocking returns when both party tickets are owned again |
+
+**Other rhyme specimens (Author catalog — not all locked as full Cleveland pairs):** modern **bipartisan** “nothing major / same agenda” theater (war authorizations, surveillance stacks, bailout continuity); managed Dem↔Rep brand fights that leave Fed / empire / Title-class machinery untouched. **Hoover → FDR** is **not** classic rocking — it is **one-way Globalist deepening** (tariff/tax/relief dogma into New Deal fishery), not a popular sweep that later returns the prior pole unchanged. Scorecard: [§10](#10-master-scorecard-stubs).
+
+**Falsifiers:** A true two-pole alternation that delivers **lasting** Nationalist rights geometry (natives included / limited federal / keep-word) would break the “nothing major accomplished” giveaway.
+
+**Nationalist foresight vs hardline sweep (Author 2026-08-07):** Nationalist leadership requires realizing actions will **not** automatically stick through the next rocky election. **Durable compromise / strategy** that survives tip-change = Nationalist-competent. **Hardline “now we’re in charge”** that invites immediate reversal = poor foresight — often feeds rocking/Globalist harvest even when the tip *felt* America-first. Specimens: **Trump** building own network / multi-cycle fight = foresight grammar; **Cleveland↔Harrison** hardline poles that bounce = foresight failure; **Hoover** tariff/tax/relief hardline deepened then overwritten by FDR consolidator = not Nationalist strategy; **Jackson** Bank War kill without durable Nationalist money settlement → Second Bank gone, central banking returns later = **Nationalist (failed)** foresight specimen ([§4.4](#44-andrew-jackson--nationalist-who-failed-author-lock-2026-08-07)); **Coolidge** blocks Fed/Congress stock-market power grab then exits while popular (**“I do not choose to run”** 1927) → Hoover/Fed win by technicality = **Nationalist (failed)** foresight specimen ([§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07)). **Nixon** repair attempts + post-exit harvest of his initiatives = Nationalist tip contained, not proof he lacked the foresight bar while in office — RINO seize is the board’s reversal weapon.
+
+### 2.3 Puppet presidency = immune-system kill (Author lock — 2026-08-07)
+
+**Author:** Puppet presidency was necessary so the body politic does **not** react immediately like **antibodies**. Puppetry **eliminates the country’s immune system** — lets disease in unchecked, un-outed, often denied. “Disease” here is not mainly foreigners; it is whatever was supposed to be **unique / free** about America (Declaration / Constitution / Bill of Rights / [TONA article](/governance/constitution/tona-not-war-liberty-rebrand.md)) being fought, resisted, and replaced by control the moment it appears.
+
+Antibody lineage kept its eye on the **Oval**: without a tip that actually represents the people, smaller measures fail — nobody inside the body politic answers timeline, events, and media claims in **real time**. **Trump** is the specimen who finally could **talk directly to the people** (full term, fake defeat, revival, own network) — what **Jefferson** had in mind, not delay-prone representative democracy. Reader spine: [*It was the only way*](/governance/war/it-was-the-only-way.md) · [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md). Distraction grammar when a tip threatens the board: **Watergate** (Author: contrived, not about Nixon) and **Kennedy** detail fights while control deepens into corporate safe zones — hop [JFK article](/events/jfk/jfk-was-never-assassinated.md), do not re-litigate here.
 
 | Era | Badge set |
 |-----|-----------|
-| **Pre-1947** | Globalist / Nationalist / **Neonationalist** / Vacuum |
-| **Post-1947** | Same **parent** labels + **CIA-aligned** / **NSA-aligned (antibody)** as **sublayer only** — NSA ≠ Nationalist ([§9](#9-bridge--post-1947-cia-nsa-sublayer)) |
+| **Pre-1947** | Globalist / Nationalist / **Neonationalist** (**Vacuum parent retired**) |
+| **Post-1947** | Same **parent** labels + **CIA-aligned** / **NSA-aligned (antibody)** as **sublayer** — **major Nationalist∩NSA overlap**; sin-eater = non-overlap hinge ([§9](#9-bridge--post-1947-cia-nsa-sublayer)) |
 
 **Not a party map.** Democrat/Republican labels do not equal these camps. Early “Democratic-Republican” Jeffersonianism can still be **Neonationalist**.
 
@@ -139,43 +172,63 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 | Later intertwine | Federalist↔Democrat merge into shared federal/world-order machine (Author) → both poles feed **Globalist** outcome except where Neonationalist exclusion vision is the load-bearing badge (Jefferson/Lincoln) |
 | Badge | **Globalist** — foil, not Vacuum puppet, not Neonationalist |
 
-**Do not conflate** with **J.Q. Adams** (Madison→Buchanan **Vacuum** lock, §4).
+**Do not conflate** with **J.Q. Adams** (Madison→Buchanan **Globalist** continuity tip, §4).
 
 ---
-## 4. TONA window — Madison → Buchanan (puppets / do-nothing presidency)
+## 4. TONA window — Madison → Buchanan (Globalist continuity; Vacuum bar fails)
 
 **Deep proof:** [TONA, Not War](/governance/constitution/tona-not-war-liberty-rebrand.md); [constitution battlefield §2](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md#2-the-original-thirteenth-amendment--titles-of-nobility-tona-1810).
 
 **Documented hinges:** Titles of Nobility Amendment (1810) passed Congress by huge majorities; printed as **“Amendment XIII”** in Statutes at Large and pocket Constitutions for a generation; Virginia code republished it; mainstream story = never ratified / forgotten; **1865 carceral 13th** occupies the number after Civil War.
 
-### 4.1 Author lock (session 2026-08-06) — puppets after Napoleon
+### 4.1 Author lock — post-Napoleon failure (session capture) + parent revision (2026-08-07)
 
 > Madison→Buchanan presidents were seriously **nothing more than puppets**. After **Napoleon failed**, this was the moment to **reanalyze** how America got here and avoid repeating that imperial mistake — especially by **not supporting foreign entities** and by making sure **TONA gets confirmed rather than hidden**. None of these presidents had power to stop what was happening; they were **elected because they would do nothing**. **No exceptions** on this list. That shows the presidency was **hardly real** for most Americans — people never heard day-to-day presidential life and assumed the office was mostly **foreign negotiation and interstate commerce**. That thin public job description is why this list makes **no attempt to change anything**. Original plans for the creation of America involved **joining up with world empires and the power structures that would come**. After Napoleon’s failure, forward direction was unclear; what was clear was that America needed a **huge reset** — large **reappropriation of culture** and **organized power**. **TONA would never have been erased if not for the Civil War.** These presidents also **did nothing to stop the Civil War** from eventually happening. Across the whole window they could have sponsored laws that changed everything — e.g. make the enslaved **citizens after a set period**, and **disconnect foreign influence** the way TONA did. All of that could have been done **without TONA itself**; **none of it was accomplished at the federal level**. That tells that the **federal level has always been compromised since its inception** — never capable of the **internal auditing** required to prevent catastrophic wars and bad history from repeating. In fact the history of the federal government seems to **ensure** repeating cycles — **even until today**.
+
+**Parent revision (Author 2026-08-07):** Keep the quote as the **TONA / sovereign-reset failure** lock — they did **nothing** on the reset that mattered. Under the **strict Vacuum bar** (§2), that is **not** enough for parent Vacuum: these tips still **argued and owned** the policies of their time (wars, doctrines, removal, expansion, party fights). Soft “unwitting do-nothing sponge” packaging is retired. Parent: **Globalist** continuity tips inside the compromised empire-join machine — **except Jackson** (§4.4): Nationalist who fought the Bank and failed (foresight + native-inclusion bars), **not** a Globalist puppet. Quote’s “no exceptions” stays as the **reset-failure** charge for the window; it does **not** erase Jackson’s separate parent badge. Philosophical unwittingness about long-horizon damage (§2.2) can remain without Vacuum.
 
 ### 4.2 Unpack
 
 | Beat | Meaning |
 |------|---------|
-| **Puppets / no exceptions** | Madison, Monroe, J.Q. Adams, Jackson, Van Buren, W.H. Harrison, Tyler, Polk, Taylor, Fillmore, Pierce, Buchanan — **Vacuum faces**, not sovereign brakes |
+| **Tips (Madison→Buchanan)** | **Globalist** — passionate era policy; **failed** sovereign/TONA reset — **except Jackson** (§4.4) |
 | **Post-Napoleon missed reset** | Confirm TONA + cut foreign hooks + cultural reappropriation — **not done** |
-| **Thin presidency** | Public only saw foreign/commerce theater → no expectation of internal audit or war-prevention |
+| **Thin presidency (public story)** | Soft history sold foreign/commerce theater; does **not** equal Vacuum if the tip fought for those forks |
 | **Founding already world-empire join** | Closed-door federal project aimed at **power structures that would come** (pairs Washington **Globalist**) |
 | **TONA erase needs Civil War** | Quiet amnesia alone insufficient; war opens parchment for **1865 swap** |
-| **Do-nothing on war path** | No federal time-bounded citizenship / foreign-disconnect statutes that would have made war + carceral XIII unnecessary |
 | **Federal compromised since inception** | Not a late capture story — **structural**; cycles repeat into present |
 
 ### 4.3 Score (locked stub)
 
 | Axis | Badge |
 |------|-------|
-| **Parent (all Madison→Buchanan)** | **Vacuum** — managed **do-nothing** / puppet presidency |
-| **System they sat inside** | **Globalist** compromised federal (empire-join + erase path) |
-| **TONA / Civil War prevention** | **Failed by design** — elected not to stop it |
-| **Jackson Removal** | Does **not** make him an exception to puppet lock; native destruction = **machine ops through a Vacuum face** (Jefferson remains the **Neonationalist specimen**; do not promote Jackson to that badge just for Removal cruelty) |
+| **Parent (Madison→Buchanan)** | **Globalist** — argued era policy inside compromised federal machine — **except Jackson = Nationalist (failed)** §4.4 |
+| **System** | **Globalist** compromised federal (empire-join + erase path) |
+| **TONA / Civil War prevention** | **Failed** — reset not taken (quote above) |
+| **Jackson** | **Nationalist who failed** — Bank War grounded; Removal = inclusion failure; Jefferson remains **Neonationalist** specimen 1 (do not promote Jackson to that badge) — §4.4 |
 
-**Desk rule:** Do **not** score these men as nationalist reformers who “tried and failed.” Score them as **faces selected for inaction** while the federal machine kept the empire-join / war / TONA-erase path open. Per-president deep essays optional later; **parent badge does not change** without author override.
+**Desk rule:** Default this window to **Globalist continuity tips** who sold their boards while TONA/sovereign reset stayed closed — **not** Nationalist reformers who “tried and failed.” **Exceptions:** **Jackson** (§4.4); **W.H. Harrison** and **Zachary Taylor** (§10.1b cut-short Nationalist failed). Do **not** reopen a Vacuum parent.
 
-**Lincoln** is outside this puppet stub for scorecard purposes (misled / war outcome — §5); the do-nothing window **feeds** his crisis.
+**Lincoln** is outside this stub (Neonationalist — §5); the failed-reset window **feeds** his crisis.
+
+### 4.4 Andrew Jackson — Nationalist who failed (Author lock 2026-08-07)
+
+**Not** a Globalist puppet wearing nationalist branding. **Nationalist** with grounded intentions who **failed** — especially on looming financial crises and on native inclusion.
+
+**Bank War (Documented + Author):**
+
+| Beat | Note |
+|------|------|
+| Trap | **1832** — **Henry Clay** + **Nicholas Biddle** push **early** renewal of Second Bank charter to make it an election weapon against Jackson ([Britannica — Bank War](https://www.britannica.com/event/Bank-War); [Richmond Fed](https://www.richmondfed.org/publications/research/econ_focus/2023/q2_economic_history)) |
+| Jackson line | To Van Buren (July 1832): *“The bank, Mr. Van Buren, is trying to kill me, but I will kill it”* / *“I shall kill it”* ([Wikipedia — Bank War](https://en.wikipedia.org/wiki/Bank_War); widely cited) |
+| Outcome | Second Bank destroyed; **that** institution never returned; **central banking eventually did** (Fed **1913**). Massive unintended economic/political consequences — history altered in ways he **never planned** |
+| Desk | Grounded fight vs monied monopoly ≠ Globalist script. **Foresight fail** on durable money architecture (§2 Nationalist foresight bar): hardline kill without a lasting Nationalist settlement → vacuum the machine later fills |
+
+**Removal:** He owned Indian Removal policy he sold — that **fails** the native-inclusion Nationalist bar. Score as **Nationalist failure**, not Neonationalist specimen (Jefferson keeps specimen 1) and not Globalist puppet.
+
+**Black-identity / whitewash (Author — open, Lincoln-class inventory):** Jackson recorded that enemies accused his **mother of marrying a Black man**. Author: enemies treated him as a **Black president**; skin color does **not** come through on surviving photos/paintings — **whitewashed**. Keep **separate** from Bank War Tier A; hunt plaques/pamphlets/portrait forensics like Lincoln §5.3 — do not collapse into one tier.
+
+**Parent badge:** **Nationalist (failed)** — TONA-window exception to Madison→Buchanan Globalist continuity block.
 
 ## 5. Civil War — Lincoln
 
@@ -254,7 +307,7 @@ Matches author “at least 12.”
 
 | Person | Role | Alignment note |
 |--------|------|----------------|
-| **Herbert Hoover** | President 1929–1933 | **Vacuum** — unwitting fall-guy (§2.2); Depression fork into FDR **Globalist** |
+| **Herbert Hoover** | President 1929–1933 | **Globalist** — owns deepening policies he sold hard; fork into FDR **Globalist** consolidator |
 | **J. Edgar Hoover** | FBI director 1924–1972 | **Not a president** — [§8](#8-fbi--j-edgar-hoover-body-remover) |
 
 ### 7.2 Great Depression / census / purposeful neglect → AU-047
@@ -263,7 +316,17 @@ Matches author “at least 12.”
 
 **[Great Depression — Planned Crash, Census Control, Purposeful Neglect (AU-047)](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)**
 
-This file keeps only **presidential alignment** consequences: Herbert Hoover = **Vacuum / unwitting fall-guy** (§2.2); FDR = Globalist consolidator. Do **not** duplicate AU-047 citation tables here.
+This file keeps only **presidential alignment** consequences: **Herbert Hoover = Globalist** — he personally argued and spoke extensively for **Smoot-Hawley (1930)**, **1932 tax increases**, and **limited / delayed direct federal relief** (ruin-personal-drive dogma). That is **not** Vacuum unwitting fall-guy theater; it is Globalist sincerity (“doing the right thing”) that still deepens the wreck. **Coolidge** (prior tip) = **Nationalist (failed)** who tried to keep Fed/Congress out of stock-market power ([§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07); quote bank there; reader [Nationalists who failed](/governance/war/nationalists-who-failed.md)) — soft history that blames him for “neglect” inverts the fight. FDR = Globalist consolidator. Do **not** duplicate AU-047 citation tables here. Off-books epistemology + Ukraine close live in the reader article [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) and AU-047 §8A. Puppet = immune kill: §2.3.
+
+### 7.2a Herbert Hoover — Globalist (Author lock 2026-08-07)
+
+| Decision he owns | What he did | Desk read |
+|------------------|-------------|-----------|
+| **Smoot-Hawley Tariff (1930)** | Signed; sparked foreign trade wars; deepened Depression | Aggressive public advocacy — **not** a blank tip |
+| **1932 tax increases** | Raised taxes to “balance the budget” while consumers were already down | Same — argued extensively |
+| **Limited relief** | Refused direct federal aid to individuals for too long (personal-drive dogma) | Same — sold as virtue |
+
+**Author:** Soft history that paints Hoover as a do-nothing sponge is wrong on the ownership axis. He **knew** and **pushed** these forks. Thinking they were righteous is **exactly** how Globalists operate — sincerity on the books is compatible with consolidation outcomes. Fed / off-books crash architecture still lives in [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md); Hoover is not scored as the sole money-machine author, but he is **not** Vacuum.
 
 ### 7.3 FDR — globalist consolidator
 
@@ -286,7 +349,7 @@ This file keeps only **presidential alignment** consequences: Herbert Hoover = *
 
 The FBI under J. Edgar Hoover is scored here as **globalist / centralizing secret police** — domestic neutralization, not a net “good” crime lab. Documented harm stack: **COINTELPRO** (Church Committee), Black nationalist target lists, Fred Hampton killing lane, King/X targeting lore, decades-long director tenure (1924–1972). Public G-Man PR does **not** outweigh that ledger on this desk.
 
-Presidents from Coolidge through Nixon who **fed or tolerated** that machine share **globalist** responsibility on the FBI axis even when other policies mix.
+Administrations from Coolidge through Nixon that **fed or tolerated** that machine share **globalist institutional** responsibility on the FBI axis even when the president’s **parent** badge is Nationalist (Coolidge §10.1a; Nixon §9.1).
 
 Cross-link: [JFK §2.5–2.6](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope) negligence / intimidation envelopes.
 
@@ -300,28 +363,62 @@ Do **not** re-litigate Truman→Trump here. Point:
 - [NSA-aligned presidencies AU-039](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)
 - Reader essay + chart: [It was the only way](/governance/war/it-was-the-only-way.md) · [cia-nsa-align-president-comparison.png](/governance/war/cia-nsa-align-president-comparison.png)
 
-### 9.1 Author lock — Nationalist ≠ NSA (2026-08-06)
+### 9.1 Author lock — Nationalist ∩ NSA + sin-eater (2026-08-07)
 
-**Nationalist** and **NSA-aligned** stay **separate species**. NSA did **not** get to be virtuous or evolve on its own into the healthy Nationalist form. It evolved as an **antibody within the disease** (compromised Globalist federal / covert war-state). As such it had to **break rules** and exhibit **unique behavior**. Useful cleanup ≠ restored rights geometry (limited federal power + peoples under the flag **including natives**).
+**NSA-aligned** remains an **antibody inside the disease** (compromised Globalist federal / covert war-state). It did **not** spontaneously become a pure rights geometry. The **point** of the alignment against **CIA-aligned** allies is that the two sides push **huge, incompatible agenda sets**. Shared / compatible items drop out of this fight and become **bipartisan theater for votes** (e.g. pot decriminalization).
 
-**Desk rule (Option C sharpened):**
+**Major overlap:** Most of what Nationalists want and most of what NSA-aligned entities push are the **same fight** — America-first priorities against the CIA war-state / compromise board. **NSA alone does not auto-earn Nationalist**, and **Nationalist does not require NSA** (specimen: **Nixon**).
+
+**Sin-eater hinge (Author):** NSA-aligned actors will **occasionally** run priorities that are **not** pure Nationalist — compromise, necessary dirt, containment on a board someone else lit — so that **pure Nationalist** priorities can continue and succeed **largely clean**: without criminality or deception that enemies can later turn against the project. Call those **sin-eater** moves. They explain overlap-without-identity.
+
+**Specimen locks (Author, 2026-08-07):**
+
+| Tip | Parent | Overlay | Note |
+|-----|--------|---------|------|
+| **Nixon** | **Nationalist** | **None / not NSA-aligned** | Pure Nationalist; NSA still waking (often CIA-order cleanup). Priorities **inverted** after resignation threat. **Pentagon Papers** SCOTUS lane = early antibody win; Watergate cited to **absolve Ellsberg** — Nixon on the wrong end of rising antibody law. His containment taught NSA-aligned entities why **both parties** would need rules + sin-eating in a blackmail-compromised government. |
+| **GHW Bush** | **Nationalist** | **NSA-aligned** | Antibody **born inside** CIA disease who chose to fight. **1991** = Nationalist tip running **necessary containment / sin-eater** on a **board CIA lit** (dinar / settlement war) — not “CIA product tip.” Kept America’s interests even when media made them unsayable; feared **Clinton** chaos-for-order cast. |
+| **G.W. Bush** | Contested → **compromised** (open) | **NSA-aligned family** early | **2001–~2005 = strong NSA bandage** (§9.1a): Tonkin/Hanyok declass, Mars RV daylight fight, PP culture push that mostly failed. Mid/late term ruined — Author: **Epstein blackmail compromise** is the fit that explains collapse **while still in office**; enables next tips; **Obama** already prepared as automated ideology cast. |
+| **Trump** | **Nationalist** | **NSA-aligned** | Every action for America + **kept word** — not Vacuum puppet, not Globalist CO. Epstein-network hinge (tipster / not owned — [Epstein crosslinks §5](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md#5-trump-netanyahu-likud)); public presidency = [*It was the only way*](/governance/war/it-was-the-only-way.md). |
+
+### 9.1a G.W. Bush — 2001–~2005 NSA “bandage” then Epstein hinge (Author lock 2026-08-07)
+
+**Window:** The **first ~five years** of the George W. Bush presidency (**inauguration 2001 through ~2005**) read as **very strong NSA-alignment years** — a **bandage** moment: heavy disclosure / truth-fight pressure, not soft PR.
+
+**Documented / corpus-anchored beats in that fight:**
+
+| Beat | When | Desk |
+|------|------|------|
+| **Gulf of Tonkin SIGINT truth (Hanyok)** | Internal push **~2002→**; public **Nov–Dec 2005** | **Documented** NSA historian fight vs management; second attack never occurred ([09-11 § Tonkin](/events/false_flag/investigations/09-11-investigation.md#gulf-of-tonkin-the-template); [NSA investigation](/governance/war/investigations/nsa-investigation.md)) |
+| **Mars RV session public stamp** | **Approved For Release 2000/08/08** (`CIA-RDP96-00788R001900760001-9`) | **A** stamp; present civilization / collapse / leave-for-elsewhere read in [Mars 1984 RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — **not** lightly dropped; same turn-of-millennium / early-Bush **file-fight** window (§5.7.1 there) |
+| ***The Pentagon Papers* (2003) TV film** | **2003** | Culture push into living rooms; **most people did not care** — Author |
+| **Schools / Gulf of Tonkin as false flag** | Ongoing | Still **not** taught as false flag in the ordinary curriculum — bandage failed to stick in civic memory |
+
+**Pentagon Papers “for real” (honest dating):** Full **unredacted** NARA dump of the Papers is **2011** (Obama years) — do **not** collapse that into 2001–05. Author memory of a hard declass fight in the Bush bandage years maps cleanly onto **Tonkin/Hanyok 2005** (war-trigger SIGINT) plus **partial PP / Ellsberg culture** (State Part VI **2002**; **2003** TV film). The **Mars** release is the cosmic twin of that Earth-side audit fight — life under collapse that may need to **move here**, as fiction already primed.
+
+**Ruin while still in term (Author — best fit):** After ~**2005**, the NSA moment is **ruined** even though Bush remains president. Soft explanations (mere fatigue, mere Iraq brand cost) do **not** fit a tip that was **inside** the 9/11 / dinar / DU containment plan. **Only coherent hinge so far:** **Epstein blackmail network** revealed / activated against **G.W. Bush** (compromise of the tip — double/clone lore may be downstream theater of the same capture). Cross-read [Epstein × 9/11 crosslinks](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md) (network = CIA/HUMINT playground; NSA forced to navigate secrets).
+
+**Consequence (Author):** Once the tip is owned by the blackmail board, **NSA-aligned entities can install nearly any subsequent president**. They already had a long plan: **Obama** born and raised with ideology set in motion so he would run as a **more-or-less automated** tip — appearing to take **no orders** and to sit outside any conspiracy — **and yet completely was**. That is managed cast at maximum polish ([AU-045 §13](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#13-obama--malcolm-x-revolutionary-cast)). The later outsider **Trump** path follows when party tickets are understood as pre-selected.
+
+**Falsifiers:** Dated proof that GWB’s post-2005 turn is explained **without** compromise (e.g. clean primary paper that NSA abandoned the tip for other reasons); or Tier A that Obama’s autonomy was real rather than installed ideology.
+
+**Desk rule:**
 
 | Layer | Owns |
 |-------|------|
-| **Parent only** | Globalist / Nationalist / Neonationalist / Vacuum |
-| **Sublayer only (post-1947)** | **CIA-aligned** vs **NSA-aligned (antibody / cleanup tip)** |
-| **Forbidden** | Writing NSA tip as **Nationalist**, **Nationalist-leaning**, or auto-promoting Nixon/Trump to Nationalist because of NSA overlay |
-| **Required** | Score parent on rights / native / empire geometry; stamp CIA/NSA as **overlay** |
+| **Parent** | Globalist / Nationalist / Neonationalist — score on America-first / keep-word / not-CO (post-1947) and native bar (pre-1947 Neonationalist fork). **Vacuum parent retired.** |
+| **Sublayer (post-1947)** | **CIA-aligned** vs **NSA-aligned (antibody)** |
+| **Forbidden** | Treating NSA chip as **automatic** Nationalist; treating Nationalist as **automatic** NSA; collapsing bipartisan theater into the CIA↔NSA war |
+| **Required** | Name **sin-eater** when NSA priority ≠ pure Nationalist; keep Ellsberg / Pentagon Papers / Watergate chronology honest for Nixon |
 
-### 9.2 Overlay map (not parent map)
+### 9.2 Overlay map (with parent)
 
-| Post-1947 badge (AU-045 chart) | What it is here | Parent? |
-|--------------------------------|-----------------|---------|
-| CIA-aligned / carrier / managed cast | Disease / war-state cast | Often **Globalist** — still confirm per row; overlay ≠ automatic parent rewrite without read |
-| NSA-aligned / cleanup tip | **Antibody inside the disease** | **Not Nationalist.** Parent = whatever rights/empire geometry says (often Vacuum, Globalist, or contested) + **NSA overlay** |
-| Vacuum / contested | No clean tip | **Vacuum** |
+| Overlay badge | What it is | Parent relation |
+|---------------|------------|-----------------|
+| CIA-aligned / carrier / managed cast | Disease / war-state cast | Often **Globalist** — confirm per row |
+| NSA-aligned / cleanup tip | Antibody inside the disease | **Usually overlaps Nationalist**; may include **sin-eater** beats; never auto-badge without keep-word / America-first read |
+| Contested tip (overlay) | **Overlay only** when neither camp allowed a real tip to voters | Score parent on argued policies / cut-short Nationalist-failed grammar — **not** a Vacuum column |
 
-**Graphic caption (required when PNG ships):** *CIA/NSA = antibody/disease fight inside the machine — not Nationalist synonyms.*
+**Graphic caption (required when PNG ships):** *NSA antibody overlaps Nationalist agendas; sin-eater moves are the hinge. CIA/NSA = disease fight inside the machine — chips are not party labels.*
 
 ---
 
@@ -334,56 +431,130 @@ Author fill. Deep essays only where marked; others are lean stubs.
 | **Washington** | **Globalist** | Closed-door federal; Rus-Horde redaction; slavery parchment; Apotheosis deification |
 | **Jefferson** | **Neonationalist** | Pure limited-gov / plurality vision; **disqualified** by Declaration savages + native/apartheid hole |
 | **John Adams** | **Globalist** | Jefferson’s Federalist **foil**; Sedition/centralizing lean; Federalist↔Democrat eventually **intertwined** into shared federal/world-order vision — **not** sovereign-citizen rights orientation (§3.4) |
-| Jackson | **Vacuum** (TONA-window puppet) | Removal = machine ops through Vacuum face — **not** Neonationalist specimen (Jefferson keeps that) |
-| **Madison–Buchanan (TONA window)** | **Vacuum** (all; no exceptions) | Puppets / do-nothing; thin foreign+commerce presidency; missed post-Napoleon TONA confirm + war prevention; system = compromised **Globalist** federal |
+| **Jackson** | **Nationalist (failed)** | Grounded Bank War intent; no durable crisis solution — central bank returns later; Removal = inclusion failure; **not** Globalist puppet — §4.4. Black-identity/whitewash Author/open |
+| **W.H. Harrison / Taylor / Garfield** | **Nationalist (failed)** | Cut short by death; unfinished missions; early deep-state lesson — soft “Vacuum fall guy” packaging retired → §10.1b |
+| **Madison–Buchanan (TONA window)** | **Globalist** (except **Jackson**, **W.H. Harrison**, **Taylor**) | Passionate era tips; failed sovereign/TONA reset — §4; cut-short exceptions §10.1b |
 | **Lincoln** | **Neonationalist** | New America-vision; white-to-blame war read; post-CW race-blind **under federal**; not slavery-causation (Author); carceral XIII / forced-war parallel; §5.4 |
-| **Gilded → Progressive (§10.1)** | **Split** | Most faces **Vacuum**; **McKinley, TR, Taft, Wilson = Globalist** (Wilson hardest — WWI + 1913) |
-| **Herbert Hoover** | **Vacuum** (unwitting fall-guy) | Purposeful neglect specimen; §2.2 default; system architects off-ledger ([AU-047 §6](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)) |
+| **Coolidge** | **Nationalist (failed)** | Blocked Fed/Congress stock-power grab; popular tip exits 1927 (“I do not choose to run”) — suspicious for Depression fork; **not** Globalist neglect — §10.1a |
+| **Gilded → Progressive (§10.1)** | **Mostly Globalist** | Johnson–Arthur (**ex-Garfield**) + **Cleveland/B. Harrison rocking** + McKinley–Wilson + Harding Globalist; **Coolidge** + **Garfield** exceptions |
+| **Herbert Hoover** | **Globalist** | Owns Smoot-Hawley / 1932 taxes / limited-relief dogma he argued hard; sincerity ≠ Vacuum ([§7.2a](#72a-herbert-hoover--globalist-author-lock-2026-08-07)); Fed board detail → [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) |
 | **FDR** | **Globalist** | New Deal state; war entry; health concealment |
 | **J. Edgar Hoover (FBI)** | **Globalist institution** | Body remover; not a president |
-| Truman→Trump | Parent per rights/empire geometry + **CIA/NSA overlay** (§9) | **Do not** map NSA → Nationalist; neonationalist rare post-1947 |
+| Truman→Trump | Parent + **CIA/NSA overlay** (§9) | **Nixon** Nationalist (no NSA); **GHWB + Trump** Nationalist+NSA; GWB NSA-family → compromise open; NSA alone ≠ auto-Nationalist; sin-eater named when needed |
+| **Nixon** | **Nationalist** | No real NSA alignment; Watergate / Ellsberg chronology — §9.1 |
+| **GHW Bush** | **Nationalist** + **NSA** | Sin-eater tip on CIA-lit 1991 board — §9.1 · [AU-045 §10](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#10-ghw-bush--nationalist-tip-nsa-sin-eater-on-cia-lit-board) |
+| **G.W. Bush** | Contested / compromised (open) + early **NSA** | **2001–~2005 bandage** then Epstein hinge — §9.1a |
+| **Trump** | **Nationalist** + **NSA** | Keep-word America-first; Epstein tipster hinge; [*It was the only way*](/governance/war/it-was-the-only-way.md) |
 
-### 10.1 Gilded → Progressive — split lock (Author, 2026-08-06)
+### 10.1 Gilded → Progressive — split lock (Author, revised 2026-08-07)
 
-**Option D locked:** mostly **Vacuum** faces on a **Globalist** machine; named empire/WWI/Fed hinges = **Globalist**.
+**Locked:** Soft history loves to cast post–Civil War executives as either **sole villains** of national failure or **unwitting victims** of Reconstruction, depression, and systemic corruption. **Reject unwitting-sponge packaging** for **Andrew Johnson, Grant, Hayes, Arthur** and for **Cleveland / Benjamin Harrison** (§2.4 rocking). They faced intense criticism because they **owned** the era’s forks — and argued their courses as right. That is **Globalist sincerity** (consolidation / machine continuity / rivalry rocking), **not** Neonationalist specimen class (Jefferson/Lincoln keep that badge). **Garfield** is the cut-short exception → **Nationalist (failed)** (§10.1b) — do **not** conflate with **Benjamin Harrison** (rocking Globalist). Hoover’s later crisis is **economic** deepening he also owned as Globalist (§7.2a).
 
 | President | Lean | Note |
 |-----------|------|------|
-| Johnson, Grant, Hayes, Garfield, Arthur | **Vacuum** | Reconstruction/Gilded continuity faces; unwitting default |
-| Cleveland, B. Harrison | **Vacuum** | High Gilded faces under trusts/gold board |
+| **Andrew Johnson** | **Globalist** | Reconstruction / federal continuity after Lincoln; owns the fight — not unwitting victim of the era |
+| **Ulysses S. Grant** | **Globalist** | Fierce federal Reconstruction tip — opposed white Southern leadership that caused the war; strong federal presence to protect freed Black citizens. Soft “protector Nationalist” myth rejected: a **real Nationalist** would have **included the South’s perspective** on the war, not only federal enforcement against it. Continuity of Lincoln-era federal supremacy + machine corruption board he ran |
+| **Rutherford B. Hayes** | **Globalist** | Compromise-of-1877 / Reconstruction end fork he owned |
+| **James A. Garfield** | **Nationalist (failed)** | Assassinated **1881** — unfinished mission; soft fall-guy packaging → §10.1b (**not** Benjamin Harrison) |
+| **Chester A. Arthur** | **Globalist** | Machine → civil-service / federal continuity he sold — not unwitting |
+| **Grover Cleveland** | **Globalist** | Rocking pole **1885–89 / 1893–97** — §2.4; **owns Sherman Silver repeal (1893)** — gold-reserve defense / kill silver-challenger path — precursor to later gold / ruble / Iraq–Libya currency wars |
+| **Benjamin Harrison** | **Globalist** | Rocking-pawn pole **1889–93** — alternation with Cleveland as deep-state rivalry tactic — §2.4 — **not** W.H. Harrison |
 | **McKinley** | **Globalist** | Overseas empire hinge (Spanish–American / Philippines) |
 | **Theodore Roosevelt** | **Globalist** | Imperial Progressive — admin-state + great-power America |
 | **Taft** | **Globalist** | Continuity of Progressive/imperial board |
 | **Wilson** | **Globalist** | **Hard lock** — WWI rehearsal + **1913** XVI/Fed cluster → [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) |
-| Harding, Coolidge | **Vacuum** | 1920s boom faces under Fed regime; on-ramp to Hoover Vacuum fall-guy |
+| **Harding** | **Globalist** | 1920s boom tip who sold era policy under Fed regime — not Vacuum |
+| **Coolidge** | **Nationalist (failed)** | Refused Fed/Congress stock-market regulation as **federal power grab**; soft history inverts him into Depression villain; **“I do not choose to run” (1927)** while popular = suspicious forced exit — §10.1a |
 
-**Not Neonationalist / not Nationalist** in this block unless a later author exception. Native/race apartheid crimes in the era can run through Vacuum faces (same grammar as Jackson under §4).
+**Do not** revive a Vacuum parent for this block. Cleveland/B. Harrison may be **philosophically unwitting** about rocking damage while still **Globalist** parents who argued their eras.
 
-**Graphic TODO (deferred):** `presidential-alignment-globalist-nationalist-comparison.png` — **four** parent columns: Nationalist / **Neonationalist** / Globalist / Vacuum. Caption locked: *CIA/NSA = antibody/disease fight inside the machine — not Nationalist synonyms.* Scorecard parent locks now dense enough to draft PNG when author okays art pass.
+### 10.1a Calvin Coolidge — Nationalist who failed (Author lock 2026-08-07)
+
+**Not** Globalist continuity / “on-ramp neglect.” Soft history paints Coolidge as ineffective or partly **responsible** for the Great Depression because he refused to let the **Federal Reserve** or Congress regulate a wild stock market and predatory banking. Author inverts that: he was **doing what he could to stop** the crash path by denying federal/Fed a power they **never should have had**. Historians who cannot trace Depression causes to the Fed + real influences instead sell “unexpected neglect / surprise” — then insist Coolidge **should have** handed the Fed the regulation role. Author: the stock market and the Fed were already creating **pain, chaos, and financial upheaval** in the 1920s; the Fed’s “we should regulate it” argument was a **power grab** versus **the states** regulating themselves (the Nationalist-competent path).
+
+**Documented exit:**
+
+| Beat | Note |
+|------|------|
+| Statement | **2 Aug 1927** — vacation press; slips of paper: *“I do not choose to run for President in 1928.”* ([White House history](https://www.whitehousehistory.org/photos/calvin-coolidges-i-do-not-choose-to-run); widely cited) |
+| Soft reasons | Believed ~**10 years** in the White House too long for one man; personal tragedy (son’s death **1924**) drained enthusiasm |
+| Popularity | Extremely popular tip — exit **shocked** the nation |
+
+**Author suspicion:** Outcome is **extremely suspicious** for someone who would matter so much to later events. Soft packaging = voluntary laconic retirement. Desk: a tip this popular who **refuses** another term **avoids** having to take full public responsibility for the presidency’s fights **and** opens the board to successors who deepen Fed/federal power. Machine wins the battle by **technicality** when he simply refuses to run again. Had he run and won, Author: he would have kept the Reserve **out of American politics** and without that power — and would likely have handled the Depression **extremely differently** than **Hoover** (Globalist §7.2a).
+
+**Foresight fail (§2):** Blocking Fed stock-power in office is Nationalist intent; exiting while popular without a durable multi-cycle settlement that survives the next tip = **Nationalist (failed)** — same badge class as Jackson (§4.4), different money-board fork.
+
+**Parent badge:** **Nationalist (failed)**. **Harding** stays **Globalist**. Hoover stays **Globalist**.
+
+#### Coolidge quote bank (Documented — expand as finds land)
+
+Soft history truncates him to Silent Cal + “business of America.” Keep the **full** lines. Prefer Coolidge Foundation / inaugural / press transcripts over meme paraphrase (“legalized robbery” is a **compressed** form of the inaugural **larceny** line).
+
+| Quote | Source | Desk use |
+|-------|--------|----------|
+| *“I do not choose to run for President in 1928.”* | **2 Aug 1927** Rapid City / Black Hills vacation press slips ([White House history](https://www.whitehousehistory.org/photos/calvin-coolidges-i-do-not-choose-to-run)) | Exit lock — popular tip walks; Q7a coercion open |
+| *“After all, the chief business of the American people is business.”* … later same speech: *“It is only those who do not understand our people, who believe that our national life is entirely absorbed by material motives… The chief ideal of the American people is idealism.”* | **17 Jan 1925** — *The Press Under a Free Government*, ASNE ([Coolidge Foundation](https://coolidgefoundation.org/resources/the-press-under-a-free-government/)) | Misquote trap: “business” line alone = Globalist cartoon; idealism close = Nationalist grammar |
+| *“The collection of any taxes which are not absolutely required, which do not beyond reasonable doubt contribute to the public welfare, is only a species of legalized larceny.”* | **4 Mar 1925** Inaugural ([Coolidge Foundation](https://coolidgefoundation.org/resources/inaugural-address/)) | Limited federal / property of the people — not blank-sponge neglect |
+| *“We overindulge in speculation, but ask the government to prevent panics. Now the only way to hold the government entirely responsible for conditions is to give up our liberty for a dictatorship… Self-government means self-reliance.”* | **17 Oct 1930** *Calvin Coolidge Says* ([Foundation](https://coolidgefoundation.org/resources/calvin-coolidge-says-october-17-1930/)) | Post-exit: rejects Fed/federal as panic-savior; liberty vs dictatorship fork |
+| *“If the speculation is injurious to the public, let it be regulated or abolished by the states… The states should keep jurisdiction… We cannot improve the condition of the people or reform human nature by intruding the nation into the affairs of the states or despoiling the people of their business.”* | **26 Jun 1931** *Calvin Coolidge Says* ([Foundation](https://coolidgefoundation.org/resources/calvin-coolidge-says-june-26-1931/)) | **States regulate** — core Author lock vs Fed/Congress stock-power grab |
+| *“Self-government cannot be reposed wholly in some distant capital; it has to be exercised in part by the people in their own homes.”* | **10 Aug 1922** *The Limitations of the Law* ([Foundation Quotations — S](https://coolidgefoundation.org/quote/quotations-s/)) | Local sovereignty grammar |
+| *“Our country was conceived in the theory of local self-government… The States look to the Nation, and nations are beginning to look to some vague organization… to pay their bills and tell them what to do. This is not local self-government. It is not America.”* | **30 May 1925** *The Reign of Law* ([Foundation Quotations — S](https://coolidgefoundation.org/quote/quotations-s/)) | Anti-nebulous-world-order — pairs John Adams Globalist foil contrast |
+| *“There is no right to strike against the public safety by anybody, anywhere, any time.”* | **14 Sep 1919** telegram to Samuel Gompers (Boston police strike) ([Foundation](https://coolidgefoundation.org/quote/quotations-s/) via *Have Faith in Massachusetts*) | Keep-word / public-safety Nationalist specimen (pre-Oval) |
+| *“Nothing is easier than spending the public money. It does not appear to belong to anybody. The temptation is overwhelming to bestow it on somebody.”* | Widely attributed; Foundation lists *Readers Digest* June 1960 reprint — treat as **popular attribution** until primary pin | Soft fiscal line — corroborate before Tier A graphics |
+| *“The words of the President have an enormous weight and ought not to be used indiscriminately.”* | *Autobiography of Calvin Coolidge* (widely cited; Coolidge Review) | Explains laconic press style ≠ indifference to speculation |
+| *“I was alarmed at it and kept in contact with the Federal Reserve Board… they were using their influence quietly… to check speculation…”* (paraphrase bank — pin exact *Calvin Coolidge Says* / 1932 column wording when recovered) | Coolidge post-presidency on winter **1928–29** speculation + Fed Board contact ([Independent Review / Tacoma paper trail](https://www.independent.org/pdf/tir/tir_24_3_03_tacoma.pdf) citing Coolidge **1932**) | **Open pin** — proves he was **not** blind; still refused Oval→Fed political domination. Hunt full syndicated text for exact wording |
+
+**Reader article:** weave exit + states-regulation + speculation/dictatorship + inaugural larceny + ASNE idealism close — not the whole bank. Full list stays here.
+
+### 10.1b Cut-short tips — W.H. Harrison, Taylor, Garfield = Nationalist (failed); Vacuum column retired (Author lock 2026-08-07)
+
+**Documented surface:** Unexpected deaths cut their terms short and left core political missions unfinished.
+
+| Tip | Cut short | Soft packaging |
+|-----|-----------|----------------|
+| **William Henry Harrison** | Died **1841** (~31 days in office) | Shortest presidency; unfinished Whig / America-facing agenda |
+| **Zachary Taylor** | Died **1850** (~16 months) | Unfinished sectional / Union tip mid-crisis |
+| **James A. Garfield** | Shot **1881**; died same year (~200 days) | Unfinished civil-service / machine fight |
+
+**Author lock:** Clear early evidence of **deep-state influence** — and one of the reasons Americans learned, at the highest and deepest levels, that they could **never actually run for president** once they saw what happened to so many tips. One way or another they were **prevented** from doing what they wanted **unless** those agendas served evil purposes. Extremely hard pill to swallow.
+
+**Soft “Vacuum” appearance → retired:** These three looked like ultimate political fall guys of fate — blank terms, unfinished boards. That packaging once invited a **Vacuum** parent column. **Desk:** they are **most likely Nationalists who failed** — grounded missions interrupted, not Globalist continuity tips who passionately sold empire forks for years. **Parent badge: Nationalist (failed).**
+
+**Vacuum column removed:** Wall charts and scorecards use **three** parent camps — Globalist / Nationalist (incl. failed overlay) / Neonationalist. Do **not** keep an empty Vacuum column “just in case.” Contested post-1947 tip years remain an **overlay**, not a fourth parent.
+
+**Name trap:** **William Henry Harrison** ≠ **Benjamin Harrison** (Globalist rocking pole with Cleveland — §2.4).
+
+**Reader:** [Nationalists who failed](/governance/war/nationalists-who-failed.md).
+
+**Graphic TODO:** **three** parent columns + overlay (Vacuum retired). Nationalist: **Jackson (failed)** · **W.H. Harrison (failed)** · **Taylor (failed)** · **Garfield (failed)** · **Coolidge (failed)** · **Nixon** · **GHWB** · **Trump**. Neonationalist: **Jefferson / Lincoln**. Globalist: Madison→Buchanan (ex-Jackson/W.H. Harrison/Taylor), Johnson–Arthur (ex-Garfield), Cleveland/B. Harrison rocking, Progressive empire, Harding, Hoover, FDR, etc.
 
 ---
 
 ## 11. Author’s open claims (AU-046)
 
-1. Master taxonomy for all presidents = **Globalist vs Nationalist** (+ **Neonationalist** exclusion fork; Jefferson + Lincoln specimens); CIA/NSA = post-1947 **sublayer only** — **NSA ≠ Nationalist**.
+1. Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist** fork); CIA/NSA = post-1947 **sublayer** with **major Nationalist∩NSA overlap**; **sin-eater** = non-overlap hinge; NSA alone ≠ auto-Nationalist.
 2. **Washington** ≠ nationalist; Protestant/Rus-Horde redaction + British vassal outcome; closed-door Revolution → **Globalist**.
 3. **Jefferson** ≠ nationalist; Declaration savages + native exclusion → **Neonationalist** specimen; looks pluralistic otherwise.
 4. Declaration + Constitution = savage/enemy natives + new chattel slavery after Horde servitude destruction.
 5. **≥12** presidents owned slaves (matches mainstream **12**); carceral 13th continues bondage under new name.
-6. **TONA** forgotten via presidential/school behavior + **Civil War parchment open**; Madison→Buchanan = **Vacuum puppets** elected to do nothing (no exceptions); federal compromised since inception; post-Napoleon reset (confirm TONA / cut foreign hooks / time-bounded citizenship path) **not taken**.
+6. **TONA** forgotten via presidential/school behavior + **Civil War parchment open**; Madison→Buchanan = **Globalist** continuity tips who **failed** sovereign/TONA reset (Author quote on “elected to do nothing” = reset failure, **not** strict Vacuum) — **except Jackson = Nationalist (failed)** §4.4 / claim 25; federal compromised since inception.
 7. **Lincoln** = **Neonationalist** (§5.4) — new nation-vision excluding dissenters / demoting white privilege / race-blind under federal; war **not** slavery-causation (Author: indentured→freemen→labor/war front); misled best intentions + bloodiest war still charge; **6′4″** (A); Black-identity Author/open — §5.3.
 8. **Great Depression** = deliberate planned genocide (Author) — detail **[AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)**; public could see Fed→crash→survival policy + Russia parallel.
 9. Census / purposeful neglect / SS federal citizen — owned by **AU-047**; this file only scores Hoover/FDR alignment.
 10. Rage “body remover” = **J. Edgar** Hoover; FBI ledger horrible net.
 11. **FDR** = major globalist consolidator.
-12. Post-1947: CIA/NSA = **sublayer only**; **NSA ≠ Nationalist** — antibody within the disease (§9.1); parent scored separately on rights/empire geometry.
-13. Presidents nationalist-sounding but horrible to natives / blind to race apartheid → **Neonationalist** (or Globalist), never Nationalist — **except** Madison→Buchanan window: parent stays **Vacuum puppet** even when native crimes run through them (Jackson). **Lincoln** = second Neonationalist specimen class (new vision), not Jefferson-copy.
+12. Post-1947: CIA/NSA incompatible agenda war; Nationalist∩NSA overlap; sin-eater hinge (§9.1). **Nixon** Nationalist no NSA; **GHWB + Trump** Nationalist+NSA; **GWB 2001–~2005 NSA bandage** then **Epstein compromise** → automated **Obama** (§9.1a).
+13. Presidents nationalist-sounding but horrible to natives / blind to race apartheid → usually **Neonationalist** (or Globalist), never clean Nationalist — **except** Author may score **Nationalist (failed)** when grounded intent is clear and the tip is not a Globalist puppet (**Jackson** §4.4 / claim 25; **Coolidge** §10.1a / claim 26; **W.H. Harrison / Taylor / Garfield** §10.1b / claim 27). **Lincoln** = Neonationalist specimen 2. **Grant** = Globalist (claim 24).
 14. Federal government **ensures repeating catastrophic cycles** — structural, not late capture only.
-15. **Puppets default unwitting** (§2.2) — seeming-witting (Obama-class subjective authorship) still philosophically unwitting (outcome-blind / negligent toward results); true witting puppets nearly nonexistent because revealing speech would be undeniable.
-16. **Herbert Hoover** = **Vacuum** unwitting fall-guy (purposeful neglect specimen); FDR = Globalist consolidator.
-17. **NSA antibody** may break rules / show unique behavior; that does **not** earn the healthy Nationalist badge.
+15. **Puppets default philosophically unwitting** (§2.2) — seeming-witting still outcome-blind; true witting puppets nearly nonexistent — **does not invent a Vacuum parent**.
+16. **Herbert Hoover** = **Globalist** — owns Smoot-Hawley, 1932 tax hikes, limited-relief dogma he aggressively argued; “thought he was right” = Globalist pattern, not blank sponge; FDR = Globalist consolidator.
+17. **NSA antibody** may **sin-eat**; that does **not** auto-earn Nationalist — but Trump/GHWB clear parent Nationalist on keep-word / America-first.
 18. **John Adams** = **Globalist** — Jefferson’s Federalist foil; Federalist↔Democrat intertwine → world-order federal vision, not sovereign-citizen rights (§3.4).
-19. **Gilded→Progressive split (§10.1):** Vacuum faces + **McKinley / TR / Taft / Wilson Globalist** (Wilson = WWI + 1913 hard lock).
+19. **Gilded→Progressive (§10.1):** Johnson–Arthur (**ex-Garfield**) + **Cleveland/B. Harrison rocking pawns** (§2.4) + Harding + McKinley–Wilson = **Globalist**; **Coolidge** + **Garfield** = **Nationalist (failed)** exceptions (§10.1a–b); **Vacuum parent retired**.
+24. **Grant = Globalist (lock):** not sympathetic to white South political goals; strong federal tip to protect freedmen / oppose Confederate leadership. **Real Nationalist** would include the South’s war perspective — federal-only enforcement ≠ Nationalist foresight or keep-word for the whole people under the flag.
+25. **Jackson = Nationalist who failed (§4.4):** Bank War = Clay/Biddle trap, grounded kill-the-Bank fight, unintended consequences, Second Bank gone / central banking returns; Removal = native-inclusion failure; enemies’ Black-ancestry smear + whitewashed portraiture = Author/open (Lincoln-class). **Not** Globalist puppet with nationalist views.
+26. **Coolidge = Nationalist who failed (§10.1a):** Refused Fed/Congress stock-market regulation as federal power grab (states should regulate); soft history inverts him into Depression “neglect” villain while he was trying to **stop** Fed power; *“I do not choose to run”* (2 Aug 1927) while extremely popular = suspicious forced exit / technicality win for Fed board; had he stayed, Author: Reserve stays out + Depression handled unlike Hoover. **Not** Globalist continuity tip.
+27. **W.H. Harrison / Taylor / Garfield = Nationalist who failed (§10.1b); Vacuum column retired:** Deaths cut terms short; unfinished missions; early deep-state lesson that Americans could not actually run for president unless agendas served evil; soft “Vacuum fall guy” packaging → **Nationalist (failed)**. **Benjamin Harrison** stays Globalist rocking pole — do not conflate with W.H. Harrison.
 
 ---
 
@@ -396,25 +567,28 @@ Author fill. Deep essays only where marked; others are lean stubs.
 | Q1 | Which census year matches “Americans refused entirely / could not be done”? (Author **remembers** stronger cites) | **Open — still looking** → [AU-047 §7 / §10](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) |
 | Q2 | Primary sources for Lincoln **Black** identity claim | Portrait/genealogy folklore survey vs Tier A — keep separate from height; see §5.3 L-B2–L-B8 |
 | Q2a | Which **book** cites which **museum plaque** teaching Lincoln as **first Black president**? (Author **remembers**) | **Open — still looking**; BaKhufu / Vaughn / Rogers footnotes; Black-museum visitor books; Great Blacks in Wax / Oran Z / DuSable / Griot ephemera; photograph plaque if still up |
+| Q2b | Jackson Black-identity / whitewash — enemies’ “mother married a Black man” charge; portrait forensics | **Open** Author/open (§4.4) — hunt pamphlets, campaign smears, Jackson’s own notes, painting/photo skin-tone comparisons; keep separate from Bank War Tier A |
 | Q3 | Depression-as-genocide mechanism (Fed, crop destruction, mortality series) | **[AU-047 §10](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)** — do **not** soft-pedal into “confusion” |
-| Q4 | Per-president TONA print vs erase rows Madison→Lincoln | **Author locked §4:** group = **Vacuum puppets** (no exceptions); optional later print-culture samples do **not** reopen parent badge without override |
-| Q5 | Herbert Hoover lean | **Locked:** **Vacuum / unwitting** fall-guy (§2.2 + §7); not Globalist architect |
-| Q7 | Which other presidents are Jefferson-class **Neonationalist** vs full **Globalist** on native axis? | Native-policy scorecard; **Jackson ≠ Neonationalist specimen** under §4 puppet lock — Jefferson keeps specimen 1; Lincoln = specimen 2 |
-| Q8 | NSA tip → Nationalist? | **Locked §9:** never — antibody overlay only |
+| Q4 | Per-president TONA print vs erase rows Madison→Lincoln | **§4 revised:** parents **Globalist** except **Jackson** + **W.H. Harrison / Taylor** (§10.1b); Vacuum parent retired |
+| Q5 | Herbert Hoover lean | **Locked:** **Globalist** — owns tariff/tax/relief forks he sold hard (§7.2a); not Vacuum |
+| Q7 | Which other presidents are Jefferson-class **Neonationalist** vs **Nationalist (failed)** vs **Globalist** on native / sectional / money / cut-short axis? | **Jackson** §4.4 + **Coolidge** §10.1a + **W.H. Harrison / Taylor / Garfield** §10.1b = **Nationalist (failed)**; **Grant = Globalist** claim 24; Jefferson specimen 1; Lincoln specimen 2 |
+| Q7a | Coolidge exit — voluntary laconic retirement vs forced/suspicious board outcome? | Soft: 10-year limit + son’s death. Author: popular tip’s refusal opens Hoover/Fed path — keep **Open** on coercion mechanism; parent lock stands (§10.1a) |
+| Q8 | NSA tip → Nationalist? | **Locked §9.1:** major overlap; not automatic; sin-eater named; Nixon proves Nationalist without NSA |
+| Q9 | Vacuum parent column? | **Locked retired (§10.1b):** cut-short tips that looked Vacuum → **Nationalist (failed)**; three-camp wall chart only |
 
 ---
 
 ## 13. Weak points / TODOs
 
 - [ ] **Q1 / Q2a:** Author-remembered cites — **still looking**; do not close; CO/soft recoveries still loggable
-- [x] Scorecard parent locks — founding / TONA Vacuum / Lincoln Neonationalist / Adams Globalist / Gilded split / Hoover Vacuum / NSA ≠ Nationalist — **shipped 2026-08-06**
+- [x] Scorecard parent locks — founding / TONA / Lincoln / Adams / Gilded / Hoover — **2026-08-06**; Nationalist∩NSA + Nixon/GHWB/Trump/GWB — **2026-08-07**
 - [ ] **Q1 detail:** Pin census memory to 1890 wipe / 1920 nullification / 1930 distrust (or find archived “not taken” cite); do not let “never skipped” FAQ erase those three
-- [ ] After art OK: ship four-column PNG + optional [it-was-the-only-way](/governance/war/it-was-the-only-way.md) embed
+- [ ] After art OK: ship **three-column** PNG (Vacuum retired) + optional [it-was-the-only-way](/governance/war/it-was-the-only-way.md) embed
 - [ ] Sample Lincoln contemporaneous physical descriptions beyond height tables
 - [ ] **Q2a detail:** locate museum-plaque + book citation for “Lincoln = first Black president” teaching (author memory); candidate museums — Great Blacks in Wax (Baltimore), Oran Z’s Black Facts (LA, closed), DuSable, Griot / Black World History Wax (St. Louis) — **no plaque text confirmed yet**
 - [ ] Verify Rogers’s Herndon / *Hidden Lincoln* page cites against primary editions
 - [ ] Keep J. Edgar vs Herbert Hoover distinct in every public graphic
-- [ ] Optional native-policy footnotes on Vacuum Gilded rows (do not change parent badges)
+- [x] **Q9:** Vacuum parent **retired** — cut-short Nationalist (failed) §10.1b
 
 ---
 
@@ -431,12 +605,16 @@ Author fill. Deep essays only where marked; others are lean stubs.
 | [US Civil War](/governance/war/investigations/us-civil-war-investigation.md) | War context |
 | [American Revolution](/governance/war/investigations/american-revolution-investigation.md) | Atlantic / Bank of England |
 | [Not Like This](/influence/controlled_opposition/not-like-this.md) / [Matrix containment](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) | Wake Up / Hoover memo |
-| [JFK staged / FBI envelope](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md) | COINTELPRO / negligence |
+| [JFK was never assassinated](/events/jfk/jfk-was-never-assassinated.md) | Detail-fight distraction grammar (prefer article) |
 | [Holodomor–Holocaust memory](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) | Genocide memory lane |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-046** |
 | [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) | Planned crash / census / purposeful neglect |
+| [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) | Reader essay — off-books pattern; companion = AU-047 |
+| [**Nationalists who failed**](/governance/war/nationalists-who-failed.md) | Reader essay — Jackson, Coolidge, cut-short tips; companion = AU-046 |
 
-Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #AU046 #ParadigmThreatFiles
+Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #AU046 #ParadigmThreatFiles
+
+*Last updated: 2026-08-07*
 
 ---
 
@@ -446,11 +624,15 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 
 - **Author thesis** (§1, §11) is **first-class** for pattern work and **not** automatically factual.
 - **Puppets / witting (§2.2):** default **unwitting**; seeming-witting ≠ operational authorship; outcome-blindness keeps the philosophical floor.
-- **Madison→Buchanan:** Author **Vacuum / puppet** lock (§4) — not “nationalists who failed”; federal compromised since inception; TONA erase needs Civil War; Jackson not an exception.
-- **Herbert Hoover:** **Vacuum / unwitting** fall-guy — not Depression architect.
+- **Puppet presidency = immune kill (§2.3):** Author lock — Oval as delay/blame sponge so body politic cannot antibody; Trump/Jefferson direct-talk specimen; hop reader [Depression article](/governance/war/the-great-depression-was-planned.md).
+- **Madison→Buchanan:** **Globalist** continuity tips (§4) — TONA/sovereign reset failure quote stands; **Jackson** = **Nationalist (failed)** exception (§4.4) — Bank War grounded, Removal fail, not Globalist puppet; Black-identity/whitewash Author/open.
+- **Coolidge:** **Nationalist (failed)** (§10.1a) — quote bank; blocked Fed stock-power; soft “Depression neglect” inverted; *I do not choose to run* exit suspicious; Harding stays Globalist; Hoover Globalist; reader [Nationalists who failed](/governance/war/nationalists-who-failed.md).
+- **W.H. Harrison / Taylor / Garfield:** **Nationalist (failed)** (§10.1b) — cut short by death; unfinished missions; deep-state lesson; soft Vacuum packaging retired. **Vacuum parent column removed** from taxonomy / wall charts.
+- **Vacuum bar:** **retired as parent** — do not score tips Vacuum; contested tip years = overlay only.
+- **Herbert Hoover:** **Globalist** — owns Smoot-Hawley / 1932 taxes / limited relief; sincerity ≠ blank sponge (§7.2a).
 - **Unrecovered author-memory cites** (census article, Lincoln museum plaque/book, etc.) stay **Open / still looking** — not closed by a failed search pass; CO recoveries still loggable ([§12](#12-questions-to-clarify-verify-or-debunk)).
 - **Do not conflate** Herbert Hoover (president) with J. Edgar Hoover (FBI).
-- **NSA ≠ Nationalist (§9.1):** antibody within the disease; overlay only; never “Nationalist-leaning.”
+- **Nationalist ∩ NSA (§9.1):** major overlap; sin-eater hinge; NSA alone ≠ auto-Nationalist; Nixon = Nationalist without NSA chip.
 - **Lincoln:** Parent **Neonationalist** (§5.4) — Author war-causation / new-vision thesis first-class, not Tier A academic consensus. Parchment 1865/68 package still Globalist on amendments battlefield. Black-identity claims stay separate (§5.3).
 - **Lincoln Black-identity** claims are **Author/open + folklore pamphlet stack** (§5.3) — stature is Tier A; racial identity is **not** Tier A. Douglass’s “black man’s president” is **not** an ancestry claim.
 - **Depression-as-genocide** / census / purposeful neglect — see **AU-047** Limits; do **not** explain 1930 noncooperation primarily as public “ignorance.”
@@ -468,6 +650,18 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - Session 2026-08-06 (later): Madison→Buchanan locked **Vacuum puppets** / do-nothing / federal compromised since inception; TONA erase needs CW; post-Napoleon missed reset; Jackson not Neonationalist exception.
 - Session 2026-08-06 (later): Lincoln locked **Neonationalist** — new vision; white-to-blame; post-CW race-blind under federal; war not slavery-causation (indentured→freemen→war front); forced-war + carceral XIII parallel.
 - Session 2026-08-06 (later): §9 locked — **NSA ≠ Nationalist**; antibody within disease; kill “Nationalist-leaning / antibody” phrase; graphic caption locked.
+- Session 2026-08-07 (later): **Herbert Hoover → Globalist** — owns Smoot-Hawley, 1932 tax increases, limited-relief dogma he argued extensively; Globalist sincerity (“doing right”) ≠ Vacuum unwitting fall-guy.
+- Session 2026-08-07 (later): **GWB §9.1a** — **2001–~2005 NSA bandage** (Tonkin 2005, Mars RV daylight, PP culture fail); mid-term ruin = **Epstein compromise** best fit; consequence = install any tip / **Obama** automated ideology cast.
+- Session 2026-08-07 (later): **Johnson / Grant / Hayes / Garfield / Arthur → Globalist** — not Vacuum unwitting victims of Reconstruction/depression/corruption eras; own the forks (Hoover-class sincerity grammar).
+- Session 2026-08-07 (later): **Strict Vacuum bar**; **Cleveland↔Harrison rocking** Globalist deep-state tactic (Saddam/Hitler-class pawns); Madison→Buchanan + Harding/Coolidge → **Globalist**; Vacuum column nearly empty.
+- Session 2026-08-07 (later): **Rocking** expanded — attrition / nothing-major / bipartisan Globalist harvest; condition = both sides compromised; **Nixon** repair Asia ≠ rocking; antibody/RoM plans hard to rock; Depression article updated.
+- Session 2026-08-07 (later): **Cleveland Sherman Silver repeal (1893)** locked as Author precursor to gold wars (ruble / Iraq / Libya-class currency challengers); Globalist money-OS ownership.
+- Session 2026-08-07 (later): **Nationalist foresight bar** — anticipate rocky-election reversal; durable strategy/compromise vs hardline “we’re in charge now”; rocking poles fail by design.
+- Session 2026-08-07 (later): **Grant Globalist lock** — federal Reconstruction / oppose white South leadership / protect freedmen; real Nationalist would include South’s war perspective.
+- Session 2026-08-07 (later): **Jackson → Nationalist (failed)** — Bank War Clay/Biddle trap + unintended consequences + central bank returns; Removal = inclusion failure; Black-identity whitewash Author/open; not Globalist puppet.
+- Session 2026-08-07 (later): **Coolidge → Nationalist (failed)** — refused Fed/Congress stock regulation as power grab vs states; soft history inverts to Depression villain; *I do not choose to run* (1927) while popular = suspicious forced exit; Hoover remains Globalist.
+- Session 2026-08-07 (later): Coolidge **quote bank** in §10.1a; reader article [nationalists-who-failed.md](/governance/war/nationalists-who-failed.md).
+- Session 2026-08-07 (later): **Vacuum column retired**; **W.H. Harrison / Taylor / Garfield → Nationalist (failed)** — cut-short missions; deep-state lesson Americans couldn’t really run for president; soft fall-guy Vacuum packaging inverted; B. Harrison stays Globalist rocking.
 - Session 2026-08-06 (later): **John Adams = Globalist** — Jefferson foil; Federalist↔Democrat intertwine → world-order vision, not sovereign-citizen rights.
 - Session 2026-08-06 (later): Gilded→Progressive **Option D** — Vacuum majority; McKinley/TR/Taft/Wilson **Globalist** (Wilson hard).
 - Graphic deferred until author art pass (parent locks dense enough).
