@@ -14,17 +14,42 @@ function str(v) {
 }
 
 /**
- * Tip portrait index from SSR bootstrap (`globalThis.__RELAY_PORTRAIT_SIBLINGS__`).
+ * Tip portrait index from SSR bootstrap.
+ * Prefer CS `globalThis` (seeded by gateway SSR / WASM boot). Fall back to the
+ * `#relay-portrait-siblings` JSON script — browser `globalThis` is not the CS sandbox.
  * Host invents only when the map says the sibling exists — never probe with Image().
  */
-function portraitSiblingIfPresent(src) {
-  let map = null
+function readPortraitSiblingMap() {
   try {
     if (typeof globalThis !== 'undefined') {
-      map = globalThis.__RELAY_PORTRAIT_SIBLINGS__
+      const g = globalThis.__RELAY_PORTRAIT_SIBLINGS__
+      if (g && typeof g === 'object') return g
     }
   } catch (e) {}
-  if (!map || typeof map !== 'object') return ''
+  try {
+    if (typeof document === 'undefined' || !document.getElementById) return null
+    const el = document.getElementById('relay-portrait-siblings')
+    if (!el) return null
+    let raw = ''
+    try {
+      if (typeof el.textContent === 'string') raw = el.textContent
+    } catch (e2) {}
+    if (raw.length === 0) return null
+    const parsed = JSON.parse(raw)
+    if (!parsed || typeof parsed !== 'object') return null
+    try {
+      if (typeof globalThis !== 'undefined') {
+        globalThis.__RELAY_PORTRAIT_SIBLINGS__ = parsed
+      }
+    } catch (e3) {}
+    return parsed
+  } catch (e4) {}
+  return null
+}
+
+function portraitSiblingIfPresent(src) {
+  const map = readPortraitSiblingMap()
+  if (!map) return ''
   try {
     const out = pathPortraitIfPresent(src, map)
     if (typeof out === 'string' && out.length > 0) return out
