@@ -1,25 +1,25 @@
 # Investigation: Presidential Alignment — Globalist vs Nationalist
 
-> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Nationalist∩NSA** + sin-eater (§9). **Locks:** Washington/Adams Globalist; Jefferson+Lincoln Neonationalist; Madison→Buchanan Globalist **except Jackson** + **W.H. Harrison / Taylor** Nationalist (failed); **Garfield / Coolidge** Nationalist (failed); Johnson–Arthur (ex-Garfield) + Cleveland/B. Harrison + Harding + Progressive empire + Hoover + FDR Globalist; **Eisenhower / JFK Globalist**; **Reagan Globalist puppet**; **Ford / Carter rocking Globalist**; **Nixon / GHWB / Trump Nationalist**; **GWB = Nationalist (failed) + NSA** (bandage then Epstein compromise). Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
+> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Cleveland** stays **Globalist** — silver/gold OS + **Populist / third-party containment**; soft Trump parallels rejected. **Near-miss** catalog (**§2.4.1–2**): no pure Nationalist losers; Weaver/Perot closest leans; Angry Birds/D&C named. **Major:** **compromise math (§2.4.3)** — real threats never admitted; allowed opposition pre-compromised. **Major:** **Trump rare combo (§9.1b)** — Epstein tipster/not-owned → presidency as duty over shadow option; outsider alone insufficient; falsifies PP intransigence myth. **Nationalist∩NSA** + sin-eater (§9); **GWB** owned mid-term. Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
 
 **Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting.
 
 
-**Last updated:** 2026-08-07 — Contested/Open retired; Eisenhower/JFK Globalist; Reagan Globalist puppet; Ford↔Carter rocking Globalist; GWB Nationalist (failed)+NSA; chart refreshed
+**Last updated:** 2026-08-08 — §9.1b Trump rare combination / tipster duty; §2.4.3 compromise-math; near-miss §2.4.1–2; Cleveland Populist containment
 
 ---
 
 ## Guide (read order)
 
 1. Session capture — [§1](#1-authors-originating-thesis)
-2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **puppet witting (§2.2)** / **immune kill (§2.3)** / rocking (§2.4) — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
+2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **puppet witting (§2.2)** / **immune kill (§2.3)** / rocking (§2.4) / **near-miss (§2.4.1–2)** / **compromise-math / pre-filtered field (§2.4.3)** — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
 3. Founding fork — Washington + **Jefferson** + **John Adams foil** — [§3](#3-founding-fork--washington-closed-door-federal-parchment)
 4. TONA window — Madison→Buchanan Globalist continuity (**Jackson** Nationalist-failed exception §4.4) — [§4](#4-tona-window--madison--buchanan-globalist-continuity-vacuum-bar-fails)
 5. Civil War / Lincoln — [§5](#5-civil-war--lincoln) (stature · **Black-identity inventory §5.3** · alignment)
 6. Slave-owning count + carceral 13th — [§6](#6-slave-owning-presidents--carceral-continuity)
 7. Depression / Hoover / FDR — [§7](#7-depression--herbert-hoover-fdr-census-trust)
 8. FBI / J. Edgar — [§8](#8-fbi--j-edgar-hoover-body-remover)
-9. Bridge Truman→Trump — [§9](#9-bridge--post-1947-cia-nsa-sublayer)
+9. Bridge Truman→Trump — Nationalist∩NSA / sin-eater / **GWB Epstein** / **Trump rare combo (§9.1b)** — [§9](#9-bridge--post-1947-cia-nsa-sublayer)
 10. Scorecard — [§10](#10-master-scorecard-stubs) · **Wall chart [§10.0](#100-wall-chart-shipped-2026-08-07)** · Gilded/Progressive [§10.1](#101-gilded--progressive--split-lock-author-revised-2026-08-07) · Coolidge [§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07) · Cut-short / Vacuum retired [§10.1b](#101b-cut-short-tips--wh-harrison-taylor-garfield--nationalist-failed-vacuum-column-retired)
 11. Claims / Qs — [§11](#11-authors-open-claims-au-046) · [§12](#12-questions-to-clarify-verify-or-debunk)
 
@@ -96,6 +96,119 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 **Author definition — rocking motion:** Two **ideological puppet poles** force the public into a **back-and-forth** presence fight until resistance to *both* neo-sides is **exhausted**. Power is taken by **attrition** in a popular sweep — then lost again to the other pole in the next sweep. The **big giveaway:** **nothing major is actually accomplished** for the people, while **similar Globalist agendas** advance under **bipartisan** guise (modern theater is thick with this). Soft history sells the rivalry as real choice; the machine harvests consolidation either way.
 
 **High-profile pawn rhyme:** Same family of motion as **Saddam** / **Hitler**-class seesaw assets — spectacular rise → strict consolidation / authority over populations fooled → wreck or blame theater ([AU-045 Saddam seesaw](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#123-saddam-seesaw-puppet--definitely-real-gold)). Cleveland and Harrison **engaged** the rocking as visible poles; they may not have realized full damage (**philosophically unwitting** on outcomes) while **passionately** arguing their eras. Parent: **Globalist** (both).
+
+**Cleveland — Populist Party containment / two-party press (Author 2026-08-08):** Soft history still sells Cleveland as the only other nonconsecutive-comeback twin of Trump. **Parent lock unchanged: Globalist.** Author suspicion: Cleveland was **empowered to defeat the Populist Party** as a live third-party threat — his return win helped ensure Populists would **not** take the presidency and that a durable third party would **not** enter the Oval at all. Outcome matches the board that followed: a hardened **two-party system** even when contemporaries already treated a third party as necessary. Strategy read: Populist ballots threatened to peel the **Republican** column; press a **Democrat** win — **bring Cleveland back** — and the third force dies in the nursery. That is Globalist party-geometry ownership, stacked on silver/gold OS ownership (§2.4 above), not Nationalist keep-word.
+
+**Cleveland ↔ Trump soft parallels — rejected as parent rhyme (Author 2026-08-08):** Nonconsecutive terms, outsider packaging, veto hygiene, scandal atmosphere, and partisan intensity are **surface / era coincidences**. Cleveland’s comeback is **not** Trump’s resurrection grammar — no comparable crucifixion / fake-defeat / own-network / multi-cycle foresight fight ([§2 Nationalist foresight bar](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay); [*It was the only way*](/governance/war/it-was-the-only-way.md)). Soft “striking similarities” lists do **not** move Cleveland off **Globalist** or Trump off **Nationalist**.
+
+**Near-miss / almost-won tips (Author open — track):** The Populist containment read implies the wall chart of **sitting** presidents is incomplete for party-geometry fights. People who **almost** won — or who forced real third-party heat without taking the Oval — may be load-bearing for why the two-party shell hardened. Catalog: **[§2.4.1](#241-near-miss--almost-won-catalog--stakes-q10-2026-08-08)**. Do **not** invent a fourth parent camp for near-misses; do **not** put them on the AU-046 wall chart as presidents. Log them as **containment / spoiler / fusion** specimens beside the tips who sat.
+
+#### 2.4.1 Near-miss / almost-won catalog — stakes (Q10, 2026-08-08)
+
+**Scope:** Contenders who **threatened** the Oval without sitting, plus a few **major-party almosts** where the public fight names the real stake. **Documented** columns = election outcome / platform fight. **AU-046 read** = Author interpretive on two-party / money / rocking geometry — labeled.
+
+**Rule:** Near-miss ≠ automatic Nationalist. Many third forces are **spoilers**, **regional vetoes**, or **fusion vehicles** that **feed** Globalist two-party hardening. Bryan fusion **killed** the Populist party as an Oval path even while silver rhetoric peaked.
+
+| Year | Near-miss / heat | Winner (sat) | Main argument — what was at stake | Approx. heat | AU-046 read |
+|------|------------------|--------------|-----------------------------------|--------------|-------------|
+| **1876** | **Samuel Tilden** (D) | **Hayes** (R) | Reconstruction end / “home rule” South vs Republican federal enforcement; **popular-vote win, EC bargain** | Popular plurality to Tilden; EC to Hayes via Compromise of 1877 | **EC / bargain** almost — early proof Oval can be settled off the raw popular ledger; Globalist machine continuity through Hayes era (§10.1) |
+| **1888** | **Cleveland** (incumbent D; popular win) | **Benjamin Harrison** (R) | **Tariff** height + patronage fight; Cleveland wins popular, loses EC | Soft “almost” on popular | **Rocking swing** inside Globalist duel — not Nationalist foresight; sets up 1892 Cleveland return (§2.4) |
+| **1892** | **James B. Weaver** (Populist) | **Cleveland** (D) over **Harrison** (R) | **People’s Party** vs gold / railroad / bank creditor OS: free silver, subtreasury, railroad regulation, direct Senate election — **third party into the Oval** | ~**8.5%** popular; **22** EV | **Load-bearing.** Cleveland return as **Populist containment** press (§2.4); third force dies in nursery; two-party shell hardens |
+| **1896** | **William Jennings Bryan** (D + Populist fusion) | **McKinley** (R) | **Cross of Gold** — free silver / agrarian debtor relief vs **gold standard** / industrial-creditor OS; “shall not crucify mankind upon a cross of gold” | Close popular (~47% vs ~51%); McKinley EC win | Soft history: Bryan as Populist voice. **Author:** fusion **absorbs** Populists into Dem ticket → **no durable third party**; gold OS wins with McKinley; Cleveland gold Dems’ containment work **completes** |
+| **1912** | **Theodore Roosevelt** (Progressive / Bull Moose) | **Wilson** (D) over **Taft** (R) | Progressive reform / trust regulation / “New Nationalism” vs Wilson New Freedom; **GOP split** hands Oval to Dems | TR ~**27%** (best modern third-party %); Taft ~23%; Wilson wins | Third-force **splits** major pole; Wilson **Globalist** path advances; Progressive heat **does not** become lasting third Oval party |
+| **1924** | **Robert La Follette** (Progressive) | **Coolidge** (R) | Labor / anti-monopoly Progressive vs Coolidge limited-gov / business calm | ~**17%** | Coolidge stays **Nationalist (failed)** on Fed/stock bar (§10.1a); Progressive third heat fails to displace two-party shell |
+| **1948** | **Henry A. Wallace** (Progressive) | **Truman** (D) | **Cold War fork** — conciliation toward USSR / anti-containment vs Truman Doctrine / Cold War state | ~**2.4%** | Soft Globalist\* Truman tip holds; left Progressive **spoiler** on Dem flank; Oval stays two-party |
+| **1948** | **Strom Thurmond** (States’ Rights / Dixiecrat) | **Truman** (D) | **Segregation / states’ rights** Southern veto vs national Dem civil-rights turn | ~**2.4%**; some EV | Regional third force; **not** Populist money fight; still proves two-party shell can shed regional vetoes without admitting a durable third Oval party |
+| **1948** | **Thomas Dewey** (R) — soft “sure winner” | **Truman** (D) | Soft history upset; competence / moderate GOP vs Fair Deal Dems | Dewey loses despite press certainty | Major-party **almost** in media narrative only — not third-party heat |
+| **1968** | **George Wallace** (American Independent) | **Nixon** (R) over **Humphrey** (D) | **Law-and-order / segregationist** Southern + northern backlash third force vs Nixon Southern Strategy / Humphrey Dems | ~**13.5%**; **last** third-party EV haul of scale | Third force **pressures** realignment; Nixon **Nationalist** tip sits; AIP does **not** become lasting third Oval party |
+| **1980** | **John Anderson** (Independent) | **Reagan** (R) | Moderate independent vs Reagan conservative install / Carter Globalist rocking exit | ~**6.6%** | Spoiler heat on margins; **Reagan Globalist puppet** path lands ([AU-045 §8](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#8-reagan-revolution--planned-cast-voter-conversion-rino-turn)) |
+| **1992** | **Ross Perot** (Independent) | **Clinton** (D) over **GHW Bush** (R) | **Deficit / trade / NAFTA** outsider vs two-party continuity; “giant sucking sound” | ~**18.9%** popular; **0** EV | Highest modern independent % without EV — classic **two-party shell** stress; Clinton soft Globalist\* sits; Perot Reform heat fades by 1996 |
+| **2000** | **Al Gore** (D) — popular win | **G.W. Bush** (R) | Soft recount / EC fight; also **Nader** Green spoiler narrative | Gore popular plurality; Bush EC | EC almost + spoiler grammar; GWB later **Nationalist (failed)+NSA** (§9.1a) — stake was tip control, not Populist money OS |
+| **2016 / 2024** | Soft “almost” lists (Clinton 2016 loss; etc.) | **Trump** sits **45 / 47** | Soft history obsesses nonconsecutive Cleveland rhyme | — | **Rejected** as Cleveland twin (§2.4); Trump = Nationalist foresight / own-network specimen |
+
+**Populist hinge (Author synthesis):** **1892 Weaver** proves a third party can take **EV**. **1896 Bryan fusion** proves the board’s preferred kill: **absorb the heat into a major ticket**, then lose (or win without a third party). **Cleveland 1892–93** gold Dem return + silver repeal sits **between** those elections as the Globalist money + party-geometry press. Later Wallace / Perot heats rhyme as **high temperature without Oval capture**.
+
+**Falsifiers for Q10 thesis:** A third party that **wins** the Oval and **keeps** a durable separate party identity; or a fusion that **preserves** third-party machinery after the election instead of dissolving it.
+
+#### 2.4.2 Near-miss agenda audit — Nationalist vs Angry Birds / divide-conquer (Author 2026-08-08)
+
+**Question:** Did any almost-won / third-force tip carry a **pure Nationalist** agenda (AU-046 bar), or were they **Angry Birds**-class heat for **red-vs-blue / faction divide-and-conquer**?
+
+**Bars used (same desk as sitting tips):**
+
+| Test | Nationalist signal | Angry Birds / divide-conquer signal |
+|------|--------------------|-------------------------------------|
+| **Keep-word America-first** | Does what it said for the people under the flag; not CO costume | Brand flies, peels a faction, crashes or dissolves; major poles unchanged underneath |
+| **Limited federal where real** | Shrinks or constrains consolidating machine | Demands **more** federal power under reform / identity / war grammar |
+| **Inclusion** | Natives / whole people under the flag | Race / section / identity **exclusion** as load-bearing (Neonationalist hole or sectional veto) |
+| **Foresight / durable party** | Multi-cycle settlement; survives bounce | One-cycle heat; fusion kill; **0 EV** despite huge %; party dies after election |
+| **Money OS** | Fights creditor / gold monopoly toward people-held settlement | Silver **rhetoric** that ends in **major-ticket absorption** or gold OS win |
+| **Angry Birds rhyme** ([AU-045 §15](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#15-angry-birds-cruz-fail-trump-required); [Cruz / Durst](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md)) | — | Media/party **amplifies** a flyable face that **clears** a path for the preferred tip or **exhausts** a flank without admitting a real third Oval party |
+
+**Verdict upfront (Author interpretive):** **No pure Nationalist** clears the full bar among the §2.4.1 near-misses. Closest money/America-first **leans** are **Weaver (1892)** and **Perot (1992)** — both still fail foresight / durable-party / pure limited-federal tests. Most high-temperature losers are **spoilers, fusion vehicles, Progressive expanders, or race-section Angry Birds**.
+
+| Specimen | Pure Nationalist? | Agenda read | Angry Birds / D&C? |
+|----------|-------------------|-------------|---------------------|
+| **Tilden 1876** | **No** | Reconstruction “home rule” / sectional bargain — not keep-word for whole people under the flag | **Partial** — EC bargain settles Oval off popular ledger; sectional exhaust |
+| **Cleveland 1888 (popular almost)** | **No** — locked **Globalist** | Tariff rocking pole | **Rocking pawn**, not Angry Bird outsider |
+| **Weaver 1892** | **No — closest lean** | Free silver / subtreasury / railroad curb vs creditor OS; **real third party + EV**. Still: platform grows **federal** tools (subtreasury, regulation), not Coolidge-class limited-federal Nationalist; foresight/durable settlement unfinished | **No** classic Angry Bird. This is the **competitor the board contains** — not a media fly-crash toy |
+| **Bryan 1896** | **No** | Silver debtor rhetoric (“Cross of Gold”) vs McKinley gold OS. Soft Nationalist costume on money; fusion into Dems **kills Populist Oval path**; nativist/exclusion notes in era rhetoric = inclusion risk | **Yes — fusion / absorption vehicle.** Preferred kill: peel Populist heat into a major ticket, then lose; gold OS + two-party shell win. Sincerity possible (§2.2 unwitting) — geometry still Angry Birds-class for party control |
+| **TR Progressive 1912** | **No** | **New Nationalism** = bigger federal Progressive state / empire-adjacent reformer; splits GOP | **Yes — splitter spoiler.** Hands Oval to **Wilson Globalist**; Progressive heat ≠ third Oval party |
+| **La Follette 1924** | **No** | Labor / anti-monopoly Progressive — expands federal labor grammar vs Coolidge | **Spoiler heat** on left-Progressive flank; Coolidge remains the Nat.(failed) tip who sat |
+| **H. Wallace 1948** | **No** | Cold War **conciliation / internationalist** Progressive — not America-first Nationalist bar | **Yes — left-flank spoiler** that sorts Dems while Truman soft Globalist\* holds |
+| **Thurmond 1948** | **No** — inclusion bar **fails hard** | Segregation / States’ Rights sectional veto | **Yes — race D&C Angry Bird.** Regional third force that polarizes without Nationalist keep-word |
+| **Dewey 1948** | **No** | Establishment moderate GOP “sure winner” | **Media Angry Bird / managed cast** — press certainty, not grounded Nationalist outsider |
+| **G. Wallace 1968** | **No** — inclusion bar **fails hard** | Law-and-order / segregationist AIP | **Yes — textbook race D&C Angry Bird.** High % + EV; forces realignment pressure; never a Nationalist tip |
+| **Anderson 1980** | **No** | Moderate independent margin peel | **Yes — classic spoiler Angry Bird** clearing path temperature around **Reagan Globalist puppet** install |
+| **Perot 1992** | **No — second-closest lean** | Deficit / trade / NAFTA skepticism — America-first **rhyme** on commerce. Own money, huge % (**~19%**), **0 EV**; Reform fades by 1996 = foresight/durable-party fail | **Mixed.** Not Durst-class media toy; still **two-party stress that seated Clinton soft Globalist\***. Useful-spoiler geometry possible without proving witting puppetry |
+| **Gore 2000 / Nader lane** | **No** | Soft Globalist Dem EC fight; Green spoiler narrative | **Nader lane = spoiler Angry Bird grammar**; Gore = major-party almost, not Nationalist |
+
+**How to read the board:**
+
+1. **Genuine Nationalist-leaning threat (contained):** **Weaver** — money OS + third-party EV. Board answer = Cleveland return + later Bryan **fusion kill**, not a fair multi-cycle Nationalist settlement.
+2. **Silver costume → absorption:** **Bryan** — looks populist-national; functions as **fusion Angry Bird** that retires the Populist party.
+3. **Race / section Angry Birds:** **Thurmond**, **G. Wallace** — maximum red-vs-blue / North-South heat; **disqualified** from Nationalist by inclusion bar.
+4. **Progressive expanders / splitters:** **TR**, **La Follette**, **H. Wallace** — more federal / internationalist; spoil or split so a Globalist tip sits.
+5. **Margin spoilers / media sure-things:** **Anderson**, **Dewey**, **Nader lane** — fly, peel, clear.
+6. **Partial America-first without pure badge:** **Perot** — trade/deficit lean; no durable party; Oval stays two-party.
+
+**Still open (Q10a):** Author may promote **Weaver** or **Perot** to explicit **Nationalist (failed) near-miss** overlay if keep-word evidence tightens — without wall-chart cells and without calling either pure. **Do not** promote Thurmond / G. Wallace under any Nationalist label.
+
+#### 2.4.3 Why no pure Nationalist loser — compromise math / pre-filtered field (Author lock 2026-08-08)
+
+**Major Author claim (session — capture verbatim intent):**
+
+> The reason we will not find a **pure Nationalist** as a **loser** to the presidency is that getting that far already requires weaving a path between **contradictory sides** of a **divide-and-conquered** base — Democrats, Republicans, and everyone else. To rise in politics at all you have to **compromise**, and sometimes those compromises are deep — abortion, rights fights, and similar litmus lines that **blacklist** you from whole groups and organizations. The strategy that emerged over time — and by over time meaning across **human history**, not only the U.S. two-party era — is that the **real threats** to the courtroom, the king’s court, and the president’s house were always the **real candidates who were never allowed into the system** to begin with. The people who ended up actually opposing the **pre-planned president list** always failed because they were themselves **too compromised** to beat the math of the equation. That compromise would always give a **major advantage** to the person who would win the presidency — an advantage that **did not really appear in the data** anywhere. No one could really predict the outcome; they feel as if they could not predict it; they feel as if everything that happened represented the role of the people one way or another. They may have overlooked this one phenomenon: the person who lost was almost always somebody who had to compromise and find themselves **far away from what the public actually wanted** just to be able to run for president at all — and because of that compromise they would almost always be **guaranteed to lose on the math**, with even the most intelligent commentators and analysts scratching their heads and wondering why the public decided to go that way again and again.
+
+**Unpack (Author → desk):**
+
+| Piece | Meaning on this spine |
+|-------|------------------------|
+| **No pure Nationalist loser** | §2.4.2 finding is **not** an accident of sparse samples — it is a **selection effect**. Pure keep-word tips are **filtered before** the general-election “loser” slot exists |
+| **Weave between contradictory bases** | Divide-and-conquer party geometry forces every allowed climber to **sell incompatible factions**; the weave itself is the compromise |
+| **Deep litmus compromises** | Abortion / rights / identity blacklists are modern specimens of older court litmus tests — same function: **prove loyalty to a faction machine** or never rise |
+| **Real threats never admitted** | The dangerous Nationalist (or equivalent court threat in other eras) is **kept off the ballot / off the pipeline** — not defeated fair-and-square after a pure run |
+| **Allowed opposition = pre-compromised** | Whoever is permitted to “oppose” the **pre-planned tip list** has already paid enough compromise tax that the **math favors the planned winner** |
+| **Invisible advantage** | Soft data (polls, pundit models, “fundamentals”) miss the **compromise distance from the public**; analysts experience **permanent surprise** and re-narrate it as “the people spoke” |
+| **Human-history scope** | Not only U.S. Dem/Rep — king’s court / courtroom / Oval rhyme: **admission filter** beats **open contest** |
+
+**How this locks to prior sections:**
+
+- Explains §2.4.2: **no pure Nationalist** among general-election near-misses — the pure ones never reach that stage.
+- Explains Angry Birds / fusion / spoilers: allowed “opposition” heat is often **pre-broken** or **faction-peeling**, not keep-word Nationalist.
+- Explains Weaver / Perot as **closest leans**: they stress the shell from **outside or half-outside** the ordinary climb; they still fail foresight/durable-party — and the board still seats a planned-path tip.
+- Explains Trump as rare counter-specimen among **winners**: multi-cycle / own-network / crucifixion grammar that refused ordinary party weave long enough to clear foresight — still not proof every loser was pure.
+- Rhymes AU-045 / Cruz–Angry Birds: media+party **starve real challengers** and amplify flyable compromised faces ([Cruz dossier](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md); [AU-045 §15](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#15-angry-birds-cruz-fail-trump-required)).
+
+**Documented vs interpretive:** Election calendars, platforms, and vote shares remain **Documented**. “Pre-planned president list,” “never allowed into the system,” and “guaranteed loss on invisible compromise math” are **Author pattern locks** — strong where marked, not a found court memo for every cycle.
+
+**Falsifiers:**
+
+1. A general-election loser who demonstrably ran a **pure Nationalist** keep-word ticket (inclusion + limited federal + foresight grammar) **without** deep faction litmus compromise — and still lost on transparent public preference.
+2. Repeated open admission of **uncompromised** outsider Nationalists onto major tickets with equal machine access who then lose only on clear policy disagreement.
+3. Polling / betting markets that **routinely price** the compromise-distance tax (so the “surprise” disappears).
+
+**Winner-side payoff:** When the rare tip finally clears the filter — **tipster/not-owned** + duty presidency — see **[§9.1b](#91b-trump--rare-combination-that-breaks-compromise-math-author-lock-2026-08-08)** and the reader section *Why Trump won*.
 
 **Ford ↔ Carter (Author lock 2026-08-07):** Same rocking grammar after Nixon. Soft history sells post-Watergate recovery rivalry. Parent for both: **Globalist** rocking poles — back-and-forth on a compromised board, not blank tips and not Nationalist repair.
 
@@ -379,7 +492,7 @@ Do **not** re-litigate Truman→Trump here. Point:
 | **Nixon** | **Nationalist** | **None / not NSA-aligned** | Pure Nationalist; NSA still waking (often CIA-order cleanup). Priorities **inverted** after resignation threat. **Pentagon Papers** SCOTUS lane = early antibody win; Watergate cited to **absolve Ellsberg** — Nixon on the wrong end of rising antibody law. His containment taught NSA-aligned entities why **both parties** would need rules + sin-eating in a blackmail-compromised government. |
 | **GHW Bush** | **Nationalist** | **NSA-aligned** | Antibody **born inside** CIA disease who chose to fight. **1991** = Nationalist tip running **necessary containment / sin-eater** on a **board CIA lit** (dinar / settlement war) — not “CIA product tip.” Kept America’s interests even when media made them unsayable; feared **Clinton** chaos-for-order cast. |
 | **G.W. Bush** | **Nationalist (failed)** | **NSA-aligned** | **2001–~2005 = strong NSA bandage** (§9.1a): Tonkin/Hanyok declass, Mars RV daylight fight, PP culture push that mostly failed. Mid/late term ruined — Author: **Epstein blackmail compromise** owns the tip **while still in office**; that compromise is the failure mode (not cut-short death, not Jackson-class money foresight alone). Enables next tips; **Obama** already prepared as automated ideology cast. |
-| **Trump** | **Nationalist** | **NSA-aligned** | Every action for America + **kept word** — not Vacuum puppet, not Globalist CO. Epstein-network hinge (tipster / not owned — [Epstein crosslinks §5](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md#5-trump-netanyahu-likud)); public presidency = [*It was the only way*](/governance/war/it-was-the-only-way.md). |
+| **Trump** | **Nationalist** | **NSA-aligned** | Keep-word + foresight / own-network. Epstein **tipster / not owned** (§9.1b) — presidency as duty over shadow option; breaks §2.4.3 compromise math. [*It was the only way*](/governance/war/it-was-the-only-way.md). |
 
 ### 9.1a G.W. Bush — 2001–~2005 NSA “bandage” then Epstein hinge (Author lock 2026-08-07)
 
@@ -401,6 +514,31 @@ Do **not** re-litigate Truman→Trump here. Point:
 **Consequence (Author):** Once the tip is owned by the blackmail board, **NSA-aligned entities can install nearly any subsequent president**. They already had a long plan: **Obama** born and raised with ideology set in motion so he would run as a **more-or-less automated** tip — appearing to take **no orders** and to sit outside any conspiracy — **and yet completely was**. That is managed cast at maximum polish ([AU-045 §13](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md#13-obama--malcolm-x-revolutionary-cast)). The later outsider **Trump** path follows when party tickets are understood as pre-selected.
 
 **Falsifiers:** Dated proof that GWB’s post-2005 turn is explained **without** compromise (e.g. clean primary paper that NSA abandoned the tip for other reasons); or Tier A that Obama’s autonomy was real rather than installed ideology.
+
+### 9.1b Trump — rare combination that breaks compromise math (Author lock 2026-08-08)
+
+**Major Author claim (ties §2.4.3 + Epstein tipster hinge):** All prior presidential math on this spine — rocking, cut-short Nationalists, money foresight fails, **GWB Epstein ownership**, near-misses who were never pure, **compromise admission taxes** — explains why a **good** tip almost never reaches the Oval. Soft **outsider** branding failed before (**Perot**-class heat, Angry Birds). Outsider alone was **not enough**.
+
+**Working assumption (Author — labeled, not a court finding):** Trump’s Epstein-network path is **informant / tipster / not owned** geometry ([Epstein crosslinks §5](/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md#5-trump-netanyahu-likud) — Reiter 302 shard; public “FBI informant” label **disputed / walked back**; Author weight stays on **vetting signal** / expulsion / tipster role). That position could propel either:
+
+| Option | Read |
+|--------|------|
+| **A — Presidency** | Call the blackmail network out from history by **taking the Oval** and surviving the guaranteed cost |
+| **B — Shadow influence** | Stay one of the most influential people alive **without** the public tip |
+
+**Author:** **B would not have worked**; he knew it. Circumstance showed he was put in position to take **A** as **duty** — knowing the cost (lawfare, assassination risk, crucifixion grammar) — because only the public presidency can falsify the long PP story that American government is permanently intransigent and the people permanently disenfranchised ([predictive programming hub](/influence/predictive_programming/page.md); [*It was the only way*](/governance/war/it-was-the-only-way.md)).
+
+**Rare combination required (Author):**
+
+1. Already treated as **not compromised by the compromises** that own the blackmail network’s existence  
+2. **Willing to run** for president anyway  
+3. Willing to endure **everything the filter guarantees**  
+4. Come out **alive and still battling**  
+5. Reach the outcome always possible and never achieved: presidency that can **order the will of the country efficiently and directly into solutions** — rapidly — and **spectacularly disprove** bloated-government intransigence mythology
+
+**Contrast:** **GWB** = Nationalist (failed) **owned** by Epstein hinge mid-term (§9.1a). **Trump** = Nationalist + NSA **tipster/not-owned** + foresight / own-network. Reader synthesis: [Nationalists who failed — Why Trump won](/governance/war/nationalists-who-failed.md).
+
+**Falsifiers:** Tier A that Trump was **owned** by the network as an asset tip; or that shadow option B could have delivered equivalent public falsification of the PP intransigence myth without the Oval.
 
 **Desk rule:**
 
@@ -487,7 +625,7 @@ Author fill. Deep essays only where marked; others are lean stubs.
 | **Rutherford B. Hayes** | **Globalist** | Compromise-of-1877 / Reconstruction end fork he owned |
 | **James A. Garfield** | **Nationalist (failed)** | Assassinated **1881** — unfinished mission; soft fall-guy packaging → §10.1b (**not** Benjamin Harrison) |
 | **Chester A. Arthur** | **Globalist** | Machine → civil-service / federal continuity he sold — not unwitting |
-| **Grover Cleveland** | **Globalist** | Rocking pole **1885–89 / 1893–97** — §2.4; **owns Sherman Silver repeal (1893)** — gold-reserve defense / kill silver-challenger path — precursor to later gold / ruble / Iraq–Libya currency wars |
+| **Grover Cleveland** | **Globalist** | Rocking pole **1885–89 / 1893–97** — §2.4; **owns Sherman Silver repeal (1893)** — gold-reserve defense / kill silver-challenger path; **Author:** empowered comeback to **contain Populist / third-party** Oval path and harden two-party shell; soft Cleveland↔Trump parallels **rejected** as parent rhyme |
 | **Benjamin Harrison** | **Globalist** | Rocking-pawn pole **1889–93** — alternation with Cleveland as deep-state rivalry tactic — §2.4 — **not** W.H. Harrison |
 | **McKinley** | **Globalist** | Overseas empire hinge (Spanish–American / Philippines) |
 | **Theodore Roosevelt** | **Globalist** | Imperial Progressive — admin-state + great-power America |
@@ -585,6 +723,10 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 25. **Jackson = Nationalist who failed (§4.4):** Bank War = Clay/Biddle trap, grounded kill-the-Bank fight, unintended consequences, Second Bank gone / central banking returns; Removal = native-inclusion failure; enemies’ Black-ancestry smear + whitewashed portraiture = Author/open (Lincoln-class). **Not** Globalist puppet with nationalist views.
 26. **Coolidge = Nationalist who failed (§10.1a):** Refused Fed/Congress stock-market regulation as federal power grab (states should regulate); soft history inverts him into Depression “neglect” villain while he was trying to **stop** Fed power; *“I do not choose to run”* (2 Aug 1927) while extremely popular = suspicious forced exit / technicality win for Fed board; had he stayed, Author: Reserve stays out + Depression handled unlike Hoover. **Not** Globalist continuity tip.
 27. **W.H. Harrison / Taylor / Garfield = Nationalist who failed (§10.1b); Vacuum column retired:** Deaths cut terms short; unfinished missions; early deep-state lesson that Americans could not actually run for president unless agendas served evil; soft “Vacuum fall guy” packaging → **Nationalist (failed)**. **Benjamin Harrison** stays Globalist rocking pole — do not conflate with W.H. Harrison.
+28. **Cleveland = Globalist (lock held 2026-08-08):** rocking + silver/gold OS + **Populist / third-party containment** via empowered Democrat comeback (Populist peel of Republican column → press Cleveland win → no third party in the Oval). Soft Cleveland↔Trump “striking similarities” = surface only — **not** Trump resurrection / foresight grammar.
+29. **Near-miss catalog (§2.4.1–§2.4.2):** two-party shell incomplete without almost-won heat — **Weaver 1892** EV proof; **Bryan 1896 fusion** absorbs Populists; **no pure Nationalist** among losers — closest leans Weaver / Perot; Thurmond / G. Wallace / Anderson / Bryan-fusion / TR-splitter = Angry Birds or D&C vehicles.
+30. **Compromise math / pre-filtered field (§2.4.3 — major):** Pure Nationalist losers are rare because **admission requires faction weave**; deep litmus compromises blacklist climbers; **real court/Oval threats were never allowed in**; allowed opposition is **pre-compromised** so the planned winner holds an **invisible math advantage**; pundits re-narrate surprise as “the people spoke.”
+31. **Trump rare combination (§9.1b — major):** Epstein **tipster/not-owned** (Author working assumption) → presidency **A** over shadow **B** as duty; outsider alone insufficient; must be believed uncompromised by blackmail-board compromises + willing to pay the cost + survive battling; falsifies PP intransigence / bloated-government mythology via keep-word Oval. Contrast **GWB owned**.
 
 ---
 
@@ -605,6 +747,9 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | Q7a | Coolidge exit — voluntary laconic retirement vs forced/suspicious board outcome? | Soft: 10-year limit + son’s death. Author: popular tip’s refusal opens Hoover/Fed path — keep **Open** on coercion mechanism; parent lock stands (§10.1a) |
 | Q8 | NSA tip → Nationalist? | **Locked §9.1:** major overlap; not automatic; sin-eater named; Nixon proves Nationalist without NSA |
 | Q9 | Vacuum parent column? | **Locked retired (§10.1b):** cut-short tips that looked Vacuum → **Nationalist (failed)**; three-camp wall chart only |
+| Q10 | Track **almost-won / near-miss** presidential contenders (esp. Populist-era third force) as two-party containment specimens? | **Catalog §2.4.1 + agenda audit §2.4.2 + compromise-math lock §2.4.3 (2026-08-08).** No pure Nationalist loser = selection effect. Weaver/Perot = closest leans; Angry Birds/D&C named. **Q10a** still open for Nat.(failed) near-miss overlay |
+| Q10a | Promote **Weaver** and/or **Perot** to explicit **Nationalist (failed) near-miss** overlay? | **Open** — requires tighter keep-word / platform primary cites; still **not** wall-chart cells; **never** Thurmond / G. Wallace |
+| Q10b | Case studies that price the **compromise-distance tax** (litmus blacklist → poll miss → surprise loss)? | **Open** — pick cycles where loser visibly paid abortion/rights/faction tax and pundits called the result unpredictable; test against §2.4.3 falsifiers |
 
 ---
 
@@ -619,6 +764,8 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 - [ ] Verify Rogers’s Herndon / *Hidden Lincoln* page cites against primary editions
 - [ ] Keep J. Edgar vs Herbert Hoover distinct in every public graphic
 - [x] **Q9:** Vacuum parent **retired** — cut-short Nationalist (failed) §10.1b
+- [x] **Q10 v1:** Near-miss catalog §2.4.1 + Angry Birds audit §2.4.2 + **compromise-math / pre-filtered field §2.4.3** — **Q10a/Q10b** still open
+- [x] **Cleveland Globalist held (2026-08-08)** — Populist containment + soft Trump-parallel reject §2.4
 
 ---
 
@@ -642,9 +789,9 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) | Reader essay — off-books pattern; companion = AU-047 |
 | [**Nationalists who failed**](/governance/war/nationalists-who-failed.md) | Reader essay — Jackson, Coolidge, cut-short tips; companion = AU-046 |
 
-Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #AU046 #ParadigmThreatFiles
+Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #PopulistParty #JamesWeaver #WilliamJenningsBryan #RossPerot #AngryBirds #CompromiseMath #PreFilteredField #DonaldTrump #Epstein #PredictiveProgramming #AU046 #ParadigmThreatFiles
 
-*Last updated: 2026-08-07*
+*Last updated: 2026-08-08*
 
 ---
 
@@ -668,6 +815,8 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - **Depression-as-genocide** / census / purposeful neglect — see **AU-047** Limits; do **not** explain 1930 noncooperation primarily as public “ignorance.”
 - **CIA/NSA** labels are anachronistic before 1947 — use Globalist / Nationalist / **Neonationalist** only in pre-1947 rows.
 - **Neonationalist** is **not** a synonym for every “woke” brand or racist Democrat — it is the **Jefferson-class** pure-vision + race/apartheid hole (native exclusion as load-bearing). Later movement-capture without delivery is a **rhyme**, not auto-badge.
+- **Near-miss / compromise math (§2.4.1–§2.4.3):** vote shares and platforms Documented; **no pure Nationalist loser**, Angry Birds/D&C reads, **pre-planned tip list**, and **invisible compromise-distance tax** are **Author pattern locks** — not a found memo for every cycle. Falsifiers in §2.4.3.
+- **Trump §9.1b:** Epstein **tipster / not owned** is **Author working assumption** (public informant label disputed; Reiter 302 = shard) — not Tier A informant docket. Presidency-as-duty vs shadow option and PP-falsification stakes are Author pattern. Contrast GWB **owned** (§9.1a).
 - Companion dossiers hold deep proof; this file is the **all-era alignment spine**.
 
 ---
@@ -694,6 +843,11 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - Session 2026-08-07 (later): **Vacuum column retired**; **W.H. Harrison / Taylor / Garfield → Nationalist (failed)** — cut-short missions; deep-state lesson Americans couldn’t really run for president; soft fall-guy Vacuum packaging inverted; B. Harrison stays Globalist rocking.
 - Session 2026-08-07 (later): Wall chart **shipped** — `presidential-alignment-scorecard-au046.png`; audit pass §10.0 (locks match; soft Globalist\* + dual Trump cells noted).
 - Session 2026-08-07 (later): **Contested/Open retired** — Eisenhower / JFK = **Globalist**; **Reagan = Globalist puppet**; Ford↔Carter = **rocking Globalist**; **GWB = Nationalist (failed) + NSA** (compromise failure); chart refreshed.
+- Session 2026-08-08: **Cleveland Globalist held** — soft Cleveland↔Trump parallels rejected; Author: empowered comeback to **contain Populist Party / third-party Oval path** and harden two-party shell (Populist peel of GOP → press Democrat win); **Q10** near-miss / almost-won tracking opened (Weaver / Bryan first).
+- Session 2026-08-08 (later): **§2.4.1 near-miss catalog** — stakes table (Tilden/Hayes, Cleveland 1888, Weaver 1892, Bryan 1896 fusion kill, TR 1912, La Follette, Wallace/Thurmond/Dewey 1948, G. Wallace 1968, Anderson, Perot, Gore 2000); Populist hinge synthesis.
+- Session 2026-08-08 (later): **§2.4.2 agenda audit** — no pure Nationalist among near-misses; Weaver/Perot closest leans; Bryan fusion + Thurmond/G.Wallace/Anderson/TR/Dewey = Angry Birds or D&C; Q10a open for Nat.(failed) near-miss overlay on Weaver/Perot only.
+- Session 2026-08-08 (later): **§2.4.3 major Author lock — compromise math / pre-filtered field** — pure Nationalist losers rare because admission requires faction weave + deep litmus compromise; real court/Oval threats never allowed in; allowed opposition pre-compromised → invisible math advantage to planned winner; pundit “surprise” = overlooked compromise distance from public; human-history court rhyme; Q10b case-study hunt; reader article section added.
+- Session 2026-08-08 (later): **§9.1b Trump rare combination** — tipster/not-owned working assumption; A presidency vs B shadow (B fails); duty cost; outsider insufficient; PP intransigence falsification; reader *Why Trump won*; claim 31.
 - Session 2026-08-06 (later): **John Adams = Globalist** — Jefferson foil; Federalist↔Democrat intertwine → world-order vision, not sovereign-citizen rights.
 - Session 2026-08-06 (later): Gilded→Progressive **Option D** — Vacuum majority; McKinley/TR/Taft/Wilson **Globalist** (Wilson hard).
 - Graphic deferred until author art pass (parent locks dense enough).

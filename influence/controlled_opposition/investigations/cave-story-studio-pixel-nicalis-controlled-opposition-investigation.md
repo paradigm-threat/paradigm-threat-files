@@ -8,7 +8,7 @@
 
 **Guide**
 
-- **Structural rhyme (community → enclosure):** [*Homestuck* §5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent) (DMCA / fan-edit lane; OpenMW vs MWSE fork sorting); [OC ReMix §7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (engine fork / legal chill geometry).
+- **Structural rhyme (community → enclosure):** [*Homestuck* §5.3](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#53-fan-edits--video-derivatives--pattern-rhyme-ip-enclosure-adjacent) (DMCA / fan-edit lane; OpenMW vs MWSE fork sorting); [OC ReMix §7.4–§7.5](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) (engine fork / legal chill geometry); [Homestar / Strong Bad — *Homestuck* §5.1.1](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md#511-cross-mention--homestar-runner--strong-bad-web-native-voice-under-tv-enclosure-pressure) + reader essay [Here's Why Strong Bad Went Silent](/influence/controlled_opposition/heres-why-strong-bad-went-silent.md) (polished-free slot occupation; empty competition field; leadership seat; cadence collapse).
 - **Reader essay alignment:** [Success — by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) — NDA silence, fan commons as subsidy, leader distance from community harm.
 - **Readable companion:** [You do not have to stop loving *Cave Story*](/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) — longform reader essay (primer-level explanations in prose); silver platter (commons → corporate); media consolidation coda; §1.7 / §1.8 / §1.9 themes; gated-sword figure; Limits at end; full tables stay in this dossier.
 - **Documented legal event (not hypothesis):** [GitHub DMCA — Nicalis, 19 Nov 2020](https://github.com/github/dmca/blob/master/2020/11/2020-11-19-nicalis.md) — takedown targeting **CSE2**-related repositories.
@@ -256,14 +256,15 @@ These items are widely cited in public sources and serve as shared reality ancho
 | Investigation | Relation |
 |---------------|----------|
 | [OC ReMix](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) | Fan labor → industry routing; §7 legal chill geometry |
-| [*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | Canon/IP enclosure; §5.3 DMCA / fork lane |
+| [*Homestuck*](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | Canon/IP enclosure; §5.3 DMCA / fork lane; **§5.1.1** Homestar / Strong Bad polished-free / leadership rhyme |
+| [Here's Why Strong Bad Went Silent](/influence/controlled_opposition/heres-why-strong-bad-went-silent.md) | Reader essay — freeware-miracle slot occupation parallel; empty competition; leadership ethics |
 | [Great Awakening / PP cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) | Optional PP cross-read for occult / reset grammar |
 
 ---
 
 Keywords: #CaveStory #Undertale #StudioPixel #Nicalis #CSE2 #ControlledOpposition #FanLabor #ReverseEngineering #DMCA #Nintendo #N64 #OpenSource #ParadigmThreatFiles
 
-**Last updated:** 2026-05-19 (fan-belief / no-five-year-ledger refinement; Nintendo/Nicalis commercial-routing sentiment; all-forks DMCA signal; **Microsoft-style** diversified/central-control rhyme)
+**Last updated:** 2026-08-08 (**Homestar** **/** **Strong** **Bad** **slot-occupation** **/** **leadership** **cross-read** **via** **§5.1.1** **+** [**Here's Why Strong Bad Went Silent**](/influence/controlled_opposition/heres-why-strong-bad-went-silent.md); prior: fan-belief / no-five-year-ledger; Nintendo/Nicalis commercial-routing; all-forks DMCA; **Microsoft-style** diversified/central-control rhyme)
 
 ---
 

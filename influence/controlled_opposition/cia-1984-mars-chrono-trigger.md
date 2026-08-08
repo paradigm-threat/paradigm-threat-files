@@ -4,6 +4,8 @@ When the briefing was a game: the 1984 Mars session, *Chrono Trigger*, and a fil
 
 ![CIA 1984 Mars × *Chrono Trigger* — article hero figure](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png)
 
+> **TL;DR:** A declassified 1984 CIA Mars remote-viewing transcript and Square’s *Chrono Trigger* (1995) share the same post-catastrophe mood—domes, despair, machine sustenance, something terrible from beyond. This article walks that rhyme in plain order and points at the [Mars investigation](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) for FOIA, line-level analysis, and the Revelation-of-the-Method release read. It does not claim Square’s writers opened a STARGATE folder; it treats the convergence as data worth steady eyes.
+
 **Updated:** 2026-05-28 (**§5.7.1** **NSA** **Tonkin** **parallel** **/** **two-camp** **declass** **read**); **2026-05-28** (**forum** **stress** **test** **block** → **§6.2.1** **Gordonston** **sibling**)
 
 **Terminology:** This article uses **remote viewing** and **RV** only in the intelligence/STARGATE sense — **not** Iraqi dinar **revaluation** (also called “RV” in promoter forums; [Great Awakening / revaluation cluster](https://paradigmthreat.net/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)).
