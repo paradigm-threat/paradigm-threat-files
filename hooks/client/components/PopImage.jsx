@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { prop } from '@relay/util'
 import { gallery } from 'hooks/client/galleryStore.jsx'
@@ -50,6 +50,40 @@ function portraitSiblingSrc(src) {
   return prefix + dir + stem + '-portrait' + ext + query
 }
 
+/**
+ * Relay serves missing repo paths as HTTP 200 JSON (`ok:false`), which breaks
+ * `<picture><source>` on mobile (no fallback to the landscape `<img>`). Only
+ * enable art-direction after the sibling decodes as a real image.
+ */
+function usePortraitSiblingReady(portraitSrc) {
+  const [ready, setReady] = useState(false)
+  useEffect(() => {
+    if (typeof portraitSrc !== 'string' || portraitSrc.length === 0) {
+      setReady(false)
+      return
+    }
+    let cancelled = false
+    setReady(false)
+    const probe = new Image()
+    probe.onload = () => {
+      if (!cancelled) setReady(true)
+    }
+    probe.onerror = () => {
+      if (!cancelled) setReady(false)
+    }
+    probe.src = portraitSrc
+    return () => {
+      cancelled = true
+      try {
+        probe.onload = null
+        probe.onerror = null
+        probe.src = ''
+      } catch (e) {}
+    }
+  }, [portraitSrc])
+  return ready
+}
+
 /** Inline / MDX image — click opens fullscreen gallery (live PopImage parity). */
 export default function PopImage(props) {
   const src = str(prop(props, 'src', ''))
@@ -65,6 +99,7 @@ export default function PopImage(props) {
   const live = isClientLive() === true
   const id = gallery.safeImgDomId(src)
   const portraitSrc = portraitSiblingSrc(src)
+  const portraitReady = usePortraitSiblingReady(portraitSrc)
 
   useEffect(() => {
     if (!live || src.length === 0) return
@@ -138,7 +173,7 @@ export default function PopImage(props) {
       }}
     >
       <div className="pt-popimage-inner">
-        {portraitSrc.length > 0 ? (
+        {portraitReady && portraitSrc.length > 0 ? (
           <picture>
             <source media={PORTRAIT_MEDIA} srcSet={portraitSrc} />
             {imgEl}
