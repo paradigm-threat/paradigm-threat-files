@@ -5,6 +5,7 @@
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { AudioPlayer, synthesize } from '@relay/tts'
+import { splitSentences as hostSplitSentences, takeSentenceChunk } from '@relay/util'
 import {
   IconPlay,
   IconPause,
@@ -38,35 +39,21 @@ function articlePlainText() {
 }
 
 function splitSentences(text) {
-  let out = []
-  let cur = ''
-  const s = typeof text === 'string' ? text : ''
-  for (let i = 0; i < s.length; i++) {
-    const c = s.charAt(i)
-    cur = cur + c
-    if (c === '.' || c === '!' || c === '?') {
-      const t = cur.trim()
-      if (t.length > 0) out = out.concat([t])
-      cur = ''
-    }
-  }
-  const tail = cur.trim()
-  if (tail.length > 0) out = out.concat([tail])
-  return out
+  try {
+    const out = hostSplitSentences(typeof text === 'string' ? text : '')
+    if (out && typeof out.length === 'number') return out
+  } catch (e) {}
+  return []
 }
 
 function takeChunk(sentences, start, maxChars) {
-  let out = ''
-  let i = start
-  while (i < sentences.length) {
-    const next = sentences[i]
-    if (out.length > 0 && out.length + next.length + 1 > maxChars) break
-    if (out.length > 0) out = out + ' '
-    out = out + next
-    i = i + 1
-    if (out.length >= maxChars) break
-  }
-  return { text: out, next: i }
+  try {
+    const chunk = takeSentenceChunk(sentences, start, maxChars)
+    if (chunk && typeof chunk.text === 'string' && typeof chunk.next === 'number') {
+      return chunk
+    }
+  } catch (e) {}
+  return { text: '', next: start }
 }
 
 function scrollY() {

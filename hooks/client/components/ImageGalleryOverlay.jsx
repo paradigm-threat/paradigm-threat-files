@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { basename } from '@relay/path'
 import { gallery } from 'hooks/client/galleryStore.jsx'
 import {
   IconClose,
@@ -17,8 +18,14 @@ function captionFor(img) {
   if (typeof img.alt === 'string' && img.alt.length > 0) return img.alt
   const src = typeof img.src === 'string' ? img.src : ''
   if (src.length === 0) return ''
-  const parts = src.split('/')
-  let base = parts.length > 0 ? parts[parts.length - 1] : ''
+  let base = ''
+  try {
+    base = basename(src)
+  } catch (e2) {
+    const parts = src.split('/')
+    base = parts.length > 0 ? parts[parts.length - 1] : ''
+  }
+  if (typeof base !== 'string') base = ''
   const dot = base.lastIndexOf('.')
   if (dot > 0) base = base.slice(0, dot)
   return base.split('_').join(' ')

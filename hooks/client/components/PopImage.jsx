@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { prop } from '@relay/util'
-import { portraitSiblingSrc as pathPortraitSiblingSrc } from '@relay/path'
+import { portraitSiblingIfPresent as pathPortraitIfPresent } from '@relay/path'
 import { gallery } from 'hooks/client/galleryStore.jsx'
 import { IconMaximize } from 'hooks/client/components/Icons.jsx'
 
@@ -13,41 +13,11 @@ function str(v) {
   return ''
 }
 
-function inventPortraitSibling(src) {
-  try {
-    const out = pathPortraitSiblingSrc(src)
-    if (typeof out === 'string' && out.length > 0) return out
-  } catch (e) {}
-  return ''
-}
-
-function repoRelFromMediaSrc(src) {
-  if (typeof src !== 'string' || src.length === 0) return ''
-  let path = src
-  try {
-    if (src.indexOf('http://') === 0 || src.indexOf('https://') === 0) {
-      path = new URL(src).pathname
-    } else {
-      const qi = src.indexOf('?')
-      if (qi >= 0) path = src.slice(0, qi)
-    }
-  } catch (e) {
-    const qi = src.indexOf('?')
-    if (qi >= 0) path = src.slice(0, qi)
-  }
-  while (path.length > 0 && path.charAt(0) === '/') {
-    path = path.slice(1)
-  }
-  return path
-}
-
 /**
  * Tip portrait index from SSR bootstrap (`globalThis.__RELAY_PORTRAIT_SIBLINGS__`).
- * Without the index, never invent a `<source>` — missing siblings blank mobile images.
+ * Host invents only when the map says the sibling exists — never probe with Image().
  */
 function portraitSiblingIfPresent(src) {
-  const cand = inventPortraitSibling(src)
-  if (cand.length === 0) return ''
   let map = null
   try {
     if (typeof globalThis !== 'undefined') {
@@ -55,10 +25,9 @@ function portraitSiblingIfPresent(src) {
     }
   } catch (e) {}
   if (!map || typeof map !== 'object') return ''
-  const rel = repoRelFromMediaSrc(cand)
-  if (rel.length === 0) return ''
   try {
-    if (map[rel] === true) return cand
+    const out = pathPortraitIfPresent(src, map)
+    if (typeof out === 'string' && out.length > 0) return out
   } catch (e2) {}
   return ''
 }

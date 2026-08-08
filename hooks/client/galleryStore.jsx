@@ -1,18 +1,17 @@
 /**
  * Gallery store — closed-over mutable state via `export const gallery = create…()`.
- * CleverScript now supports export const; nested functions close over locals correctly.
+ * Path/hash/id helpers live in `@relay/path` (web + mobile WASM).
  */
+import {
+  safeImgDomId as pathSafeImgDomId,
+  readHashImgSrc as pathReadHashImgSrc,
+  galleryImgHash as pathGalleryImgHash,
+  galleryDisplaySrc as pathGalleryDisplaySrc,
+} from '@relay/path'
 
 function strSrc(v) {
   if (typeof v === 'string') return v
   return ''
-}
-
-function isAlnumChar(c) {
-  if (c >= '0' && c <= '9') return true
-  if (c >= 'A' && c <= 'Z') return true
-  if (c >= 'a' && c <= 'z') return true
-  return false
 }
 
 function createGalleryApi() {
@@ -235,9 +234,16 @@ function createGalleryApi() {
     try {
       const loc = document.location
       if (!loc) return
-      const hash = '#img=' + src
+      let hashBody = ''
+      try {
+        hashBody = pathGalleryImgHash(src)
+      } catch (e0) {
+        hashBody = 'img=' + src
+      }
+      if (hashBody.length === 0) return
+      const hash = '#' + hashBody
       if (loc.hash === hash) return
-      loc.hash = 'img=' + src
+      loc.hash = hashBody
     } catch (e) {}
   }
 
@@ -245,9 +251,11 @@ function createGalleryApi() {
     try {
       const loc = document.location
       if (!loc || typeof loc.hash !== 'string') return ''
-      const hash = loc.hash
-      if (hash.indexOf('#img=') !== 0) return ''
-      return hash.slice(5)
+      try {
+        const out = pathReadHashImgSrc(loc.hash)
+        if (typeof out === 'string') return out
+      } catch (e0) {}
+      return ''
     } catch (e) {
       return ''
     }
@@ -257,20 +265,20 @@ function createGalleryApi() {
     if (!img) return ''
     const hi = typeof img.highResSrc === 'string' ? img.highResSrc : ''
     const src = strSrc(img.src)
+    try {
+      const out = pathGalleryDisplaySrc(src, hi)
+      if (typeof out === 'string') return out
+    } catch (e) {}
     if (hi.length > 0) return hi
     return src
   }
 
   function safeImgDomId(srcRaw) {
-    const src = strSrc(srcRaw)
-    if (src.length === 0) return 'img-unknown'
-    let out = 'img-'
-    for (let i = 0; i < src.length; i++) {
-      const c = src.charAt(i)
-      if (isAlnumChar(c)) out = out + c
-      else out = out + '-'
-    }
-    return out
+    try {
+      const out = pathSafeImgDomId(strSrc(srcRaw))
+      if (typeof out === 'string' && out.length > 0) return out
+    } catch (e) {}
+    return 'img-unknown'
   }
 
   return {
