@@ -1,6 +1,6 @@
 # Investigation: Presidential Alignment — Globalist vs Nationalist
 
-> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Cleveland** stays **Globalist** — silver/gold OS + **Populist / third-party containment**; soft Trump parallels rejected. **Near-miss** catalog (**§2.4.1–2**): no pure Nationalist losers; Weaver/Perot closest leans; Angry Birds/D&C named. **Major:** **compromise math (§2.4.3)** — real threats never admitted; allowed opposition pre-compromised. **Major:** **Trump rare combo (§9.1b)** — Epstein tipster/not-owned → presidency as duty over shadow option; outsider alone insufficient; falsifies PP intransigence myth. **Nationalist∩NSA** + sin-eater (§9); **GWB** owned mid-term. Reader: [**Nationalists who failed**](/governance/war/nationalists-who-failed.md). Depression → **AU-047**. **AU-046.**
+> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Cleveland** stays **Globalist** — silver/gold OS + **Populist / third-party containment**; soft Trump parallels rejected. **Near-miss** catalog (**§2.4.1–2**): no pure Nationalist losers; Weaver/Perot closest leans; Angry Birds/D&C named. **Major:** **compromise math (§2.4.3)** — real threats never admitted; allowed opposition pre-compromised. **Major:** **Trump rare combo (§9.1b)** — Epstein tipster/not-owned → presidency as duty over shadow option; outsider alone insufficient; falsifies PP intransigence myth. **Nationalist∩NSA** + sin-eater (§9); **GWB** owned mid-term. Reader: [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md). Depression → **AU-047**. **AU-046.**
 
 **Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting.
 
@@ -208,7 +208,7 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 2. Repeated open admission of **uncompromised** outsider Nationalists onto major tickets with equal machine access who then lose only on clear policy disagreement.
 3. Polling / betting markets that **routinely price** the compromise-distance tax (so the “surprise” disappears).
 
-**Winner-side payoff:** When the rare tip finally clears the filter — **tipster/not-owned** + duty presidency — see **[§9.1b](#91b-trump--rare-combination-that-breaks-compromise-math-author-lock-2026-08-08)** and the reader section *Why Trump won*.
+**Winner-side payoff:** When the rare tip finally clears the filter — **tipster/not-owned** + duty presidency — see **[§9.1b](#91b-trump--rare-combination-that-breaks-compromise-math-author-lock-2026-08-08)**.
 
 **Ford ↔ Carter (Author lock 2026-08-07):** Same rocking grammar after Nixon. Soft history sells post-Watergate recovery rivalry. Parent for both: **Globalist** rocking poles — back-and-forth on a compromised board, not blank tips and not Nationalist repair.
 
@@ -430,7 +430,7 @@ Matches author “at least 12.”
 
 **[Great Depression — Planned Crash, Census Control, Purposeful Neglect (AU-047)](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)**
 
-This file keeps only **presidential alignment** consequences: **Herbert Hoover = Globalist** — he personally argued and spoke extensively for **Smoot-Hawley (1930)**, **1932 tax increases**, and **limited / delayed direct federal relief** (ruin-personal-drive dogma). That is **not** Vacuum unwitting fall-guy theater; it is Globalist sincerity (“doing the right thing”) that still deepens the wreck. **Coolidge** (prior tip) = **Nationalist (failed)** who tried to keep Fed/Congress out of stock-market power ([§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07); quote bank there; reader [Nationalists who failed](/governance/war/nationalists-who-failed.md)) — soft history that blames him for “neglect” inverts the fight. FDR = Globalist consolidator. Do **not** duplicate AU-047 citation tables here. Off-books epistemology + Ukraine close live in the reader article [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) and AU-047 §8A. Puppet = immune kill: §2.3.
+This file keeps only **presidential alignment** consequences: **Herbert Hoover = Globalist** — he personally argued and spoke extensively for **Smoot-Hawley (1930)**, **1932 tax increases**, and **limited / delayed direct federal relief** (ruin-personal-drive dogma). That is **not** Vacuum unwitting fall-guy theater; it is Globalist sincerity (“doing the right thing”) that still deepens the wreck. **Coolidge** (prior tip) = **Nationalist (failed)** who tried to keep Fed/Congress out of stock-market power ([§10.1a](#101a-calvin-coolidge--nationalist-who-failed-author-lock-2026-08-07); quote bank there) — soft history that blames him for “neglect” inverts the fight. FDR = Globalist consolidator. Do **not** duplicate AU-047 citation tables here. Off-books epistemology + Ukraine close live in the reader article [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) and AU-047 §8A. Puppet = immune kill: §2.3.
 
 ### 7.2a Herbert Hoover — Globalist (Author lock 2026-08-07)
 
@@ -536,7 +536,7 @@ Do **not** re-litigate Truman→Trump here. Point:
 4. Come out **alive and still battling**  
 5. Reach the outcome always possible and never achieved: presidency that can **order the will of the country efficiently and directly into solutions** — rapidly — and **spectacularly disprove** bloated-government intransigence mythology
 
-**Contrast:** **GWB** = Nationalist (failed) **owned** by Epstein hinge mid-term (§9.1a). **Trump** = Nationalist + NSA **tipster/not-owned** + foresight / own-network. Reader synthesis: [Nationalists who failed — Why Trump won](/governance/war/nationalists-who-failed.md).
+**Contrast:** **GWB** = Nationalist (failed) **owned** by Epstein hinge mid-term (§9.1a). **Trump** = Nationalist + NSA **tipster/not-owned** + foresight / own-network. Author synthesis: [§9.1b](#91b-trump--rare-combination-that-breaks-compromise-math-author-lock-2026-08-08).
 
 **Falsifiers:** Tier A that Trump was **owned** by the network as an asset tip; or that shadow option B could have delivered equivalent public falsification of the PP intransigence myth without the Oval.
 
@@ -573,7 +573,7 @@ Author fill. Deep essays only where marked; others are lean stubs.
 - Landscape (article / dossier MD embed): [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (~1536×1024)
 - Portrait sibling (site `PopImage` art-direction at `max-width: 768px` — do **not** also embed this path in Markdown; the landscape URL auto-resolves the sibling): [`presidential-alignment-scorecard-au046-portrait.png`](/governance/war/presidential-alignment-scorecard-au046-portrait.png)
 
-**Readers:** [Nationalists who failed](/governance/war/nationalists-who-failed.md) (hero) · [The Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md) (mid-article, after Take the fishery) · Post-1947 overlay companion: [`cia-nsa-align-president-comparison.png`](/governance/war/cia-nsa-align-president-comparison.png)
+**Reader:** [The Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md) (mid-article scorecard, after Take the fishery) · Post-1947 overlay companion: [`cia-nsa-align-president-comparison.png`](/governance/war/cia-nsa-align-president-comparison.png)
 
 **Chart audit vs locks (Author + desk):**
 
@@ -696,7 +696,6 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 
 **Name trap:** **William Henry Harrison** ≠ **Benjamin Harrison** (Globalist rocking pole with Cleveland — §2.4).
 
-**Reader:** [Nationalists who failed](/governance/war/nationalists-who-failed.md).
 
 **Graphic:** shipped — [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). Three parent camps + Nationalist-failed overlay + NSA chips; Contested/Open legend removed.
 
@@ -791,7 +790,6 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-046** |
 | [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) | Planned crash / census / purposeful neglect |
 | [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) | Reader essay — off-books pattern; companion = AU-047 |
-| [**Nationalists who failed**](/governance/war/nationalists-who-failed.md) | Reader essay — Jackson, Coolidge, cut-short tips; companion = AU-046 |
 
 Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #PopulistParty #JamesWeaver #WilliamJenningsBryan #RossPerot #AngryBirds #CompromiseMath #PreFilteredField #DonaldTrump #Epstein #PredictiveProgramming #AU046 #ParadigmThreatFiles
 
@@ -807,7 +805,7 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - **Puppets / witting (§2.2):** default **unwitting**; seeming-witting ≠ operational authorship; outcome-blindness keeps the philosophical floor.
 - **Puppet presidency = immune kill (§2.3):** Author lock — Oval as delay/blame sponge so body politic cannot antibody; Trump/Jefferson direct-talk specimen; hop reader [Depression article](/governance/war/the-great-depression-was-planned.md).
 - **Madison→Buchanan:** **Globalist** continuity tips (§4) — TONA/sovereign reset failure quote stands; **Jackson** = **Nationalist (failed)** exception (§4.4) — Bank War grounded, Removal fail, not Globalist puppet; Black-identity/whitewash Author/open.
-- **Coolidge:** **Nationalist (failed)** (§10.1a) — quote bank; blocked Fed stock-power; soft “Depression neglect” inverted; *I do not choose to run* exit suspicious; Harding stays Globalist; Hoover Globalist; reader [Nationalists who failed](/governance/war/nationalists-who-failed.md).
+- **Coolidge:** **Nationalist (failed)** (§10.1a) — quote bank; blocked Fed stock-power; soft “Depression neglect” inverted; *I do not choose to run* exit suspicious; Harding stays Globalist; Hoover Globalist.
 - **W.H. Harrison / Taylor / Garfield:** **Nationalist (failed)** (§10.1b) — cut short by death; unfinished missions; deep-state lesson; soft Vacuum packaging retired. **Vacuum parent column removed** from taxonomy / wall charts.
 - **Vacuum bar:** **retired as parent** — do not score tips Vacuum; contested tip years = overlay only.
 - **Herbert Hoover:** **Globalist** — owns Smoot-Hawley / 1932 taxes / limited relief; sincerity ≠ blank sponge (§7.2a).
@@ -843,15 +841,16 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - Session 2026-08-07 (later): **Grant Globalist lock** — federal Reconstruction / oppose white South leadership / protect freedmen; real Nationalist would include South’s war perspective.
 - Session 2026-08-07 (later): **Jackson → Nationalist (failed)** — Bank War Clay/Biddle trap + unintended consequences + central bank returns; Removal = inclusion failure; Black-identity whitewash Author/open; not Globalist puppet.
 - Session 2026-08-07 (later): **Coolidge → Nationalist (failed)** — refused Fed/Congress stock regulation as power grab vs states; soft history inverts to Depression villain; *I do not choose to run* (1927) while popular = suspicious forced exit; Hoover remains Globalist.
-- Session 2026-08-07 (later): Coolidge **quote bank** in §10.1a; reader article [nationalists-who-failed.md](/governance/war/nationalists-who-failed.md).
+- Session 2026-08-07 (later): Coolidge **quote bank** in §10.1a.
+- Session 2026-08-08: deleted draft reader *Nationalists who failed* (never Substack); synthesis stays in this dossier + [Depression article](/governance/war/the-great-depression-was-planned.md).
 - Session 2026-08-07 (later): **Vacuum column retired**; **W.H. Harrison / Taylor / Garfield → Nationalist (failed)** — cut-short missions; deep-state lesson Americans couldn’t really run for president; soft fall-guy Vacuum packaging inverted; B. Harrison stays Globalist rocking.
 - Session 2026-08-07 (later): Wall chart **shipped** — `presidential-alignment-scorecard-au046.png`; audit pass §10.0 (locks match; soft Globalist\* + dual Trump cells noted).
 - Session 2026-08-07 (later): **Contested/Open retired** — Eisenhower / JFK = **Globalist**; **Reagan = Globalist puppet**; Ford↔Carter = **rocking Globalist**; **GWB = Nationalist (failed) + NSA** (compromise failure); chart refreshed.
 - Session 2026-08-08: **Cleveland Globalist held** — soft Cleveland↔Trump parallels rejected; Author: empowered comeback to **contain Populist Party / third-party Oval path** and harden two-party shell (Populist peel of GOP → press Democrat win); **Q10** near-miss / almost-won tracking opened (Weaver / Bryan first).
 - Session 2026-08-08 (later): **§2.4.1 near-miss catalog** — stakes table (Tilden/Hayes, Cleveland 1888, Weaver 1892, Bryan 1896 fusion kill, TR 1912, La Follette, Wallace/Thurmond/Dewey 1948, G. Wallace 1968, Anderson, Perot, Gore 2000); Populist hinge synthesis.
 - Session 2026-08-08 (later): **§2.4.2 agenda audit** — no pure Nationalist among near-misses; Weaver/Perot closest leans; Bryan fusion + Thurmond/G.Wallace/Anderson/TR/Dewey = Angry Birds or D&C; Q10a open for Nat.(failed) near-miss overlay on Weaver/Perot only.
-- Session 2026-08-08 (later): **§2.4.3 major Author lock — compromise math / pre-filtered field** — pure Nationalist losers rare because admission requires faction weave + deep litmus compromise; real court/Oval threats never allowed in; allowed opposition pre-compromised → invisible math advantage to planned winner; pundit “surprise” = overlooked compromise distance from public; human-history court rhyme; Q10b case-study hunt; reader article section added.
-- Session 2026-08-08 (later): **§9.1b Trump rare combination** — tipster/not-owned working assumption; A presidency vs B shadow (B fails); duty cost; outsider insufficient; PP intransigence falsification; reader *Why Trump won*; claim 31.
+- Session 2026-08-08 (later): **§2.4.3 major Author lock — compromise math / pre-filtered field** — pure Nationalist losers rare because admission requires faction weave + deep litmus compromise; real court/Oval threats never allowed in; allowed opposition pre-compromised → invisible math advantage to planned winner; pundit “surprise” = overlooked compromise distance from public; human-history court rhyme; Q10b case-study hunt.
+- Session 2026-08-08 (later): **§9.1b Trump rare combination** — tipster/not-owned working assumption; A presidency vs B shadow (B fails); duty cost; outsider insufficient; PP intransigence falsification; claim 31.
 - Session 2026-08-06 (later): **John Adams = Globalist** — Jefferson foil; Federalist↔Democrat intertwine → world-order vision, not sovereign-citizen rights.
 - Session 2026-08-06 (later): Gilded→Progressive **Option D** — Vacuum majority; McKinley/TR/Taft/Wilson **Globalist** (Wilson hard).
 - Graphic deferred until author art pass (parent locks dense enough).
