@@ -4,6 +4,7 @@ Local-first SSR / tip hardening for **`relay.paradigmthreat.net`**. Full playboo
 
 - Gateway: `relay-gateway/docs/PARADIGM_PARK_LOCAL.md` (sibling repo under `~/dev/relay/relay-gateway`)
 - Host helpers (CS → Rust): `relay-gateway/docs/CS_HOST_HELPERS.md`
+- Portrait / PopImage tip index: `relay-gateway/docs/PORTRAIT_SIBLING_DEPLOY.md`
 - Tip rules: [`hooks/CLEVERSCRIPT_TIP.md`](../hooks/CLEVERSCRIPT_TIP.md)
 
 ## Quick loop
