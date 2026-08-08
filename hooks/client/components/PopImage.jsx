@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import { prop } from '@relay/util'
+import { portraitSiblingSrc as pathPortraitSiblingSrc } from '@relay/path'
 import { gallery } from 'hooks/client/galleryStore.jsx'
 import { IconMaximize } from 'hooks/client/components/Icons.jsx'
 
@@ -12,76 +13,54 @@ function str(v) {
   return ''
 }
 
-/**
- * Landscape `foo.ext` → sibling `foo-portrait.ext`, preserving origin + query (`?w=`).
- * Empty when SVG, already `-portrait`, or unparseable.
- */
-function portraitSiblingSrc(src) {
+function inventPortraitSibling(src) {
+  try {
+    const out = pathPortraitSiblingSrc(src)
+    if (typeof out === 'string' && out.length > 0) return out
+  } catch (e) {}
+  return ''
+}
+
+function repoRelFromMediaSrc(src) {
   if (typeof src !== 'string' || src.length === 0) return ''
   let path = src
-  let prefix = ''
-  let query = ''
   try {
     if (src.indexOf('http://') === 0 || src.indexOf('https://') === 0) {
-      const u = new URL(src)
-      path = u.pathname
-      prefix = u.origin
-      query = u.search || ''
+      path = new URL(src).pathname
     } else {
       const qi = src.indexOf('?')
-      if (qi >= 0) {
-        path = src.slice(0, qi)
-        query = src.slice(qi)
-      }
+      if (qi >= 0) path = src.slice(0, qi)
     }
   } catch (e) {
-    return ''
+    const qi = src.indexOf('?')
+    if (qi >= 0) path = src.slice(0, qi)
   }
-  const lower = path.toLowerCase()
-  if (lower.length >= 4 && lower.slice(lower.length - 4) === '.svg') return ''
-  const lastSlash = path.lastIndexOf('/')
-  const dir = lastSlash >= 0 ? path.slice(0, lastSlash + 1) : ''
-  const file = lastSlash >= 0 ? path.slice(lastSlash + 1) : path
-  const dot = file.lastIndexOf('.')
-  if (dot <= 0) return ''
-  const stem = file.slice(0, dot)
-  const ext = file.slice(dot)
-  if (stem.length >= 9 && stem.slice(stem.length - 9).toLowerCase() === '-portrait') return ''
-  return prefix + dir + stem + '-portrait' + ext + query
+  while (path.length > 0 && path.charAt(0) === '/') {
+    path = path.slice(1)
+  }
+  return path
 }
 
 /**
- * Relay serves missing repo paths as HTTP 200 JSON (`ok:false`), which breaks
- * `<picture><source>` on mobile (no fallback to the landscape `<img>`). Only
- * enable art-direction after the sibling decodes as a real image.
+ * Tip portrait index from SSR bootstrap (`globalThis.__RELAY_PORTRAIT_SIBLINGS__`).
+ * Without the index, never invent a `<source>` — missing siblings blank mobile images.
  */
-function usePortraitSiblingReady(portraitSrc) {
-  const [ready, setReady] = useState(false)
-  useEffect(() => {
-    if (typeof portraitSrc !== 'string' || portraitSrc.length === 0) {
-      setReady(false)
-      return
+function portraitSiblingIfPresent(src) {
+  const cand = inventPortraitSibling(src)
+  if (cand.length === 0) return ''
+  let map = null
+  try {
+    if (typeof globalThis !== 'undefined') {
+      map = globalThis.__RELAY_PORTRAIT_SIBLINGS__
     }
-    let cancelled = false
-    setReady(false)
-    const probe = new Image()
-    probe.onload = () => {
-      if (!cancelled) setReady(true)
-    }
-    probe.onerror = () => {
-      if (!cancelled) setReady(false)
-    }
-    probe.src = portraitSrc
-    return () => {
-      cancelled = true
-      try {
-        probe.onload = null
-        probe.onerror = null
-        probe.src = ''
-      } catch (e) {}
-    }
-  }, [portraitSrc])
-  return ready
+  } catch (e) {}
+  if (!map || typeof map !== 'object') return ''
+  const rel = repoRelFromMediaSrc(cand)
+  if (rel.length === 0) return ''
+  try {
+    if (map[rel] === true) return cand
+  } catch (e2) {}
+  return ''
 }
 
 /** Inline / MDX image — click opens fullscreen gallery (live PopImage parity). */
@@ -98,8 +77,7 @@ export default function PopImage(props) {
   } catch (e) {}
   const live = isClientLive() === true
   const id = gallery.safeImgDomId(src)
-  const portraitSrc = portraitSiblingSrc(src)
-  const portraitReady = usePortraitSiblingReady(portraitSrc)
+  const portraitSrc = portraitSiblingIfPresent(src)
 
   useEffect(() => {
     if (!live || src.length === 0) return
@@ -173,7 +151,7 @@ export default function PopImage(props) {
       }}
     >
       <div className="pt-popimage-inner">
-        {portraitReady && portraitSrc.length > 0 ? (
+        {portraitSrc.length > 0 ? (
           <picture>
             <source media={PORTRAIT_MEDIA} srcSet={portraitSrc} />
             {imgEl}
