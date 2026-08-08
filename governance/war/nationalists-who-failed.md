@@ -1,11 +1,11 @@
 # Nationalists who failed
 *Jackson killed the Bank; Coolidge kept the Fed out of politics — and the board still won*
 
+![U.S. Presidents — Globalist / Nationalist / Neonationalist scorecard](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046.png)
+
 Soft history has a habit of renaming America-first presidents as villains of neglect — or as blank “fall guys” whose terms barely count. The ones who fought the money board get remembered as the men who “failed to regulate,” as if handing the Federal Reserve more power would have saved the country. The ones who died early get remembered as empty chairs. Both stories are backwards. A Nationalist tip does what it said for the people under the flag. When that tip lacks foresight, or when death and board pressure cut the mission short, the machine returns. Call that badge **Nationalist who failed**. It is not a Globalist puppet wearing nationalist branding. It is grounded intent that did not stick.
 
 The presidents who matter to this argument are the ones who fought the money fight, got cut short teaching Americans they could not really run the chair, inverted power into federal consolidation, got compromised mid-term, or later proved what durable Nationalist foresight looks like. William Henry Harrison, Zachary Taylor, and James A. Garfield sit with Jackson and Coolidge as Nationalists who failed — cut short before the mission could finish. George W. Bush sits with them too — NSA-aligned, then owned by compromise.
-
-![U.S. Presidents — Globalist / Nationalist / Neonationalist scorecard](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046.png)
 
 ## Three camps, one foresight bar
 
@@ -93,7 +93,7 @@ The companion dossier for parent badges, near-miss stakes, Angry Birds audit, co
 
 ## Framing and limits
 
-This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): ancient and early modern political wisdom is not automatically inferior to modern consensus packaging. Parent badges, Coolidge quote pins, near-miss catalogs, compromise-math, and the Trump tipster / duty claim live in the [alignment investigation](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md). Depression mechanism and census fights live in the [Depression companion](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md). The all-presidents wall chart is embedded above. The dossier holds the [chart audit](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#100-wall-chart-shipped-2026-08-07). Compromise-math, “pre-planned tip list,” and Epstein **informant / tipster** language are Author pattern — not a found informant docket or a memo for every cycle.
+This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): ancient and early modern political wisdom is not automatically inferior to modern consensus packaging. Parent badges, Coolidge quote pins, near-miss catalogs, compromise-math, and the Trump tipster / duty claim live in the [alignment investigation](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md). Depression mechanism and census fights live in the [Depression companion](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md). The all-presidents wall chart is the hero image above. The dossier holds the [chart audit](https://paradigmthreat.net/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#100-wall-chart-shipped-2026-08-07) and lists the portrait sibling shipped for narrow screens. Compromise-math, “pre-planned tip list,” and Epstein **informant / tipster** language are Author pattern — not a found informant docket or a memo for every cycle.
 
 Keywords: #NationalistsWhoFailed #CalvinCoolidge #AndrewJackson #WilliamHenryHarrison #ZacharyTaylor #JamesGarfield #GeorgeWBush #BankWar #FederalReserve #GreatDepression #PresidentialAlignment #Globalist #Nationalist #Neonationalist #HerbertHoover #FDR #CompromiseMath #PopulistParty #AngryBirds #DonaldTrump #Epstein #PredictiveProgramming #AU046 #ParadigmThreatFiles
 

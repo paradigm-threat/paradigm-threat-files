@@ -569,7 +569,11 @@ Author fill. Deep essays only where marked; others are lean stubs.
 
 ![U.S. Presidents alignment scorecard — Globalist / Nationalist / Neonationalist](/governance/war/presidential-alignment-scorecard-au046.png)
 
-**File:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) · Reader: [Nationalists who failed](/governance/war/nationalists-who-failed.md) · Post-1947 overlay companion: [`cia-nsa-align-president-comparison.png`](/governance/war/cia-nsa-align-president-comparison.png)
+**Files:**
+- Landscape (article / dossier MD embed): [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (~1536×1024)
+- Portrait sibling (site `PopImage` art-direction at `max-width: 768px` — do **not** also embed this path in Markdown; the landscape URL auto-resolves the sibling): [`presidential-alignment-scorecard-au046-portrait.png`](/governance/war/presidential-alignment-scorecard-au046-portrait.png)
+
+**Readers:** [Nationalists who failed](/governance/war/nationalists-who-failed.md) (hero) · [The Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md) (mid-article, after Take the fishery) · Post-1947 overlay companion: [`cia-nsa-align-president-comparison.png`](/governance/war/cia-nsa-align-president-comparison.png)
 
 **Chart audit vs locks (Author + desk):**
 
