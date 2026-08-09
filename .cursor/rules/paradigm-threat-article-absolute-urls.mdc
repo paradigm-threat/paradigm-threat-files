@@ -25,13 +25,14 @@ In reader-facing articles, **Ari speaks in first person** (`I / me / my`) for th
 - **Investigations** hold tables, timelines, long quote blocks, and labeled hypothesis tiers; they may use investigator voice and dense cross-refs.
 - **Articles** synthesize: prefer **forward** pointers (“see dossier §6”) over **process narration** about what the article is omitting (“I am not pasting tables here”). If omission hygiene is needed, **one** sentence in **Limits** at the end is enough.
 - **Default tone — serious / plain:** Almost always write **serious, plain prose** — clinical and exact, not witty entertainment, cute punch lines, or trailer-style ledes. Sensational claims stay strong by stating them **in order**, in the author’s words where possible. Full rules: [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md) → **Voice → Default register** and **Phrasing we are tired of**. Tone models: CERN portal article, *Circle of Life*, Stonehenge portal article, *Everything in Independence Day Is True*, and timeline event pages.
+- **No compacted multi-claim sentences:** Do not pack pattern + metaphors + conclusion into one em-dash stack. Unpack so a stranger can follow each claim. **OK to grow past the ~3k word target** to eliminate that artifact; **not OK** to re-compress for length. Length cuts are **author discretion**. Full rule: [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md) → **Voice → No compacted multi-claim sentences** and **Length → Expansion vs compression**.
 - **Cross-link** other articles freely; recommend them on substance. Do **not** write that this article is “trying to sound like,” “modeled on,” or “written in the voice of” another piece.
 - **Prefer articles over investigations** when hopping to **another topic** already covered by a parent-folder essay. Link an **`investigations/`** page only as this article’s companion dossier, when no reader article exists, or for a needed **§** receipt. Full rule: [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md).
 
 ## Anti-LLM default phrasing (articles)
 
 - Avoid teachy **“not A, it is B”** scaffolding and stock **“not vibes / cold text”** pairs; state the fact in plain order (e.g. who filed the DMCA, whose name appears on the PDF).
-- Avoid long **em-dash chains** that correct the reader three times in one sentence.
+- Avoid **compacted multi-claim sentences** and long **em-dash chains** that stuff three theses (or correct the reader three times) in one breath — unpack; do not re-compress for length.
 - Avoid **witty / cute packaging** in openers (montage hooks, “honest viewing rule,” “payload,” paired punch-line closers). Prefer the author’s ordered inventory of claims.
 - **Metaphor**: name the mapping once (e.g. sword in the stone, posted hours); do **not** re-describe artwork the reader can see; trust inference for myth layers you want implied.
 
