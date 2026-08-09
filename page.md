@@ -113,7 +113,7 @@ or *not* believing.
 * [Managed democracy, puppets, and redemption](/governance/war/managed-democracy-puppets-and-redemption.md) - Reader essay: *House of Cards* grammar, Obama/RINO puppet slots, Epstein two-axis read, DINO symmetry, Christian mercy exit; links RINO + Obama dossiers.
 * [It was the only way](/governance/war/it-was-the-only-way.md) - Reader essay: *Infinity War* Strange bargain; Trump as Tony; giving up power; AU-045 companion (Aug 2026).
 * [The Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md) - Reader essay: off-books Depression / Holodomor parallel; information cages; puppet presidency; companion **AU-047** (Aug 2026).
-* [Holodomor-Holocaust memory investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) - Memory redaction, Dec 1932 Stalin primaries, geography of horror.
+* [Holodomor-Holocaust memory investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) - Memory redaction; Stalin **Nationalist tip** (not communist ideologue) + Holodomor OS-inevitability (§2.7–§2.8); Dec 1932 primaries; geography of horror.
 * [Great Depression — planned crash, census control, purposeful neglect](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) - Not negligence; WWI power guise → Fed → census whitewash → SS federal citizen; AU-047 (Aug 2026).
 * [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) - Western orchestration, media, post-WWII isolation.
 * [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) - Timing, alternative narratives, inquiries and aftermath.

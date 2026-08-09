@@ -1,18 +1,18 @@
 # Investigation: Presidential Alignment — Globalist vs Nationalist
 
-> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Cleveland** stays **Globalist** — silver/gold OS + **Populist / third-party containment**; soft Trump parallels rejected. **Near-miss** catalog (**§2.4.1–2**): no pure Nationalist losers; Weaver/Perot closest leans; Angry Birds/D&C named. **Major:** **compromise math (§2.4.3)** — real threats never admitted; allowed opposition pre-compromised. **Major:** **Trump rare combo (§9.1b)** — Epstein tipster/not-owned → presidency as duty over shadow option; outsider alone insufficient; falsifies PP intransigence myth. **Nationalist∩NSA** + sin-eater (§9); **GWB** owned mid-term. Reader: [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md). Depression → **AU-047**. **AU-046.**
+> **TL;DR:** Master taxonomy = **Globalist vs Nationalist** (+ **Neonationalist**: Jefferson, Lincoln). **Wall chart:** [`presidential-alignment-scorecard-au046.png`](/governance/war/presidential-alignment-scorecard-au046.png) (§10.0). **Rocking:** Cleveland↔Benjamin Harrison; **Ford↔Carter** (§2.4). **Cleveland** stays **Globalist** — silver/gold OS + **Populist / third-party containment**; soft Trump parallels rejected. **Near-miss** catalog (**§2.4.1–2**): no pure Nationalist losers; Weaver/Perot closest leans; Angry Birds/D&C named. **Major:** **compromise math (§2.4.3)** — real threats never admitted; allowed opposition pre-compromised. **Major:** **voter fraud bag (§2.4.4)** — machine-era peak tool; Box 13 / 1960 Chicago / early absentee; not every EC stolen; mail did not invent it. **Abroad bridge (§2.8):** **Stalin = Nationalist tip** inside communist OS (not communist ideologue); same camp-divide blindness as **Trump** vs everything else under party brands — not a wall-chart cell. **Major:** **Trump rare combo (§9.1b)** — Epstein tipster/not-owned → presidency as duty over shadow option; outsider alone insufficient; falsifies PP intransigence myth. **Nationalist∩NSA** + sin-eater (§9); **GWB** owned mid-term. Reader: [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md). Depression → **AU-047**. **AU-046.**
 
 **Status:** Open — major scorecard parent locks in; research Qs (census cites, Lincoln plaque, etc.) still hunting.
 
 
-**Last updated:** 2026-08-08 — §9.1b Trump rare combination / tipster duty; §2.4.3 compromise-math; near-miss §2.4.1–2; Cleveland Populist containment
+**Last updated:** 2026-08-09 — §2.8 Stalin Nationalist / Trump rhyme; §2.4.4 voter-fraud bag; §9.1b Trump rare combination / tipster duty; §2.4.3 compromise-math; near-miss §2.4.1–2; Cleveland Populist containment
 
 ---
 
 ## Guide (read order)
 
 1. Session capture — [§1](#1-authors-originating-thesis)
-2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **puppet witting (§2.2)** / **immune kill (§2.3)** / rocking (§2.4) / **near-miss (§2.4.1–2)** / **compromise-math / pre-filtered field (§2.4.3)** — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
+2. Vocabulary — Nationalist / **Neonationalist** / Globalist / **puppet witting (§2.2)** / **immune kill (§2.3)** / rocking (§2.4) / **near-miss (§2.4.1–2)** / **compromise-math / pre-filtered field (§2.4.3)** / **voter-fraud bag (§2.4.4)** / **Stalin Nationalist bridge (§2.8)** — [§2](#2-vocabulary--globalist--nationalist--neonationalist-nsa-cia-overlay)
 3. Founding fork — Washington + **Jefferson** + **John Adams foil** — [§3](#3-founding-fork--washington-closed-door-federal-parchment)
 4. TONA window — Madison→Buchanan Globalist continuity (**Jackson** Nationalist-failed exception §4.4) — [§4](#4-tona-window--madison--buchanan-globalist-continuity-vacuum-bar-fails)
 5. Civil War / Lincoln — [§5](#5-civil-war--lincoln) (stature · **Black-identity inventory §5.3** · alignment)
@@ -42,7 +42,7 @@
 | **TONA erase** | Madison→Buchanan = **Globalist** tips who **failed** sovereign/TONA reset (not strict Vacuum) — **except Jackson = Nationalist (failed)** §4.4; federal compromised since inception; TONA erase needs Civil War |
 | **Lincoln** | Intent ≠ outcome; war scale is the charge; parent = **Neonationalist** (new vision; §5.4); physical/identity claims stay tiered |
 | **Depression** | Author genocide read — full spine in **[AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md)**; this file scores Hoover/FDR only |
-| **Two Hoovers** | J. Edgar = body remover; Herbert = Depression president — never conflate |
+| **Two Hoovers** | Name clarity: J. Edgar = body remover lyric; Herbert = Depression president. Kinship **Open** — public cousin jokes (Durante) + FBI tracking ≠ proof unrelated; tracked/suppressed via classified handoff left open |
 | **Woke rhyme** | Later movement-brand without delivery ≠ neonationalist badge (related commentary only) |
 
 **Evidence posture:** Author thesis **first-class**. Declaration “savages,” Constitution slavery clauses, TONA print culture, Lincoln height **6′4″**, **12** slave-owning presidents, Rage lyric + COINTELPRO memo, Church Committee FBI abuse = **documented**. Washington-as-globalist, Depression-as-genocide, Lincoln-as-Black, “refused census entirely” year = **Author** until primaries close.
@@ -210,6 +210,33 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 
 **Winner-side payoff:** When the rare tip finally clears the filter — **tipster/not-owned** + duty presidency — see **[§9.1b](#91b-trump--rare-combination-that-breaks-compromise-math-author-lock-2026-08-08)**.
 
+#### 2.4.4 Bag of tricks — voter fraud where it mattered (Author lock 2026-08-09)
+
+**Major Author claim (session — capture intent):** Soft history’s “fraud is vanishingly rare / mostly modern mail panic” frame is **backwards** for U.S. board history. **Election fraud was a major tool in the establishment bag** long before no-excuse mass mail voting. Peak *routine* fraud culture sits in the **party-ticket / urban-machine** era (Tammany-class repeaters, stuffed boxes, cemetery names), not in Scantron + USPS. Absentee / mail surfaces appear early (Civil War soldier voting; Progressive-era civilian absentee; **1931** Sullivan County “colonization” fight). Closer to Oval stakes: **LBJ 1948 Box 13** (Senate primary steal specimen) and **1960 Illinois / Chicago machine** (presidential-adjacent accusation Nixon did not litigate). Soft history will say proven **presidential** flips are rare. Author bag-of-tricks read does **not** need every Electoral College tip stolen line-for-line. It needs fraud as a **live instrument when the margin is thin enough to matter** — stacked on compromise-math (§2.4.3), rocking when both poles are owned, and tip-removal scandals (Watergate grammar). Reader bridge: [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md).
+
+| Specimen | Era / surface | What soft history already admits (Documented lane) | AU-046 read |
+|----------|---------------|-----------------------------------------------------|-------------|
+| **Tammany / NYC + Gilded urban machines** | Mid–late 1800s; party-printed tickets → early Australian ballot | Stuffing, repeaters, floaters, fake registration, ward quotas; NatGeo-class “fraud used to be rampant” packaging | High-water **routine** fraud culture — establishment / machine instrument, not folk panic |
+| **Sullivan County, NY 1931** | Absentee / colonization | GOP fight over Tammany-linked absentees for Assembly control (NYT-era coverage) | Early **mail-adjacent** specimen; still local/state stakes |
+| **LBJ 1948 “Box 13” (Jim Wells Co.)** | Paper late ballots / county box | Classic stolen **Democratic Senate primary**; Caro-lane and later officials’ accounts | Strongest textbook **steal** near Oval pipeline — not White House, still tip-pipeline |
+| **1960 Kennedy–Nixon — Illinois (Daley Chicago) ± Texas rumors** | Machine in-person / count | Dead names, multi-voter addresses, some worker convictions; Nixon conceded; historians dispute whether Illinois alone flipped; both IL+TX needed for EC flip on soft math | Enduring **presidential-adjacent** accusation; fraud happened; **decisive EC steal** stays contested — keep as bag tool + soft-history wound, not closed Oval memo |
+| **1982 Chicago DOJ wave; later local absentee overturns** (e.g. East Chicago 2003; Perth Amboy 2015; Bridgeport CT 2023) | Machine remnants + absentee | Convictions / court-ordered new elections in **thin local margins** | Continuity proof: fraud still bites **where it mattered locally**; Heritage sampling vs Brennan “vanishingly rare” = volume fight, not “never a tool” |
+| **2000 Florida / 2016–2020 national mail narratives** | Recount design / mass mail volume | Process fights and political claims; courts largely rejected outcome-changing 2020 fraud packages | Modern **scale** change ≠ invention of fraud; do not rest the bag-of-tricks lock only here |
+
+**How this locks to prior sections:**
+
+- Stacks under **establishment bag of tricks** next to red tape and tip-removal — [Depression article](/governance/war/the-great-depression-was-planned.md) presidential bridge.
+- Complements §2.4.3: even when the contest side is **pre-compromised**, thin margins still invite **push** instruments.
+- Does **not** replace Populist containment / rocking / foresight locks — fraud is one tool, not the whole board.
+
+**Documented vs interpretive:** Machine-era fraud culture, Box 13 historiography, 1960 Illinois investigations/convictions, and later local overturns are **Documented** (with soft-history disputes on scale). “Major tool in the bag wherever margins mattered” and “mail did not invent the tool” are **Author pattern locks**.
+
+**Falsifiers:**
+
+1. A clean showing that Gilded Age / machine fraud was mostly myth with no ward-scale impact.
+2. Repeated presidential cycles where thin EC margins had **zero** credible machine/absentee push and soft history still called them stolen without local specimens.
+3. Proof that **only** modern mail creates outcome-relevant fraud risk (falsifies the chronology lock above).
+
 **Ford ↔ Carter (Author lock 2026-08-07):** Same rocking grammar after Nixon. Soft history sells post-Watergate recovery rivalry. Parent for both: **Globalist** rocking poles — back-and-forth on a compromised board, not blank tips and not Nationalist repair.
 
 **Condition lock — only when both sides are fully compromised:** Rocking is **possible only** when **both** poles are under control. Otherwise a **rational human — or even an animal** — would sense the seesaw early and **get off**. Uncompromised tips break the motion.
@@ -239,6 +266,14 @@ Antibody lineage kept its eye on the **Oval**: without a tip that actually repre
 | **Post-1947** | Same **parent** labels + **CIA-aligned** / **NSA-aligned (antibody)** as **sublayer** — **major Nationalist∩NSA overlap**; sin-eater = non-overlap hinge ([§9](#9-bridge--post-1947-cia-nsa-sublayer)) |
 
 **Not a party map.** Democrat/Republican labels do not equal these camps. Early “Democratic-Republican” Jeffersonianism can still be **Neonationalist**.
+
+### 2.8 Stalin Nationalist tip — not communist ideologue / Trump rhyme (Author lock 2026-08-09)
+
+**Abroad bridge (not a U.S. wall-chart cell):** Soft history personifies **communism as Stalin**. Author: Stalin’s **pattern is Nationalist** — sovereignty / center-hold / Socialism-in-One-Country vs internationalist permanent-revolution factions — sitting **inside** a communist-revolution **OS** he did not invent and could not un-write ([Holodomor §2.7–§2.8](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#27-author-lock--stalin-agency--holodomor-inevitability-under-communism-2026-08-09)). That is why soft history cannot hear the Holodomor agency lock: if he *is* communism, every OS death is “his ideology.”
+
+**Same blindness, U.S. board:** Americans often cannot see the major ideological divide between **real Nationalists** and **everything else** (Globalist / rocking / RINO / neo-sides) under party brands. Soft history flattens **Trump** into “Republican / right” the way it flattens Stalin into “communist.” **Similarity = camp-divide blindness + Nationalist tip grammar**, not moral twinship and not a chart cell for Stalin.
+
+**Desk rule:** Do **not** score Stalin on the AU-046 wall chart. Do **not** let “he ran the USSR” collapse into “he was a communist ideologue” when testing Nationalist vs Globalist pattern abroad.
 
 ---
 
@@ -417,12 +452,16 @@ Matches author “at least 12.”
 
 ## 7. Depression — Herbert Hoover, FDR, census trust
 
-### 7.1 Two Hoovers (never conflate)
+### 7.1 Two Hoovers (never conflate names — kinship open)
 
 | Person | Role | Alignment note |
 |--------|------|----------------|
 | **Herbert Hoover** | President 1929–1933 | **Globalist** — owns deepening policies he sold hard; fork into FDR **Globalist** consolidator |
 | **J. Edgar Hoover** | FBI director 1924–1972 | **Not a president** — [§8](#8-fbi--j-edgar-hoover-body-remover) |
+
+**Name clarity:** Do **not** conflate the Depression president with the FBI director in charts or lyrics (*Wake Up* = J. Edgar).
+
+**Kinship question (Author open — 2026-08-09):** Soft history’s “they were not related” is **not** closed by public confusion alone. Americans frequently assumed brothers/cousins; **Jimmie Durante**-class radio jokes tracked by the **FBI**. Tracking does **not** prove they were unrelated. It leaves open whether a real connection could be **tracked and suppressed** — not necessarily as one formal Bureau job, but via **classified FBI docs shared** to actors who would move **without the FBI’s formal knowledge**. That off-books handoff grammar is part of why the FBI’s reputation is terrible. Reader article: [Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md). Desk: recover Durante / FBI-file primary when available; keep kinship **Open**, not “debunked.”
 
 ### 7.2 Great Depression / census / purposeful neglect → AU-047
 
@@ -729,7 +768,8 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 28. **Cleveland = Globalist (lock held 2026-08-08):** rocking + silver/gold OS + **Populist / third-party containment** via empowered Democrat comeback (Populist peel of Republican column → press Cleveland win → no third party in the Oval). Soft Cleveland↔Trump “striking similarities” = surface only — **not** Trump resurrection / foresight grammar.
 29. **Near-miss catalog (§2.4.1–§2.4.2):** two-party shell incomplete without almost-won heat — **Weaver 1892** EV proof; **Bryan 1896 fusion** absorbs Populists; **no pure Nationalist** among losers — closest leans Weaver / Perot; Thurmond / G. Wallace / Anderson / Bryan-fusion / TR-splitter = Angry Birds or D&C vehicles.
 30. **Compromise math / pre-filtered field (§2.4.3 — major):** Pure Nationalist losers are rare because **admission requires faction weave**; deep litmus compromises blacklist climbers; **real court/Oval threats were never allowed in**; allowed opposition is **pre-compromised** so the planned winner holds an **invisible math advantage**; pundits re-narrate surprise as “the people spoke.”
-31. **Trump rare combination (§9.1b — major):** Epstein **tipster/not-owned** (Author working assumption) → presidency **A** over shadow **B** as duty; outsider alone insufficient; must be believed uncompromised by blackmail-board compromises + willing to pay the cost + survive battling; falsifies PP intransigence / bloated-government mythology via keep-word Oval. Contrast **GWB owned**.
+31. **Bag of tricks — voter fraud (§2.4.4 — major):** Fraud is a **live establishment instrument** where margins matter — peak culture in **party-ticket / urban-machine** era (Tammany-class), not invented by modern mail; specimens Box 13, 1960 Chicago accusation, early absentee colonization, later local overturns. Not “every EC stolen.”
+32. **Trump rare combination (§9.1b — major):** Epstein **tipster/not-owned** (Author working assumption) → presidency **A** over shadow **B** as duty; outsider alone insufficient; must be believed uncompromised by blackmail-board compromises + willing to pay the cost + survive battling; falsifies PP intransigence / bloated-government mythology via keep-word Oval. Contrast **GWB owned**.
 
 ---
 
@@ -753,6 +793,8 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | Q10 | Track **almost-won / near-miss** presidential contenders (esp. Populist-era third force) as two-party containment specimens? | **Catalog §2.4.1 + agenda audit §2.4.2 + compromise-math lock §2.4.3 (2026-08-08).** No pure Nationalist loser = selection effect. Weaver/Perot = closest leans; Angry Birds/D&C named. **Q10a** still open for Nat.(failed) near-miss overlay |
 | Q10a | Promote **Weaver** and/or **Perot** to explicit **Nationalist (failed) near-miss** overlay? | **Open** — requires tighter keep-word / platform primary cites; still **not** wall-chart cells; **never** Thurmond / G. Wallace |
 | Q10b | Case studies that price the **compromise-distance tax** (litmus blacklist → poll miss → surprise loss)? | **Open** — pick cycles where loser visibly paid abortion/rights/faction tax and pundits called the result unpredictable; test against §2.4.3 falsifiers |
+| Q11 | Does **voter fraud** belong in the establishment bag of tricks as a **major** historical instrument (not modern-mail-only)? | **Locked §2.4.4 (2026-08-09)** — machine-era peak; Box 13; 1960 Chicago accusation; early absentee colonization; local overturns. Not every EC stolen. **Q11a** still open for tighter Tier A primary table |
+| Q11a | Tighten §2.4.4 Tier A primary cites (1844 NYC vote/eligible ratio audit; Box 13 primary docs; 1960 Wexler/Kallina recount math; Sullivan 1931 absentee list)? | **Open** — soft-history secondary stack is enough for Author lock; deepen when writing a standalone election-fraud dossier |
 
 ---
 
@@ -769,6 +811,7 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 - [x] **Q9:** Vacuum parent **retired** — cut-short Nationalist (failed) §10.1b
 - [x] **Q10 v1:** Near-miss catalog §2.4.1 + Angry Birds audit §2.4.2 + **compromise-math / pre-filtered field §2.4.3** — **Q10a/Q10b** still open
 - [x] **Cleveland Globalist held (2026-08-08)** — Populist containment + soft Trump-parallel reject §2.4
+- [x] **Q11 v1:** Bag-of-tricks voter fraud §2.4.4 — machine-era peak + Box 13 / 1960 / absentee specimens — **Q11a** primary-cite deepen still open
 
 ---
 
@@ -791,9 +834,9 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) | Planned crash / census / purposeful neglect |
 | [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) | Reader essay — off-books pattern; companion = AU-047 |
 
-Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #PopulistParty #JamesWeaver #WilliamJenningsBryan #RossPerot #AngryBirds #CompromiseMath #PreFilteredField #DonaldTrump #Epstein #PredictiveProgramming #AU046 #ParadigmThreatFiles
+Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #PopulistParty #JamesWeaver #WilliamJenningsBryan #RossPerot #AngryBirds #CompromiseMath #PreFilteredField #VoterFraud #TammanyHall #Box13 #Stalin #Holodomor #DonaldTrump #Epstein #PredictiveProgramming #AU046 #ParadigmThreatFiles
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*
 
 ---
 
@@ -818,6 +861,8 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - **CIA/NSA** labels are anachronistic before 1947 — use Globalist / Nationalist / **Neonationalist** only in pre-1947 rows.
 - **Neonationalist** is **not** a synonym for every “woke” brand or racist Democrat — it is the **Jefferson-class** pure-vision + race/apartheid hole (native exclusion as load-bearing). Later movement-capture without delivery is a **rhyme**, not auto-badge.
 - **Near-miss / compromise math (§2.4.1–§2.4.3):** vote shares and platforms Documented; **no pure Nationalist loser**, Angry Birds/D&C reads, **pre-planned tip list**, and **invisible compromise-distance tax** are **Author pattern locks** — not a found memo for every cycle. Falsifiers in §2.4.3.
+- **Voter fraud bag (§2.4.4):** machine-era fraud culture + Box 13 / 1960 Illinois / local absentee overturns Documented in soft-history lanes; “major tool where margins mattered / mail did not invent it” is **Author pattern** — **not** every EC stolen. Falsifiers in §2.4.4.
+- **Stalin Nationalist bridge (§2.8):** Author abroad rhyme — Stalin tip pattern **Nationalist**, not communist ideologue; same camp-divide blindness as Trump vs everything else under party brands. Not a wall-chart cell. Holodomor agency owned by [Holodomor §2.7–§2.8](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#27-author-lock--stalin-agency--holodomor-inevitability-under-communism-2026-08-09).
 - **Trump §9.1b:** Epstein **tipster / not owned** is **Author working assumption** (public informant label disputed; Reiter 302 = shard) — not Tier A informant docket. Presidency-as-duty vs shadow option and PP-falsification stakes are Author pattern. Contrast GWB **owned** (§9.1a).
 - Companion dossiers hold deep proof; this file is the **all-era alignment spine**.
 
@@ -851,6 +896,8 @@ Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jeffer
 - Session 2026-08-08 (later): **§2.4.2 agenda audit** — no pure Nationalist among near-misses; Weaver/Perot closest leans; Bryan fusion + Thurmond/G.Wallace/Anderson/TR/Dewey = Angry Birds or D&C; Q10a open for Nat.(failed) near-miss overlay on Weaver/Perot only.
 - Session 2026-08-08 (later): **§2.4.3 major Author lock — compromise math / pre-filtered field** — pure Nationalist losers rare because admission requires faction weave + deep litmus compromise; real court/Oval threats never allowed in; allowed opposition pre-compromised → invisible math advantage to planned winner; pundit “surprise” = overlooked compromise distance from public; human-history court rhyme; Q10b case-study hunt.
 - Session 2026-08-08 (later): **§9.1b Trump rare combination** — tipster/not-owned working assumption; A presidency vs B shadow (B fails); duty cost; outsider insufficient; PP intransigence falsification; claim 31.
+- Session 2026-08-09: **§2.4.4 bag of tricks — voter fraud** — Author: fraud was major establishment tool; peak in party-ticket/urban-machine era (not modern mail invention); specimens Tammany/Gilded, Sullivan 1931 absentee colonization, LBJ Box 13, 1960 Chicago accusation, later local absentee overturns; not every EC stolen; Depression article presidential bridge unpacked; Q11 locked / Q11a primary deepen open; claim renumber (fraud = 31, Trump = 32).
+- Session 2026-08-09 (later): **§2.8 Stalin Nationalist tip / Trump rhyme** — soft history flattens Stalin into communist ideologue; Author: Nationalist pattern inside communist OS; same blindness as Americans missing Nationalist vs everything else under Trump-era brands; Holodomor §2.7–§2.8 companion.
 - Session 2026-08-06 (later): **John Adams = Globalist** — Jefferson foil; Federalist↔Democrat intertwine → world-order vision, not sovereign-citizen rights.
 - Session 2026-08-06 (later): Gilded→Progressive **Option D** — Vacuum majority; McKinley/TR/Taft/Wilson **Globalist** (Wilson hard).
 - Graphic deferred until author art pass (parent locks dense enough).

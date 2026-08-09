@@ -1,10 +1,10 @@
 # Investigation: Holodomor, Holocaust — Memory Redaction, Geography of Horror, and the Sacrifice Frame
 
-> **TL;DR:** **Mainstream:** The **Holodomor** (1932–33 Soviet famine) and the **Holocaust** (Nazi genocide of Jews and other groups) are **distinct catastrophes** on overlapping territory; both were **suppressed in Soviet memory politics** and both re-emerged after 1989–91. **Roughly half** of Holocaust victims were killed in **interwar Poland and the occupied USSR** — i.e. **east of Germany** — mostly by **shootings and death camps** operated under **German occupation**, not inside the Reich’s pre-1938 borders. **This investigation** holds a **repo thesis**: Western commemorative machinery **displaced** Holodomor-scale Soviet-era horror from public consciousness and **fixed** a **German-centric, camp-photograph** narrative that **misattributes geography** (horror “in Germany”) and **function** (industrial extermination vs. **late-war logistics collapse** at western camps). **Zionist Congress (1897):** **documented** — Basel Program, Herzl’s diary, **misery as “propelling force”**; **not documented** — any prediction of a **burnt sacrifice** named *Holocaust*. **Protocols of Zion:** **physical text exists**; **proven forgery** (Joly plagiarism; Okhrana lineage). **Allied supply-line bombing** **did** worsen **western camp** conditions in **1945** (Tier **A**); claims that **all** camp deaths were **only** bombing/typhus, or that **liberation photos were staged in cages**, are **weak or debunked** (Tier **C** / rejected). **Sacrifice / re-identification thesis** (Orthodox eastern Jews purged → Zionist **new identity**) is **open speculation** — recorded for investigation, **not** established fact.
+> **TL;DR:** **Mainstream:** The **Holodomor** (1932–33 Soviet famine) and the **Holocaust** (Nazi genocide of Jews and other groups) are **distinct catastrophes** on overlapping territory; both were **suppressed in Soviet memory politics** and both re-emerged after 1989–91. **Roughly half** of Holocaust victims were killed in **interwar Poland and the occupied USSR** — i.e. **east of Germany** — mostly by **shootings and death camps** operated under **German occupation**, not inside the Reich’s pre-1938 borders. **This investigation** holds a **repo thesis**: Western commemorative machinery **displaced** Holodomor-scale Soviet-era horror from public consciousness and **fixed** a **German-centric, camp-photograph** narrative that **misattributes geography** (horror “in Germany”) and **function** (industrial extermination vs. **late-war logistics collapse** at western camps). **Author lock (§2.7–§2.9, 2026-08-09):** Holodomor was **baked into the communist revolution**; **nobody** — **especially not Stalin** — had a path to stop Holodomor-scale rural death **inside** that OS; Stalin’s available agency was **contain further civil-war / communism chaos** (which he did). Soft history’s “Stalin absolute king who could have opened the villages” is **rejected**. **Stalin’s pattern is Nationalist, not communist ideologue** — soft history flattens him into “communism” the same way Americans flatten **Trump** into party brand and miss the **real Nationalist vs everything else** camp divide. ***Mein Kampf* cascade (§2.9):** late-1920s/30s smuggled Western Nazism — **another flavor of communism** — into Russia/Ukraine **exacerbated ethnic tensions** and is Author-pegged as the **real cause** of the Holodomor; Holodomor’s victory is the step to **actual Nazism** from without (1941) or from within. §2.5 paper trail stays **Documented** system language — **not** collapsed into personal genocide authorship. **Zionist Congress (1897):** **documented** — Basel Program, Herzl’s diary, **misery as “propelling force”**; **not documented** — any prediction of a **burnt sacrifice** named *Holocaust*. **Protocols of Zion:** **physical text exists**; **proven forgery** (Joly plagiarism; Okhrana lineage). **Allied supply-line bombing** **did** worsen **western camp** conditions in **1945** (Tier **A**); claims that **all** camp deaths were **only** bombing/typhus, or that **liberation photos were staged in cages**, are **weak or debunked** (Tier **C** / rejected). **Sacrifice / re-identification thesis** (Orthodox eastern Jews purged → Zionist **new identity**) is **open speculation** — recorded for investigation, **not** established fact.
 
-**Status:** Open — **2026-06-05** deep pass + **§0.1** geography lexicon + **§2.4–§2.6** + **§9.4** Weizmann + **§22** image register / **§22.2** refusal hypotheses  
-**Date:** 2026-06-05  
-**Bias (explicit):** This repo **does not deny** that **mass murder of Jews and others occurred** under Nazi rule and collaboration. It **does** challenge **attribution** (where, by whom, under what **prior** catastrophes), **commemorative monopoly**, and **propaganda use** of **decontextualized camp imagery**. See [Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md) (anti-**monolithing**; sourced history ≠ collective guilt).
+**Status:** Open — **2026-08-09** Stalin agency (§2.7) + Nationalist tip / Trump rhyme (§2.8) + *Mein Kampf* cascade / Holodomor cause (§2.9); prior **2026-06-05** deep pass + **§0.1** geography lexicon + **§2.4–§2.6** + **§9.4** Weizmann + **§22** image register / **§22.2** refusal hypotheses  
+**Date:** 2026-08-09  
+**Bias (explicit):** This repo **does not deny** that **mass murder of Jews and others occurred** under Nazi rule and collaboration. It **does** challenge **attribution** (where, by whom, under what **prior** catastrophes), **commemorative monopoly**, and **propaganda use** of **decontextualized camp imagery**. Holodomor: **does not deny** the famine dead; **does** challenge soft history’s **Stalin-as-communist-absolute-author** packaging (**§2.7–§2.8**) and soft history’s smash of the ***Mein Kampf* cascade** into a single Hitler blob (**§2.9**). See [Paradigm Threat — working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md) (anti-**monolithing**; sourced history ≠ collective guilt).
 
 **Related:** [Jewish press on revolutionary Russia](/history/chronology/investigations/jewish-press-revolutionary-russia-verified-quotations.md); [Operation Paperclip & WWII narrative](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md); [WWII Reverse Crusade III](/timeline/evt-world-war-ii-reverse-crusade-iii); [Palestine genocide dossier](/governance/genocide/palestine/a.md); [Zelensky forward-history article](/governance/war/zelensky-forward-history-memory-war.md); [Zelensky open-letter dossier](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md); [Holodomor to Holocaust — image archive](/governance/genocide/holocaust); [Europe white-bloodline investigation §2c](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) (explicitly **not** Holocaust denial); [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md); [**The Great Depression Was Planned** (article)](/governance/war/the-great-depression-was-planned.md) (same-window U.S. crash / census / Fed spine).
 
@@ -23,6 +23,9 @@
 | Author thesis — Ukrainian SSR enclosure (Tier S) | §2.4 |
 | Moscow-stated rationales, Dec 1932 primaries | §2.5 |
 | Author synthesis — USSR/Russian-centred nationalism | §2.6 |
+| **Author lock — Stalin agency / Holodomor inevitability under communism** | **§2.7** |
+| **Author lock — Stalin Nationalist tip (not communist) / Trump rhyme** | **§2.8** |
+| **Author lock — *Mein Kampf* cascade / Nazism-as-communism-flavor / Holodomor cause** | **§2.9** |
 | Holocaust — mainstream geography & mechanisms | §3 |
 | How Holodomor memory lost to Holocaust memory | §4 |
 | Repo thesis: misattribution to “Germany” | §5 |
@@ -131,16 +134,17 @@ Holodomor recognition is **not** pure truth-restoration. It also **served nation
 
 ### 2.4 Author thesis — Ukrainian SSR administrative enclosure (Tier **S**)
 
-**Repo extension (not mainstream attribution):** Peak famine policy in **1932–33** ran inside a **Moscow-authored administrative geometry** — not as “Ukraine did it alone,” but as a **sealed republic** where **center directives** met **local cadre enforcement** without **cross-republic relief**.
+**Repo extension (not mainstream attribution):** Peak famine policy in **1932–33** ran inside a **sealed-republic administrative geometry** — not as “Ukraine did it alone,” but as a **pen** where **center directives** met **local cadre enforcement** without **cross-republic relief**. Soft history reads that geometry as **Stalin/Moscow choosing genocide**. Author tip for **who could stop Holodomor-scale death** is **§2.7** — do **not** treat this enclosure table as proof Stalin was an absolute tip who could have saved the countryside inside communism.
 
 | Mechanism | Tier | Notes |
 |-----------|------|-------|
 | **Passport / internal-passport regime** (Jan **1933**) | **A** | Rural–urban split; peasants **blocked from leaving** starving villages — widely cited in Holodomor literature (*Golod v SSSR* collections) |
 | **Blacklisted villages / trade bans** (Nov–Dec **1932**) | **A** | Dec **14, 1932** CC/SNK resolution authorizes **suspension of goods** (matches, salt, kerosene) to non-compliant raions — [HREC primary](https://education.holodomor.ca/teaching-materials/primary-documents/resolution-of-cc-aucpb-and-ussr-snk-on-grain-procurements-in-ukraine-the-northern-caucasus-and-the-western-oblast/) |
-| **Republic party + GPU cadres** executing Moscow quotas | **A**–**B** | Kosior, Chubar, Postyshev, Balytsky — **co-implementers**, not sole authors |
-| **“Bubble” as sole cause** | **Reject** | Enclosure **enabled peak extraction**; **does not** replace **Stalin/Moscow policy** as primary engine (**§2.1**, **§2.5**) |
+| **Republic party + GPU cadres** executing all-Union quotas | **A**–**B** | Kosior, Chubar, Postyshev, Balytsky — **co-implementers** of the communist OS, not freelancers outside it |
+| **“Bubble” / Ukraine-alone as sole cause** | **Reject** | Enclosure **enabled** sealed extraction; the famine still sits inside the **communist-revolution board**, not a freestanding Ukrainian accident |
+| **“Stalin absolute king who could open the villages and save Holodomor victims”** | **Reject (Author — §2.7)** | Soft history’s agency model; paper trail ≠ that tip |
 
-**Cross-read:** [Zelensky forward-history article](/governance/war/zelensky-forward-history-memory-war.md); [Zelensky open-letter dossier](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md).
+**Cross-read:** [Zelensky forward-history article](/governance/war/zelensky-forward-history-memory-war.md); [Zelensky open-letter dossier](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md); Depression reader [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md).
 
 ### 2.5 Moscow-stated rationales (1932–33) — primary register
 
@@ -168,22 +172,92 @@ Stalin-era documents **rarely say “famine.”** They argue **plan discipline**
 | **19 Dec 1932** | CC + CPC | Send **Kaganovich** + **Postyshev** as **plenipotentiaries** to fulfill **twice-reduced** plan | *Holodomor 1932–1933 v Ukraini* doc collection p.495 |
 | **6 May 1933** | Stalin → Sholokhov | Local **“sadism”** wrong — but peasants waging **“quiet war”** to **starve workers and Red Army**; relief ordered for Veshensky | RGASPI f.558 op.11 d.827; *Voprosy istorii* 1994 №3 |
 
-**Historian split (Tier B):** Davies & Wheatcroft (*Years of Hunger*) document **quota cuts and reduced exports** alongside **coercive collection** — dispute **conscious starvation policy** as primary motive. Ellman (*Europe-Asia Studies* 2007) and Applebaum (*Red Famine*) stress **Stalin’s choices materially worsened** mortality. **Repo:** cite **§2.5 primaries** for **what Moscow said**; cite **§2.1** for **mainstream engine**.
+**Historian split (Tier B):** Davies & Wheatcroft (*Years of Hunger*) document **quota cuts and reduced exports** alongside **coercive collection** — dispute **conscious starvation policy** as primary motive. Ellman (*Europe-Asia Studies* 2007) and Applebaum (*Red Famine*) stress **Stalin’s choices materially worsened** mortality. **Repo desk rule:** cite **§2.5 primaries** for **what the system wrote under Stalin’s name**; cite **§2.1** for **mainstream “Stalin engine” packaging**; cite **§2.7** for **Author agency lock** (do **not** collapse Documented paper trail into “Stalin personally authored Holodomor as stoppable genocide”).
 
 ### 2.6 Author synthesis — USSR/Russian-centred nationalism (Tier **S**)
 
-**Author read (not established fact):** By **1932–33**, Leninist **class-war extraction** had **re-coded** into **Soviet-imperial / Russocentric nation-building** — **Socialism in One Country**, **border-republic discipline**, **anti-Ukrainian-nationalist purge**. **Ukrainian nationalism** appears in Dec **1932** texts as **Petliurism / sabotage**, **never** as Stalin’s nation-building goal.
+**Author read (not established fact):** By **1932–33**, Leninist **class-war extraction** had **re-coded** into **Soviet-imperial / Russocentric nation-building** — **Socialism in One Country**, **border-republic discipline**, **anti-Ukrainian-nationalist purge**. **Ukrainian nationalism** appears in Dec **1932** texts as **Petliurism / sabotage**, **never** as a nation-building goal of the chair soft history calls “Stalin’s plan.”
 
 **Stacked model:**
 
-1. **Deep layer (Leninist):** requisition logic, kulak category, terror apparatus, one-party state (**B** continuity thesis).  
-2. **Peak layer (Stalin 1932–33):** impossible quotas, enclosure, export, GPU intensification (**A**–**B**).  
+1. **Deep layer (communist revolution OS):** requisition logic, kulak category, terror apparatus, one-party state — **Holodomor-class rural death already latent** once this OS owns grain regions (**Author** continuity; soft history calls pieces **B**).  
+2. **Peak layer (1932–33 system intensification):** impossible quotas, enclosure, export pressure, GPU intensification — **Documented** in §2.5 paper trail (**A**–**B** language under Stalin’s name). Soft history = Stalin chose this. Author = **OS peak**, not proof of absolute personal agency to un-do the famine (**§2.7**).  
 3. **National layer (Dec 1932 bundle):** **crush Petliurites**, **correct Ukrainization**, **Russify** Kuban administration — **same resolution** as **finish the grain plan** (**A**).  
-4. **Cost acceptance (author S):** Peasant death on **Ukrainian SSR soil** was **expendable** relative to **securing a Russocentric Soviet borderland** — **not** “Stalin tried to save Ukraine too late.”
+4. **~~Cost acceptance under Stalin~~ (retired 2026-08-09):** Older Author line treated peasant death as Stalin’s expendable cost for a Russocentric borderland. **Replaced by §2.7:** Holodomor-scale countryside death was **not a Stalin tip he could cancel inside communism**; his available job was **contain further civil-war / communist chaos**. Soft history will still sell “he could have opened the villages.”
 
 **Supports (Tier B):** Naimark on **national dimension** of Ukrainian famine; Applebaum on **Ukrainian cultural repression** in same window. **Pushback (Tier B):** Davies & Wheatcroft — **catastrophic policy**, disputed **genocide-intent** standard.
 
 **Memory hook:** Soviet **silence** (**§2.1**) + Western **Holocaust template** (**§4**) later **displaced** this **borderland catastrophe** from global moral accounting — rhymes with **2022 year-zero** letter rhetoric ([Zelensky article](/governance/war/zelensky-forward-history-memory-war.md)).
+
+### 2.7 Author lock — Stalin agency / Holodomor inevitability under communism (2026-08-09)
+
+**Major Author claim (session — capture verbatim intent):**
+
+1. The **Holodomor was going to happen as a result of the communist revolution**. **Nobody could stop it.** There is **no path** that would have stopped it. **Nobody** had that kind of power, influence, or agency — **especially not Stalin**.
+2. Of the things he **could** do, he could **prevent further civil-war / communism chaos** — **which he did**.
+3. Soft history’s stop-list (cut quotas hard, stop exports, leave seed, open villages, drop blacklists, flood relief) assumes an **absolute-power king** above the communist OS. **He was not that.** Inside the framework, those moves read as feeding rural revolt, starving cities/army, and reopening civil-war geography — not as a available “save Holodomor victims” lever.
+
+**Unpack (Author → desk):**
+
+| Piece | Meaning |
+|-------|---------|
+| **Inevitability** | Once the communist revolution owns grain, class war, and sealed pens, Holodomor-class rural die-off is **baked into the OS** — not a personal Stalin murder memo that could have been torn up |
+| **No stop path** | No Stalin-sized action **saves Holodomor victims at scale** while remaining inside communism |
+| **Available agency** | Contain further civil-war chaos; hold center / workers / Red Army / industrial spine |
+| **Paper trail (§2.5)** | **Documented** system language — plan discipline, “quiet war,” Petliurism. Soft history converts it into “Stalin authored the genocide.” Author: **do not conflate** |
+| **Not claimed** | Weather-only famine; “Ukraine did it alone”; Holodomor didn’t happen; Stalin never appears in documents |
+
+**Falsifiers (soft history will press):**
+
+1. Show a **communist-legal** path in 1932–33 that keeps the revolutionary OS **and** prevents Holodomor-scale rural mortality.  
+2. Show Stalin held **absolute tip** power to suspend procurements/exports/seals without losing the board to civil-war return.  
+3. Collapse §2.5 into personal genocide authorship without answering the absolute-king agency problem.
+
+**Cross-links:** [Depression article](/governance/war/the-great-depression-was-planned.md) · [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) · [AU-046](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#28-stalin-nationalist-tip--not-communist-ideologue--trump-rhyme-author-lock-2026-08-09) · site claim `stalin-holodomor-agency`.
+
+### 2.8 Author lock — Stalin Nationalist tip (not communist ideologue) / Trump rhyme (2026-08-09)
+
+**Major Author claim (session — capture intent):**
+
+> The only reason anyone would not see what I’m saying is because they think Stalin was a communist — he wasn’t. His pattern clearly is **nationalist**. In fact he is very similar to **Trump** in many regards, and the same blindness exists where Americans can’t see the major ideological divide in either camp between the **real nationalists** and everything else.
+
+**Unpack (Author → desk):**
+
+| Piece | Meaning |
+|-------|---------|
+| **Not a communist (Author)** | Soft history = Stalin = communism personified. Author = he sat the **communist-revolution OS** (§2.7) but his **pattern / tip** is **Nationalist** (sovereignty / center hold / Russocentric consolidation / crush internationalist-chaos factions) — not Marxist internationalist faith |
+| **Why people miss §2.7** | If you think he *is* communism, every OS death becomes “his ideology.” If he is a **Nationalist tip trapped in / riding a communist machine**, Holodomor looks like **baked OS + limited tip agency**, not “communist king chose genocide” |
+| **Documented rhyme (not proof of Author badge)** | Soft history already notes **Socialism in One Country** vs Trotskyist permanent revolution — Author reads that as the **nationalist vs internationalist** fork soft history keeps renaming as intra-communist trivia |
+| **Trump rhyme** | Same blindness in the U.S.: Americans can’t see **real Nationalists** vs **everything else** (Globalist / rocking / RINO / neo-sides) inside the branded parties. Soft history flattens Trump into “Republican / right” the way it flattens Stalin into “communist” |
+| **Not claimed** | Stalin = moral twin of Trump; Stalin “good”; Holodomor didn’t happen; AU-046 wall-chart cell for Stalin (he is not a U.S. president) |
+
+**How this locks to §2.6–§2.7:** §2.6’s Russocentric / Socialism-in-One-Country re-code is the **Documented-adjacent** hinge soft history already half-admits. §2.7 agency lock **requires** this tip: a Nationalist tip does not get absolute power to un-write the communist OS; his job is hold the center against further chaos.
+
+**Cross-links:** [AU-046 vocabulary](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) · [Depression article](/governance/war/the-great-depression-was-planned.md) · [*It was the only way*](/governance/war/it-was-the-only-way.md) (Trump tip grammar).
+
+### 2.9 Author lock — *Mein Kampf* cascade / Western Nazism as communism-flavor / Holodomor cause (2026-08-09)
+
+**Major Author claim (session — capture intent):**
+
+> *Mein Kampf* late-1920s/30s Ukraine smuggling → 1941 mass copies shows the cascading **Western** influence — **Nazism (another flavor of communism)** — into Russia, which **exacerbated existing ethnic tensions** and can be literally pegged as the **real cause of the Holodomor**. The **victory of the Holodomor** was the step to **actual Nazism**, either by **takeover from without**, or **from within**.
+
+**Unpack (Author → desk):**
+
+| Piece | Meaning |
+|-------|---------|
+| **Nazism = communism flavor (Author)** | Same deep divide-and-conquer / pen-management board as Marxism’s second birth of communism — soft history sells them as opposite poles; Author reads **sibling flavors** |
+| **Cascade** | Late **1920s / early 1930s** smuggled / political-circle arrival of *Mein Kampf* into Ukraine/Russia = **Western pour** into a broken ethnic board already lit by **1918–21** chaos |
+| **Exacerbation** | Cascade **worsens** existing ethnic tensions — does not invent tension from zero |
+| **Real cause of Holodomor (Author peg)** | Soft history: Stalin / weather / Kulak war alone. Author: Western Nazi-communism-flavor cascade into the pen is the **pegged cause** that fires Holodomor-class famine on the already-broken map (§2.7 OS still holds — Stalin tip cannot cancel; the **cause peg** is the Western pour + ethnic exacerbation) |
+| **Holodomor victory → actual Nazism** | Famine’s “win” for that lane = step to full Nazism either **from without** (1941 occupation / mass copies) or **from within** (hardened antibody-resistant demographic / ideology) |
+| **Date discipline** | Do **not** smash smuggle→famine→1941 into one “Hitler caused 1933” blob. Mass 1941 copies = later flood; smuggle = first pour |
+| **Not claimed** | Found Cabinet memo “import *Mein Kampf*, schedule Holodomor”; weather-only famine; Holodomor denial |
+
+**How this locks to §2.7–§2.8:** Stalin Nationalist tip inside communist OS cannot stop Holodomor-scale death (§2.7). Soft history still wants a communist king. Author cause peg here is **Western cascade**, not Stalin personal authorship. §2.8 explains why people miss that.
+
+**Documented vs Author:** Occupation-era mass distribution of Nazi texts is soft-history adjacent (**B**). Late-1920s/30s smuggling scale and “real cause of Holodomor” are **Author**. Nazism-as-communism-flavor is **Author**.
+
+**Cross-links:** [Depression article Ukraine section](/governance/war/the-great-depression-was-planned.md) · [AU-047 §8A.2](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) · [Paperclip](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md).
 
 ---
 
@@ -604,7 +678,7 @@ If **`L1`** claims appear inside **`L2`** packaging, note **“bundled for conta
 | 8 | **21 Questions** infographic | **Done** | **§20** — per-question verdicts; image archived as `holocaust_21_questions.png` |
 | 9 | **Weizmann 1937** meme (`holocaust_planned.jpg`) | **Done** | **§9.4** — reject **“upcoming Holocaust”** caption; kernel **B** |
 | 10 | Image validation register | **Done** | **§22** — workflow + table; extend per new photos |
-| 11 | **§2.4–§2.6** enclosure + Dec 1932 primaries + author USSR nationalism | **Done** | Cross-link [Zelensky article](/governance/war/zelensky-forward-history-memory-war.md) |
+| 11 | **§2.4–§2.9** enclosure + Dec 1932 primaries + Stalin agency/Nationalist tip + ***Mein Kampf* cascade / Holodomor cause** | **Done (2026-08-09 §2.7–§2.9)** | Cross-link [Depression article](/governance/war/the-great-depression-was-planned.md) · [AU-046 §2.8](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#28-stalin-nationalist-tip--not-communist-ideologue--trump-rhyme-author-lock-2026-08-09) |
 | 12 | Dees **holocaust_truth2** meme | **Done** | **§23** — deny overall; partial Belsen/Allied threads |
 | 13 | Two-camp denial taxonomy | **Done** | **§24** — L0/L1/L2; containment **S**, ecology **B** |
 | 14 | Anne Frank **holocaust_lies9** meme | **Done** | **§25** — reject forgery; L1 editorial kernel |
@@ -1548,6 +1622,9 @@ Eastern national martyrologies      →  Serb / Ukrainian / Polish memory — of
 | Was it **all** in **Germany**? | **No** — **most** killing **east** of **pre-war** **Germany** (**A**). |
 | Was **Holodomor** **redacted**? | **Yes** — **Soviet** **suppression** **until** **late** **80s** (**A**). |
 | Did **Holodomor** **become** **Holocaust** **memory**? | **No** (not **same** event remembered **as** Holocaust). **Partially** — **Western** **template** **displaced** **Holodomor**; **Ukraine** **later** **borrowed** **Holocaust** **grammar**; **competing** **East–West** **atrocity** **memory** (**§31**) (**B**). |
+| Did **Stalin** **author / could he have stopped** Holodomor? | **Soft history:** yes / agency to open villages. **Author (§2.7):** famine **baked into communist revolution**; **no path** inside that OS to stop Holodomor-scale rural death; Stalin’s available job = **contain further civil-war chaos** (which he did). §2.5 paper trail ≠ absolute-king authorship. |
+| Was **Stalin** a **communist**? | **Soft history:** yes (personifies communism). **Author (§2.8):** **Nationalist tip** pattern (Socialism in One Country / center-hold rhyme); same blindness as Americans missing **Nationalist vs everything else** under Trump-era party brands. Not a wall-chart U.S. president cell. |
+| Did ***Mein Kampf*** / Western Nazism **cause** Holodomor? | **Soft history:** no / smash into 1941 only. **Author (§2.9):** late-1920s/30s smuggle = Western Nazism (**communism flavor**) cascade exacerbating ethnic tensions = **pegged real cause**; Holodomor victory → actual Nazism from without or within. Keep date order. |
 | Did **Zionist Congress** **predict** **Holocaust**? | **No** **documented** **prediction**; **yes** **misery** **as** **propelling** **force** (**A**). **Weizmann 1937 meme** = **reject** as quoted (**§9.4**). |
 | Are **Protocols** **real**? | **Document** **exists**; **content** **forged** (**A**). |
 | Were **western** **camp** **photos** **caused** by **Allied** **bombing**? | **Partly** **for** **1945** **western** **sites**; **not** **explanation** **for** **death** **camps** **in** **Poland** (**A**–**B**). **Dees meme** (**§23**) = **reject** denial; **accept** Belsen **mis-attribution** kernel only. |
@@ -1576,4 +1653,6 @@ Eastern national martyrologies      →  Serb / Ukrainian / Polish memory — of
 
 ---
 
-Keywords: #Holodomor #Holocaust #Memory #Redaction #ZionistCongress #Protocols #Bloodlands #BergenBelsen #Jasenovac #EastWestMemory #EvidenceTiers
+Keywords: #Holodomor #Holocaust #Memory #Redaction #ZionistCongress #Protocols #Bloodlands #BergenBelsen #Jasenovac #EastWestMemory #EvidenceTiers #Stalin #Nationalist #CommunistRevolution #AgencyLock #MeinKampf #Nazism #Trump #ParadigmThreatFiles
+
+*Last updated: 2026-08-09*

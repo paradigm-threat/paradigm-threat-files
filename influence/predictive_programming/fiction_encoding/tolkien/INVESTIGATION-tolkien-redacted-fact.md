@@ -20,7 +20,11 @@ The three sub-theses under examination:
    Eurasian empire structure — mounted warrior kingdoms (Rohirrim), a great
    eastern empire in decline (Gondor/Númenor), Rangers preserving knowledge of
    a fallen world — mirroring what Fomenko's New Chronology identifies as the
-   Rus-Horde Empire.
+   Rus-Horde Empire. **Author lock (2026-08-09):** under redacted Rus-Horde theory,
+   LOTR’s eastern enemy / Easterlings board is **100% the Muslim caliphate lane**
+   (Fomenko steppe = Ottomans same-time), **not** Scaligerian academic past;
+   Tolkien sat the Scaliger–Horde **redaction split**. Soft Easterlings = Scythians/Huns/Mongols
+   engaged; does not close the Author peg.
 
 3. **Merged redacted fact**: Tolkien, as a linguist who traced words backward
    through time, may have recognized that the Norse/Celtic/Finnish myths he drew
@@ -292,8 +296,30 @@ Tolkien's world to Eastern European and Russian mythological traditions.
 | **Dúnedain/Rangers** — wandering remnants preserving knowledge of a lost empire | Remnant knowledge-keepers after empire collapse |
 | **Númenor** — great island civilization destroyed by divine wrath | Atlantis (which Tolkien explicitly equated) |
 | **The Shire** — insular rural community ignorant of the wider world | Insular England, unaware of continental history |
-| **Sauron's realm** — eastern enemy | The "East" as threat in European consciousness |
+| **Sauron's realm** — eastern enemy | Soft history: generic European “East” fear. **Author (2026-08-09):** under redacted Rus-Horde theory, the eastern enemy board is the **Muslim caliphate / Ottoman** lane — not Scaligerian textbook antiquity |
+| **Easterlings / Wainriders** — wagon-riding allies of Sauron | Soft history: Scythians, Huns, early Mongols (steppe). **Author:** Fomenko pegs those streams as **same people as Ottomans / same time**; Ottoman invasion + Protestant-vs-**Rus Horde** fights built the “evil Asia” stereotype Tolkien could publicly deny mapping onto “Islam” while still encoding |
 | **The Return of the King** — the true heir reclaims the throne | Restoration narratives across European history |
+
+### Author lock — Easterlings / caliphate / Scaliger–Horde split (2026-08-09)
+
+**Major Author claim (session — capture intent):**
+
+> The “Easterlings” who allied with Sauron were not modeled on Middle Eastern caliphates [in soft-history classroom notes]. Instead, groups like the Wainriders — who rode into battle in massive wagons — were based on nomadic Eurasian steppe peoples such as the Scythians, Huns, and early Mongols, which **Fomenko pegs as the same people as the Ottomans and at the same time**. So Tolkien could publicly claim he had no opinion of Islam, but it was indeed the **Ottoman invasion** and similar invasions that created the evil Asian stereotype in the first place, not to mention **Protestants vs the Rus Horde empire**. I accuse Tolkien in my other writings of **DELIBERATELY** turning fact into fiction and misreading every period of history — **for money**. I think he was hated in his time for doing this. But that is not the point. The point is according to **redacted Rus-Horde theory**, LOTR was **100% about the Muslim caliphate in the east**, and **not** the Scaligerian history which was accepted by his academic background. He was right in the middle of that historic **redaction split**.
+
+**Unpack:**
+
+| Piece | Desk |
+|-------|------|
+| Soft Easterlings = steppe | Engaged — wagon peoples / Scythian–Hun–Mongol classroom lane |
+| Fomenko same-as-Ottomans | **Author / NC** — collapses soft “not caliphate” defense |
+| Public “no opinion on Islam” | Compatible with encoding eastern enemy while denying topical brief |
+| Stereotype source | Ottoman + kindred invasions; Protestant vs Rus Horde |
+| LOTR = caliphate board | **Author** under Rus-Horde redaction theory — **not** Scaligerian past |
+| Mid redaction split | Oxford/Scaliger training vs Horde memory still leaking into the fiction |
+| Fact→fiction for money / hated | **Author** separate charge — develop here; **not** required for Hormuz Black Gate rhyme |
+| Hormuz | Live eastern holy-war board rhyme — [Depression article](/governance/war/the-great-depression-was-planned.md) · [Islamabad Black Gate](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz) |
+
+**Falsifier soft history will press:** Tolkien letters denying allegory / Islam topicality as full stop; Easterlings notes that never leave steppe ethnography; academic consensus that LOTR is northern myth reconstruction only.
 
 ### The Heimskringla Connection
 
@@ -482,11 +508,11 @@ Each can be examined for:
   structures
 - [ ] Examine the Heimskringla's Yngling dynasty for parallels with Tolkien's
   dynasties of Númenor
-- [ ] Look for any connection between Tolkien's "Easterlings" and historical
-  Eurasian peoples
+- [x] Look for any connection between Tolkien's "Easterlings" and historical Eurasian peoples — **Author lock 2026-08-09** (soft: Scythian/Hun/Mongol; Author: Fomenko same-as-Ottomans + LOTR = Muslim caliphate board under Rus-Horde redaction; Scaliger–Horde split) — see Part VI Author lock above
 - [ ] Investigate the Tale of Igor's Campaign (Slovo o polku Igoreve) as a
   parallel "found manuscript" from the Rus tradition
 - [ ] Examine what Tolkien knew about the Russian Primary Chronicle
+- [ ] Deepen Author “fact→fiction for money / hated in his time” charge with period reception cites
 
 ### Sources Cited
 
@@ -2354,5 +2380,7 @@ philologist who traced the words backward to their origins.
 
 **Redaction vocabulary:** Literary “found manuscript” and inversion themes map to repo [**R1–R6**](/docs/REDACTION.md) — especially **R4** (Fomenko / Biblical class) and **R5** flattening; compare [Marie Curie narrative rewrite](/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) and [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md).
 
-Keywords: #Tolkien #Redacted #Fact #Fiction
+Keywords: #Tolkien #Redacted #Fact #Fiction #RusHorde #Easterlings #Ottoman #Scaliger #Caliphate #ParadigmThreatFiles
+
+*Last updated: 2026-08-09*
 

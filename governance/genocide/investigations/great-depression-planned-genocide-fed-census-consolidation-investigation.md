@@ -77,6 +77,7 @@
 | Purposeful neglect / fall-guy grammar | **Revised** | Hoover locked **Globalist** (owns deepening policies); not Vacuum sponge |
 | WWI → New Deal war-mobilization recycle | **Yes** | — |
 | Hoover vs FDR **alignment score** | Point only | **Owns** |
+| Establishment **voter-fraud bag** / machine-era specimens | Point only (reader article) | **Owns** [§2.4.4](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#244-bag-of-tricks--voter-fraud-where-it-mattered-author-lock-2026-08-09) |
 | J. Edgar / FBI “body remover” | Point only | **Owns** |
 | Titanic→Fed causal proof | Point + timing | [Titanic investigation](/governance/war/investigations/titanic-sinking-investigation.md) owns |
 
@@ -272,7 +273,7 @@ Reader essay: [**The Great Depression Was Planned**](/governance/war/the-great-d
 
 ### 8A.1 What “planned” means on this desk (Author lock)
 
-**Not** a story where one official, in a U.S. or USSR chair, **knows** the intended crash/famine outcome and conspires with peers, then covers the minutes. Look at Depression America or Holodomor-window USSR and you will **not** find that knowing cabal as the thesis.
+**Not** a story where FDR and Stalin sit down, agree a body count, and sign matching minutes. **Not** soft history’s Holodomor packaging that Stalin was an absolute king who could have opened the villages and cancelled Holodomor-scale rural death inside communism. **Author lock ([Holodomor §2.7](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#27-author-lock--stalin-agency--holodomor-inevitability-under-communism-2026-08-09)):** Holodomor was baked into the communist revolution; nobody — especially not Stalin — had a stop path inside that OS; his available agency was contain further civil-war / communism chaos (which he did). Look at Depression America and you still will **not** find an on-books U.S. genocide quota as the thesis either.
 
 | Layer | Claim |
 |-------|--------|
@@ -305,19 +306,32 @@ Reader essay: [**The Great Depression Was Planned**](/governance/war/the-great-d
 
 ### 8A.2 Ukraine sequence — chronology discipline (Author)
 
+**Deeper necessity (Author — 2026-08-09):** Holodomor does not begin as a 1918–33 local accident. **Rus Horde** world-empire erasure fractured vassal states. Soft history sells communism as a Marx/Lenin invention. Author: communal / vassal order **already existed** at Horde scale; after redaction, Marxism “invents” communism again. Without empire erasure + vassal split, that reinvention board does not exist; without it, Holodomor-class managed-pen famine does not arise. Late Ukraine/Russia independence theater is the **cut sold as destiny** on that already-broken map. Companions: [chronology hub](/history/chronology/page.md) · [slave trades / Horde fracture](/governance/slavery/slave-trades-and-moor-etymology-investigation.md). Soft history scream (“communism starts with Marx”) = redaction tell. Reader article updated same day.
+
 | Window | Event | Desk note |
 |--------|-------|-----------|
-| **1918–1921** | Anti-Jewish **pogroms** in Russian Civil War / Ukrainian War of Independence chaos | **Not** Holodomor; preconditions / drive-out |
-| **1932–1933** | **Holodomor** man-made famine | Later; Soviet-orchestrated |
-| **Today** | Open neo-Nazi posture + Jewish-presenting presidency | Author: **full sum of the deception** since independence war |
+| **Horde erasure / vassal split** | Empire redacted; vassals become competing “nations” | Author precondition for Marxism-communism reinvention |
+| **1918–1921** | Anti-Jewish **pogroms** in Russian Civil War / Ukrainian War of Independence chaos | **Not** Holodomor; late split / drive-out; ethnic tension board |
+| **Late 1920s – early 1930s** | ***Mein Kampf* smuggle / political-circle cascade** into Ukraine/Russia | Author: Western Nazism (**communism flavor**) exacerbates tensions — **pegged real cause** of Holodomor ([Holodomor §2.9](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#29-author-lock--mein-kampf-cascade--western-nazism-as-communism-flavor--holodomor-cause-2026-08-09)) |
+| **1932–1933** | **Holodomor** — cascade harvest on broken-pen / communist-OS map | Soft history: Stalin-orchestrated. Author: OS-inevitable for Stalin tip (§2.7); **cause peg** = Western cascade (§2.9); Holodomor **victory** = step to actual Nazism |
+| **1941** | Mass Nazi occupation / *Mein Kampf* flood | **From without** path; later flood, not first pour |
+| **Today** | Open neo-Nazi posture + Jewish-presenting presidency | Author: **full sum of the deception** since independence war; **from within** hardening completed |
 
-**Author mechanism (label Author):** Pogrom **threat** (Author: many Russians against; leftist/propaganda staging, often young) drives out much of the then-unpopular Jewish demographic → leaves **intermarried gradient** Judaism→Christianity→Islam → famine ruins **unspecific** demographics and **hardens** the Nazi demographic (sometimes claiming Jewish/Christian cover) into an **antibody-resistant virus of ideology** → persists; Paperclip-class preservation when America enters Allies’ war → Cold War return → WWIII / Iran-holy-war trigger grammar **without** findable conspiracy minutes. Soft spots (pogrom authorship lanes, Zelensky synthesis) stay in Limits / article Framing.
+**Author mechanism (label Author):** Pogrom **threat** (Author: many Russians against; leftist/propaganda staging, often young) drives out much of the then-unpopular Jewish demographic → leaves **intermarried gradient** Judaism→Christianity→Islam → **Western Nazi-communism-flavor cascade** (*Mein Kampf* smuggle) exacerbates tensions → **Holodomor** fires (Author pegged cause) → famine ruins **unspecific** demographics and **hardens** the Nazi demographic (sometimes claiming Jewish/Christian cover) into an **antibody-resistant virus of ideology** (**from within**) **and/or** sets board for **1941 takeover from without** → persists; Paperclip-class preservation when America enters Allies’ war → Cold War return → WWIII / Iran-holy-war trigger grammar **without** findable conspiracy minutes. Soft spots (pogrom authorship lanes, Zelensky synthesis, smuggle-scale Tier A) stay in Limits / article Framing.
 
 **Companions:** [Holodomor dossier](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) · [Paperclip / Nazi continuity](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) · [Zelensky forward-history **article**](/governance/war/zelensky-forward-history-memory-war.md) · [Iran 2026 **article**](/governance/war/mission-accomplished-again-iran-2026.md).
 
 ### 8A.3 New Deal = take the fishery (Author)
 
-Not Christian charity. **Take away the ability to fish**; sell or subsidize the fish. Dual-flank criticism (Liberty League / NAM: too much control; Long / Coughlin / Townsend: not enough for the poor) still enlarges **federal** power either way — deception tell. AAA crop/livestock optics = take-the-fishery specimen (Q3 still open for primary table).
+Not Christian charity. **Take away the ability to fish**; sell or subsidize the fish. Dual-flank criticism (Liberty League / NAM: too much control; Long / Coughlin / Townsend: not enough for the poor) still enlarges **federal** power either way — deception tell.
+
+**AAA (1933) specimen:** paid plow-under / livestock kill while people hungered, sold as **price-support science**. That package — destroy food on purpose to raise prices in a bread-line window — remains the **distinctive U.S. Depression tell**. Later farm set-asides / surplus dumps / disease indemnity recur under other banners; they are not automatic AAA twins. **Q3** still open for fuller Ag Dept / newsreel primary table.
+
+**COVID-era U.S. rhyme (Documented program + Author pattern):** Not AAA text. Processing shutdowns → producer **depopulation** of swine / chickens / turkeys → USDA **Pandemic Livestock Indemnity Program (PLIP)** pays ~80% of animal loss + depopulation/disposal (eligible window Mar 1–Dec 26, 2020; authorized Consolidated Appropriations Act, 2021) — [farmers.gov PLIP](https://www.farmers.gov/coronavirus/pandemic-assistance/plip); [FSA 2021-07-13](https://www.fsa.usda.gov/news-events/news/07-13-2021/usda-provide-pandemic-assistance-livestock-producers-animal-losses). Separate **CFAP** livestock payments for COVID price/market hits **without** requiring a cull — [farmers.gov CFAP livestock](https://www.farmers.gov/coronavirus/pandemic-assistance/cfap1/livestock). Soft history: plant closures + relief. Author: same fishery **end-state** (remove capacity, sell relief/compliance) in emergency costume.
+
+**Abroad statute/disease herd-wipe (not U.S. AAA twin):** Denmark / Netherlands COVID-era **mink** industry culls with large compensation — closer to forced herd wipe under disease banners than to Depression price-support slaughter.
+
+**PP pointer:** *Children of Men* burned-livestock reference class (Cuarón art brief) — [Children of Men dossier](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md).
 
 ### 8A.4 Prohibition poison (same window)
 
@@ -337,6 +351,7 @@ Federal denaturing / methanol intensification of industrial alcohol while drink 
 | W4 | US/USSR sync without pact | Shared off-books grammar + local preconditions |
 | W8 | LE rise 1929–32 / Holodomor demography mismatch | Consolidation parallel ≠ identical death counts |
 | W9 | S.5003 = SEC not Title II rewrite | Carve family; leave big-corp reins |
+| W10 | COVID cull ≠ AAA twin | PLIP/CFAP Documented; Author end-state rhyme; EU mink = abroad disease wipe |
 | W12–W14 | Ukraine causal unity / pogrom leftists / neo-Nazi+Jewish face | Chronology A; causal unity Author; contested historiography labeled |
 
 ## §9. Author’s open claims (AU-047)
@@ -351,8 +366,10 @@ Federal denaturing / methanol intensification of industrial alcohol while drink 
 8. Generational wisdom contact (author’s 80s elders) is a real epistemic hinge — later generations lack living teachers, but **knowers of real history still feel** the Depression load in modern culture.
 9. Bee Gees *Stayin’ Alive* — *“New York Times’ effect on man”* — is **not** disposable pop; for Depression-literate listeners it encodes **survival + media-as-reality-editor**, with Duranty/NYT Holodomor denial as corpus rhyme (Author).
 10. **Planned** = off-books pattern + two-camp dogma + exploit of preconditions — **not** knowing Cabinet/Politburo murder minutes (§8A).
-11. Ukraine funnel: **1918–21** pogroms → **1932–33** Holodomor → hardened Eastern Nazi ideology → today’s deception sum (§8A.2) — Author causal unity; chronology Documented.
-12. New Deal = take-the-fishery; red tape as kill mechanism; NN small-ISP choke; S.5003 = antibody carve (§8A.3–§8A.5).
+11. Ukraine funnel: **Rus Horde erasure / vassal split** (communism reinvention precondition) → **1918–21** pogroms → **1932–33** Holodomor → hardened Eastern Nazi ideology → today’s deception sum (§8A.2) — Author causal unity; late chronology Documented.
+11a. **Stalin / Holodomor agency + Nationalist tip:** famine baked into communist revolution; no stop path inside that OS; Stalin’s available job = contain further civil-war chaos; soft history absolute-king stop-list rejected; **Stalin pattern = Nationalist not communist ideologue** (Trump camp-divide rhyme) ([Holodomor §2.7–§2.8](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#27-author-lock--stalin-agency--holodomor-inevitability-under-communism-2026-08-09); [AU-046 §2.8](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#28-stalin-nationalist-tip--not-communist-ideologue--trump-rhyme-author-lock-2026-08-09)).
+11b. ***Mein Kampf* cascade / Holodomor cause:** late-1920s/30s Western Nazism (**communism flavor**) smuggle exacerbates ethnic tensions = Author-pegged **real cause** of Holodomor; Holodomor victory → actual Nazism from without or within ([Holodomor §2.9](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#29-author-lock--mein-kampf-cascade--western-nazism-as-communism-flavor--holodomor-cause-2026-08-09)).
+12. New Deal = take-the-fishery; AAA = distinctive U.S. price-support destruction-in-hunger specimen; COVID **PLIP**/CFAP = documented kill-and-pay / market-pay rhyme under emergency banners (§8A.3); red tape as kill mechanism; NN small-ISP choke; S.5003 = antibody carve (§8A.3–§8A.5).
 13. **Information control is everything** — letters too slow; one-way radio; people’s side locked out of tech until computers; Holodomor requires farm-cage isolation (§8A.1b).
 
 ---
@@ -372,6 +389,7 @@ Several rows below are **not** “debunked because we couldn’t Google them tod
 | Q1 | Single vanished article: census refusal + Fed crash + Russia in one byline? (Author **remembers** seeing it) | **Open — still looking** | Period press / pamphlet / web-archive hunt; title/URL TBD; accept CO-labeled recovery |
 | Q2 | Mortality / excess-death series for Depression-as-genocide | Open | Demographic table vs Holodomor method; label tiers |
 | Q3 | Crop destruction / AAA / milk dumping as population-punishment ops | Open | Primary Ag Dept / newsreels + Author weight |
+| Q3a | COVID PLIP / CFAP as fishery rhyme (not AAA twin) | **Locked Documented programs + Author pattern** (2026-08-09) | Soft history = plant-closure relief; Author = capacity removal + pay; Denmark/NL mink = abroad disease wipe |
 | Q4 | Fed open-market / discount / gold ops 1928–33 as intentional crash | Open | McFadden + Rothbard lane vs Friedman–Schwartz; mechanism table |
 | Q5 | Hoover deepening policies vs Fed architects | **Hoover locked Globalist** (owns tariff/tax/relief); architects of Fed crash still open | AU-046 §7.2a; do not re-file as Vacuum |
 | Q6 | Literal “census year abandoned / could not be done” — Author **remembers** stronger wording than TIME atmosphere | **Open — still looking** | Enumerators’ reports; city police blotters; foreign-language press; archived “not taken” FAQ rebuttals |
@@ -395,7 +413,7 @@ Several rows below are **not** “debunked because we couldn’t Google them tod
 
 Keywords: #GreatDepression #FederalReserve #Census #PopulationControl #PurposefulNeglect #NewDeal #SocialSecurity #WorldWarI #Titanic #Holodomor #Genocide #StayinAlive #BeeGees #NewYorkTimes #Duranty #OffBooks #InformationControl #RedTape #NetNeutrality #Ukraine #ParadigmThreatFiles #AU047
 
-*Last updated: 2026-08-07*
+*Last updated: 2026-08-09*
 
 ---
 
@@ -408,6 +426,7 @@ Keywords: #GreatDepression #FederalReserve #Census #PopulationControl #Purposefu
 - **§8A “planned”** explicitly **rejects** knowing on-books cabal minutes; soft spots W1–W14 apply.
 - **§8A.1b information control** = Author mechanism (farm cage / one-way media); radio-tax fear Documented in TIME/Hoover stack (§7); Holodomor “one walker” counterfactual = Author.
 - **Ukraine causal unity** (pogroms→famine→today) = **Author**; do **not** conflate **1918–21** pogrom dates with **1932–33** Holodomor.
+- **Stalin / Holodomor agency** = **Author** lock owned by [Holodomor §2.7–§2.8](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md#27-author-lock--stalin-agency--holodomor-inevitability-under-communism-2026-08-09) — revolution-OS inevitability + chaos-containment agency; **Nationalist tip pattern** (not communist ideologue); Trump camp-divide rhyme on [AU-046 §2.8](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#28-stalin-nationalist-tip--not-communist-ideologue--trump-rhyme-author-lock-2026-08-09). Do **not** reintroduce “Stalin chose expendable peasant death” or “Stalin = communism personified” as this file’s tip.
 - **Titanic→Fed** causation remains **unproven** in the Titanic dossier; cited here as **spine timing**.
 - ***Stayin’ Alive* / NYT lyric:** Documented song text + public Gibb “survival” framing = **A/B**; Depression-history **reception** load = **Author**. Do not claim the Bee Gees authored the AU-047 dossier.
 - **Unrecovered author-memory citations** (census article, “not taken” wording, etc.) stay **Open** — “not found this pass” ≠ “never existed”; CO/bait copies still count as recoverables to log ([§10](#10-questions-to-clarify-verify-or-debunk)).
@@ -425,4 +444,9 @@ Keywords: #GreatDepression #FederalReserve #Census #PopulationControl #Purposefu
 - 2026-08-06: Author rule — unrecovered **remembered** cites stay **Open / still looking**; CO copies still hunt-worthy (AU-047 §10; AU-046 §12).
 - 2026-08-07: §8A off-books epistemology; Ukraine sequence; fishery; Prohibition stub; NN/S.5003 antibody carve; reader article companion.
 - 2026-08-07: §8A.1b **information control** lock (farm cage; letters/radio; Holodomor walker counterfactual; computers restore two-way).
+- 2026-08-09: §8A.3 AAA distinctive price-support-in-hunger vs COVID **PLIP**/CFAP Documented rhyme + EU mink abroad; article + Framing aligned; Q3a locked.
+- 2026-08-09: §8A.2 deeper Holodomor necessity — Rus Horde erasure / vassal split → Marxism “reinvents” communism → late Ukraine cut; reader article aligned.
+- 2026-08-09 (later): **Stalin agency lock** synced from Holodomor §2.7 — famine baked into communist revolution; no stop path inside OS; Stalin available job = contain civil-war chaos; reject absolute-king stop-list; retire cost-acceptance-under-Stalin confusion.
+- 2026-08-09 (later): **Stalin Nationalist tip / Trump rhyme** — Holodomor §2.8 + AU-046 §2.8; soft history communist-personification blindness.
+- 2026-08-09 (later): ***Mein Kampf* cascade lock** — Holodomor §2.9; Western Nazism as communism flavor; pegged Holodomor cause; victory → actual Nazism from without/within; reader article + §8A.2 table updated.
 - Do not commit `.venv/`.
