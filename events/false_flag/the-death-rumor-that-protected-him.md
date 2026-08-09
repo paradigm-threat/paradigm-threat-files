@@ -88,6 +88,10 @@ A photographed handshake with Zelensky at Graham’s funeral does not break the 
 
 If Graham’s own reported death is itself a staged exit, as argued in the [RINO / Graham investigation](https://paradigmthreat.net/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md), then the funeral venue was already inside the envelope. Either way, a managed cathedral corridor is not an uncontrolled audit.
 
+## Sibling pattern — Mojtaba Khamenei (Aug 2026)
+
+This page is about **Netanyahu** controlled visibility. A related but **different** fog sits on Iran’s side of the same war: Supreme Leader **Mojtaba Khamenei** stayed out of live public view for months after succeeding his father, communicated mainly through written messages and intermediaries, drew critical-condition and death rumors, and answered on **August 8, 2026** with a short **undated** Mehr video while advisers (**Velayati**, SNSC) spoke the Hormuz ransom terms. That is **regime command fog / proof-of-life theater**, not the same protective sin-eater package argued here for Bibi. Dated receipts and Black Gate read: [war runner — Aug 8](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md); [Islamabad Installment III](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz).
+
 ## Where next
 
 - [Netanyahu faked-death / controlled-visibility investigation](https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md) — appearance log, staging scores, mid-July *will a meeting into existence* row, Congress falsifier, prediction audit
@@ -95,6 +99,7 @@ If Graham’s own reported death is itself a staged exit, as argued in the [RINO
 - [Ariel Sharon — Gaza, coma, controlled-opposition threads](https://paradigmthreat.net/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) — prior PM pattern
 - [Good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)
 - [Mission Accomplished Again — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)
+- [Islamabad — Black Gate / Hormuz Aug 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz)
 - [JFK Was Never Assassinated](https://paradigmthreat.net/events/jfk/jfk-was-never-assassinated.md)
 
 ## Framing and limits
@@ -113,7 +118,7 @@ Keywords: #Netanyahu #BenzionNetanyahu #Jabotinsky #SinEater #ControlledVisibili
 
 **Substack:** [paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him](https://paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him)
 
-**Last updated:** 2026-08-02
+**Last updated:** 2026-08-09
 
 ---
 

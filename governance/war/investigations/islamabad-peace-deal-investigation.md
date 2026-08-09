@@ -1,8 +1,8 @@
 # Investigation: Islamabad Peace Deal — MOU, Antibody Close, and Islam Awakening Thesis
 
-> **TL;DR:** Citation dossier for [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — follow-up to [*Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md). **Documented:** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**Jun 17, 2026**), 14-point U.S.–Iran MOU, 60-day final-deal window, Hormuz/sanctions framework; **MTG**/hawk **dissent** (press-tier). **Author thesis:** **nobody cares because almost nobody is happy** — universal dissatisfaction as **signature** of real peace vs **old-plan** renewal; **Trump/Bibi sin-eater** dual track; lifetime hinge; **DU sci-fi blind spot** → Iran crisis; antibody close; Islam awakening; Ayatollah proxy collapse; chessboard **Israel backing**; rebuild + unhappy outcomes.
+> **TL;DR:** Citation dossier for [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — follow-up to [*Mission Accomplished (Again)*](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md). **Documented:** [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (**Jun 17, 2026**), 14-point U.S.–Iran MOU, 60-day final-deal window, Hormuz/sanctions framework; **MTG**/hawk **dissent** (press-tier); **Aug 8, 2026** SNSC six conditions / Velayati withdrawal / Iran–Oman lane / Mojtaba video. **Author thesis:** **nobody cares because almost nobody is happy** — universal dissatisfaction as **signature** of real peace vs **old-plan** renewal; **Trump/Bibi sin-eater** dual track; lifetime hinge; **DU sci-fi blind spot** → Iran crisis; antibody close; Islam awakening; Ayatollah proxy collapse; chessboard **Israel backing**; rebuild + unhappy outcomes; **Black Gate / Mouth of Sauron** grammar on Hormuz ransom.
 
-**Last updated:** 2026-06-23  
+**Last updated:** 2026-08-09  
 **Status:** Open — Iran 2026 series Installment III (reader essay + dossier)
 
 **Guide (read order)**
@@ -13,11 +13,12 @@
 3. **Author thesis (media interpretation caution, lifetime hinge)** → §2  
 4. **Author thesis (DU media blind spot, Hiroshima lane)** → §2.1  
 5. **Author thesis (universal dissatisfaction, sin-eater dual track)** → §2.2  
-6. **Islam awakening / divide-and-conquer** → §3  
-7. **Antibody theory (Ellsberg, 9/11, mop-up)** → §4  
-8. **Ayatollah proxy, chessboard, religion read** → §5  
-9. **Claims registry** → §6  
-10. **Cross-references** → §7  
+6. **Documented + author thesis (Aug 8 Black Gate / Hormuz ransom)** → §2.3  
+7. **Islam awakening / divide-and-conquer** → §3  
+8. **Antibody theory (Ellsberg, 9/11, mop-up)** → §4  
+9. **Ayatollah proxy, chessboard, religion read** → §5  
+10. **Claims registry** → §6  
+11. **Cross-references** → §7  
 
 ---
 
@@ -96,6 +97,31 @@
 
 ---
 
+## 2.3 Documented + author thesis — Aug 8 Black Gate / Hormuz ransom
+
+**Label:** Journalism anchors Aug 8, 2026; **Mouth of Sauron / Black Gate** mapping = author fiction-grammar thesis (not prophecy). Canonical prose: [reader essay — Black Gate](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz). Ops spine: [war runner — Aug 8](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md). Thread answer: [Q6](https://paradigmthreat.net/governance/war/qa/q06-black-gate-withdrawal-peace.md).
+
+![Lord of the Rings parallel — Mouth of Sauron at Hormuz — Aug 2026](/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png)
+
+> After the Islamabad **60-day** window, hardliners **repriced** Hormuz reopen as **U.S. force withdrawal forever**, while offering a **side corridor deal** with **Oman** (“regional cooperation”). Unseen/half-seen **Mojtaba** (undated Mehr video vs death rumors) + emissaries **Velayati** / **Zolghadr** match *Return of the King* Black Gate parley grammar: spare the little player, make “peace,” if the army outside the Gate **never returns**. Mirror of Rubio **leave-behind** (May 5, 2026). Does **not** restore pre-Epic Fury missile parity; tests whether Washington trades the antibody close for cheaper oil.
+>
+> **Author extension (desperate hinge):** Book’s **most desperate** moment — neither army knows what to do until Aragorn **refuses and prepares to attack**. Planetary history turns on **one person’s leadership**: **manipulate** it, or the hinge when leadership **resists**; without that moment both sides collapse. Iran’s “strong hand” is a **media/movie inversion** (they’re right / we’re wrong; winning / losing; victory by any means). Behind the Gate: **weak leadership hand** → that army nervous about **real loss**. Outside: army **looked** desperate but had **major air support** and was **underestimated** — Epic Fury air/strike ledger vs ransom theater. Canonical prose: [reader essay — desperate hinge](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-underestimated-air).
+
+**Documented anchors:**
+
+| Item | Source | Tier |
+|------|--------|------|
+| SNSC six conditions (incl. U.S. naval/air withdrawal) | [Tehran Times](https://www.tehrantimes.com/news/528962/Iran-sets-six-conditions-for-reopening-the-Strait-of-Hormuz); [WANA](https://wanaen.com/irans-supreme-national-security-council-sets-six-conditions-for-reopening-the-strait-of-hormuz/) | A — state / agency |
+| Velayati: foreign forces must leave region | [Iran International](https://www.iranintl.com/en/202608088334); [Anadolu](https://www.aa.com.tr/en/middle-east/adviser-to-iran-s-supreme-leader-says-foreign-forces-must-leave-region/4021802) | A — press |
+| Iran–Oman lane deal ≠ full reopen without U.S. terms | [Al Jazeera](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us) | A/B — press |
+| Mehr undated Mojtaba video | [Xinhua](https://english.news.cn/20260808/f533dd79b77e4eb39f31e7a3ca38a298/c.html) | A — agency; B on health inference |
+| Critical/death rumors vs regime “full health” | Prior Iran International / Independent / opposition lanes | C — rumor; B — denial |
+| Black Gate / Mouth of Sauron mapping | Reader essay § Black Gate; war runner Aug snapshot | Author thesis |
+| Desperate hinge: leadership refuse / media inversion / underestimated air | Reader essay § desperate hinge; war runner Aug snapshot | Author thesis |
+| Rubio leave-behind as refusal criterion | [Rev 5/05/26](https://www.rev.com/transcripts/white-house-press-briefing-on-5-05-26); [Mission Accomplished](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) | A quote; author refusal read |
+
+---
+
 ## 3. Author thesis — Islam awakening and divide-and-conquer
 
 **Label:** Author thesis — speculative.
@@ -155,6 +181,10 @@
 25. **Trump/Bibi sin-eater dual track** — §2.2; [war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md).  
 26. MTG / hawk dissent on MOU — §2.2 — **press-tier**; **$300B disputed**.  
 27. Cross-ideological contradictions (MTG vs Trump; Israel vs ceasefire) — §2.2 — **author synthesis**.  
+28. SNSC six conditions / Velayati withdrawal / Oman lane / Mojtaba video (**Aug 8, 2026**) — §2.3 — **journalism-tier**.  
+29. **Black Gate / Mouth of Sauron** Hormuz ransom grammar — §2.3 — **author fiction-grammar**; [reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz).  
+30. Aug ransom as attempted **rollback** of leave-behind / antibody close — §2.3; [good-actor](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).  
+31. **Desperate hinge** — Aragorn refuse/attack; leadership manipulate vs resist; media inversion of who is winning; weak Gate leadership; underestimated air — §2.3 — **author thesis**.  
 
 ---
 
@@ -162,12 +192,13 @@
 
 | Doc | Relevance |
 |-----|-----------|
-| [Islamabad reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) | Installment III |
+| [Islamabad reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) | Installment III + Black Gate |
+| [Q6 — peace if America leaves](https://paradigmthreat.net/governance/war/qa/q06-black-gate-withdrawal-peace.md) | Thread debunk |
 | [Substack — The Peace Deal Nobody Cares About](https://open.substack.com/pub/paradigmthreat2/p/the-peace-deal-nobody-cares-about?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) | Reader republish |
 | [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) | Installment II |
-| [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) | MOU timeline |
+| [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) | MOU timeline + Aug 8 |
 | [Good-actor / antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | 80-year arc |
-| [CIA investigation](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md) | Iran pipeline, DU, MOU extension |
+| [CIA investigation](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md) | Iran pipeline, DU, MOU extension, Aug withdrawal-as-peace |
 | [Nukes half-hoax — flash myth vs DU](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) | Hiroshima DU / half-hoax author read |
 | [Nuke waste is safe — Winsor](https://paradigmthreat.net/science/nukes/investigations/nuke-waste-is-safe-investigation.md) | Enriched/depleted, DU harm |
 | [Marie Curie radiation narrative](https://paradigmthreat.net/science/nukes/investigations/marie-curie-radiation-cures-suppression-speculation.md) | Post-war fear monopoly |
@@ -177,9 +208,9 @@
 
 ## Limits and disclaimers
 
-**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md). MOU facts are **journalism-tier**. **MTG**/hawk reactions **press-tier**; **$300B reconstruction** **disputed**. Antibody, religious, civilizational, **universal dissatisfaction**, **sin-eater dual track**, **old-plan upheaval**, **Hiroshima DU**, and **Western DU cover-up → Iran** claims are **author thesis** — not legal, theological, oncology, or genocide-law advice. **DU health causation** is **disputed** (WHO/NATO vs RT/IWPR/regional reporting). **RT** citations are **alternate-press** survivor/oncology lanes — **not** independent verification of author Hiroshima read. **9/11 good-actor** read is **contested** in mainstream history. **Israeli nuclear** status **undeclared**. **Armenian genocide** terminology disputed by some governments.
+**Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md). MOU facts are **journalism-tier**. **MTG**/hawk reactions **press-tier**; **$300B reconstruction** **disputed**. **Aug 8** SNSC/Velayati/Oman/Mojtaba video anchors are **journalism-tier**; **Black Gate** mapping is **author fiction-grammar**, not evidence Tolkien encoded Hormuz. Antibody, religious, civilizational, **universal dissatisfaction**, **sin-eater dual track**, **old-plan upheaval**, **Hiroshima DU**, and **Western DU cover-up → Iran** claims are **author thesis** — not legal, theological, oncology, or genocide-law advice. **DU health causation** is **disputed** (WHO/NATO vs RT/IWPR/regional reporting). **RT** citations are **alternate-press** survivor/oncology lanes — **not** independent verification of author Hiroshima read. **9/11 good-actor** read is **contested** in mainstream history. **Israeli nuclear** status **undeclared**. **Armenian genocide** terminology disputed by some governments.
 
-Keywords: #IslamabadMemorandum #Iran2026 #AntibodyTheory #DepletedUranium #DivideAndConquer #Ayatollah #GoodActor #ParadigmThreatFiles
+Keywords: #IslamabadMemorandum #Iran2026 #AntibodyTheory #DepletedUranium #DivideAndConquer #Ayatollah #GoodActor #BlackGate #Hormuz #ParadigmThreatFiles
 
 ---
 

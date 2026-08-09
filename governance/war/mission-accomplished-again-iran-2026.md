@@ -136,7 +136,7 @@ This article does not adjudicate every clip. It names the pressure: **when attri
 
 ## Where the war is today
 
-The operational spine is written as a living runner: **28 February 2026** as the public start of **Operation Epic Fury**, **June 2025** as the legal and material prequel, and May **2026** as **war by other means**—Hormuz, mines, blockade politics, and a negotiation track that can look dead while guns stay mostly cold.
+The operational spine is written as a living runner: **28 February 2026** as the public start of **Operation Epic Fury**, **June 2025** as the legal and material prequel, **June 17** as the [Islamabad MOU](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) hinge, and **August 8–9, 2026** as the next dual-meter week — Hormuz still the lever, with hardliners pricing reopen as **U.S. withdrawal forever**.
 
 [Iran war runner — timeline, dual track, and current state](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md)
 
@@ -148,11 +148,23 @@ The operational spine is written as a living runner: **28 February 2026** as the
 
 On the facts that runner emphasizes: the **heavy strike phase** largely paused after the **7–8 April** ceasefire window; what remains is **not** June **2025**-scale missile exchange into Israeli cities—it is **strait leverage**, **HEU custody politics**, and the **Lebanon seam** where Israeli security doctrine refuses to pretend Tehran is “only” a file on a desk. The same week can include a **brokered pause** language in one headline and a **Lebanon wave** in another; the runner reads that as **dual track**, not as proof that nobody is in control.
 
+**August 8, 2026** sharpened that remaining fight. Iran’s Supreme National Security Council published **six conditions** for fully reopening Hormuz — including an end to attacks on Iran and its allies, reparations, sanctions relief, unfrozen assets, and **withdrawal of U.S. naval and air forces from around Iran**. Ali Akbar Velayati, adviser to the Supreme Leader, said foreign forces must leave the region. The same day, outlets reported an **Iran–Oman** shipping-lane arrangement as nearly done, while IRGC and Foreign Minister Araghchi insisted that mini-deal is **not** a full reopen without Washington’s concessions. Mehr also dropped a short, **undated** video of **Mojtaba Khamenei** — first public video since succession — against a week of critical-condition and death rumors. I read that stack as Mouth-of-Sauron grammar: an unseen or half-seen power behind the wall, a side offer to a smaller regional player, and “peace” priced as the vast army outside the Gate leaving forever. That bargain is the mirror of Secretary Rubio’s May 5 *leave-behind* line above — the world a nuclear-Hormuz Iran wants after the external army exits.
+
+In the book this is the **most desperate** moment: nobody in either army knows what to do until Aragorn **refuses the deal and prepares to attack**. Planetary history, on this read, keeps turning on **one person’s leadership** — on **manipulating** that leadership, or on the hinge when leadership **resists**. Iran only **seems** to hold a strong hand because media (and even movies) trained audiences that they were right and we were wrong, winning while we lost, victory by any means. Behind the Gate the leadership hand is **weak**, and that side’s army grows nervous about a **real loss**. The army outside looked desperate; in the story it had **air support in a major way** and was **underestimated**. Same analogy for the live board: ransom theater versus the strike/air ledger already banked.
+
+![Lord of the Rings parallel — Mouth of Sauron at Hormuz — Aug 2026 — peace priced as withdrawal](https://paradigmthreat.net/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png)
+
+Full prose: [Installment III — Black Gate](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz); [war runner — Aug 8](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md).
+
 The **Minab** school strike sits in the runner as a **contested attribution** node: high reported casualties, **U.S. and Israeli denials**, and the usual fog of **who benefits from which camera angle**. This article does not settle the docket; it marks the seam where **lawfare** meets **open-source certainty culture**.
 
 [Gulf News — dual blockade, Hormuz shipping and diplomacy (May 2026)](https://gulfnews.com/world/mena/no-deal-no-passage-dual-blockade-deadlock-rocks-global-shipping-diplomacy-1.500534796)
 
 [Gulf News — U.S. intel vs “decimated” claims, Hormuz missile risk (May 2026)](https://gulfnews.com/world/mena/trump-said-iran-s-military-was-decimated-us-intel-says-missile-threat-to-hormuz-remains-1.500539059)
+
+[Iran International — Velayati calls for foreign forces to leave (Aug 8, 2026)](https://www.iranintl.com/en/202608088334)
+
+[Tehran Times — SNSC six conditions for Hormuz (Aug 8, 2026)](https://www.tehrantimes.com/news/528962/Iran-sets-six-conditions-for-reopening-the-Strait-of-Hormuz)
 
 ## Iraq echoes
 
@@ -188,8 +200,8 @@ The West is not one nervous system; that is why one week looked like two differe
 
 ## Where next
 
-- [The Peace Deal Nobody Cares About — Islamabad MOU, antibody close, Jun 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **Installment III:** media silence, lifetime hinge, Islam awakening thesis, chessboard  
-- [Iran 2026 war Q&A — mainstream / anti-Trump framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — social-thread objections (anonymized): two scoreboards, MOU vs military unwind, long CIA file  
+- [The Peace Deal Nobody Cares About — Islamabad MOU, antibody close, Jun 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **Installment III:** media silence, lifetime hinge, Islam awakening thesis, chessboard; **[Black Gate / Aug 8 Hormuz ransom](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz)**  
+- [Iran 2026 war Q&A — mainstream / anti-Trump framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — social-thread objections (anonymized): two scoreboards, MOU vs military unwind, long CIA file; **[Q6 — “peace if America leaves”](https://paradigmthreat.net/governance/war/qa/q06-black-gate-withdrawal-peace.md)**  
 - [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) — dated operational spine and dual-track read
 - [CIA investigation — Iran endgame script](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) — evidence tiers and long thesis
 - [Iran 2026 propaganda thesis — Minab school counter-narrative](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md) — attribution problem stated as a live hypothesis
@@ -203,13 +215,13 @@ The West is not one nervous system; that is why one week looked like two differe
 
 **Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
 
-The opening **MI6 / CIA / two nuclear poles** paragraph is a **thesis ladder**, not a courtroom verdict. The **chessboard** section is **synthesis**. The **headline lists** are **journalism citations**, not proof the administration is honest or dishonest on every sub-line. The **coda** is **explicitly personal** and includes an **interpretive** **geopolitical** read (**Berlin partition**, **Cold War geography**, **east-of-the-wall → Ukraine arc**) that is **not** mainstream-consensus history. The closing Coda grafs on Iran 2026, the West split, **U.S. military-learning read versus marquee “enemy of the world / mankind” caption**, and the narrowed “enemy” definition are author opinion and synthesis—they rhyme with earlier sections but do not introduce new primary evidence. The **Iraq / Libya / Iran comparative-motive** block in **Iraq echoes** is **author opinion**—it **cross-reads** dossiers on **Libya gold** and **fiat** but does **not** restage **Iraq** **ordnance** **chains** here. The dossier carries what this page deliberately refuses to paste: long tables, FOIA chains, and the full **Limits** stack. The **Gulf News** links are **regional reporting** on Hormuz economics and diplomacy in the May window—useful for **dating claims** about blockades and market stress, not a substitute for primary military releases.
+The opening **MI6 / CIA / two nuclear poles** paragraph is a **thesis ladder**, not a courtroom verdict. The **chessboard** section is **synthesis**. The **headline lists** are **journalism citations**, not proof the administration is honest or dishonest on every sub-line. The **coda** is **explicitly personal** and includes an **interpretive** **geopolitical** read (**Berlin partition**, **Cold War geography**, **east-of-the-wall → Ukraine arc**) that is **not** mainstream-consensus history. The closing Coda grafs on Iran 2026, the West split, **U.S. military-learning read versus marquee “enemy of the world / mankind” caption**, and the narrowed “enemy” definition are author opinion and synthesis—they rhyme with earlier sections but do not introduce new primary evidence. The **Iraq / Libya / Iran comparative-motive** block in **Iraq echoes** is **author opinion**—it **cross-reads** dossiers on **Libya gold** and **fiat** but does **not** restage **Iraq** **ordnance** **chains** here. The **August 2026 Black Gate / Mouth of Sauron** mapping is **fiction-grammar** synthesis against dated press (SNSC six conditions, Velayati, Oman lane talks, Mojtaba video) — **not** a claim Tolkien prophesied Hormuz. The **desperate hinge** (refuse-and-attack leadership; media inversion of who is winning; weak Gate command; underestimated air) is the same class of author thesis. The dossier carries what this page deliberately refuses to paste: long tables, FOIA chains, and the full **Limits** stack. The **Gulf News** links are **regional reporting** on Hormuz economics and diplomacy in the May window—useful for **dating claims** about blockades and market stress, not a substitute for primary military releases.
 
-Keywords: #IranWar #MissionAccomplished #EpicFury #MediaBias #Cia #Mi6 #NuclearMonopoly #ParadigmThreat
+Keywords: #IranWar #MissionAccomplished #EpicFury #MediaBias #Cia #Mi6 #NuclearMonopoly #Hormuz #BlackGate #ParadigmThreat
 
 **Substack:** [paradigmthreat2.substack.com/p/mission-accomplished-again-what-the](https://paradigmthreat2.substack.com/p/mission-accomplished-again-what-the)
 
-**Last updated:** 2026-07-19
+**Last updated:** 2026-08-09
 
 ---
 

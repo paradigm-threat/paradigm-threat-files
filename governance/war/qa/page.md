@@ -4,7 +4,7 @@
 
 **Site stance (nuclear / DU):** **Half-hoax** — Hollywood flash-for-miles myth vs real **depleted uranium**. Not “atomic bombs are fake.” Hub: [science/nukes](https://paradigmthreat.net/science/nukes/) · fatwa/DU: [CIA §IV](../investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat) · DU blind spot: [Islamabad Installment III](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md).
 
-**Status:** Living — sourced from Facebook / thread comments, spring–summer 2026.  
+**Status:** Living — sourced from Facebook / thread comments, spring–summer 2026 (incl. Aug Hormuz / withdrawal stack).  
 **Parent article:** [Mission Accomplished (Again): Iran, 2026](../mission-accomplished-again-iran-2026.md)  
 **Ops spine:** [Iran war runner](../investigations/iran-2026-war-runner.md)  
 **Long CIA lane:** [CIA investigation — §IV Iran endgame](../investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script)
@@ -37,6 +37,7 @@ When a comment is **strictly anti-Trump** (personality, “troll president,” m
 | Q3 | Strait, sanctions, $300B, “they keep the uranium” | [q03-mou-strait-sanctions-uranium.md](./q03-mou-strait-sanctions-uranium.md) |
 | Q4 | “Oil and Bibi” as the only motive | [q04-israel-bibi-oil-single-motive.md](./q04-israel-bibi-oil-single-motive.md) |
 | Q5 | Mainstream media: two meters, long lie | [q05-mainstream-packaging-long-file.md](./q05-mainstream-packaging-long-file.md) |
+| Q6 | “Peace if America leaves forever” / Black Gate ransom | [q06-black-gate-withdrawal-peace.md](./q06-black-gate-withdrawal-peace.md) |
 
 **Registry (no standalone file):** ad hominem dismissals (“comment when high,” etc.) — no substantive claim to debunk; ignore or one-line boundary.
 

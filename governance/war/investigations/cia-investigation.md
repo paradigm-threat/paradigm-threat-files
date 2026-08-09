@@ -105,6 +105,14 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 **Tier:** Author geopolitical read — MOU signing is **Tier A** (NBC, AP, CNN); WWII equivalence and DU/fatwa mechanism are **author thesis**, not proven by MOU text.
 
+### Author extension (Aug 2026): withdrawal-as-peace / Black Gate grammar
+
+**Label:** Author thesis — tied to **documented** Aug 8, 2026 press (SNSC six conditions, Velayati, Iran–Oman lane talks, Mehr Mojtaba video).
+
+> The Iran endgame’s **public face** after the Islamabad hinge is not only enrichment debate. It is **withdrawal-as-peace**: emissaries offer regional corridor deals while pricing full Hormuz reopen on **U.S. forces leaving the region forever**. That is the **leave-behind** world inverted into a bargaining chip — close enough to *Return of the King* Black Gate parley grammar to name, not to prove prophecy. **Author hinge:** book’s most desperate moment until leadership **refuses and prepares to attack**; history as manipulate-leadership vs resist; Iran’s “strong hand” as **media/movie inversion**; weak Gate command vs **underestimated air** outside. Cross: [Islamabad §2.3](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation.md); [Installment III Black Gate](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz); [war runner Aug 8](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md); Rubio May 5 leave-behind in [Mission Accomplished](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md).
+
+**Tier:** Aug 8 statements **Tier A/B** journalism; Tolkien mapping and antibody-rollback read **author thesis**.
+
 ---
 
 ## V. Post-9/11 Crises: Tracing Back to the CIA

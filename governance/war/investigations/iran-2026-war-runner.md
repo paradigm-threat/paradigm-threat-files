@@ -1,7 +1,7 @@
 # Iran War Runner — Timeline, Dual Track, and Current State
 
-**As of:** 22 June 2026  
-**Status:** Living runner. Primary sources: U.S. White House, State Department, CENTCOM, Trump direct statements; **Islamabad MOU** (Jun 17, 2026); cross-checked against ISW/CRS where noted.
+**As of:** 9 August 2026  
+**Status:** Living runner. Primary sources: U.S. White House, State Department, CENTCOM, Trump direct statements; **Islamabad MOU** (Jun 17, 2026); **Aug 8 Hormuz / withdrawal stack** (SNSC six conditions, Velayati, Iran–Oman lane talks, Mojtaba proof-of-life video); cross-checked against ISW/CRS where noted.
 
 **Site stance (nuclear / DU):** **Half-hoax** — Hollywood flash-for-miles myth vs real **depleted uranium** harm / latency. Not “nukes don’t exist.” Author correction (2026-07-19) and read order: [science/nukes hub](/science/nukes/page.md) · [half-hoax dossier](/science/nukes/investigations/nukes-dont-exist-investigation.md) · [CIA fatwa/DU](/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat) · [Islamabad DU blind spot](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md).
 
@@ -32,7 +32,17 @@ The [State Department](https://www.state.gov/releases/office-of-the-legal-advise
 
 ---
 
-## Executive snapshot — 22 June 2026 (post–Islamabad MOU)
+## Executive snapshot — 9 August 2026 (Black Gate / Hormuz ransom week)
+
+- **Aug 8 stack (same day):** (1) SNSC secretary **Mohammad Bagher Zolghadr** lists **six conditions** before Hormuz fully reopens — end threats/insults; permanent end of attacks on Iran and allies (Lebanon, Palestine, Yemen, Iraq); **lift naval blockade + withdraw U.S. naval and air forces from around Iran**; reparations for “two imposed wars”; lift sanctions; unconditionally release frozen assets ([Tehran Times](https://www.tehrantimes.com/news/528962/Iran-sets-six-conditions-for-reopening-the-Strait-of-Hormuz); [WANA](https://wanaen.com/irans-supreme-national-security-council-sets-six-conditions-for-reopening-the-strait-of-hormuz/)). (2) Leader adviser **Ali Akbar Velayati**: foreign forces must leave the region; U.S./Israel “defeat” proves they are the “main cause of insecurity” ([Iran International](https://www.iranintl.com/en/202608088334); [Anadolu](https://www.aa.com.tr/en/middle-east/adviser-to-iran-s-supreme-leader-says-foreign-forces-must-leave-region/4021802)). (3) **Iran–Oman** Hormuz lane arrangement reported **very close** / coordinates agreed — IRGC/Araghchi insist **Oman deal ≠ full reopen** without U.S. concessions ([Al Jazeera](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us)). (4) Mehr drops short **undated video** of Supreme Leader **Mojtaba Khamenei** — first public video since succession; timed against critical-condition / death rumors ([Xinhua](https://english.news.cn/20260808/f533dd79b77e4eb39f31e7a3ca38a298/c.html)).
+- **Project read — Mouth of Sauron grammar:** Unseen (or half-seen) power behind the wall; emissaries offer a **side deal with a smaller regional player** (Oman shipping lanes / “regional cooperation”) while the **real ransom** is that the **vast standing army outside the Gate** (U.S. naval–air posture) **disbands and never returns**. Fiction rhyme: *Return of the King* Black Gate parley — not prophecy; see [Installment III — Black Gate coda](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz). Mirror of Rubio **leave-behind** (May 5, 2026): Tehran’s demand is the world he named ([Mission Accomplished](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)).
+- **Desperate hinge / leadership (author):** Book’s **most desperate** moment — neither army knows what to do until Aragorn **refuses and prepares to attack**. History as **manipulate leadership** vs **leadership resists**; without that hinge both sides collapse. Iran’s “strong hand” is largely a **media/movie inversion** (they’re winning / we’re losing); behind the Gate the leadership hand is **weak**, making that army nervous about **real loss**. Gate army **looked** desperate; had **major air support** and was **underestimated** — maps to banked Epic Fury air/strike ledger vs ransom theater.
+- **Board vs June:** Conventional strike campaign still **banked**; live fight remains **Hormuz leverage + latency + who writes peace**. Aug 8 is hardliner **reprice** of the Islamabad exit — not proof the pre-2026 holy-war script is restored.
+- **U.S. meter (same week):** Officials still float short ceasefire / Hormuz reopen timelines (Bessent-class reporting in Iran International stack); dual meters continue.
+
+![Lord of the Rings parallel — Mouth of Sauron at Hormuz — Aug 2026 — peace priced as withdrawal](https://paradigmthreat.net/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png)
+
+### Prior snapshot — 22 June 2026 (post–Islamabad MOU)
 
 - **Jun 17, 2026 — [Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) signed:** Trump and Pezeshkian sign **14-point MOU** — immediate/permanent **termination of military operations** on all fronts (incl. Lebanon); **60-day** window (extendable) for **final peace treaty** + **UNSC** endorsement; Hormuz reopening framework; U.S. sanctions easing and **naval blockade** lift schedule ([NBC](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513), [AP MOU text](https://apnews.com/article/mou-transcript-iran-us-war-8576fbe2be1309977e903463fbf57ee6), [CNN text](https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl)).
 - **Not final peace:** Technical talks on nuclear stockpile, Hormuz administration, Lebanon, and frozen assets **ongoing**; Trump warned U.S. may **resume bombing** if dissatisfied.
@@ -226,6 +236,18 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 **Read:** Iran negotiates **everything but nukes** because **nukes are the only sovereignty left**; U.S. negotiates because **conventional war goals are already banked** — MOU **codifies** that asymmetry while **final treaty** remains open.
 
+### 8 August 2026 — Hormuz ransom / Mouth of Sauron day
+
+| Item | Detail | Tier |
+|------|--------|------|
+| **SNSC six conditions** | Zolghadr: Hormuz closed until U.S. “corrects behavior”; includes **force withdrawal** from around Iran, reparations, sanctions, assets | A — Tehran Times, WANA, Reuters-tier Western rewrite |
+| **Velayati** | Adviser to Supreme Leader: foreign forces must leave region | A — Iran International, Anadolu, Press TV |
+| **Iran–Oman lane deal** | Shipping coordinates / dual-lane framework “very close”; **not** full reopen without U.S. terms (Araghchi, IRGC) | A/B — Al Jazeera, Tasnim via trade press |
+| **Mojtaba video** | Mehr Telegram clip (~13s), undated; first video since March succession; location withheld | A — Xinhua / Mehr; **B** on health inference |
+| **Death/critical rumors** | Israeli/opposition + prior Trump “90% gone” lane; regime “full health” counter | C — rumor; B — official denial |
+
+**Project read:** Same asymmetry as May–June — Iran still trading **Hormuz and force posture**, not enrichment surrender. New packaging: **regional mini-deal** (Oman) + **global ransom** (U.S. leave forever). Fiction grammar cross-read only: [Installment III Black Gate](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz).
+
 ---
 
 ## MSM frames to reject
@@ -234,21 +256,24 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 |-------|----------|
 | Trump as **rogue CEO / Homelander** | Documented **ceasefire after objectives**, **paused** escalations for talks, **Congress-notified** legal theory |
 | **No plan** | Epic Fury phased objectives; June 2025 **rehearsal** |
-| **Iran winning Hormuz** | **Stalemate** — escorts, destroyer transits, seizures **both ways** |
+| **Iran winning Hormuz** | **Stalemate** — escorts, destroyer transits, seizures **both ways**; Aug **six conditions** are **diplomatic sabotage**, not restored missile parity |
 | **Universal knowledge U.S. failed** | **Global split**; pro-West **still on nuclear-threat script** |
 | **Israel dragged U.S. into quagmire** | **Dual track** with **shared nuclear-red-line** goal |
+| **“Peace if America leaves” is reasonable** | That bargain **is** Rubio’s *leave-behind* world — nuclear/Hormuz blackmail after the external army exits ([Mission Accomplished — Rubio cite](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)); Aragorn-class **refusal** is the hinge |
+| **Iran’s strong hand / U.S. lost** | Often **media/movie inversion**; Gate leadership **weak**/nervous; outside army **underestimated** (air/strike ledger already banked) — [Black Gate desperate hinge](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-underestimated-air) |
+| **Mojtaba video proves full command** | Undated clip ≠ live command audit; absence still useful as **command fog** |
 
 ---
 
 ## Open threads
 
-1. **Final peace treaty** — **60-day** MOU clock (from **17 Jun 2026**); UNSC resolution; implementation of paras 1, 4, 5, 10, 11 gating further talks (AP text).
+1. **Final peace treaty / MOU clock** — original **60-day** window from **17 Jun 2026** is past; track extensions, Hormuz implementation, and whether Aug **six conditions** replace or inflate June paras (AP text).
 2. **HEU location** — ready for **forced extraction** or already moved?
-2. **Mine maps** — will Iran **trade coordinates** for deal, or **ambiguous denial** forever?
-3. **Mojtaba succession** — **reasonable regime** Trump tweets about, or **IRGC forever**?
-4. **Minab attribution** — forensic proof of **pre-planned narrative** strike?
-5. **Lebanon talks (14–15 May Washington)** — separate peace or **spoiler** for U.S.–Iran lane?
-6. **China trip** — deal **before** or **bombing resume** after?
+3. **Mine maps / Oman lanes** — will Iran **trade coordinates** for a corridor deal, or keep **ambiguous denial** while pricing **U.S. withdrawal** as reopen condition?
+4. **Mojtaba** — **alive enough to be useful as absence** (written messages, undated video, intermediaries) vs IRGC ventriloquism vs genuine recovery; not a clean “dead/alive” boolean.
+5. **Minab attribution** — forensic proof of **pre-planned narrative** strike?
+6. **Lebanon** — still dual-track spoiler risk for any U.S.–Iran “all fronts” language.
+7. **Black Gate refusal** — will Washington treat Velayati/Zolghadr terms as **surrender dressed as mercy**, or trade posture for a short Hormuz reopen that **reopens** leave-behind geometry?
 
 ---
 
@@ -264,6 +289,10 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 ## References (primary / official first)
 
+- [Iran International — Velayati: foreign forces must leave region](https://www.iranintl.com/en/202608088334) (Aug 8, 2026)
+- [Tehran Times — SNSC six conditions for Hormuz](https://www.tehrantimes.com/news/528962/Iran-sets-six-conditions-for-reopening-the-Strait-of-Hormuz) (Aug 8, 2026)
+- [Al Jazeera — Iran–Oman Hormuz arrangement vs U.S. conditions](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us) (Aug 8, 2026)
+- [Xinhua — Mehr video of Mojtaba Khamenei](https://english.news.cn/20260808/f533dd79b77e4eb39f31e7a3ca38a298/c.html) (Aug 8, 2026)
 - [Islamabad Memorandum — Wikipedia](https://en.wikipedia.org/wiki/Islamabad_Memorandum) (Jun 17, 2026)
 - [NBC: Trump and Pezeshkian sign MOU](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513) (Jun 17, 2026)
 - [AP: MOU transcript](https://apnews.com/article/mou-transcript-iran-us-war-8576fbe2be1309977e903463fbf57ee6) (Jun 17, 2026)
@@ -283,4 +312,4 @@ Use **U.S. official KIA** and **Israeli Home Front** totals for **Western-facing
 
 ---
 
-Keywords: #Iran #Israel #EpicFury #Trump #Netanyahu #2026 #Runner #NuclearMonopoly #Hormuz #DualTrack
+Keywords: #Iran #Israel #EpicFury #Trump #Netanyahu #2026 #Runner #NuclearMonopoly #Hormuz #DualTrack #BlackGate #MouthOfSauron #Oman #Mojtaba #Velayati
