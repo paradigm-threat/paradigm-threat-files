@@ -8,11 +8,11 @@
 
 ## Newly published and expanded reader articles
 
-- [The Circle of Life and How It Began](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began) — expanded with a planet-scale cycle section (faster cyclical creation framing), updated media placement, and companion investigation linkage.
-- [The Cure for Cancer](https://paradigmthreat.net/science/biology/the-cure-for-cancer) — long-form biology thesis pass with image support and tighter structure around treatment-model critique.
-- [Success — by any means necessary](https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary) — new reader essay plus follow-on edits clarifying leadership ethics, moderation boundaries, and practical framing.
-- [What are you waiting for?](https://paradigmthreat.net/influence/controlled_opposition/what-are-you-waiting-for) — new essay and subsequent revisions to chronology alignment, prophecy handling, and closing tone.
-- [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger) — remained the core bridge article for Mars/PP work while companion investigations were expanded.
+- [The Circle of Life and How It Began](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began) — expanded with a planet-scale cycle section (faster cyclical creation framing), updated media placement, and companion investigation linkage.
+- [The Cure for Cancer](https://paradigmthreat2.substack.com/p/the-cure-for-cancer) — long-form biology thesis pass with image support and tighter structure around treatment-model critique.
+- [Success — by any means necessary](https://paradigmthreat2.substack.com/p/success-by-any-means-necessary) — new reader essay plus follow-on edits clarifying leadership ethics, moderation boundaries, and practical framing.
+- [What are you waiting for?](https://paradigmthreat2.substack.com/p/what-are-you-waiting-for) — new essay and subsequent revisions to chronology alignment, prophecy handling, and closing tone.
+- [Was Chrono Trigger’s plot based on a 1984 CIA Mars remote viewing session?](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on) — remained the core bridge article for Mars/PP work while companion investigations were expanded.
 
 ---
 

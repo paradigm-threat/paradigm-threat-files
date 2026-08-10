@@ -6,16 +6,21 @@ Blog posts live in `blog/` and follow the naming convention `YYYY-MM-DD-slug.md`
 
 **The rules below apply only to files in `blog/`.** Other content (e.g. `influence/`) may use relative paths.
 
+**Prefer Substack for published reader essays.** When an article has a Substack mirror (`**Substack:**` footer or `paradigmthreat2.substack.com/p/...`), blog posts should link the **Substack URL** as the public / final link. The files-repo / `paradigmthreat.net` copy is a living draft and may be revised without a Substack republish — do not treat the site path as the canonical public citation for shipped essays.
+
 **In blog files, use fully absolute URLs:**
 
-- **Links:** `https://paradigmthreat.net/path/to/article`
-- **Images:** `https://paradigmthreat.net/media/...` or `https://paradigmthreat.net/path/to/image.png`
+- **Published essays (preferred):** `https://paradigmthreat2.substack.com/p/...` (normalize away `open.substack.com/pub/...` and tracking query strings)
+- **Investigations, hubs, docs, infra, search, timeline events (no Substack mirror):** `https://paradigmthreat.net/path/to/...`
+- **Images / media:** always `https://paradigmthreat.net/...` (heroes, screenshots, timeline art)
 
 Do **not** use in blog files:
 - Relative paths (`../influence/...`, `./image.png`)
 - Root-relative paths (`/influence/...`) — use `https://paradigmthreat.net/influence/...` instead
 
-This ensures links work when blog posts are viewed in GitHub, RSS, or any context.
+Optional: after a Substack title link, a short “repo draft” pointer to `https://paradigmthreat.net/...` is fine when readers need the living file; do not duplicate the same Substack URL as both “Substack” and “On-site.”
+
+This ensures links work when blog posts are viewed in GitHub, RSS, or any context, and that public essay citations stay on the newsletter record.
 
 **Site path map (files repo at URL root):** See [`docs/LINKING_AND_SITE_PATHS.md`](LINKING_AND_SITE_PATHS.md) — how `paradigmthreat.net` serves this repository and when to use root-relative vs absolute URLs outside `blog/`.
 
@@ -45,13 +50,13 @@ Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. Aft
    ```
 2. **List items after the cutoff** — parse `pubDate` on each `<item>`; include every post whose calendar date is **after** `PREV` (the previous blog filename date).
 3. **In the draft**, add a **Substack published** subsection (under the opening summary or as its own H2) listing **each** post with:
-   - **Title** linked to the Substack URL (`https://paradigmthreat2.substack.com/p/...`)
+   - **Title** linked to the **Substack URL** (`https://paradigmthreat2.substack.com/p/...`) — this is the **preferred public link**
    - **Publication date**
-   - **One to three sentences** of context: thesis, on-site mirror URL (`https://paradigmthreat.net/...`), companion investigation if any
+   - **One to three sentences** of context: thesis; optional **repo draft** URL (`https://paradigmthreat.net/...`) when useful; companion investigation if any (investigations usually stay on paradigmthreat.net unless they have their own Substack investigation post)
    - **Hero image** (`https://paradigmthreat.net/...`) when the mirrored article has lead art
 4. **Cross-check git** — every Substack flagship should map to a files-repo article (or note if Substack-only / external, e.g. snesology.net satire). If git landed an article **before** Substack went live, mention both dates when they differ.
 
-Do **not** skip Substack because git already lists the markdown path—the newsletter is the reader-facing publish event many subscribers saw first.
+Do **not** skip Substack because git already lists the markdown path—the newsletter is the reader-facing publish event many subscribers saw first. Do **not** prefer `paradigmthreat.net` essay URLs over Substack when a mirror exists; the repo copy can change without a republish.
 
 ### Git history (required before drafting)
 
