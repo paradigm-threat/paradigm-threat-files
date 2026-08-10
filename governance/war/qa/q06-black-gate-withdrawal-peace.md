@@ -14,7 +14,7 @@ Iran is offering peace. An adviser to the Supreme Leader says foreign forces mus
 - **Oman lane talks ≠ full Hormuz reopen** — Araghchi/IRGC say the mini-deal does not reopen without U.S. concessions ([Al Jazeera Aug 8](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us)).
 - SNSC **six conditions** explicitly include **U.S. force withdrawal** from around Iran plus Axis-of-Resistance ceasefire language ([Tehran Times](https://www.tehrantimes.com/news/528962/Iran-sets-six-conditions-for-reopening-the-Strait-of-Hormuz)).
 - Rubio’s May 5 line names the **post-withdrawal** board: nuclear Iran closes the strait and dares the world ([Mission Accomplished — Rubio](../mission-accomplished-again-iran-2026.md)).
-- Fiction grammar (optional): Mouth of Sauron at the Black Gate — spare the little player, make “peace,” if the army outside **never returns** ([Installment III](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz)).
+- Fiction grammar (optional): Mouth of Sauron at the Black Gate — spare the little player, make “peace,” if the army outside **never returns**; the enemy also **overlooks the protagonists’ air support** (Eagles in the book / banked Epic Fury air on the live board) ([Installment III](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz)).
 
 ## Response
 
@@ -30,9 +30,9 @@ Treat “peace if you leave forever” as **one scoreboard** — the **ransom bo
 
 4. **Mojtaba proof-of-life video** the same week does not settle enrichment or Hormuz. It settles rumor management while intermediaries speak for an unseen command.
 
-5. **Black Gate hinge (author):** This is the book’s **most desperate** moment — neither army knows what to do until leadership **refuses the deal and prepares to attack**. History turns on manipulating that leadership or on the moment it **resists**; without it both sides collapse. Iran’s “strong hand” is largely **media/movie training** that they were right and we were wrong. Behind the Gate the leadership hand is **weak** (nervous army). Outside, the desperate-looking force had **major air support** and was **underestimated** — banked Epic Fury air/strike ledger vs ransom theater ([Installment III — desperate hinge](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-underestimated-air)).
+5. **Black Gate hinge (author):** This is the book’s **most desperate** moment — neither army knows what to do until leadership **refuses the deal and prepares to attack**. History turns on manipulating that leadership or on the moment it **resists**; without it both sides collapse. Iran’s “strong hand” is largely **media/movie training** that they were right and we were wrong. Behind the Gate the leadership hand is **weak** (nervous army). Outside, the force **looked** desperate while the enemy **overlooked** major **air support** — the **Eagles** in the book; the banked Epic Fury air/strike ledger vs ransom theater ([Installment III — desperate hinge](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-overlooked-air)).
 
-**TDS tell:** when the only vocabulary is “just leave them alone” plus Oman goodwill, with **zero** engagement on **Hormuz blackmail**, **HEU**, **why Epic Fury happened**, or the **underestimated air** scoreboard, the argument is presentation — black **warmonger** vs gray **refuse Mouth-of-Sauron terms after banking the conventional fight**.
+**TDS tell:** when the only vocabulary is “just leave them alone” plus Oman goodwill, with **zero** engagement on **Hormuz blackmail**, **HEU**, **why Epic Fury happened**, or the **overlooked air** scoreboard, the argument is presentation — black **warmonger** vs gray **refuse Mouth-of-Sauron terms after banking the conventional fight**.
 
 ## Cross-links
 
@@ -48,4 +48,4 @@ Treat “peace if you leave forever” as **one scoreboard** — the **ransom bo
 
 We do **not** claim every Aug 8 Iranian statement is personally authored by Mojtaba. Emissary speech can be IRGC/SNSC pen with leader branding. Tolkien parallel is **grammar**, not evidence. Leadership-hinge and media-inversion claims are **author thesis**.
 
-Keywords: #IranWar #Hormuz #BlackGate #Withdrawal #Rubio #LeaveBehind #Oman #MouthOfSauron #Leadership #AirSupport
+Keywords: #IranWar #Hormuz #BlackGate #Withdrawal #Rubio #LeaveBehind #Oman #MouthOfSauron #Leadership #AirSupport #OverlookedAir #Eagles #EpicFury

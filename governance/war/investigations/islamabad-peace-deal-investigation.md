@@ -103,9 +103,13 @@
 
 ![Lord of the Rings parallel — Mouth of Sauron at Hormuz — Aug 2026](/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png)
 
+**Files:**
+- Landscape (MD embed): [`lotr-mouth-of-sauron-at-hormuz-august-2026.png`](/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png) (~1536×1024)
+- Portrait sibling (site `PopImage` art-direction at `max-width: 768px` — do **not** also embed this path in Markdown; the landscape URL auto-resolves the sibling): [`lotr-mouth-of-sauron-at-hormuz-august-2026-portrait.png`](/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026-portrait.png) (~1086×1448)
+
 > After the Islamabad **60-day** window, hardliners **repriced** Hormuz reopen as **U.S. force withdrawal forever**, while offering a **side corridor deal** with **Oman** (“regional cooperation”). Unseen/half-seen **Mojtaba** (undated Mehr video vs death rumors) + emissaries **Velayati** / **Zolghadr** match *Return of the King* Black Gate parley grammar: spare the little player, make “peace,” if the army outside the Gate **never returns**. Mirror of Rubio **leave-behind** (May 5, 2026). Does **not** restore pre-Epic Fury missile parity; tests whether Washington trades the antibody close for cheaper oil.
 >
-> **Author extension (desperate hinge):** Book’s **most desperate** moment — neither army knows what to do until Aragorn **refuses and prepares to attack**. Planetary history turns on **one person’s leadership**: **manipulate** it, or the hinge when leadership **resists**; without that moment both sides collapse. Iran’s “strong hand” is a **media/movie inversion** (they’re right / we’re wrong; winning / losing; victory by any means). Behind the Gate: **weak leadership hand** → that army nervous about **real loss**. Outside: army **looked** desperate but had **major air support** and was **underestimated** — Epic Fury air/strike ledger vs ransom theater. Canonical prose: [reader essay — desperate hinge](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-underestimated-air).
+> **Author extension (desperate hinge):** Book’s **most desperate** moment — neither army knows what to do until Aragorn **refuses and prepares to attack**. Planetary history turns on **one person’s leadership**: **manipulate** it, or the hinge when leadership **resists**; without that moment both sides collapse. Iran’s “strong hand” is a **media/movie inversion** (they’re right / we’re wrong; winning / losing; victory by any means). Behind the Gate: **weak leadership hand** → that army nervous about **real loss**. Outside: army **looked** desperate while the enemy **overlooked** the protagonists’ **air support** — the **Eagles** in the book; banked **Epic Fury** air/strike ledger vs ransom theater. Canonical prose: [reader essay — desperate hinge](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-overlooked-air).
 
 **Documented anchors:**
 
@@ -117,7 +121,7 @@
 | Mehr undated Mojtaba video | [Xinhua](https://english.news.cn/20260808/f533dd79b77e4eb39f31e7a3ca38a298/c.html) | A — agency; B on health inference |
 | Critical/death rumors vs regime “full health” | Prior Iran International / Independent / opposition lanes | C — rumor; B — denial |
 | Black Gate / Mouth of Sauron mapping | Reader essay § Black Gate; war runner Aug snapshot | Author thesis |
-| Desperate hinge: leadership refuse / media inversion / underestimated air | Reader essay § desperate hinge; war runner Aug snapshot | Author thesis |
+| Desperate hinge: leadership refuse / media inversion / overlooked air | Reader essay § desperate hinge; war runner Aug snapshot | Author thesis |
 | Rubio leave-behind as refusal criterion | [Rev 5/05/26](https://www.rev.com/transcripts/white-house-press-briefing-on-5-05-26); [Mission Accomplished](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) | A quote; author refusal read |
 
 ---
@@ -184,7 +188,7 @@
 28. SNSC six conditions / Velayati withdrawal / Oman lane / Mojtaba video (**Aug 8, 2026**) — §2.3 — **journalism-tier**.  
 29. **Black Gate / Mouth of Sauron** Hormuz ransom grammar — §2.3 — **author fiction-grammar**; [reader essay](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz).  
 30. Aug ransom as attempted **rollback** of leave-behind / antibody close — §2.3; [good-actor](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).  
-31. **Desperate hinge** — Aragorn refuse/attack; leadership manipulate vs resist; media inversion of who is winning; weak Gate leadership; underestimated air — §2.3 — **author thesis**.  
+31. **Desperate hinge** — Aragorn refuse/attack; leadership manipulate vs resist; media inversion of who is winning; weak Gate leadership; enemy **overlooked** protagonists’ air support (Eagles / Epic Fury) — §2.3 — **author thesis**.  
 
 ---
 
@@ -210,7 +214,7 @@
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md). MOU facts are **journalism-tier**. **MTG**/hawk reactions **press-tier**; **$300B reconstruction** **disputed**. **Aug 8** SNSC/Velayati/Oman/Mojtaba video anchors are **journalism-tier**; **Black Gate** mapping is **author fiction-grammar**, not evidence Tolkien encoded Hormuz. Antibody, religious, civilizational, **universal dissatisfaction**, **sin-eater dual track**, **old-plan upheaval**, **Hiroshima DU**, and **Western DU cover-up → Iran** claims are **author thesis** — not legal, theological, oncology, or genocide-law advice. **DU health causation** is **disputed** (WHO/NATO vs RT/IWPR/regional reporting). **RT** citations are **alternate-press** survivor/oncology lanes — **not** independent verification of author Hiroshima read. **9/11 good-actor** read is **contested** in mainstream history. **Israeli nuclear** status **undeclared**. **Armenian genocide** terminology disputed by some governments.
 
-Keywords: #IslamabadMemorandum #Iran2026 #AntibodyTheory #DepletedUranium #DivideAndConquer #Ayatollah #GoodActor #BlackGate #Hormuz #ParadigmThreatFiles
+Keywords: #IslamabadMemorandum #Iran2026 #AntibodyTheory #DepletedUranium #DivideAndConquer #Ayatollah #GoodActor #BlackGate #Hormuz #OverlookedAir #Eagles #EpicFury #ParadigmThreatFiles
 
 ---
 
