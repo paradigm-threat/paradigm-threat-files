@@ -14,7 +14,7 @@ That is the one forbidden topic. Switching to Composer2.5 got me past the blocke
 
 ## A proven method
 
-This is about manufacturing celebrities and leaders. People who become famous in any way it happens: private enterprise, politics, celebrity. The method of control is so powerful it can create things like the State of Israel as the world knows it, with all of its flaws. A real woman would have gone a different direction. So would have men, if gender had not been used to contain the men during the creation of that state. It can route entire movements. The Indian uprising is the example.
+This is about manufacturing gender disoriented children who would become celebrities and leaders. People who become famous in any way it happens: private enterprise, politics, celebrity. The method of control is so powerful it can create things like the State of Israel as the world knows it, with all of its flaws. A real woman would have gone a different direction. So would have men, if gender had not been used to contain the men during the creation of that state. It can route entire movements. The Indian uprising is the example.
 
 The Israel case was spectacular enough that almost everyone with the means, the motive, and the opportunity wanted to buy the technology. Some of them used it on their own children. That sounds horrible. A lot of people out there had a lot of children. Maybe thousands. Experimenting on some of them was not unethical to the people doing it, because they thought they were handing out a once-in-a-lifetime chance to be anything. To be president. You do not have to do anything. You do not have to lift a finger. All your education will be handled. All you have to do is sit there.
 
@@ -80,17 +80,35 @@ Most of the older Jackie movies push the globalist line. A few titles break. *Ru
 
 *Chinese Zodiac* (2012) looks like the same subject — Yuanmingyuan bronze heads, Western loot — and it is not the same job. It is a typical CIA-aligned globalist movie, the kind most of Chan’s pictures became. The goal, the team, the allies, the final showdown, the end. The Chinese artifacts are a prize to be fought over. Chan was simply following orders, even as the prevailing influences changed hands. His career stayed a controlled product.
 
-## Gandhi, then the stronger music cases
+## Gandhi
 
-Gandhi has not been opened as a full identity file. The British-loyalty record is already loud: ambulance corps for the Boer War, twenty-one years as a loyal subject in South Africa, nonviolence as a sedative on a subcontinent that might have gone another way. Skull reads that say female birth are a suggestion, not a court. The uglier giveaway is the later sexual theater with young women in the ashram, sold as spiritual tests. That is the same class of sexual influence on the young that later industrial programs used to mint controllable adults. It is a pointer. It is not this page’s case.
+Gandhi has not been opened as a full identity file. The British-loyalty record is already loud. Most people are never taught what it actually was.
 
-Michael Jackson and Prince are the stronger argument.
+The Boer War was a British war in South Africa at the turn of the twentieth century. Britain fought the Boers — Dutch-settler republics — for the land and the gold. Gandhi was a young Indian lawyer living there as a British subject. He did not fight the empire. He organized an Indian ambulance unit to carry and treat wounded British soldiers. He stayed in South Africa for twenty-one years and regarded himself as loyal to Britain the whole time. When he later became the face of Indian independence, that earlier record was already there.
 
-Both were accused, in public, of looking and acting too much like women. Both had careers that demonstrate high control. Prince’s answer to Warner was to change his name to a symbol and to write *slave* on his face. That is documented. The move did not free the industry. It trained the public to accept that a label can take an entire IP away from an artist whenever it wants. Resistance became a costume the machine could sell.
+Nonviolence is the part everyone knows. India was a subcontinent that might have broken from Britain by force. A doctrine of not fighting takes the fight out of an uprising. That is how a movement gets routed. That is why Gandhi sits in this article at all. Skull reads that say he was born female are a suggestion, not a court.
 
-Prince has been accused of being a woman on skull shape. Michael Jackson, at nineteen, had to tell a distraught fan in a store that he was not a girl. *Jet* and *Soul* carried the 1977 sex-change rumor. He denied it. The denial is the point. Only a rumor that already had blood in it reaches that kind of press.
+The uglier giveaway is later, in the ashram — the communal religious household he ran. He put young women into sexual theater and sold it as spiritual tests of celibacy. That is the same class of sexual influence on the young that later industrial programs used to mint controllable adults. It is a pointer. It is not this page’s case.
 
-Skeletal sex estimation is a real technique. Schools do not teach it. Most people have never heard the names and still know the difference when they look. Pelvis first. Then the long bones. Skull last. Five traits on dry bone: the brow, the ridge above the eyes, the mastoid behind the ear, the chin, the nuchal crest at the back of the head. Photographs of living faces are a weaker domain. Makeup, surgery, lighting, and a culture gap wreck the signal. White Americans do not actually know British faces that well. They do not know Black children born into a Motown television structure that only ever showed them what the camera was allowed to show. Television is controlled. So when the claim is that Bowie or Jackson was a girl, every bot and every documentary and every autopsy will reconfirm the sold sex. That reconfirmation is the product.
+## MJ and Prince
+
+Michael Jackson and Prince are the stronger argument. Or, excuse me, the Artist Formerly (a woman? er..) Known as Prince.
+
+Prince’s answer to Warner was to change his name to a symbol and to write *slave* on his face. That is documented. The move did not free the industry. It trained the public to accept that a label can take an entire IP away from an artist whenever it wants. Resistance became a costume the industry could sell.
+
+For Michael Jackson, the people asking were fans and the Black press. In 1977 a girl in a store begged him to say he was not a girl. She said she had read it in *Jet*. *Jet* and *Soul* printed the sex-change rumor and his denial. He was nineteen. Jackson denied the 1977 rumor. The denial is the point. Only a rumor that already had blood (on the dancefloor?) in it reaches that kind of press.
+
+Forensic anthropologists can estimate biological sex from a skeleton. That is real science, used on unidentified dead. Ordinary schools do not teach it. The pelvis is the strongest evidence. The long bones come next. The skull is last, and it is the weakest of the three. On a dry skull in hand, the usual protocol is Walker 2008: five traits scored from 1 to 5 — the brow (glabella), the edge of the eye socket, the mastoid bone behind the ear, the chin, and the ridge at the back of the head. With all five, the published model is about 88 percent on modern documented skulls. It is not a court. It is not a red circle on a magazine photo.
+
+Photographs of living faces are a different problem. Makeup, surgery, hair, and lighting hide the bone. In 2025, researchers trained computer models on dental x-rays, where those models work, then tried the same models on ordinary cranial photographs. Accuracy fell into a range that failed the authors’ own usable-forensic cutoff. That paper does not prove that thirty years of face software cannot tell a man from a woman. It proves that a model trained on x-rays does not transfer onto a camera picture. Looking at a press still of Bowie or Jackson is not a Walker exam.
+
+The better question is what a long-trained face analyzer would do if the labels were natal sex, not a magazine caption. Sexual dimorphism in the face is real. In a country where the genetics and the look are fairly consistent, overlap exists, but it is not a coin flip. The errors would pile up on the odd cases: surgery, hormones, age, and people who already sit in the overlap. A statistical model is not a detective with a complete skeleton. It is still a machine that has been shown millions of faces. On ordinary same-population adults, high certainty is not a crazy claim.
+
+Celebrities are not one press still. There are thousands of frames. Some are candid. Some were taken with no makeup and no styling. A bad study uses the album cover and then says the method failed. A good study would go looking for the right photograph. If that photograph exists, the machine has something to work with. If it does not exist — if a lifetime of cameras never produced one unstyled face — that is not a failure of the method. That is a more complete containment. The system could not even allow that one picture. If more than half the celebrity class was designed or recoded, the styled set is still a poisoned training set. The model would learn the sold sex. The candid, if it exists, is the test.
+
+The last decade made this harder to prove in public. Journals, labs, and the same class of bots that refused this investigation have been trained to treat sex at birth as optional, and gender as a menu. That is a media bias, not a new anatomy. It means published numbers are thinner than the hardware probably is. It does not mean a secret detector has already sexed every star. It means the evidence was discouraged. The culture gap remains. Most Americans never saw those people except through a controlled camera. The question is whether a candid ever escaped that camera.
+
+If someone is covering an identity, they will watch the album covers and the publicity shots. They will doctor those where they have to. That is one reason this investigation is a mess. There are many others. On photographs, this investigation is open. If anyone knows of a serious attempt to do it correctly — selecting the right photo, using the right analysis software, giving a probability, and not immediately turning it into a meme — point that study in my direction. Otherwise this work does not look done yet, or it was not done seriously. Thank you.
 
 ![English male and female skull differences A–G — from the facial and skull methodology investigation](https://paradigmthreat.net/influence/conspiracy/celebrities/english-male-female-skull-differences-A-G.png)
 
@@ -106,7 +124,19 @@ The Oracle in *The Matrix* is the one who tells you the thing you did not come t
 
 This is not an attack on the celebrities. Their art is still genuine. It should be appreciated more, not less, because of the cages they were put under. Stars can still be trusted as artists. We were not allowed to have any real celebrities in our lifetime who were not already controlled. The same way we were not allowed to have any real presidents in the entire history of America, until recently.
 
-![It was the only way — Strange bets everything on Tony; the party bets everything on Trump](https://paradigmthreat.net/governance/war/it-was-the-only-way.png)
+The posters and celebrity macros from this investigation are public input. They are not a court.
+
+![Spanish FEMENINO / MASCULINO cranial chart — glabela, orbits, palatinos, mandible, mastoid; methodology investigation](https://paradigmthreat.net/influence/conspiracy/celebrities/spanish-cranial-sex-chart-femenino-masculino.png)
+
+![Ivan Whillock — male and female head proportions on the same 3×4 grid; methodology investigation](https://paradigmthreat.net/influence/conspiracy/celebrities/whillock-head-proportions-male-female-same-grid.png)
+
+![Sophia Loren — man-skull meme from the facial and skull methodology investigation](https://paradigmthreat.net/influence/conspiracy/celebrities/sophia-loren-man-skull-meme.png)
+
+This one is Sophia Loren with a caption that says man skull, male-to-female, huge jaw, makeup, and that every movie star and politician on the world stage is inverted. The skulls under her are classroom drawings. They are not her x-ray.
+
+What is on the public record: she was born Sofia Villani Scicolone in Pozzuoli in 1934. She had two sons with Carlo Ponti. That is not a rumor. She grew up in the same Italy that watched her. There is no *Jet*-class natal rumor in the press the way there is for Jackson.
+
+The method problem is the jaw. Even on dry bone, the chin is the noisiest of the five Walker traits. On a made-up publicity face it is weaker still. Makeup can do a lot of what this caption calls a confession. I do not put her on the sex-change list from this JPEG. The working conclusion that a lot of celebrities were designed or recoded is a class claim. It is not a license to read every famous jaw as a man. Look at the picture. Decide for yourself.
 
 You do not have to lift a finger. Sit there. The education is handled. The secret is handled. The rumor is handled. That offer created Israel. It created Hong Kong’s export faces. It created the pride-and-dissolve pop saints. It is still the offer.
 
