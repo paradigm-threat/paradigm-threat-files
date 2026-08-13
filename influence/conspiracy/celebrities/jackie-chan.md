@@ -147,21 +147,17 @@ Author said he has not spoken out on “basically any political events of our ti
 
 ## 6. Messaging vs entertainment — *Karate Kid* car
 
-**Author:** used **more for messaging than entertainment**; almost every movie has a **globalist** message; weird **ordered** bits (destroy a Japanese car) that international audiences will not take lightly.
+**Author:** used **more for messaging than entertainment**; almost every movie has a **globalist** message. *Karate Kid* (2010) car smash: first remembered as a Japanese insult; **retracted** — on-screen prop is a **Volkswagen Scirocco**, grief anniversary, not a message to Japan.
 
 ### 6.1 *The Karate Kid* (2010) — what is on screen
 
 | Beat | Documented | Author |
 |------|------------|--------|
 | Setup | Dre Parker (Jaden Smith) moves **Detroit → Beijing**; Mr. Han (Jackie) teaches kung fu; apology in **Mandarin** | Culture-trade **in China** (Rush Hour inverted) — camp **Open** (could rhyme NSA *or* globalist “China is the future”) |
-| Car smash | Han sledgehammers a **Volkswagen Scirocco** he restores each year, then destroys on the anniversary of the crash that killed his wife and son | Author remembered **Japanese** car = encoded insult / not-taken-lightly message |
-| Soft history | Grief ritual; character work | Still **ordered spectacle** if the board wanted a smash; the **make is German, not Japanese** |
+| Car smash | Han sledgehammers a **Volkswagen Scirocco** he restores each year, then destroys on the anniversary of the crash that killed his wife and son | Author first remembered **Japanese** car = encoded insult. **Author 2026-08-13 later:** that was wrong. Grief ritual. Not a message to Japan. |
+| Soft history | Grief ritual; character work | Matches the prop. Make is German. |
 
-**Do not silently “fix” the author’s Japan read into VW.** Log the mismatch. Possible forks:
-
-1. **Misremember** the 2010 scene (most likely).  
-2. **Different film:** *Thunderbolt* (1995) is Jackie’s **Japanese-car** picture — Mitsubishi product placement, Japan race, yakuza pachinko-hall wreck, Nissan Skyline antagonist ([Wikipedia — Thunderbolt](https://en.wikipedia.org/wiki/Thunderbolt_(1995_film)); JNC writeup). That is **Japan as playground + Mitsubishi leash**, not a Scirocco funeral.  
-3. Author still wants **any** car-destruction as encoded; then the **payload** must be argued from the **actual** prop (VW / grief), not from Japan.
+**Author retracted the Japan read.** The 2010 scene is the Scirocco funeral. A different Jackie picture, *Thunderbolt* (1995), is the Japanese-car film — Mitsubishi product placement, Japan race, yakuza pachinko-hall wreck, Nissan Skyline antagonist ([Wikipedia — Thunderbolt](https://en.wikipedia.org/wiki/Thunderbolt_(1995_film)); JNC writeup). Do not collapse *Thunderbolt* into *Karate Kid*.
 
 **Q (Open):** Was the Scirocco a studio-available Euro prop, or a chosen German make? Does not adjudicate natal sex.
 
