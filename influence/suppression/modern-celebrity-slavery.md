@@ -100,6 +100,8 @@ Textbook slavery trained generations to look for **transport** — chains, whips
 
 ## Where next
 
+**Series.** Gender-swap installment: [Designed from birth](https://paradigmthreat.net/influence/suppression/designed-from-birth.md) — Golda / Gadot / Hong Kong / Jackson / Prince; Grok refused first.
+
 Full casebook, evidence tiers, and citation registry: [Celebrity “modern slavery” — contracts, containment, NDAs, creative control](https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md). Daveigh Chase vice-isolation deep dive: [case study — investigation](https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#case-study--daveigh-chase--child-star-vice-isolation-and-media-blackout).
 
 **Inventor parallel (builders, not performers):** [Exact-Change Wallet §I — inventor containment](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; prosecution, enclosure, pathology branding, third-act moral.

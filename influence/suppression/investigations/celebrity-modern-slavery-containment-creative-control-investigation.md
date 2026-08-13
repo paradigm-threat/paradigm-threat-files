@@ -585,7 +585,7 @@ Entertainment law: **13th Amendment** bars **specific performance** of **persona
 
 ### Prince
 
-See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-modern-slavery). [Prince identity investigation](/influence/conspiracy/celebrities/prince.md) — **label battles**, **androgyny**, **death** open questions; [INDEX — AI facial-structure methodology](/influence/conspiracy/celebrities/INDEX-identity-investigations.md).
+See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-modern-slavery). [Prince identity investigation](/influence/conspiracy/celebrities/prince.md) — **AU-048** label battles, lyric encryption, death; [Bowie](/influence/conspiracy/celebrities/david-bowie.md); [INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md); [facial/skull method](/influence/conspiracy/celebrities/facial-skull-sex-estimation-methodology-investigation.md).
 
 #### Documented protest (L1)
 
@@ -608,6 +608,8 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 **Reader essay close:** [modern-celebrity-slavery.md](/influence/suppression/modern-celebrity-slavery.md) § Prince.
 
 ### Michael Jackson — Pepsi fire, Sony catalog, Vegas anecdote, entourage trap
+
+**Identity / medical-leash / fake-death (2026-08-13):** natal + **Pepsi as lifelong handler medicine** + Author fake-death now live in [michael-jackson.md](/influence/conspiracy/celebrities/michael-jackson.md). This section stays **contract / high-poppy / catalog**. Pepsi **intent** is shared (L3 here, 2026-06-10); the **medical-containment sentence** and **honest-autopsy / own-funeral** lock are on the identity file. Do not merge into one proof.
 
 #### Pepsi commercial fire (Jan 27, 1984) — documented (L1)
 
@@ -648,6 +650,8 @@ See [§ Legal vocabulary](#legal-vocabulary--personal-services-peonage-and-moder
 **Investigation note:** MJ case fits **catalog-as-leverage** — **property owned by partnership** with **counterparty who controls promotion** — **rhymes** with **Prince** but **different** facts. **Pepsi** era **before** Sony peak but **same counterparty-controls-stage** grammar.
 
 ### Elton John — *Rocket Man*, *Rocketman*, sexuality containment, 1992 phase shift
+
+**Lane lock (2026-08-13):** This is the **home** for Elton. [Identity INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md) **two-leash** split: AU-048 = natal paper/dress/body; **this section** = homosexuality / marriage theater / rehab-as-product that handlers must sit on. **Author:** Elton does **not** qualify for the gender hoax. Do not open an identity stub. Bowie’s 1972 gay line stays on the **other** side of the split (smaller secret as valve). Same handler job — exposure unbearable, run back to protection — **different secret**.
 
 #### *Rocket Man* (1972) — documented writing context
 
@@ -925,7 +929,7 @@ Nearly **every celebrity documentary** — **authorized biopic**, **streaming se
 >
 > **Inverse:** Most A-listers **stay silent** on polarized fights unless **ordered to speak** — see **Morgan Freeman** CIR **“we are at war”** video (**2017**) below. **Pro-Trump** and **medical dissent** are the lanes that **burn careers**; **establishment war rhetoric** and **anti-Trump** campaign slots are lanes stars **get used on**.
 
-**Cross-read:** [§ Political containment](#political-containment--celebrity-silence-and-rare-trump-era-support); [vaccine injury dossier](/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md); [Cruz / media-blackmail thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies); [Brandy Vaughan](/influence/conspiracy/celebrities/brandy-vaughan.md) (whistleblower death edge case — not performer containment, same medical lane).
+**Cross-read:** [§ Political containment](#political-containment--celebrity-silence-and-rare-trump-era-support); [vaccine injury dossier](/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md); [Cruz / media-blackmail thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies).
 
 ### The De Niro archetype (two beats)
 
@@ -1287,9 +1291,13 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | **Predictive programming hub**               | [PP page](/influence/predictive_programming/page.md)                                                                                                                                          |
 | **Media blackmail / controlled candidacies** | [Cruz / Kevin Malone thesis](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#the-national-security-thesis-media-blackmail-and-controlled-candidacies) |
 | **High poppy / institutional ouster**        | [canceling-the-high-poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md)                                                             |
-| **Prince (identity dossier)**                | [prince.md](/influence/conspiracy/celebrities/prince.md)                                                                                                                                      |
+| **Prince (identity dossier)**                | [prince.md](/influence/conspiracy/celebrities/prince.md) — expanded **AU-048** (2026-08-13)                                                                                                  |
+| **David Bowie (identity)**                   | [david-bowie.md](/influence/conspiracy/celebrities/david-bowie.md)                                                                                                                           |
+| **Gal Gadot (identity)**                     | [gal-gadot.md](/influence/conspiracy/celebrities/gal-gadot.md) — Golda mirror; American-sphere install; G2 = career dies if Israel line breaks                                                                 |
+| **Identity method + INDEX**                  | [methodology](/influence/conspiracy/celebrities/facial-skull-sex-estimation-methodology-investigation.md); [INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md)         |
 | **Suppression hub**                          | [suppression page](/influence/suppression/page.md)                                                                                                                                            |
 | **Reader essay — celebrity IP slavery**      | [It's gonna be a long, long time.](/influence/suppression/modern-celebrity-slavery.md)                                                                                                        |
+| **Reader essay — gender-swap installment**   | [Designed from birth](/influence/suppression/designed-from-birth.md)                                                                                                                          |
 
 
 ---

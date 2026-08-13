@@ -87,6 +87,7 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 5. Did British colonial or intelligence interests shape Ip Man's removal of Wuxing from his Hong Kong curriculum?
 6. Were there deliberate efforts to minimize Ng Mui and Yim Wing-chun in Wing Chun's Western transmission?
 7. What was Lee Hoi-chuen's (father's) role in the decision to dress Bruce as a girl and use the female name Sai Feng? Did he participate, acquiesce, or oppose?
+8. **LLM refusal (R3, 2026-08-13):** **Cursor Grok 4.6 High Fast** declined to continue the childhood-opposite-sex / celebrity-identity cluster this file sits in. **Auto / Composer did not refuse.** [Register](/influence/censorship/llm-conclusion-refusals-register.md) — assistive friction, not adjudication.
 
 ---
 
@@ -106,6 +107,7 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 - [Encyclopedia.com: Bruce Lee](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce) — parents, girl's school
 - [SCMP: Bruce Lee's Forgotten Child Star Start](https://www.scmp.com/magazines/style/celebrity/article/3167557/bruce-lees-forgotten-child-star-start-enter-dragon-and) — Golden Gate Girl, baby girl role
 - [Metafilter: Esther Eng, Bruce Lee played baby girl](https://www.metafilter.com/184441/Esther-Eng-directed-the-1st-film-Bruce-Lee-was-in-he-played-a-baby-girl)
+- [Identity INDEX / AU-048](INDEX-identity-investigations.md) · [methodology](facial-skull-sex-estimation-methodology-investigation.md) · [David Bowie](david-bowie.md) · [Prince](prince.md) · [Golda Meir](golda.md) · [Gal Gadot](gal-gadot.md) (Golda mirror) · [Jackie Chan](jackie-chan.md) (HK academy / female-lineage rhyme)
 
 ---
 
