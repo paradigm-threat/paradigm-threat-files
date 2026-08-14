@@ -139,6 +139,7 @@ Resources flowed from Crown and Church to Parliament's creditors, soldiers, and 
 - Kishlansky, M. *A Monarchy Transformed: Britain 1603–1714*
 - Parliament UK: [Overview of the Civil War](https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/)
 - Timeline: [London Financial Coup](/timeline/evt-london-1664-1694-financial-coup), [British Empire](/timeline/evt-british-empire-as-deep-state-instrument), [French Revolution](french-revolution-investigation.md)
+- [British royalty as a controlled scheme (AU-049)](british-royalty-controlled-scheme-investigation.md) — what the reduced Crown became after 1688: dignified mask, later oustings, Russia-erase OS
 
 ---
 

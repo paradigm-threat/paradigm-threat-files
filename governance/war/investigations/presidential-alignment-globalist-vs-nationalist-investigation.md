@@ -831,6 +831,7 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | [JFK was never assassinated](/events/jfk/jfk-was-never-assassinated.md) | Detail-fight distraction grammar (prefer article) |
 | [Holodomor–Holocaust memory](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) | Genocide memory lane |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-046** |
+| [British royalty controlled scheme AU-049](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) | UK Crown/PM rocking without a republic; **Truss 49 days = observable deep-state reference** ([§11.2](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md#112-liz-truss--overnight-kill--desk-reference-for-observable-deep-state-control-author-lock-2026-08-14)) |
 | [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) | Planned crash / census / purposeful neglect |
 | [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) | Reader essay — off-books pattern; companion = AU-047 |
 

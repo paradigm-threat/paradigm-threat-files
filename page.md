@@ -91,6 +91,7 @@ or *not* believing.
 * [American Revolution](/governance/war/investigations/american-revolution-investigation.md) - Atlantic context; a small piece of a larger puzzle.
 * [British Civil War](/governance/war/investigations/british-civil-war-investigation.md) - Societized consolidation; template for Western governance.
 * [British Empire Divide-and-Conquer](/governance/war/investigations/british-divide-conquer-israel-investigation.md) - Israel, India/Pakistan, Africa; deep-state hypothesis.
+* [British royalty as a controlled scheme](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) - Horde-vassal floor; Protestant denial; oustings as power plays; **Liz Truss 49 days as observable deep-state reference**; AU-046 rocking; **AU-049**.
 * [*Call of Duty: Modern Warfare*](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) - Original trilogy vs soft reboot; militainment; Iran-Russia framing.
 * [CIA](/governance/war/investigations/cia-investigation.md) - OSS rebrand, Nazi gold, Iran pipeline, 9/11, antibody thesis.
 * [Ted Cruz, Kevin Malone, 'hijacked plan'](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md) - Pop-culture juxtaposition and deep-state metaphor (speculative).

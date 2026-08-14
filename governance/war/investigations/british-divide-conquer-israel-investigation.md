@@ -112,6 +112,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 - [ ] Trace Semyenko's documentation on Palestine/biblical sites (spelling may vary; source to be located). **Research note:** Web and catalogue search for “Semyenko” + Palestine/biblical Jerusalem/chronology did not locate a clear match; may be Semenko, Semenkov, or a transliteration variant; or a Russian/Ukrainian source not indexed in English. [Seder Olam](https://www.seder-olam.info/seder-olam-g32-jerusalem.html) and mainstream Jerusalem timelines (Jewish Virtual Library, Wikipedia) document conventional biblical chronology; Fomenko (chronologia.org) places biblical Jerusalem in Constantinople/Moscow — correlate if Semyenko source is found.
 - [ ] British Bible Society, PEF, and missionary print networks—map control over sacred text distribution.
 - [ ] Cross-reference with [Golda Meir investigation](/influence/conspiracy/celebrities/golda) and [Jesuit pilgrimage article](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem).
+- [ ] Crown-as-scheme parent: [British royalty controlled scheme AU-049](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md)
 - [ ] Systematic audit: How many post-colonial conflicts have both sides armed by the same Western suppliers?
 - [ ] Round Table, Milner Group, Rhodes network—document overlap with Palestine, India, and African policy.
 - [ ] Fomenko/New Chronology: Biblical Jerusalem in Constantinople/Moscow—correlate with "false Israel in Palestine" thesis.

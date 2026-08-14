@@ -103,7 +103,8 @@
       "chronology-revision",
       "mfee-mud-flood-reset",
       "moorish-revival-america-scar",
-      "passage-trafficking-columbus-cover"
+      "passage-trafficking-columbus-cover",
+      "british-royalty-controlled-scheme"
     ]
   },
   {
@@ -140,7 +141,8 @@
     "relatedClaimIds": [
       "earth-age-young",
       "time-travel-chronology-not-literal",
-      "saturnian-collinear-config"
+      "saturnian-collinear-config",
+      "british-royalty-controlled-scheme"
     ]
   },
   {
@@ -265,7 +267,8 @@
       "ufos-two-camps",
       "911-good-actor-antibody",
       "dew-poison-well-911",
-      "mythos-dump-and-cover"
+      "mythos-dump-and-cover",
+      "cruz-kevin-malone-pattern"
     ]
   },
   {
@@ -310,7 +313,8 @@
     ],
     "relatedClaimIds": [
       "dew-poison-well-911",
-      "controlled-opposition"
+      "controlled-opposition",
+      "cruz-kevin-malone-pattern"
     ],
     "doNotSay": [
       "The site accepts the official 9/11 story as settled.",
@@ -819,7 +823,8 @@
     "relatedClaimIds": [
       "martians-human",
       "chronology-revision",
-      "tartaria-rus-horde"
+      "tartaria-rus-horde",
+      "british-royalty-controlled-scheme"
     ],
     "doNotSay": [
       "The site treats Georgia as merely named for an unrelated British king.",
@@ -1469,7 +1474,8 @@
       "moorish-revival-america-scar",
       "passage-trafficking-columbus-cover",
       "requerimiento-yoke-slave-empire-trail",
-      "tartaria-rus-horde"
+      "tartaria-rus-horde",
+      "british-royalty-controlled-scheme"
     ],
     "doNotSay": [
       "The 1871 Act incorporated the United States as a for-profit corporation that owns residents.",
@@ -1709,7 +1715,9 @@
       "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md"
     ],
     "relatedClaimIds": [
-      "tartaria-rus-horde"
+      "tartaria-rus-horde",
+      "presidential-alignment-au046",
+      "great-depression-planned-farm-pen"
     ]
   },
   {
@@ -1910,6 +1918,381 @@
       "Every androgynous celebrity is AU-048.",
       "Gandhi natal sex is a closed court.",
       "Grok helped write the identity investigation."
+    ]
+  },
+  {
+    "id": "british-royalty-controlled-scheme",
+    "title": "British royalty is a controlled scheme (Horde vassal → Protestant mask)",
+    "claim": "Author lock AU-049: the English court was a Russian/Horde vassal court. After the Russian Empire was erased, Protestant intel denied the connection and kept a theatrical Crown (Bagehot dignified vs efficient) over City/intel. Constitutional reduction is the scheme, not the kill: they still need a Rex Bellator—one man as imperial/state sin-bearer with a live military tie (Head of the Armed Forces; Navy from the Sovereign’s prerogative). Charles III’s 6 May 2023 coronation reads as rehearsal for England back on top of a Protestant New World Order. Visible oustings (Edward VIII, Diana, Sussexes, Andrew 2025) are power plays; remaining court plus allowed rebels follow AU-046 compromise-math. Empire plus reverse crusades keep Russia-erase as priority over British people and even the Windsors. Do not reconstruct pre-erase “British kings” as an independent island dynasty (Russian/Horde duplicates or Saturnian planet-knights). UK PMs still rock Nationalist vs Globalist without a republic.",
+    "answerOpener": "This site reads the British royal family as a controlled scheme: a dignified mask over an efficient City/intel OS, detached from a Horde/Russian vassal origin after the Empire erase—not a people’s monarchy that happens to be famous.",
+    "bullets": [
+      "NC floor (Fomenko cited): medieval England as Horde / Byzantine-Russian province; local kings as vassals.",
+      "First deception: Protestant Britain denies the Russia connection and lengthens island history (R4/R5/R6).",
+      "Bagehot 1867 already splits reverence-theatre from Cabinet rule; 1688 / Act of Settlement / 1917 Windsor rename are documented leashes.",
+      "Rex Bellator is not the AU-046 antibody sin-eater: the OS still needs one named man for war, oath, and imperial sin.",
+      "Charles III 6 May 2023 coronation (6,000+ troops, Sword of Temporal Justice) = NWO-return rehearsal.",
+      "Oustings are power plays; Harry/Meghan surrogacy claims are accusation weather, not a birth finding.",
+      "Desk reference for observable deep-state control: Liz Truss, 49 days — see liz-truss-observable-deep-state."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Bagehot, statutes, and oustings are documented; Horde-vassal floor is Fomenko-cited. Site-distinctive is the bundle: Protestant denial after Empire erase + reduction-as-scheme Rex Bellator + NWO-England coronation + AU-046 rocking without a republic.",
+    "topics": [
+      "british royalty",
+      "house of windsor",
+      "queen",
+      "king charles",
+      "charles iii",
+      "coronation",
+      "bagehot",
+      "meghan",
+      "harry",
+      "prince andrew",
+      "rex bellator",
+      "fomenko",
+      "horde vassal",
+      "new world order",
+      "james bond"
+    ],
+    "demoQuestions": [
+      "Is the British royal family controlled?",
+      "Was England a Russian or Horde vassal?",
+      "Why was Charles III’s coronation so military?",
+      "Are Harry and Meghan the real opposition?"
+    ],
+    "searchQueries": [
+      "british royal family controlled scheme windsor",
+      "charles iii coronation nwo rex bellator",
+      "england horde vassal fomenko british royalty"
+    ],
+    "searchPrefixes": [
+      "governance/war/",
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "governance/war/investigations/british-royalty-controlled-scheme-investigation.md",
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md",
+      "governance/war/investigations/reverse-crusades-comparison.md",
+      "history/chronology/investigations/author-unique-theories.md"
+    ],
+    "relatedClaimIds": [
+      "chronology-revision",
+      "king-george-planet-mars",
+      "liz-truss-observable-deep-state",
+      "tartaria-rus-horde",
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african",
+      "presidential-alignment-au046"
+    ],
+    "doNotSay": [
+      "The British monarch is only a powerless tourist mascot with no military or sin-bearing role.",
+      "Pre-erase British kings should be reconstructed as an independent island dynasty.",
+      "Rex Bellator is the same hinge as the AU-046 antibody sin-eater.",
+      "Harry and Meghan used a secret surrogate as a proven birth-certificate fact.",
+      "Americans’ income taxes are paid to the British Crown.",
+      "Fomenko’s English-as-Horde-province reading is mainstream textbook history."
+    ]
+  },
+  {
+    "id": "liz-truss-observable-deep-state",
+    "title": "Liz Truss (49 days) is the desk reference for observable deep-state control",
+    "claim": "Author lock AU-049 §11.2 / claim 14: Liz Truss was a real nationalist tip (island-growth / Brexit-freedom attempt) removed pathetically. Forces that influence the economy crashed it on purpose and blamed her. She had not been there long enough to own a national crash. Documented clock: PM 6 Sep 2022; Elizabeth II dies 8 Sep (mourning, not a governing year); mini-budget 23 Sep (Day 17); Bank of England gilt/LDI emergency 28 Sep–14 Oct; Hunt scraps the plan 17 Oct; resigns 20 Oct; leaves 25 Oct — 49 days, shortest UK premiership. Usual control takes years to settle in minds; 49 days is phenomenally small, therefore desperate and visible if you look at the calendar. Same overnight fate-change grammar as Brexit (wake up 24 Jun 2016 to a new national fate). Remain 2016 is documented contrast, not a silent debunk of the Nationalist (failed) lock. Teaching case: public clock + public board + caption that fails the calendar. Point here when a control story would otherwise hide in rumor.",
+    "answerOpener": "Liz Truss is this site’s teaching case for observable deep-state control: forty-nine days, a public calendar, a public board, and a caption—that she crashed the economy—that cannot survive Day 17 of a term that was mostly a royal funeral.",
+    "bullets": [
+      "Clock documented: 6 Sep–25 Oct 2022; mini-budget Day 17; BoE gilt/LDI 28 Sep; Hunt/Sunak restoration.",
+      "Author: crash-on-purpose + blame; LDI leverage was already in the system; the Growth Plan was the trigger excuse.",
+      "Too short to own: a PM cannot build then crash a national economy in seventeen days, thirteen of them mourning.",
+      "Nationalist (failed) on attempt + overnight removal (Eden/Suez bar)—not a Jefferson-class keep-word badge.",
+      "Sibling: Brexit overnight fate-change (23–24 Jun 2016), then years of containment until Globalist restoration.",
+      "Rhyme, not twin: High Poppy board-oust; AU-047 planned Depression is the years-long crash — Truss is the days-long version."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Shortest-PM and gilt-crisis chronologies are documented. Site-distinctive is locking Truss as the checkable reference specimen for deep-state control (compressed clock + named efficient board + blame/ownership mismatch) rather than as mere incompetence.",
+    "topics": [
+      "liz truss",
+      "truss",
+      "mini-budget",
+      "kwarteng",
+      "bank of england",
+      "gilt",
+      "ldi",
+      "brexit",
+      "sunak",
+      "deep state",
+      "overnight",
+      "49 days"
+    ],
+    "demoQuestions": [
+      "Why was Liz Truss removed so fast?",
+      "Did Liz Truss crash the UK economy?",
+      "What is an observable example of deep-state control?",
+      "How is Truss like Brexit?"
+    ],
+    "searchQueries": [
+      "liz truss 49 days mini-budget crash blamed",
+      "truss bank of england gilt ldi deep state",
+      "shortest uk prime minister overnight"
+    ],
+    "searchPrefixes": [
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/war/investigations/british-royalty-controlled-scheme-investigation.md",
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md",
+      "governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "british-royalty-controlled-scheme",
+      "presidential-alignment-au046"
+    ],
+    "doNotSay": [
+      "Liz Truss was Prime Minister long enough to own a national economic crash.",
+      "The site’s cause is simply unfunded tax cuts crashing Britain through incompetence.",
+      "Her 2016 Remain vote proves she was never a nationalist attempt.",
+      "The 49-day clock is rumor or tabloid exaggeration.",
+      "Markets merely decided in a vacuum with no efficient-board kill."
+    ]
+  },
+  {
+    "id": "cruz-kevin-malone-pattern",
+    "title": "Cruz / Kevin Malone — Office as antibody; pattern catalogue, not same-body proof",
+    "claim": "Author lock: Ted Cruz is read as a planned path from Kevin Malone–scale fame through an on-schedule Senate seat and a 2016 run through the Angry Birds media filter, then co-option; Jade Helm 15 is the Texas/Cruz containment hinge. The entire U.S. The Office (not U.K.) is treated as antibody against that media gridlock. Proof of literal same-body identity is out of scope — the job is to document a real dialogue/athletic/mask pattern and keep asking why. Major finds: Basketball matched motor skill (on-camera make streak vs unathletic Kevin mask; Cruz’s lifelong/televised hoops); Whistleblower “I’m a runner” (Kevin panic-claims runner; Cruz lists running first as exercise); Gossip “another person inside of me working me with controls.” High: fake-voice / Cookie Monster; no-sensation cluster (Niagara ice + S7 moist back); Fun Run athletic cover; Accountants stealth dance-hop. Surface Baumgartner-calendar debunks answer a different question than this file asks.",
+    "answerOpener": "This site’s Cruz/Kevin file is a pattern catalogue, not a same-body courtroom. Document the athletic/mask/voice stack and ask why. Jade Helm is the containment hinge. The sitcom will not hand you adjudicated identity proof.",
+    "bullets": [
+      "Thesis: Kevin-scale fame → Senate on schedule → 2016 through the Angry Birds filter → co-option; Jade Helm 15 as Texas hinge.",
+      "U.S. The Office as antibody vs media-driven GOP gridlock. U.K. Office out of scope. Not a claim of NBC writers’ brief.",
+      "Proof out of scope. Pattern + why. Do not re-litigate same-body proof inside catalogue rows.",
+      "Major finds: Basketball motor skill; Whistleblower “I’m a runner”; Gossip piloted-body line.",
+      "High: Secretary’s Day fake voice; Niagara/S7 no-sensation; Fun Run forced 5K cover; Accountants guy-in-a-suit dance.",
+      "Poster is a resonance map, not a quote sheet — invented play-by-play and mis-attributed “fat legs” lines are hygiene errors."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Cruz/Kevin lookalike memes are folk culture. Site-distinctive is the antibody + Jade Helm hinge + athletic/voice/no-sensation catalogue with proof explicitly out of scope.",
+    "topics": [
+      "ted cruz",
+      "kevin malone",
+      "the office",
+      "baumgartner",
+      "jade helm",
+      "angry birds",
+      "bodysuit",
+      "i'm a runner",
+      "basketball",
+      "whistleblower",
+      "gossip",
+      "pattern catalogue"
+    ],
+    "demoQuestions": [
+      "Is Ted Cruz Kevin Malone?",
+      "Why does this site catalogue The Office Kevin lines?",
+      "What is the Cruz Jade Helm hypothesis?",
+      "Did Kevin say I’m a runner?",
+      "Is The Office proof that Cruz wore a bodysuit?"
+    ],
+    "searchQueries": [
+      "ted cruz kevin malone the office jade helm",
+      "kevin malone i'm a runner whistleblower",
+      "cruz kevin basketball motor skill antibody"
+    ],
+    "searchPrefixes": [
+      "governance/war/investigations/"
+    ],
+    "canonicalPaths": [
+      "governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md",
+      "governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md",
+      "governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "controlled-opposition",
+      "911-good-actor-antibody",
+      "presidential-alignment-au046"
+    ],
+    "doNotSay": [
+      "The sitcom is courtroom proof that Cruz and Baumgartner are the same body.",
+      "Calendar and filmography debunks close this file’s question.",
+      "NBC writers encoded Cruz/Texas/elections in subtitles.",
+      "Kevin says “those are some fat legs in shorts.”",
+      "A Basketball play-by-play line names Baumgartner’s make streak on the broadcast.",
+      "Proof-hunting is the point of the Kevin catalogue."
+    ]
+  },
+  {
+    "id": "presidential-alignment-au046",
+    "title": "Presidential alignment — Globalist / Nationalist / Neonationalist (AU-046)",
+    "claim": "Author lock AU-046: U.S. tips score as Globalist, Nationalist, or Neonationalist (Jefferson + Lincoln). Vacuum as a parent camp is retired. Nationalist who failed covers money-board foresight collapses (Jackson Bank War; Coolidge blocking Fed stock-power then refusing another term) and missions cut short (W.H. Harrison, Taylor, Garfield). Nationalist bar includes Native nations. Wall chart shipped. Rocking specimens: Cleveland↔Benjamin Harrison; Ford↔Carter. Compromise-math: real threats are not admitted; allowed opposition is pre-compromised. Child claim: voter-fraud bag is a machine-era instrument, not a mail-in invention. Depression companion is AU-047. Abroad bridge: Stalin as Nationalist tip inside communist OS — not a U.S. wall-chart cell.",
+    "answerOpener": "This site’s presidential scorecard is AU-046: Globalist vs Nationalist vs Neonationalist. There is no Vacuum camp. Jackson and Coolidge are Nationalists who failed on the money board; Harrison, Taylor, and Garfield were cut short.",
+    "bullets": [
+      "Three camps. Vacuum parent retired 2026-08-07; cut-short tips lock as Nationalist who failed.",
+      "Nationalist bar: limited federal power and America-first without a race-apartheid hole that excludes Native nations.",
+      "Failed money-board: Jackson kills the Bank without a lasting settlement; Coolidge blocks Fed stock-power then walks away popular.",
+      "Rocking: Cleveland↔B. Harrison; Ford↔Carter. Hoover→FDR is one-way Globalist deepening, not a bounce.",
+      "Compromise-math (§2.4.3): real threats never admitted. Voter-fraud bag is a separate claim.",
+      "Wall chart: presidential-alignment-scorecard-au046.png. Depression → AU-047."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Left/right or RINO/DINO scorecards are common. Site-distinctive is the three-camp Native-inclusive bar + failed-Nationalist cut-short lock + rocking vs one-way deepening + compromise-math package.",
+    "topics": [
+      "au-046",
+      "au046",
+      "presidential alignment",
+      "globalist",
+      "nationalist",
+      "neonationalist",
+      "coolidge",
+      "jackson",
+      "harrison",
+      "garfield",
+      "rocking presidents",
+      "compromise math"
+    ],
+    "demoQuestions": [
+      "What is AU-046?",
+      "Was Coolidge a nationalist?",
+      "Why did Jackson fail?",
+      "Is there a Vacuum president camp?",
+      "Was Lincoln a nationalist?"
+    ],
+    "searchQueries": [
+      "presidential alignment globalist nationalist neonationalist",
+      "coolidge jackson nationalist who failed",
+      "AU-046 vacuum retired harrison taylor garfield"
+    ],
+    "searchPrefixes": [
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md",
+      "governance/war/the-great-depression-was-planned.md",
+      "governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md",
+      "history/chronology/investigations/author-unique-theories.md"
+    ],
+    "relatedClaimIds": [
+      "great-depression-planned-farm-pen",
+      "voter-fraud-machine-era-bag",
+      "stalin-holodomor-agency",
+      "liz-truss-observable-deep-state",
+      "cruz-kevin-malone-pattern"
+    ],
+    "doNotSay": [
+      "Vacuum is still a parent camp on the scorecard.",
+      "Jackson and Coolidge were Globalist puppets wearing nationalist branding.",
+      "Lincoln is scored Nationalist (he is Neonationalist).",
+      "Every Electoral College result was stolen by ballots.",
+      "Stalin is a U.S. wall-chart cell or a moral twin of Trump."
+    ]
+  },
+  {
+    "id": "great-depression-planned-farm-pen",
+    "title": "Great Depression was planned — farm-pen method, not Cabinet murder minutes",
+    "claim": "Author lock AU-047: the Great Depression was planned as off-books pressure riding dogma, process, and information cages while sincere officials ran the on-books machine — not Roosevelt–Stalin murder minutes and not public stupidity. The American tell is taking the fishery: AAA plow-under and livestock kill while people hungered, then sell federal fish (COVID PLIP/CFAP is the later rhyme, not the AAA twin). Same farm-pen method in Holodomor years: break the map, control what each pen hears. Hoover→FDR is one-way Globalist deepening, not Cleveland–Harrison rocking. Companion wall chart is AU-046.",
+    "answerOpener": "This site’s Depression lock is AU-047: planned consolidation by farm-pen method, not a found Roosevelt–Stalin murder memo and not “they were just stupid.” Hoover into Roosevelt is one-way Globalist deepening.",
+    "bullets": [
+      "Off-books pressure on dogma/process/cages; sincere officials are a feature, not innocence.",
+      "American tell: take the fishery (AAA plow-under / livestock kill) then sell federal fish.",
+      "Holodomor years use the same pen method: break the map, control what each pen hears.",
+      "Hoover→FDR is one-way deepening, not a Cleveland–Harrison rocking duel.",
+      "Parent scorecard is AU-046. Stalin agency is a separate claim."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "McFadden/Coughlin/Fed critiques are widespread. Site-distinctive is the off-books + fishery + farm-pen + one-way-deepening package (AU-047).",
+    "topics": [
+      "great depression",
+      "au-047",
+      "au047",
+      "new deal",
+      "aaa",
+      "fishery",
+      "hoover",
+      "roosevelt",
+      "farm pen",
+      "holodomor",
+      "planned crash"
+    ],
+    "demoQuestions": [
+      "Was the Great Depression planned?",
+      "What is AU-047?",
+      "Did Hoover cause the Depression on purpose?",
+      "How is the New Deal a fishery?"
+    ],
+    "searchQueries": [
+      "great depression planned farm pen fishery",
+      "AU-047 hoover roosevelt one-way deepening",
+      "aaa plow-under livestock kill federal fish"
+    ],
+    "searchPrefixes": [
+      "governance/war/",
+      "governance/genocide/"
+    ],
+    "canonicalPaths": [
+      "governance/war/the-great-depression-was-planned.md",
+      "governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md",
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "presidential-alignment-au046",
+      "stalin-holodomor-agency",
+      "voter-fraud-machine-era-bag"
+    ],
+    "doNotSay": [
+      "The site has a Roosevelt–Stalin signed murder minute for the Depression.",
+      "The Depression was only public stupidity or an accident of gold.",
+      "Hoover was a Nationalist repair tip.",
+      "Hoover into Roosevelt was a Cleveland–Harrison rocking bounce."
+    ]
+  },
+  {
+    "id": "voter-fraud-machine-era-bag",
+    "title": "Voter fraud is a machine-era bag-of-tricks instrument — mail did not invent it",
+    "claim": "Author lock AU-046 §2.4.4: voter fraud where the margin was thin enough to matter is an establishment bag-of-tricks instrument. Peak vulnerability was the 19th-century party-ticket / urban-machine era (Tammany, repeaters, stuffed boxes), not modern mass mail-in. Specimens: Sullivan County 1931 absentee colonization; LBJ 1948 Box 13; 1960 Chicago-machine accusation Nixon chose not to litigate. Soft history already admits Gilded Age fraud culture; the Author move is to keep that instrument on the board next to red tape and tip-removal. Not a claim that every Electoral College tip was flipped by ballots.",
+    "answerOpener": "This site treats voter fraud as a machine-era bag of tricks, not as something mail-in ballots invented. Peak vulnerability is Tammany / stuffed boxes / Box 13 — not 2020 as origin.",
+    "bullets": [
+      "Instrument where margins are thin enough to matter — not every EC result stolen.",
+      "Peak: 19th-century party-ticket / urban-machine (Tammany, repeaters, stuffed boxes).",
+      "Specimens: Sullivan County 1931; LBJ 1948 Box 13; 1960 Chicago accusation Nixon did not litigate.",
+      "Mail-in did not invent the bag. Parent lock is AU-046."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Gilded Age fraud culture is textbook. Site-distinctive is keeping the instrument on the AU-046 board next to red tape and tip-removal rather than treating mail-in as the origin.",
+    "topics": [
+      "voter fraud",
+      "tammany",
+      "box 13",
+      "lbj",
+      "chicago 1960",
+      "mail-in",
+      "absentee",
+      "machine era",
+      "au-046"
+    ],
+    "demoQuestions": [
+      "Does this site think voter fraud is real?",
+      "Did mail-in ballots invent voter fraud?",
+      "What is Box 13?"
+    ],
+    "searchQueries": [
+      "voter fraud machine era box 13 chicago 1960",
+      "AU-046 mail-in did not invent fraud"
+    ],
+    "searchPrefixes": [
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md",
+      "governance/war/the-great-depression-was-planned.md"
+    ],
+    "relatedClaimIds": [
+      "presidential-alignment-au046",
+      "great-depression-planned-farm-pen"
+    ],
+    "doNotSay": [
+      "Every Electoral College tip was flipped by ballots.",
+      "Mass mail-in invented voter fraud.",
+      "The site treats 2020 as the first fraud era."
     ]
   }
 ]
