@@ -117,6 +117,7 @@ Later generations do **not** carry Boomer survivalist fear the same way. We are 
 Supporting write-ups and companions:
 
 - [JFK & RFK staged-assassination investigation](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md) — full apparatus, Cesar, disclosure envelope, PP catalog  
+- [Gandhi](https://paradigmthreat.net/influence/conspiracy/celebrities/gandhi.md) — same job grammar: start the war, tie off the starter; fourth bullet / magic bullet; **quiet, dead or alive**. JFK not killed. Gandhi body-status **Open** (no post-mortem Documented; hoax lane for natal-sex reason only).  
 - [Dean Hartwell — RFK](https://deanhartwell.weebly.com/robert-f-kennedy.html) · [*Who Shot RFK*](https://substack.com/@pwp911) · [Thane Cesar Did Not Shoot RFK](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk)  
 - [Good-actor / interagency antibody](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [Ghost War: The Antibody Phase](https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.md)  
 - [Not Like This](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) · [JFK prophet notes](https://paradigmthreat.net/events/jfk/prophet.md) · [Everything in Independence Day Is True](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md)  
@@ -131,7 +132,7 @@ Keywords: #JFK #RFK #RFKJr #NeverAssassinated #StagedAssassination #FakeDeath #P
 
 **Substack:** [paradigmthreat2.substack.com/p/jfk-was-never-assassinated](https://open.substack.com/pub/paradigmthreat2/p/jfk-was-never-assassinated?r=5p8s4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-**Last updated:** 2026-07-17T12:22:00-04:00
+**Last updated:** 2026-08-14T09:00:00-04:00
 
 ---
 

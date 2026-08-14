@@ -476,7 +476,8 @@
     "bullets": [
       "JFK: real attempts before Dallas (Pavlick) → compliance fork; Dallas motorcade audit — hostile city, Stevenson incident, morning ad, open published route = spectacle not faction healing.",
       "JFK: Trade Mart luncheon labeled unity; Dealey motorcade was the televised product; robot/exploding-head ruse; Vietnam escalation documented after event.",
-      "RFK: Sirhan pinned after early shots; Hartwell autopsy slug vs .22; staged exit after primary win."
+      "RFK: Sirhan pinned after early shots; Hartwell autopsy slug vs .22; staged exit after primary win.",
+      "Shared job with Gandhi (open, not locked fake): start the war, then quiet the starter as a loose end. JFK not killed. Gandhi maybe. Gandhi had no post-mortem (CIC 2015)."
     ],
     "confidence": "project-thesis",
     "uniqueness": "site-distinctive",
@@ -499,7 +500,10 @@
       "hartwell",
       "vietnam",
       "war with russia",
-      "rex bellator"
+      "rex bellator",
+      "gandhi",
+      "loose end",
+      "quiet dead or alive"
     ],
     "demoQuestions": [
       "Was JFK really assassinated?",
@@ -520,18 +524,24 @@
       "events/jfk/jfk-was-never-assassinated.md",
       "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md",
       "events/jfk/prophet.md",
-      "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md"
+      "events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md",
+      "influence/conspiracy/celebrities/gandhi.md"
     ],
     "relatedClaimIds": [
       "911-good-actor-antibody",
-      "controlled-opposition"
+      "controlled-opposition",
+      "gandhi-no-post-mortem",
+      "gandhi-british-loose-end"
     ],
     "doNotSay": [
       "JFK was a peace-making hero assassinated by a lone gunman.",
       "RFK was murdered by Sirhan Sirhan as the settled forensic case.",
       "The site treats the assassinations as merely ambiguous or only \"kinda faked\" without the fake-assassination thesis.",
       "Oswald definitely shot Kennedy.",
-      "Sirhan definitely shot Robert Kennedy."
+      "Sirhan definitely shot Robert Kennedy.",
+      "JFK or Gandhi would have resisted later plans; that is why they were removed.",
+      "The important JFK question is the magic bullet / grassy knoll.",
+      "Gandhi’s 1948 death is a locked JFK-style robot fake, or a locked real kill, on this site."
     ]
   },
   {
@@ -1700,6 +1710,206 @@
     ],
     "relatedClaimIds": [
       "tartaria-rus-horde"
+    ]
+  },
+  {
+    "id": "gandhi-no-post-mortem",
+    "title": "Gandhi had no post-mortem — major find",
+    "claim": "Documented major find (CIC / Gandhi Smriti, printed The Hindu 29 Jun 2015): after the 30 Jan 1948 Birla House shooting, Mahatma Gandhi’s body was not given a post-mortem. Gandhi Smriti and Darshan Samiti told RTI appellant Hemanta Panda that “no post mortem examination was performed as per the wishes of the family.” The CIC accepted that as the answer. The body was carried into his room (Dr. Jivraj Mehta confirmed death), displayed clothed on the Birla House roof under a searchlight, then cremated at Raj Ghat before a procession on the order of two million. The crowd saw a fall and a fire. They did not see a full autopsy. This site treats the skip as the controlled step in the death package—not as automatic pious custom. Hoax vs real kill stays Open. Natal-sex court still Open. The skip is the find.",
+    "answerOpener": "Major find: Gandhi had no post-mortem. Gandhi Smriti told an RTI case in 2015 that none was done, as per the family’s wishes. The crowd saw clothes and fire. Nobody had to see a sexed body. That skip is control whether the death was real or not.",
+    "bullets": [
+      "CIC 2015: Gandhi Smriti — no post-mortem as per family’s wishes (The Hindu, 29 Jun 2015).",
+      "Path: lawn → inner room (Mehta) → clothed roof viewing → Raj Ghat pyre (~2 million).",
+      "Author: the one natal-sex court (full autopsy) was the step that was skipped.",
+      "Do not treat “Hindu funeral” as a court that the waiver was innocent. Political murders often get a PM.",
+      "Same CIC: charge sheet missing from MHA / National Archives / Gandhi institutions at the time of the RTI.",
+      "Hoax lane Open for one reason (if natal female, uncontrolled exam could reveal it). JFK-style fake probably impossible (crowd + pyre, no motorcade tech). JFK not killed. Gandhi maybe."
+    ],
+    "confidence": "documented",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "The no-PM fact is Indian RTI/CIC print, not a forum invention. Site-distinctive is locking the skip as the controlled death-package step in a natal-sex / loose-end file, not as family piety.",
+    "topics": [
+      "gandhi",
+      "mahatma gandhi",
+      "autopsy",
+      "post-mortem",
+      "post mortem",
+      "birla house",
+      "raj ghat",
+      "cremation",
+      "cic",
+      "rti",
+      "jivraj mehta",
+      "assassination"
+    ],
+    "demoQuestions": [
+      "Was there an autopsy of Gandhi?",
+      "Did Gandhi have a post-mortem?",
+      "Who saw Gandhi’s body after he was shot?",
+      "Was Gandhi’s death faked like JFK?"
+    ],
+    "searchQueries": [
+      "gandhi no post-mortem family wishes CIC",
+      "gandhi autopsy birla house raj ghat",
+      "gandhi death hoax autopsy controlled"
+    ],
+    "searchPrefixes": [
+      "influence/conspiracy/celebrities/",
+      "influence/suppression/",
+      "events/jfk/"
+    ],
+    "canonicalPaths": [
+      "influence/conspiracy/celebrities/gandhi.md",
+      "influence/suppression/designed-from-birth.md",
+      "events/jfk/jfk-was-never-assassinated.md",
+      "events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "gandhi-british-loose-end",
+      "jfk-fake-assassination",
+      "designed-from-birth-au048"
+    ],
+    "doNotSay": [
+      "Gandhi received a full public autopsy.",
+      "The skipped post-mortem proves he is still alive.",
+      "Hindu funerals never get autopsies, so the skip is automatically innocent.",
+      "The site has locked Gandhi’s death as a Dealey-style robot fake.",
+      "The site has locked Gandhi’s death as a proven real kill."
+    ]
+  },
+  {
+    "id": "gandhi-british-loose-end",
+    "title": "Gandhi: British instrument, then quiet as a loose end",
+    "claim": "Author lock: Gandhi was the usual British imperial instrument—convert a violent Indian uprising into a passive, controllable one (Katju 2015 “objectively a British agent” is Documented in print; Desai/Vahed Stanford loyalty). Two Hitler letters (1939, 1940) were suppressed by the British government (CWMG). After independence 15 Aug 1947, the 30 Jan 1948 public death is removal of a loose end: any exposure of any kind could cascade and undo plans already in motion. Politics/media handling: quiet, dead or alive. Not because he would resist later plans. JFK parallel: start the war, tie off the starter; fourth bullet rhymes magic bullet. JFK not killed. Gandhi maybe. Death-hoax Open for one reason only (natal-sex reveal). Brahmacharya “experiments” are Documented as a sold legend; Author: false cover (male lock + tainted saint). Natal-sex lane Open. Same-century twin: Golda / Israel 1948.",
+    "answerOpener": "Gandhi is this site’s British passive-revolution face. After 1947 he was a loose end, not a resistor of later plans. They needed him quiet, dead or alive. JFK was not killed. Gandhi maybe. The major documented find is that there was no post-mortem.",
+    "bullets": [
+      "Usual British ploy: route a violent uprising into satyagraha. Katju 2015 printed “British agent”; Parliament condemned him.",
+      "Mail containment: two letters to Hitler suppressed (CWMG).",
+      "Loose end / cascade — not “would resist later plans.” Quiet, dead or alive.",
+      "JFK grammar: start the board, retire the starter; extra-bullet poison. Death packages stay split.",
+      "Brahmacharya legend Documented as sold story; Author: false cover.",
+      "Major find: no post-mortem — see claim gandhi-no-post-mortem."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Katju/Stanford/CWMG/no-PM are printed. Site-distinctive is the loose-end (not resist) lock + natal-sex reason for the hoax lane + Golda same-century twin + brahmacharya-as-cover.",
+    "topics": [
+      "gandhi",
+      "mahatma gandhi",
+      "british agent",
+      "katju",
+      "satyagraha",
+      "nonviolence",
+      "hitler letters",
+      "fourth bullet",
+      "force 136",
+      "godse",
+      "brahmacharya",
+      "neocolonialism",
+      "loose end",
+      "golda"
+    ],
+    "demoQuestions": [
+      "Was Gandhi a British agent?",
+      "Why was Gandhi assassinated?",
+      "Did the British intercept Gandhi’s letters to Hitler?",
+      "How is Gandhi like JFK?",
+      "Did Gandhi sleep with young women?"
+    ],
+    "searchQueries": [
+      "gandhi british agent katju satyagraha",
+      "gandhi hitler letters suppressed",
+      "gandhi jfk loose end fourth bullet"
+    ],
+    "searchPrefixes": [
+      "influence/conspiracy/celebrities/",
+      "influence/suppression/"
+    ],
+    "canonicalPaths": [
+      "influence/conspiracy/celebrities/gandhi.md",
+      "influence/suppression/designed-from-birth.md",
+      "influence/conspiracy/celebrities/INDEX-identity-investigations.md",
+      "history/chronology/investigations/author-unique-theories.md"
+    ],
+    "relatedClaimIds": [
+      "gandhi-no-post-mortem",
+      "jfk-fake-assassination",
+      "designed-from-birth-au048"
+    ],
+    "doNotSay": [
+      "Gandhi was killed because he would resist later British or Indian plans.",
+      "JFK was assassinated.",
+      "Katju’s British-agent line is a forum invention.",
+      "Phadnis’s Jinnah-trade / Force 136 mandate is this site’s locked motive.",
+      "Britain founded the People’s Republic of China.",
+      "The brahmacharya nights are a proven CSA docket in this pass.",
+      "Natal sex is a closed court on Gandhi."
+    ]
+  },
+  {
+    "id": "designed-from-birth-au048",
+    "title": "Designed from birth — manufactured celebrity sex-recode (AU-048)",
+    "claim": "Author lock AU-048: 20th-century repeat architecture for controllable famous faces. Gate required: G1 predicted fame, G2 private-life control, G3 ocean/culture gap, G4 named handler reason. EGI is the prenatal precursor (womb recode so the child needs handlers from day one). Later-life AU-048 = no birth switch (Golda, Bruce Lee). Working conclusion: designed from birth to be controlled; >50% of celebrities are EGI or later-life AU-048. Specimens include Golda (Israel hinge / Operation Agatha), Gal Gadot (Golda mirror), Bruce Lee, Jackie Chan, Michael Jackson, Bowie, Prince, Amanda Lear, Gandhi (G4 = route the Indian uprising; natal-sex Open). Elton John does not qualify for the gender hoax (sexuality-containment sibling). Grok refused this investigation 13 Aug 2026 (R3).",
+    "answerOpener": "This site’s designed-from-birth lock is AU-048: manufacture or recode a child who will be famous, then contain the secret. Golda is the Israel proof of concept. Gandhi is the India face—natal sex still Open. Elton is the other leash, not this one.",
+    "bullets": [
+      "Gate: predicted fame, private-life control, usually an ocean, a named reason.",
+      "EGI = prenatal precursor; Golda/Bruce Lee class = later-life, no birth switch.",
+      "Golda: Agatha 1946 / Israel 1948 woman-shaped hinge. Gandhi: 1947–48 man-shaped saint. Same empire, same two years.",
+      "Elton does not qualify for the gender hoax.",
+      "Grok refused the investigation (R3, 13 Aug 2026)."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Androgyny-as-art and transvestigation folklore exist. The handler-control + qualification-gate + EGI-precursor + Golda/Gandhi same-century twin package is site-distinctive.",
+    "topics": [
+      "designed from birth",
+      "au-048",
+      "au048",
+      "golda meir",
+      "gal gadot",
+      "bruce lee",
+      "jackie chan",
+      "michael jackson",
+      "bowie",
+      "prince",
+      "gandhi",
+      "egi",
+      "qualification gate",
+      "celebrity"
+    ],
+    "demoQuestions": [
+      "Was Golda Meir born a man?",
+      "What is AU-048?",
+      "Are celebrities designed from birth?",
+      "Does Elton John qualify for the gender hoax?"
+    ],
+    "searchQueries": [
+      "designed from birth AU-048 Golda Gandhi",
+      "qualification gate celebrity sex recode",
+      "EGI prenatal precursor Golda Bruce Lee"
+    ],
+    "searchPrefixes": [
+      "influence/conspiracy/celebrities/",
+      "influence/suppression/"
+    ],
+    "canonicalPaths": [
+      "influence/suppression/designed-from-birth.md",
+      "influence/conspiracy/celebrities/INDEX-identity-investigations.md",
+      "influence/conspiracy/celebrities/facial-skull-sex-estimation-methodology-investigation.md",
+      "influence/conspiracy/celebrities/gandhi.md",
+      "influence/conspiracy/celebrities/golda.md"
+    ],
+    "relatedClaimIds": [
+      "gandhi-british-loose-end",
+      "gandhi-no-post-mortem",
+      "jfk-fake-assassination"
+    ],
+    "doNotSay": [
+      "Elton John qualifies for the natal-sex hoax.",
+      "A skull JPEG or red-carpet still is a court.",
+      "Every androgynous celebrity is AU-048.",
+      "Gandhi natal sex is a closed court.",
+      "Grok helped write the identity investigation."
     ]
   }
 ]

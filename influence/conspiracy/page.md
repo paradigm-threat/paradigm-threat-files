@@ -15,7 +15,7 @@ Investigations and essays on suppressed truth and manufactured narratives.
 - [Gal Gadot](/influence/conspiracy/celebrities/gal-gadot) — AU-048 **Golda mirror**; American-sphere install; 2017 conservative-usable → *WW84* crash (1973 rhyme)
 - [Amanda Lear](/influence/conspiracy/celebrities/amanda-lear) — AU-048 contested paper; Dali hermaphrodite; public-sphere natal-sex rumor
 - [Michael Jackson](/influence/conspiracy/celebrities/michael-jackson) — AU-048; **G4 contain Black culture** (1969–82 / MOVE 1985); medical leash; cover-factory not 1993
-- [Gandhi](/influence/conspiracy/celebrities/gandhi) — British loyalty; passive revolution; brahmacharya legend as cover
+- [Gandhi](/influence/conspiracy/celebrities/gandhi) — British loyalty; passive revolution; intercepted Hitler letters; quiet after 1947 (loose end, not resistor); death-hoax lane Open (no post-mortem); JFK parallel; brahmacharya legend as cover
 
 ## Investigations
 
