@@ -55,10 +55,10 @@ Same handler grammar (exposure unbearable → run back to protection). Different
 | Subject | File | Status | Lane |
 |---------|------|--------|------|
 | **Amanda Lear** | [amanda-lear.md](amanda-lear.md) | Open (2026-08-13) | **AU-048** — contested paper; Dali hermaphrodite; public-sphere natal-sex rumor |
-| **Bruce Lee** | [bruce-lee.md](bruce-lee.md) | Ongoing | **AU-048** — childhood female name/dress/school |
+| **Bruce Lee** | [bruce-lee.md](bruce-lee.md) | Ongoing | **AU-048** — childhood female name/dress/school; Wing Chun female lineage / Wuxing strip; *Iron Monkey* (1993) girl-as-boy export |
 | **David Bowie** | [david-bowie.md](david-bowie.md) | Open (2026-08-13) | **AU-048** — age-17 industrial outing; Dionysus/Tiresias encryption |
-| **Gal Gadot** | [gal-gadot.md](gal-gadot.md) | Open (expanded 2026-08-13) | **AU-048** — **Golda mirror**; 2017 bait in a full house (*Infinity War* is the lasting hit); *WW84* lure-then-lecture |
-| Gandhi | [gandhi.md](gandhi.md) | Ongoing | British loyalty |
+| **Gal Gadot** | [gal-gadot.md](gal-gadot.md) | Open (expanded 2026-08-13; G3 honest 2026-08-14) | **AU-048** — **Golda mirror**; G3 **weaker** than Golda (Miss Israel / IDF checkable); still belongs on G4; 2017 bait / *WW84* lecture |
+| **Gandhi** | [gandhi.md](gandhi.md) | Open (2026-08-14 cover lock) | British loyalty; **passive-revolution** G4; brahmacharya legend **Documented as sold story**, **Author: false cover** (male lock + tainted saint). Natal-sex lane **open** — not a court |
 | **Golda Meir** | [golda.md](golda.md) | Open (qualification lock 2026-08-13) | **AU-048** — **Israel control hinge**; Agatha; dubious papers; globalist-man’s-mindset payload |
 | **Jackie Chan** | [jackie-chan.md](jackie-chan.md) | Open (expanded 2026-08-13) | **AU-048** — qualification gate; British HK; *Rush Hour* NSA exception; messaging vs entertainment |
 | **Methodology (shared)** | [facial-skull-sex-estimation-methodology-investigation.md](facial-skull-sex-estimation-methodology-investigation.md) | Open (2026-08-13) | Instrument for the cluster |
@@ -67,7 +67,7 @@ Same handler grammar (exposure unbearable → run back to protection). Different
 
 **2026-08-13 cull:** six 2026-03-12 Cursor stubs removed (no author thesis; fail G1–G4): Ruth Gordon, Richard Askwith, Sheila Florance, Brett Gelman, Shelley Winters, Brandy Vaughan. Do not re-add from the March 12 blog.
 
-**Strongest childhood paper in the cluster:** Bruce Lee (Sai Feng / girl’s school / *Golden Gate Girl*). **Hardest music case:** Bowie (no opposite-sex childhood document). **Strongest *published* official counter:** [Michael Jackson](michael-jackson.md) LA coroner **adult male genitalia** (fuller than Prince’s one-page **Sex: Male**). **Author (2026-08-13):** you never get an honest celebrity autopsy — the sheet is death-package paper, not a court. **Loudest public-sphere natal-sex rumor:** [Amanda Lear](amanda-lear.md) (*Observer* 2000; *Enigma* 2025). **Loudest subject-denied sex-change rumor in music:** MJ 1977 *Jet*/*Soul* (“not a girl”). **Qualification worked examples:** Jackie Chan (oceans + academy) · **Golda (highest G4 — Israel project hinge)** · **Gal Gadot (Golda mirror / Hollywood hinge)**.
+**Strongest childhood paper in the cluster:** Bruce Lee (Sai Feng / girl’s school / *Golden Gate Girl*). **Hardest music case:** Bowie (no opposite-sex childhood document). **Strongest *published* official counter:** [Michael Jackson](michael-jackson.md) LA coroner **adult male genitalia** (fuller than Prince’s one-page **Sex: Male**). **Author (2026-08-13):** you never get an honest celebrity autopsy — the sheet is death-package paper, not a court. **Loudest public-sphere natal-sex rumor:** [Amanda Lear](amanda-lear.md) (*Observer* 2000; *Enigma* 2025). **Loudest subject-denied sex-change rumor in music:** MJ 1977 *Jet*/*Soul* (“not a girl”). **Qualification worked examples:** Jackie Chan (oceans + academy) · **Golda (highest G4 — Israel project hinge)** · **Gal Gadot (Golda mirror / Hollywood hinge)**. **Gandhi (2026-08-14):** G4 = **route the Indian uprising**; brahmacharya legend is **Documented as sold story**, **Author: false cover** (male lock + tainted saint). Natal-sex still **open**.
 
 ---
 
@@ -144,6 +144,6 @@ Score these. Do **not** auto-stub. The **Test** column is the exam.
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #IdentityInvestigations #AU048 #QualificationGate #PublicSphereRumor #SexualityContainment #MedicalContainment #EGI #Freemartin #SophiaLoren #PrincessQajar #EltonJohn #MichaelJackson #MarleneDietrich #JosephineBaker #GraceJones #FacialSkullSexEstimation #GoldaMeir #GalGadot #AmandaLear #BruceLee #DavidBowie #Prince #JackieChan #ParadigmThreatFiles
+Keywords: #IdentityInvestigations #AU048 #QualificationGate #PublicSphereRumor #SexualityContainment #MedicalContainment #EGI #Freemartin #SophiaLoren #PrincessQajar #EltonJohn #MichaelJackson #MarleneDietrich #JosephineBaker #GraceJones #FacialSkullSexEstimation #GoldaMeir #GalGadot #AmandaLear #BruceLee #DavidBowie #Prince #JackieChan #Gandhi #Brahmacharya #ParadigmThreatFiles
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14

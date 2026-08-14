@@ -76,10 +76,12 @@ Method: facial-skull-sex-estimation-methodology-investigation.md
 |------|-----------|----------|
 | **G1 Predicted fame** | Pass | Miss Israel 2004 → Maxim “Women of the Israeli Army” 2007 → *Fast & Furious* 2009 (Diesel meeting) → WW announced **2013**. Pipeline visible years before the 2017 splash. |
 | **G2 Private-life control** | Pass | Mandatory IDF; 2014/2023 loyalty tests **passed**; career survives boycott campaigns. Breaking the Israel line would end the American job. That is a leash whether or not natal sex is recoded. |
-| **G3 Ocean / culture gap** | Pass | Israel → Hollywood. US audience cannot check childhood paper or IDF file. |
+| **G3 Ocean / culture gap** | **Partial** — weaker than Golda | Israel → Hollywood. **US** audience cannot check childhood paper or IDF file. **Israeli** public *can*: Miss Israel 2004, IDF instructor, Rosh HaAyin. Golda’s G3 is three black holes (Kiev / Milwaukee / Palestine). Gal is a **one-ocean** install. Do **not** score this as Golda-class. |
 | **G4 A reason** | Pass — **Golda-mirror / American-sphere hinge** | During mass disillusionment over Israel, the board needed one face who would **not** say the sentence that turns the tide — and who would carry a **globalist feminist** wrapper so the install looks like women’s progress, not state PR. |
 
 Natal-sex hoax is **optional** on G2. She can fail AFAB/AMAB and **still** pass as a messaging asset. Same rule as Jackie.
+
+**Why G3 is weaker than Golda’s, and why she still belongs:** Golda’s receiving publics cannot walk back to Kiev. Gal’s Israeli public *can* walk back to Miss Israel and the IDF. That is honest. She still belongs because **G4 is the hinge** — Israel face in the American sphere; stick to the narrative when one different sentence could turn the tide — and because **G1** (pageant → *Fast* → WW) and **G2** (IDF / contract / boycott-proof loyalty) already pass. A weaker ocean gate does not eject a Golda-mirror messaging asset. It means this file is **not** a childhood-paper court. Reader installment: [Designed from birth](/influence/suppression/designed-from-birth.md).
 
 ---
 
@@ -310,7 +312,7 @@ Author: already saw facial-bone analysis; that pointed this direction. Cluster m
 
 Keywords: #GalGadot #AU048 #AU045 #QualificationGate #GoldaMirror #WonderWoman #WW84 #InfinityWar #SaveOurStages #YomKippurWar #IDF #GlobalistFeminism #AmericanSphere #ParadigmThreatFiles
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 
 ---
 

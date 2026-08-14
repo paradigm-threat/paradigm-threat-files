@@ -60,6 +60,14 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 
 **Thesis:** The British had interest in ensuring that (a) Wing Chun's 300-year female lineage was not popularized in the West, (b) the art was associated with a male figure who could be elevated and then removed, and (c) Wuxing philosophy—which contextualizes the animal styles and the art's cosmological basis—remained obscure. At a time when the CCP (phallocentric, patriarchal, British-aligned) was pursuing Republic leaders to Taiwan, a narrative of female martial arts leadership would have threatened the desired order. Had Western cinema featured the female Wing Chun legacy—Ng Mui, Yim Wing-chun, the art's design for the "weak to defeat the strong"—women's participation in martial arts in the 20th century might have been the rule rather than the exception.
 
+### *Iron Monkey* (1993) — the hide in an export movie
+
+**Documented:** Yuen Woo-ping’s *Iron Monkey* (1993). Donnie Yen as Wong Kei-ying. The child **Wong Fei-hung** — the most famous boy-hero in Chinese martial cinema — is played by **Tsang Sze-man (Angie Tsang)**, a girl of about thirteen, a wushu athlete ([IMDb trivia](https://www.imdb.com/title/tt0108148/trivia/); [Wikipedia: Angie Tsang](https://en.wikipedia.org/wiki/Angie_Tsang)). Miramax released it in the West. Most foreign audiences never notice. They watch a little boy.
+
+**Author:** this is the literature-hide sitting in a commercial print. If a camera cannot tell, a receiving public across an ocean cannot tell. Same grammar as Sai Feng / *Golden Gate Girl*: the export public inherits a sex. It does **not** prove Lee was AFAB. It proves the **craft** was ordinary in the same industry that minted him. [Jackie §4](jackie-chan.md#41-chinese-literature-already-knows-the-hide) — academy girls training with boys is the rooftop version of the same technology.
+
+Cosmology companion: [Wuxing / five planets](/history/chronology/investigations/wuxing-five-planets-dark-ages.md). Reader: [Designed from birth](/influence/suppression/designed-from-birth.md).
+
 ### Lee as Assigned Female at Birth: Dressed as Girl, Female Name, Girl's School
 
 **Documented evidence:** Bruce Lee was dressed as a girl and given a female name throughout early childhood. Accounts attribute this to **mother** (William Cheung: she was superstitious, feared demons would steal male children after an older brother died in infancy) or to **parents** collectively. [SMH](https://www.smh.com.au/national/victoria/all-the-right-moves-20110119-19wp3.html) [Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/lee-bruce)
@@ -111,5 +119,7 @@ Lee trained under Ip Man from age 13 for approximately four and a half years. [U
 
 ---
 
-Keywords: #Bruce #Lee #Death #Identity #Wing #Chun #British #Suppression #Female #Martial #Arts
+Keywords: #Bruce #Lee #Death #Identity #Wing #Chun #British #Suppression #Female #Martial #Arts #IronMonkey #Wuxing
+
+**Last updated:** 2026-08-14
 

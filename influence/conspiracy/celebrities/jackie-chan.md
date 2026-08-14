@@ -100,7 +100,9 @@ Gender hoax is **optional** on G2. Jackie can fail the natal-sex claim and **sti
 
 ### 4.1 Chinese literature already knows the hide
 
-Women martial artists who must **not** be seen as women: [Bruce Lee dossier](bruce-lee.md) — **Ng Mui**, **Yim Wing-chun**, 300-year female Wing Chun myth; Ip Man’s HK curriculum stripping Wuxing. Wuxia and opera also keep **female warriors** and **male dan** (men playing women) as normal craft.
+Women martial artists who must **not** be seen as women: [Bruce Lee dossier](bruce-lee.md) — **Ng Mui**, **Yim Wing-chun**, 300-year female Wing Chun myth; Ip Man’s HK curriculum stripping Wuxing. Wuxia and opera also keep **female warriors** and **male dan** (men playing women) as normal craft. The other craft is the one this cluster needs: a **girl playing a boy** so she can train and fight.
+
+**Perfect export specimen — *Iron Monkey* (1993):** Yuen Woo-ping; Donnie Yen as the father; the child **Wong Fei-hung** played by **Tsang Sze-man (Angie Tsang)**, a girl ~13 ([IMDb trivia](https://www.imdb.com/title/tt0108148/trivia/); [Angie Tsang](https://en.wikipedia.org/wiki/Angie_Tsang)). Most foreigners never tell. They watch a little boy. **Author:** if Miramax cannot tell, the American receiving public cannot tell. That is G3 as a movie. It does **not** prove Jackie was AFAB. It proves the hide was commercial craft in the same industry. Full write-up: [Bruce Lee — Iron Monkey](bruce-lee.md#iron-monkey-1993--the-hide-in-an-export-movie).
 
 **Documented at Jackie’s own school:** girls trained **with** the boys under Yu — Yuen Qiu: *“I consider myself to be one of the guys”*; Yuen Po: no difference in practice ([SCMP — Yuen sisters](https://www.scmp.com/article/669706/film-studies-yuens-sisters-action)). The academy **had** a hide-with-the-boys culture. That does **not** prove Jackie was AFAB. It proves the **social technology** existed on the same rooftop.
 
@@ -257,9 +259,9 @@ Cluster already treated Jackie as a facial-analysis subject (INDEX header). **No
 
 ---
 
-Keywords: #JackieChan #AU048 #QualificationGate #BritishHongKong #RushHour #KarateKid #ChinaDramaAcademy #MessagingAsset #ParadigmThreatFiles
+Keywords: #JackieChan #AU048 #QualificationGate #BritishHongKong #RushHour #KarateKid #ChinaDramaAcademy #MessagingAsset #IronMonkey #WingChun #ParadigmThreatFiles
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 
 ---
 
