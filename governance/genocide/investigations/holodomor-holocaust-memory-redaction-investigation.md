@@ -213,7 +213,7 @@ Stalin-era documents **rarely say “famine.”** They argue **plan discipline**
 2. Show Stalin held **absolute tip** power to suspend procurements/exports/seals without losing the board to civil-war return.  
 3. Collapse §2.5 into personal genocide authorship without answering the absolute-king agency problem.
 
-**Cross-links:** [Depression article](/governance/war/the-great-depression-was-planned.md) · [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) · [AU-046](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#28-stalin-nationalist-tip--not-communist-ideologue--trump-rhyme-author-lock-2026-08-09) · site claim `stalin-holodomor-agency`.
+**Cross-links:** [Depression article](/governance/war/the-great-depression-was-planned.md) · [AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) · [AU-046](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md#28-stalin-nationalist-tip--not-communist-ideologue--trump-rhyme-author-lock-2026-08-09) · site claims `stalin-holodomor-agency` · `mein-kampf-holodomor-cascade`.
 
 ### 2.8 Author lock — Stalin Nationalist tip (not communist ideologue) / Trump rhyme (2026-08-09)
 
@@ -257,7 +257,7 @@ Stalin-era documents **rarely say “famine.”** They argue **plan discipline**
 
 **Documented vs Author:** Occupation-era mass distribution of Nazi texts is soft-history adjacent (**B**). Late-1920s/30s smuggling scale and “real cause of Holodomor” are **Author**. Nazism-as-communism-flavor is **Author**.
 
-**Cross-links:** [Depression article Ukraine section](/governance/war/the-great-depression-was-planned.md) · [AU-047 §8A.2](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) · [Paperclip](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md).
+**Cross-links:** [Depression article Ukraine section](/governance/war/the-great-depression-was-planned.md) · [AU-047 §8A.2](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) · [Paperclip](/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md) · site claim `mein-kampf-holodomor-cascade`.
 
 ---
 

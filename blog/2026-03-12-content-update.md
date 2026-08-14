@@ -14,7 +14,7 @@ One day since the last update: paradigm-threat-files expanded with identity inve
 
 Investigations restructured from a flat list into:
 
-- **[celebrities/](https://paradigmthreat.net/influence/conspiracy/celebrities)** — People (Bruce Lee, Jackie Chan, Prince, Gal Gadot, Ruth Gordon, Richard Askwith, Sheila Florance, Gandhi, Brett Gelman, Shelley Winters, Brandy Vaughan, Golda Meir)
+- **[celebrities/](https://paradigmthreat.net/influence/conspiracy/celebrities)** — People (Bruce Lee, Jackie Chan, Prince, Gal Gadot, Gandhi, Golda Meir; later Bowie). **2026-08-13:** six 2026-03-12 Cursor stubs removed (Ruth Gordon, Richard Askwith, Sheila Florance, Brett Gelman, Shelley Winters, Brandy Vaughan) — no author thesis, failed qualification gate.
 - **[topics/](https://paradigmthreat.net/influence/conspiracy/topics)** — bitcoin, zoot, circumcision_cult, criticism
 
 ### [INDEX: Identity Investigations](https://paradigmthreat.net/influence/conspiracy/celebrities/INDEX-identity-investigations.md)

@@ -119,7 +119,7 @@ Christian-adjacent and para-religious lanes often circulate similar pages: **Moo
 | Fomenko vs author claims | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
 | Redaction as project theme | [/history/chronology/history-qa/page.md](/history/chronology/history-qa/page.md) (First / Second / Third History) |
 | Europe white / non-white taxonomy | [/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md](/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md) |
-| Amaruka / Khan Meru / Wall Street Ottoman wall (**AU-038**) | [/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) — Meru royalty + Dutch shell; uses **black George II** gloss as bridge |
+| Amaruka / Khan Meru / Wall Street Ottoman wall (**AU-038**) | [/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) — Meru royalty + Dutch shell; **black George II** bridge; **Nuttall 1621** *Moorish→Indian* documented alteration |
 | Anna’s Archive workflow | [/docs/ANNAS_ARCHIVE_HOLLOW_EARTH.md](/docs/ANNAS_ARCHIVE_HOLLOW_EARTH.md) |
 
 **Franklin §23 with *Boors*:** he feared **Germanization** of Pennsylvania in a colony already shaped by **slavery and settler hierarchy** — same document §24 ties immigration to **excluding “Blacks and Tawneys.”**
@@ -189,7 +189,7 @@ rg -i 'Palatine Moors|black German King|George the 2nd' ./downloads/
 
 Keywords: #Franklin #PalatineMoors #PalatineBoors #Observations1751 #BenjaminFranklin #SwarthyKings #MoorEtymology #AtlanticSlavery #BookHunt #ParadigmThreatFiles
 
-**Last updated:** 2026-05-16
+**Last updated:** 2026-08-12 (cross-link AU-038 Nuttall 1621)
 
 **Lexical cluster:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Boors / Moors** label split (**Lane A**).
 

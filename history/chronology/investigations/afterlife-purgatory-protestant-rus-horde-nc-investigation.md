@@ -62,6 +62,15 @@ The following consolidates the user’s **full** instruction set into one sectio
 
 - **Fomenko’s** reconstruction links the **Reformation** to **Western / Protestant heresy** inside a **crumbling Rus–Horde** imperial order: **Protestants** could not **live with** what they **protested**; they had to **destroy** it — **including from within** if necessary.
 
+### 3.6 Author lock — Ship of Fools as weapon, not folk joke (**AU-050**)
+
+**Site claim:** `ship-of-fools-mockery-weapon`.
+
+- **Fomenko floor (`08_21`):** Reformation elevated *Ship of Fools* to national allegory; “fighting stupidity” covered war on the Great Empire; carnival **hell wagon** staged Ottomans/Hordians as Turks-pagans to storm. Luther’s Wittenberg warning against the **Schembartlauf** (allegedly 1539) is the mascot-text later Protestants bury.
+- **Author overlay:** mockery + schism were **weapons against eastern imperial Christianity that could not be reformed in place**. The Protestant pivot is protest of **common people’s indulgences**, not primarily clerical ones. Discarding reincarnation / eastern soteriology can ride along with that package.
+- **Bible twin (`08_14`, not Brant’s book as KJV source):** Romanovs + Western reformers staged **comic Bible plays** against selected **Horde Bible** books, then installed an edited “reconstructed” text and forbade mocking *that* one. Ship of Fools laughs the **empire** into hell; the comedies laugh **specific books** into obsolescence. The received Bible sits **downstream** of that mockery-then-replace program.
+- **Not this lock:** Sir William Ramsay’s poster “joke” quote. That meme is **trigger bait** (Erbacher/apologetics fight-word). Documented Ramsay = Tübingen-unfavourable → Luke as first-rank *historian* of Asia Minor detail. Do not recruit Ramsay as a Ship-of-Fools witness.
+
 ---
 
 ## 4. Afterlife contrasts (modern traditions — schematic)
@@ -218,6 +227,8 @@ These are **historical** **arguments** in **debate literature**; this file **rec
 
 ## 10. Fomenko / chronologia — Ship of Fools, Reformation, destruction from within
 
+**Author overlay (not a Fomenko sentence):** [§3.6 / AU-050](#36-author-lock--ship-of-fools-as-weapon-not-folk-joke-au-050) — mockery as weapon; Bible comedies (`08_14`) as the text-replace twin; Ramsay “joke” meme is bait.
+
 ### 10.1 Ship of Fools = ridicule of Horde Christianity (primary text)
 
 From **`~/dev/wget/chronologia.org/en/how_it_was/08_21.html`** (Chapter 8, §21), the English mirror asserts inter alia:
@@ -304,4 +315,4 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #Afterlife #Purgatory #Bardo #Antarabhava #Barzakh #Reincarnation #IntermediateState #Protestantism #Reformation #Fomenko #RusHorde #NewChronology #ShipOfFools #ComparativeReligion
+Keywords: #Afterlife #Purgatory #Bardo #Antarabhava #Barzakh #Reincarnation #IntermediateState #Protestantism #Reformation #Fomenko #RusHorde #NewChronology #ShipOfFools #AU050 #ComparativeReligion

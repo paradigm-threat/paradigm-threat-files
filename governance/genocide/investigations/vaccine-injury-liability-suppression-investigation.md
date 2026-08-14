@@ -247,7 +247,7 @@ Parallel to [**autism investigation §18**](/history/chronology/investigations/c
 3. Media **fact-check** focuses on **one exaggerated stat** → **whole injury category** treated as hoax.  
 4. **Hospital charts** record **anxiety** (see OCR victim post) — **downstream** denial of causality.
 
-**Cross-link:** [Brandy Vaughan — Merck whistleblower death](/influence/conspiracy/celebrities/brandy-vaughan.md); [virus isolation audit §0.4](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) (vaccine hub link).
+**Cross-link:** [virus isolation audit §0.4](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) (vaccine hub link).
 
 ---
 
@@ -428,7 +428,6 @@ Method note: [`METHODS_DEBUNK_OVERREACH_ADJACENT_DISCARD.md`](/docs/METHODS_DEBU
 |-------|------|
 | **Autism umbrella / recategorization** | [childhood-autism-spectrum-conformity-recategorization-investigation](/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) |
 | **Vaccine archive stub** | [a.md](../vaccine/a.md) |
-| **Brandy Vaughan — Merck / Learn The Risk** | [brandy-vaughan.md](/influence/conspiracy/celebrities/brandy-vaughan.md) |
 | **Virus isolation / vaccine boundary** | [virus-isolation-never-proven-thesis-skeptical-audit-investigation](/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md) |
 | **GNM / Germanic New Medicine cluster** | [gnm-learninggnm-cancer-paradigm-cluster-investigation](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md) |
 | **Flexner / credential monopoly** | [autism investigation §15](/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) |

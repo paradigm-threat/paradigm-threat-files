@@ -43,6 +43,7 @@ Treat “peace if you leave forever” as **one scoreboard** — the **ransom bo
 - [Islamabad Installment III — Black Gate](../islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz)
 - [Iran war runner — Aug 8](../investigations/iran-2026-war-runner.md)
 - [Good-actor / antibody](../../../events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)
+- Site claims: `iran-hormuz-black-gate` · `iran-2026-epic-fury-leave-behind` · `tolkien-lotr-caliphate-horde`
 
 ## Limits
 

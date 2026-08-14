@@ -13,6 +13,8 @@ if (!Array.isArray(raw)) {
   process.exit(1)
 }
 
+const ALLOWED_CONFIDENCE = new Set(['project-thesis', 'documented', 'speculative', 'author-thesis'])
+const ALLOWED_UNIQUENESS = new Set(['site-distinctive', 'broader-tradition', 'site-position'])
 const ids = new Set()
 for (let i = 0; i < raw.length; i++) {
   const c = raw[i]
@@ -40,6 +42,14 @@ for (let i = 0; i < raw.length; i++) {
   }
   if (!confidence || !uniqueness) {
     console.error(`[${i}] (${id}) missing confidence or uniqueness`)
+    process.exit(1)
+  }
+  if (!ALLOWED_CONFIDENCE.has(confidence)) {
+    console.error(`[${i}] (${id}) invalid confidence: ${confidence}`)
+    process.exit(1)
+  }
+  if (!ALLOWED_UNIQUENESS.has(uniqueness)) {
+    console.error(`[${i}] (${id}) invalid uniqueness: ${uniqueness}`)
     process.exit(1)
   }
 }

@@ -2,7 +2,7 @@ name: paradigm-threat-files
 version: "0.1.0"
 tools:
   search_site:
-    description: Keyword AND search over the Relay SQLite content index
+    description: Keyword AND search over the Relay SQLite content index. Prefer a short stem (iran, not iran iranian). Overlapping forms are collapsed. Default 20 slim hits (path/title/keywords).
     aliases: [search]
     via: query
     collection: index

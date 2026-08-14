@@ -319,6 +319,7 @@ Tolkien's world to Eastern European and Russian mythological traditions.
 | Fact→fiction for money / hated | **Author** separate charge — develop here; **not** required for Hormuz Black Gate rhyme |
 | Hormuz / Black Gate live rhyme | Live eastern holy-war board — [Depression article](/governance/war/the-great-depression-was-planned.md) · [Islamabad Black Gate](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz) |
 | Overlooked air (book + board) | **Author** parallel: Mordor overlooks the Captains’ **Eagles**; live hardliner ransom overlooks banked **Epic Fury** air/strike — [desperate hinge](/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#the-desperate-hinge--leadership-media-inversion-overlooked-air) |
+| Site claims | `tolkien-lotr-caliphate-horde` · `iran-hormuz-black-gate` |
 
 **Falsifier soft history will press:** Tolkien letters denying allegory / Islam topicality as full stop; Easterlings notes that never leave steppe ethnography; academic consensus that LOTR is northern myth reconstruction only.
 

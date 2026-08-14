@@ -123,6 +123,8 @@ so the public forgets **migration, exodus, Horde fracture, and elite intermarria
 
 **Moor meme cluster (2026; locks 2026-08-03):** [Cherokee §0.1–§0.3 / AU-042–043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) and [ten-presidents](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md) apply this **forced-split** frame to **American race law** — **refute CO memes literally**, keep **Delaware curriculum redaction** locked, keep **Horde-first** as the enabling wipe (plurality / MFEE / terminal Black-White), test deeper ethnogenesis **separately**. **Link does not imply meme validation.**
 
+**Documented New World rewrite (2026-08-12):** [AU-038 §5.3](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) — Nuttall/Peabody **1888**: Ambras inventories call Montezuma a **“Moorish king”** (**1596**); in **1621** **“Indian”** was **substituted for “Moorish”** and the **altered text re-transcribed in 1730**. Confirms **Moor whitewash** as an **instance** of literary **R3** on American royalty language; author reads **mass purge of *Moor* from America**. Does **not** by itself prove every German peasant = every Maghrebi corsair — it **does** prove European print **rewrote** *Moorish* off New World sovereignty speech.
+
 ---
 
 ## 3. Taxonomy: versions of “white” and “non-white” in play
@@ -241,6 +243,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 | MudFlood / MFEE | [/history/mudflood/page.md](/history/mudflood/page.md), [mfee](/history/mudflood/investigations/mfee-investigation.md) |
 | Tartarian maps | [/history/mudflood/investigations/tartarian-maps-investigation.md](/history/mudflood/investigations/tartarian-maps-investigation.md) |
 | Franklin complexion + Palatine | [/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md](/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) |
+| Amaruka / Nuttall 1621 *Moorish→Indian* (**AU-038**) | [/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md](/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md) |
 | Slave trades + Moor | [/governance/slavery/slave-trades-and-moor-etymology-investigation.md](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | Moor label cluster — meme forensics + §7b thesis | [moorish ten-presidents §7b](/history/chronology/investigations/moorish-ten-presidents-liberia-record-investigation.md), [cherokee §6b](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
 | Cherokee Moors meme + Delaware Lenape “Moor” law | [/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md) |
@@ -290,7 +293,7 @@ Use this table when reading European sources, meme books, or Fomenko side by sid
 
 Keywords: #Europe #NorthAmerica #WhiteBloodline #Complexion #Whitewash #Fomenko #NewChronology #MudFlood #Atlantis #RusHorde #Swarthy #Moor #PalatineBoors #Columbus1492 #Indigenous #Nazism #ParadigmThreatFiles
 
-**Last updated:** 2026-08-03
+**Last updated:** 2026-08-12 (AU-038 Nuttall 1621 cross-link)
 
 ---
 

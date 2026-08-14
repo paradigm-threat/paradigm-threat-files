@@ -834,6 +834,7 @@ Soft history truncates him to Silent Cal + “business of America.” Keep the *
 | [British royalty controlled scheme AU-049](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) | UK Crown/PM rocking without a republic; **Truss 49 days = observable deep-state reference** ([§11.2](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md#112-liz-truss--overnight-kill--desk-reference-for-observable-deep-state-control-author-lock-2026-08-14)) |
 | [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) | Planned crash / census / purposeful neglect |
 | [**The Great Depression Was Planned**](/governance/war/the-great-depression-was-planned.md) | Reader essay — off-books pattern; companion = AU-047 |
+| [site-claims.json](/site-claims.json) | `presidential-alignment-au046` · `voter-fraud-machine-era-bag` · `stalin-holodomor-agency` · `great-depression-planned-farm-pen` |
 
 Keywords: #PresidentialAlignment #Globalist #Nationalist #Neonationalist #Jefferson #Washington #TONA #Lincoln #CivilWar #GreatDepression #HerbertHoover #FDR #JEdgarHoover #FBI #COINTELPRO #RageAgainstTheMachine #WakeUp #Slavery #ThirteenthAmendment #NativeAmericans #DeclarationOfIndependence #PuppetPresidency #PopulistParty #JamesWeaver #WilliamJenningsBryan #RossPerot #AngryBirds #CompromiseMath #PreFilteredField #VoterFraud #TammanyHall #Box13 #Stalin #Holodomor #DonaldTrump #Epstein #PredictiveProgramming #AU046 #ParadigmThreatFiles
 

@@ -104,7 +104,10 @@
       "mfee-mud-flood-reset",
       "moorish-revival-america-scar",
       "passage-trafficking-columbus-cover",
-      "british-royalty-controlled-scheme"
+      "british-royalty-controlled-scheme",
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african",
+      "moor-eliminated-from-america"
     ]
   },
   {
@@ -142,7 +145,10 @@
       "earth-age-young",
       "time-travel-chronology-not-literal",
       "saturnian-collinear-config",
-      "british-royalty-controlled-scheme"
+      "british-royalty-controlled-scheme",
+      "amaruka-khan-meru-wall-street",
+      "moor-eliminated-from-america",
+      "nuttall-1621-indian-substituted-moorish"
     ]
   },
   {
@@ -824,12 +830,17 @@
       "martians-human",
       "chronology-revision",
       "tartaria-rus-horde",
-      "british-royalty-controlled-scheme"
+      "british-royalty-controlled-scheme",
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african",
+      "moor-eliminated-from-america",
+      "nuttall-1621-indian-substituted-moorish"
     ],
     "doNotSay": [
       "The site treats Georgia as merely named for an unrelated British king.",
       "The site accepts farmer or earth-worker as the original meaning of George.",
-      "Fomenko explicitly proves the exact George-to-Mars chain; he supplies the pronunciation-flexion method, while the chain is Ari Asulin’s identification."
+      "Fomenko explicitly proves the exact George-to-Mars chain; he supplies the pronunciation-flexion method, while the chain is Ari Asulin’s identification.",
+      "Black King George meant African or Black American ancestry; see black-king-eastern-not-african."
     ]
   },
   {
@@ -1192,7 +1203,11 @@
       "passage-trafficking-columbus-cover",
       "requerimiento-yoke-slave-empire-trail",
       "spanish-from-span",
-      "tartaria-rus-horde"
+      "tartaria-rus-horde",
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african",
+      "moor-eliminated-from-america",
+      "nuttall-1621-indian-substituted-moorish"
     ],
     "doNotSay": [
       "Every circulating mosque photo is fake or must be discarded because mainstream says so.",
@@ -1252,7 +1267,9 @@
       "moorish-revival-america-scar",
       "passage-trafficking-columbus-cover",
       "requerimiento-yoke-slave-empire-trail",
-      "tartaria-rus-horde"
+      "tartaria-rus-horde",
+      "moor-eliminated-from-america",
+      "nuttall-1621-indian-substituted-moorish"
     ],
     "doNotSay": [
       "The only honest etymology of Spain is Phoenician land-of-rabbits.",
@@ -1312,7 +1329,9 @@
       "requerimiento-yoke-slave-empire-trail",
       "spanish-from-span",
       "ssn-behavioral-peonage",
-      "tartaria-rus-horde"
+      "tartaria-rus-horde",
+      "black-king-eastern-not-african",
+      "moor-eliminated-from-america"
     ],
     "doNotSay": [
       "Slaves themselves paid the U.S. federal tribute.",
@@ -1669,7 +1688,7 @@
   {
     "id": "stalin-holodomor-agency",
     "title": "Stalin: Nationalist tip inside communist OS — not Holodomor absolute author",
-    "claim": "Author lock: (1) Holodomor was baked into the communist revolution; nobody—especially not Stalin—had a path to stop Holodomor-scale rural death inside that OS; of what he could do, he contained further civil-war/communism chaos. Soft history absolute-king stop-list rejected. Documented 1932–33 paper trail is system language, not personal genocide authorship. (2) Soft history thinks Stalin was a communist ideologue; Author: his pattern is Nationalist (Socialism in One Country / center-hold vs internationalist factions). Same blindness as Americans who cannot see real Nationalists vs everything else under Trump-era party brands. Not a U.S. wall-chart cell; not moral twinship with Trump. Related Author lock: late-1920s/30s Mein Kampf smuggle = Western Nazism (communism flavor) cascade pegged as Holodomor cause; Holodomor victory enables actual Nazism from without or within (Holodomor §2.9).",
+    "claim": "Author lock: (1) Holodomor was baked into the communist revolution; nobody—especially not Stalin—had a path to stop Holodomor-scale rural death inside that OS; of what he could do, he contained further civil-war/communism chaos. Soft history absolute-king stop-list rejected. Documented 1932–33 paper trail is system language, not personal genocide authorship. (2) Soft history thinks Stalin was a communist ideologue; Author: his pattern is Nationalist (Socialism in One Country / center-hold vs internationalist factions). Same blindness as Americans who cannot see real Nationalists vs everything else under Trump-era party brands. Not a U.S. wall-chart cell; not moral twinship with Trump. Related: Mein Kampf / Western-Nazism cascade as Holodomor cause — see mein-kampf-holodomor-cascade.",
     "answerOpener": "People miss the Holodomor agency lock because they think Stalin was a communist. He sat a communist machine; his tip pattern is nationalist — same camp-divide blindness as Trump vs everything else under party brands. The famine was baked into the revolution; he was not an absolute king who could cancel it.",
     "bullets": [
       "Holodomor inevitability under communist OS — no stop path inside the framework.",
@@ -1677,7 +1696,7 @@
       "Stalin tip = Nationalist pattern, not communist ideologue (Socialism in One Country hinge).",
       "Same blindness: Americans miss Nationalist vs everything else under Trump-era brands.",
       "§2.5 Dec 1932 primaries = Documented system language — do not collapse into personal genocide authorship.",
-      "Canonical: Holodomor §2.7–§2.8; AU-046 §2.8 bridge; Depression article synced."
+      "Canonical: Holodomor §2.7–§2.8; AU-046 §2.8 bridge; Depression article synced. *Mein Kampf* cascade is a separate claim."
     ],
     "confidence": "author-thesis",
     "uniqueness": "site-distinctive",
@@ -1717,7 +1736,19 @@
     "relatedClaimIds": [
       "tartaria-rus-horde",
       "presidential-alignment-au046",
-      "great-depression-planned-farm-pen"
+      "great-depression-planned-farm-pen",
+      "mein-kampf-holodomor-cascade"
+    ],
+    "doNotSay": [
+      "Stalin was an absolute king who could cancel the Holodomor.",
+      "Stalin was a communist ideologue.",
+      "Treat Stalin as a U.S. wall-chart Nationalist cell or a moral twin of Trump.",
+      "Collapse the December 1932 primaries into personal genocide authorship."
+    ],
+    "demoQuestions": [
+      "Could Stalin have stopped the Holodomor?",
+      "Was Stalin a communist ideologue?",
+      "How does this site compare Stalin and Trump?"
     ]
   },
   {
@@ -1921,6 +1952,61 @@
     ]
   },
   {
+    "id": "mein-kampf-holodomor-cascade",
+    "title": "Mein Kampf cascade — Western Nazism as communism flavor, Holodomor cause",
+    "claim": "Author lock (Holodomor §2.9): late-1920s / early-1930s smuggled Mein Kampf copies and political-circle arrival into Ukraine/Russia are cascading Western Nazism — another flavor of communism — that exacerbated ethnic tensions already lit by 1918–21 chaos and is pegged as the real cause of the Holodomor. Holodomor’s victory is the step to actual Nazism either by takeover from without (1941 occupation / mass copies) or hardening from within. Soft history smashes smuggle → famine → occupation into one Hitler blob; keep the order. Mass 1941 copies are the later flood, not the first pour. The book alone is not a found Cabinet famine memo.",
+    "answerOpener": "This site does not treat Mein Kampf in Ukraine as trivia that only matters after June 1941. The late-1920s/30s smuggle is Western Nazism as another flavor of communism poured into a broken pen — pegged as the Holodomor’s real cause, with 1941 the later flood.",
+    "bullets": [
+      "Order lock: smuggled influence first → Holodomor → then takeover from without (1941) or hardening from within.",
+      "Nazism here is another flavor of communism, not a rival OS invented in 1933.",
+      "Mass physical copies under German occupation from June 1941 are the later flood, not the first pour.",
+      "Do not smash those dates into “Hitler caused 1933.”",
+      "Canonical: Holodomor §2.9; Depression article Ukraine section; AU-047 companion."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Dating Mein Kampf smuggle as Holodomor cause, with Nazism as communism-flavor and 1941 as later flood, is site-specific — not mainstream Hitler-blob famine authorship.",
+    "topics": [
+      "mein kampf",
+      "holodomor",
+      "nazism",
+      "communism",
+      "ukraine",
+      "stalin",
+      "1941",
+      "azov",
+      "zelensky"
+    ],
+    "searchQueries": [
+      "mein kampf ukraine 1930s holodomor",
+      "did hitler cause holodomor 1933",
+      "nazism as communism flavor ukraine"
+    ],
+    "searchPrefixes": [
+      "governance/genocide/",
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md",
+      "governance/war/the-great-depression-was-planned.md",
+      "governance/war/zelensky-forward-history-memory-war.md"
+    ],
+    "relatedClaimIds": [
+      "stalin-holodomor-agency",
+      "great-depression-planned-farm-pen"
+    ],
+    "doNotSay": [
+      "Hitler personally authored the 1932–33 famine via Mein Kampf.",
+      "Mein Kampf only matters in Ukraine after June 1941.",
+      "Stalin the communist king switched the famine on because of Hitler."
+    ],
+    "demoQuestions": [
+      "Did Mein Kampf cause the Holodomor?",
+      "Did Hitler cause the 1933 famine?",
+      "When did Mein Kampf reach Ukraine?"
+    ]
+  },
+  {
     "id": "british-royalty-controlled-scheme",
     "title": "British royalty is a controlled scheme (Horde vassal → Protestant mask)",
     "claim": "Author lock AU-049: the English court was a Russian/Horde vassal court. After the Russian Empire was erased, Protestant intel denied the connection and kept a theatrical Crown (Bagehot dignified vs efficient) over City/intel. Constitutional reduction is the scheme, not the kill: they still need a Rex Bellator—one man as imperial/state sin-bearer with a live military tie (Head of the Armed Forces; Navy from the Sovereign’s prerogative). Charles III’s 6 May 2023 coronation reads as rehearsal for England back on top of a Protestant New World Order. Visible oustings (Edward VIII, Diana, Sussexes, Andrew 2025) are power plays; remaining court plus allowed rebels follow AU-046 compromise-math. Empire plus reverse crusades keep Russia-erase as priority over British people and even the Windsors. Do not reconstruct pre-erase “British kings” as an independent island dynasty (Russian/Horde duplicates or Saturnian planet-knights). UK PMs still rock Nationalist vs Globalist without a republic.",
@@ -2055,6 +2141,356 @@
     ]
   },
   {
+    "id": "iran-2026-epic-fury-leave-behind",
+    "title": "Iran 2026 — Epic Fury, Hormuz, and Rubio’s leave-behind refusal",
+    "claim": "Operation Epic Fury (public open 28 February 2026) is read here as a necessity strike against nuclear-Hormuz blackmail, not as a one-week adventure. Conventional campaign goals were largely banked before the Islamabad MOU (17 June 2026). Rubio’s 5 May 2026 line — a nuclear Iran closes the strait and dares the world; that is “the world none of us want to leave behind” — is the refusal criterion for any “peace” priced as U.S. withdrawal forever. Same antibody / good-actor grammar as 9/11: close the CIA–MI6 slow-burn Iran/religion pipeline rather than leave Hormuz latency to the next generation.",
+    "answerOpener": "This site reads the 2026 Iran war as a banked conventional campaign against Hormuz/nuclear blackmail — Rubio’s May 5 leave-behind line is why “just withdraw forever” is not peace.",
+    "bullets": [
+      "Epic Fury opened in public 28 Feb 2026 after a 2025 legal/material prequel; strike ledger is in the war runner.",
+      "Islamabad MOU (17 June) stops the shooting lane; HEU custody, Lebanon, and full Hormuz reopen stay on technical rails.",
+      "Aug 2026 emissary talk priced Hormuz reopen on U.S. force withdrawal forever; Oman corridor talk is the little-player face, not a full strait reopen.",
+      "Cite Rubio 5 May 2026, not Vance, for the leave-behind quote. Tie to good-actor / antibody, not TDS warmonger vs peacenik.",
+      "Mojtaba proof-of-life video does not settle enrichment or Hormuz; it settles rumor management while intermediaries speak."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Leave-behind as sunsetting of the ~80-year agency fight plus dual-scoreboard (banked strikes vs ransom theater) is the site’s Iran 2026 package — not a generic pro-war caption.",
+    "topics": [
+      "iran",
+      "iranian",
+      "hormuz",
+      "epic fury",
+      "rubio",
+      "leave behind",
+      "islamabad",
+      "mojtaba",
+      "khamenei",
+      "withdrawal",
+      "heu"
+    ],
+    "demoQuestions": [
+      "Why did the US strike Iran in 2026?",
+      "What is Rubio's leave-behind line about Hormuz?"
+    ],
+    "searchQueries": [
+      "iran 2026 epic fury hormuz leave behind rubio",
+      "islamabad memorandum iran withdrawal forever",
+      "iranian nuclear strait blackmail"
+    ],
+    "searchPrefixes": [
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/war/mission-accomplished-again-iran-2026.md",
+      "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
+      "governance/war/investigations/iran-2026-war-runner.md",
+      "governance/war/qa/q06-black-gate-withdrawal-peace.md"
+    ],
+    "relatedClaimIds": [
+      "911-good-actor-antibody",
+      "iran-hormuz-black-gate"
+    ],
+    "doNotSay": [
+      "The strike was unnecessary because Iran was only enriching for energy.",
+      "Peace means the United States should withdraw from the region forever so Hormuz can reopen.",
+      "Attribute the leave-behind line to JD Vance.",
+      "The Islamabad MOU settled HEU custody and permanently reopened Hormuz."
+    ]
+  },
+  {
+    "id": "iran-hormuz-black-gate",
+    "title": "Hormuz August 2026 as Black Gate / Mouth of Sauron grammar",
+    "claim": "Author lock: August 2026 Hormuz ‘peace if you leave forever’ is Return of the King Black Gate grammar, not prophecy. Mouth of Sauron prices spare-the-little-player peace on the army outside never returning. The little player on the live board is Oman (neighbor corridor / shipping-lane face); posters may only say neighbor corridor. The hinge is desperate — neither army knows what to do until leadership refuses the deal and prepares to attack. Media/movie training inverted who is winning; Gate leadership is weak. In both stories the enemy — not both sides — judged the army at the Gate by what they could see and overlooked the protagonists’ air support (Eagles in the book / banked Epic Fury air on the live board).",
+    "answerOpener": "The August 2026 Hormuz ransom note is this site’s Black Gate read: Mouth of Sauron terms, Oman as the little player, a weak hand behind the Gate, and the enemy overlooking air — not a sincere regional-sovereignty offer.",
+    "bullets": [
+      "Withdrawal-as-reopen-price empties the Gate so latency and blackmail can mature without a carrier group in the photograph.",
+      "Oman lane talks are the little-player face, not a full Hormuz reopen; SNSC conditions still include U.S. force withdrawal.",
+      "Air miss is the enemy’s: Mordor never prices the Eagles; live ransom theater never prices banked Epic Fury.",
+      "Tolkien parallel is grammar, not evidence. Leadership-hinge and media-inversion claims are author thesis.",
+      "Pair with Rubio leave-behind: a deal that recreates nuclear-strait blackmail is deferred blackmail, not peace."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Black Gate / Mouth of Sauron as the live Hormuz hinge (overlooked air, media inversion, refuse-and-attack) is author-specific fiction grammar, not a mainstream analogy.",
+    "topics": [
+      "black gate",
+      "mouth of sauron",
+      "tolkien",
+      "hormuz",
+      "oman",
+      "withdrawal",
+      "iran",
+      "eagles"
+    ],
+    "demoQuestions": [
+      "What is the Black Gate / Mouth of Sauron read of Hormuz?"
+    ],
+    "searchQueries": [
+      "hormuz black gate mouth of sauron withdrawal",
+      "oman corridor iran ransom august 2026"
+    ],
+    "searchPrefixes": [
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/war/qa/q06-black-gate-withdrawal-peace.md",
+      "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
+      "governance/war/mission-accomplished-again-iran-2026.md",
+      "governance/war/investigations/iran-2026-war-runner.md",
+      "influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md"
+    ],
+    "relatedClaimIds": [
+      "iran-2026-epic-fury-leave-behind",
+      "tolkien-lotr-caliphate-horde"
+    ],
+    "doNotSay": [
+      "Tolkien is evidence that the war was prophesied.",
+      "Iran’s Hormuz conditions are ordinary sovereignty with no blackmail geometry.",
+      "The site claims Mojtaba personally authored every August emissary statement.",
+      "Both sides equally judged the army at the Gate and missed the air — the miss is the enemy’s."
+    ]
+  },
+  {
+    "id": "great-depression-planned-farm-pen",
+    "title": "Great Depression was planned — farm-pen method, not Cabinet murder minutes",
+    "claim": "Author lock AU-047: the Great Depression was planned as off-books pressure riding dogma, process, and information cages while sincere officials ran the on-books machine — not Roosevelt–Stalin murder minutes and not public stupidity. The American tell is taking the fishery: AAA plow-under and livestock kill while people hungered, then sell federal fish (COVID PLIP/CFAP is the later rhyme, not the AAA twin). Same farm-pen method in Holodomor years: break the map, control what each pen hears. Hoover→FDR is one-way Globalist deepening, not Cleveland–Harrison rocking. Companion wall chart is AU-046.",
+    "answerOpener": "This site’s Depression lock is AU-047: planned consolidation by farm-pen method, not a found Roosevelt–Stalin murder memo and not “they were just stupid.” Hoover into Roosevelt is one-way Globalist deepening.",
+    "bullets": [
+      "Off-books pressure on dogma/process/cages; sincere officials are a feature, not innocence.",
+      "American tell: take the fishery (AAA plow-under / livestock kill) then sell federal fish.",
+      "Holodomor years use the same pen method: break the map, control what each pen hears.",
+      "Hoover→FDR is one-way deepening, not a Cleveland–Harrison rocking duel.",
+      "Parent scorecard is AU-046. Stalin agency is a separate claim."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "McFadden/Coughlin/Fed critiques are widespread. Site-distinctive is the off-books + fishery + farm-pen + one-way-deepening package (AU-047).",
+    "topics": [
+      "great depression",
+      "au-047",
+      "au047",
+      "new deal",
+      "aaa",
+      "fishery",
+      "hoover",
+      "roosevelt",
+      "farm pen",
+      "holodomor",
+      "planned crash"
+    ],
+    "demoQuestions": [
+      "Was the Great Depression planned?",
+      "What is AU-047?",
+      "Did Hoover cause the Depression on purpose?",
+      "How is the New Deal a fishery?"
+    ],
+    "searchQueries": [
+      "great depression planned farm pen fishery",
+      "AU-047 hoover roosevelt one-way deepening",
+      "aaa plow-under livestock kill federal fish"
+    ],
+    "searchPrefixes": [
+      "governance/war/",
+      "governance/genocide/"
+    ],
+    "canonicalPaths": [
+      "governance/war/the-great-depression-was-planned.md",
+      "governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md",
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "presidential-alignment-au046",
+      "stalin-holodomor-agency",
+      "voter-fraud-machine-era-bag",
+      "mein-kampf-holodomor-cascade",
+      "iran-hormuz-black-gate"
+    ],
+    "doNotSay": [
+      "The site has a Roosevelt–Stalin signed murder minute for the Depression.",
+      "The Depression was only public stupidity or an accident of gold.",
+      "Hoover was a Nationalist repair tip.",
+      "Hoover into Roosevelt was a Cleveland–Harrison rocking bounce."
+    ]
+  },
+  {
+    "id": "voter-fraud-machine-era-bag",
+    "title": "Voter fraud is a machine-era bag-of-tricks instrument — mail did not invent it",
+    "claim": "Author lock AU-046 §2.4.4: voter fraud where the margin was thin enough to matter is an establishment bag-of-tricks instrument. Peak vulnerability was the 19th-century party-ticket / urban-machine era (Tammany, repeaters, stuffed boxes), not modern mass mail-in. Specimens: Sullivan County 1931 absentee colonization; LBJ 1948 Box 13; 1960 Chicago-machine accusation Nixon chose not to litigate. Soft history already admits Gilded Age fraud culture; the Author move is to keep that instrument on the board next to red tape and tip-removal. Not a claim that every Electoral College tip was flipped by ballots.",
+    "answerOpener": "This site treats voter fraud as a machine-era bag of tricks, not as something mail-in ballots invented. Peak vulnerability is Tammany / stuffed boxes / Box 13 — not 2020 as origin.",
+    "bullets": [
+      "Instrument where margins are thin enough to matter — not every EC result stolen.",
+      "Peak: 19th-century party-ticket / urban-machine (Tammany, repeaters, stuffed boxes).",
+      "Specimens: Sullivan County 1931; LBJ 1948 Box 13; 1960 Chicago accusation Nixon did not litigate.",
+      "Mail-in did not invent the bag. Parent lock is AU-046."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Gilded Age fraud culture is textbook. Site-distinctive is keeping the instrument on the AU-046 board next to red tape and tip-removal rather than treating mail-in as the origin.",
+    "topics": [
+      "voter fraud",
+      "tammany",
+      "box 13",
+      "lbj",
+      "chicago 1960",
+      "mail-in",
+      "absentee",
+      "machine era",
+      "au-046"
+    ],
+    "demoQuestions": [
+      "Does this site think voter fraud is real?",
+      "Did mail-in ballots invent voter fraud?",
+      "What is Box 13?"
+    ],
+    "searchQueries": [
+      "voter fraud machine era box 13 chicago 1960",
+      "AU-046 mail-in did not invent fraud"
+    ],
+    "searchPrefixes": [
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md",
+      "governance/war/the-great-depression-was-planned.md"
+    ],
+    "relatedClaimIds": [
+      "presidential-alignment-au046",
+      "great-depression-planned-farm-pen"
+    ],
+    "doNotSay": [
+      "Every Electoral College tip was flipped by ballots.",
+      "Mass mail-in invented voter fraud.",
+      "The site treats 2020 as the first fraud era."
+    ]
+  },
+  {
+    "id": "tolkien-lotr-caliphate-horde",
+    "title": "LOTR is the Muslim-caliphate east under Rus-Horde redaction — not Scaligerian past",
+    "claim": "Author lock: under redacted Rus-Horde theory, The Lord of the Rings was 100% about the Muslim caliphate in the east, not the Scaligerian textbook past Tolkien’s Oxford brief treated as real. Soft history’s Easterlings = Scythians/Huns/Mongols is engaged; Fomenko pegs those streams as the same people as the Ottomans, same time. Ottoman invasion plus Protestant-vs-Horde fights built the “evil Asia” stereotype Tolkien could publicly deny mapping onto Islam while still encoding. He sat mid Scaliger–Horde split. Live Hormuz Black Gate is the same eastern holy-war board, including the enemy overlooking protagonists’ air (Eagles / Epic Fury) — grammar, not prophecy. Separate Author charge (fact→fiction for money / hated in his time) lives in the Tolkien dossier and is not required to carry Hormuz.",
+    "answerOpener": "This site does not read LOTR as Scaligerian steppe-antiquity fanfic. Under Rus-Horde redaction it is the eastern Muslim-caliphate board; the live Black Gate at Hormuz is the same grammar, including overlooked air.",
+    "bullets": [
+      "Soft Easterlings = wagon steppe peoples; Author collapses that into Ottomans / same time via Fomenko.",
+      "Public “no opinion on Islam” is compatible with encoding the eastern enemy while denying a topical brief.",
+      "Tolkien mid redaction split: Oxford/Scaliger training vs Horde memory leaking into the fiction.",
+      "Hormuz: Mouth of Sauron terms + enemy overlooks air (Eagles in book / banked Epic Fury live). Little player in prose = Oman; posters may only say neighbor corridor.",
+      "Fact→fiction-for-money charge is a separate Tolkien-dossier lock, not required for the Hormuz rhyme."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Classroom Easterling notes exist; site-distinctive is LOTR = caliphate board under Horde redaction + live Hormuz overlooked-air grammar, not “Tolkien prophesied the Strait.”",
+    "topics": [
+      "tolkien",
+      "lord of the rings",
+      "easterlings",
+      "rus horde",
+      "ottoman",
+      "islam",
+      "hormuz",
+      "black gate",
+      "eagles",
+      "scaliger",
+      "fomenko"
+    ],
+    "searchQueries": [
+      "were the easterlings muslims",
+      "tolkien islam caliphate lord of the rings",
+      "black gate hormuz eagles air support"
+    ],
+    "searchPrefixes": [
+      "influence/predictive_programming/",
+      "governance/war/"
+    ],
+    "canonicalPaths": [
+      "influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md",
+      "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md",
+      "governance/war/the-great-depression-was-planned.md"
+    ],
+    "relatedClaimIds": [
+      "tartaria-rus-horde",
+      "iran-hormuz-black-gate",
+      "great-depression-planned-farm-pen",
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african"
+    ],
+    "doNotSay": [
+      "Tolkien prophesied the 2026 Strait of Hormuz.",
+      "LOTR is only about Scaligerian Scythians/Huns/Mongols with no caliphate board.",
+      "Both sides equally missed the air at the Black Gate."
+    ],
+    "demoQuestions": [
+      "Is Lord of the Rings about the Muslim caliphate?",
+      "Did Tolkien prophesy the Strait of Hormuz?",
+      "Who overlooked the Eagles at the Black Gate?"
+    ]
+  },
+  {
+    "id": "ship-of-fools-mockery-weapon",
+    "title": "Ship of Fools: mockery as weapon; received Bible downstream (AU-050)",
+    "claim": "Author lock AU-050: Reformation *Ship of Fools* (Brant / carnival hell wagon) is not harmless folk satire. Fomenko floor (How It Was 08_21): “fighting stupidity” covered war on the Great Empire; crowds were trained to storm the ship; Luther’s Wittenberg warning against Schembartlauf (allegedly 1539) is the mascot-text later Protestants bury. Author overlay: mockery + schism were weapons against eastern imperial Christianity that could not be reformed in place. The Protestant pivot is protest of common people’s indulgences, not primarily clerical ones; reincarnation / eastern soteriology can be discarded with that package. Bible twin (08_14, not Brant as KJV source): Romanovs + Western reformers staged comic plays against selected Horde Bible books, then installed an edited “reconstructed” text and forbade mocking that one. Ship laughs the empire into hell; the comedies laugh specific books into obsolescence. The received Bible sits downstream of that mockery-then-replace program. Ramsay poster “joke” wording is trigger bait, not this lock and not a verified Ramsay lemma.",
+    "answerOpener": "This site’s Ship of Fools lock is AU-050: mockery as a weapon against Horde Christianity, not a carnival joke. The received Bible sits downstream of a comedies-then-replace program. The Ramsay “joke” meme is bait.",
+    "bullets": [
+      "08_21 floor: national allegory, hell wagon, storm the ship, Luther vs Schembartlauf.",
+      "Author: mockery + schism against what could not be reformed in place; protest people’s indulgences.",
+      "08_14 twin: Horde-Bible comic plays, then a protected reconstructed text. Not “KJV = Narrenschiff.”",
+      "Ship of Fools → Mockingbird is the long ridicule/control chain (Swift rails), not proof of any one novel.",
+      "Ramsay “resurrection was a joke” poster is apologetics fight-bait. Documented Ramsay: Tübingen-unfavourable → Luke as first-rank historian of Asia Minor detail."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Brant 1494 and Fomenko 08_21/08_14 exist. Site-distinctive is the weapon / people’s-indulgence / Bible-downstream / Ramsay-bait package (AU-050).",
+    "topics": [
+      "ship of fools",
+      "narrenschiff",
+      "sebastian brant",
+      "schembartlauf",
+      "luther",
+      "reformation",
+      "protestant",
+      "horde bible",
+      "mockery",
+      "ramsay",
+      "luke",
+      "acts"
+    ],
+    "demoQuestions": [
+      "What is the Ship of Fools according to this site?",
+      "Did William Ramsay say the resurrection was a joke?",
+      "Is the modern Bible a mockery of an older Bible?",
+      "Did Luther support the Ship of Fools carnival?",
+      "What is AU-050?"
+    ],
+    "searchQueries": [
+      "ship of fools reformation horde mockery",
+      "schembartlauf luther narrenschiff",
+      "horde bible comic plays reconstructed bible",
+      "william ramsay joke resurrection luke"
+    ],
+    "searchPrefixes": [
+      "history/chronology/",
+      "influence/predictive_programming/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md",
+      "history/chronology/none-of-them-survived.md",
+      "history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md",
+      "history/chronology/investigations/author-unique-theories.md",
+      "influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md"
+    ],
+    "relatedClaimIds": [
+      "tartaria-rus-horde",
+      "chronology-revision",
+      "british-royalty-controlled-scheme"
+    ],
+    "doNotSay": [
+      "Sir William Ramsay set out to prove the resurrection was a joke.",
+      "The Ship of Fools is only a harmless medieval joke or folk carnival.",
+      "The King James Bible is Sebastian Brant’s Narrenschiff.",
+      "Luther invented or led the Ship of Fools attack on the empire.",
+      "Brant naming Prester John is this site’s proof of Prester John.",
+      "Fomenko wrote the people’s-indulgence pivot or the Ramsay-bait call."
+    ]
+  },
+  {
     "id": "cruz-kevin-malone-pattern",
     "title": "Cruz / Kevin Malone — Office as antibody; pattern catalogue, not same-body proof",
     "claim": "Author lock: Ted Cruz is read as a planned path from Kevin Malone–scale fame through an on-schedule Senate seat and a 2016 run through the Angry Birds media filter, then co-option; Jade Helm 15 is the Texas/Cruz containment hinge. The entire U.S. The Office (not U.K.) is treated as antibody against that media gridlock. Proof of literal same-body identity is out of scope — the job is to document a real dialogue/athletic/mask pattern and keep asking why. Major finds: Basketball matched motor skill (on-camera make streak vs unathletic Kevin mask; Cruz’s lifelong/televised hoops); Whistleblower “I’m a runner” (Kevin panic-claims runner; Cruz lists running first as exercise); Gossip “another person inside of me working me with controls.” High: fake-voice / Cookie Monster; no-sensation cluster (Niagara ice + S7 moist back); Fun Run athletic cover; Accountants stealth dance-hop. Surface Baumgartner-calendar debunks answer a different question than this file asks.",
@@ -2185,114 +2621,265 @@
     ]
   },
   {
-    "id": "great-depression-planned-farm-pen",
-    "title": "Great Depression was planned — farm-pen method, not Cabinet murder minutes",
-    "claim": "Author lock AU-047: the Great Depression was planned as off-books pressure riding dogma, process, and information cages while sincere officials ran the on-books machine — not Roosevelt–Stalin murder minutes and not public stupidity. The American tell is taking the fishery: AAA plow-under and livestock kill while people hungered, then sell federal fish (COVID PLIP/CFAP is the later rhyme, not the AAA twin). Same farm-pen method in Holodomor years: break the map, control what each pen hears. Hoover→FDR is one-way Globalist deepening, not Cleveland–Harrison rocking. Companion wall chart is AU-046.",
-    "answerOpener": "This site’s Depression lock is AU-047: planned consolidation by farm-pen method, not a found Roosevelt–Stalin murder memo and not “they were just stupid.” Hoover into Roosevelt is one-way Globalist deepening.",
+    "id": "nuttall-1621-indian-substituted-moorish",
+    "title": "Nuttall 1621 — “Indian” substituted for “Moorish”",
+    "claim": "Documented major find (Zelia Nuttall, Peabody Museum 1888, Standard or Head-Dress?): Archduke Ferdinand II’s 1596 Ambras inventories call Montezuma a “Moorish king” and a Mexican feather headdress a “Moorish hat”; in 1621 “the word Indian was substituted for Moorish”; the altered text was again transcribed in 1730. Scope is one Habsburg inventory chain, not a continent-wide overnight decree. The quote is real; the clerk named an alteration of registration literature. Same 1596 cabinet also labels an “indian axe… used by a Moorish King.” This site reads the chain as R3 on New World royal language.",
+    "answerOpener": "Major find: Nuttall’s 1888 Peabody essay already records 1596 calling Montezuma a Moorish king, then 1621 substituting Indian for Moorish, then 1730 copying the altered wording. That is a documented rewrite of American royalty language — not a viral meme.",
     "bullets": [
-      "Off-books pressure on dogma/process/cages; sincere officials are a feature, not innocence.",
-      "American tell: take the fishery (AAA plow-under / livestock kill) then sell federal fish.",
-      "Holodomor years use the same pen method: break the map, control what each pen hears.",
-      "Hoover→FDR is one-way deepening, not a Cleveland–Harrison rocking duel.",
-      "Parent scorecard is AU-046. Stalin agency is a separate claim."
+      "1596 Ambras: Montezuma = “Moorish king”; Mexican feather headdress = “Moorish hat.”",
+      "1621: Nuttall’s words — Indian was substituted for Moorish; 1730 re-transcribed the alteration.",
+      "Same cabinet: indian axe used by a Moorish King (second Moorish-king tag on American kit).",
+      "Scope lock: one inventory lineage, not a single law renaming all Native Americans overnight.",
+      "Vienna feather-shield provenance also drifts (Chinese → Indian → Mexican) — sibling rewrite habit, not a second “substituted for” sentence."
     ],
-    "confidence": "author-thesis",
+    "confidence": "documented",
     "uniqueness": "site-distinctive",
-    "uniquenessNote": "McFadden/Coughlin/Fed critiques are widespread. Site-distinctive is the off-books + fishery + farm-pen + one-way-deepening package (AU-047).",
+    "uniquenessNote": "The substitution is Peabody/Nuttall print, not a forum invention. Site-distinctive is locking it as R3 literary redaction on American imperial language and pairing it with AU-038’s Moor-purge / Wall Street package — not treating it as a costume-history footnote.",
     "topics": [
-      "great depression",
-      "au-047",
-      "au047",
-      "new deal",
-      "aaa",
-      "fishery",
-      "hoover",
-      "roosevelt",
-      "farm pen",
-      "holodomor",
-      "planned crash"
+      "nuttall",
+      "zelia nuttall",
+      "1621",
+      "1596",
+      "ambras",
+      "montezuma",
+      "moorish king",
+      "moorish hat",
+      "indian substituted",
+      "peabody",
+      "feather headdress",
+      "kunstkammer"
     ],
     "demoQuestions": [
-      "Was the Great Depression planned?",
-      "What is AU-047?",
-      "Did Hoover cause the Depression on purpose?",
-      "How is the New Deal a fishery?"
+      "Was Montezuma called a Moorish king?",
+      "Did Indian replace Moorish in 1621?",
+      "Is the Nuttall Moorish to Indian quote real?",
+      "What did Zelia Nuttall say about the Mexican headdress?"
     ],
     "searchQueries": [
-      "great depression planned farm pen fishery",
-      "AU-047 hoover roosevelt one-way deepening",
-      "aaa plow-under livestock kill federal fish"
+      "Nuttall 1621 Indian substituted for Moorish Ambras",
+      "Montezuma Moorish king 1596 Peabody",
+      "Moorish hat Mexican feather headdress inventory"
     ],
     "searchPrefixes": [
-      "governance/war/",
-      "governance/genocide/"
+      "history/chronology/"
     ],
     "canonicalPaths": [
-      "governance/war/the-great-depression-was-planned.md",
-      "governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md",
-      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md"
+      "history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md",
+      "history/chronology/the-hidden-history-of-words.md",
+      "history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md",
+      "history/chronology/georgia-was-the-second-promised-land.md",
+      "history/chronology/investigations/lexical-redaction-hub-investigation.md"
     ],
     "relatedClaimIds": [
-      "presidential-alignment-au046",
-      "stalin-holodomor-agency",
-      "voter-fraud-machine-era-bag"
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african",
+      "chronology-revision",
+      "king-george-planet-mars",
+      "moor-eliminated-from-america",
+      "moorish-revival-america-scar"
     ],
     "doNotSay": [
-      "The site has a Roosevelt–Stalin signed murder minute for the Depression.",
-      "The Depression was only public stupidity or an accident of gold.",
-      "Hoover was a Nationalist repair tip.",
-      "Hoover into Roosevelt was a Cleveland–Harrison rocking bounce."
+      "The Nuttall quote is fake or not in the 1888 Peabody essay.",
+      "1621 was a single decree renaming all Native Americans from Moorish to Indian overnight.",
+      "Montezuma was never called a Moorish king in European inventories.",
+      "The change is mere casual synonym drift with no alteration of text.",
+      "It was only a hat, so Montezuma as Moorish king in the same 1596 register can be ignored."
     ]
   },
   {
-    "id": "voter-fraud-machine-era-bag",
-    "title": "Voter fraud is a machine-era bag-of-tricks instrument — mail did not invent it",
-    "claim": "Author lock AU-046 §2.4.4: voter fraud where the margin was thin enough to matter is an establishment bag-of-tricks instrument. Peak vulnerability was the 19th-century party-ticket / urban-machine era (Tammany, repeaters, stuffed boxes), not modern mass mail-in. Specimens: Sullivan County 1931 absentee colonization; LBJ 1948 Box 13; 1960 Chicago-machine accusation Nixon chose not to litigate. Soft history already admits Gilded Age fraud culture; the Author move is to keep that instrument on the board next to red tape and tip-removal. Not a claim that every Electoral College tip was flipped by ballots.",
-    "answerOpener": "This site treats voter fraud as a machine-era bag of tricks, not as something mail-in ballots invented. Peak vulnerability is Tammany / stuffed boxes / Box 13 — not 2020 as origin.",
+    "id": "moor-eliminated-from-america",
+    "title": "Moor had to be eliminated from America (literary redaction)",
+    "claim": "Author lock AU-038f: Nuttall’s 1621 substitution plus 1730 re-transcription is a smoking-gun instance of literary redaction — books/registers were rewritten, not just spoken labels drifting. Moor whitewash is confirmed regardless of geographic scale: Europeans did call American royalty Moorish, then clerks altered the wording. Author inference: this is a visible tip of a print program that simplified America (empty land / Indian / settler binary) by scrubbing Moor from the New World page. Digital full-text across regions is what makes the weeds visible (Habsburg cabinets, Delaware Moor↔Indian, Franklin Boors/Moors). A second clerk sentence “substituted for” outside Ambras is still a hunt, not a closed mass-decree file.",
+    "answerOpener": "This site holds that Moor had to be eliminated from America. Nuttall already shows the rewrite mechanism. The open question is how wide the program ran — not whether whitewash happened.",
     "bullets": [
-      "Instrument where margins are thin enough to matter — not every EC result stolen.",
-      "Peak: 19th-century party-ticket / urban-machine (Tammany, repeaters, stuffed boxes).",
-      "Specimens: Sullivan County 1931; LBJ 1948 Box 13; 1960 Chicago accusation Nixon did not litigate.",
-      "Mail-in did not invent the bag. Parent lock is AU-046."
+      "Whitewash confirmed as an instance: 1596 Moorish king / Moorish hat → 1621 Indian.",
+      "Nuttall’s own words (substituted, original text again transcribed) = redaction vocabulary, not synonym drift.",
+      "Author: mass literary reframing to make America simple; Moor could not stay on the page.",
+      "Weeds thesis: contradictions live in regional shelves; only recent digital search can cross-read them.",
+      "Do not flatten one inventory chain into a universal 1621 law; hunt edition-diffs of books and maps next."
     ],
     "confidence": "author-thesis",
     "uniqueness": "site-distinctive",
-    "uniquenessNote": "Gilded Age fraud culture is textbook. Site-distinctive is keeping the instrument on the AU-046 board next to red tape and tip-removal rather than treating mail-in as the origin.",
+    "uniquenessNote": "Nuttall is published. Site-distinctive is the mass-program inference — Moor purged from America so eastern/imperial memory could not sit on the continent — plus the weeds/digital-search method.",
     "topics": [
-      "voter fraud",
-      "tammany",
-      "box 13",
-      "lbj",
-      "chicago 1960",
-      "mail-in",
-      "absentee",
-      "machine era",
-      "au-046"
+      "moor america",
+      "moorish to indian",
+      "literary redaction",
+      "whitewash",
+      "books rewritten",
+      "r3",
+      "lexical redaction",
+      "delaware moors",
+      "weeds"
     ],
     "demoQuestions": [
-      "Does this site think voter fraud is real?",
-      "Did mail-in ballots invent voter fraud?",
-      "What is Box 13?"
+      "Were books rewritten to remove Moors from America?",
+      "Why was Moor eliminated from America?",
+      "Is Moorish to Indian a mass redaction?",
+      "Did Europeans call Native American kings Moorish?"
     ],
     "searchQueries": [
-      "voter fraud machine era box 13 chicago 1960",
-      "AU-046 mail-in did not invent fraud"
+      "Moor eliminated from America literary redaction",
+      "Moorish Indian substitution books rewritten",
+      "Nuttall alteration mass redaction America"
     ],
     "searchPrefixes": [
-      "governance/war/"
+      "history/chronology/"
     ],
     "canonicalPaths": [
-      "governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md",
-      "governance/war/the-great-depression-was-planned.md"
+      "history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md",
+      "history/chronology/the-hidden-history-of-words.md",
+      "history/chronology/investigations/lexical-redaction-hub-investigation.md",
+      "history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md",
+      "history/chronology/georgia-was-the-second-promised-land.md"
     ],
     "relatedClaimIds": [
-      "presidential-alignment-au046",
-      "great-depression-planned-farm-pen"
+      "amaruka-khan-meru-wall-street",
+      "black-king-eastern-not-african",
+      "chronology-revision",
+      "moorish-revival-america-scar",
+      "nuttall-1621-indian-substituted-moorish",
+      "spanish-from-span",
+      "tartaria-rus-horde"
     ],
     "doNotSay": [
-      "Every Electoral College tip was flipped by ballots.",
-      "Mass mail-in invented voter fraud.",
-      "The site treats 2020 as the first fraud era."
+      "The Ambras chain alone closes proof that every American book was rewritten in 1621.",
+      "Moor never appeared on American royalty language, so there was nothing to purge.",
+      "Stopping at “only a hat inventory” closes the whitewash.",
+      "The site has already found a second explicit “substituted for” sentence outside Ambras."
+    ]
+  },
+  {
+    "id": "black-king-eastern-not-african",
+    "title": "“Black king” did not mean African",
+    "claim": "Author lock AU-038e: “black king” / “black King George” did not mean African or Black American ancestry. In period color-talk, black also meant eastern — a catch-all bin for everyone outside white / red / yellow slots, not a Sub-Saharan descent claim. The real Moor king phenotype on this site is Russian / Asian; he may have been dark-skinned, but not of African descent. MST/AI posters that paint Khan Meru as Maghrebi or African are downstream costume, not the author’s ID. This lock does not deny African Moors in Barbary or Atlantic slave-trade lanes; it blocks collapsing Meru / black King George into African descent.",
+    "answerOpener": "On this site, black king did not mean African. Black was an eastern / non-white-bin label. The Moor king looks Russian or Asian — possibly dark-skinned — not African descent.",
+    "bullets": [
+      "Black ≠ modern US Black / African American when reading black King George / Meru.",
+      "Black ≈ eastern: same field as Franklin swarthy Russians/Germans and George-in-the-East.",
+      "Phenotype lock: Russian / Asian; may be dark-skinned; not African descent.",
+      "African Meru art is literalization of a taxonomy word, not the author’s king.",
+      "Does not erase Maghrebi/African Moor lanes elsewhere (Barbary, Revival architecture)."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Afrocentric/MST Amaruka lanes often paint Meru African. The eastern-bin + Russian/Asian phenotype lock, kept first-class against that lane, is site-distinctive.",
+    "topics": [
+      "black king",
+      "black king george",
+      "moor",
+      "eastern",
+      "african",
+      "meru",
+      "swarthy",
+      "phenotype",
+      "russian",
+      "asian"
+    ],
+    "demoQuestions": [
+      "Did black king mean African?",
+      "Was the Moorish king African?",
+      "What did black King George mean?",
+      "Was Khan Meru Black American?"
+    ],
+    "searchQueries": [
+      "black king not African eastern Moor",
+      "black King George Russian Asian phenotype",
+      "Meru Moorish king African descent"
+    ],
+    "searchPrefixes": [
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md",
+      "history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md",
+      "history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md",
+      "history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md",
+      "history/chronology/georgia-was-the-second-promised-land.md"
+    ],
+    "relatedClaimIds": [
+      "amaruka-khan-meru-wall-street",
+      "barbary-tribute-horde-toll-remnant",
+      "british-royalty-controlled-scheme",
+      "king-george-planet-mars",
+      "moor-eliminated-from-america",
+      "moorish-revival-america-scar",
+      "nuttall-1621-indian-substituted-moorish"
+    ],
+    "doNotSay": [
+      "Black king or black King George meant African or Black American ancestry.",
+      "Khan Meru was Maghrebi or Sub-Saharan African descent.",
+      "This lock denies that African Moors existed in Barbary or Atlantic lanes.",
+      "Match the king to MST/AI African costume because the posters say Black."
+    ]
+  },
+  {
+    "id": "amaruka-khan-meru-wall-street",
+    "title": "Amaruka / Khan Meru royalty; Wall Street as Ottoman wall",
+    "claim": "Author package AU-038: (1) Amaruka / Khan Meru / pre–Civil War royalty existed on the Atlantic / New York horizon and was later erased or renamed; (2) Wall Street is named for an Ottoman Amaruka wall, with Dutch New Amsterdam wall-history as an R6 shell (soft form: re-credit an older wall; hard form: no Dutch wall-event — still open); (3) the Moorish king figure later printed as King George / “black King George.” The Meru poster is an AI claim-inventory, not a primary. Absence of a NY census-king named Meru is not a falsifier under redaction. Ottoman here may be textbook empire or Horde-form — that fork is open. Pair with Nuttall’s Moorish→Indian rewrite and the black≠African lock.",
+    "answerOpener": "This site keeps Amaruka / Khan Meru royalty and Wall Street as an Ottoman Amaruka wall as open redacted-truth claims. Dutch New Amsterdam wall-history is treated as a shell. Debunking the AI poster does not close the file.",
+    "bullets": [
+      "Claim 1: pre–Civil War Amaruka / Meru / khanate royalty on the Atlantic horizon, later redacted.",
+      "Claim 2: Wall Street’s wall = Ottoman / Amaruka fortification, not only a 1653 Dutch palisade scare-story.",
+      "Dutch history fake = R6 respectable subset; soft vs hard fake still open.",
+      "Bridge: Meru identity printed as Hanover King George / black King George (AU-033 rhyme).",
+      "Do not treat fake-poster forensics as closure on the wall or the king."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Tartaria/NYC/Moor collages circulate online. Site-distinctive is investigating them as redacted-truth hypotheses, locking Dutch wall-history as R6, pairing Meru with King George, and refusing African-phenotype collapse.",
+    "topics": [
+      "amaruka",
+      "khan meru",
+      "meru",
+      "wall street",
+      "ottoman wall",
+      "new amsterdam",
+      "dutch palisade",
+      "waalstraat",
+      "king george",
+      "tartaria",
+      "new york"
+    ],
+    "demoQuestions": [
+      "Was Wall Street an Ottoman wall?",
+      "Who was Khan Meru?",
+      "Is Dutch Wall Street history fake?",
+      "Was there Moorish royalty in America before the Civil War?",
+      "Is Amaruka the old name for America?"
+    ],
+    "searchQueries": [
+      "Wall Street Ottoman Amaruka wall Dutch fake",
+      "Khan Meru Amaruka Moorish king New York",
+      "Meru black King George redaction"
+    ],
+    "searchPrefixes": [
+      "history/chronology/"
+    ],
+    "canonicalPaths": [
+      "history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.md",
+      "history/chronology/georgia-was-the-second-promised-land.md",
+      "history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md",
+      "history/chronology/investigations/author-unique-theories.md",
+      "history/chronology/the-hidden-history-of-words.md"
+    ],
+    "relatedClaimIds": [
+      "black-king-eastern-not-african",
+      "british-royalty-controlled-scheme",
+      "chronology-revision",
+      "king-george-planet-mars",
+      "moor-eliminated-from-america",
+      "moorish-revival-america-scar",
+      "nuttall-1621-indian-substituted-moorish",
+      "tartaria-rus-horde",
+      "tolkien-lotr-caliphate-horde"
+    ],
+    "doNotSay": [
+      "Debunking the AI Meru poster closes Wall Street or pre–Civil War royalty.",
+      "The only possible origin of Wall Street is the 1653 Dutch palisade.",
+      "Khan Meru is a documented census king of New York.",
+      "Ottoman here must mean only the textbook late empire; Horde-form is forbidden.",
+      "The site treats Dutch New Amsterdam as fully authentic with no shell question."
     ]
   }
 ]
