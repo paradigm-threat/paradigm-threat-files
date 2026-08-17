@@ -120,6 +120,17 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 
 **Gateway reuse (Next-like):** fleet caches SSR HTML keyed by tip OID with `s-maxage≈60` / SWR — see `relay-gateway/docs/RELAY_POLICY_AND_PERFORMANCE.md`. Tip still must be correct without that cache — and that cache must **not** embed P2 catalog.
 
+## CSR host (relay web client)
+
+When **`manifest.relayHostMode === 'csr'`** (relay-client-web repo tab — no SSR document):
+
+- **No P0 SSR assumption** — article markdown loads on first **`isClientLive()`** pass via `cachedGet` / tip GET.
+- Wrap root in **`BootShell`** → **`@relay/ui/RelayBootShell`**; use **`StyleContext fullScreen={false}`**.
+- **P2 catalog** — return **`null`** (not visible placeholders) while `!isClientLive()`; boot overlay covers loading.
+- Helpers: **`hooks/client/hostMode.jsx`** (`isCsrHost`, `relayHostMode`, `relaySsrArticlePresent`).
+
+Parked **`ssr`** hosts unchanged: P0+P1 SSR, P2 placeholders with `data-pt-*-ssr`, hydrate promotes live.
+
 ## SSR data
 
 - **Never** `fetch` / QUERY the **same Host** during site-shell SSR — it deadlocks the gateway worker.

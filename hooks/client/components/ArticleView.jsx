@@ -4,6 +4,7 @@ import { MarkdownRenderer } from '@clevertree/markdown'
 import { neighborPaths as hostNeighborPaths } from '@relay/catalog'
 import { normalizeRel, resolveRel, parentDir } from '@relay/path'
 import { cachedGet } from '@relay/ui'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import Layout from 'hooks/client/components/Layout.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
@@ -164,11 +165,15 @@ export default function ArticleView(props) {
 
   let pathPart = normalizeRel(routePath)
   const live = isClientLive() === true
+  const csr = isCsrHost()
+  if (!live && csr) {
+    return null
+  }
   const loaded = loadArticleMarkdown(pathPart)
   let markdownContent = loaded.markdownContent
   let errMsg = loaded.errMsg
   let deferHugeSsr = false
-  if (!live && !errMsg && markdownContent.length > MAX_SSR_MD_CHARS) {
+  if (!live && !csr && !errMsg && markdownContent.length > MAX_SSR_MD_CHARS) {
     deferHugeSsr = true
     markdownContent = ''
   }

@@ -1,5 +1,6 @@
 import React from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { buildDirTree } from '@relay/catalog'
 import { take } from '@relay/util'
 import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
@@ -92,6 +93,9 @@ function FolderBranch(props) {
 /** Left directory — nested via @relay/catalog.buildDirTree (SSR-safe arrays). */
 export default function DirNav() {
   if (isClientLive() !== true) {
+    if (isCsrHost()) {
+      return null
+    }
     return (
       <aside
         className="pt-dir-nav lg:pt-dir-nav-lg"

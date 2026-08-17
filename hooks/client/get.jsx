@@ -5,6 +5,7 @@
 import React from 'react'
 import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
+import BootShell from 'hooks/client/components/BootShell.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import SearchPage from 'hooks/client/components/SearchPage.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
@@ -62,8 +63,10 @@ export default function ParadigmFilesRelayRoot() {
   }
 
   return (
-    <StyleContext src="hooks/client/theme.yaml">
-      {page}
-    </StyleContext>
+    <BootShell>
+      <StyleContext src="hooks/client/theme.yaml" fullScreen={false}>
+        {page}
+      </StyleContext>
+    </BootShell>
   )
 }
