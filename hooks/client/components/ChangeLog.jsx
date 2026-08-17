@@ -5,6 +5,7 @@
  */
 import React from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take, sortBy } from '@relay/util'
@@ -217,6 +218,9 @@ export default function ChangeLog(props) {
 
   // SSR: skip nav-index parse / card fan-out; hydrate fills after isClientLive.
   if (isClientLive() !== true) {
+    if (isCsrHost()) {
+      return null
+    }
     return (
       <section
         className="pt-changelog"

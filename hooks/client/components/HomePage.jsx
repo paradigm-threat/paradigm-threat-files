@@ -1,5 +1,6 @@
 import React from 'react'
 import { isClientLive } from '@clevertree/style-internal'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
@@ -16,6 +17,9 @@ import {
  */
 export default function HomePage() {
   const live = isClientLive() === true
+  if (!live && isCsrHost()) {
+    return null
+  }
   let rows = []
   let featured = ''
   let items = []
