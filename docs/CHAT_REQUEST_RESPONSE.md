@@ -112,7 +112,7 @@ Preferred when running in-repo tooling: **`putComment`** / MCP **`submit_chat_co
 Chat links use **`https://paradigmthreat.net/...`**. The SPA shells any path; **content** comes from **`paradigm-threat-files`** on Relay.
 
 1. Commit the investigation + index wiring (`page.md`, `docs/INVESTIGATIONS_DEEP_DIVE.md`, related-investigation cross-links, lane indexes).
-2. Push **all** configured remotes (`dfw1`, `lon1`, `hkg1`, `gitlab`, …). Lon1/hkg1 may already be current via peer notify — still attempt push or verify.
+2. Push **all** configured remotes (`dfw1`, `iad1`, `hkg1`, `gitlab`, …). Iad1/hkg1 may already be current via peer notify — still attempt push or verify.
 3. Verify raw files host returns markdown, not `not_found`:
 
 ```bash

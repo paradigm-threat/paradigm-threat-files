@@ -135,7 +135,7 @@ When discussing defense budgets vs commercial games: cite **parallel ecosystems*
 ## Git
 
 - Commit investigation changes with a clear one-line message.
-- Push to **all** configured remotes (`origin`, relay mirrors such as `dfw1`, `hkg1`, `lon1`, … per `git remote -v`) when the author requests repo sync. **`atlanta2` and `jp-osa` are retired** — do not re-add unless ops restores those hosts.
+- Push to **all** configured remotes (`origin`, relay mirrors such as `dfw1`, `hkg1`, `iad1`, … per `git remote -v`) when the author requests repo sync. **`atlanta2`, `jp-osa`, and `lon1` are retired** — do not re-add unless ops restores those hosts.
 
 ---
 

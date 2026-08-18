@@ -1,7 +1,7 @@
 # Git remotes — single `main` (GitLab + Relay)
 
 **Date:** 2026-07-21  
-**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay `dfw1` / `hkg1` / `lon1` serve the same `main`.
+**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay `dfw1` / `hkg1` / `iad1` serve the same `main`.
 
 ---
 
@@ -10,7 +10,7 @@
 | Surface | Branch | Role |
 |---------|--------|------|
 | **GitLab** (`gitlab`) | **`main`** | Forge backup / MR / CI — **source of truth** for history. |
-| **Relay** (`dfw1`, `hkg1`, `lon1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
+| **Relay** (`dfw1`, `hkg1`, `iad1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
 | **Local default checkout** | **`main`** | Day-to-day commits. Tracks `gitlab/main` (or any remote `main`). |
 
 Do **not** use a long-lived `gitlab` work branch or `relay-publish` cherry-pick branch. Those were split-brain workarounds (retired 2026-07-21).
@@ -29,24 +29,24 @@ git push gitlab HEAD:main
 # Go live — same tip to all Relays:
 git push dfw1 HEAD:main
 git push hkg1 HEAD:main
-git push lon1 HEAD:main
+git push iad1 HEAD:main
 ```
 
 Or, when going live in one step after the commit is on `main`:
 
 ```bash
 git push gitlab HEAD:main
-git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push lon1 HEAD:main
+git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push iad1 HEAD:main
 ```
 
 **If a Relay push hangs** (often a dead Spot or slow `post-receive` on an old binary):
 
 1. Push **one remote at a time** with a client timeout (e.g. `timeout 90 git push dfw1 HEAD:main`).
 2. Check `git ls-remote <remote> refs/heads/main` — if the tip already matches `HEAD`, kill the hung client; the pack was accepted.
-3. Prefer **`hkg1` / `lon1`** if **`dfw1`** is unreachable; then repair dfw1. Do not wait forever on `pushDefault=dfw1`.
+3. Prefer **`hkg1` / `iad1`** if **`dfw1`** is unreachable; then repair dfw1. Do not wait forever on `pushDefault=dfw1`.
 4. Mesh ops / env timeouts: relay-gateway **`docs/RELAY_MESH_OPS.md`**.
 
-*Validated: non-blocking post-receive deploy on lon1/hkg1 (2026-07-24).*
+*Validated: non-blocking post-receive deploy on iad1/hkg1 (lon1 retired 2026-08-17).*
 
 **Hard rules**
 
@@ -83,7 +83,7 @@ When the author asks to **commit and push**:
 
 1. Ensure checkout is **`main`**.
 2. `git push gitlab HEAD:main`.
-3. If they asked to **go live** / **push remotes** / **push everything live**: push the **same** tip to `dfw1` / `hkg1` / `lon1` **`main`**.
+3. If they asked to **go live** / **push remotes** / **push everything live**: push the **same** tip to `dfw1` / `hkg1` / `iad1` **`main`**.
 4. Do **not** force-push Relay `main` unless the author explicitly orders it.
 
 Canon pointer for chat live-publish: [`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) §6.
