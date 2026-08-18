@@ -122,14 +122,15 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 
 ## CSR host (relay web client)
 
-When **`manifest.relayHostMode === 'csr'`** (relay-client-web repo tab — no SSR document):
+When **`manifest.relayHostMode === 'csr'`** (relay-client-web repo tab — no SSR document). **Missing `relayHostMode` defaults to `ssr`** so gateway GET SSR still emits P0 HTML.
 
 - **No P0 SSR assumption** — article markdown loads on first **`isClientLive()`** pass via `cachedGet` / tip GET.
-- Wrap root in **`BootShell`** → **`@relay/ui/RelayBootShell`**; use **`StyleContext fullScreen={false}`**.
-- **P2 catalog** — return **`null`** (not visible placeholders) while `!isClientLive()`; boot overlay covers loading.
+- Wrap root in **`BootShell`** → **`@relay/ui/RelayBootShell`**; overlay **only in CSR**. Parked hydrate must **not** cover SSR — mute `.pt-client-only` until `html[data-pt-hydrated="1"]`.
+- CSR: **`StyleContext fullScreen={false}`**. Parked SSR: `fullScreen` (shell owns the viewport).
+- **P2 catalog** — CSR: return **`null`** while `!isClientLive()` (overlay covers). SSR: placeholders with `data-pt-*-ssr`.
 - Helpers: **`hooks/client/hostMode.jsx`** (`isCsrHost`, `relayHostMode`, `relaySsrArticlePresent`).
 
-Parked **`ssr`** hosts unchanged: P0+P1 SSR, P2 placeholders with `data-pt-*-ssr`, hydrate promotes live.
+Parked **`ssr`** hosts: P0+P1 SSR, P2 placeholders, hydrate promotes live without a loading takeover.
 
 ## SSR data
 

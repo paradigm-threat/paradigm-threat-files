@@ -6,6 +6,7 @@ import React from 'react'
 import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
 import BootShell from 'hooks/client/components/BootShell.jsx'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import SearchPage from 'hooks/client/components/SearchPage.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
@@ -64,7 +65,7 @@ export default function ParadigmFilesRelayRoot() {
 
   return (
     <BootShell>
-      <StyleContext src="hooks/client/theme.yaml" fullScreen={false}>
+      <StyleContext src="hooks/client/theme.yaml" fullScreen={isCsrHost() !== true}>
         {page}
       </StyleContext>
     </BootShell>

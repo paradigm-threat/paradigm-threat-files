@@ -19,7 +19,9 @@ export function relayHostMode() {
     const m = str(manifest.relayHostMode)
     if (m.length > 0) return m
   } catch (e) {}
-  return 'csr'
+  // Gateway SSR does not inject relayHostMode. Default SSR so P0 article HTML
+  // is emitted; only the web/Android CSR hosts set relayHostMode=csr.
+  return 'ssr'
 }
 
 export function relaySsrArticlePresent() {
