@@ -2,13 +2,13 @@
 
 > **TL;DR:** Viral flat-Earth arguments (pilot spin, density-not-gravity, “my truth”) usually confuse **frame of reference** with **shape**. **Documented** mainstream corrections — vacuum free-fall, retrograde motion, star-trail hemispheres, Cavendish, Foucault-class sky rotation — support a **rotating globe**. The author adds a **separate hypothesis**: Earth’s **electromagnetic / field structure** co-rotates with the body, so occupants experience a **locally fixed frame** (no felt spin) **while the sky still proves rotation**. That explains *felt fixedness* without endorsing literal flat-Earth doctrine — which this repo treats largely as [controlled opposition](/cosmos/flat_earth/co.md) burying Saturnian / Hollow / Tartaria threads.
 
-**Status:** Open — Entries 1–2 (pilot meme; Gareth Boland density/gravity debate).
+**Status:** Open — Entries 1–2 (pilot meme; friend’s density/gravity debate).
 **Date:** 2026-08-22
 
 ## Guide
 
 1. **Entry index** — pick the meme or debate thread you saw.
-2. **Documented** sections — mainstream mechanics / observation debunks (fair summary of interlocutors like Gareth Boland).
+2. **Documented** sections — mainstream mechanics / observation debunks (fair summary of interlocutors like the author’s friend).
 3. **Author** sections — unified-field / EM frame hypothesis (why spin isn’t *felt*; not a flat-Earth proof).
 4. **Limits** — at file end.
 
@@ -17,7 +17,7 @@
 | # | Topic | Image |
 |---|--------|--------|
 | [1](#entry-1-pilot--earths-spin-meme) | Pilot / Earth’s spin meme | `pilot-earth-spin-meme.png` |
-| [2](#entry-2-density-gravity-electric-universe--my-truth-debates-gareth-boland-threads) | Density vs gravity, Electric Universe, Bible-vs-NASA, “my truth” | `gareth-boland-fe-debate-collage.png` |
+| [2](#entry-2-density-gravity-electric-universe--my-truth-debates-friend-threads) | Density vs gravity, Electric Universe, Bible-vs-NASA, “my truth” | `friend-fe-debate-collage.png` |
 
 Related: [Flat Earth investigation — history & misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md) · [CO / PSYOP angle](/cosmos/flat_earth/co.md) · [**Reader essay — The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) (friend debunk inspiration, Phoenix witness, dual ignorance)
 
@@ -70,15 +70,15 @@ UFO phenomenon register: [PURSUE §5.11](/influence/controlled_opposition/invest
 
 ---
 
-## Entry 2: Density, gravity, Electric Universe & “my truth” debates (Gareth Boland threads)
+## Entry 2: Density, gravity, Electric Universe & “my truth” debates (friend threads)
 
-![Gareth Boland vs flat-Earth comment threads — collage](./gareth-boland-fe-debate-collage.png)
+![Friend vs flat-Earth comment threads — collage](./friend-fe-debate-collage.png)
 
 ### Context
 
-Screenshots capture **YouTube / social comment wars** (e.g. under Apollo/conspiracy-adjacent videos) between **@garrethboland** and hardcore flat-Earth / alt-physics accounts (**@JayReynolds-k9p**, **@KibyNykraft**, **@brandonpatching468**, **@EASTENDGLEN**, **@heidijones9374**). Gareth’s tone is **frustrated mainstream empiricism** — the posture that infuriates globers because FE recruits treat **personal disbelief** and **institutional distrust** as equal to centuries of corroborated measurement.
+Screenshots capture **YouTube / social comment wars** (e.g. under Apollo/conspiracy-adjacent videos) between the **author’s friend** and hardcore flat-Earth / alt-physics accounts (**@JayReynolds-k9p**, **@KibyNykraft**, **@brandonpatching468**, **@EASTENDGLEN**, **@heidijones9374**). The friend’s tone is **frustrated mainstream empiricism** — the posture that infuriates globers because FE recruits treat **personal disbelief** and **institutional distrust** as equal to centuries of corroborated measurement.
 
-**This entry records Gareth’s arguments fairly (Documented)** and then **separates** what they prove from what the **author’s field-frame hypothesis** adds (Author). **Reader essay:** [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) — inspired by this debunk pattern (friend anonymized in essay); Phoenix voter-fraud witness; Saturnian exit.
+**This entry records the friend’s arguments fairly (Documented)** and then **separates** what they prove from what the **author’s field-frame hypothesis** adds (Author). **Reader essay:** [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) — inspired by this debunk pattern; Phoenix voter-fraud witness; Saturnian exit.
 
 ### What the flat-Earther side repeats (pattern)
 
@@ -93,7 +93,7 @@ Screenshots capture **YouTube / social comment wars** (e.g. under Apollo/conspir
 | **Firmament / dome / Fishbowl** | Rockets curve to hit dome; Operation Fishbowl “bombed the dome” |
 | **“My truth” relativism** | “Explanations for both viewpoints — discern your own truth” |
 
-### Gareth Boland — mainstream responses (Documented summary)
+### Friend — mainstream responses (Documented summary)
 
 Fair paraphrase of the highlighted replies in the screenshot set:
 
@@ -114,7 +114,7 @@ Fair paraphrase of the highlighted replies in the screenshot set:
 
 #### D. Shape and sky observations
 
-- **Heliocentrism** explains **retrograde planetary motion**; naive geocentrism does not (simple starting point Gareth uses).
+- **Heliocentrism** explains **retrograde planetary motion**; naive geocentrism does not (simple starting point the friend uses).
 - **Star trails:** opposite rotation sense **Northern vs Southern** hemisphere — hard to fit a flat disk model; natural on a **rotating sphere**.
 - **Sunset geometry:** Sun **sets below horizon** (not shrinking to a nearby point); **Burj Khalifa** double-sunset vantage; **cloud bottoms** lit at sunset — consistent with distant Sun on a globe, awkward for a always-local Sun on a plane.
 - **Antarctic 24-hour Sun** (December) — cited in thread as witnessed by mixed groups; **polar day** is a classic globe prediction.
@@ -123,35 +123,35 @@ Fair paraphrase of the highlighted replies in the screenshot set:
 
 - Rockets **curve for orbit** (fuel efficiency / trajectory), not because a **snow-globe dome** blocks straight paths.
 - **Operation Fishbowl** (1962 high-altitude nuclear tests) — documented **EMP / aurora / weapons-effects** research, not “breaking the firmament” ([Wikipedia — Operation Fishbowl](https://en.wikipedia.org/wiki/Operation_Fishbowl)).
-- **“Flat Earth Dave”** etc. — Gareth treats as disinformation, not good-faith inquiry.
+- **“Flat Earth Dave”** etc. — the friend treats as disinformation, not good-faith inquiry.
 
 #### F. Spin rate and Cavendish
 
 - **~1000 mph** at equator is **relative to Earth’s axis**, not an absolute speed you should “feel” like wind; Earth rotates **once per day** (~0.00069 rpm).
-- **Cavendish experiment** (and modern gravimetry) demonstrates **mass attracts mass** at laboratory scale — undergrad-accessible corroboration Gareth cites against “gravity is fake.”
+- **Cavendish experiment** (and modern gravimetry) demonstrates **mass attracts mass** at laboratory scale — undergrad-accessible corroboration the friend cites against “gravity is fake.”
 
-![Spinning globe / 1000 mph thread](./gareth-boland-spinning-globe-debate.png)
+![Spinning globe / 1000 mph thread](./friend-spinning-globe-debate.png)
 
 ### Why mainstream debaters get angry (Author sociology, not physics proof)
 
-Hardcore FE personalities **reject the epistemic stack** Gareth relies on (peer review, institutions, cumulative engineering) while still using **phones, GPS, and aviation** built on that stack. That **performative contradiction** — plus **Bible-vs-NASA** false binary and **“do your research”** links to curated influencers — reads as **bad-faith** or **captured** to mainstream observers. In-repo read: that recruitment basin overlaps [controlled opposition](/cosmos/flat_earth/co.md) and buries **Saturnian / Hollow / Tartaria** chronology work ([main investigation](/cosmos/flat_earth/flat-earth-investigation.md) Part Two).
+Hardcore FE personalities **reject the epistemic stack** the friend relies on (peer review, institutions, cumulative engineering) while still using **phones, GPS, and aviation** built on that stack. That **performative contradiction** — plus **Bible-vs-NASA** false binary and **“do your research”** links to curated influencers — reads as **bad-faith** or **captured** to mainstream observers. In-repo read: that recruitment basin overlaps [controlled opposition](/cosmos/flat_earth/co.md) and buries **Saturnian / Hollow / Tartaria** chronology work ([main investigation](/cosmos/flat_earth/flat-earth-investigation.md) Part Two).
 
-### Author synthesis — Gareth + unified field (do not conflate tiers)
+### Author synthesis — friend + unified field (do not conflate tiers)
 
-**Documented (Gareth + standard physics):** Earth is **not** flat; **gravity** is not “density”; **Electric Universe** gravity replacement fails simple drop-rate tests; **sky mechanics** show **rotation** and **spherical-Earth** geometry.
+**Documented (friend + standard physics):** Earth is **not** flat; **gravity** is not “density”; **Electric Universe** gravity replacement fails simple drop-rate tests; **sky mechanics** show **rotation** and **spherical-Earth** geometry.
 
-**Author hypothesis (field-carried frame):** The FE movement **misreads** a **real phenomenological fact** — **we do not feel Earth’s spin in everyday life** — and jumps to **“ therefore non-rotating flat plane.”** Gareth correctly attacks the **shape** inference but often leaves the **felt-fixedness** experience **unaddressed** except via “slow rotation + inertia,” which FE recruits find unsatisfying.
+**Author hypothesis (field-carried frame):** The FE movement **misreads** a **real phenomenological fact** — **we do not feel Earth’s spin in everyday life** — and jumps to **“ therefore non-rotating flat plane.”** The friend correctly attacks the **shape** inference but often leaves the **felt-fixedness** experience **unaddressed** except via “slow rotation + inertia,” which FE recruits find unsatisfying.
 
 **Author unpack:**
 
-| Observation | Gareth / mainstream read | Author unified-field read |
+| Observation | Friend / mainstream read | Author unified-field read |
 |---|---|---|
 | No felt spin on ground | Small angular velocity; co-moving frame; effective gravity includes centrifugal term | We are **inside Earth’s co-rotating EM / field structure** → **local frame feels static** |
 | Sky clearly rotates (stars, Sun, Foucault) | Proof Earth **rotates** (globe) | Same — **field spins with body**; sky is the visible edge of the rotating system |
 | “Density” language | Wrong physics; descriptor not force | FE **cargo-cults** vocabulary from real **local** “everything sits on the floor” experience without naming **frame** |
 | UFO sudden stop (Entry 1) | Unrelated or “not proven” | Same **frame-carried inertia** metaphor at craft scale — **Speculative** |
 
-**Critical distinction for readers:** **Fixed sensation ≠ flat Earth.** A **rotating globe** with inhabitants **carried in a co-rotating field/medium** predicts **both** (a) **no barbecue-spin vertigo** on the ground and (b) **rotating star field**. Flat Earth predicts (a) but fights (b). Gareth’s empirics win on (b); the author thesis is about **reframing (a)** without surrendering shape.
+**Critical distinction for readers:** **Fixed sensation ≠ flat Earth.** A **rotating globe** with inhabitants **carried in a co-rotating field/medium** predicts **both** (a) **no barbecue-spin vertigo** on the ground and (b) **rotating star field**. Flat Earth predicts (a) but fights (b). The friend’s empirics win on (b); the author thesis is about **reframing (a)** without surrendering shape.
 
 Bridging mainstream one-liner (optional): textbooks describe related structure as **fields in vacuum** refined by **relativity**; this repo names the substrate **æther** in author voice — see [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md).
 
@@ -163,7 +163,7 @@ Bridging mainstream one-liner (optional): textbooks describe related structure a
 | “Electric Universe explains gravity” | **Refuted** as stated (Documented — drop-rate universality) |
 | “Earth is flat because I don’t feel spin” | **Non sequitur** — felt fixedness does not imply flatness |
 | “Earth rotates; sky shows it” | **Supported** (Documented — star trails, retrograde, polar day, sunset geometry) |
-| “We live in a co-rotating field → local static feel” | **Author hypothesis** — explains **phenomenology** FE exploits; **not** a substitute for Gareth’s shape evidence |
+| “We live in a co-rotating field → local static feel” | **Author hypothesis** — explains **phenomenology** FE exploits; **not** a substitute for the friend’s shape evidence |
 | “FE movement is mostly honest inquiry” | **Contested** — in-repo **CO / PSYOP** read; see [co.md](/cosmos/flat_earth/co.md) |
 
 ### Questions to verify (Entry 2)
@@ -192,15 +192,15 @@ Keywords: #FlatEarth #PilotSpinMeme #Density #Gravity #ElectricUniverse #AppealT
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-**Gareth Boland threads:** Summarized from **social screenshots** (Aug 2026 capture); usernames and wording paraphrased for dossier use — not a endorsement of every rhetorical tone. **Documented** rows follow standard physics; **Author** rows follow unified-field / æther hypothesis and **do not** overturn globe geometry.
+**Friend threads:** Summarized from **social screenshots** (Aug 2026 capture); usernames and wording paraphrased for dossier use — not an endorsement of every rhetorical tone. **Documented** rows follow standard physics; **Author** rows follow unified-field / æther hypothesis and **do not** overturn globe geometry.
 
 **Do not merge tiers:** Winning the **density/gravity** argument does **not** prove the author’s **EM frame** mechanism; explaining **felt fixedness** does **not** rehabilitate **flat-Earth shape** claims.
 
 **UFO analogy:** Instant-acceleration reports are indexed in PURSUE §5.11; mechanism remains **Speculative**.
 
-**Institutional trust:** Gareth’s “civilization trust” argument is **epistemic**, not a rebuttal to every **NASA / Apollo** critique elsewhere in Paradigm Threat — those live in other investigations.
+**Institutional trust:** The friend’s “civilization trust” argument is **epistemic**, not a rebuttal to every **NASA / Apollo** critique elsewhere in Paradigm Threat — those live in other investigations.
 
 ## Investigator notes
 
-- Screenshot source batch: `/home/ari/.cursor/projects/home-ari-dev-fan-edits/assets/image-0b53d48c-*.png` et al. (Aug 2026); collages copied to `cosmos/flat_earth/gareth-boland-*.png`.
+- Screenshot source batch: `/home/ari/.cursor/projects/home-ari-dev-fan-edits/assets/image-0b53d48c-*.png` et al. (Aug 2026); collages copied to `cosmos/flat_earth/friend-*.png`.
 - Video context (from screenshots): *One Giant Lie to Mankind: The Untold Story of the Apollo Missions with John Hamer and Alastair Neil* — FE-heavy comment section; not adjudicated here.

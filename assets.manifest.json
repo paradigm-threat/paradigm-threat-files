@@ -1138,16 +1138,16 @@
       "bytes": 124612
     },
     {
-      "id": "cosmos_flat_earth_gareth-boland-fe-debate-collage.png",
-      "path": "cosmos/flat_earth/gareth-boland-fe-debate-collage.png",
+      "id": "cosmos_flat_earth_friend-fe-debate-collage.png",
+      "path": "cosmos/flat_earth/friend-fe-debate-collage.png",
       "ipfs": "bafybeifvmo4augtaztbheswsi75j6sertxbnayweiysvnpq6tknvzmc32e",
       "contentType": "image/png",
       "sha256": "3f8359f7522da25d729285c4268c13c1408daeb868675627dcacccbfb0acf670",
       "bytes": 502151
     },
     {
-      "id": "cosmos_flat_earth_gareth-boland-spinning-globe-debate.png",
-      "path": "cosmos/flat_earth/gareth-boland-spinning-globe-debate.png",
+      "id": "cosmos_flat_earth_friend-spinning-globe-debate.png",
+      "path": "cosmos/flat_earth/friend-spinning-globe-debate.png",
       "ipfs": "bafkreigcknuff6k3wriheadt4wl5ooehj6cxcobmdqhdivsnwewigujhb4",
       "contentType": "image/png",
       "sha256": "c2536852f95bb450720073e597d738874f8571382c1c0e34564db12c8351270f",
@@ -1160,6 +1160,14 @@
       "contentType": "image/png",
       "sha256": "5295e10bf141c4c1215434d5d74eee47088e65a1705208d6e0cf6be1e3ea6fec",
       "bytes": 147535
+    },
+    {
+      "id": "cosmos_flat_earth_the-flat-earth-trance-portrait.png",
+      "path": "cosmos/flat_earth/the-flat-earth-trance-portrait.png",
+      "ipfs": "bafybeigwr2skfdbbhm66rm65siwncryfru567u4uzywxs5ubnhyeur3vza",
+      "contentType": "image/png",
+      "sha256": "e87a159151327199b6e767b695344f31237c81bdeaba364a3491bf632d697123",
+      "bytes": 2740597
     },
     {
       "id": "cosmos_flat_earth_the-flat-earth-trance.png",
