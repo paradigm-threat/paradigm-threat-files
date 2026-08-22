@@ -618,6 +618,7 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 |------|------------|--------------------|------------------|
 | **“Dead double” fringe** (old boards / Reddit / Quora) | Real JFK sidelined by **illness** (often Addison’s); **lookalike / altered double** in Dealey limo as sacrificial proxy | **Partial rhyme** — **proxy in the car** matches decoy grammar; usually assumes **real kill of the double**, not **staged death theater** / robot | Use for **double-in-limousine** discourse; **don’t** adopt medical-nursing-home lore as site proof |
 | **QAnon / “JFK Jr. alive” offshoots** (≈2018→) | JFK Jr. faked 1999 crash; some threads **back-blend** to **JFK Sr.** surviving Dallas | **Announced-dead family** grammar adjacent to [§1.4](#14-death-package-epistemics--announced-dead-photo-layer-amplifier-punishment); **contaminated** brand — not forensic | **Refuse as load-bearing**; cite only as **modern folklore** that **keeps survival talk alive** while poisoning serious audit |
+| **Weekly World News / supermarket “JFK alive” covers** (esp. 1990–1993 evergreen) | Blurry hideout / Jackie reunion / White House window / Clinton meeting — **uncited** photos, tip bounties | **CO colonization** of the **survival proposition** the site investigates as **death hoax**; dead-end by design | Use as **mockery / hardening** exhibit — **not** photo proof; full dossier: [tabloid CO](/events/jfk/investigations/jfk-survival-tabloid-controlled-opposition-investigation.md) |
 | **Satirical sci-fi / “impossible robot” mock** | Writers parody “out of control” conspiracies with **1963 robot doubles** as absurd | **Containment-adjacent** — trains audience to hear **robot decoy** and **laugh** (*“fairy tale”* lane — [Girl Hair](#girl-hair--you-gonna-believe-that-fairy-tale-author--containment-laugh-track)) | Site **inverts**: absurdity packaging can **hide** operational PP (*Girl Hair* still states the mechanism) |
 | **Bubble / isolation / Peanut Island** jokes | Historical figures living out days in **secret bunkers** / bases | Soft **survival-in-isolation** folklore; Peanut Island was a **real** Kennedy-era **continuity bunker** project — jokes ride that fact | **Atmosphere** only — not proof of post-Dallas life |
 
@@ -1501,15 +1502,16 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | File | Link |
 |------|------|
 | JFK essay | [../jfk-was-never-assassinated.md](../jfk-was-never-assassinated.md) |
+| JFK survival tabloid CO | [jfk-survival-tabloid-controlled-opposition-investigation.md](./jfk-survival-tabloid-controlled-opposition-investigation.md) |
 | Downard tribute | [../prophet.md](../prophet.md) |
 | Staged death / suspended animation | [epstein-death-escape](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) |
 | 20th–21st c. catalog | [20th-21st-century-catalog](../../false_flag/investigations/20th-21st-century-catalog.md) |
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #BizarroSanta #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #BizarroSanta #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #WeeklyWorldNews #Tabloid #ControlledOpposition #ParadigmThreatFiles
 
-**Last updated:** 2026-07-16 11:15 EDT (*Friday* Samuel Kickin poisoned hinge / controlled-opposition obfuscation; Weisberg *“tooth fairy”* as containment code word; §2.3 related rhymes + Girl Hair fairy-tale laugh track)
+**Last updated:** 2026-08-20 (Tier B2 + Related: WWN / supermarket JFK-alive tabloid CO dossier)
 
 ---
 
