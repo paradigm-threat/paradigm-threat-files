@@ -10,9 +10,7 @@ Why serious people cannot look away from a movement that was built to waste thei
 
 ## My friend's debunk — and the trance it cannot break
 
-I wrote this after watching my friend's Flat Earth debunk on social media — the whole war in miniature.
-
-Under an Apollo-adjacent video, a hardcore Flat Earther insisted that gravity is fake and **density** is the real explanation: if gravity were real, a feather would slam down like a stone. My friend answered the way serious debunkers usually do. In air, drag matters — that is why the feather floats. In a vacuum, light and heavy objects fall at the same rate. **Density** describes how tightly matter is packed; it is not a force that pulls things downward. The Flat Earther came back with the usual dodge: have you done that experiment yourself, or did lying scientists tell you? My friend named the fallacy — appeal to personal incredulity dressed up as rigor.
+Today's article is inspired by watching my friend fight Flerfers on social media. Under an Apollo-adjacent video, a hardcore Flat Earther insisted that gravity is fake and **density** is the real explanation: if gravity were real, a feather would slam down like a stone. My friend answered the way serious debunkers usually do. In air, drag matters — that is why the feather floats. In a vacuum, light and heavy objects fall at the same rate. **Density** describes how tightly matter is packed; it is not a force that pulls things downward. The Flat Earther came back with the usual dodge: have you done that experiment yourself, or did lying scientists tell you? My friend named the fallacy — appeal to personal incredulity dressed up as rigor.
 
 ![Friend vs flat-Earth comment threads — density, gravity, and "my truth" meme wars](https://paradigmthreat.net/cosmos/flat_earth/friend-fe-debate-collage.png)
 
