@@ -125,7 +125,7 @@ Flat Earth is referenced in **paradigm-threat-files** in these places:
 - [ ] **Vatican/PsyOp:** Clarify whether “created centuries ago by the Vatican” refers to (a) the **myth** that the Church taught flat earth (invented later), or (b) some other Vatican-linked narrative; update [page.md](/page.md) or controlled opposition copy if needed.
 - [ ] **Collinear / Golden Age:** Trace specific ancient or medieval sources that describe the cosmic axis or “normal lines” up/down in a form that could have been later misread as “flat earth.”
 - [ ] **Refraction:** Collect serious treatments of atmospheric and celestial refraction and their effect on inferred distances and shapes (e.g. FE critics’ use of refraction vs. mainstream astronomy).
-- [ ] **Phoenix protest witness:** Author may hold personal footage to cross-reference location/date for summer Phoenix voter-fraud protest (FE billboard, Chansley camera pivot), prior to Jan 6 Capitol riot coverage; see [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md).
+- [ ] **Phoenix protest witness:** Author may hold personal footage; see [Phoenix Stop the Steal — McCarthy, Chansley author-witness investigation](/governance/constitution/investigations/phoenix-stop-the-steal-mccarthy-chansley-author-witness-investigation.md) and [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md).
 
 ## References
 
