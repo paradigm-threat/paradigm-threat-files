@@ -60,7 +60,8 @@ or *not* believing.
 * [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) - Sources, maps, books, and Atlantis framing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) - Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) - History, myth, and misinterpretation of the flat-Earth idea.
-* [Flat Earth - Q&A and Debunks (Pilot Spin Meme Entry)](/cosmos/flat_earth/flat-earth-qa-debunks.md) - pilot-spin meme entry; rotating-frame debunk plus author EM/frame-of-reference hypothesis.
+* [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - Reader essay: mainstream fascination with dogmatic FE; dual ignorance; Phoenix voter-fraud protest witness; Saturnian cosmology exit.
+* [Flat Earth - Q&A and Debunks](/cosmos/flat_earth/flat-earth-qa-debunks.md) - Social debunk captures; rotating-frame debunk; author EM/frame-of-reference hypothesis.
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) - Curved-light aether model: Maxwell lineage, gravity reinterpretation pressure, and cosmological scale-inference risk.
 * [Big Mysteries Survey - consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) - APS 1,675-physicist poll vs Phys.org gloss; menu design, black holes, QG fracture, audit/ROI, Space Force.
 * [Anthony of Boston - Mars 360](/cosmos/mars/investigations/anthony-of-boston-mars360-investigation.md) - *Ares Le Mandat*, Mars-markets/Gaza thesis, Academia/Zenodo corpus; cross-links stock-market dossier.
@@ -79,6 +80,7 @@ or *not* believing.
 * [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md) - Headlines after March 2026 -  what still counts as proof of life.
 * [Netanyahu faked death / controlled visibility](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md) - Appearance log, Congress falsifier, Graham funeral epistemology.
 * [Ariel Sharon - Gaza, coma, British/CO threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) - Author thesis: 2004-2006 Epstein-network revelation window, Bush letter "bullseye," Cruz/Bibi echoes, Bushes as wedges; Gaza || Iran/Iraq/Libya; sourced history and review questions.
+* [JFK survival tabloids — WWN CO leaks](/events/jfk/investigations/jfk-survival-tabloid-controlled-opposition-investigation.md) - Blurry “JFK alive” covers as mockery/hardening; colonization of the death-hoax claim; Pope CIA psych-warfare adjacency.
 * [Trump, historic antibodies, dynasty thesis](/events/trump/index-trump-investigation.md) - Trump as antibody / "uncompromised elite" political-media reading.
 
 #### Governance & slavery
@@ -174,6 +176,7 @@ or *not* believing.
 #### Influence
 
 * [Controlled opposition hub](/influence/controlled_opposition/page) - CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars x *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [JFK survival tabloids — WWN CO](/events/jfk/investigations/jfk-survival-tabloid-controlled-opposition-investigation.md) - Blurry “alive” covers as mockery/hardening; colonize death-hoax claim so serious audit inherits the laugh track.
 * [Snowden x WikiLeaks - CIA-aligned CO (open)](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) - CIA pedigree, NSA-targeting leak, Moscow hybrid billboard; WikiLeaks dumps / Russia amplifier / extradition theater; vs NSA-antibody counter-read.
 * [2020 election -  Edison/Dominion CO vs forward audits](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Poisoned hinge; **one-node != network**; all-or-nothing midterm legitimacy; AFL/2026 audits.
 * [Mudflood gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) - CO in every virtue-lane; Winter Palace/Konstantin poison pill; Spurr email; StolenHistory ban (Jul 2026).

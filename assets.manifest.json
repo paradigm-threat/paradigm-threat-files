@@ -1114,6 +1114,14 @@
       "bytes": 79535
     },
     {
+      "id": "cosmos_flat_earth_flat-earth-qa-debunks.png",
+      "path": "cosmos/flat_earth/flat-earth-qa-debunks.png",
+      "ipfs": "bafybeiektpj4fwbx3l2xmskfszdnuitk7pe7hj6nkyhlh3q47kbt6ppwwe",
+      "contentType": "image/png",
+      "sha256": "2626f33951fe49c7ef912bb4d41c499b4a9c181e13a1c77965b80ac527d28cde",
+      "bytes": 2485824
+    },
+    {
       "id": "cosmos_flat_earth_flat_earth_controlled_opposition.jpg",
       "path": "cosmos/flat_earth/flat_earth_controlled_opposition.jpg",
       "ipfs": "bafkreiedh4usjbu45gmwy4x3geozafchkofddabzz7wpszc3a3bf2kzgu4",
@@ -1130,12 +1138,36 @@
       "bytes": 124612
     },
     {
+      "id": "cosmos_flat_earth_gareth-boland-fe-debate-collage.png",
+      "path": "cosmos/flat_earth/gareth-boland-fe-debate-collage.png",
+      "ipfs": "bafybeifvmo4augtaztbheswsi75j6sertxbnayweiysvnpq6tknvzmc32e",
+      "contentType": "image/png",
+      "sha256": "3f8359f7522da25d729285c4268c13c1408daeb868675627dcacccbfb0acf670",
+      "bytes": 502151
+    },
+    {
+      "id": "cosmos_flat_earth_gareth-boland-spinning-globe-debate.png",
+      "path": "cosmos/flat_earth/gareth-boland-spinning-globe-debate.png",
+      "ipfs": "bafkreigcknuff6k3wriheadt4wl5ooehj6cxcobmdqhdivsnwewigujhb4",
+      "contentType": "image/png",
+      "sha256": "c2536852f95bb450720073e597d738874f8571382c1c0e34564db12c8351270f",
+      "bytes": 97279
+    },
+    {
       "id": "cosmos_flat_earth_pilot-earth-spin-meme.png",
       "path": "cosmos/flat_earth/pilot-earth-spin-meme.png",
       "ipfs": "bafkreicssxqqx4kbytascvbu2xlu53shbchglilqkiennygpnpq6h2tp5q",
       "contentType": "image/png",
       "sha256": "5295e10bf141c4c1215434d5d74eee47088e65a1705208d6e0cf6be1e3ea6fec",
       "bytes": 147535
+    },
+    {
+      "id": "cosmos_flat_earth_the-flat-earth-trance.png",
+      "path": "cosmos/flat_earth/the-flat-earth-trance.png",
+      "ipfs": "bafybeidjpvzzvtiriyky46sxisvmzwnlcn6c74hym3xy22hauabsymsvda",
+      "contentType": "image/png",
+      "sha256": "b38402cdac99c92f0abc7e83231a5f2a9c248d7b8c04af4d7de4401f143cffff",
+      "bytes": 2552869
     },
     {
       "id": "cosmos_mars_appendix_ares_le_mandat.pdf",
@@ -2408,6 +2440,14 @@
       "contentType": "image/jpeg",
       "sha256": "e4fdd80398f8ed87103937b15b07ff47c9cb370c9d2f4828b91a3fb595df810c",
       "bytes": 172090
+    },
+    {
+      "id": "events_jfk_investigations_weekly-world-news-1990-11-06-jfk-secret-hideout.jpg",
+      "path": "events/jfk/investigations/weekly-world-news-1990-11-06-jfk-secret-hideout.jpg",
+      "ipfs": "bafkreias2c2dpiqoxzqr4cmcuvvhbfazfyhacpd6ek42czusq7nr764q5q",
+      "contentType": "image/jpeg",
+      "sha256": "12d0b437a20ebe611e0982a56a7094192e0e013c7e22b9a1669287db1ffb90ec",
+      "bytes": 248511
     },
     {
       "id": "events_jfk_jfk-predictive-programming.png",
@@ -6290,20 +6330,20 @@
       "bytes": 3595759
     },
     {
-      "id": "governance_war_lotr-mouth-of-sauron-at-hormuz-august-2026.png",
-      "path": "governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png",
-      "ipfs": "bafybeiccnqdmy5za4jhhbbg4zstopg4qafzrgxzu4tusja2notarfqc33a",
-      "contentType": "image/png",
-      "sha256": "989b1a26e9d7d463383cafaa4f276c8b1fbc81539911c7004d7056078163b73a",
-      "bytes": 2808631
-    },
-    {
       "id": "governance_war_islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
       "path": "governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png",
       "ipfs": "bafybeic3ohwpce64swwz3hn46nco6jriybs7h5jju45g4ygijazz2duylu",
       "contentType": "image/png",
       "sha256": "9d180fe4e997a8392967c98e80f1463c9f01d1811333950552f94cf8fc488ca3",
       "bytes": 2913277
+    },
+    {
+      "id": "governance_war_lotr-mouth-of-sauron-at-hormuz-august-2026.png",
+      "path": "governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png",
+      "ipfs": "bafybeiccnqdmy5za4jhhbbg4zstopg4qafzrgxzu4tusja2notarfqc33a",
+      "contentType": "image/png",
+      "sha256": "989b1a26e9d7d463383cafaa4f276c8b1fbc81539911c7004d7056078163b73a",
+      "bytes": 2808631
     },
     {
       "id": "governance_war_managed-democracy-puppets-and-redemption.png",
