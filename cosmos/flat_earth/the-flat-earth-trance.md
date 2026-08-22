@@ -28,7 +28,9 @@ On the Flat Earth side, the lane behaves like a cult without open debate or free
 
 ![Hollow Earth controlled-opposition fake map — poison-pill cartography beside serious inner-Earth inquiry](https://paradigmthreat.net/cosmos/cosmology/hollow_earth/hollow_earth_controlled_opposition_fake_map.jpg)
 
-On the debunk side, friends like mine correctly hammer shape and sky evidence. Retrograde planetary motion fits heliocentrism. Star trails rotate opposite ways in the northern and southern hemispheres. The Sun sets below the horizon instead of shrinking to a nearby dot. Laboratory gravimetry and vacuum-drop tests refute "density is the real force" and Electric Universe gravity substitutes. Those wins are real.
+On the debunk side, friends like mine correctly hammer shape and sky evidence. Retrograde planetary motion fits heliocentrism. Star trails rotate opposite ways in the northern and southern hemispheres. The Sun sets below the horizon instead of shrinking to a nearby dot. Laboratory gravimetry and vacuum-drop tests refute "density is the real force" and other gravity substitutes. Those wins are real.
+
+The debunk camp is not unified either. Textbook Newtonians still teach mutual attraction — every atom in the universe pulling every other atom across empty space. A pre-Newtonian read treats gravity as part of an ordered cosmos, not brute pull from nowhere; that interpretation survives today through Electric Universe outlets — [Thunderbolts](https://www.thunderbolts.info/) (controlled opposition on this project's read), Ralph Juergens, Wallace Thornhill, David Talbott — who argue gravity is simply an artifact of electromagnetism. Flat Earthers borrow the anti-establishment tone without the sky receipts.
 
 ![Spinning globe / 1000 mph social thread — friend debunk vs flat-Earth spin memes](https://paradigmthreat.net/cosmos/flat_earth/friend-spinning-globe-debate.png)
 
@@ -143,7 +145,7 @@ Public Capitol and Arizona election coverage of Chansley exists independently of
 
 Keywords: #FlatEarth #FlatEarthTrance #ControlledOpposition #SaturnianCosmology #Firmament #Absu #PoisonPill #CollinearConfiguration #FrameOfReference #QAnon #Arizona #ElectionFraud #Phoenix #DebunkHost #FaithDebate #ParadigmThreatFiles
 
-**Last updated:** 2026-08-22T08:50:00-0400
+**Last updated:** 2026-08-22T08:58:00-0400
 
 ---
 
