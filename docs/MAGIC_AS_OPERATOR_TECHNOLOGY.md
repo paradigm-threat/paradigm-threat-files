@@ -56,7 +56,7 @@ When primary sources use *spirits*, *angels*, or *devils*, quote verbatim; gloss
 - [Mars dagger investigation §0.2](/cosmos/mars/investigations/mars-dagger-investigation.md) — applied example (Smith kit, guardians, plates)
 - [Quantum storage investigation §2.3–2.4](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — analog memory substrate
 - [Cargo cults investigation](/history/mudflood/investigations/cargo-cults-investigation.md) — ritual as degraded tech memory
-- [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) — investigation structure
+- [INVESTIGATIONS.md](INVESTIGATIONS.md) — investigation structure
 - [instructions/ARTICLES.md](instructions/ARTICLES.md) — reader essay voice
 
 ---

@@ -1,6 +1,6 @@
 # Reader-facing articles — how we want them written
 
-**Purpose:** Define **article** voice for *paradigm-threat-files*—the Markdown siblings of **`investigations/`** dossiers and other long-form files—so assistants and authors match **Paradigm Threat** expectations. Pair with **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_INSTRUCTIONS.md)** (dossier structure, evidence tiers, **Limits**) and **[`LINKING_AND_SITE_PATHS.md`](../LINKING_AND_SITE_PATHS.md)** (URLs).
+**Purpose:** Define **article** voice for *paradigm-threat-files*—the Markdown siblings of **`investigations/`** dossiers and other long-form files—so assistants and authors match **Paradigm Threat** expectations. Pair with **[`INVESTIGATIONS.md`](../INVESTIGATIONS.md)** (dossier structure, evidence tiers, **Limits**) and **[`LINKING_AND_SITE_PATHS.md`](../LINKING_AND_SITE_PATHS.md)** (URLs).
 
 ---
 
@@ -155,7 +155,7 @@ Reference implementation for **generic surface + theory-led** shape: [`science/b
     - **`## Why nothing else fits`** — **preferred for operational thesis** (portal, Mars gate, institutional cover): logical stack, why alternatives fail, why classification hides operational docs. **No** “not proved” / “if it exists” / falsifier laundry lists.
     - **`## Framing and limits`** (or **`## Scope and limits`**) — scope, prisca sapientia, link to dossier when boundaries help. **Prose paragraphs only** — no pipe tables.
     **Not a disclaimer appendix:** do **not** replay investigation tier sermons in the article. **Thesis articles** may **omit** both sections when the body is already clear and the investigation holds machinery.
-12. **`Keywords:`** — one line, **Option B** (see `PARADIGM_INVESTIGATION_INSTRUCTIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
+12. **`Keywords:`** — one line, **Option B** (see `INVESTIGATIONS.md`): `#PascalCase` tokens only, **no** `## Keywords` heading.
 13. **`**Last updated:**`** — ISO timestamp when the article changed materially: prefer full **`YYYY-MM-DDTHH:MM:SS±offset`** (e.g. `2026-05-23T09:18:22-04:00`); date-only `YYYY-MM-DD` is acceptable for minor touch-ups.
 14. **Attribution footer (required — do not remove in de-LLM passes)** — After `**Last updated:**`, a horizontal rule `---`, then an *italic* one-liner, for example:  
     *Written and narrated by Ari Asulin, with drafting and research support from LLM agents.*  
@@ -281,9 +281,9 @@ LLM drafts **confabulate** text that *sounds* quotable: **song lyrics**, **film 
 
 ## After you ship (discovery)
 
-Follow **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](../PARADIGM_INVESTIGATION_INSTRUCTIONS.md) → “New article or hub — discovery checklist”**: site root **`page.md`** **Investigation Categories**, topic **`page.md`**, **`index-investigations.md`** (or sibling index), bidirectional **Related** links, **`npm run autogen`**.
+Follow **[`INVESTIGATIONS.md`](../INVESTIGATIONS.md) → “New article or hub — discovery checklist”**: site root **`page.md`** **Investigation Categories**, topic **`page.md`**, **`index-investigations.md`** (or sibling index), bidirectional **Related** links, **`npm run autogen`**.
 
-**`Last updated` line:** use the **calendar date in US Eastern** (`America/New_York`) — see **[`PARADIGM_INVESTIGATION_INSTRUCTIONS.md` → Dates and timezone](../PARADIGM_INVESTIGATION_INSTRUCTIONS.md#dates-and-timezone)**. Place after **`## Framing and limits`** (or equivalent), before **`Keywords:`** and the attribution footer.
+**`Last updated` line:** use the **calendar date in US Eastern** (`America/New_York`) — see **[`INVESTIGATIONS.md` → Dates and timezone](../INVESTIGATIONS.md#dates-and-timezone)**. Place after **`## Framing and limits`** (or equivalent), before **`Keywords:`** and the attribution footer.
 
 ---
 

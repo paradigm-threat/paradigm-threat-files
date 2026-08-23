@@ -1,0 +1,19 @@
+---
+description: Reader-facing articles — URLs, voice, tone (not investigations)
+globs: **/*.md
+alwaysApply: false
+---
+
+# Articles
+
+Apply when editing **reader-facing articles** (essays under topic folders, `blog/*.md`). **Not** investigations, `page.md` indices, or dossiers unless asked.
+
+**Full canon:** [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md)
+
+## Compact
+
+- Links and images: **`https://paradigmthreat.net/...`** (absolute).
+- Voice: first person **I**; serious plain prose; no “this essay argues” scaffolding.
+- Proof density and **Limits** live in **`investigations/`** dossiers — articles summarize and link.
+- Prefer cross-linking other **articles**; link dossiers only as companion receipts.
+- Run **`npm run autogen`** after substantive edits.

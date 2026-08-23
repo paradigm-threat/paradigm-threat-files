@@ -27,7 +27,7 @@
 - Hub/index structure work:
   - [Controlled opposition hub](https://paradigmthreat.net/influence/controlled_opposition/page)
   - [History / chronology hub](https://paradigmthreat.net/history/chronology/page)
-  - [Paradigm investigation instructions](https://paradigmthreat.net/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS)
+  - [Investigation instructions](https://paradigmthreat.net/docs/INVESTIGATIONS)
   - [Article writing guidance](https://paradigmthreat.net/docs/instructions/ARTICLES)
 
 ---

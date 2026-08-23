@@ -1,0 +1,22 @@
+---
+description: Repo agent instructions — git, mesh sync, dates, doc routing
+alwaysApply: true
+---
+
+# Agents
+
+**Read [`AGENTS.md`](../../AGENTS.md) first.**
+
+## Always
+
+- **Go-live:** `git push iad1 HEAD:main` (mesh wait is server-side; failure = publish failed) → `git push gitlab HEAD:main`.
+- **Dates:** US Eastern (`TZ=America/New_York date +%Y-%m-%d`).
+- **Investigations:** [`docs/INVESTIGATIONS.md`](../../docs/INVESTIGATIONS.md).
+- **Media:** fat binaries at public paths — [`docs/MEDIA_AND_IPFS.md`](../../docs/MEDIA_AND_IPFS.md).
+
+## Route by task
+
+- Site chat → [`docs/CHAT_REQUEST_RESPONSE.md`](../../docs/CHAT_REQUEST_RESPONSE.md)
+- Cosmology Q&A → [`docs/LLM_COSMOLOGY_QA.md`](../../docs/LLM_COSMOLOGY_QA.md)
+- Æther vocabulary → [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../../docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)
+- Articles → [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md)

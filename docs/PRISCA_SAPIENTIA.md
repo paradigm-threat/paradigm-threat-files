@@ -30,7 +30,7 @@ See [Common Questions, Q3](/history/common-questions.md#q3-do-all-indigenous-civ
 
 ## How to cite in files
 
-**Investigations** (`*investigation*.md`): In **Limits and disclaimers**, open with the **Prisca sapientia** paragraph (see [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md)).
+**Investigations** (`*investigation*.md`): In **Limits and disclaimers**, open with the **Prisca sapientia** paragraph (see [`INVESTIGATIONS.md`](INVESTIGATIONS.md)).
 
 **Articles** (parent-folder essays): In **`## Framing and limits`** (or one sentence in that block), link here; body stays thesis-led per [`instructions/ARTICLES.md`](instructions/ARTICLES.md).
 

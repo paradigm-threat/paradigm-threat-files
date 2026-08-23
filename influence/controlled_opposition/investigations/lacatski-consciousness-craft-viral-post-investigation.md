@@ -303,7 +303,7 @@ Full paths for quick maintainer grep (duplicate of **§3.5** / **§10** is inten
 - `/history/chronology/investigations/gnostic-vs-agnostic-theism-atheism-after-planet-gods.md`  
 - `/history/mudflood/notes/page.md` (anchor `#controlled-opposition-agents`)  
 - `/governance/war/investigations/cia-investigation.md`  
-- `/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`  
+- `/docs/INVESTIGATIONS.md`  
 
 ### 11.2 External URLs
 
@@ -341,4 +341,4 @@ Keywords: #ControlledOpposition #UAP #UFO #AAWSAP #Lacatski #Skinwalker #Conscio
 - **Fiction vs evidence:** Social posts and comment threads are **cultural** artifacts; they do not prove physics or non-human intelligence.  
 - **Author thesis sections** (**§6–§7**) are first-class for repo pattern work but **not** automatically factual.  
 - **Lacatski:** This file does not assert fraud or authenticity of any classified program detail; it compares **headline** claims to **located** public sources. **Reality editing / reality-bending** as **Lacatski’s stated belief** is **not** claimed here; that language was **meme / chat shorthand** and has been **struck** from neutral descriptions of his on-record position (**§2**, **§3.3**, **TL;DR**).  
-- **Cross-investigations:** Links are **thematic rhymes** ([instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md)); Mars and AI files do not prove **viral post** claims.
+- **Cross-investigations:** Links are **thematic rhymes** ([instructions](/docs/INVESTIGATIONS.md)); Mars and AI files do not prove **viral post** claims.

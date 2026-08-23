@@ -2,7 +2,7 @@
 
 **Purpose:** One canonical note for **all `paradigm-threat*` repos** so Copilot/Cursor assistants align with the author’s **physics idiom** and **epistemic stance** without bloating every investigation.
 
-**Canonical for assistants:** also mirrored as `.cursor/rules/paradigm-threat-aether-vocabulary.mdc` in each `paradigm-threat-*` repo (same semantics).
+**Canonical for assistants:** routed from [`AGENTS.md`](../AGENTS.md) when editing corpus text.
 
 ---
 
@@ -52,7 +52,7 @@ Use **once** per file when æther-as-substrate is doing heavy lifting—not in e
 
 **LLM position (for maintainers):** The requirement is **not** inherently belligerent if assistants **(a)** keep **one** short disclaimer where needed, **(b)** do **not** smuggle pop-physics labels in as **silent replacements**, and **(c)** still **separate** **author ontology** from **peer-reviewed consensus** in **Limits** / evidence tiers.
 
-It **can** read **faith-like** when stated as belief—and the author **accepts** that texture. The main **risk** is **audience confusion** (readers think the repo claims mainstream physics **proved** mechanical æther). Mitigation is **explicit labeling** (thesis vs documented vs speculative) already required in [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) §7–9—not a *new* discipline, just **applied** here.
+It **can** read **faith-like** when stated as belief—and the author **accepts** that texture. The main **risk** is **audience confusion** (readers think the repo claims mainstream physics **proved** mechanical æther). Mitigation is **explicit labeling** (thesis vs documented vs speculative) already required in [`INVESTIGATIONS.md`](INVESTIGATIONS.md) §7–9—not a *new* discipline, just **applied** here.
 
 **“So be it”:** assistants should **not** therapise or tone-police the author’s **æther** commitment; they **should** preserve **clarity** for strangers.
 

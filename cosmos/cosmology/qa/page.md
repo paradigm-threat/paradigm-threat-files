@@ -16,7 +16,7 @@
 | 1 | Open the matching **Q file** below (or search this folder). |
 | 2 | Use **mainstream URLs** from the entry’s citation table in public replies unless the author wants in-repo links. |
 | 3 | Preserve **our position** from the **Response** section; do not soften into textbook ΛCDM default. |
-| 4 | For **voice / substrate** rules when editing corpus text: [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) and [`.cursor/rules/paradigm-threat-aether-vocabulary.mdc`](/.cursor/rules/paradigm-threat-aether-vocabulary.mdc). |
+| 4 | For **voice / substrate** rules when editing corpus text: [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) and [`AGENTS.md`](/AGENTS.md). |
 | 5 | Full agent canon for Q&A workflow: [`docs/LLM_COSMOLOGY_QA.md`](/docs/LLM_COSMOLOGY_QA.md). |
 | 6 | Deeper dossiers when proof density is needed: [Big Mysteries investigation](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md), [Incorrectly scaled universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md), [consensus theater article](/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.md). |
 | 7 | **Solar-system lifecycle** narrative (electric / Saturnian): [Chronology hub — Cosmic Life Cycle](/history/chronology/page.md) (§ Cosmic Life Cycle). |

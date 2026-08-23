@@ -31,7 +31,7 @@
 
 - **Hollywood / predictive programming hubs updated**: [Trump-era Hollywood political media investigation](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation) + header image [PNG](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png), [Predictive programming hub](https://paradigmthreat.net/influence/predictive_programming/page)
 
-- **Navigation + docs updates**: site root [Home](https://paradigmthreat.net/), [Investigations deep dive](https://paradigmthreat.net/docs/INVESTIGATIONS_DEEP_DIVE), [Paradigm investigation instructions](https://paradigmthreat.net/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS), [AutoIndex instructions](https://paradigmthreat.net/docs/instructions/PAGE_MD_AUTOINDEX), [Stolen credit hub](https://paradigmthreat.net/influence/stolen_credit/page), [Mars hub](https://paradigmthreat.net/cosmos/mars/page), [Astronomy hub](https://paradigmthreat.net/cosmos/cosmology/astronomy/page)
+- **Navigation + docs updates**: site root [Home](https://paradigmthreat.net/), [Investigations deep dive](https://paradigmthreat.net/docs/INVESTIGATIONS_DEEP_DIVE), [Investigation instructions](https://paradigmthreat.net/docs/INVESTIGATIONS), [AutoIndex instructions](https://paradigmthreat.net/docs/instructions/PAGE_MD_AUTOINDEX), [Stolen credit hub](https://paradigmthreat.net/influence/stolen_credit/page), [Mars hub](https://paradigmthreat.net/cosmos/mars/page), [Astronomy hub](https://paradigmthreat.net/cosmos/cosmology/astronomy/page)
 
 ---
 

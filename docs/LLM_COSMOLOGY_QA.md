@@ -26,16 +26,16 @@
 1. **Our position** (from Q entries): universe **eternal**; Bang/Melt/Rip describe **solar-system lifecycle** language **scaled up**; humility about **detecting universe creation**.
 2. **Public replies:** prefer **mainstream citations** (Nautilus, arXiv, APS Physics Magazine, Lerner open letter, Wikipedia steady-state, NYT cosmology pieces) when the author says **don’t mention the site/repo**.
 3. **In-repo edits / site links:** use repo paths and `paradigmthreat.net` URLs per normal investigation rules.
-4. **Voice:** follow [æther vocabulary rule](../.cursor/rules/paradigm-threat-aether-vocabulary.mdc) when editing corpus markdown; Q&A **social templates** may use mainstream “fields in vacuum / GR” language as **translation** in public-facing copy.
+4. **Voice:** follow [`LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) when editing corpus markdown; Q&A **social templates** may use mainstream “fields in vacuum / GR” language as **translation** in public-facing copy.
 5. **New questions:** add a `qNN-*.md` file, update registry on [qa/page.md](../cosmos/cosmology/qa/page.md), run `npm run autogen`.
 
 ---
 
 ## Related agent docs
 
-- [`docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) — investigation structure, evidence tiers
+- [`docs/INVESTIGATIONS.md`](INVESTIGATIONS.md) — investigation structure, evidence tiers
 - [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) — substrate / Maxwell canon
 - [`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) — site chat leads → investigate → `protricity` reply
-- [`.cursor/rules/paradigm-threat-cosmology-qa.mdc`](../.cursor/rules/paradigm-threat-cosmology-qa.mdc) — Cursor rule mirror
+- [`AGENTS.md`](../AGENTS.md) — routes cosmology Q&A tasks here
 
 **Date:** 2026-06-26 (chat-request cross-link **2026-07-16**)

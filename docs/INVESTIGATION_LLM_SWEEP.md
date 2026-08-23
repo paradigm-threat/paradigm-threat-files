@@ -4,7 +4,7 @@
 
 **Audience:** Author (Ari), Cursor agents, scheduled automation, copilot sessions.
 
-**Companion docs:** [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) (structure + ship discipline), [`INVESTIGATIONS_DEEP_DIVE.md`](INVESTIGATIONS_DEEP_DIVE.md) (repo-wide open TODOs), [`instructions/ARTICLES.md`](instructions/ARTICLES.md) (reader-article voice).
+**Companion docs:** [`INVESTIGATIONS.md`](INVESTIGATIONS.md) (structure + ship discipline), [`INVESTIGATIONS_DEEP_DIVE.md`](INVESTIGATIONS_DEEP_DIVE.md) (repo-wide open TODOs), [`instructions/ARTICLES.md`](instructions/ARTICLES.md) (reader-article voice).
 
 **Plan output folder:** [`sweep-plans/`](sweep-plans/) — one markdown plan per sweep run; see [`sweep-plans/_TEMPLATE_SWEEP_PLAN.md`](sweep-plans/_TEMPLATE_SWEEP_PLAN.md). **Generated plans are gitignored** (local review only); the template and this spec are committed.
 
@@ -29,7 +29,7 @@
 3. **Investigation gold** — flag passages or threads that are **unusually strong** (primary sources, tight logic, falsifiable hooks) and recommend **deepening** them — not only weakness hunting.
 4. **Plans, not patches** — every sweep emits a dated plan in [`sweep-plans/`](sweep-plans/); Ari approves before any investigation edit.
 5. **Consumability** — average readers need clearer guides and less duplication; skeptics need **labeled** author vs documented vs speculative claims and **prior art** searches.
-6. **Reality guardrails** — prisca sapientia and pattern thesis are **in-bounds**; confabulated quotes, false tier labels, and unlabeled speculation presented as fact are **out of bounds** ([`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) verifiable externals pass).
+6. **Reality guardrails** — prisca sapientia and pattern thesis are **in-bounds**; confabulated quotes, false tier labels, and unlabeled speculation presented as fact are **out of bounds** ([`INVESTIGATIONS.md`](INVESTIGATIONS.md) verifiable externals pass).
 
 ---
 
@@ -89,7 +89,7 @@ Identify **high-value threads** worth expanding:
 - Duplicate paragraphs / tables across this file and linked investigations.
 - Recommend: **merge into one canonical file**, **short cross-link**, or **hub summary row** — **do not** perform merge in sweep.
 - Guide (read order) missing or outdated relative to section count.
-- Limits / Keywords / Investigator notes placement per [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md).
+- Limits / Keywords / Investigator notes placement per [`INVESTIGATIONS.md`](INVESTIGATIONS.md).
 
 ### 6. Article suggestions
 
@@ -197,6 +197,6 @@ This document is the **contract** for those tools when built.
 When this workflow is first used on a file:
 
 - Add row to [`INVESTIGATIONS_DEEP_DIVE.md`](INVESTIGATIONS_DEEP_DIVE.md) **only** if sweep plan items become repo-wide TODOs (author decision).
-- Link this spec from [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) **Closing a session** / assistant constraints.
+- Link this spec from [`INVESTIGATIONS.md`](INVESTIGATIONS.md) **Closing a session** / assistant constraints.
 
 **Date:** 2026-06-22 — initial spec from author session (LLM history governance example).

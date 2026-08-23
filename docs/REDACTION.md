@@ -92,7 +92,7 @@ In [**New Chronology**](https://en.wikipedia.org/wiki/New_chronology_(Fomenko)) 
 | Flexner capture (class-level) | [Royal Rife §8](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md); [Tennant index](/science/health/tennant/index-tennant-healing-voltage.md) |
 | Vril — redaction potential | [Vril Society](/governance/war/investigations/vril-society.md) |
 | Horde-first → Moor / Civil War filter | [Cherokee / Delaware §0.3 AU-043](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md); [MFEE](/history/mudflood/investigations/mfee-investigation.md) |
-| Investigation writing rules | [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) |
+| Investigation writing rules | [INVESTIGATIONS.md](INVESTIGATIONS.md) |
 
 **Keywords:** #Redaction #NarrativeRewrite #PriscaSapientia #RusHorde #ParadigmThreatFiles
 

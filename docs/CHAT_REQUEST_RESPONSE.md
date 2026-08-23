@@ -2,9 +2,9 @@
 
 **Purpose:** How assistants locate Paradigm Threat **Relay chat** leads (`chat/public` branch), turn them into investigations (or short answers), and **close the loop** with a brief channel reply + live `paradigmthreat.net` link.
 
-**Related:** Investigation structure — [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md). Cosmology *social* templates (not site chat) — [`LLM_COSMOLOGY_QA.md`](LLM_COSMOLOGY_QA.md). Site MCP tool — `submit_chat_comment` in `paradigm-threat-site`.
+**Related:** Investigation structure — [`INVESTIGATIONS.md`](INVESTIGATIONS.md). Cosmology *social* templates (not site chat) — [`LLM_COSMOLOGY_QA.md`](LLM_COSMOLOGY_QA.md). Site MCP tool — `submit_chat_comment` in `paradigm-threat-site`.
 
-**Cursor rule:** `.cursor/rules/paradigm-threat-chat-requests.mdc`
+**Agent hub:** [`AGENTS.md`](../AGENTS.md) § Site chat
 
 *Last updated: 2026-07-16*
 
@@ -32,7 +32,7 @@
 | Local inspect | `cd paradigm-threat-site && git show "chat/public:.relay/chat/channels/<channel>/<file>.md"` |
 | List channel | `git ls-tree --name-only chat/public:.relay/chat/channels/<channel>/` |
 | Grep | `git grep -i 'needle' chat/public -- '.relay/chat/channels/<channel>/'` |
-| Prefer remotes | `git fetch dfw1 chat/public` then inspect `dfw1/chat/public:…` — local `chat/public` may lag |
+| Prefer remotes | `git fetch iad1 chat/public` then inspect `iad1/chat/public:…` — local `chat/public` may lag |
 | HTTP read | `GET` host `https://paradigm-threat-site.<region>.relaygateway.net/<path>` with header `X-Relay-Branch: chat/public` |
 | Regions | Derive from `NEXT_PUBLIC_FILES_BASE_URL` by swapping `paradigm-threat-files.` → `paradigm-threat-site.` (see `lib/chat/chatRelayOrigin.ts`) |
 
@@ -72,7 +72,7 @@ Before writing a new dossier: `rg` / glob under `paradigm-threat-files` for the 
 
 | Lead type | Deliverable | Chat reply |
 |-----------|-------------|------------|
-| Deep claim / timeline / “add a section” | Full `*investigation.md` per [`PARADIGM_INVESTIGATION_INSTRUCTIONS.md`](PARADIGM_INVESTIGATION_INSTRUCTIONS.md) | Brief + link |
+| Deep claim / timeline / “add a section” | Full `*investigation.md` per [`INVESTIGATIONS.md`](INVESTIGATIONS.md) | Brief + link |
 | Simple FAQ (“which years were added?”) | Short chat answer; optional FAQ page later | Brief answer in-channel |
 | Already covered | Point at existing page | Brief + link |
 
@@ -95,13 +95,13 @@ Preferred when running in-repo tooling: **`putComment`** / MCP **`submit_chat_co
    - Compact ISO = `new Date().toISOString().replace(/[:.]/g, '-')` → e.g. `2026-07-16T12-17-29-344Z`
    - **Do not** use offset forms that expand to `+00-00` in the filename
    - ULID-ish id: 26 uppercase hex chars (see `lib/chat/chatPath.ts` `newCommentId`)
-3. `PUT` to `https://paradigm-threat-site.dfw1.relaygateway.net/<path>` with headers:
+3. `PUT` to `https://paradigm-threat-site.iad1.relaygateway.net/<path>` with headers:
    - `X-Relay-Branch: chat/public`
    - `content-type: text/plain; charset=utf-8`
 4. Expect `200` + JSON `{ "branch":"chat/public", "commit":"…", "path":"…" }`.
 5. Verify with `GET` same URL + branch header.
 
-**Regions:** Prefer **one** successful PUT (dfw1). Peer hooks usually propagate; only re-PUT other regions if verify fails and content/path stay identical.
+**Regions:** Prefer **one** successful PUT (**iad1**). Peer hooks usually propagate; only re-PUT other regions if verify fails and content/path stay identical.
 
 **Confirm with the author before posting** unless they already ordered “post to chat” / “reply to that thread” / “push everything live” with a link.
 
@@ -112,11 +112,11 @@ Preferred when running in-repo tooling: **`putComment`** / MCP **`submit_chat_co
 Chat links use **`https://paradigmthreat.net/...`**. The SPA shells any path; **content** comes from **`paradigm-threat-files`** on Relay.
 
 1. Commit the investigation + index wiring (`page.md`, `docs/INVESTIGATIONS_DEEP_DIVE.md`, related-investigation cross-links, lane indexes).
-2. Push **all** configured remotes (`dfw1`, `iad1`, `hkg1`, `gitlab`, …). Iad1/hkg1 may already be current via peer notify — still attempt push or verify.
+2. Push per [`AGENTS.md`](../AGENTS.md): **`iad1`** first, then **`gitlab`**, then poll mesh sync (`sjc1`/`hkg1` usually catch via peer notify).
 3. Verify raw files host returns markdown, not `not_found`:
 
 ```bash
-curl -sS 'https://paradigm-threat-files.dfw1.relaygateway.net/<repo-relative-path>.md' | head -5
+curl -sS 'https://paradigm-threat-files.iad1.relaygateway.net/<repo-relative-path>.md' | head -5
 ```
 
 **Do not** post a public link to an untracked / unpushed file. If the author has not asked to commit, ask once; if they asked to post the chat update **with** a link / **push everything live**, treat publish as in-scope for that request.

@@ -88,7 +88,7 @@ Iran 2026 series now spans three reader installments: [Mission Accomplished (Aga
 
 ### Housekeeping
 
-- **Drafting hygiene** rules added to [ARTICLES.md](https://paradigmthreat.net/docs/instructions/ARTICLES) and [PARADIGM_INVESTIGATION_INSTRUCTIONS.md](https://paradigmthreat.net/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS) — no voice-note confusion, session capture, or "does it check out?" in reader-facing bodies.
+- **Drafting hygiene** rules added to [ARTICLES.md](https://paradigmthreat.net/docs/instructions/ARTICLES) and [INVESTIGATIONS.md](https://paradigmthreat.net/docs/INVESTIGATIONS) — no voice-note confusion, session capture, or "does it check out?" in reader-facing bodies.
 - **Celebrity slavery** — Poe and Prince case studies **fully decoupled** (separate lanes, no comparison table).
 - **Keywords** pass across remaining articles; **md2ast** pre-parse validation fixes for broken markdown sources.
 - **Eastern time** documentation for Substack publish workflow.

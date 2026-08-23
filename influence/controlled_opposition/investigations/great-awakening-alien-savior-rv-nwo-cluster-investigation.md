@@ -491,7 +491,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 ### Methodology
 
 - Caitlin Johnstone — controlled opposition explainer (linked from site ecosystem): https://caitlinjohnstone.com/2019/02/11/how-to-tell-if-someone-is-controlled-opposition/  
-- [Paradigm investigation instructions](/docs/PARADIGM_INVESTIGATION_INSTRUCTIONS.md) — author thesis handling.
+- [Investigation instructions](/docs/INVESTIGATIONS.md) — author thesis handling.
 
 ### Huntsville / Redstone — contextual anchors referenced in §3.6.3.1
 

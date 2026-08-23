@@ -144,7 +144,7 @@ export default function Nav(props) {
     { href: siteHref('/search'), label: 'Search', icon: <IconSearch />, active: isActive('/search') },
     { href: siteHref('/'), label: 'Home', icon: <IconHome />, active: isActive('/') },
     {
-      href: 'https://paradigm-threat-timeline.dfw1.relaygateway.net/',
+      href: 'https://paradigmthreat.net/timeline',
       label: 'Timeline',
       icon: <IconClock />,
       external: true,

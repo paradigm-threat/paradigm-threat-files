@@ -1,7 +1,7 @@
 # Git remotes — single `main` (GitLab + Relay)
 
 **Date:** 2026-07-21  
-**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay `dfw1` / `hkg1` / `iad1` serve the same `main`.
+**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay **`iad1` / `sjc1` / `hkg1`** serve the same `main`.
 
 ---
 
@@ -10,7 +10,7 @@
 | Surface | Branch | Role |
 |---------|--------|------|
 | **GitLab** (`gitlab`) | **`main`** | Forge backup / MR / CI — **source of truth** for history. |
-| **Relay** (`dfw1`, `hkg1`, `iad1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
+| **Relay** (`iad1`, `sjc1`, `hkg1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
 | **Local default checkout** | **`main`** | Day-to-day commits. Tracks `gitlab/main` (or any remote `main`). |
 
 Do **not** use a long-lived `gitlab` work branch or `relay-publish` cherry-pick branch. Those were split-brain workarounds (retired 2026-07-21).
@@ -23,34 +23,33 @@ Do **not** use a long-lived `gitlab` work branch or `relay-publish` cherry-pick 
 git checkout main
 git pull --ff-only   # from gitlab/main (or your upstream)
 
-# Commit as usual, then push forge first:
-git push gitlab HEAD:main
-
-# Go live — same tip to all Relays:
-git push dfw1 HEAD:main
-git push hkg1 HEAD:main
+# Catalog repos with publish_origin=iad1 (paradigm-threat-files, paradigm-threat-timeline, …):
 git push iad1 HEAD:main
+git push gitlab HEAD:main
+# hkg1/sjc1: peer notify + catalog sync — optional direct push
 ```
 
-Or, when going live in one step after the commit is on `main`:
+**Why iad1 before GitLab:** startup catalog sync on replicas pulls from GitLab (forge). If GitLab is pushed while iad1 still lags, hkg1/sjc1 can land **ahead of the publish origin** until iad1 catches up — Observer flags that as a mesh anomaly.
+
+For repos without a dedicated publish origin, forge-first is fine:
 
 ```bash
 git push gitlab HEAD:main
-git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push iad1 HEAD:main
+git push iad1 HEAD:main && git push hkg1 HEAD:main && git push sjc1 HEAD:main
 ```
 
 **If a Relay push hangs** (often a dead Spot or slow `post-receive` on an old binary):
 
-1. Push **one remote at a time** with a client timeout (e.g. `timeout 90 git push dfw1 HEAD:main`).
+1. Push **one remote at a time** with a client timeout (e.g. `timeout 90 git push iad1 HEAD:main`).
 2. Check `git ls-remote <remote> refs/heads/main` — if the tip already matches `HEAD`, kill the hung client; the pack was accepted.
-3. Prefer **`hkg1` / `iad1`** if **`dfw1`** is unreachable; then repair dfw1. Do not wait forever on `pushDefault=dfw1`.
+3. Prefer **`sjc1` / `hkg1`** if **`iad1`** is unreachable; then repair iad1.
 4. Mesh ops / env timeouts: relay-gateway **`docs/RELAY_MESH_OPS.md`**.
 
-*Validated: non-blocking post-receive deploy on iad1/hkg1 (lon1 retired 2026-08-17).*
+*Validated: non-blocking post-receive deploy on iad1/sjc1/hkg1.*
 
 **Hard rules**
 
-1. All four remotes’ `main` tips must stay identical (or FF-compatible from the same spine).
+1. GitLab, iad1, sjc1, and hkg1 **`main`** tips must stay identical (or FF-compatible from the same spine).
 2. **Never** dual cherry-pick onto unrelated histories.
 3. **Never** land long-lived commits on only one Relay.
 4. **Never** force-push Relay `main` unless the author explicitly orders it (prefer bare reclone from GitLab if history must be replaced).
@@ -58,9 +57,19 @@ git push dfw1 HEAD:main && git push hkg1 HEAD:main && git push iad1 HEAD:main
 **Preflight**
 
 ```bash
+# After push — confirm mesh caught up (success / partial / fail):
+relay-gateway/scripts/relay-push-and-wait.sh iad1 HEAD:main
+
+# Or poll manually:
+curl -sS -X POST 'https://iad1.relaygateway.net/api/sync/mesh/paradigm-threat-files?branch=main&sha=$(git rev-parse HEAD)' | jq '.mesh_sync.status'
+```
+
+Publisher post-receive writes notify outcomes to **`/opt/relay/state/post_push_sync/<repo>.json`** on iad1 (ok/fail per peer, HTTP status, error body). Check journal for `peer notify rejected` if sync stays partial.
+
+```bash
 git fetch --all
 test "$(git rev-parse HEAD)" = "$(git rev-parse gitlab/main)" || echo "BLOCK: update local main from gitlab first"
-git merge-base --is-ancestor dfw1/main HEAD || echo "BLOCK: rebase/FF onto production tip first"
+git merge-base --is-ancestor iad1/main HEAD || echo "BLOCK: rebase/FF onto production tip first"
 ```
 
 ---
@@ -79,14 +88,7 @@ This repo keeps **real binaries** at public paths. **`assets.manifest.json`** is
 
 ## Assistant / agent defaults
 
-When the author asks to **commit and push**:
-
-1. Ensure checkout is **`main`**.
-2. `git push gitlab HEAD:main`.
-3. If they asked to **go live** / **push remotes** / **push everything live**: push the **same** tip to `dfw1` / `hkg1` / `iad1` **`main`**.
-4. Do **not** force-push Relay `main` unless the author explicitly orders it.
-
-Canon pointer for chat live-publish: [`docs/CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) §6.
+**Canon:** [`AGENTS.md`](../AGENTS.md) (git push order, server-side mesh gate on iad1, dates, doc routing). Chat live-publish: [`CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) §6.
 
 ---
 
