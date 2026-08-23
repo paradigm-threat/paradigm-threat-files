@@ -435,11 +435,9 @@ Operational meteorology routinely issues **multi-day** forecasts; skill is imper
 | **B. Mainstream EM-free three-cell monopoly** (heat + Coriolis as sole macro cause; EM sidelined) | **Contested** here — predictive as engineering frame, incomplete as ontology / energy / control story |
 | **C. EM / æther-macro third path** | **Author program** — globe/sky-rotation evidence can stand; zonal belts and cells remain real patterns; causation reunifies thermal=EM and opens solar-field / æther reads; **does not** rescue FE |
 
-### 11.3 One-line dialectic lock
+### 11.3 Dialectic lock
 
-> Debunking Flat Earth with Coriolis/three-cell **does not** automatically validate the textbook **causal monopoly**. If FE fails **and** the EM-stripped monopoly fails energy/control coherence, the live alternative is **EM / æther-macro meteorology** — not a return to flat geometry.
-
-Entry 3 already separates **mechanism dispute** from **shape**. This section is the explicit **third-path** statement for readers who only know the FE-vs-textbook binary.
+> Debunking Flat Earth with Coriolis/three-cell **does not** validate the textbook **causal monopoly**. If FE fails **and** the EM-stripped monopoly fails energy/control coherence, the live alternative is **EM / æther-macro meteorology** — not flat geometry. Entry 3 separates **mechanism dispute** from **shape**; **§5.3** lists keep/drop misreads.
 
 ---
 
@@ -459,40 +457,34 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 
 ## 13. Literature corroboration — what supports vs what pushes back
 
-*Research pass 2026-08-23. Durable URLs in §18. Do **not** invent corroboration for Author claims.*
+*Research pass 2026-08-23. Durable URLs → **§16**. Do **not** invent corroboration for Author claims. Phenomenology, history, energy budgets, and trade-winds evidence are developed in **§3**–**§12**; this section records **verdicts only**.*
 
-### 13.1 Strongly supported by mainstream / historical literature
+### 13.1 Strongly supported (developed elsewhere — not re-cited here)
 
-| Topic | What the literature supports | Key cites |
-|-------|------------------------------|-----------|
-| Three-cell as teaching model + early-20th-c. acceptance | Surface belts → Ferrel multi-cell; widely accepted before balloon confirmation of aloft overturning | [Atmospheres 2021](https://doi.org/10.3390/atmos12111439); NOAA JetStream; Britannica Hadley |
-| Rotating-annulus / Coriolis-parameter lab analogue | Hide-class differentially heated rotating fluids: axisymmetric Hadley-like → baroclinic waves as rotation increases | [Hide 1958](https://doi.org/10.1098/rsta.1958.0004); [CU ATOC demo](https://atoc.colorado.edu/TeachingandLearning/Demonstrations/RotatingAnnulus/Rotating_annulus.htm); [Atmospheres 2023 lab review](https://doi.org/10.3390/atmos14050836) |
-| Atmospheric electricity tradition | Lightning electrical (1752+); fair-weather field; continuous instrument tradition | APS 1752; [HGSS 2025](https://hgss.copernicus.org/articles/16/51/2025/); Harrison / Cambridge fair-weather thesis |
-| Wilson GEC | Thunderstorms / electrified clouds as generators; ~250 kV; fair-weather return current; Carnegie curve | [Atmospheres 2025 DC GEC](https://doi.org/10.3390/atmos16030348); [Rycroft & Harrison SSR preprint](https://centaur.reading.ac.uk/24952/1/Rycroft%26Harrison_ElectromagneticPlasmaCoupling_SSR_preprint.pdf); [Siingh et al. 2007 overview](https://doi.org/10.1016/j.atmosres.2006.05.005) |
-| Thermo energy budget of circulation | Lorenz cycle: differential heating → APE → KE → dissipation (~2–3 W m⁻² kinetic dissipation vs ~238 W m⁻² solar) | [Lorenz 1955](https://doi.org/10.1111/j.2153-3490.1955.tb01148.x); [Pan et al. 2017](https://doi.org/10.1038/ncomms14367); [Li et al. 2007](https://ps.phys.uh.edu/Publications/Li_GRL_2007.pdf) |
-| Thermal radiation is EM | Solar shortwave / terrestrial IR are electromagnetic | Standard physics (supports Claim 3 ontology, not cell-structure monopoly) |
-| Tesla 1908 electrical-weather claim | Public interview: weather “of electrical origin” → electrical control | *St. Louis Republic* 1908-11-15 — [Tesla Collection](https://www.teslacollection.com/tesla_articles/1908/st_louis_republic/nikola_tesla/electrical_control_of_the_weather_will_soon_be_an_accomplished_fact) |
-| Weather-mod floor | Cirrus, Stormfury, Popeye, ENMOD, seeding programs, USAF doctrine paper, HAARP facility | Weather-mod dossier + §12 cites |
-| Stormfury outcome (official science) | Not operationally successful; too little supercooled water; natural eyewall replacement mimics seeding signal | [Willoughby et al. 1985 BAMS](https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml); AOML / TCFAQ C4 |
-| Trade-winds etymology | **Trade wind** ← obsolete **trade** = track/tread/steady course (**to blow trade**); 18th-c. commerce link = folk etymology; mariner bidirectional routes = trades + westerlies documented | OED; [Etymonline](https://www.etymonline.com/word/trade); [1911 Britannica](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trade_Winds); §3.5 |
-| EM coupling exists (limited scales) | GEC ↔ ionosphere/magnetosphere; EHD turbulence in charged dust/storm environments; boundary-layer electricity LES | [Rycroft & Harrison](https://centaur.reading.ac.uk/24952/1/Rycroft%26Harrison_ElectromagneticPlasmaCoupling_SSR_preprint.pdf); [PR Fluids 2019 EHD](https://doi.org/10.1103/PhysRevFluids.4.123701); [Nat. Commun. dust-storm EHD](https://doi.org/10.1038/s41467-023-36041-x) |
-| GEC → cloud microphysics (second-order) | Jz variations → aerosol scavenging / cloud opacity / small weather–climate signals (Tinsley program) | [Tinsley 2008 Rep. Prog. Phys.](https://doi.org/10.1088/0034-4885/71/6/066801); Harrison GEC–climate |
+| Topic | Verdict | Canonical section |
+|-------|---------|---------------------|
+| Three-cell belts, historiography, Hide annulus | **Documented** | **§3**, **§4** |
+| Atmospheric electricity tradition, Wilson GEC, Tesla 1908 | **Documented** | **§6** |
+| Lorenz thermo cycle; thermal radiation is EM | **Documented** | **§9.2** |
+| Trade-winds etymology + mariner bidirectional routes | **Documented** | **§3.5** |
+| Weather-mod floor; Stormfury official outcome | **Documented** | **§12** |
+| GEC ↔ ionosphere; Tinsley Jz → cloud microphysics | **Documented** second-order bridge — **not** Hadley substitute | **§9.2** |
 
 ### 13.2 Partial / adjacent (supports silo observation or control *interest*, not Hadley EM monopoly)
 
 | Topic | Finding | Tier note |
 |-------|---------|-----------|
-| Pedagogy silo | Intro circulation = thermo + Coriolis + fluid; atmospheric electricity = separate specialty with active journals | **Documented pattern**; MIC *motive* still **Author** |
-| Cloud seeding efficacy | Operational programs exist; effect sizes often 0–20% and hard to prove vs variability; SNOWIE shows physical signal in specific orographic cases | **Documented contested** ([GAO-25-107328](https://www.gao.gov/products/gao-25-107328); [PNAS SNOWIE](https://doi.org/10.1073/pnas.1917206117)) |
-| TC intensity sensitivity | Adjoint / convection studies: intensity sensitive to moisture/temperature perturbations; small convective events can alter intensification pathways | **Documented predictability science** — **not** proof of operational center-pressure *steering* ([Doyle et al. 2012](https://doi.org/10.1175/jas-d-12-0110.1); butterfly/RI literature) |
-| Thunderbolts / EU weather | Electrical primacy for storms / “electric wind” rhetoric; **no** located primary deriving Hadley–Ferrel–Polar **surface zonal polarity** | **Adjacent** ([Lightning in the Wind](https://www.thunderbolts.info/wp/2014/05/22/lightning-in-the-wind/); [Solar Supreme](https://www.thunderbolts.info/wp/2016/12/07/solar-supreme/)) — Claim 7 **not** closed |
+| Pedagogy silo | Intro circulation = thermo + Coriolis + fluid; atmospheric electricity = separate specialty with active journals | **Documented pattern** (**§6**); MIC *motive* still **Author** |
+| Cloud seeding efficacy | Operational programs exist; effect sizes often 0–20% and hard to prove vs variability; SNOWIE shows physical signal in specific orographic cases | **Documented contested** — **§16** (GAO, SNOWIE) |
+| TC intensity sensitivity | Adjoint / convection studies: intensity sensitive to moisture/temperature perturbations | **Documented predictability science** — **not** operational center-pressure *steering* |
+| Thunderbolts / EU weather | Electrical primacy for storms; **no** located primary deriving Hadley–Ferrel–Polar **surface zonal polarity** | **Adjacent** — Claim 7 **not** closed (**§16**) |
 
 ### 13.3 Where literature pushes back / weakens the control narrative
 
 | Pushback | Implication for this dossier |
 |----------|------------------------------|
-| **GEC electrical power ≪ Lorenz kinetic budget** (~GW-scale circuit vs PW-scale kinetic generation/dissipation) | Blocks naive “Wilson current *drives* three-cell overturning.” Author EM reunification must stay **ontological / radiative / microphysical**, not ampere-budget Hadley |
-| **Hide / GCM / tank rotation diagnostics** reorganize belts with Coriolis parameter | Predictive success of rotating-frame fluid models; EM/æther alternative must match or explain (§8.3) |
+| **GEC electrical power ≪ Lorenz kinetic budget** (~GW-scale circuit vs PW-scale kinetic generation/dissipation) | Blocks naive “Wilson current *drives* three-cell overturning.” Author EM reunification must stay **ontological / radiative / microphysical**, not ampere-budget Hadley (**§9.2**) |
+| **Hide / GCM / tank rotation diagnostics** reorganize belts with Coriolis parameter | Predictive success of rotating-frame fluid models; EM/æther alternative must match or explain (**§8.3**) |
 | **Stormfury “failure” is microphysical + statistical**, not only a cover story in the open literature | Author may still read incomplete method / classified fork — keep **open**; do not cite Stormfury existence as present steering proof |
 | **HAARP public physics line:** HF not absorbed in troposphere/stratosphere | Direct tropospheric weather steering via HAARP **denied** by UAF/NOAA/DTIC energy comparisons; dual-mechanism Author thesis stays in weather-mod dossier, **not upgraded here** |
 | **Seeding ≠ hurricane steering** | Civilian precip enhancement debates do not validate Claim 11 |
@@ -500,13 +492,17 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 
 ### 13.4 Net for evidence tiers
 
-- **Upgrade / harden (Documented):** Tesla masthead; Hide annulus; Lorenz vs GEC energy honesty; Stormfury/HAARP/seeding floor cites; GEC peer-review spine; three-cell historiography DOI.
+- **Hardened (Documented):** Tesla masthead; Hide annulus; Lorenz vs GEC energy honesty; Stormfury/HAARP/seeding floor; GEC peer-review spine; three-cell historiography; **§3.5** trade-winds ledger.
 - **Do not upgrade:** EM causal monopoly for cell *structure*; MIC pedagogy capture; operational hurricane pressure-nudge steering; EU zonal polarity primary.
 - **Best live mainstream bridge (still not Author monopoly):** Tinsley-class **Jz → cloud microphysics → small dynamics** — second-order electrical effects on weather/climate, consistent with siloed GEC research mattering without replacing Hadley pedagogy.
 
 ---
 
-## 14. Author’s open claims (registry)
+## 14. Open registry — claims, questions, research TODOs
+
+*Single consolidated place for open work.*
+
+### 14.1 Author claims (numbered)
 
 | # | Claim | Tier |
 |---|--------|------|
@@ -517,50 +513,47 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 | 5 | Separating thermal/gravity/inertia from EM in three-cell *causal story* is arbitrary overcomplication | **Author** |
 | 6 | Gravity/inertia readable as macro-EM / æther | **Author / Speculative** |
 | 7 | Zonal belts EM-caused; Coriolis-as-cause monopoly rejected — not “Coriolis fake” | **Author** (Entry 3) |
-| 8 | 20th-c. control value + suppressed EM tech lanes biased pedagogy toward EM-stripped macro circulation | **Author / Speculative** (§7) |
+| 8 | 20th-c. control value + suppressed EM tech lanes biased pedagogy toward EM-stripped macro circulation | **Author / Speculative** (**§7**) |
 | 9 | Flow/pressure/vacuum differentials are the practical weather **control surface** | **Author / Speculative** |
 | 10 | Public “can’t steer” rhetoric tensions with modification history, doctrine papers, and forecast operations | **Author** (tension); capability ceiling **open** |
 | 11 | Hurricane steering via center pressure/vacuum modulation | **Author / Speculative** |
 | 12 | EM / æther-macro is the **third path** vs FE vs EM-free monopoly — not FE defense | **Author** framing |
-| 13 | **Trade winds** name encodes **bidirectional** three-cell sailing (trade = back-and-forth exchange), not steady-track etymology | **Author / Interpretive** — **weak vs OED/Etymonline**; **partial** support via documented two-belt navigation (§3.5) |
+| 13 | **Trade winds** name encodes **bidirectional** three-cell sailing (trade = back-and-forth exchange), not steady-track etymology | **Author / Interpretive** — **weak vs OED/Etymonline**; **partial** support via documented two-belt navigation (**§3.5**) |
 
----
+### 14.2 Questions to clarify, verify, or debunk
 
-## 15. Questions to clarify, verify, or debunk (open)
-
-| # | Question | Status after 2026-08-23 pass | Why it still matters |
-|---|----------|------------------------------|----------------------|
-| Q1 | Pin EU / Thunderbolts primary for Hadley–Ferrel–Polar **surface zonal** EM polarity | **Open** — adjacent electrical-weather posts found; **no** zonal-polarity primary | Claim 7 literature |
-| Q2 | Rotating annulus / tank cite beyond MIT Hadley sketch | **Closed** — Hide 1958 + CU/MIT demos in §3 / §13 | — |
+| # | Question | Status | Why it still matters |
+|---|----------|--------|----------------------|
+| Q1 | Pin EU / Thunderbolts primary for Hadley–Ferrel–Polar **surface zonal** EM polarity | **Open** — adjacent posts; **no** zonal-polarity primary | Claim 7 |
+| Q2 | Rotating annulus / tank cite beyond MIT Hadley sketch | **Closed** — Hide 1958 + CU/MIT demos (**§3**) | — |
 | Q3 | Quantitative EM latitudinal model vs GCM rotation-rate diagnostic | **Open** | Distinguisher |
 | Q4 | Spin-through-solar-field vs inertial Coriolis — different predictions? | **Open** | Prevent re-labeling |
-| Q5 | Curriculum standards / contractor pedagogy linking force-separated three-cell teaching to weather-weapon secrecy? | **Open** — no smoking-gun memo in this pass | Claim 8 |
-| Q6 | Ontology-only vs equation-level change if thermal=EM reunified? | **Open** (scope judgment) | Scope |
-| Q7 | Primary sources on mid-20th-c. meteorology textbook TOC evolution (when EM left intro circulation chapters) | **Open** — historiography of *cells* improved; TOC archaeology not done | Pedagogy timeline |
-| Q8 | Declassified or open papers on pressure-perturbation sensitivity of tropical cyclones | **Partially closed** — adjoint/RI sensitivity literature exists (intensity/predictability); **not** operational steering receipts | Claim 11 falsifiers / soft support |
-| Q9 | Tesla 1908 interview: original newspaper masthead | **Closed** — *St. Louis Republic* 1908-11-15 via Tesla Collection scan | — |
+| Q5 | Curriculum / contractor pedagogy linking force-separated three-cell teaching to weather-weapon secrecy? | **Open** — no smoking-gun memo | Claim 8 |
+| Q6 | Ontology-only vs equation-level change if thermal=EM reunified? | **Open** | Scope |
+| Q7 | Primary sources on mid-20th-c. meteorology textbook TOC evolution (when EM left intro circulation chapters) | **Open** | Pedagogy timeline |
+| Q8 | Declassified or open papers on pressure-perturbation sensitivity of tropical cyclones | **Partially closed** — adjoint/RI sensitivity exists; **not** operational steering receipts | Claim 11 |
+| Q9 | Tesla 1908 interview: original newspaper masthead | **Closed** — *St. Louis Republic* 1908-11-15 via Tesla Collection | — |
 | Q10 | Does GEC amplitude/modulation correlate with Hadley metrics? | **Partially closed** — Tinsley/Harrison: GEC↔cloud/climate *second-order*; **not** Hadley-as-GEC identity | Bridge test |
-| Q11 | Any pre-1800 primary using **trade wind** to mean the **full** trades+westerlies system (not tropical easterlies alone)? | **Open** — Dampier distinguishes general/coasting/shifting trades; **anti-trades** separate in 1911 Britannica | Claim 13 / §3.5 |
+| Q11 | Any pre-1800 primary using **trade wind** to mean the **full** trades+westerlies system? | **Open** — Dampier; **anti-trades** separate in 1911 Britannica | Claim 13 / **§3.5** |
 
----
+### 14.3 Research TODOs
 
-## 16. Weak points / remaining research TODOs
-
-- [x] Trade-winds etymology + mariner-route section (§3.5; claim 13).
+- [x] Trade-winds etymology + mariner-route section (**§3.5**; claim 13).
 - [ ] Pin EU primary for zonal EM causation (Q1) — or explicitly retire if none exists.
 - [ ] Textbook TOC archaeology 1900–1960 (Q7).
-- [x] Harden Tesla 1908 primary masthead (Q9) — *St. Louis Republic* / Tesla Collection.
-- [x] One rotating-tank / annulus paper cite (Q2) — Hide 1958.
+- [x] Harden Tesla 1908 primary masthead (Q9).
+- [x] Rotating-tank / annulus cite (Q2) — Hide 1958.
 - [ ] EM latitudinal vs GCM rotation diagnostics sketch (Q3–Q4).
-- [x] Literature corroboration section + energy-budget honesty (§9.2, §13).
-- [x] Stormfury / seeding / HAARP durable cites (§12).
+- [x] Literature corroboration + energy-budget honesty (**§9.2**, **§13**).
+- [x] Stormfury / seeding / HAARP durable cites (**§12**, **§16**).
 - [x] Header image: `three-cell-motion-em-aether-investigation.png`.
 - [x] Hub wire: root `page.md`, Entry 3, weather-mod, AU-051, deep-dive.
 - [x] Bidirectional Maxwell lane Related rows (`01`, `02`); tornado Related.
+- [x] Flow / redundancy pass — consolidated open registry (**§14**).
 
 ---
 
-## 17. Related investigations
+## 15. Related investigations
 
 | Topic | Path |
 |-------|------|
@@ -577,7 +570,9 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 
 ---
 
-## 18. Key external citation bank (quick list)
+## 16. Key external citation bank (quick list)
+
+*Canonical URL list — narrative sections link inline where needed; do not duplicate this table in body text.*
 
 | Theme | URL |
 |-------|-----|
@@ -620,7 +615,7 @@ Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCircul
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-- **Author thesis sections (§5, §7–§11, claims 5–12)** are **first-class** for why this dossier exists; they are **not** automatically factual.
+- **Author thesis sections (§5, §7–§11, claims 5–12 in §14.1)** are **first-class** for why this dossier exists; they are **not** automatically factual.
 - **Documented** = agency/textbook phenomenology; atmospheric-electricity history; Wilson GEC; Tesla 1908 public claim (*St. Louis Republic*); Lorenz energy cycle; Hide annulus; weather-mod programs; ENMOD; HAARP-as-facility; NOAA/UAF public denials; Stormfury evaluation literature.
 - **Author / Speculative** = EM causal monopoly for three-cell *structure*; MIC-ordered pedagogy capture; pressure-nudge hurricane steering; control-surface ontology as *operational* claim.
 - **Energy Limit (§9.2 / §13.3):** GEC electrical power is **tiny** vs thermo/kinetic budgets — do not equate GEC with Hadley drive.
@@ -632,9 +627,8 @@ Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCircul
 
 ## Investigator notes
 
-- Companion prior lock: `cosmos/flat_earth/flat-earth-qa-debunks.md` Entry 3. This file is the **canonical expansion** (thermal reunification, history, timeline, energy/control, FE third path, **§3.5 trade-winds etymology**).
+- Canonical expansion of Entry 3 — companion lock: `cosmos/flat_earth/flat-earth-qa-debunks.md` Entry 3.
 - Header asset (same directory): `three-cell-motion-em-aether-investigation.png`.
 - Eastern stamp: `2026-08-23` (`TZ=America/New_York`).
-- Tesla 1908: Tesla Collection catalogs *St. Louis Republic* 1908-11-15 + page scan; Tesla Universe remains readable reprint.
-- NOAA 2024 fact-check / UAF HAARP FAQ are **primaries for public position**, not closed physics proofs of non-capability.
+- NOAA 2024 fact-check / UAF HAARP FAQ = **primaries for public position**, not closed physics proofs of non-capability.
 - Autogen after Keywords / hub edits.
