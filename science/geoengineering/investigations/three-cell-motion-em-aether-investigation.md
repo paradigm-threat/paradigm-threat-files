@@ -1,26 +1,31 @@
 # Investigation: Three-Cell Motion — Textbook Circulation vs Electromagnetism / Æther Framing
 
-> **TL;DR:** The **Hadley / Ferrel / Polar** three-cell model is a **documented** teaching sketch of large-scale atmospheric overturning and east–west wind belts. This dossier contrasts that **textbook causal story** (differential solar heating + Coriolis in a rotating Earth frame) with an **author / unified-field** read: thermal drive and molecular motion are already **electromagnetic** at root; historical **atmospheric electricity** research (Franklin → fair-weather field → Wilson global circuit → Tesla’s electrical-weather claims) was **sidelined** in macro-circulation pedagogy to lightning-only chapters while **documented** weather-modification and ionospheric programs show control interest. Cross-links [Flat Earth Q&A Entry 3](/cosmos/flat_earth/flat-earth-qa-debunks.md#entry-3-zonal-winds--alternating-eastwest-weather-belts), [Maxwell / æther](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md), [weather modification](/science/geoengineering/weather-modification-investigation.md). **Status:** open. EM primacy for cell *structure*, MIC curriculum-capture, and hurricane “pressure-nudge” steering stay **Author / Speculative** until receipts pin them.
+> **TL;DR:** **Hadley / Ferrel / Polar** three-cell belts are **documented** climatology. This dossier asks whether textbook causation (differential heating + Coriolis, EM sidelined to lightning chapters) is ontologically complete once thermal drive is **EM**, atmospheric-electricity history is acknowledged, and **documented** weather-mod programs show control interest. Author program: **EM / æther-macro reunification** + **third path** vs Flat Earth vs EM-free monopoly (**§11**). **Trade winds (§3.5):** etymology = **track/tread/steady course**; mariners used trades **and** westerlies — author **“trade = back-and-forth”** read is **interpretive**. Verdicts → **§13**; open registry → **§14**; cites → **§16**. Cross-links: [Entry 3](/cosmos/flat_earth/flat-earth-qa-debunks.md#entry-3-zonal-winds--alternating-eastwest-weather-belts), [Maxwell / æther](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md), [weather modification](/science/geoengineering/weather-modification-investigation.md).
 
-**Status:** Open — textbook + historical citation spine locked; timeline interpretive; operational-contradiction and FE dialectic framed with sharp tiers.
+**Status:** Open — 2026-08-23 pass locked literature spine (**§13**), energy-budget honesty (**§9**), **§3.5 trade-winds**; open work consolidated in **§14**; EM primacy for cell *structure*, MIC capture, hurricane pressure-nudge steering **not upgraded**.
 
 **Vocabulary note:** This file uses **æther** for the physical substrate the project names. That is **not** the phrasing of mainstream consensus physics, which instead uses **fields in vacuum**, **relativity**, and **QED** for overlapping structure. The naming choice is **deliberate**; see [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) and the **Apr 2026** assistant debate captured there.
+
+![Three-cell motion — textbook Hadley / Ferrel / Polar circulation vs EM / æther framing](three-cell-motion-em-aether-investigation.png)
 
 ---
 
 ## 1. Guide (read order)
 
-1. What the cells are / textbook cause → **§3**, **§4**.
-2. Author stakes (original + expansion) → **§5**.
-3. Historical EM atmosphere citations → **§6**.
-4. Interpretive timeline (EM track → thermo/Coriolis monopoly) → **§7**.
-5. EM / æther reunification → **§8**.
-6. Energy / flow / pressure as control surface → **§9**.
-7. Operational contradiction (forecast vs “can’t control”) → **§10**.
-8. Flat Earth dialectic → third path → **§11**.
-9. Documented weather modification floor → **§12**.
-10. Open claims / questions / related → **§13**–**§16**.
-11. Limits → after Keywords.
+1. Phenomenology + trade-winds etymology → **§3**, **§3.5**
+2. Standard textbook package → **§4**
+3. Author stakes → **§5**
+4. Historical EM atmosphere → **§6**
+5. Interpretive timeline (EM track → thermo monopoly → control value) → **§7**
+6. EM / æther reunification → **§8**
+7. Energy / flow / pressure control surface → **§9**
+8. Forecast vs “can’t control” tension → **§10**
+9. Flat Earth dialectic → third path → **§11**
+10. Weather-mod floor → **§12**
+11. Literature corroboration (supports / pushback) → **§13**
+12. Open registry (claims, questions, TODOs) → **§14**
+13. Related investigations + citation bank → **§15**, **§16**
+14. Limits → after Keywords
 
 ---
 
@@ -80,7 +85,127 @@ Standard intros (Documented pedagogy / agency pages):
 - [MIT Weather Tank — Hadley](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-atmosphere-hadley)
 - Rotating frames: [Physics LibreTexts — Rotating Reference Frames](https://phys.libretexts.org/Bookshelves/University_Physics/Mechanics_and_Relativity_(Idema)/07%3A_General_Rotational_Motion/7.02%3A_Rotating_Reference_Frames); [ApparentForces.pdf (Albany ATM)](https://www.atmos.albany.edu/facstaff/kristen/ATM317/Reference_Material_files/ApparentForces.pdf)
 
-**Documented nuance:** The neat “three conveyor belts” sketch is a **teaching** model. Modern dynamics treat the **Ferrel** cell as especially eddy- / wave-mediated; GCMs and rotating-tank demos remain the predictive practice of operational meteorology. Hadley’s 1735 single-cell idea was revised through Ferrel (mid-19th c.) and Rossby-era multi-cell framing; three-cell teaching was widely accepted by the early 20th century, with radiosondes later confirming overturning aloft ([Hadley cell — historical notes](https://en.wikipedia.org/wiki/Hadley_cell)).
+**Documented nuance:** The neat “three conveyor belts” sketch is a **teaching** model. Modern dynamics treat the **Ferrel** cell as especially eddy- / wave-mediated; GCMs and rotating-tank demos remain the predictive practice of operational meteorology. Hadley’s 1735 single-cell idea was revised through Ferrel (1856–1860s) and Rossby-era multi-cell framing; by the **early 20th century** the three-cell schematic was **widely accepted** on surface-wind grounds, with radiosondes / balloons later confirming overturning aloft ([Atmospheres 2021 — historical evolution of circulation models](https://doi.org/10.3390/atmos12111439); [COMET / tropical met — historical evolution](https://www.chanthaburi.buu.ac.th/~wirote/met/tropical/textbook_2nd_edition/navmenu.php_tab_4_page_2.1.0.htm); [Hadley cell — historical notes](https://en.wikipedia.org/wiki/Hadley_cell)).
+
+**Lab analogue (Documented):** Differentially heated **rotating annulus** experiments (classic: [Hide 1958, *Phil. Trans. R. Soc. A*](https://doi.org/10.1098/rsta.1958.0004)) produce axisymmetric Hadley-like overturning at slow rotation and baroclinic wave / eddy regimes at faster rotation — the same Coriolis-parameter diagnostic textbooks invoke ([CU ATOC rotating annulus demo](https://atoc.colorado.edu/TeachingandLearning/Demonstrations/RotatingAnnulus/Rotating_annulus.htm); [MIT Weather Tank — Hadley](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-tank-hadley); review: [Atmospheres 2023 — new lab experiments](https://doi.org/10.3390/atmos14050836)).
+
+---
+
+## 3.5 Trade winds — etymology, mariner routes, and the “trade = back-and-forth” thesis
+
+*Why this section exists:* The **three-cell** surface belts are not only a classroom diagram — they are the **operational wind geography** that made long-distance sailing **bidirectional**. The English name **trade winds** sits at the center of a persistent etymology debate: **steady path** vs **commerce route** vs the author’s **back-and-forth exchange** read. This section separates what dictionaries and nautical history **document** from what the author **reinterprets**.
+
+### 3.5.1 Standard etymology — “to blow trade” = steady habitual course (Documented)
+
+**Official lexicography and reference tradition** agree that **trade wind** does **not** originate in the modern sense **trade = buying and selling**. The name comes from an older nautical phrase **to blow trade** — a wind that blows **steadily in the same direction** along a habitual track.
+
+| Source | What it says | Tier |
+|--------|--------------|------|
+| **OED** (*trade wind*, *trade adv.*) | Formed from **trade n.** in the obsolete sense “steady habitual course”; apparently after **to blow trade**. “Originally unconnected with … commerce”; commercial navigation later **associated** the senses. | **Documented** |
+| **Oxford Learner’s Dictionary** | Mid-17th c. from **blow trade** (“blow steadily in the same direction”); 18th-c. etymologists **mistakenly** linked **trade** to commerce. | **Documented** |
+| **Etymonline** (*trade*) | **Trade wind** (1640s) “has nothing to do with commerce, but preserves the obsolete sense of ‘in a habitual or regular course.’” Root: Middle Dutch / Low German **trade** = “track, trace, course,” cognate with **tread**. | **Documented** |
+| **1911 Encyclopædia Britannica** — [Trade Winds](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trade_Winds) | Name from wind **regularity**; **trade** used in the otherwise obsolete sense of **“direction” or “course”** (cf. **tread**). | **Documented** |
+| **Brewer’s Dictionary of Phrase and Fable** — [Trade Winds](https://words.fromoldbooks.org/Brewer-DictionaryOfPhraseAndFable/t/trade-winds.html) | Winds that **trade or tread** in one uniform track; deriving from **trade (commerce)** is “a mistake.” | **Documented** |
+
+**Chronology that matters:**
+
+1. **Late 14th c.** — English **trade** borrowed (via Hanse merchants) as **path, track, course of action** ([Etymonline](https://www.etymonline.com/word/trade)).
+2. **Mid-16th c.** — Sense shifts toward **habitual occupation / business**; **commerce** sense from **1550s** ([Etymonline](https://www.etymonline.com/word/trade)).
+3. **1640s** — Compound **trade wind** enters English preserving the **older path/course** sense, **before** the commerce association hardened in public memory ([Etymonline](https://www.etymonline.com/word/trade); [OED](https://www.oed.com/dictionary/trade-wind_n)).
+4. **18th c.** — Importance of these winds to Atlantic merchant fleets leads **general public and etymologists** to identify the name with **foreign commerce** — a **later folk etymology**, explicitly flagged as error in modern dictionaries ([Wikipedia — Trade winds § Etymology](https://en.wikipedia.org/wiki/Trade_winds#Etymology); [OED](https://www.oed.com/dictionary/trade-wind_n)).
+
+**Agency pedagogy today** often **slides toward the commerce gloss** even while the underlying meteorology is sound:
+
+- [NOAA Ocean Service — What are the trade winds?](https://oceanservice.noaa.gov/facts/tradewinds.html) opens with “Early **commerce** to the Americas relied on the trade winds” and calls them “**commerce-friendly** winds” — accurate as **navigation history**, easy to misread as **word origin**.
+- [NOAA NESDIS K-12 — What Are Trade Winds?](https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/what-are-trade-winds) stresses sailors using trades to go **west** — correct for the Hadley belt, incomplete for **return** legs.
+- [NOAA Ocean Service — Surface Ocean Currents tutorial](https://oceanservice.noaa.gov/education/tutorial_currents/04currents2.html) states trades are “so named because ships have historically taken advantage of them … between Europe and the Americas” (Bowditch, 1995) — **route utility**, not strict etymology.
+
+**Net (Documented):** The weight of philological evidence is **path / track / tread / steady course**, **not** “exchange of goods” and **not** “alternating east–west” as the **root meaning of the English word**.
+
+### 3.5.2 Names in other languages — passage vs smooth vs path
+
+European mariners did not wait for English **trade wind** to navigate tropical belts. Parallel naming traditions illuminate **passage** and **steadiness**, not English **back-and-forth commerce**:
+
+| Language | Term | Etymology / sense (Documented summaries) | Citation |
+|----------|------|------------------------------------------|----------|
+| **Portuguese** | *vento geral* (“general wind”); later *ventos alísios* | *Alísio* ← Latin *alisus* (“smooth, gentle”); NE trades called *brisa* in Atlantic usage | [Wiktionary — trade wind](https://en.wiktionary.org/wiki/trade_wind); Hawkins / Linschoten notes in [WEHD — Trade-wind](https://www.wehd.com/96/Trade-wind.html) |
+| **Spanish** | *vientos alisios* | Same *alisus* root — steady, gentle trade easterlies | [Wiktionary — trade wind](https://en.wiktionary.org/wiki/trade_wind) |
+| **Dutch** | *passaat(wind)* | From older *passade-wind* / *passage-wint*, calqued from Portuguese; first element later reshaped under Spanish *pasada* (“crossing, passage”) influence | [Wiktionary — passaatwind](https://en.wiktionary.org/wiki/passaatwind); [DWDS — Passat](https://www.dwds.de/wb/etymwb/Passat) |
+| **German** | *Passat(wind)* | Borrowed from Dutch *passaat* (17th c.) | [DWDS — Passat](https://www.dwds.de/wb/etymwb/Passat) |
+| **French** | *alizé* | From Portuguese *alísio* | [Wiktionary — trade wind](https://en.wiktionary.org/wiki/trade_wind) |
+
+**Early English mariner vocabulary (predating modern “trade wind” compound):**
+
+- **1565** — John Hawkins, *Second Voyage*, calls the NE tropical wind the **“ordinary breeze”** ([WEHD — Breeze sb.²](https://www.wehd.com/11/Breeze_sb2.html); [WEHD — Trade-wind](https://www.wehd.com/96/Trade-wind.html)).
+- **1583** — Linschoten records the SE trade as **“general windt,”** after Portuguese *vento geral* ([WEHD — Trade-wind](https://www.wehd.com/96/Trade-wind.html)).
+- **1697+** — William Dampier’s *Discourse of Trade-Winds, Breezes, Storms…* treats **general**, **coasting**, and **shifting** trade winds as operational categories ([Bodleian OTA — Dampier, *Voyages and Descriptions* vol. II](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K104887.000/K104887.000.html?sequence=5&isAllowed=y)).
+
+**Hadley (1735)** already used **trade-winds** as the standard scientific label when explaining **general** tropical easterlies — his paper title is *Concerning the Cause of the General Trade-Winds* ([Phil. Trans. R. Soc. 1735](https://doi.org/10.1098/rstl.1735.0014); [Britannica — Hadley cell](https://www.britannica.com/science/Hadley-cell)). He addressed **why** they blow from the east (Earth’s diurnal rotation), not the philology of **trade**.
+
+### 3.5.3 Mariner knowledge — outward trades, return westerlies, doldrums (Documented)
+
+**Documented historical fact:** Sailors exploiting the **three-cell / pressure-belt** geography did **not** rely on NE trades alone. **Bidirectional** Atlantic (and later global) navigation required **alternating wind regimes**:
+
+| Route leg | Wind belt used | Direction aided | Documented source |
+|-----------|----------------|-----------------|-------------------|
+| **Outward** (Europe → Canaries/Azores → Americas) | **NE trade winds** (Hadley cell surface branch) | Westward / southwestward in North Atlantic gyre | [Wikipedia — Winds in the Age of Sail](https://en.wikipedia.org/wiki/Winds_in_the_Age_of_Sail); [Wikipedia — Triangular trade](https://en.wikipedia.org/wiki/Triangle_trade) |
+| **Return** (*volta do mar*, “turn of the sea”) | Sail **northwest** into **mid-latitude westerlies** (Ferrel belt) | Eastward back to Europe | [Wikipedia — Trade winds § History](https://en.wikipedia.org/wiki/Trade_winds#History); [Battlefields.org — Triangular Trade](https://www.battlefields.org/learn/articles/triangular-trade) |
+| **Equatorial gap** | **Doldrums** / ITCZ — light, variable winds | Hazard / delay | [NOAA — trade winds & doldrums](https://oceanservice.noaa.gov/facts/tradewinds.html) |
+| **Subtropical calm** | **Horse latitudes** (~30°) — sinking branch of Hadley | Light winds, slow progress | [NOAA — trade winds](https://oceanservice.noaa.gov/facts/tradewinds.html) |
+
+**Portuguese discovery of the full circuit** (15th–16th c.): outward via trades; return not by reversing course but by **volta do mar** into westerlies ([Wikipedia — Trade winds § History](https://en.wikipedia.org/wiki/Trade_winds#History)). **Pacific** trades + higher-latitude westerlies were mapped for Europeans after **Andrés de Urdaneta**, **1565** ([Wikipedia — Trade winds § History](https://en.wikipedia.org/wiki/Trade_winds#History)).
+
+**SlaveVoyages / Atlantic gyre framing (Documented):** Transatlantic traffic followed **two great wind–current wheels** (northern clockwise, southern counterclockwise); which European power dominated which traffic lane was **wind-system geography**, not accident ([SlaveVoyages.org — Brief overview](https://www.slavevoyages.org/blog/-brief-overview-of-the-transatlantic-slave-trade/154)).
+
+**Connection to three-cell teaching model (§3):**
+
+| Surface belt | Cell / mechanism (teaching sketch) | Sailing role |
+|--------------|-----------------------------------|--------------|
+| **Trade easterlies** (~0°–30°) | Hadley equatorward surface branch + Coriolis | **Outward** westbound legs in each hemisphere |
+| **Prevailing westerlies** (~30°–60°) | Ferrel poleward surface branch + Coriolis | **Return** eastbound legs (*volta do mar*, Cape routes, etc.) |
+| **Polar easterlies** | Polar cell equatorward branch | High-latitude / Arctic routing (later eras) |
+| **Doldrums / horse latitudes** | Hadley rising / sinking, ITCZ & subtropical highs | Transitions, calms, storm breeding |
+
+Cross-link: [Flat Earth Q&A Entry 3](/cosmos/flat_earth/flat-earth-qa-debunks.md#entry-3-zonal-winds--alternating-eastwest-weather-belts) (zonal belt pattern); [weather modification](/science/geoengineering/weather-modification-investigation.md) (modern interest in steering flows on the same pressure/wind control surface as **§9**).
+
+### 3.5.4 Author reinterpretation — “trade = back-and-forth” + full three-cell system (**Author / Interpretive**)
+
+> **Author thesis (session brief — verbatim stakes):** The **three-cell system** is what allowed ships to go **both ways**: one cell’s surface winds carry you **west**, another’s carry you **east**. There is major confusion over **“trade winds.”** **Trade** = **back and forth** (exchange, two-way commerce) + **winds** → **tradewinds** always meant the **three-cell system** enabling bidirectional sailing. Sailors **always knew** the east–west alternating motion; modern science either didn’t know ships used this, or knows and **forgot** the original meaning. “There really was no confusion” — the word maps cleanly onto the three-cell back-and-forth.
+
+**Unpack (Author intent):**
+
+| Author claim | Tier |
+|--------------|------|
+| Bidirectional sailing **required** both trade easterlies **and** mid-latitude westerlies — i.e. the **multi-belt** wind geography, not “trades alone” | **Documented** (§3.5.3) |
+| Mariners mapped **volta do mar** and gyre circuits centuries before modern three-cell diagrams | **Documented** |
+| English **trade winds** **etymologically** means **exchange / back-and-forth commerce** | **Author / Weak vs philology** — standard sources derive **trade** ← **track/tread/steady course**, not reciprocal exchange |
+| The name **always** denoted the **full** alternating east–west **three-cell** system | **Author / Speculative** — historical texts often treat **trade wind** as the **tropical easterly belt** specifically; **anti-trades** / **westerlies** were separate terms ([1911 Britannica — anti-trades](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trade_Winds)) |
+| Modern science “forgot” mariner bidirectional knowledge | **Author / Overstated** — navigation manuals, Dampier, Maury’s wind charts (1840s), and modern NOAA pages **preserve** outward-vs-return routing; what faded is **popular** confusion of **etymology**, not the **route** |
+| “There really was no confusion” — word maps cleanly onto three-cell back-and-forth | **Author / Interpretive synthesis** — **partially rhymes** with documented **route** facts; **does not match** documented **English etymology** |
+
+**Where the author thesis has honest partial support:**
+
+1. **Functional:** Two-way **commerce** really did depend on **both** wind belts — the **physics package** behind the author’s intuition is **real**.
+2. **Historical redefinition:** The **18th-c. commerce folk etymology** *is* a documented narrowing/reassignment — but it assigned **commerce** to the **tropical easterlies alone**, not the author’s fuller **back-and-forth system** read ([OED](https://www.oed.com/dictionary/trade-wind_n); [Oxford Learner’s](https://www.oxfordlearnersdictionaries.com/definition/english/trade-winds)).
+3. **Pedagogical gap:** Intro texts often teach **trade winds** as a **single belt** without stressing that **return** legs ride **Ferrel westerlies** — creating **practical** confusion even when dictionaries are correct.
+
+**Where philology pushes back (Limits):**
+
+- **No major dictionary** gives **trade wind** ← “two-way exchange.” The obsolete sense is **one steady track**, not **oscillation**.
+- **Anti-trades** (westerlies) were named as the **opposite** belt — if **trade wind** already meant the **whole** system, that split vocabulary would be redundant ([1911 Britannica](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trade_Winds)).
+- Romance / Germanic **passage / smooth-wind** terms emphasize **crossing** or **steadiness**, not reciprocal **barter**.
+
+**Synthesis line for this dossier:** The **three-cell surface alternation** (§3) is the **documented wind geography** that made **bidirectional** sailing possible; the **English word** **trade** in **trade wind** is **documented** as **path/tread/steady course**, later **confused** with **commerce**. The author’s **“trade = back-and-forth”** read is best held as **interpretive recovery** of **route function** and **multi-belt mariner knowledge** — **not** as established etymology.
+
+### 3.5.5 Evidence ledger (quick)
+
+| Question | Verdict | Tier |
+|----------|---------|------|
+| Does standard etymology support **trade = back-and-forth exchange**? | **No** — supports **track / tread / steady course** | **Documented** |
+| Does standard etymology support **trade = commerce route** as **original** meaning? | **No** — commerce association is **18th-c. folk etymology** after the compound existed | **Documented** |
+| Did mariners use **both** trades and westerlies for two-way Atlantic routes? | **Yes** — *volta do mar*, triangular gyres | **Documented** |
+| Does that prove the **English compound** always named the **whole** three-cell system? | **No** — historical usage often restricts **trade wind** to **tropical easterlies** | **Documented nuance** |
+| Is the author’s **functional** three-cell / bidirectional sailing thesis compatible with records? | **Yes** for **navigation**; **separate** from **word origin** | **Documented + Author** |
 
 ---
 
@@ -110,15 +235,18 @@ Textbooks typically chain:
 - Mainstream **arbitrarily separates** how these forces create the Three-Cell Model.
 - **Room** for MIC / suppression bias on related technology — **evidence-tiered**, not rant.
 
-### 5.2 Expansion (session capture — Author)
+### 5.2 Expansion scope (pointers — detail in later sections)
 
-- Find **historical online citations** for electrical/EM theories of atmosphere, weather, aurora, thunderstorms (Franklin → Faraday/Maxwell → Tesla → early 20th c.).
-- Document the **shift** of textbook meteorology to thermo/Coriolis/fluid three-cell with EM sidelined to lightning-only.
-- Tie in **documented** weather modification (Cirrus, Stormfury, seeding, ionospheric heaters / public HAARP literature).
-- **Timeline thesis:** weather was on track to be understood as EM until the 20th c., when **control** (+ other suppressed tech) became valuable and official models **stripped EM from macro circulation** — interpretive, tiered.
-- **Energy / flow / pressure:** without EM, the energy budget looks underdetermined/absurd; flow/pressure/vacuum differentials are the alleged **control surface**.
-- **Operational contradiction:** week-ahead forecast/program plans vs “can’t control / barely predict”; fine-point pressure/vacuum nudges; hurricanes steered by modulating vortex pressure at center — label speculation vs documented.
-- **Flat Earth dialectic:** FE debunks use Coriolis/three-cell/hurricane rotation; FE often has no reply. Real question: if FE doesn’t fit **and** mainstream EM-free story doesn’t fit energy/control facts, what alternate **does**? Position **EM / æther-macro** as that **third path** — **not** defending Flat Earth.
+| Theme | Section |
+|-------|---------|
+| Historical EM citations + pedagogy silo | **§6** |
+| Timeline thesis + control-value waypoints | **§7** |
+| EM reunification synthesis | **§8** |
+| Energy / pressure control surface + Lorenz vs GEC budget | **§9** |
+| Forecast skill vs “can’t control” rhetoric | **§10** |
+| FE dialectic → third path | **§11** |
+| Weather-mod program floor | **§12** |
+| Trade-winds etymology + mariner routes | **§3.5** |
 
 ### 5.3 What they mean (unpack)
 
@@ -168,7 +296,7 @@ Textbooks typically chain:
 |-------------|------------------|----------|
 | **Benjamin Franklin et al.** | Lightning electrical; fair-weather field discovered same era | APS / HGSS above |
 | **C.T.R. Wilson** | Global electrical circuit linking storms and fair weather | Global-circuit cites above |
-| **Nikola Tesla (1908)** | “I am convinced that weather conditions are of electrical origin, and so must be susceptible of electrical control”; electrical control of weather “will soon be an accomplished fact” | [Tesla Universe — Electrical Control of the Weather (1908 interview reprint)](https://teslauniverse.com/nikola-tesla/articles/electrical-control-weather-will-soon-be-accomplished-fact) |
+| **Nikola Tesla (1908)** | “I am convinced that weather conditions are of electrical origin, and so must be susceptible of electrical control”; electrical control of weather “will soon be an accomplished fact” | **Masthead:** *St. Louis Republic*, **1908-11-15** — [Tesla Collection catalog + page scan](https://www.teslacollection.com/tesla_articles/1908/st_louis_republic/nikola_tesla/electrical_control_of_the_weather_will_soon_be_an_accomplished_fact) ([S3 page image](https://teslacollection.s3.amazonaws.com/Volume%2018/Volume%2018%20Page%20128.jpg)); readable reprint: [Tesla Universe](https://teslauniverse.com/nikola-tesla/articles/electrical-control-weather-will-soon-be-accomplished-fact) |
 | **Tesla / Wardenclyffe context** | Earth–atmosphere as conductive media for wireless power / communication (engineering program, not a completed weather-control plant) | [Wardenclyffe Tower](https://en.wikipedia.org/wiki/Wardenclyffe_Tower); [Tesla Science Center — Tower history](https://teslasciencecenter.org/history/tower/) |
 | **Thunderbolts / Electric Universe (adjacent)** | Broad EM/plasma primacy for planets and weather | [Lightning in the Wind](https://www.thunderbolts.info/wp/2014/05/22/lightning-in-the-wind/); [in-repo Thunderbolts index](/cosmos/cosmology/saturnian/index-thunderbolts.md) |
 
@@ -184,25 +312,20 @@ Textbooks typically chain:
 
 This is a **pattern thesis**. Adjacent Documented waypoints below; **causal monopoly of MIC over textbooks** remains **Speculative** until curriculum/funding receipts.
 
-### 7.2 Sourced waypoints (mixed tiers)
+### 7.2 Control-value waypoints (circulation history → **§6**)
 
 | Year / era | Event | Tier | Notes |
 |------------|-------|------|-------|
-| 1735 | George Hadley proposes thermally driven circulation (trades) | **Documented** | Coriolis incomplete in original ([Britannica](https://www.britannica.com/science/Hadley-cell)) |
-| 1752+ | Lightning = electricity; fair-weather electrification found | **Documented** | APS / HGSS |
-| 1856 / 1860s | Ferrel mid-latitude cell; multi-cell reconciliation of pressure belts | **Documented** | [NOAA JetStream](https://www.noaa.gov/jetstream/global/global-atmospheric-circulations); Hadley wiki history |
-| 1860s–1900s | Maxwell EM; æther-era engineering; later æther taboo in pedagogy | **Documented + Author read** | [`science/maxwell_aether/`](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md); [burden of proof — secrecy after open overturn](/science/maxwell_aether/01-burden-of-proof-debate.md) |
-| 1908 | Tesla: weather of electrical origin → electrical control | **Documented claim** | Tesla Universe reprint |
-| ~1920 | Wilson global atmospheric electric circuit | **Documented** | Still EM — but **not** substituted for three-cell textbook spine |
-| Early 20th c. | Three-cell model widely accepted in meteorological community | **Documented** | Hadley wiki / NOAA teaching lineage |
-| Mid-20th c. | Radiosondes confirm meridional overturning aloft | **Documented** | Strengthens fluid/thermal cell observations |
-| 1946– | Project Cirrus / organized cloud seeding; military–industry partnership | **Documented** | [Weather modification investigation](/science/geoengineering/weather-modification-investigation.md) |
-| 1962–1983 | Project Stormfury (hurricane seeding research) | **Documented** | NOAA acknowledges program; says unsuccessful ([NOAA fact-check](https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims)) |
-| 1967–1972 | Operation Popeye (classified monsoon seeding) | **Documented** | Weather-mod dossier |
-| 1977 | ENMOD Convention — bans hostile environmental modification | **Documented** | Treaty exists *because* capability was taken seriously |
-| 1987 | Eastlund US4686605 — alter region of atmosphere / ionosphere / magnetosphere | **Documented patent** | [Google Patents US4686605](https://patents.google.com/patent/US4686605) |
-| 1993– | HAARP construction / operation (DoD → later UAF) | **Documented facility** | Public line: ionosphere research; **not** admitted tropospheric weather steering ([NOAA fact-check](https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims)) |
-| 1996 | USAF *Weather as a Force Multiplier: Owning the Weather in 2025* | **Documented doctrine paper** | Weather dominance as force multiplier (compiled in weather-mod dossier) |
+| 1735–early 20th c. | Hadley → Ferrel → three-cell acceptance; EM parallel track (Franklin, Wilson GEC) | **Documented** | Phenomenology **§3**; EM history **§6** |
+| 1908 | Tesla: weather of electrical origin → electrical control | **Documented claim** | *St. Louis Republic* 1908-11-15 ([Tesla Collection](https://www.teslacollection.com/tesla_articles/1908/st_louis_republic/nikola_tesla/electrical_control_of_the_weather_will_soon_be_an_accomplished_fact)) |
+| Mid-20th c. | Radiosondes confirm meridional overturning aloft | **Documented** | Strengthens fluid/thermal observations — does not close EM ontology dispute |
+| 1946– | Project Cirrus / organized cloud seeding | **Documented** | [Weather modification investigation](/science/geoengineering/weather-modification-investigation.md) |
+| 1962–1983 | Project Stormfury | **Documented** | NOAA: unsuccessful — **§12**, **§13.3** |
+| 1967–1972 | Operation Popeye | **Documented** | Weather-mod dossier |
+| 1977 | ENMOD Convention | **Documented** | Treaty exists *because* capability was taken seriously |
+| 1987 | Eastlund US4686605 | **Documented patent** | [Google Patents US4686605](https://patents.google.com/patent/US4686605) |
+| 1993– | HAARP | **Documented facility** | Public line: ionosphere research — **§12**, **§13.3** |
+| 1996 | USAF *Owning the Weather in 2025* | **Documented doctrine paper** | Weather-mod dossier |
 
 ### 7.3 What the timeline does **not** prove
 
@@ -248,16 +371,27 @@ This is a **pattern thesis**. Adjacent Documented waypoints below; **causal mono
 
 Without reunifying **EM** into the causal story, the **energy budget and flow** of the atmosphere look **underdetermined / absurd** as a closed thermo-only machine: enormous latent-heat and radiative fluxes are discussed in “heat” language while the **charge, conductivity, and field** structure of the same air (GEC, thunderstorm generators, ionospheric conductivity) is taught as a **side subject**. Understanding **flow**, **pressure**, and **vacuum (pressure) differentials** is then the practical **control surface** for steering weather — nudge the differential, steer the mass.
 
-### 9.2 Tier split
+### 9.2 Documented energy budgets (honest split)
+
+| Budget | What literature says | Scale (order of magnitude) | Tier |
+|--------|----------------------|----------------------------|------|
+| **Radiative / heat engine (Lorenz cycle)** | Solar differential heating → available potential energy → kinetic energy → frictional dissipation | Incoming solar ~238 W m⁻²; global kinetic dissipation typically **~2–3 W m⁻²** ([Pan et al. 2017 *Nat. Commun.*](https://doi.org/10.1038/ncomms14367); [Li et al. 2007 GRL](https://ps.phys.uh.edu/Publications/Li_GRL_2007.pdf); [Kim & Kim 2013](https://doi.org/10.1007/s00382-012-1358-4)); classic frame: [Lorenz 1955](https://doi.org/10.1111/j.2153-3490.1955.tb01148.x) | **Documented** |
+| **DC global electric circuit** | Thunderstorms / electrified clouds as generators; ~250 kV ionosphere–Earth; fair-weather return ~1–2 pA m⁻² | Total circuit power often cited ~**10⁹ W** (~1 GW — one large power plant) ([textbook-scale summary](https://www.sciencedirect.com/topics/physics-and-astronomy/atmospheric-electricity); GEC reviews §6.2) | **Documented** |
+| **Comparison** | GEC electrical power ≪ thermo/kinetic generation & dissipation of the general circulation | Many orders of magnitude | **Documented Limit** against naive “GEC current *drives* Hadley cells” |
+
+**Read carefully:** Ontology (solar input and intermolecular forces are **EM**) ≠ “the Wilson circuit’s ampere-scale current supplies the kinetic energy of the trades.” Mainstream can keep a **closed thermo/fluid energy cycle** *and* a **real but energetically small** GEC. Author reunification must not smuggle a power-budget error. Live mainstream *bridges* that keep EM relevant without replacing the Lorenz cycle are **cloud-microphysics / Jz** pathways (Tinsley; §13), not Hadley-as-battery.
+
+### 9.3 Tier split
 
 | Claim | Tier |
 |-------|------|
-| Atmosphere has enormous radiative and latent-heat energy fluxes | **Documented** (standard meteorology) |
+| Atmosphere has enormous radiative and latent-heat energy fluxes | **Documented** (Lorenz cycle / reanalyses) |
 | Atmosphere also has measurable electric fields, conductivity, and a global circuit | **Documented** (§6) |
+| GEC electrical power is tiny vs kinetic dissipation of the general circulation | **Documented** (§9.2) |
 | Pressure gradients drive winds in the textbook equations | **Documented** |
-| Therefore EM **must** be the macro cause of three-cell structure | **Author** |
+| Therefore EM **must** be the macro cause of three-cell structure | **Author** (ontology / naming — **not** via GEC power budget) |
 | Fine control of pressure/vacuum differentials is how operators steer storms | **Author / Speculative** (operational claim) |
-| Public “heat-only” storytelling **understates** EM degrees of freedom relevant to control | **Author** (compatible with siloed GEC research existing) |
+| Public “heat-only” storytelling **understates** EM degrees of freedom relevant to control | **Author** (compatible with siloed GEC research existing; Tinsley-class effects are *small* but non-zero in that literature) |
 
 Cross-link: weather-mod dossier’s **dual mechanism** thesis (ionospheric heating + particulate conductivity) and Eastlund patent language — [weather modification](/science/geoengineering/weather-modification-investigation.md).
 
@@ -267,9 +401,9 @@ Cross-link: weather-mod dossier’s **dual mechanism** thesis (ionospheric heati
 
 ### 10.1 Documented public positions
 
-- **NOAA (2024 fact-check):** “No technology exists that can create, destroy, modify, strengthen or steer hurricanes”; Stormfury “not successful”; HAARP “not capable of influencing local weather at Earth’s surface”; cloud seeding practiced by others and **reported** to NOAA under Weather Modification Reporting Act, but NOAA says it does not run seeding ([NOAA fact-check](https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims)).
-- **Documented programs that *did* attempt modification:** Cirrus, Stormfury, Popeye, state/private seeding, ENMOD, USAF *Owning the Weather in 2025* — see [weather modification investigation](/science/geoengineering/weather-modification-investigation.md).
-- **Operational meteorology** routinely issues **multi-day** forecasts and watches/warnings; skill is imperfect but **not** “coin-flip next Tuesday.”
+NOAA’s 2024 fact-check denies hurricane create/destroy/steer capability, calls Stormfury unsuccessful, and says HAARP cannot influence surface weather — while acknowledging others’ cloud seeding and reporting requirements ([NOAA fact-check](https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims)). **Documented modification history** (Cirrus, Stormfury, Popeye, seeding, ENMOD, doctrine papers, HAARP) → **§12**; **energy / pressure control-surface framing** → **§9**.
+
+Operational meteorology routinely issues **multi-day** forecasts; skill is imperfect but **not** “coin-flip next Tuesday.”
 
 ### 10.2 Author / Speculative operational read
 
@@ -311,26 +445,68 @@ Entry 3 already separates **mechanism dispute** from **shape**. This section is 
 
 ## 12. Documented weather modification floor (evidence-tiered)
 
-Full timeline and analysis: [weather-modification-investigation.md](/science/geoengineering/weather-modification-investigation.md). Short floor for this dossier:
+Full timeline and analysis: [weather-modification-investigation.md](/science/geoengineering/weather-modification-investigation.md). This section states only the **floor** needed for the control-interest thesis — not a second copy of that dossier.
 
-| Item | Tier |
-|------|------|
-| Project Cirrus / organized seeding (1946+) | **Documented** |
-| Project Stormfury (1962–1983) | **Documented**; NOAA: unsuccessful hurricane intensity mod |
-| Operation Popeye | **Documented** classified weather warfare |
-| ENMOD 1977 | **Documented** treaty |
-| Cloud seeding (civilian/state) + NOAA reporting requirement | **Documented** ([NOAA fact-check](https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims)) |
-| USAF *Owning the Weather in 2025* (1996) | **Documented** doctrine paper |
-| HAARP / global ionospheric heaters | **Documented facilities**; **public** weather-steering capability **denied** by NOAA/UAF line |
-| Eastlund US4686605 | **Documented patent**; link to HAARP **contested** |
-| Dual seeding+heater tropospheric control as operational today | **Author / Probable** in weather-mod dossier — not upgraded here |
-| Textbook Hadley chapters rewritten to hide EM | **Speculative** |
+| Item | Tier | Pointer |
+|------|------|---------|
+| Cirrus, Stormfury, Popeye, ENMOD, civilian seeding, USAF *Owning the Weather*, HAARP, Eastlund patent | **Documented** | Weather-mod dossier; pushback verdicts **§13.3** |
+| Dual seeding+heater tropospheric control as operational today | **Author / Probable** | Weather-mod dossier — **not upgraded here** |
+| Textbook Hadley chapters rewritten to hide EM | **Speculative** | Claim 8; **§7** |
 
-Related: [tornado-power station](/science/geoengineering/tornado-power-station-investigation.md); [Atkinson GA radiation weapon](/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md); Havana / directed energy [havana-syndrome-investigation.md](/science/havana_syndrome/havana-syndrome-investigation.md).
+Related: [tornado-power station](/science/geoengineering/tornado-power-station-investigation.md); [Atkinson GA radiation weapon](/science/geoengineering/investigations/atkinson-georgia-radiation-weapon-investigation.md); [havana-syndrome](/science/havana_syndrome/havana-syndrome-investigation.md).
 
 ---
 
-## 13. Author’s open claims (registry)
+## 13. Literature corroboration — what supports vs what pushes back
+
+*Research pass 2026-08-23. Durable URLs in §18. Do **not** invent corroboration for Author claims.*
+
+### 13.1 Strongly supported by mainstream / historical literature
+
+| Topic | What the literature supports | Key cites |
+|-------|------------------------------|-----------|
+| Three-cell as teaching model + early-20th-c. acceptance | Surface belts → Ferrel multi-cell; widely accepted before balloon confirmation of aloft overturning | [Atmospheres 2021](https://doi.org/10.3390/atmos12111439); NOAA JetStream; Britannica Hadley |
+| Rotating-annulus / Coriolis-parameter lab analogue | Hide-class differentially heated rotating fluids: axisymmetric Hadley-like → baroclinic waves as rotation increases | [Hide 1958](https://doi.org/10.1098/rsta.1958.0004); [CU ATOC demo](https://atoc.colorado.edu/TeachingandLearning/Demonstrations/RotatingAnnulus/Rotating_annulus.htm); [Atmospheres 2023 lab review](https://doi.org/10.3390/atmos14050836) |
+| Atmospheric electricity tradition | Lightning electrical (1752+); fair-weather field; continuous instrument tradition | APS 1752; [HGSS 2025](https://hgss.copernicus.org/articles/16/51/2025/); Harrison / Cambridge fair-weather thesis |
+| Wilson GEC | Thunderstorms / electrified clouds as generators; ~250 kV; fair-weather return current; Carnegie curve | [Atmospheres 2025 DC GEC](https://doi.org/10.3390/atmos16030348); [Rycroft & Harrison SSR preprint](https://centaur.reading.ac.uk/24952/1/Rycroft%26Harrison_ElectromagneticPlasmaCoupling_SSR_preprint.pdf); [Siingh et al. 2007 overview](https://doi.org/10.1016/j.atmosres.2006.05.005) |
+| Thermo energy budget of circulation | Lorenz cycle: differential heating → APE → KE → dissipation (~2–3 W m⁻² kinetic dissipation vs ~238 W m⁻² solar) | [Lorenz 1955](https://doi.org/10.1111/j.2153-3490.1955.tb01148.x); [Pan et al. 2017](https://doi.org/10.1038/ncomms14367); [Li et al. 2007](https://ps.phys.uh.edu/Publications/Li_GRL_2007.pdf) |
+| Thermal radiation is EM | Solar shortwave / terrestrial IR are electromagnetic | Standard physics (supports Claim 3 ontology, not cell-structure monopoly) |
+| Tesla 1908 electrical-weather claim | Public interview: weather “of electrical origin” → electrical control | *St. Louis Republic* 1908-11-15 — [Tesla Collection](https://www.teslacollection.com/tesla_articles/1908/st_louis_republic/nikola_tesla/electrical_control_of_the_weather_will_soon_be_an_accomplished_fact) |
+| Weather-mod floor | Cirrus, Stormfury, Popeye, ENMOD, seeding programs, USAF doctrine paper, HAARP facility | Weather-mod dossier + §12 cites |
+| Stormfury outcome (official science) | Not operationally successful; too little supercooled water; natural eyewall replacement mimics seeding signal | [Willoughby et al. 1985 BAMS](https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml); AOML / TCFAQ C4 |
+| Trade-winds etymology | **Trade wind** ← obsolete **trade** = track/tread/steady course (**to blow trade**); 18th-c. commerce link = folk etymology; mariner bidirectional routes = trades + westerlies documented | OED; [Etymonline](https://www.etymonline.com/word/trade); [1911 Britannica](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trade_Winds); §3.5 |
+| EM coupling exists (limited scales) | GEC ↔ ionosphere/magnetosphere; EHD turbulence in charged dust/storm environments; boundary-layer electricity LES | [Rycroft & Harrison](https://centaur.reading.ac.uk/24952/1/Rycroft%26Harrison_ElectromagneticPlasmaCoupling_SSR_preprint.pdf); [PR Fluids 2019 EHD](https://doi.org/10.1103/PhysRevFluids.4.123701); [Nat. Commun. dust-storm EHD](https://doi.org/10.1038/s41467-023-36041-x) |
+| GEC → cloud microphysics (second-order) | Jz variations → aerosol scavenging / cloud opacity / small weather–climate signals (Tinsley program) | [Tinsley 2008 Rep. Prog. Phys.](https://doi.org/10.1088/0034-4885/71/6/066801); Harrison GEC–climate |
+
+### 13.2 Partial / adjacent (supports silo observation or control *interest*, not Hadley EM monopoly)
+
+| Topic | Finding | Tier note |
+|-------|---------|-----------|
+| Pedagogy silo | Intro circulation = thermo + Coriolis + fluid; atmospheric electricity = separate specialty with active journals | **Documented pattern**; MIC *motive* still **Author** |
+| Cloud seeding efficacy | Operational programs exist; effect sizes often 0–20% and hard to prove vs variability; SNOWIE shows physical signal in specific orographic cases | **Documented contested** ([GAO-25-107328](https://www.gao.gov/products/gao-25-107328); [PNAS SNOWIE](https://doi.org/10.1073/pnas.1917206117)) |
+| TC intensity sensitivity | Adjoint / convection studies: intensity sensitive to moisture/temperature perturbations; small convective events can alter intensification pathways | **Documented predictability science** — **not** proof of operational center-pressure *steering* ([Doyle et al. 2012](https://doi.org/10.1175/jas-d-12-0110.1); butterfly/RI literature) |
+| Thunderbolts / EU weather | Electrical primacy for storms / “electric wind” rhetoric; **no** located primary deriving Hadley–Ferrel–Polar **surface zonal polarity** | **Adjacent** ([Lightning in the Wind](https://www.thunderbolts.info/wp/2014/05/22/lightning-in-the-wind/); [Solar Supreme](https://www.thunderbolts.info/wp/2016/12/07/solar-supreme/)) — Claim 7 **not** closed |
+
+### 13.3 Where literature pushes back / weakens the control narrative
+
+| Pushback | Implication for this dossier |
+|----------|------------------------------|
+| **GEC electrical power ≪ Lorenz kinetic budget** (~GW-scale circuit vs PW-scale kinetic generation/dissipation) | Blocks naive “Wilson current *drives* three-cell overturning.” Author EM reunification must stay **ontological / radiative / microphysical**, not ampere-budget Hadley |
+| **Hide / GCM / tank rotation diagnostics** reorganize belts with Coriolis parameter | Predictive success of rotating-frame fluid models; EM/æther alternative must match or explain (§8.3) |
+| **Stormfury “failure” is microphysical + statistical**, not only a cover story in the open literature | Author may still read incomplete method / classified fork — keep **open**; do not cite Stormfury existence as present steering proof |
+| **HAARP public physics line:** HF not absorbed in troposphere/stratosphere | Direct tropospheric weather steering via HAARP **denied** by UAF/NOAA/DTIC energy comparisons; dual-mechanism Author thesis stays in weather-mod dossier, **not upgraded here** |
+| **Seeding ≠ hurricane steering** | Civilian precip enhancement debates do not validate Claim 11 |
+| **No curriculum/MIC memo found** linking Hadley TOC rewrite to weather-weapon secrecy | Claim 8 remains **Speculative** |
+
+### 13.4 Net for evidence tiers
+
+- **Upgrade / harden (Documented):** Tesla masthead; Hide annulus; Lorenz vs GEC energy honesty; Stormfury/HAARP/seeding floor cites; GEC peer-review spine; three-cell historiography DOI.
+- **Do not upgrade:** EM causal monopoly for cell *structure*; MIC pedagogy capture; operational hurricane pressure-nudge steering; EU zonal polarity primary.
+- **Best live mainstream bridge (still not Author monopoly):** Tinsley-class **Jz → cloud microphysics → small dynamics** — second-order electrical effects on weather/climate, consistent with siloed GEC research mattering without replacing Hadley pedagogy.
+
+---
+
+## 14. Author’s open claims (registry)
 
 | # | Claim | Tier |
 |---|--------|------|
@@ -346,40 +522,45 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 | 10 | Public “can’t steer” rhetoric tensions with modification history, doctrine papers, and forecast operations | **Author** (tension); capability ceiling **open** |
 | 11 | Hurricane steering via center pressure/vacuum modulation | **Author / Speculative** |
 | 12 | EM / æther-macro is the **third path** vs FE vs EM-free monopoly — not FE defense | **Author** framing |
+| 13 | **Trade winds** name encodes **bidirectional** three-cell sailing (trade = back-and-forth exchange), not steady-track etymology | **Author / Interpretive** — **weak vs OED/Etymonline**; **partial** support via documented two-belt navigation (§3.5) |
 
 ---
 
-## 14. Questions to clarify, verify, or debunk
+## 15. Questions to clarify, verify, or debunk (open)
 
-| # | Question | Why it matters |
-|---|----------|----------------|
-| Q1 | Pin EU / Thunderbolts primary for Hadley–Ferrel–Polar **surface zonal** EM polarity | Claim 7 literature |
-| Q2 | Rotating annulus / tank cite beyond MIT Hadley sketch | Documented pedagogy |
-| Q3 | Quantitative EM latitudinal model vs GCM rotation-rate diagnostic | Distinguisher |
-| Q4 | Spin-through-solar-field vs inertial Coriolis — different predictions? | Prevent re-labeling |
-| Q5 | Curriculum standards / contractor pedagogy linking force-separated three-cell teaching to weather-weapon secrecy? | Claim 8 |
-| Q6 | Ontology-only vs equation-level change if thermal=EM reunified? | Scope |
-| Q7 | Primary sources on mid-20th-c. meteorology textbook TOC evolution (when EM left intro circulation chapters) | Pedagogy timeline |
-| Q8 | Declassified or open papers on pressure-perturbation sensitivity of tropical cyclones (any agency) | Claim 11 falsifiers |
-| Q9 | Tesla 1908 interview: locate original newspaper masthead beyond Tesla Universe reprint | Citation hardening |
-| Q10 | Does GEC amplitude/modulation correlate with Hadley metrics in published climate–electricity papers? | Bridge test ([Harrison GEC–climate](https://centaur.reading.ac.uk/16407/1/theglobalatmosphericelectrical.pdf)) |
+| # | Question | Status after 2026-08-23 pass | Why it still matters |
+|---|----------|------------------------------|----------------------|
+| Q1 | Pin EU / Thunderbolts primary for Hadley–Ferrel–Polar **surface zonal** EM polarity | **Open** — adjacent electrical-weather posts found; **no** zonal-polarity primary | Claim 7 literature |
+| Q2 | Rotating annulus / tank cite beyond MIT Hadley sketch | **Closed** — Hide 1958 + CU/MIT demos in §3 / §13 | — |
+| Q3 | Quantitative EM latitudinal model vs GCM rotation-rate diagnostic | **Open** | Distinguisher |
+| Q4 | Spin-through-solar-field vs inertial Coriolis — different predictions? | **Open** | Prevent re-labeling |
+| Q5 | Curriculum standards / contractor pedagogy linking force-separated three-cell teaching to weather-weapon secrecy? | **Open** — no smoking-gun memo in this pass | Claim 8 |
+| Q6 | Ontology-only vs equation-level change if thermal=EM reunified? | **Open** (scope judgment) | Scope |
+| Q7 | Primary sources on mid-20th-c. meteorology textbook TOC evolution (when EM left intro circulation chapters) | **Open** — historiography of *cells* improved; TOC archaeology not done | Pedagogy timeline |
+| Q8 | Declassified or open papers on pressure-perturbation sensitivity of tropical cyclones | **Partially closed** — adjoint/RI sensitivity literature exists (intensity/predictability); **not** operational steering receipts | Claim 11 falsifiers / soft support |
+| Q9 | Tesla 1908 interview: original newspaper masthead | **Closed** — *St. Louis Republic* 1908-11-15 via Tesla Collection scan | — |
+| Q10 | Does GEC amplitude/modulation correlate with Hadley metrics? | **Partially closed** — Tinsley/Harrison: GEC↔cloud/climate *second-order*; **not** Hadley-as-GEC identity | Bridge test |
+| Q11 | Any pre-1800 primary using **trade wind** to mean the **full** trades+westerlies system (not tropical easterlies alone)? | **Open** — Dampier distinguishes general/coasting/shifting trades; **anti-trades** separate in 1911 Britannica | Claim 13 / §3.5 |
 
 ---
 
-## 15. Weak points / remaining research TODOs
+## 16. Weak points / remaining research TODOs
 
-- [ ] Pin EU primary for zonal EM causation (Q1).
+- [x] Trade-winds etymology + mariner-route section (§3.5; claim 13).
+- [ ] Pin EU primary for zonal EM causation (Q1) — or explicitly retire if none exists.
 - [ ] Textbook TOC archaeology 1900–1960 (Q7).
-- [ ] Harden Tesla 1908 primary masthead (Q9).
-- [ ] One rotating-tank / annulus paper cite (Q2).
+- [x] Harden Tesla 1908 primary masthead (Q9) — *St. Louis Republic* / Tesla Collection.
+- [x] One rotating-tank / annulus paper cite (Q2) — Hide 1958.
 - [ ] EM latitudinal vs GCM rotation diagnostics sketch (Q3–Q4).
-- [ ] Author tone pass: §7 MIC timeline, §10 hurricane nudge, §11 FE dialectic.
+- [x] Literature corroboration section + energy-budget honesty (§9.2, §13).
+- [x] Stormfury / seeding / HAARP durable cites (§12).
+- [x] Header image: `three-cell-motion-em-aether-investigation.png`.
 - [x] Hub wire: root `page.md`, Entry 3, weather-mod, AU-051, deep-dive.
 - [x] Bidirectional Maxwell lane Related rows (`01`, `02`); tornado Related.
 
 ---
 
-## 16. Related investigations
+## 17. Related investigations
 
 | Topic | Path |
 |-------|------|
@@ -396,7 +577,7 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 
 ---
 
-## 17. Key external citation bank (quick list)
+## 18. Key external citation bank (quick list)
 
 | Theme | URL |
 |-------|-----|
@@ -404,17 +585,34 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 | NOAA weather-mod fact-check | https://www.noaa.gov/news/fact-check-debunking-weather-modification-claims |
 | Met Office circulation | https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns |
 | LibreTexts three-cell | https://geo.libretexts.org/Bookshelves/Meteorology_and_Climate_Science/Atmospheric_Processes_and_Phenomena/10%3A_General_Circulation/10.04%3A_Three-Cell_Model |
+| Three-cell historiography | https://doi.org/10.3390/atmos12111439 |
+| OED trade wind etymology | https://www.oed.com/dictionary/trade-wind_n |
+| Etymonline trade / trade wind | https://www.etymonline.com/word/trade |
+| 1911 Britannica Trade Winds | https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trade_Winds |
+| NOAA trade winds fact sheet | https://oceanservice.noaa.gov/facts/tradewinds.html |
+| Hadley 1735 trade-winds paper | https://doi.org/10.1098/rstl.1735.0014 |
+| Dampier discourse of trade-winds (OTA) | https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K104887.000/K104887.000.html |
+| Winds in the Age of Sail / volta do mar | https://en.wikipedia.org/wiki/Winds_in_the_Age_of_Sail |
+| Hide rotating annulus 1958 | https://doi.org/10.1098/rsta.1958.0004 |
 | APS Franklin/lightning 1752 | https://www.aps.org/apsnews/2000/05/electricity-from-lightning-1752 |
 | HGSS atmospheric electricity history | https://hgss.copernicus.org/articles/16/51/2025/ |
-| Global circuit (overview) | https://en.wikipedia.org/wiki/Global_atmospheric_electrical_circuit |
+| DC GEC review 2025 | https://doi.org/10.3390/atmos16030348 |
+| Rycroft & Harrison GEC coupling PDF | https://centaur.reading.ac.uk/24952/1/Rycroft%26Harrison_ElectromagneticPlasmaCoupling_SSR_preprint.pdf |
 | Harrison GEC & climate PDF | https://centaur.reading.ac.uk/16407/1/theglobalatmosphericelectrical.pdf |
-| Tesla 1908 weather control | https://teslauniverse.com/nikola-tesla/articles/electrical-control-weather-will-soon-be-accomplished-fact |
+| Tinsley GEC & cloud microphysics | https://doi.org/10.1088/0034-4885/71/6/066801 |
+| Lorenz cycle / KE dissipation | https://doi.org/10.1038/ncomms14367 |
+| Stormfury chronicle (BAMS 1985) | https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml |
+| GAO cloud seeding 2024 | https://www.gao.gov/products/gao-25-107328 |
+| UAF HAARP FAQ | https://haarp.gi.alaska.edu/faq |
+| Tesla 1908 (*St. Louis Republic*) | https://www.teslacollection.com/tesla_articles/1908/st_louis_republic/nikola_tesla/electrical_control_of_the_weather_will_soon_be_an_accomplished_fact |
+| Tesla Universe reprint | https://teslauniverse.com/nikola-tesla/articles/electrical-control-weather-will-soon-be-accomplished-fact |
 | Eastlund patent | https://patents.google.com/patent/US4686605 |
 | Thunderbolts weather/electrical | https://www.thunderbolts.info/wp/2014/05/22/lightning-in-the-wind/ |
+| EHD atmospheric turbulence | https://doi.org/10.1103/PhysRevFluids.4.123701 |
 
 ---
 
-Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCirculation #ZonalWinds #Coriolis #Electromagnetism #AtmosphericElectricity #Aether #Maxwell #Tesla #ElectricUniverse #UnifiedField #ThermalRadiation #WeatherBelts #WeatherModification #HAARP #GlobalElectricCircuit #FlatEarth #Geoengineering #ParadigmThreatFiles
+Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCirculation #ZonalWinds #TradeWinds #Coriolis #Electromagnetism #AtmosphericElectricity #Aether #Maxwell #Tesla #ElectricUniverse #UnifiedField #ThermalRadiation #WeatherBelts #WeatherModification #HAARP #GlobalElectricCircuit #FlatEarth #Geoengineering #ParadigmThreatFiles
 
 *Last updated: 2026-08-23*
 
@@ -423,9 +621,10 @@ Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCircul
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Author thesis sections (§5, §7–§11, claims 5–12)** are **first-class** for why this dossier exists; they are **not** automatically factual.
-- **Documented** = agency/textbook phenomenology; atmospheric-electricity history; Wilson GEC; Tesla 1908 public claim; weather-mod programs; ENMOD; HAARP-as-facility; NOAA public denials.
-- **Author / Speculative** = EM causal monopoly for three-cell *structure*; MIC-ordered pedagogy capture; pressure-nudge hurricane steering; control-surface ontology.
-- Siloed GEC research **existing** does **not** prove intro textbooks were rewritten by MIC; HAARP/ENMOD do **not** prove Hadley cells are a lie.
+- **Documented** = agency/textbook phenomenology; atmospheric-electricity history; Wilson GEC; Tesla 1908 public claim (*St. Louis Republic*); Lorenz energy cycle; Hide annulus; weather-mod programs; ENMOD; HAARP-as-facility; NOAA/UAF public denials; Stormfury evaluation literature.
+- **Author / Speculative** = EM causal monopoly for three-cell *structure*; MIC-ordered pedagogy capture; pressure-nudge hurricane steering; control-surface ontology as *operational* claim.
+- **Energy Limit (§9.2 / §13.3):** GEC electrical power is **tiny** vs thermo/kinetic budgets — do not equate GEC with Hadley drive.
+- Siloed GEC research **existing** (including Tinsley-class second-order effects) does **not** prove intro textbooks were rewritten by MIC; HAARP/ENMOD do **not** prove Hadley cells are a lie.
 - Rejecting Coriolis-as-cause monopoly ≠ “Coriolis math is fake” ≠ Flat Earth.
 - FE dialectic (§11) **rejects** FE geometry; third path is EM/æther-macro.
 - Cross-links are thematic, not identity proofs.
@@ -433,8 +632,9 @@ Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCircul
 
 ## Investigator notes
 
-- Companion prior lock: `cosmos/flat_earth/flat-earth-qa-debunks.md` Entry 3. This file is the **canonical expansion** (thermal reunification, history, timeline, energy/control, FE third path).
+- Companion prior lock: `cosmos/flat_earth/flat-earth-qa-debunks.md` Entry 3. This file is the **canonical expansion** (thermal reunification, history, timeline, energy/control, FE third path, **§3.5 trade-winds etymology**).
+- Header asset (same directory): `three-cell-motion-em-aether-investigation.png`.
 - Eastern stamp: `2026-08-23` (`TZ=America/New_York`).
-- Tesla 1908: prefer locating original newspaper when possible; Tesla Universe is a durable reprint, not ideal archival primary.
-- NOAA 2024 fact-check is a **primary for public position**, not a closed physics proof of non-capability.
+- Tesla 1908: Tesla Collection catalogs *St. Louis Republic* 1908-11-15 + page scan; Tesla Universe remains readable reprint.
+- NOAA 2024 fact-check / UAF HAARP FAQ are **primaries for public position**, not closed physics proofs of non-capability.
 - Autogen after Keywords / hub edits.
