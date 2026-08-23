@@ -298,6 +298,8 @@ Full Hollywood taxonomy pointer: [Thread R](/influence/hollywood/investigations/
 - Eastlund Patent US4686605: [Google Patents](https://patents.google.com/patent/US4686605)
 - Operation Popeye Senate hearings: *Prohibiting Military Weather Modification*, 93rd Congress (1974)
 
+**Related (natural circulation ontology):** [Three-Cell Motion — textbook vs EM / æther](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) — Hadley / Ferrel / Polar teaching model vs unified-field reunification; MIC bias room for pedagogy (hypothesis, not receipt).
+
 ---
 
 

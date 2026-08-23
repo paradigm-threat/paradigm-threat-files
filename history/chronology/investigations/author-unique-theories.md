@@ -3,7 +3,7 @@
 > **TL;DR:** Central index of **Paradigm Threat / author** claims that are **not** standard Fomenko, Illig, Velikovsky, etc., and for which **no close prior-art match** has been found in mainstream or NC literature after repo search. Each entry links to its **canonical dossier** or timeline event. **Prior art: none** means **no external author stating the same package** — adjacent ideas may exist; see per-file Limits.
 
 **Status:** Living registry (add rows when a new author-unique thread ships).  
-**Last updated:** 2026-08-20 (**AU-050** JFK survival tabloid CO; prior **AU-049** British royalty; **AU-048** Gandhi)
+**Last updated:** 2026-08-23 (**AU-051** three-cell EM / æther; prior **AU-050** JFK survival tabloid CO; **AU-049** British royalty)
 **Lexical redaction cross-ref hub:** [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master table for all **word-redaction** dossiers (**AU-027** meta-thesis).
 
 ---
@@ -47,6 +47,7 @@ Per-investigation **§ Author open claims** blocks remain the **detail** registr
 |----|----------------|-----------|-----------------|
 | **AU-010** | **Incorrectly scaled universe** — curved-light **aether** paths → systematic **over-scale** + mirror duplication; one-force gravity read | **partial** (EU, Dowdye, Arp adjacent; **bundle** author) | [Incorrectly scaled universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) |
 | **AU-034** | **Cosmic life cycle** — eternal universe; Bang/Melt/Rip = **solar-system** birth→brown-dwarf capture→Golden Age→Dark Ages→rip→repeat (not cosmos-from-nothing); ≈4077 joining is a lifecycle chapter | **partial** (Gap Theory, EU pieces; **full cycle package** author / timeline) | [Cosmic Life Cycle](/timeline/evt-cosmic-life-cycle); [Chronology § Cosmic Life Cycle](/history/chronology/page.md); site claim **`cosmic-life-cycle`** |
+| **AU-051** | **Three-cell motion reunified** — Hadley / Ferrel / Polar patterns real; textbook force-separated causal monopoly rejected; thermal drive already EM; historical atmospheric-electricity track (Franklin→Wilson GEC→Tesla electrical-weather claims) siloed from intro circulation pedagogy; gravity/inertia as macro-EM / æther; zonal belts EM (Entry 3); energy/flow/pressure as control surface; forecast vs “can’t control” tension; FE dialectic → **third path** (not FE); MIC pedagogy-bias **room** | **partial** (textbook cells + GEC + weather-mod Documented; EU weather-electrical adjacent; **reunification + timeline + FE-third-path package** author) | [Three-Cell Motion dossier](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md); [FE Q&A Entry 3](/cosmos/flat_earth/flat-earth-qa-debunks.md#entry-3-zonal-winds--alternating-eastwest-weather-belts) |
 
 ## Influence / predictive programming (camp + containment)
 

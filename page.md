@@ -248,6 +248,7 @@ or *not* believing.
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) - Reader essay: aether / scalar bridge, womb and first life, Bardo phenomenology, reincarnation bands; links DNA + afterlife dossiers.
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) - Hope-forward reader essay: celebrity narrative, incurability chorus, terrain & indigenous lanes; links [GNM / cancer paradigm investigation](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).
 * [Tornado-Power Station Explosion](/science/geoengineering/tornado-power-station-investigation.md) - EM tornado suppression thesis and media silence.
+* [Three-Cell Motion — textbook vs EM / æther](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) - Hadley / Ferrel / Polar: documented teaching model vs EM/æther reunification; atmospheric-electricity history; weather-mod floor; FE dialectic → third path.
 * [Weather Modification](/science/geoengineering/weather-modification-investigation.md) - Cloud seeding through ionospheric heaters.
 * [Havana Syndrome](/science/havana_syndrome/havana-syndrome-investigation.md) - Directed energy and gaslighting of the public narrative.
 * [Viruses were never found in the lab - aetheric disease (reader essay)](/science/health/viruses-were-never-found-only-aetheric-disease.md) - Theory-led: fingerprint not pathogen; GoF passaging vs unproved genome engineering; political capture since eugenics; links full audit.

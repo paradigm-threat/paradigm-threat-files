@@ -116,6 +116,8 @@ But the institutions that inherited and extended this conclusion — the 20th-ce
 
 **This is not a conspiracy theory. It is an observation about epistemology under conditions of institutional secrecy.** The question is not whether the aether exists. The question is whether the public has been given sufficient evidence to evaluate the claim that it doesn't — and the honest answer is: not entirely.
 
+**Related (atmosphere / weather pedagogy):** the same secrecy-incentive pattern is applied carefully (hypothesis-tiered) to the sidelining of EM from macro three-cell circulation teaching — [Three-Cell Motion dossier](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md).
+
 ---
 
 ## Afterword: How This Debate Changed the AI's Position

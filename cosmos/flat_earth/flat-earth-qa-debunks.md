@@ -20,7 +20,7 @@
 | [2](#entry-2-density-gravity-electric-universe--my-truth-debates-friend-threads) | Density vs gravity, Electric Universe, Bible-vs-NASA, “my truth” | `friend-fe-debate-collage.png` |
 | [3](#entry-3-zonal-winds--alternating-eastwest-weather-belts) | Zonal winds / alternating east–west weather belts (Hadley–Ferrel–Polar) | — |
 
-Related: [Flat Earth investigation — history & misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md) · [CO / PSYOP angle](/cosmos/flat_earth/co.md) · [**Reader essay — The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) (friend debunk inspiration, Phoenix witness, dual ignorance) · [Thunderbolts / Electric Universe index](/cosmos/cosmology/saturnian/index-thunderbolts.md)
+Related: [Flat Earth investigation — history & misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md) · [CO / PSYOP angle](/cosmos/flat_earth/co.md) · [**Reader essay — The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) (friend debunk inspiration, Phoenix witness, dual ignorance) · [Thunderbolts / Electric Universe index](/cosmos/cosmology/saturnian/index-thunderbolts.md) · [**Three-Cell Motion dossier**](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) (Hadley / Ferrel / Polar + thermal=EM / æther framing; expands Entry 3)
 
 ---
 
@@ -271,6 +271,8 @@ Cross-link: Entry 1 already treats **Coriolis** as a **real named effect** in th
 - [ ] One classroom cite for **rotating annulus / tank** reproduction of zonal jets (Documented pedagogy).
 - [x] Author clarification locked in this entry: **pattern real**; reject textbook **Coriolis-as-cause** (spinning-ball / inertia); **EM** (Sun’s field + local; spin-through-field allowed as arguably the same); **not** “Coriolis math is fake.”
 - [ ] Still open: pin quantitative EM latitudinal field vs GCM rotation-rate diagnostics (see Analysis table).
+
+**Expanded dossier (2026-08-23):** Full three-cell package, atmospheric-electricity history, interpretive timeline, energy/flow/pressure control surface, operational contradiction, FE → third-path dialectic → [Three-Cell Motion — textbook vs EM / æther](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md).
 
 ---
 

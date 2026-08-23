@@ -148,6 +148,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: DNA as Fingerprint, Not Blueprint — Scalar / ZPE Medium, First Life, and Ontogeny](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md)
 - [Investigation: German New Medicine (LearningGNM) — cancer paradigm cluster, industry scale, scalar/Tennant contrasts](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md)
 - [Tornado–Power Station Explosion: Investigation into Electromagnetic Tornado Suppression and Media Cover-up](/science/geoengineering/tornado-power-station-investigation.md)
+- [Investigation: Three-Cell Motion — Textbook Circulation vs Electromagnetism / Æther Framing](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md)
 - [Investigation: Weather Modification — From Cloud Seeding to Ionospheric Heaters](/science/geoengineering/weather-modification-investigation.md)
 - [Investigation: Havana Syndrome — Gaslighting the Public on Directed Energy Weapons](/science/havana_syndrome/havana-syndrome-investigation.md)
 - [Investigation: David Straight's Chernobyl Probiotics Claims](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md)
@@ -202,8 +203,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 33 | Saturnian cosmology — published timelines vs PT | [saturnian-cosmology-published-timelines-investigation.md](/cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation.md) | §8–§9: Cardona volume BCE extract; INTCAL20 recompute; Tiki-Toki story CSV; Thunderbolts dated-timeline sweep; replacement clock if C-14 banned | Cook chron.php; Tiki-Toki 540208; Cardona God Star series |
 | 34 | Meltrix / Druzhinin — mudflood CO poison pills | [meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md) | Meltrix **brand** = hologram/FE/all-dates (melt cities **supported**); StolenHistory §6.4; Jon Levi not CO | meltology.org; @PhilippDr; Autodidactic hub embed |
 | 35 | British royalty as controlled scheme | [british-royalty-controlled-scheme-investigation.md](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) | Chron4 vassal pull-quotes; UK PM keep-word table; Sussex rumor-rule press inventory; optional wall chart. **Truss §11.2 locked as observable deep-state reference** | Fomenko *History: Fiction or Science?* Chronology 4; Bagehot *English Constitution*; BoE gilt notices Sep–Oct 2022 |
+| 36 | Three-Cell Motion — textbook vs EM / æther | [three-cell-motion-em-aether-investigation.md](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) | §14–§15: EU zonal primary; textbook TOC archaeology; Tesla 1908 masthead; rotating-tank cite; EM vs GCM diagnostics; MIC pedagogy receipts; hurricane pressure-nudge falsifiers | NOAA/Met Office/GEC/HAARP/Tesla cites in-file; Thunderbolts sweep |
 
-**Total in §1 table:** 35 investigations with explicit unfinished work. **Full corpus:** 103 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 36 investigations with explicit unfinished work. **Full corpus:** 103 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 
