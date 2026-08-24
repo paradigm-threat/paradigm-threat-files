@@ -74,6 +74,8 @@ This investigation does **not** dispute that those belts and cells are **useful 
 - Poleward Ferrel surface flow → **prevailing westerlies**.
 - Equatorward polar surface flow → **polar easterlies**.
 
+![Earth's three-cell atmospheric circulation — Hadley / Ferrel / Polar cells, trade winds, westerlies, and polar easterlies](three-cell-motion-diagram.png)
+
 **“Zonal”** means the **east–west** component. Adjacent cells reverse the surface north–south branch, so the deflected east–west preference flips with latitude.
 
 Standard intros (Documented pedagogy / agency pages):
@@ -609,7 +611,7 @@ Related: [tornado-power station](/science/geoengineering/tornado-power-station-i
 
 Keywords: #ThreeCellMotion #HadleyCell #FerrelCell #PolarCell #AtmosphericCirculation #ZonalWinds #TradeWinds #Coriolis #Electromagnetism #AtmosphericElectricity #Aether #Maxwell #Tesla #ElectricUniverse #UnifiedField #ThermalRadiation #WeatherBelts #WeatherModification #HAARP #GlobalElectricCircuit #FlatEarth #Geoengineering #ParadigmThreatFiles
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-08-24*
 
 ## Limits and disclaimers
 
