@@ -6,7 +6,7 @@
 
 ![Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines](stonehenge-portal-birkeland-current-investigation.png)
 
-**Date:** 2026-06-03 (updated 2026-06-04)  
+**Date:** 2026-06-03 (updated 2026-08-24)  
 **Status:** Open — author thesis with cross-reads to portal dossiers, relocation epistemics, and ground-node magnetism; not instrumented proof at Salisbury Plain.
 
 ---
@@ -182,6 +182,10 @@ Stonehenge’s **institutional packaging** is not neutral. Mainstream archaeolog
 | **Long-distance import** | Bluestones **~225 km** (Wales); Altar Stone **≥750 km** (Scotland); sarsens **~25 km** (West Woods) | **Tier A/B** | [Nature — Altar Stone (2024)](https://www.nature.com/articles/s41586-024-07652-1); [Science Advances — sarsens (2020)](https://www.science.org/doi/10.1126/sciadv.abc0133) |
 
 **What is *not* claimed:** The **entire henge** was **trucked to another county** in the 20th century. **What *is* claimed:** **Original geometry is unknowable** to a casual visitor; **crane-and-truck era** evidence is **concrete** (literally), while **Neolithic transport** is **reconstructed** — so **“faith in the crossing”** and **“faith in original positions”** stand or fall **together**.
+
+![Stonehenge concrete footings — viral “STONEHENGE HOAX” collage; rectangular footing under sarsen](stonehenge-portal-birkeland-current-investigation-concrete-footings.jpg)
+
+**Viral collage read:** Social posts frame the **rectangular base** under a sarsen as **“STONEHENGE HOAX” / “entire history is a lie.”** The close-up is **compatible with Tier A** **1901–1964** **concrete resets** ([Pitts / BBC Future](https://www.bbc.com/future/article/20241220-the-archaeological-mystery-of-stonehenges-long-lost-megaliths)) — **heritage engineering** made **visible**, then **mis-captioned** as proof the **whole monument is fake**. **Author stance:** the **footing** is evidence of **detuning / re-seating**, not of a **Hollywood set**; the **meme layer** still trains the **laugh** that blocks portal inquiry ([lay article — Relocation](../stonehenge-quantum-portal-golden-age-and-dark-ages.md)).
 
 ### 4.2 Proof asymmetry — cranes yes, ox-teams no
 

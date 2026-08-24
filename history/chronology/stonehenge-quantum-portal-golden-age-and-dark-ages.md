@@ -4,7 +4,7 @@ Golden Age spiral end-port, mandatory pyramids, relocation, CERN — and the lau
 
 The real nature of Stonehenge is not a calendar. It is a **quantum teleportation end-port** from an era when **massive amplitude** energy moved between the planets — safely, when the ground was shaped right, and catastrophically when it was not.
 
-Stonehenge quantum portal — Golden Age and Dark Ages (article lead)
+![Stonehenge quantum portal — Golden Age and Dark Ages (article lead)](https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.png)
 
 > **TL;DR:** During the **[Golden Age](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age)** (**4077–3147 BCE**) and the **[Dark Ages](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)** that followed, interplanetary **Birkeland-scale** energy was ordinary background — spawning life, carving terrain, and opening **natural quantum tunnels** at alignments. Humans **copied** sky-and-rock patterns (**spiral**, **twisted pair**, **helix**) into **raised stone**; **Stonehenge** was a **primitive** skyward spiral port that worked **only** in that amplitude window. By the Dark Ages’ end they **perfected** **pyramids** and **cathedrals** as **survival shells**. Today’s Salisbury layout is a **detuned relic** — possibly **relocated** in the **19th century**, **not** on a **ley crossing**, dated by **deep-time faith** we reject. **[CERN](https://paradigmthreat.net/science/cern_portal/page.md)** is the modern **buried** retry. **Spinal Tap** taught you to **giggle** at the word — because the lyric says **where the demons dwell**. Full tiers and citations: [investigation dossier](https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.md).
 
@@ -20,7 +20,7 @@ Those sky patterns did not stop at symbolism. In this project’s chronology the
 
 The energy was **not particularly dangerous** as ambient phenomenon. It became lethal when it **discharged through the wrong ground** — **flat**, **uneven**, or **unstructured** terrain that could not **channel** the burst. That observation, repeated across generations, is the seed of everything that comes later: **ports**, **pyramids**, **cathedrals**, **ley crossings**. You do not stand naked on a plain when the column forms; you stand in a **shape** that matches the sky.
 
-Spawning of the first life forms — Before Creation timeline
+![Spawning of the first life forms — Before Creation timeline](https://paradigmthreat.net/files/timeline/media/01.before-creation/spawning-first-life-forms.png)
 
 [Birkeland currents](https://paradigmthreat.net/history/chronology/history-qa/page.md) — helical pairs coursing through the collinear stack — are the physics vocabulary this collection uses for that sky grammar. Stonehenge enters the story **after** the pattern was already **written in rock** and **read in the air**.
 
@@ -38,7 +38,7 @@ From **4077 to 3147 BCE** the planets rode a **collinear battery** ([golden-age 
 
 **Author read:** Golden-Age observers did not need GPS. They **watched the cycle**, measured the **return**, and calculated **where the crossing would land next** — with enough precision to **quarry, raise, and phase-lock** a **single-helix** port **before** the window opened. That is why transit could be **scheduled**: **safe**, **predictable**, **repeatable** — not a panic scramble when the sky exploded. You knew **when** the node would **arrive**, **where** on the chalk it would **couple**, and — because the **far terminus** on the **source planet** also **recurred on the same clock** — you could know **where you were going to step out**. Stonehenge-class hardware is **timetable engineering**, not a **mystery circle** that might work if you guess the solstice.
 
-Northern Saturnian configuration — Mars, Venus, Saturn, Jupiter, Sun (Golden Age timeline)
+![Northern Saturnian configuration — Mars, Venus, Saturn, Jupiter, Sun (Golden Age timeline)](https://paradigmthreat.net/files/timeline/media/02.the-golden-age/saturnian_configuration_north.jpg)
 
 That is the class Stonehenge belongs to. Not the apex. The **primitive** early copy.
 
@@ -52,7 +52,7 @@ During the **[Golden Age](https://paradigmthreat.net/timeline/evt-4077-bce-the-g
 
 The **Prometheus** story belongs at the **other end** of the **[Dark Ages](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)** — leading up to the **6th century BCE**, the start of **[the Blip](https://paradigmthreat.net/timeline/evt-670-bce-the-blip)**: **end of the cataclysm age**. Over roughly **nine consecutive close encounters** with Mars (**806–687 BCE** band in the [chronology hub](https://paradigmthreat.net/history/chronology/page.md)), humanity learned what **lightning** really costs. The Earth's surface acted as **cathode**; Mars as **anode**; **planet-wide electric storms** made caves unreliable. Witnesses watched **lightning scars** stripe the inner shell of Mars **nine times** — flesh **torn and reknit** — and mapped the lesson onto **Prometheus punished for fire**. On **27 February 747 BCE**, Mars bumps the magnetosphere again; calendar keepers introduce **leap years**. By then **lightning had become so common an element of creation** that **shelter architecture was no longer optional**.
 
-Prometheus was the planet Mars — Dark Ages timeline
+![Prometheus was the planet Mars — Dark Ages timeline](https://paradigmthreat.net/files/timeline/media/03.the-dark-ages/prometheus.jpg)
 
 **Stonehenge was never in that survival class.** Nobody **had** to build it to **live**. It was an **optional** Golden-Age **port** — useful when amplitude was right, a **relic** once the collinear battery broke at **[3147 BCE](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)**. **Pyramids** and **cathedrals** **had** to be built — or the humans in those regions **did not survive** the **Prometheus-era** lightning. **Match the shape** or **pay** — that law was **written in blood** during the nine encounters, not during Stonehenge.
 
@@ -76,7 +76,7 @@ The **[Dark Ages](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages
 
 Between **2624 and 2427 BCE**, the **[pyramid wave](https://paradigmthreat.net/history/chronology/history-qa/page.md)** lands on **ley nodes** — **Artificial Bifröst**, **quantum tunnels** engineered when the collinear battery is gone. Pyramids are **not** tombs in this reading; they are **Faraday-like shells** at the **safest** EM focal points — **stores, personnel, continuity** inside volume that **channels** rather than **invites** raw discharge ([pyramid energy investigation](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md)). Regions that **built** them **lived**; regions that **did not** **did not**.
 
-Pyramids as functioning star gates during the Dark Ages — timeline chapter
+![Pyramids as functioning star gates during the Dark Ages — timeline chapter](https://paradigmthreat.net/files/timeline/media/03.the-dark-ages/history_pyramid_gates1.jpg)
 
 By the **Prometheus era** — **nine Mars encounters** ending **686 BCE**, the **Blip** opening in the **6th century BCE** — **Gothic cathedrals** and **minarets** enter the same **survival class**: hollow **spire** and **nave** routing current **around** inhabitants when **interplanetary lightning** makes the **open county** lethal ([chronology hub — cathedrals as sanctuary](https://paradigmthreat.net/history/chronology/page.md); [MudFlood / buried spire corpus](https://paradigmthreat.net/history/mudflood/page.md)). ***All cathedrals originally provided sanctuary from interplanetary lightning storms.*** Stonehenge, meanwhile, was already a **relic** — an **optional** first crude **port** from the age when the sky **spawned** more than it **struck**.
 
@@ -114,6 +114,10 @@ That does not make Stonehenge “young” in the Creationist sense. It makes it 
 
 Officially, **nobody relocated Stonehenge**. Unofficially, **half the uprights were moved** between **1901 and 1964** — straightened, **set in concrete**, re-erected to match **John Wood’s 1740 plan** ([BBC Future — Mike Pitts, 2024](https://www.bbc.com/future/article/20241220-the-archaeological-mystery-of-stonehenges-long-lost-megaliths)). That is **Tier A** engineering history in the age of **photographs and cranes**.
 
+![Stonehenge concrete footings — viral “STONEHENGE HOAX” collage; rectangular base under sarsen (investigation)](https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation-concrete-footings.jpg)
+
+Tourist memes call it a **“hoax.”** The close-up is real enough: a **flat rectangular footing** under weathered sarsen — **heritage concrete**, not Neolithic magic. The **laugh track** and the **engineering record** point at the same scar; only the **caption** disagrees.
+
 Prehistoric **ox-team** transport from Wales is **reconstructed** from **stoneholes** and **Bayesian** windows — **no pictures**. Institutions collapse every layer into **“moved sometime in the past”** so visitors never learn the **20th-century** pass **cemented the broken gate** as **authentic**.
 
 My read goes further: the **present Salisbury layout** may **not** occupy the **magnetic ley crossing** that made the port work. **Without the crossing, there is nothing to couple** — only a **heritage decoy** on **wrong coordinates**. Proof asymmetry favors whoever **last touched the stones with machinery**; disproof of **original position** is **underdetermined** by design.
@@ -124,7 +128,7 @@ My read goes further: the **present Salisbury layout** may **not** occupy the **
 
 After **comet**, **plague**, and **fire**, **[London 1666](https://paradigmthreat.net/timeline/evt-1666-ce-london-burns-to-the-ground-sept-2-6-1666)** was a population **ready to believe anything** authority printed — Cestui Que Vie, grid replanning, guild dissolution, the **financial-metropolitan** pivot ([Wells *Crystal Egg* / 1666 speculation](https://paradigmthreat.net/history/chronology/investigations/wells-crystal-egg-1666-beast-speculation.md)). **London became the greatest redaction shop** this world has run: **bias**, **deception**, **living lies** at scale.
 
-London burns to the ground, Sept 2–6, 1666 — 17th-century timeline
+![London burns to the ground, Sept 2–6, 1666 — 17th-century timeline](https://paradigmthreat.net/files/timeline/media/11.ce-17th-romanovs-rise-to-power/1666-ce-london-burns-to-the-ground.png)
 
 I do not think it absurd that a **multi-century plan** followed: **fabricate** a **safe prehistory** for Stonehenge (Druids, calendar, **4.5 Ga Earth**), then **execute physical relocation** when **industrial tooling** allowed — the same **late 18th / early 19th century** drive that **rebuilt the world** not **as it was**, but under a **monotheistic Protestant** vision where **God rules**, **usury thrives**, and **mass slavery, death, and genocide** are **providence**. Stonehenge challenges that frame because it asks **how** people without **our** machines shaped **hundred-ton** helices — and because a **working portal** implies a **young, catastrophic, electric Earth**.
 
@@ -193,7 +197,7 @@ Keywords: #Stonehenge #QuantumPortal #GoldenAge #DarkAges #Birkeland #LeyLines #
 
 **Substack:** [paradigmthreat2.substack.com/p/stonehenge-quantum-portal-of-the](https://paradigmthreat2.substack.com/p/stonehenge-quantum-portal-of-the) — **Title** and hook **Subtitle** live in Substack editor fields only; body paste starts at hero / `TL;DR`.
 
-**Last updated:** 2026-06-04
+**Last updated:** 2026-08-24
 
 ---
 
