@@ -137,7 +137,7 @@
 | `VID_20200624_110648.mp4` | **`Trash/`** | ~72 s, 350 MB; ~10:06 AM local |
 | `VID_20200624_110943.mp4` | **`Trash/`** | ~116 s, 543 MB; ~11:09 AM local |
 
-**Read:** Takeout JSON marks these videos **`trashed: true`** — consistent with **absence from live Google Photos** while copies survive in **Takeout `Trash/`**. Duplicates also under Katie backup mirror (`/media/ari/HD/Backup/GoogleDriveKatie/.../Photos from 2020/`). **NAS** (`nobiserv` GVFS) was **not mounted** during search; home `Pictures`/`Videos`/`Downloads` had **no** `20200624` matches.
+**Read:** Takeout JSON marks these videos **`trashed: true`** — consistent with **absence from live Google Photos** while copies survive in **Takeout `Trash/`**. **NAS** (`nobiserv` GVFS) was **not mounted** during search; home `Pictures`/`Videos`/`Downloads` had **no** `20200624` matches.
 
 ### Trash pattern — why videos missing from live library (2026-08-22 analysis)
 
@@ -148,7 +148,6 @@
 | **3 videos** in Ari Takeout **`Trash/`**; **4 stills** same day in **`Photos from 2020/`** (no `trashed` key) | **Selective video trash**, not full-day purge — still taken **15 s** after first video kept |
 | Ari Takeout **`Trash/`** = **56 items** (**55 videos**, 1 photo) across **2020–2024** capture dates | Gradual **video cleanup** pattern, not one bulk incident |
 | **13** June 2020 videos in Trash vs **28** June 2020 videos still in main library | June 2020 **overrepresented** in trash by **capture month**, not “all June gone” |
-| Katie Takeout (**Nov 10, 2025**) — **no `Trash/` album**; same **3 `VID_20200624_*`** in **`Photos from 2020/`** | Ari account trash state ≠ Katie mirror; supports **manual / account-side** trash, not cloud scrub proof |
 | Sidecars: `photoTakenTime` Jun 24; `creationTime` Jun **25** upload — **no** `trashedTimestamp` | **Cannot** date the delete event from this export |
 
 **Ranked read (metadata only):** (1) **Manual or selective trashing of large `.mp4`s** — strongest fit for sidecar facts; (2) **gradual storage cleanup** targeting video over years; (3) **Takeout snapshot** (Nov 2025) captured trash-as-exported. **Unlikely from metadata alone:** automated Jun 24 purge or back-end scrub — stills untouched, only 3 items from that day trashed.
@@ -166,7 +165,6 @@ Besides a few items the author **knows they trashed** (mostly mistaken phone vid
 | Sidecar facts above | **Documented (Takeout JSON)** | No trash timestamp; Takeout only snapshots trash-at-export |
 | Post-fire Google gap | **Author context (hypothesis tier)** | **Months without Google** after house fire (**date TBD**); plausible sync/trash gap — **not** exclusive of Takeout **`trashed: true`** |
 | Content-themed pattern on recall | **Author hypothesis** | Stronger than random storage cleanup; **not** proof of back-end scrub |
-| Katie mirror | **Documented (Takeout diff)** | **Nov 10, 2025** Katie export — **no `Trash/` album**; same **3 `VID_20200624_*`** in **`Photos from 2020/`** (not trashed). Ari account trash state ≠ Katie mirror — supports **manual / account-side** trash, not cloud scrub proof |
 
 **Next:** Frame-review remaining **`VID_20200624_*`** rolls (`102221`, `110943`) for McCarthy speech, pro-Q fights, and Flat Earth booth pan sequence. **`110648`** confirmed as Chansley pivot roll (see [§3C](#3c-jun-24-photo-evidence--frame-grabs)).
 
@@ -478,5 +476,5 @@ Keywords: #StopTheSteal #DanielMcCarthy #Phoenix #Arizona #ElectionFraud #JacobC
 
 - Companion reader essay: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) — Flat Earth + Chansley witness in narrative form.  
 - AZ Supreme Court opinion text: CV-21-0242-PR (Montgomery, J., filed 2023-04-14).  
-- HD Takeout search (**2026-08-22**): **`VID_20200624_*`** ×3 in Takeout **`Trash/`**; stills ×4 in **`Photos from 2020/`**; **`trashed: true`** in JSON. Trash pattern: selective video delete, 56-item Trash inventory, no trash timestamp in sidecars; Katie mirror lacks Trash album; **post-fire Google gap** added as plausible account gap (**fire date TBD**). Commit **`a7847b0c`** pushed gitlab/iad1.  
+- HD Takeout search (**2026-08-22**): **`VID_20200624_*`** ×3 in Takeout **`Trash/`**; stills ×4 in **`Photos from 2020/`**; **`trashed: true`** in JSON. Trash pattern: selective video delete, 56-item Trash inventory, no trash timestamp in sidecars; **post-fire Google gap** added as plausible account gap (**fire date TBD**). Commit **`a7847b0c`** pushed gitlab/iad1.  
 - User-provided context (**2026-08-22**): **Venue correction** — **Catholic Church / Flat Earth detailed confrontation** at **ASU** pre-march (~mid-June 2020) and **Capitol Nov 7**, **not** Jun 24 Scottsdale (billboard **sighting only** there). **Jun 24 Scottsdale Unmask Us**; McCarthy/Chansley/camera pivot; **six frame grabs** [§3C](#3c-jun-24-photo-evidence--frame-grabs) — **`VID_20200624_110648.mp4`** pivot + intervention roll **confirmed** (~20 s); shot order: speaker-at-mic → pan right → Chansley/McCarthy sign → pan right → Flat Earth PVC cube → lady-to-cameras beat → author **disrupts** Chansley shot (hero frame: **“Q sent me”** + author too close). Trash-pattern author read: selective loss + post-fire Google gap (**hypothesis**); author **does not recall** manually trashing Jun 24 rolls.
