@@ -268,7 +268,58 @@
       "911-good-actor-antibody",
       "dew-poison-well-911",
       "mythos-dump-and-cover",
+      "cruz-kevin-malone-pattern",
+      "co-evidence-methodology"
+    ]
+  },
+  {
+    "id": "co-evidence-methodology",
+    "title": "Controlled opposition — evidence standard (pattern, not payroll memo)",
+    "claim": "Paradigm Threat does not treat court-grade proof of witting state sponsorship as the routine bar for classifying a movement as controlled opposition. Direct conspiracy links (payroll memos, signed tasking orders) that would hold up in court are rarely found for movements that are nevertheless demonstrably CO by function—except historical exceptions such as post-war Nazi archives or COINTELPRO-scale declassification; recent DOJ/FBI disclosure waves may add cases but remain exceptional, not the default expectation. The site never primarily hunts direct conspiracy links. It works from patterns and overlapping influence: promotion tells, poison-pill adjacency, topic bans, broken chain of custody, who benefits, and available history/literature—deducing the best-fit read from realistic possibilities, labeled by tier (documented vs author thesis). Behavior + outcome classification, not a courtroom finding of agency payroll.",
+    "answerOpener": "This site does not expect a court memo proving QAnon—or Snowden, Assange, mudflood gatekeepers—was on a government payroll. CO here is pattern work: who gets promoted, what dead ends get planted beside real grievances, who benefits. Direct links are rare; overlapping influence and history are the method.",
+    "bullets": [
+      "Not the bar: signed agency tasking, payroll proof, conspiracy charges that would survive court on sponsorship alone.",
+      "Rare exceptions: COINTELPRO/Church-era domestic-intel files; post-war total-defeat archives; occasional modern DOJ/FBI release waves—not routine for every CO-labeled lane.",
+      "The method: patterns, overlapping influence, cui bono, promotion/blacklist asymmetry, poison pills, topic bans, witness adjacency—tier-labeled, falsifiable hooks where they exist.",
+      "Hub tell (00): highly media-promoted when true opposition is blacklisted; mudflood-gatekeepers: not a courtroom payroll finding."
+    ],
+    "confidence": "methodology",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Many analysts use CO loosely; site-distinctive is explicit rejection of memo-or-lose epistemology across dossiers (QAnon, Snowden, mudflood CO, Occupy hypothesis, Spurr/Meltrix behavior class).",
+    "topics": [
+      "controlled opposition",
+      "evidence",
+      "methodology",
+      "cointelpro",
+      "pattern",
+      "payroll",
+      "court",
+      "plausibility",
+      "who benefits"
+    ],
+    "searchQueries": [
+      "controlled opposition evidence pattern payroll court",
+      "CO methodology paradigm threat"
+    ],
+    "searchPrefixes": [
+      "influence/controlled_opposition/",
+      "docs/"
+    ],
+    "canonicalPaths": [
+      "influence/controlled_opposition/mudflood-gatekeepers.md",
+      "influence/controlled_opposition/00.md",
+      "influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md",
+      "docs/INVESTIGATIONS.md"
+    ],
+    "relatedClaimIds": [
+      "controlled-opposition",
       "cruz-kevin-malone-pattern"
+    ],
+    "doNotSay": [
+      "Paradigm Threat requires a declassified memo proving agency payroll before calling something controlled opposition.",
+      "The site treats every conspiracy channel as proven witting state operation.",
+      "Absence of court-grade sponsorship proof automatically means organic grassroots origin.",
+      "CO classification here is always a courtroom finding."
     ]
   },
   {
