@@ -298,6 +298,7 @@ On the **legitimacy / “who really won a fair contest”** axis, the political 
 | [Constitution amendments battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) | Sovereignty / federal–state election tension |
 | [ic911a CO fracture](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md) | Parallel **poisoned-hinge** CO method |
 | [Phoenix protest timeline — McCarthy / Chansley witness](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) | ASU + **Nov 7 2020** AZ Capitol poison-pill adjacency (Flat Earth, QAnon); McCarthy CO read; **not** ballot-level fraud proof |
+| [QAnon CO investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Pre-Q / Anonymous / merger grammar; protest poison-pill index |
 | [REDACTION.md](/docs/REDACTION.md) | **R6** shell / misdirection — killable public subset |
 | [Author-unique theories **AU-037**](/history/chronology/investigations/author-unique-theories.md) | Registry row for this package |
 
