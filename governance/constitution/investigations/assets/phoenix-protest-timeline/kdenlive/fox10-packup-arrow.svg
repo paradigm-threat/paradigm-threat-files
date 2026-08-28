@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="2160" height="3840" viewBox="0 0 2160 3840">
-  <!-- Edit: move the group so the arrow tip sits on the FOX 10 camera (left of frame at 1:06). -->
   <defs>
     <marker id="head" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
       <path d="M0,0 L12,6 L0,12 z" fill="#ff2828"/>
@@ -10,6 +9,6 @@
     <rect x="952" y="952" width="620" height="220" rx="24" fill="#000000cc" stroke="#ff2828" stroke-width="6"/>
     <text x="980" y="1036" font-family="DejaVu Sans, sans-serif" font-size="72" font-weight="bold" fill="#ffdc32">FOX 10</text>
     <text x="980" y="1116" font-family="DejaVu Sans, sans-serif" font-size="48" fill="#ffffff">packing up</text>
-    <line x1="1180" y1="1180" x2="430" y2="2320" stroke="#ff2828" stroke-width="28" marker-end="url(#head)"/>
+    <line x1="1180" y1="1180" x2="290" y2="2050" stroke="#ff2828" stroke-width="28" marker-end="url(#head)"/>
   </g>
 </svg>

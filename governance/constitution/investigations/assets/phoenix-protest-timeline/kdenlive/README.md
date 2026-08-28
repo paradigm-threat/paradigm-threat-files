@@ -8,19 +8,18 @@ Open **`chansley-fox10-packup.kdenlive`** in Kdenlive 23.08.
 |------|------|
 | `../VID_20200624_110648.mp4` | **Original** Takeout roll — do not overwrite |
 | `../VID_20200624_110648-captions.srt` | Captions on the **original** clock (no freeze) |
-| `VID_20200624_110648-captions-edited-timeline.srt` | Captions for **this** timeline (+10 s after 1:06) |
-| `frame-0106.jpg` | Still at **1:06** (FOX 10 turning away, left) |
+| `VID_20200624_110648-captions-edited-timeline.srt` | Captions for **pause edit** — auto-synced from project via `sync-edited-srt-from-kdenlive.py` |
+| `freeze-frame.png` | Annotated still used for the **1:08** freeze hold |
 | `fox10-packup-arrow.png` / `.svg` | Callout graphic — move/recolor in Kdenlive |
 
 ## Timeline (what to edit)
 
-1. **0:00–1:06** — original clip  
-2. **1:06–1:16** — freeze of that frame  
-   - **Transform (qtblend)** on the freeze: slow zoom toward the **left** (FOX 10)  
-   - **V2 overlay:** arrow PNG with the **same** Transform keyframes so the tip stays on the camera  
-3. **1:16–end** — original from 1:06 onward  
+1. **0:00–1:08** — original clip  
+2. **1:08–~1:18** — freeze of annotated still (`freeze-frame.png`)  
+   - **Transform (pan_zoom)** on the freeze: slow zoom toward FOX 10 / Chansley callouts  
+3. **~1:18–end** — original from 1:08 onward  
 
-Drag the arrow PNG if the tip is off the camera. Both Transform effects should match (start `0 0 2160 3840`, end about `0 -480 3024 5376` — left-locked ~1.4× zoom).
+After export: run **`finalize-render.sh`** — reads pause/freeze length from this project, rebuilds `VID_20200624_110648-captions-edited-timeline.srt`, burns subs into `../VID_20200624_110648-fox10-packup-pause.mp4`. Original roll keeps `../VID_20200624_110648-captions.srt`.
 
 ## Phone rotation
 
