@@ -79,6 +79,15 @@ New timeline article in chapter 14 (20th century):
 > Soul Science extends the paradigm-threat thesis into intellectual history—Reformation and materialism as conditions for the soul's dismissal, and Western containment of Russian literature via soul-as-fantasy. The British divide-and-conquer investigation provides a global recurrence table and argues the British Empire executed a playbook whose architect operated from elsewhere.
 
 ---
+
+## Image gallery — assets committed in this window (2026-03-12 → 2026-03-14)
+
+Raster files **first added** after **2026-03-12** through **2026-03-14** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Hairy Mary – Wild Woman iconography](https://paradigmthreat.net/influence/religion/hairy_mary/hairy-mary.png)
+
+![Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit](https://paradigmthreat.net/influence/religion/hairy_mary/hairy_mary.jpg)
+
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#war](https://paradigmthreat.net/search/war)
 
 ---

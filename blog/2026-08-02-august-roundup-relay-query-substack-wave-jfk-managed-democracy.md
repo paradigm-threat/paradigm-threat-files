@@ -73,8 +73,6 @@ This is the same thesis as [The Internet That Should Have Been](https://paradigm
 
 **2026-07-22 — Mudflood gatekeepers.** Substack: [Mudflood gatekeepers](https://paradigmthreat2.substack.com/p/mudflood-gatekeepers). Repo draft: [Mudflood gatekeepers](https://paradigmthreat.net/influence/controlled_opposition/mudflood-gatekeepers). Poison-pill camps; Spurr document stall; StolenHistory ban; CO as species hygiene. Meltrix / Druzhinin poison-pill dossier in mudflood investigations.
 
-![Mudflood gatekeepers](https://paradigmthreat.net/influence/controlled_opposition/mudflood-gatekeepers.png)
-
 **2026-07-25 — The Arrival Treated Us Like Adults.** Substack: [The Arrival](https://paradigmthreat2.substack.com/p/the-arrival-treated-us-like-adults). Repo draft: [The Arrival Treated Us Like Adults](https://paradigmthreat.net/influence/hollywood/the-arrival-treated-us-like-adults). **Installment IV** — *Arrival* (1996) geoengineering message vs *Signs* reset; Villeneuve title diffusion. Dossier: [Arrival 1996 investigation](https://paradigmthreat.net/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation).
 
 ![The Arrival Treated Us Like Adults](https://paradigmthreat.net/influence/hollywood/the-arrival-treated-us-like-adults.png)
@@ -208,6 +206,34 @@ After July’s Research MCP ship, the site’s next leap was **not another AI fe
 7. **Creator / cosmology:** [God Is a Woman!](https://paradigmthreat2.substack.com/p/god-is-a-woman) → [Circle of Life](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began) → [Saturnian timelines](https://paradigmthreat.net/cosmos/cosmology/investigations/saturnian-cosmology-published-timelines-investigation).
 
 ---
+
+## Image gallery — assets committed in this window (2026-07-09 → 2026-08-02)
+
+Raster files **first added** after **2026-07-09** through **2026-08-02** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![American burial mounds investigation — MFEE fossilization, Smithsonian erasure, mound substitute narrative](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.png)
+
+![Reddit — permanent ban banner, empty inbox (July 2026)](https://paradigmthreat.net/influence/censorship/reddit-perm-ban-empty-inbox-2026-07.png)
+
+![George, Horus, and Mars — the warrior name preserved through regional pronunciation drift](https://paradigmthreat.net/history/chronology/george-horus-mars.png)
+
+![Predictive-programming parallels — robot decoys, blood staging, and fake death](https://paradigmthreat.net/events/jfk/jfk-predictive-programming.png)
+
+![The Men Who Stare at Goats — RV satire / predictive programming investigation](https://paradigmthreat.net/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.jpg)
+
+![mudflood gatekeepers and poison pills](https://paradigmthreat.net/influence/controlled_opposition/mudflood-gatekeepers-and-poison-pills.png)
+
+![Viral Edison Research / Dominion fraud meme (July 21, 2026 packaging of 2020 claim)](https://paradigmthreat.net/governance/constitution/investigations/edison-dominion-2020-fraud-meme-2026-07-21.png)
+
+![“THIS IS AMERICA!” percentage graphic — session archive](https://paradigmthreat.net/governance/usury/communism/this-is-america-percentage-graphic-2026-07-24.png)
+
+![Amaruka / Khan Meru / Wall Street Ottoman wall — investigation study copy](https://paradigmthreat.net/history/chronology/investigations/amaruka-khan-meru-wall-street-ottoman-wall-investigation.png)
+
+![amaruka khan meru wall street ross post context](https://paradigmthreat.net/history/chronology/investigations/amaruka-khan-meru-wall-street-ross-post-context.png)
+
+![Richard Gage Substack — FDNY thread; author replies; 100-year comment ban](https://paradigmthreat.net/events/false_flag/investigations/richard-gage-substack-ban-fdny-thread-2026-08.png)
+
+![header](https://paradigmthreat.net/site/header.png)
 
 ## Publication notes
 

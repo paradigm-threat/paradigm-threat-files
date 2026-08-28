@@ -108,6 +108,23 @@ Article TTS now matches timeline overlay capabilities:
 > **Stolen credit is now the largest single investigation topic.** The corpus spans video game composers (Rare/Nintendo, Square, Capcom), classical music (Mendelssohn, Grofé, Mozart, Gershwin, Beethoven), and methodology (VGM preservation, 335 games without credits). The Yakuza investigation bridges governance, technology containment, and the Nintendo–Sony thesis.
 
 ---
+
+## Image gallery — assets committed in this window (2026-03-10 → 2026-03-11)
+
+Raster files **first added** after **2026-03-10** through **2026-03-11** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![15 minute cities](https://paradigmthreat.net/influence/conspiracy/15-minute-cities.png)
+
+![designated reservations](https://paradigmthreat.net/influence/conspiracy/designated-reservations.png)
+
+![Predictive Programming](https://paradigmthreat.net/influence/predictive_programming/predictive_programming.png)
+
+![public schools](https://paradigmthreat.net/influence/public-schools.jpg)
+
+![AI takeover in fiction](https://paradigmthreat.net/science/ai/ai-takeover.png)
+
+![Shrinking technology concept](https://paradigmthreat.net/science/microchips/shrinking-tech.png)
+
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#influence](https://paradigmthreat.net/search/influence) · [#stolen_credit](https://paradigmthreat.net/search/stolen_credit) · [#war](https://paradigmthreat.net/search/war)
 
 ---

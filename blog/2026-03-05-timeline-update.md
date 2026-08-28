@@ -14,8 +14,6 @@ Three major commits since the last update bring the project to **v1.2.12** with 
 
 **13.06.01** — New child article under *The Suppression of Maxwell and the Aether*. The same Rockefeller/Carnegie foundations that erased the aether from physics simultaneously restructured American medical education via the **Flexner Report (1910)** to exclude any framework acknowledging electrical energy in the body. All 13 homeopathic medical schools were closed. Physicians using electronic devices to treat patients were jailed. **Dr. Jerry Tennant** — a Harvard-trained ophthalmologist who did the foundational research for LASIK — serves as the key modern witness. Includes a table of suppressed bioelectric researchers (Becker, Nordenström, Pollack, Nakatani, Steinman/Leonora) and an author's note connecting bioelectric suppression to the master scalar-energy thesis.
 
-![Maxwell Was Right](https://paradigmthreat.net/media/13.ce-19th-rise-of-communism/maxwell-was-right.png)
-
 ### Weather Control (Ch14)
 
 **14.08.00** — From Nikola Tesla's 1905 patents through Project Cirrus, Project Stormfury, and Operation Popeye to modern HAARP and the 1976 ENMOD treaty — weather modification is not speculative. It is **treaty-regulated military technology**. Cross-references the Maxwell/aether suppression and the weather modification investigation.

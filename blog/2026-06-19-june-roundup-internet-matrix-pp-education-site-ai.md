@@ -30,8 +30,6 @@ The hardware arc in **§II** compresses the [Quantum Leap (of faith)](https://pa
 
 ![Not Like This — Matrix containment and the two-camp war for movies](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png)
 
-![9/11 predictive programming — media rehearsal before the public event](https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png)
-
 **2026-06-17 — Pacific PP.** Substack: [Everything Burns](https://paradigmthreat2.substack.com/p/everything-burns). Repo draft: [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns). **Installment II** — *Dark Knight* finance burn, *24* Day 2 triple bomb (corrected from erroneous Season 5 Sentox cite in draft pass), Hong Kong extraction, *Joker* 2019 reset. Author conclusion on whether the warnings **worked** as audience prep.
 
 ![Everything Burns — The Dark Knight, Hong Kong finance, and the Hollywood two-camp war (Pacific lane)](https://paradigmthreat.net/influence/hollywood/everything-burns.png)
@@ -41,8 +39,6 @@ The hardware arc in **§II** compresses the [Quantum Leap (of faith)](https://pa
 ![The Internet That Should Have Been — workshop vs TV channel, sealed hood vs open mesh](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png)
 
 **On-site only (no Substack yet):** [Responsibility to the Next Generation](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation) + [investigation](https://paradigmthreat.net/history/chronology/investigations/responsibility-to-the-next-generation-investigation) — education Installment II spun out of the internet essay §V expansion (2026-06-19). Series link from [When your child won't fit the grade](https://paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade) **Where next** updated.
-
-![When your child won't fit the grade — schooling, conformity, and parent advice (Installment I)](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.png)
 
 ---
 
@@ -56,8 +52,6 @@ The files repo carried the intellectual weight: computing flagship + master doss
 - [Internet investigation dossier](https://paradigmthreat.net/science/computing/investigations/internet-that-should-have-been-investigation) — **§9.6 Gates/DOS cliff**; **§10.1.1** Berners-Lee devastated quotes; **§10.2.1** *Starship Troopers* Federal Network; **§10.4** React/Hermes/WASM; **§10.5** opaque reach + layered reality; **§11.4** Terminator PP schedule; open claims registry through **#33**.
 - [WebMCP stub](https://paradigmthreat.net/science/computing/investigations/webmcp-suppressed-protocol-ai-gatekeeper-investigation) — Redirect to master dossier (content merged, not deleted).
 - [Quantum Leap (of faith)](https://paradigmthreat2.substack.com/p/quantum-leap-of-faith) — Hardware/display counterfactual companion cited throughout internet **§II**.
-
-![Quantum Leap (of faith) — vector, analog, Wintel, walled garden](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.png)
 
 ### Chronology — education Installment II
 
@@ -116,6 +110,18 @@ The site window is **reader-facing AI infrastructure** — controversial given t
 Reader-visible: paradigmthreat.net can now offer in-browser AI chat and a WebMCP reply lane while the flagship essay argues humans deserved **machine-readable intent without an AI gate**. Chat remains the operational compromise; the essays state the distrust explicitly.
 
 ---
+
+## Image gallery — assets committed in this window (2026-06-10 → 2026-06-19)
+
+Raster files **first added** after **2026-06-10** through **2026-06-19** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![CO forensic plate — Oklahoma Cherokee Moors caption marked MISCAPTION / honeypot](https://paradigmthreat.net/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.png)
+
+![*The Matrix* — “Not Like This” containment investigation (header)](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.png)
+
+![Pilot flat-earth spin meme](https://paradigmthreat.net/cosmos/flat_earth/pilot-earth-spin-meme.png)
+
+![china hollywood two camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/china-hollywood-two-camp-war-investigation.png)
 
 ## Reading order if you are catching up
 

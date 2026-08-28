@@ -93,3 +93,10 @@ These changes apply across the timeline reader and related UI (not separate stat
 
 Keywords: #2026 #Site #Update #Golden #Rollout #MFEE #Appendices #Tts #Polish
 
+## Image gallery — assets committed in this window (2026-03-20 → 2026-03-23)
+
+Raster files **first added** after **2026-03-20** through **2026-03-23** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Giants, infantry, guerrilla, Children's Crusade — etymology](https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.png)
+
+![Slave trades and Moor etymology](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.png)

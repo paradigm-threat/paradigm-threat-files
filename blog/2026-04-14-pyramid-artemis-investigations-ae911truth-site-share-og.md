@@ -48,6 +48,34 @@ Book and appendix chapters gained **investigation links** and **cites** (Michell
 
 The **Next** app gained a **files mirror proxy** (**`/files`** and **`/files/timeline`**) with shared upstream fetch, **Open Graph** handling for **root-absolute** image paths in markdown, and a **production smoke** script (**`npm run smoke:prod`**) that HEAD-checks JSON and **og:image** URLs. **Article** pages received **resume** visit persistence, **breadcrumbs**, **share** toolbar, and **ChangeLog** stable keys. **Sharing** expanded to a **Copy & Share** modal with per-platform character limits, **Truth Social** via official **share URL**, hashtag order (**Keywords** line before snippet), and fixes so **Truth Social** and **X** intents do not duplicate the canonical URL. **Navigation** added **I'm Feeling Lucky** (random article or timeline event). **MDX** now runs **remark-math** and **rehype-katex** so LaTeX renders in articles. **Catch-all article metadata** now feeds **`og:description`** (and **`meta description`**) from the same pipeline as the share snippet—**YAML `description`**, **`> TL;DR`** block, or **first real paragraph**—with truncation for link previews, improving **Facebook** and other **OG** consumers when front matter is absent.
 
+## Image gallery — assets committed in this window (2026-04-10 → 2026-04-14)
+
+Raster files **first added** after **2026-04-10** through **2026-04-14** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Dubious stand down orders — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.png)
+
+![Richard Gage / AE911Truth — investigation header graphic](https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png)
+
+![richard gage ae911truth controlled demolition investigation2](https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation2.png)
+
+![Richard Gage / AE911Truth — investigation graphic (charity envelope, open-air prison)](https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation3.png)
+
+![Fra Mauro, Sahara — Pre-Mudflood Maps investigation header](https://paradigmthreat.net/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.png)
+
+![Canceling the High Poppy — investigation header graphic](https://paradigmthreat.net/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.png)
+
+![Pyramid energy — Kerrell & Goggin (1977) investigation](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.png)
+
+![View Over Atlantis — John Michell investigation](https://paradigmthreat.net/history/chronology/investigations/view-over-atlantis-michell-investigation.png)
+
+![artemis ii faith test investigation](https://paradigmthreat.net/history/chronology/investigations/artemis-ii-faith-test-investigation.png)
+
+![Artemis II walkout — phone preview discrepancy (illustration)](https://paradigmthreat.net/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-illustration.png)
+
+![Artemis II walkout — phone preview vs suits (annotated viral still)](https://paradigmthreat.net/history/chronology/investigations/artemis-ii-walkout-phone-preview-discrepancy-screenshot.png)
+
+![The Pyramid — Les Brown investigation](https://paradigmthreat.net/history/chronology/investigations/the-pyramid-les-brown-investigation.png)
+
 ---
 
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology) · [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war) · [#events](https://paradigmthreat.net/search/events) · [#influence](https://paradigmthreat.net/search/influence) · [#science](https://paradigmthreat.net/search/science)

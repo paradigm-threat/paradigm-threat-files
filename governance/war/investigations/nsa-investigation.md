@@ -9,6 +9,8 @@
 
 **Companion:** [CIA investigation — antibody thesis](/governance/war/investigations/cia-investigation.md) § III; [good-actor investigation — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [1979 religious revival — holy-war geometry](/influence/religion/1979-religious-revival-investigation.md); [NSA-aligned presidencies — Nixon / Reagan / Trump](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md)
 
+**SIGINT spine (global history + repo crosswalk):** [SIGINT history investigation](/governance/war/investigations/sigint-history-investigation.md) — master chronology, Five Eyes, event deep dives, §6 corpus alignment; this file owns **U.S. antibody + *Tron*** detail only.
+
 ---
 
 ## I. Documented baseline — what NSA is
@@ -160,6 +162,7 @@ That line is the **investigation's thesis in miniature**: not a weapon for the *
 
 | Topic | Path |
 |-------|------|
+| **SIGINT global spine** | [sigint-history-investigation.md](/governance/war/investigations/sigint-history-investigation.md) |
 | Hanyok / Tonkin antibody act | [good-actor § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | CIA antibody frame | [cia-investigation § III](/governance/war/investigations/cia-investigation.md) |
 | 9/11 / WTC 7 | [09-11-investigation](/events/false_flag/investigations/09-11-investigation.md) |

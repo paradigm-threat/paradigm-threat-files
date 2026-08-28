@@ -84,6 +84,23 @@ The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/time
 ---
 
 ---
+
+## Image gallery — assets committed in this window (2026-02-22 → 2026-02-24)
+
+Raster files **first added** after **2026-02-22** through **2026-02-24** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![poisoned wells plague](https://paradigmthreat.net/governance/genocide/poisoned_wells_plague.jpg)
+
+![ai censorship](https://paradigmthreat.net/influence/censorship/ai_censorship.png)
+
+![kgb fear](https://paradigmthreat.net/influence/kgb_fear.jpg)
+
+![abracadabra](https://paradigmthreat.net/influence/religion/abracadabra.jpg)
+
+![baphomet](https://paradigmthreat.net/influence/religion/baphomet.png)
+
+![kkk jews](https://paradigmthreat.net/influence/religion/kkk_jews.png)
+
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history)
 
 ---

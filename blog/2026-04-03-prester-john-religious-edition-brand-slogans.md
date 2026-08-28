@@ -50,6 +50,16 @@
 
 *This entry follows the [blog index](https://paradigmthreat.net/blog/page) convention: filename date `**2026-04-03`** supplies `**_updated**` metadata at 12:00 UTC per site rules.*
 
+## Image gallery — assets committed in this window (2026-03-30 → 2026-04-03)
+
+Raster files **first added** after **2026-03-30** through **2026-04-03** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![global atlantean maritime empire](https://paradigmthreat.net/history/chronology/global-atlantean-maritime-empire.jpg)
+
+![Prester John, Presbyter Ioannes, Rus–Horde Christian East — illustration](https://paradigmthreat.net/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.png)
+
+![GitHub restriction context (continued)](https://paradigmthreat.net/influence/censorship/github-ban4.png)
+
 ---
 
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology) · [#book](https://paradigmthreat.net/search/book) · [#religion](https://paradigmthreat.net/search/religion) · [#influence](https://paradigmthreat.net/search/influence) · [#suppression](https://paradigmthreat.net/search/suppression)

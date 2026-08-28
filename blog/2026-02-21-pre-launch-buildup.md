@@ -26,6 +26,13 @@ The flat content structure with consistent numbering, root-relative media paths,
 ---
 
 ---
+
+## Image gallery — assets committed in this window (2026-01-31 → 2026-02-21)
+
+Raster files **first added** after **2026-01-31** through **2026-02-21** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![bible version](https://paradigmthreat.net/history/chronology/christ/bible_version.jpg)
+
 *Topics:* [#cosmos](https://paradigmthreat.net/search/cosmos) · [#events](https://paradigmthreat.net/search/events) · [#history](https://paradigmthreat.net/search/history)
 
 ---

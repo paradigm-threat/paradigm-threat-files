@@ -30,9 +30,13 @@ The through-line is **who gets to speak as tip**. Strange gives up the Time Ston
 
 ![It was the only way — Strange bets everything on Tony; party on Trump](https://paradigmthreat.net/governance/war/it-was-the-only-way.png)
 
+![Presidential alignment — NSA vs CIA: antibody cleanup vs covert war-state from Truman to Trump](https://paradigmthreat.net/governance/war/cia-nsa-align-president-comparison.png)
+
 **2026-08-09 — The Great Depression Was Planned.** [The Great Depression Was Planned](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned). Repo draft: [the-great-depression-was-planned](https://paradigmthreat.net/governance/war/the-great-depression-was-planned). Farm-pen method; Holodomor chronology bridge; Hormuz / LOTR Black Gate rhyme in Iran lane. Investigation: [AU-047 Great Depression planned genocide](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation). Scorecard art: [AU-046 wall chart](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046.png).
 
 ![The Great Depression Was Planned — Depression vs Holodomor information cages](https://paradigmthreat.net/governance/war/the-great-depression-was-planned.png)
+
+![Lord of the Rings parallel — Mouth of Sauron at Hormuz — Aug 2026 — peace priced as withdrawal](https://paradigmthreat.net/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png)
 
 ---
 
@@ -40,13 +44,23 @@ The through-line is **who gets to speak as tip**. Strange gives up the Time Ston
 
 ### Reader essays and AU cluster
 
-- [None of Them Survived](https://paradigmthreat2.substack.com/p/none-of-them-survived) — Indigenous erasure flagship; ChatGPT refused Red Cloud / war-tribe hero art ([screenshot](https://paradigmthreat.net/influence/censorship/chatgpt-red-cloud-war-tribe-hero-refusal-2026-08-03.png)).
+- [None of Them Survived](https://paradigmthreat2.substack.com/p/none-of-them-survived) — Indigenous erasure flagship; ChatGPT refused Red Cloud / war-tribe hero art.
+
+![ChatGPT refusal — Red Cloud war-tribe hero image, content policies (2026-08-03)](https://paradigmthreat.net/influence/censorship/chatgpt-red-cloud-war-tribe-hero-refusal-2026-08-03.png)
+
 - [It was the only way](https://paradigmthreat2.substack.com/p/it-was-the-only-way) — flagship presidential walkthrough; NSA vs CIA alignment graphic embedded; plainspoken de-LLM pass.
 - [The Great Depression Was Planned](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned) — AU-046 scorecard embedded; Vacuum camp retired; Contested/Open retired; Ike/JFK/Reagan locked Globalist, GWB Nationalist-failed mid-term, Reagan Globalist puppet; Stalin Holodomor agency + Mein Kampf cascade + Tolkien Rus–Horde bridge locked in companion prose.
 - [Here's Why Strong Bad Went Silent](https://paradigmthreat.net/influence/controlled_opposition/heres-why-strong-bad-went-silent) — not yet on Substack; landscape + portrait heroes; cadence CSV; Homestar CO cross-links tightened.
+
+![Here's Why Strong Bad Went Silent — cadence collapse, political shelf props, Obama-transition pivot](https://paradigmthreat.net/influence/controlled_opposition/heres-why-strong-bad-went-silent.png)
+
+![Strong Bad cadence collapse — portrait sibling hero](https://paradigmthreat.net/influence/controlled_opposition/heres-why-strong-bad-went-silent-portrait.png)
+
 - **Retired:** unpublished “Nationalists who failed” reader — rewired into AU-046; Vacuum wording dropped.
 
 ![AU-046 presidential alignment scorecard](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046.png)
+
+![AU-046 presidential alignment scorecard — portrait sibling](https://paradigmthreat.net/governance/war/presidential-alignment-scorecard-au046-portrait.png)
 
 ### Investigations / Kevin / Cruz
 
@@ -63,6 +77,8 @@ The through-line is **who gets to speak as tip**. Strange gives up the Time Ston
 ### Censorship archive
 
 - ChatGPT poster refusals: Red Cloud war-tribe hero (Aug 3); Depression/Holodomor split poster (Aug 7) — PNGs under `influence/censorship/`.
+
+![ChatGPT refusal / teens-and-children guardrail — Great Depression–Holodomor comparison poster (2026-08-07)](https://paradigmthreat.net/influence/censorship/chatgpt-great-depression-holodomor-poster-refusal-2026-08-07.png)
 
 ### Blog hygiene
 
@@ -98,6 +114,16 @@ No commits since August 3 in this window.
 2. **Depression / famine pens:** [The Great Depression Was Planned](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned) → [AU-047](https://paradigmthreat.net/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation) → [Holodomor–Holocaust memory](https://paradigmthreat.net/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation).
 3. **Native erasure / gold:** [None of Them Survived](https://paradigmthreat2.substack.com/p/none-of-them-survived) → [AU-044 in author-unique theories](https://paradigmthreat.net/history/chronology/investigations/author-unique-theories) → [Bilbo Mound](https://paradigmthreat2.substack.com/p/bilbo-mound-and-americas-buried-past).
 4. **CO / web pipe:** [Strong Bad silence](https://paradigmthreat.net/influence/controlled_opposition/heres-why-strong-bad-went-silent) → [Homestuck CO §5.1.1](https://paradigmthreat.net/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation) → [Alef](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet).
+
+---
+
+## Image gallery — assets committed in this window (2026-08-02 → 2026-08-09)
+
+Raster files **first added** after **2026-08-02** through **2026-08-09** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Delaware Moors — Lenape-associated Kent County Cheswold paper trail](https://paradigmthreat.net/history/chronology/investigations/delaware-moor-label-investigation.png)
+
+![Kevin cryptic catalogue — ranked by resonance (LLM poster, 2026-08-07)](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-cryptic-catalogue-ranked-by-resonance.png)
 
 ---
 

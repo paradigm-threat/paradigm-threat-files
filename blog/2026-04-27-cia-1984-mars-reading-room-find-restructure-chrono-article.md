@@ -39,6 +39,30 @@ The **catastrophic** failure mode is not that strangers believe odd things about
 - **MudFlood** article cross-read citing 1984 Mars remote viewing as MFEE phenomenology adjacency.
 - Contributor credits table; embedded primary quotes work; æther vocabulary rule note for mirrors.
 
+## Image gallery — assets committed in this window (2026-04-25 → 2026-04-27)
+
+Raster files **first added** after **2026-04-25** through **2026-04-27** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![arc of covenant](https://paradigmthreat.net/history/chronology/arc-of-covenant.jpg)
+
+![Paradigm Threat — working definition of antisemitism (illustrative header)](https://paradigmthreat.net/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.png)
+
+![Paradigm Threat — working definition of antisemitism (supplementary illustration)](https://paradigmthreat.net/history/chronology/investigations/paradigm-threat-working-definition-antisemitism2.png)
+
+![Trump assassination attempts, Kimmel / WHCD, ballroom — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.png)
+
+![CIA Reading Room — *Chrono Trigger* / Mars remote viewing predictive programming figure](https://paradigmthreat.net/influence/controlled_opposition/cia-reading-room-chrono-trigger-pp.png)
+
+![MARS EXPLORATION — coordinate journey (22 May 1984)](https://paradigmthreat.net/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-journey.png)
+
+![Mars Exploration 1984 — PDF digest companion figure](https://paradigmthreat.net/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-pdf-full-writeup.png)
+
+![Mars Exploration 1984 — RV investigation composite](https://paradigmthreat.net/influence/controlled_opposition/cia-reading-room-mars-exploration-1984-rv-investigation.png)
+
+![Legacy header export — pre-rename filename, same Iran / two-way thread](https://paradigmthreat.net/influence/controlled_opposition/cia-reading-room-mars-rv-two-way-influence-iran-revival-investigation.png)
+
+![CIA Reading Room — RV two-way, Iran / religious-revival investigation (header)](https://paradigmthreat.net/influence/controlled_opposition/cia-reading-room-rv-two-way-iran-revival-investigation.png)
+
 ---
 
 *Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#mars](https://paradigmthreat.net/search/mars) · [#chronotrigger](https://paradigmthreat.net/search/chronotrigger) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#chronology](https://paradigmthreat.net/search/chronology) · [#blog](https://paradigmthreat.net/search/blog)

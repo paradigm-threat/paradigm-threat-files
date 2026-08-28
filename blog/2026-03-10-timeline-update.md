@@ -77,8 +77,6 @@ Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](htt
 - **Mars Literature Author Profiles** (16.02.01) — Expanded profiles
 - **Mars Literature as Reclassified Nonfiction** (14.10.00) — Trimmed for content reduction
 
-![The Once and Future King — Saturn as Arthur](https://paradigmthreat.net/media/02.the-golden-age/golden_age_night_sky_full.png)
-
 ---
 
 ## Stats

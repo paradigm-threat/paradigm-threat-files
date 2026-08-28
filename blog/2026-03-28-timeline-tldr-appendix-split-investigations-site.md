@@ -117,6 +117,21 @@ These changes apply to the **timeline reader**, **landing**, and **index** UI:
 *Repository commits span **March 24–28, 2026**, across **paradigm-threat-timeline**, **paradigm-threat-files**, and **paradigm-threat-site**; this entry follows the [blog process](https://paradigmthreat.net/blog/page) of listing changes since the prior dated post.*
 
 ---
+
+## Image gallery — assets committed in this window (2026-03-23 → 2026-03-28)
+
+Raster files **first added** after **2026-03-23** through **2026-03-28** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![blood and flesh rain augsburg wunderzeichenbuch folio 81 1456](https://paradigmthreat.net/history/mudflood/blood-and-flesh-rain-augsburg-wunderzeichenbuch-folio-81-1456.png)
+
+![blood rain lycosthenes prodigiorum 1557 sheet p353 354](https://paradigmthreat.net/history/mudflood/blood-rain-lycosthenes-prodigiorum-1557-sheet-p353-354.png)
+
+![ehrenberg passat dust blood rain english snippet](https://paradigmthreat.net/history/mudflood/ehrenberg-passat-dust-blood-rain-english-snippet.png)
+
+![Paradigm Threat: The Third Story — timeline book illustration](https://paradigmthreat.net/book/paradigm-threat-the-third-story.png)
+
+![March 2026 rumor window — Yair Netanyahu X silence, shiva framing, and strike chatter (illustrative)](https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png)
+
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology) · [#war](https://paradigmthreat.net/search/war) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#science](https://paradigmthreat.net/search/science) · [#events](https://paradigmthreat.net/search/events)
 
 ---

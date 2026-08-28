@@ -28,19 +28,11 @@ The through-line is **who gets to read the primary layer** — whether the subje
 
 **2026-06-14 — Not Like This.** Substack: [Not Like This](https://paradigmthreat2.substack.com/p/not-like-this). Repo draft: [Not Like This](https://paradigmthreat.net/influence/controlled_opposition/not-like-this). **Installment I** of the blockbuster PP series: **two-camp interagency war** through Hollywood — *Matrix* (1999) as **NSA-side** wake-up (passport expiry **11 Sept 2001**, red pill, **RATM "Wake Up"** credits naming Tonkin-class lies and blame-Islam framing), then ***Reloaded* onward** as **contain** campaign (recasts, Oracle defanged, Maddox fracture, MxO shutdown, *Resurrections* nostalgia tombstone). Companion: [Matrix containment investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation).
 
-![Not Like This — Matrix containment and the two-camp war for movies](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.png)
-
 **2026-06-17 — Everything Burns.** Substack: [Everything Burns](https://paradigmthreat2.substack.com/p/everything-burns). Repo draft: [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns). **Installment II** — Pacific geography: ***The Dark Knight*** Lau extraction → GCPD witness → Joker burns banker on cash (*"everything burns"*); mainland skip as **critique** not invasion prep; ***24*** proxy terror and **Day 2** triple bomb; **2019** *Joker* undoes Ledger message. [Hollywood two-camp war investigation](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation).
-
-![Everything Burns — The Dark Knight, Hong Kong finance, and the Hollywood two-camp war (Pacific lane)](https://paradigmthreat.net/influence/hollywood/everything-burns.png)
 
 **2026-06-19 — The Internet That Should Have Been.** Substack: [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been). Repo draft: [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been). Machine-readable web should have shipped in the **1990s** for humans; **WebMCP + Chrome agent stack** (2026) open the hood for the **vendor's AI**, not the driver. *Starship Troopers* Federal Network as preview: newsreel plus navigation buttons, no civic utility. Merged [internet investigation](https://paradigmthreat.net/science/computing/investigations/internet-that-should-have-been-investigation) absorbs former WebMCP stub; [Google Don't Be Evil enclosure](https://paradigmthreat.net/science/computing/investigations/google-dont-be-evil-enclosure-investigation) covers Android verification and **Keep Android Open** CO read (§3.2).
 
-![The Internet That Should Have Been — machine-readable web, wrong timeline, AI gate](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png)
-
 **2026-06-23 — The Peace Deal Nobody Cares About.** Substack: [The Peace Deal Nobody Cares About](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about). Repo draft: [Islamabad peace deal — the war nobody cares about](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026). **Installment III** of the Iran 2026 series: **June 17 Islamabad MOU** — 14-point armistice, **60-day** treaty clock, Hormuz and sanctions sketch while **nukes stay technical**; **universal grumbling** as design signature of a hinge that burned the script instead of renewing it. Follows [Mission Accomplished (Again)](https://paradigmthreat2.substack.com/p/mission-accomplished-again-what-the); [Iran 2026 war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner) and [Islamabad investigation](https://paradigmthreat.net/governance/war/investigations/islamabad-peace-deal-investigation) hold chronology and DU blind-spot lane.
-
-![The Peace Deal Nobody Cares About — universal dissatisfaction, Islamabad MOU, and Strait of Hormuz](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.png)
 
 **2026-06-25 — Royal Rife.** Substack: [Royal Rife — what the letters say when the banquet only heard the microscope](https://paradigmthreat2.substack.com/p/royal-rife-what-the-letters-say-when). Repo draft: [Royal Rife frequency medicine suppression](https://paradigmthreat.net/science/health/royal-rife-frequency-medicine-suppression). Meme led to rife.org; **June 2026 OCR** recovered Johnson's **Santa Fe Hospital** install lines and USC committee **clinical work** planning while press sold typhoid optics. Science-fiction containment thesis: respectable shell on therapeutic lane, same class as [compromised court cases](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation) reclassifying contested narratives as fiction. Full tiers: [Rife suppression investigation](https://paradigmthreat.net/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation) §5.4 cancer-cure evidence inventory.
 
@@ -83,8 +75,6 @@ Iran 2026 series now spans three reader installments: [Mission Accomplished (Aga
 **Epstein** (four dossiers, no flagship article yet): [Island archipelago / blackmail geography](https://paradigmthreat.net/events/false_flag/investigations/epstein-island-archipelago-blackmail-investigation) — many Epstein-class sites (USVI, OT micro-jurisdictions, jets), Pitcairn **Operation Unique** read, NSA-forced-secrets pillar. [9/11 cross-links](https://paradigmthreat.net/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation) — Jan 2026 DOJ releases, Commission proximity (Kerrey, Zelikow, Giuliani, Lutnick). [Death escape / suspended animation](https://paradigmthreat.net/events/false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation) — MCC→hospital two-clock record; staged-exit thesis. [Online citations bank](https://paradigmthreat.net/events/false_flag/investigations/epstein-online-citations-research-bank) — research index. Roadmap: [Epstein flagship article plan](https://paradigmthreat.net/docs/sweep-plans/2026-06-24-epstein-flagship-article-plan).
 
 **Gage / AE911Truth / DEW:** [Richard Gage investigation](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth) expanded — project read that AE911Truth was **CO from the start**; **§4 Judy Wood/DEW** as extreme hangout that poisons the well (thermite-vs-DEW fracture; **project rejects DEW**); **no-planes bypass** documented as intentional movement strategy; 2026 Epstein cross-links. Substack investigation post: [Richard Gage / AE911Truth](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth). Updated [09-11 investigation](https://paradigmthreat.net/events/false_flag/investigations/09-11-investigation) and [IC911A CO investigation](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation).
-
-![Richard Gage / AE911Truth — controlled demolition lane and DEW hangout read](https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.png)
 
 ### Housekeeping
 
@@ -144,6 +134,16 @@ Full screenshot archive and limits: [Platform blocks — Instagram and Substack 
 ![Instagram — image post blocked, generic error modal (June 2026)](https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png)
 
 ---
+
+## Image gallery — assets committed in this window (2026-06-19 → 2026-06-27)
+
+Raster files **first added** after **2026-06-19** through **2026-06-27** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![islamabad peace deal the war nobody is covering 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-is-covering-2026.png)
+
+![substack edit page not found 2026 06](https://paradigmthreat.net/influence/censorship/substack-edit-page-not-found-2026-06.png)
+
+![The Mars Dagger — keeper cult leak, analog plates, and Carthage containment](https://paradigmthreat.net/cosmos/mars/mars-dagger.png)
 
 ## Publication notes
 

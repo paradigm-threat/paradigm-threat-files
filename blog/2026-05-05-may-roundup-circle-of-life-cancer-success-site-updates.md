@@ -43,6 +43,36 @@
 
 ---
 
+## Image gallery — assets committed in this window (2026-04-27 → 2026-05-05)
+
+Raster files **first added** after **2026-04-27** through **2026-05-05** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![How old is your house? — memory, geology, and the long argument (lead figure)](https://paradigmthreat.net/history/chronology/indigenous-creation-legends-and-geology.png)
+
+![Companion figure — islands, marks on stone, and the long argument over time](https://paradigmthreat.net/history/chronology/indigenous-creation-legends-and-geology2.png)
+
+![CIA 1984 Mars × *Chrono Trigger* — article hero figure](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png)
+
+![Indigenous legends vs. geologic deep-time — investigation figure](https://paradigmthreat.net/history/chronology/investigations/indigenous-legends-vs-geologic-dating-investigation.png)
+
+![What Are You Waiting For? — deferral, headlines, calm-by-waiting (article art)](https://paradigmthreat.net/influence/controlled_opposition/what-are-you-waiting-for.png)
+
+![What Are You Waiting For? — alternate article art](https://paradigmthreat.net/influence/controlled_opposition/what-are-you-waiting-for2.png)
+
+![German New Medicine (LearningGNM) — cancer paradigm cluster investigation header](https://paradigmthreat.net/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.png)
+
+![Return of the King (2003) frame: Frodo and Sam on the stairs — meme caption “No Sam, You’re the Cancer!” Same narrative trick: the sick voice accuses the loyal friend instead of the ring.](https://paradigmthreat.net/science/biology/the-cure-for-cancer-meme.png)
+
+![The Cure for Cancer — hope beyond the incurability chorus](https://paradigmthreat.net/science/biology/the-cure-for-cancer.png)
+
+![Success by any means necessary — companion graphic: three lanes, black box, leader keys, and the fork (info panel)](https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary-info.png)
+
+![Success — by any means necessary — paying audience, black-box pipeline, NDAs, and leader accountability](https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.png)
+
+![The Circle of Life and How It Began — creation memory, scalar field, womb echo (article art)](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.png)
+
+![DNA as fingerprint, not blueprint — scalar life investigation](https://paradigmthreat.net/science/biology/investigations/dna-fingerprint-scalar-life-investigation.png)
+
 ## Publication notes
 
 - Article workflow docs were updated to enforce a second-pass sweep for LLM-style phrasing artifacts and to require a subtitle line under article titles.

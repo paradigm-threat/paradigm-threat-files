@@ -74,7 +74,6 @@ The project's living knowledge base has been reorganized into a proper directory
 
 **13.06.00** — In 1865, James Clerk Maxwell published equations that power every electrical device on Earth. His original 20 quaternion equations explicitly required a luminiferous medium — the aether. After his death, Oliver Heaviside reduced them to 4 vector equations, stripping the aether terms. This article traces the suppression from Heaviside through the Michelson-Morley experiment to Einstein's relativity.
 
-
 ### 19th Century Weapons & the Declassification Thesis (Ch13)
 
 **13.05.00** — Were 19th century weapons more advanced than the textbooks admit? From Verne's Columbiad cannon to depleted uranium ammunition, this article examines the thesis that key military technologies were already deployed in the Napoleonic era and later "declassified" as new inventions.

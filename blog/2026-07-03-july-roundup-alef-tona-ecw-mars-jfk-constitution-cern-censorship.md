@@ -28,8 +28,6 @@ The through-line is **who controls propagation** — scam meshes that simulate c
 
 **2026-06-28 — The Mars Dagger — Joseph Smith's Household Hardware.** Substack: [The Mars Dagger](https://paradigmthreat2.substack.com/p/the-mars-dagger-joseph-smiths-household). Repo draft: [The Mars Dagger](https://paradigmthreat.net/cosmos/mars/mars-dagger). Keeper cult hardware in the Smith household — planetary Mars/Saturn protocol before Mormon scale triggered breakaway reaction. Palmyra plates as analog-memory leak; Carthage as containment beat, not full erasure. Companion: [mars-dagger investigation](https://paradigmthreat.net/cosmos/mars/investigations/mars-dagger-investigation).
 
-![The Mars Dagger — keeper cult leak, Barrett sigils, and Carthage containment](https://paradigmthreat.net/cosmos/mars/mars-dagger.png)
-
 **2026-06-30 — Exact-Change Wallet — Invention and Aftermath.** Substack: [Exact-Change Wallet](https://paradigmthreat2.substack.com/p/exact-change-wallet-invention-and). Repo draft: [Exact-Change Wallet — Invention and Aftermath](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-and-aftermath). Inventor containment §I before the sketch; closed coin inventory wallet with engineering spec, sim, and faceplate art. Kevin poker **Casino Night** penny→nickel PP read documented same window.
 
 ![Exact-Change Wallet — invention header and inventor containment casebook](https://paradigmthreat.net/science/computing/exact-change-wallet-invention.png)
@@ -83,8 +81,6 @@ The through-line is **who controls propagation** — scam meshes that simulate c
 - [Hidden History of Words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words) — Tartar western-relabel thesis folded into barbarian cluster (post–June 27 trim).
 - **Gastaldi 1548** pre-MFEE map evidence — Asia–America continuity anchor (files + timeline chapters).
 
-![Smith family Mars dagger — Seal of Mars on blade](https://paradigmthreat.net/cosmos/mars/mars-dagger-front.jpg)
-
 ### Events — JFK/RFK hoax dossier
 
 - [JFK & RFK staged assassination hoax investigation](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) — **790 lines**; Dallas motorcade audit §2.1; Tier-A PP catalog §2.3 (*Friday* generational disconnect §2.2); Warren magic bullet containment §2.4; pre-1963 precedents §1.1 (Business Plot Tier A); Nixon inverse exit §1.2; legal gaps §1.3 (health concealment, autopen, 25th).
@@ -137,6 +133,42 @@ The site repo shipped **reader infrastructure** and **operational fixes** in par
 6. **Chronology metrology:** [crucifixion nail investigation](https://paradigmthreat.net/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation) → [Hidden History of Words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words) → [877 CE Nicaea event](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated).
 
 ---
+
+## Image gallery — assets committed in this window (2026-06-27 → 2026-07-03)
+
+Raster files **first added** after **2026-06-27** through **2026-07-03** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![card slice edge](https://paradigmthreat.net/science/computing/ecw-design/card-slice-edge.png)
+
+![card slice top](https://paradigmthreat.net/science/computing/ecw-design/card-slice-top.png)
+
+![full wallet hybrid](https://paradigmthreat.net/science/computing/ecw-design/full-wallet-hybrid.png)
+
+![full wallet tray ui](https://paradigmthreat.net/science/computing/ecw-design/full-wallet-tray-ui.png)
+
+![Inventor containment — annotated casebook (McAfee, Swartz, Kildall, Murdock, Tucker, DeLorean)](https://paradigmthreat.net/science/computing/exact-change-wallet-inventor-containment.png)
+
+![2026 06 25 dm scheduling](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-25-dm-scheduling.png)
+
+![2026 06 25 donky kong schedule](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-25-donky-kong-schedule.png)
+
+![2026 06 27 comments crybaby](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-27-comments-crybaby.png)
+
+![2026 06 27 dm munchkin 1](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-1.png)
+
+![2026 06 27 dm munchkin 2](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-27-dm-munchkin-2.png)
+
+![2026 06 27 notifications munchkin spam](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-munchkin-spam.png)
+
+![2026 06 27 notifications spam](https://paradigmthreat.net/docs/debate-notes/norman-substack-thread-war/2026-06-27-notifications-spam.png)
+
+![U.S. Constitution and amendments by camp — nationalist vs globalist scorecard](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-by-camp.png)
+
+![Gastaldi 1548 Carta Marina — Asia and America drawn as one joined landmass (mudflood / MFEE map lane)](https://paradigmthreat.net/history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg)
+
+![Gastaldi 1548 Universale Novo — oval world map, America joined to Asia](https://paradigmthreat.net/history/mudflood/map_gastaldi_1548_universale_novo.jpg)
+
+![Out of This Door Might Come Something — CERN portal series Part A](https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png)
 
 ## Publication notes
 

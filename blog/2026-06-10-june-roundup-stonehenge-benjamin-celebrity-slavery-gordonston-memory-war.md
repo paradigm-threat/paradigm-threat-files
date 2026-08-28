@@ -110,6 +110,36 @@ Reader-visible: figures on long essays should load from mirror hosts without hit
 
 ---
 
+## Image gallery — assets committed in this window (2026-05-26 → 2026-06-10)
+
+Raster files **first added** after **2026-05-26** through **2026-06-10** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Make Gordonston Great Again — volunteer homework campus vision: children, volunteers, and study tools in the church education wing](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-class.png)
+
+![Shuman Elementary, school field, E Gwinnett St, and Christ’s Community Church — Gwinnett corridor map](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-shuman-church-map.png)
+
+![Vaccine injury, liability immunity, and the unknowable reckoning — investigation header](https://paradigmthreat.net/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.png)
+
+![Jack Taylor admin statement — Gordonston on Facebook, May 2026](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-facebook-jack-taylor-admin-statement-2026.png)
+
+![vaccine meme](https://paradigmthreat.net/governance/genocide/vaccine/vaccine-meme.png)
+
+![Unidentified NYC bird's-eye repost (social caption claims 1855) — Fort Wood foreground; sky hull unverified; not matched to any cataloged lithograph](https://paradigmthreat.net/governance/war/investigations/1855-new-york-city-birdseye-airship-starfort.png)
+
+![Decoding Hormuz — The Suppressed Tartarian Nexus (infographic, archived 2026-06-01)](https://paradigmthreat.net/governance/war/investigations/hormuz-tartarian-nexus-decoding-infographic.png)
+
+![stonehenge portal birkeland current investigation raised circle](https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation-raised-circle.png)
+
+![Stonehenge as a portal — Birkeland current stabilized by sacred geometry and ley lines](https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation.png)
+
+![Zone of Silence — ley-crossing magnetism meme (radios, compasses, clocks at nodes)](https://paradigmthreat.net/history/chronology/investigations/zone-of-silence-ley-crossing-magnetism.png)
+
+![21 Questions Regarding the Holocaust — revisionist infographic](https://paradigmthreat.net/governance/genocide/holocaust/holocaust_21_questions.png)
+
+![buried structure](https://paradigmthreat.net/history/mudflood/buried_structure.jpg)
+
+![Celebrity modern slavery — contracts, containment, and creative control](https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.png)
+
 ## Reading order if you are catching up
 
 1. [Stonehenge quantum portal essay](https://paradigmthreat2.substack.com/p/stonehenge-quantum-portal-of-the) → [portal investigation](https://paradigmthreat.net/history/chronology/investigations/stonehenge-portal-birkeland-current-investigation) → [Golden Age timeline event](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) for cosmology lane context.

@@ -42,8 +42,6 @@ Six new articles covering Western wars through the timeline's lens — short, th
 - **08.03.01 — Geopolymer Concrete: The Horde's Secret** — Joseph Davidovits' geopolymer thesis; limestone concrete rather than quarried blocks; the Horde's construction technology
 - **16.12.02 — Fomenko and the Pyramid Question** (Appendix) — Fomenko's critique of conventional pyramid dating
 
-![Pyramids Around the World](https://paradigmthreat.net/media/03.the-dark-ages/pyramids_around_the_world.png)
-
 ### Population Control (Ch 15, Appendix)
 
 - **15.05.00 — Population Control: From 1492 to the Present** — Five centuries of population management from colonial genocide through eugenics to modern reproductive policy
@@ -115,8 +113,6 @@ A complete set of war investigations examining Western conflicts through the tim
 - **TIMELINE_FAQ.md** — New document with format guide and Q&A template
 - **ANIMATION_TRACKER.md** — Multi-view camera system spec added
 - **CONTENT_REDUCTION_TRACKER.md** — Full Tier 1–4 appendix-move plan
-
-![Trump](https://paradigmthreat.net/media/15.ce-21st-the-final-struggle/trump.png)
 
 ---
 

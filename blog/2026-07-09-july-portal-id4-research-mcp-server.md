@@ -128,15 +128,11 @@ Both share handlers and corpus; choose by **where the user works**. Full WebMCP 
 
 **2026-07-04 — Out of This Door Might Come Something.** Substack: [Out of This Door](https://paradigmthreat2.substack.com/p/out-of-this-door-might-come-something). Repo draft: [Out of This Door Might Come Something](https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something). **Portal series Part A** — Bertolucci door quote, buried LHC ring, Mars endpoint, Dead Planet Protocol, ancient stargates, WWW/Vav chain. Companion: [CERN–Mars gateway investigation](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation).
 
-![Out of This Door Might Come Something — CERN portal series Part A](https://paradigmthreat.net/science/cern_portal/out-of-this-door-might-come-something.png)
-
 **2026-07-06 — The Philadelphia Experiment Was Not Time Travel.** Substack: [Philadelphia Experiment](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not). Repo draft: [The Philadelphia Experiment Was Not Time Travel](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel). **Part B** — Norfolk witness pair, Allende letters, Varo edition, ordered reproduction timeline art, Earth-field thesis. Follows Part A; full audit: [Philadelphia portal precursor investigation](https://paradigmthreat.net/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation).
 
 ![The Philadelphia Experiment Was Not Time Travel — portal series Part B](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.png)
 
 **2026-07-08 — Everything in Independence Day Is True.** Substack: [Everything in Independence Day Is True](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is). Repo draft: [Everything in Independence Day Is True](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true). **Installment III** — NSA unity lane; Area 51; locust harvest; biosuit occupant; Whitmore/Rushmore; WTC shadow PP receipt. Renamed from earlier *Declare Independence* slug. Dossier: [Hollywood two-camp war](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation) Threads N, O, P, G.
-
-![Everything in Independence Day Is True — Area 51 autopsy, Whitmore, holiday farce](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.png)
 
 ---
 
@@ -213,6 +209,72 @@ The site repo shipped **Research MCP** as the headline infra pass, plus search a
 5. **JFK hoax:** [JFK/RFK investigation §2.1–§2.7](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) → [JFK Was Never Assassinated](https://paradigmthreat2.substack.com/p/jfk-was-never-assassinated).
 
 ---
+
+## Image gallery — assets committed in this window (2026-07-03 → 2026-07-09)
+
+Raster files **first added** after **2026-07-03** through **2026-07-09** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Ancient stargates — suppressed gateways infographic (`ancient-stargates.png`)](https://paradigmthreat.net/science/cern_portal/ancient-stargates.png)
+
+![CERN LHC — documented layout + portal architecture read (Earth)](https://paradigmthreat.net/science/cern_portal/cern-layout.png)
+
+![stargate cave aztec sun stone disc](https://paradigmthreat.net/science/cern_portal/stargate-cave-aztec-sun-stone-disc.jpeg)
+
+![stargate mechanical dual ring prototype](https://paradigmthreat.net/science/cern_portal/stargate-mechanical-dual-ring-prototype.jpeg)
+
+![stargate modern circuit ring display](https://paradigmthreat.net/science/cern_portal/stargate-modern-circuit-ring-display.jpeg)
+
+![stargate ornate carved arch cave](https://paradigmthreat.net/science/cern_portal/stargate-ornate-carved-arch-cave.jpeg)
+
+![stargate rock wall carved disk door](https://paradigmthreat.net/science/cern_portal/stargate-rock-wall-carved-disk-door.jpeg)
+
+![stargate underwater scuba ring](https://paradigmthreat.net/science/cern_portal/stargate-underwater-scuba-ring.jpeg)
+
+![stargate vintage arctic ring tripod](https://paradigmthreat.net/science/cern_portal/stargate-vintage-arctic-ring-tripod.jpeg)
+
+![stargate vintage arctic snow soldier](https://paradigmthreat.net/science/cern_portal/stargate-vintage-arctic-snow-soldier.jpeg)
+
+![stargate vintage arctic winter expedition](https://paradigmthreat.net/science/cern_portal/stargate-vintage-arctic-winter-expedition.jpeg)
+
+![stargate vintage barren ornate ring two men](https://paradigmthreat.net/science/cern_portal/stargate-vintage-barren-ornate-ring-two-men.jpeg)
+
+![stargate vintage canyon cloaked gathering](https://paradigmthreat.net/science/cern_portal/stargate-vintage-canyon-cloaked-gathering.jpeg)
+
+![stargate vintage cave excavation fedora](https://paradigmthreat.net/science/cern_portal/stargate-vintage-cave-excavation-fedora.jpeg)
+
+![stargate vintage cave ring square glyphs](https://paradigmthreat.net/science/cern_portal/stargate-vintage-cave-ring-square-glyphs.jpeg)
+
+![stargate vintage cave ring two men suits](https://paradigmthreat.net/science/cern_portal/stargate-vintage-cave-ring-two-men-suits.jpeg)
+
+![stargate vintage cave spoke wheel turbans](https://paradigmthreat.net/science/cern_portal/stargate-vintage-cave-spoke-wheel-turbans.jpeg)
+
+![stargate vintage cliff stone wheel](https://paradigmthreat.net/science/cern_portal/stargate-vintage-cliff-stone-wheel.jpeg)
+
+![stargate vintage desert mountain ring](https://paradigmthreat.net/science/cern_portal/stargate-vintage-desert-mountain-ring.jpeg)
+
+![stargate vintage himalaya dharma wheel](https://paradigmthreat.net/science/cern_portal/stargate-vintage-himalaya-dharma-wheel.jpeg)
+
+![stargate vintage jungle dharma wheel](https://paradigmthreat.net/science/cern_portal/stargate-vintage-jungle-dharma-wheel.jpeg)
+
+![stargate vintage jungle pith helmet ring](https://paradigmthreat.net/science/cern_portal/stargate-vintage-jungle-pith-helmet-ring.jpeg)
+
+![stargate vintage mountain carved disc five men](https://paradigmthreat.net/science/cern_portal/stargate-vintage-mountain-carved-disc-five-men.jpeg)
+
+![stargate vintage mountain stone circle](https://paradigmthreat.net/science/cern_portal/stargate-vintage-mountain-stone-circle.jpeg)
+
+![stargate vintage pith helmet rock arch](https://paradigmthreat.net/science/cern_portal/stargate-vintage-pith-helmet-rock-arch.jpeg)
+
+![stargate vintage rockface military expedition](https://paradigmthreat.net/science/cern_portal/stargate-vintage-rockface-military-expedition.jpeg)
+
+![stargate vintage stone arch misty portal](https://paradigmthreat.net/science/cern_portal/stargate-vintage-stone-arch-misty-portal.jpeg)
+
+![stargate vintage stone disk three observers](https://paradigmthreat.net/science/cern_portal/stargate-vintage-stone-disk-three-observers.jpeg)
+
+![stargate vintage ww2 excavation aztec ring](https://paradigmthreat.net/science/cern_portal/stargate-vintage-ww2-excavation-aztec-ring.jpeg)
+
+![Ancient stargates — suppressed gateways infographic (`ancient-stargates.png`)](https://paradigmthreat.net/history/chronology/ancient-stargates/ancient-stargates.png)
+
+![The real declaration of independence — Whitmore on Rushmore, *we will not go quietly into the night*](https://paradigmthreat.net/influence/hollywood/the-real-declaration.png)
 
 ## Publication notes
 

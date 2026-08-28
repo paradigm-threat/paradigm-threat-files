@@ -70,6 +70,18 @@ This repo absorbed the **censorship dossier**, the **Swift / *Gulliver*** invest
 
 *Commits referenced above fall on and after **March 28, 2026**, across **paradigm-threat-files**, **paradigm-threat-timeline**, and **paradigm-threat-site**; this entry follows the [blog process](https://paradigmthreat.net/blog/page) of summarizing changes since the prior dated post.*
 
+## Image gallery — assets committed in this window (2026-03-28 → 2026-03-30)
+
+Raster files **first added** after **2026-03-28** through **2026-03-30** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![GitHub Actions disabled for user — paradigm-threat-files](https://paradigmthreat.net/influence/censorship/github-ban.png)
+
+![GitHub Actions / workflow failure (continued)](https://paradigmthreat.net/influence/censorship/github-ban2.png)
+
+![GitHub restriction context (continued)](https://paradigmthreat.net/influence/censorship/github-ban3.png)
+
+![Swift — Mars, scale beings, and how Gulliver was sold to readers](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/swift/swift-mars-giants-publication-stance.png)
+
 ---
 
 *Topics:* [#influence](https://paradigmthreat.net/search/influence) · [#censorship](https://paradigmthreat.net/search/censorship) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#history](https://paradigmthreat.net/search/history)

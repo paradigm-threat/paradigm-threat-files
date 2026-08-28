@@ -49,6 +49,18 @@ New and updated content since the previous blog entry (2026-03-16): this post; h
 - **Cosmos / hollow earth:** [Hollow Earth investigation](https://paradigmthreat.net/cosmos/cosmology/hollow_earth/hollow-earth-investigation) (updated); [Tham Luang cave rescue 2018 investigation](https://paradigmthreat.net/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation) (new).
 - **Mudflood:** [Cargo cults investigation](https://paradigmthreat.net/history/mudflood/investigations/cargo-cults-investigation) (new); [Promised land investigation](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation) (new).
 
+## Image gallery — assets committed in this window (2026-03-16 → 2026-03-17)
+
+Raster files **first added** after **2026-03-16** through **2026-03-17** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Tham Luang cave rescue 2018 investigation](https://paradigmthreat.net/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.png)
+
+![american folklore](https://paradigmthreat.net/cosmos/cosmology/saturnian/american-folklore.jpg)
+
+![Cargo cults investigation](https://paradigmthreat.net/history/mudflood/investigations/cargo-cults-investigation.png)
+
+![Promised land investigation](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.png)
+
 ---
 
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#conspiracy](https://paradigmthreat.net/search/conspiracy)

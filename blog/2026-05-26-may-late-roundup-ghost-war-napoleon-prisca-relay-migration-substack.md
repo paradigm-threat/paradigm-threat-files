@@ -112,8 +112,6 @@ Three chapter-scale drops and cross-link new readers should know about.
 
 **Prisca sapientia overview** — [Prisca sapientia — ancient wisdom as epistemic foundation](https://paradigmthreat.net/timeline/evt-prisca-sapientia) (`00.01.02`) with hero art under `media/00.overview/prisca_sapientia.png`. Introduction and Core Concepts chapters now point here; files-repo [`PRISCA_SAPIENTIA.md`](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) is the long-form sibling.
 
-![Prisca sapientia — ancient wisdom as epistemic foundation (timeline)](https://paradigmthreat.net/files/timeline/media/00.overview/prisca_sapientia.png)
-
 **1896–1897 mystery airship wave** — New chapter `13.09.00` with cross-links from Mars literature, Ares Le Mandat corpus, appendix narrative PP literature, and controlled-opposition managed disclosure bands. Pairs with the files-repo [ship-shaped airships investigation](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation).
 
 **Historical antibodies** — Chapter `15.08.00` now links to the Ghost War post-hoc PP scorecard and good-actor corpus — keeping the timeline's "final struggle" band navigable from the May Hollywood drop.
@@ -131,6 +129,48 @@ Sequence in plain terms: route **paradigmthreat.net raster URLs** to Relay mirro
 Remaining risk is ordinary transition debt — any feature that still assumed server-side Relay fetch needs the browser path or a regression test gate. Chat stays paused until Relay migration completes; search and article reading should not depend on disabled API routes.
 
 ---
+
+## Image gallery — assets committed in this window (2026-05-14 → 2026-05-26)
+
+Raster files **first added** after **2026-05-14** through **2026-05-26** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Iran war runner — theater map (Hormuz, Gulf, and adjacent land)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map.png)
+
+![Iran war runner — dual-track diplomacy and regional theater](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.png)
+
+![WW2 — mission failed vs victory story (Coda lane)](https://paradigmthreat.net/governance/war/ww2-mission-failed.png)
+
+![the second exodus comic strip](https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-comic-strip.png)
+
+![the second exodus of oc remix](https://paradigmthreat.net/influence/controlled_opposition/the-second-exodus-of-oc-remix.png)
+
+![franklin palatine boors moors screenshot investigation](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.png)
+
+![Virus isolation skeptical audit — dual-track dossier, fingerprint not blueprint (companion investigation art)](https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.png)
+
+![Capcom virus predictive programming — Mega Man X2 to Resident Evil, Umbrella outbreak grammar (investigation art)](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-capcom.png)
+
+![Virus media predictive programming — evolution, genome causality, zombie etiology (companion investigation art)](https://paradigmthreat.net/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.png)
+
+![Europe white bloodline, complexion, and whitewash — investigation header](https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.png)
+
+![Book page under investigation — page 60, “Palatine Moors,” George II gloss (Franklin Moors dossier)](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot.png)
+
+![Mass schooling and warfare — collectivist grading, factory cohorts, fear-driven compliance](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade-warfare.png)
+
+![Roytas 2024 — Can You Catch a Cold? (footnote 8 hunt)](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-quote.png)
+
+![Napoleon plague Murad Bay screenshot — book page under investigation](https://paradigmthreat.net/science/health/investigations/napoleon-plague-murad-bay-screenshot.png)
+
+![Mystery airships 1896–97 — ship-shaped sky craft before flying-saucer vocabulary](https://paradigmthreat.net/governance/war/investigations/ship-shaped-airships-earth-elevating-technology-investigation-types.png)
+
+![Red Mercury — Max Barclay, 1996 (cover)](https://paradigmthreat.net/history/chronology/investigations/red-mercury-max-barclay-1996-cover.png)
+
+![Two camps — red mercury (Napoleon) and radiation cure (Curie), Camp A vs Camp B cover-up](https://paradigmthreat.net/history/chronology/napoleon-corpses-dry-egypt-siberian-disease-mercury-radiation.png)
+
+![9/11 predictive programming — media rehearsal before the public event (PP corpus)](https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png)
+
+![MAGFest — community governance investigation (header)](https://paradigmthreat.net/influence/controlled_opposition/investigations/magfest-community-governance-investigation.png)
 
 ## Reading order if you are catching up
 

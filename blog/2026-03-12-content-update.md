@@ -99,6 +99,23 @@ New geoengineering investigation: [Tornado–Power Station Explosion: Electromag
 > Identity investigations now form a discrete corpus with methodology disclaimer and British-orchestration framing. The tornado investigation extends the weather-modification thesis into electromagnetic phenomena. Hairy Mary links repaired and illustrated from the timeline collection.
 
 ---
+
+## Image gallery — assets committed in this window (2026-03-11 → 2026-03-12)
+
+Raster files **first added** after **2026-03-11** through **2026-03-12** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Mars, lunar node, and Dow Jones correlation](https://paradigmthreat.net/cosmos/mars/investigations/mars-stock-market.png)
+
+![mars stock market2](https://paradigmthreat.net/cosmos/mars/investigations/mars-stock-market2.png)
+
+![Bruce Lee investigation: Wing Chun female lineage, Wuxing suppression, British Hong Kong](https://paradigmthreat.net/influence/conspiracy/celebrities/bruce-lee-wing-chun.png)
+
+![Golda Meir — British Mandate, Operation Agatha, Israel as control hinge](https://paradigmthreat.net/influence/conspiracy/investigations/golda.png)
+
+![Plan 9: zombie apocalypse as alien instrument](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/ed-wood-plan9/ed-wood-plan9.png)
+
+![Electromagnetic tornado: energy transmission through substation and vortex](https://paradigmthreat.net/science/geoengineering/electromagnetic-tornado.png)
+
 *Topics:* [#conspiracy](https://paradigmthreat.net/search/conspiracy) · [#cosmos](https://paradigmthreat.net/search/cosmos) · [#geoengineering](https://paradigmthreat.net/search/geoengineering) · [#influence](https://paradigmthreat.net/search/influence) · [#mars](https://paradigmthreat.net/search/mars) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#religion](https://paradigmthreat.net/search/religion)
 
 ---

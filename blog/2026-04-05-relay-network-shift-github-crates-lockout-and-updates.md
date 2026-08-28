@@ -63,6 +63,22 @@ A **large merge** landed (**“griff merge”**): **definitive** `content/` and 
 
 - **clevertree.net** README and **Forgotten Future** site footer now point **support** links at **Patreon** instead of **GitHub Sponsors**, matching the **paradigmthreat.net** footer change—reducing dependence on **GitHub** for **donation CTAs**.
 
+## Image gallery — assets committed in this window (2026-04-03 → 2026-04-05)
+
+Raster files **first added** after **2026-04-03** through **2026-04-05** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Etana Sumerian King List Saturnian Investigation](https://paradigmthreat.net/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.png)
+
+![GitHub restriction context (continued)](https://paradigmthreat.net/influence/censorship/github-ban5.png)
+
+![Toynbee tiles — *Resurrect Dead* (2011) documentary investigation](https://paradigmthreat.net/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.png)
+
+![Urantia Book Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.png)
+
+![Griffins and other myth fauna in historical texts — anthropogenic extirpation](https://paradigmthreat.net/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.png)
+
+![ai censorship2](https://paradigmthreat.net/influence/censorship/ai_censorship2.png)
+
 ---
 
 *Topics:* [#censorship](https://paradigmthreat.net/search/censorship) · [#governance](https://paradigmthreat.net/search/governance) · [#history](https://paradigmthreat.net/search/history) · [#chronology](https://paradigmthreat.net/search/chronology)

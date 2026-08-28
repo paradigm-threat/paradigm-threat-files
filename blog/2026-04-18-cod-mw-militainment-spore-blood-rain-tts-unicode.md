@@ -24,6 +24,22 @@ Appendix and **20th-century** chapters now **cross-link** the **[spore / ecologi
 
 Article and timeline **TTS** pipelines call **`expandUnicodeSymbolsForTTS`**: glued **`→`** tokens read as **“to”**, spaced narrative arrows as **“, then ”**, **`§`** as **section …**, common bullets normalized, other arrow code points glossed or mapped to **“, then ”** so **Piper** / **Web Speech** do not read **“right pointing arrow”** or **“section sign”** aloud. **`ttsHelpers.regression.test.ts`** ( **`node:test`** ) and **`pnpm test`** guard the behavior.
 
+## Image gallery — assets committed in this window (2026-04-14 → 2026-04-18)
+
+Raster files **first added** after **2026-04-14** through **2026-04-18** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Spore / ecological disaster — Martian cylinders investigation](https://paradigmthreat.net/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation.png)
+
+![Call of Duty Modern Warfare — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.png)
+
+![giant mountains](https://paradigmthreat.net/history/chronology/giant-mountains.png)
+
+![artemis ii faith test investigation2](https://paradigmthreat.net/history/chronology/investigations/artemis-ii-faith-test-investigation2.png)
+
+![instagram censorship6](https://paradigmthreat.net/influence/censorship/instagram_censorship6.png)
+
+![eldorado](https://paradigmthreat.net/influence/conspiracy/eldorado.png)
+
 ---
 
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war) · [#history](https://paradigmthreat.net/search/history) · [#mudflood](https://paradigmthreat.net/search/mudflood) · [#influence](https://paradigmthreat.net/search/influence) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#chronology](https://paradigmthreat.net/search/chronology)

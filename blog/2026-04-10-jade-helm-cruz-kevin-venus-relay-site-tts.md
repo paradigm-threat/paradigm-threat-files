@@ -79,6 +79,24 @@ Commits refined **Article** text-to-speech **overlay** layout and the **resume**
 
 **Paradigm repos (2026-04-09):** **`.relay.yaml`** on **`main`** in **paradigm-threat-files** and **paradigm-threat-timeline** (SSH-signed commits; **allowedKeys** follow-up) aligns those trees with the same **branch policy** expectations as **relay-gateway**—without a new gateway **commit** in the Relay repos after **April 5**.
 
+## Image gallery — assets committed in this window (2026-04-05 → 2026-04-10)
+
+Raster files **first added** after **2026-04-05** through **2026-04-10** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Ted Cruz, Kevin Malone — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.png)
+
+![Ted Cruz, Kevin Malone — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation2.png)
+
+![Cruz rally: attendee holds “Same Person?!?!” sign comparing Ted Cruz and Kevin Malone. Photo: Getty Images / Alex Wong, Feb. 2016, as published by PopSugar.](https://paradigmthreat.net/governance/war/investigations/cruz-rally-kevin-same-person-sign-2016-getty-via-popsugar.jpg)
+
+![Jade Helm 15 — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/jade-helm-texas-coup-cruz-hypothesis-investigation.png)
+
+![cruz kevin malone deep state hypothesis investigation3](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation3.png)
+
+![Occupy Wall Street — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.png)
+
+![Armed confrontations — investigation header graphic](https://paradigmthreat.net/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.png)
+
 ---
 
 *Topics:* [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war) · [#cosmos](https://paradigmthreat.net/search/cosmos) · [#chronology](https://paradigmthreat.net/search/chronology)

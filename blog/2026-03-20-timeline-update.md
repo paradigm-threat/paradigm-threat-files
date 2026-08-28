@@ -79,6 +79,12 @@ Fixed mobile keyboard disappearing issue on search page.
 
 Timeline TTS slideshow updated with paragraph seek slider and playFromSentence functionality (v2.0.6).
 
+## Image gallery — assets committed in this window (2026-03-17 → 2026-03-20)
+
+Raster files **first added** after **2026-03-17** through **2026-03-20** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Radiocarbon Dating Investigation](https://paradigmthreat.net/history/chronology/investigations/radiocarbon-dating-investigation.png)
+
 ---
 
 *Topics:* [#history](https://paradigmthreat.net/search/history) · [#science](https://paradigmthreat.net/search/science) · [#chronology](https://paradigmthreat.net/search/chronology)

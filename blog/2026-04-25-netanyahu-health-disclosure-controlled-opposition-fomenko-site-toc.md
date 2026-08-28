@@ -59,6 +59,38 @@
 
 **Substack:** [paradigmthreat2.substack.com/p/netanyahu-cancer-health-reset-controlled](https://paradigmthreat2.substack.com/p/netanyahu-cancer-health-reset-controlled)
 
+## Image gallery — assets committed in this window (2026-04-18 → 2026-04-25)
+
+Raster files **first added** after **2026-04-18** through **2026-04-25** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![call of duty modern warfare original vs reboot militainment investigation2](https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation2.png)
+
+![Trump-era Hollywood — predictive programming investigation (cover)](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png)
+
+![Gaza disengagement / Sharon search context — Philadelphi Corridor, withdrawal narrative, and related results (illustrative)](https://paradigmthreat.net/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.png)
+
+![Afterlife maps, Bardo / purgatory transition, and Reformation-era ship allegory — illustrative header](https://paradigmthreat.net/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.png)
+
+![afterlife purgatory protestant rus horde nc investigation2](https://paradigmthreat.net/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation2.png)
+
+![Fomenko New Chronology — verification, accessibility, and reproducibility (illustrative header)](https://paradigmthreat.net/history/chronology/investigations/fomenko-new-chronology-verification-accessibility-investigation.png)
+
+![“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers](https://paradigmthreat.net/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation.png)
+
+![great awakening mind map infographic](https://paradigmthreat.net/influence/controlled_opposition/great-awakening-mind-map-infographic.png)
+
+![AAWSAP / Lacatski investigation — accompanying figure](https://paradigmthreat.net/influence/controlled_opposition/lacatski-consciousness-craft-viral-post-investigation.png)
+
+![Skinwalkers and cryptids — Rus–Horde survivorship thesis and no-sorcery model](https://paradigmthreat.net/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.png)
+
+![skinwalkers cryptids rus horde extirpation investigation2](https://paradigmthreat.net/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation2.png)
+
+![great awakening alien savior rv nwo cluster investigation2](https://paradigmthreat.net/influence/controlled_opposition/great-awakening-alien-savior-rv-nwo-cluster-investigation2.png)
+
+![Giants of Japan — archival footage, Big Man Japan, and debunk-overreach](https://paradigmthreat.net/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.png)
+
+![Indigenous control systems — witchcraft discourse, Vodou “work,” and reservation containment hypotheses](https://paradigmthreat.net/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.png)
+
 *Topics:* [#events](https://paradigmthreat.net/search/events) · [#false_flag](https://paradigmthreat.net/search/false_flag) · [#governance](https://paradigmthreat.net/search/governance) · [#war](https://paradigmthreat.net/search/war) · [#influence](https://paradigmthreat.net/search/influence) · [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#chronology](https://paradigmthreat.net/search/chronology)
 
 ---

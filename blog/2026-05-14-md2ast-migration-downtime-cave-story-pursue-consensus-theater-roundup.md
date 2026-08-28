@@ -71,7 +71,7 @@ The files repo carried most of the intellectual weight this cycle: two long disc
 
 ## paradigm-threat-site — rendering, images, and reader chrome
 
-The site repo tracked the md2ast cutover end to end across eight commits in this window. Sequence in plain terms: migrate article rendering off relay-markdown onto **md2ast WASM**; vendor **md2ast-react** in-repo; sync `public/wasm/md2ast/` on install/build; publish-bump to `@clevertree/md2ast@^1.0.1` with wasm-opt’d bundle (~263 KB); fix WASM `init()` URL for Next dynamic import; fix multiline `![alt](url)` transforms so PopImage validation does not choke on line breaks; fix absolute-https asset URLs so the optimizer does not rewrite paradigmthreat.net into broken mirror hosts; add **`e2e/article-images.spec.ts`** (Cave Story regression).
+The site repo tracked the md2ast cutover end to end across eight commits in this window. Sequence in plain terms: migrate article rendering off relay-markdown onto **md2ast WASM**; vendor **md2ast-react** in-repo; sync `public/wasm/md2ast/` on install/build; publish-bump to `@clevertree/md2ast@^1.0.1` with wasm-opt’d bundle (~263 KB); fix WASM `init()` URL for Next dynamic import; fix multiline `` transforms so PopImage validation does not choke on line breaks; fix absolute-https asset URLs so the optimizer does not rewrite paradigmthreat.net into broken mirror hosts; add **`e2e/article-images.spec.ts`** (Cave Story regression).
 
 Reader-visible outcomes: article pages should again show **real figure rasters** on long essays with many PopImage blocks; share cards respect Substack mirror URLs where configured; the migration banner explained noisy deploys to subscribers who hit the site mid-cutover. Remaining risk is ordinary — the next major Next or WASM bump will need the same e2e gate.
 
@@ -84,6 +84,46 @@ Light touch relative to files, but not zero. Agent instructions now distinguish 
 The [2019 CE — *Ares Le Mandat* Mars–Earth influence corpus](https://paradigmthreat.net/timeline/evt-2019-ce-ares-le-mandat-mars-earth-influence-corpus) event gained a corrected cross-link: Israel–Gaza / Zenodo tomb mirrors now point at **§4–7** of the combined [Ares Le Mandat investigation](https://paradigmthreat.net/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation) rather than a split child file — keeping the Mars360 influence graph navigable from the book timeline.
 
 ---
+
+## Image gallery — assets committed in this window (2026-05-05 → 2026-05-14)
+
+Raster files **first added** after **2026-05-05** through **2026-05-14** (exclusive windows — each image appears in **one** blog entry only). Heroes placed inline above; remainder below.
+
+![Quantum computer / infinitely indexed storage — analog memory and embedded signal thesis (investigation header)](https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.png)
+
+![Joseph Smith mystery solved — crystal-memory interpretation](https://paradigmthreat.net/science/computing/quantum-leap-of-faith-smith-mystery-solved.png)
+
+![Quantum Leap (of faith) — article header](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.png)
+
+![incorrectly scaled universe curved light aether investigation](https://paradigmthreat.net/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.png)
+
+![The Incorrectly Scaled Universe — curved-light aether cosmology](https://paradigmthreat.net/cosmos/cosmology/the-incorrectly-scaled-universe.png)
+
+![Remote Viewing as Aether Physics — investigation header](https://paradigmthreat.net/science/telepathy/remote_viewing/aether-consciousness.png)
+
+![33 Thomas Street / AT&T Long Lines Building / Titanpointe — the canonical example of a windowless downtown tower whose cover story turned out to be only part of the story](https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-windowless-towers.jpg)
+
+![anthropic usage policy](https://paradigmthreat.net/influence/censorship/anthropic-usage-policy.png)
+
+![*Cave Story* × Studio Pixel × Nicalis — controlled opposition investigation header figure](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-studio-pixel-nicalis-controlled-opposition-investigation.png)
+
+![Witness reconstruction graphic — east Mesa, Arizona (Phoenix metro area), Tuesday April 22, 2014, ~1:24 AM: stadium-sized fully opaque black triangle, ~7 lights, ~1,000 ft altitude, drifting on a constant heading along a residential street for at least ~1 minute of clear overhead motion (up to ~3 minutes total counting the slow recession into the city light pollution before final disappearance), watched by the author and two roommates, before receding into the standard city light pollution toward east Mesa and disappearing there. Pull-quote: "I refuse to believe that my roommates and I simultaneously mistook a meteor shower for a stadium-sized black triangle drifting at a thousand feet on a constant heading for at least a minute, with another minute or so to recede and finally disappear." Author-made reconstruction graphic, **not** a photograph of the 2014 event.](https://paradigmthreat.net/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.png)
+
+![what are you waiting for witness 2014](https://paradigmthreat.net/influence/controlled_opposition/what-are-you-waiting-for-witness-2014.png)
+
+![Open source as sword in the stone — gated exhibit, portrait crop (metaphor figure)](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours-portrait.png)
+
+![Open source as sword in the stone — gated exhibit, after hours (investigator metaphor figure)](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours.png)
+
+![Open source as sword in the stone — gated exhibit, alternate framing (metaphor figure)](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours2.png)
+
+![Open source as sword in the stone — gated exhibit, after hours (metaphor figure)](https://paradigmthreat.net/influence/controlled_opposition/investigations/cave-story-open-source-sword-gated-after-hours3.png)
+
+![Atkinson, Georgia / Brantley Highway 82 fire — radiation-weapon investigation: signature anomalies of vaporized structures adjacent to intact pine canopy](https://paradigmthreat.net/science/geoengineering/atkinson-georgia-radiation-weapon-investigation.png)
+
+![Rural burn zones need a density moratorium — article graphic](https://paradigmthreat.net/science/geoengineering/rural-burn-zones-density-moratorium-not-dew-investigation.png)
+
+![Consensus theater and the stalled physics pipeline — Big Mysteries Survey, popular science, and audit](https://paradigmthreat.net/cosmos/cosmology/consensus-theater-and-the-stalled-physics-pipeline.png)
 
 ## Reading order if you are catching up
 

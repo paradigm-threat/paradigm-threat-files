@@ -36,6 +36,49 @@ Blog roundups should **illustrate** major lanes—not only link to them. Embed *
 
 **Search for assets:** `grep -r '!\[' influence/ science/ history/ governance/ cosmos/ --include '*.md'` on changed paths since the cutoff; timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`.
 
+#### Exclusive image windows (required — no overlap)
+
+Each raster file may appear in **at most one** blog entry. Ownership rule:
+
+1. Let **`PREV`** = date from the **previous** `blog/YYYY-MM-DD-*.md` filename; let **`CUR`** = date from the post you are writing.
+2. A file belongs to **`CUR`** iff its **first git add** date satisfies **`PREV < first_add ≤ CUR`** (compare calendar dates only).
+3. **Never** reuse the same `https://paradigmthreat.net/...png` embed in a later roundup—even if the article is still topical. Later posts link prose only; the image stays in the window where it landed.
+
+Helper (lists or patches galleries):
+
+```bash
+cd paradigm-threat-files
+# List images owned by one post
+python3 scripts/blog-image-windows.py list --blog 2026-08-28-august-relay-pure-migration-takeout-qanon-shaman-trash-revelation.md
+# Regenerate overflow galleries for all posts (keeps allowed inline embeds; strips foreign-window images)
+python3 scripts/blog-image-windows.py apply
+python3 scripts/blog-image-windows.py apply --blog 2026-08-09-august-depression-only-way-none-survived-strong-bad-portrait.md
+```
+
+Raw git (same window as commits):
+
+```bash
+PREV=2026-08-09
+NEXT=$(date -d "$PREV + 1 day" +%Y-%m-%d)   # GNU date; macOS: date -j -v+1d -f "%Y-%m-%d" "$PREV" +%Y-%m-%d
+CUR=2026-08-28
+git log --since="$NEXT" --until="$(date -d "$CUR + 1 day" +%Y-%m-%d)" --diff-filter=A \
+  --name-only --pretty=format: -- '*.png' '*.jpg' '*.jpeg' '*.webp' '*.gif'
+```
+
+#### Inline vs overflow (required layout)
+
+For every post with new images in its window:
+
+1. **Inline** — Place heroes and frame evidence **in the section that discusses that lane** (Substack block, witness beat, investigation H3). Prefer art already used in the source article; copy its alt text.
+2. **Overflow** — End the post (before **Publication notes**, **Reading order**, or **Topics**) with:
+
+   `## Image gallery — assets committed in this window (PREV → CUR)`
+
+   List every **window-owned** image **not** already embedded above. Same absolute URLs and alt text rules.
+3. **Large windows** — If more than ~40 overflow items (e.g. initial January corpus), show the most relevant heroes inline + up to 40 in overflow + one line: *“…and N more assets in this window”* with the `list --blog` command.
+
+**Audit before publish:** run `list --blog` for the draft and confirm no path appears in two posts’ lists.
+
 ## Adding new blog entries
 
 Create new posts in `blog/` with the naming convention `YYYY-MM-DD-slug.md`. After push, Relay `path_tree` indexes the tip (including `_updated` from the `YYYY-MM-DD` slug at 12:00 UTC for blog posts).
@@ -80,6 +123,17 @@ Do **not** skip Substack because git already lists the markdown path—the newsl
 2. **Start each repo section with an expanded summary (two or three paragraphs)** that explains what landed, how the pieces connect, and why a reader should care — not just a commit inventory. Then list each new or updated item with a **link** and enough prose to say what the piece *covers* (thesis, scope, companion dossier, notable sections). Timeline events use `https://paradigmthreat.net/timeline/evt-<id>`; other content uses `https://paradigmthreat.net/<path>` (no `.md`). Group by repo: **paradigm-threat-timeline**, **paradigm-threat-files**, **paradigm-threat-site**. Omit a repo section only if it had no changes since the last post.
 3. When only one repo changed, a single section is fine. When two or three changed, the entry must have a section per changed repo, each beginning with the expanded summary, then links to all new/updated content.
 4. See **Length and depth** below for target size, subsectioning, and per-item detail.
+
+### Images for this window (required before publish)
+
+After prose is drafted:
+
+1. `python3 scripts/blog-image-windows.py list --blog YYYY-MM-DD-your-slug.md` — confirm the owned set.
+2. Embed **heroes and frame evidence inline** in the sections that discuss those lanes (Substack block, witness beat, investigation H3). Pull alt text from the source article’s `![` lines.
+3. `python3 scripts/blog-image-windows.py apply --blog YYYY-MM-DD-your-slug.md` — adds the **overflow gallery** (if any), strips embeds that belong to other windows, and dedupes an existing gallery block.
+4. Confirm **no path** from step 1 appears in an older post’s gallery (`list --blog` on prior entries if unsure).
+
+See **Exclusive image windows** under **Images in blog posts** above.
 
 ### Length and depth
 
