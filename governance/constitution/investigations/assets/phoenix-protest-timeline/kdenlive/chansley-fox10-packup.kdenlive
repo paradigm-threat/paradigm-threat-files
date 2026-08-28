@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="C" version="7.22.0" title="Chansley confrontation — FOX 10 pack-up pause" producer="main_bin" root="/home/ari/dev/pt/paradigm-threat-files/governance/constitution/investigations/assets/phoenix-protest-timeline/kdenlive">
+ <profile description="UHD portrait 2160x3840 29.97fps" width="2160" height="3840" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="9" display_aspect_den="16" frame_rate_num="30000" frame_rate_den="1001" colorspace="709"/>
+ <producer id="producer0" in="00:00:00.000" out="00:01:11.633">
+  <property name="length">2149</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/ari/dev/pt/paradigm-threat-files/governance/constitution/investigations/assets/phoenix-protest-timeline/VID_20200624_110648.mp4</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname">VID_20200624_110648.mp4 (original)</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:duration">00:01:11.633</property>
+  <property name="kdenlive:file_hash">skip</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">0</property>
+  <property name="auto_rotate">1</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:00:09.976">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/ari/dev/pt/paradigm-threat-files/governance/constitution/investigations/assets/phoenix-protest-timeline/kdenlive/frame-0106.jpg</property>
+  <property name="ttl">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname">freeze @ 1:06</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:duration">00:00:09.976</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:00:09.976">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/ari/dev/pt/paradigm-threat-files/governance/constitution/investigations/assets/phoenix-protest-timeline/kdenlive/fox10-packup-arrow.png</property>
+  <property name="ttl">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname">FOX 10 arrow (edit me)</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:duration">00:00:09.976</property>
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.uuid">45e18354-7da2-419b-a7ea-b982ede25e39</property>
+  <property name="kdenlive:docproperties.kdenliveversion">23.08.5</property>
+  <property name="kdenlive:docproperties.version">1.1</property>
+  <property name="kdenlive:docproperties.profile">custom_2160x3840_2997</property>
+  <property name="kdenlive:docproperties.previewheight">960</property>
+  <property name="kdenlive:docproperties.previewwidth">540</property>
+  <property name="kdenlive:docproperties.previewdecoding">1</property>
+  <property name="kdenlive:docproperties.externalproxypreset"/>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.vertical">1</property>
+  <property name="kdenlive:docproperties.subtitlesList">VID_20200624_110648-captions-edited-timeline.srt</property>
+  <property name="kdenlive:docproperties.guides"></property>
+  <property name="kdenlive:docproperties.guidescategories"></property>
+  <property name="kdenlive:documentnotes">Original is intact at ../VID_20200624_110648.mp4. Timeline: play to 1:06, 10s freeze of that frame with Transform zoom (left/FOX 10), arrow overlay on V2. Drag the arrow PNG if the tip is off. Then original continues from 1:06. Subtitles: edited-timeline SRT (times after 1:06 shifted +10s). Do not overwrite the original mp4.</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:01:11.633"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:09.976"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:09.976"/>
+ </playlist>
+ <playlist id="playlist0">
+  <property name="kdenlive:playlistid">1</property>
+  <property name="kdenlive:trackheight">69</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <blank length="00:01:21.633"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:playlistid">2</property>
+  <property name="kdenlive:trackheight">90</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:locked_track">1</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:01:05.999"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:09.976">
+   <filter id="filter0">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=0 0 2160 3840 1.000000;00:00:09.976=0 -480 3024 5376 1.000000</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="rotation">00:00:00.000=0;00:00:09.976=0</property>
+   </filter>
+  </entry>
+  <entry producer="producer0" in="00:01:06.000" out="00:01:11.633"/>
+ </playlist>
+ <playlist id="playlist2">
+  <property name="kdenlive:playlistid">3</property>
+  <property name="kdenlive:trackheight">90</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <blank length="00:01:06.000"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:09.976">
+   <filter id="filter1">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=0 0 2160 3840 1.000000;00:00:09.976=0 -480 3024 5376 1.000000</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="rotation">00:00:00.000=0;00:00:09.976=0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000" out="00:01:21.633">
+  <property name="kdenlive:trackunlock">0</property>
+  <property name="kdenlive:audio_mode">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:mute">0</property>
+  <property name="kdenlive:locked">0</property>
+  <property name="kdenlive:hide">0</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="audio" producer="playlist0"/>
+  <track hide="audio" producer="playlist1"/>
+  <track hide="audio" producer="playlist2"/>
+  <transition id="transition0" out="00:01:21.633">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1" out="00:01:21.633">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="always_active">1</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2" out="00:01:21.633">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="kdenlive_id">composite</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="rect">0 0 2160 3840 1</property>
+   <property name="rotate_center">0</property>
+   <property name="rotation">0</property>
+  </transition>
+ </tractor>
+ <tractor id="tractor1" title="Chansley confrontation — FOX 10 pack-up pause" in="00:00:00.000" out="00:01:21.633">
+  <property name="kdenlive:projectTractor">1</property>
+  <track producer="tractor0"/>
+  <filter id="filter_sub">
+   <property name="maxfilesize">1048576</property>
+   <property name="mlt_service">avfilter.subtitles</property>
+   <property name="internal_added">410</property>
+   <property name="av.filter.filename">/home/ari/dev/pt/paradigm-threat-files/governance/constitution/investigations/assets/phoenix-protest-timeline/kdenlive/VID_20200624_110648-captions-edited-timeline.srt</property>
+   <property name="disable">0</property>
+  </filter>
+ </tractor>
+</mlt>

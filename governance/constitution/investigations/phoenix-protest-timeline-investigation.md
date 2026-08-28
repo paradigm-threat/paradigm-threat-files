@@ -215,6 +215,8 @@ Besides a few items the author **knows they trashed** (mostly mistaken phone vid
 
 **Source file:** [`assets/phoenix-protest-timeline/VID_20200624_110648-captions.srt`](assets/phoenix-protest-timeline/VID_20200624_110648-captions.srt) — auto-generated captions from Takeout roll, **speaker- + scene-annotated for YouTube** (**2026-08-28**). **Duration:** ~**73 s**. **Tier:** **SRT text** + **Ari-attributed** speakers where witness confirmed; short **`[Scene — …]`** cues at beat changes; **FOX 10 pack-up** at **01:06** (left of frame).
 
+**Video (repo):** original intact [`VID_20200624_110648.mp4`](assets/phoenix-protest-timeline/VID_20200624_110648.mp4) (Takeout Trash copy). Edited preview with **10 s freeze + zoom + FOX 10 arrow** at 1:06: [`VID_20200624_110648-fox10-packup-pause.mp4`](assets/phoenix-protest-timeline/VID_20200624_110648-fox10-packup-pause.mp4). Kdenlive project (edit zoom/arrow): [`kdenlive/chansley-fox10-packup.kdenlive`](assets/phoenix-protest-timeline/kdenlive/chansley-fox10-packup.kdenlive).
+
 **Read in four beats:**
 
 1. **Bystander (woman to author’s left)** — heard on roll **before and as Chansley opens**; mid-thought remark **interrupted** by his yelling → **“looks like a crackpot”** (SRT: **“yeah, he looks like Crackpot”**). Opening cue **“I mean, I was like,”** (~00:01) = **same woman**, start of remark **cut off** by rant.  
