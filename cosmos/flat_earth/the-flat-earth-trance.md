@@ -4,8 +4,6 @@ Controlled Opposition Trilogy — Installment I: the Flat Earth trance
 
 ![The Flat Earth trance — mainstream debunk wars beside a movement built to waste serious people's time](https://paradigmthreat.net/cosmos/flat_earth/the-flat-earth-trance.png)
 
-<!-- popimage-portrait-sibling: the-flat-earth-trance-portrait.png (~1086×1448) — PopImage art-direction at max-width 768px; do not embed portrait URL in Markdown -->
-
 > **TL;DR:** Flat Earth keeps serious people glued to a fight that was designed to go nowhere. My friend's debunk posts win the physics and still lose the room. The recruits stay ignorant; the debunkers stay ignorant of what the movement is for — that Flat Earth is controlled opposition protecting deep-time dogma while burying Saturnian cosmology. I watched the same poison-pill pattern at large Arizona rallies: a funded Flat Earth billboard beside a real grievance at the **Capitol** on **November 7, 2020** (Stop the Steal). Controlled opposition on the ground shares another tell: debate only inside faith — read my book, trust my church, never test the claim in front of you. Presence taints. Noise buries the exit.
 
 ## My friend's debunk — and the trance it cannot break

@@ -119,47 +119,50 @@ export default function PopImage(props) {
     <img src={src} alt={alt} className="pt-popimage-img" loading="lazy" />
   )
 
+  // Outer <aside> excludes PopImage from Reading Mode; interactive chrome stays on the inner control.
+  const figureLabel = alt.length > 0 ? alt : 'Figure'
+
   return (
-    <div
-      id={id}
-      className={wrapClass}
-      role="button"
-      tabIndex={0}
-      data-pt-popimage="true"
-      onClick={() => {
-        if (!live || src.length === 0) return
-        gallery.openGalleryAt(src)
-      }}
-      onKeyDown={(e) => {
-        if (!live) return
-        let key = ''
-        try {
-          if (e && typeof e.key === 'string') key = e.key
-        } catch (err) {}
-        if (key === 'Enter' || key === ' ') {
-          try {
-            if (e && e.preventDefault) e.preventDefault()
-          } catch (err2) {}
+    <aside className={wrapClass} data-pt-popimage="true" aria-label={figureLabel}>
+      <div
+        id={id}
+        role="button"
+        tabIndex={0}
+        onClick={() => {
+          if (!live || src.length === 0) return
           gallery.openGalleryAt(src)
-        }
-      }}
-    >
-      <div className="pt-popimage-inner">
-        {portraitSrc.length > 0 ? (
-          <picture>
-            <source media={PORTRAIT_MEDIA} srcSet={portraitSrc} />
-            {imgEl}
-          </picture>
-        ) : (
-          imgEl
-        )}
-        <div className="pt-popimage-hover" aria-hidden="true">
-          <span className="pt-popimage-max">
-            <IconMaximize />
-          </span>
+        }}
+        onKeyDown={(e) => {
+          if (!live) return
+          let key = ''
+          try {
+            if (e && typeof e.key === 'string') key = e.key
+          } catch (err) {}
+          if (key === 'Enter' || key === ' ') {
+            try {
+              if (e && e.preventDefault) e.preventDefault()
+            } catch (err2) {}
+            gallery.openGalleryAt(src)
+          }
+        }}
+      >
+        <div className="pt-popimage-inner">
+          {portraitSrc.length > 0 ? (
+            <picture>
+              <source media={PORTRAIT_MEDIA} srcSet={portraitSrc} />
+              {imgEl}
+            </picture>
+          ) : (
+            imgEl
+          )}
+          <div className="pt-popimage-hover" aria-hidden="true">
+            <span className="pt-popimage-max">
+              <IconMaximize />
+            </span>
+          </div>
         </div>
+        {children ? <div className="pt-popimage-caption">{children}</div> : null}
       </div>
-      {children ? <div className="pt-popimage-caption">{children}</div> : null}
-    </div>
+    </aside>
   )
 }
