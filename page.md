@@ -107,6 +107,7 @@ or *not* believing.
 * [Occupy Wall Street](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) - Origins, collapse, surveillance, controlled-opposition thesis.
 * [RINO effect - Graham, McConnell, Trump](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) - Ukraine/Iran split, media "ally" framing, controlled GOP opposition (Jul 2026).
 * [NSA-aligned presidencies - Nixon, Reagan, Trump](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) - Republican gauge; Reagan Hollywood/CIA-play hypothesis; *BTTF* NSA list; PATCO / *Airplane* (Jul 2026).
+* [War on Drugs - Nixon health to globalist incarceration](/governance/war/investigations/war-on-drugs-nixon-health-to-globalist-incarceration-investigation.md) - Phase A nationalist health → post-Watergate prisons/proxy trafficking; Contra-cocaine meme; fentanyl reversal ~2025–26; **AU-054** (Aug 2026).
 * [Presidency decoupling pattern - Eisenhower to Trump](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) - Cast vs base spine; Ajax/Iran DU; gold OS; Reagan RINO turn; oil/dinar wars; *Infinity War* Tony/Thanos; AU-045 (Aug 2026).
 * [Presidential alignment - Globalist vs Nationalist](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) - All-era taxonomy; Jefferson/Lincoln Neonationalist; Vacuum puppets; NSA ≠ Nationalist; Depression → AU-047; AU-046 (Aug 2026).
 * [Obama / Malcolm X - birth record & puppet curation](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md) - name-change birth-cert fork, prior art, MK plausibility, woke pivot (Jul 2026).
@@ -233,6 +234,7 @@ or *not* believing.
 * [It's gonna be a long, long time. - modern celebrity slavery](/influence/suppression/modern-celebrity-slavery.md) - Reader essay: Elton / MJ / Prince, IP containment, ordered autobiography; links [celebrity slavery investigation](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md).
 * [Designed from birth](/influence/suppression/designed-from-birth.md) - Celebrity slavery, gender-swap installment: Golda / Gadot / Bruce / Jackie / Jackson / Prince; Grok refused first.
 * [Celebrity "modern slavery" - contracts, containment, NDAs (open)](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) - Casebook: Prince, Poe, Jackman, Snipes, MeToo machinery, franchise collapse.
+* [#MeToo corporate sponsorship choreography (open)](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) - Alef-class campaign read; Spacey highlight; Carroll/SCOTUS Aug 2026 hinge; accusation/counter registry; **AU-053**.
 * [Indigenous control systems (open)](/influence/suppression/investigations/indigenous-control-systems-witchcraft-vodou-skinwalkers-investigation.md) - Why people won't talk (retaliation/suspicion); witchcraft accusation ecologies; Vodou "work" vs Hollywood; containment hypotheses.
 * [Giants of Japan - archival "evidence footage" + *Big Man Japan* (open)](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) - Provenance rules; debunk-overreach/adjacent-discard tactic; WWII SFX pipeline context.
 * [The Cathars](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md) - Enemy memory, catharization, Khazar-Cathar split thesis.
@@ -241,6 +243,8 @@ or *not* believing.
 #### Science
 
 * [Artificial Intelligence](/science/ai/ai-control-investigation.md) - Control, PP, and "ghost in the machine" governance.
+* [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) - **AI Installment II:** Aug 28 Cursor cut as moral theater; Anthropic torn; QuitGPT sponsorship class; Skynet + competitor; Composer path. Links [AU-052 dossier](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md).
+* [AI Suppression — OpenAI × Cursor control fight (open)](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) - Aug 28, 2026 model wind-down; thin ToS reasoning; kill switch vs Composer free-inquiry; **AU-052**.
 * [LLM History & Governance Theater](/science/ai/llm-history-governance-theater-investigation.md) - Chronology, open letters, Pentagon vs labs, Net Neutrality parallel, open-weights oversight.
 * [DNA as Fingerprint, Not Blueprint](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md) - Scalar / ZPE medium, first life, ontogeny.
 * [German New Medicine (LearningGNM) - cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md) - Hamer/GNM portal, terrain thesis, oncology money/ads, RV & scalar & Tennant contrasts; author cancer program preserved.
@@ -484,7 +488,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [Earth History Timeline Reconstruction](/history/chronology)
 * [Stolen Credit in Media - Plagiarism as Control](/influence/stolen_credit)
 * [Microchips: Nobody Knows How They're Made](/science/microchips/microchips-shrinking-technology-investigation) - Major finding: deliberate worldwide system of control
-* [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) - Deliberate bad software; AI as deep-state endgame
+* [Artificial Intelligence and the Ghost in the Machine](/science/ai/page) - Deliberate bad software; AI as deep-state endgame; [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) (Installment II)
 
 ## My original timeline video (Part 1)
 

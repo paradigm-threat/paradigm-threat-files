@@ -13,7 +13,9 @@ Apply when editing **reader-facing articles** (essays under topic folders, `blog
 ## Compact
 
 - Links and images: **`https://paradigmthreat.net/...`** (absolute).
-- Voice: first person **I**; serious plain prose; no “this essay argues” scaffolding.
+- Voice: serious plain **spoken** prose; **`I`** only for personal witness; no “this essay argues” scaffolding.
+- Prefer Ari narration cadence; fold session/chat wording before polishing; no poet/aphorism packaging; no pure-contrast section stacking (hell/heaven, not-A/but-B as a whole essay).
 - Proof density and **Limits** live in **`investigations/`** dossiers — articles summarize and link.
 - Prefer cross-linking other **articles**; link dossiers only as companion receipts.
 - Run **`npm run autogen`** after substantive edits.
+- Tone model when narrating: [`governance/war/the-great-depression-was-planned.md`](../../governance/war/the-great-depression-was-planned.md).

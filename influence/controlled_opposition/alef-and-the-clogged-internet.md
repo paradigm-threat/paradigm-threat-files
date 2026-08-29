@@ -124,6 +124,8 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 Companion dossiers and sibling reads for the Alef mesh, the Jun 2026 call, and the internet-enclosure thesis:
 
 - [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) — machine-readable web, enclosure, blacklisting read.
+- [Corporate AI hell vs competitive AI heaven](https://paradigmthreat.net/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) — QuitGPT as Alef-class sponsorship; OpenAI×Cursor moral theater.
+- [MeToo corporate sponsorship choreography](https://paradigmthreat.net/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) — sponsorship-class definition (**AU-053**).
 - [ic911a — 911revision controlled opposition (open dossier)](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md) — Alef rhyme tables, DEW church mesh, live debate read.
 - [ic911a §5.7 — Alef exact pattern + cross-border impunity](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#57-harassment-industry-adjacency--alef--scam-center-grammar-2026)
 - [ic911a §9.6 — live debate read, insult-amnesia gap](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#96-live-debate-read-jun-2026)

@@ -138,7 +138,9 @@ This file is the narrative spine. Citations, tier labels, and dissenting voices 
 - [Investigation dossier — citations & tiers](/science/computing/investigations/internet-that-should-have-been-investigation.md)
 - [Google Don't Be Evil enclosure investigation](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) — pocket-computer gatekeeping; [keepandroidopen.org](https://keepandroidopen.org/) campaign
 - [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) — vector, analog, Wintel essay  
-- [AI control investigation](/science/ai/ai-control-investigation.md) — hijack and broken software  
+- [AI control investigation](/science/ai/ai-control-investigation.md) — hijack and broken software
+- [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) — AI Installment II: OpenAI×Cursor cut, competition that survived
+- [AI suppression — OpenAI × Cursor](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) — companion dossier (**AU-052**)
 - [Nintendo–Sony breakup](/influence/stolen_credit/nintendo-sony-breakup.md) — CD-ROM lane  
 - [Responsibility to the Next Generation](/history/chronology/responsibility-to-the-next-generation.md) — education Installment II (ethics, QA, sidecar not headset)  
 - [When your child won't fit the grade](/history/chronology/when-your-child-wont-fit-the-grade.md) — education Installment I  

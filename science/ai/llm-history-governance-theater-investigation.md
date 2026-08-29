@@ -48,6 +48,8 @@
 | **Feb–Mar 2026** | Anthropic–DoD contract rupture; supply-chain-risk designation; OpenAI Pentagon deal; **QuitGPT** boycott; employee solidarity letters; Kalinowski resignation. |
 | **Jun 12–24, 2026** | **Mythos 5 / Fable 5** export-control directive; **global** model shutdown; **NSA / CYBERCOM** red-team disclosure (Warner / Rudd); **Amazon** jailbreak research cited in White House negotiations (§6.1.2, §6.4). |
 | **Jun 17, 2026** | [**Islamabad Memorandum**](https://en.wikipedia.org/wiki/Islamabad_Memorandum) — U.S.–Iran **14-point MOU** to end **2026 Iran war**; Trump and Pezeshkian sign; **60-day** window for final peace treaty; Hormuz reopening and sanctions-easing framework (§2.4). |
+| **Aug 14, 2026** | SpaceX closes ~**$60B** acquisition of Cursor / Anysphere ([Cursor blog](https://cursor.com/blog/joining-spacex)). |
+| **Aug 28, 2026** | OpenAI announces wind-down of model supply to Cursor (proposed shutoff **Nov 12, 2026**) — Musk/SpaceX ToS distrust + change-of-control; full claim audit in [AI suppression dossier](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) (**AU-052**). |
 
 ---
 

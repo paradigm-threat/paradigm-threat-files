@@ -1142,16 +1142,16 @@
       "path": "cosmos/flat_earth/friend-fe-debate-collage.png",
       "ipfs": "bafybeifvmo4augtaztbheswsi75j6sertxbnayweiysvnpq6tknvzmc32e",
       "contentType": "image/png",
-      "sha256": "3f8359f7522da25d729285c4268c13c1408daeb868675627dcacccbfb0acf670",
-      "bytes": 502151
+      "sha256": "b52f8f8421b39a372a30477e4f27a783aa4de17f88856a339a99bd6c2cd0e8aa",
+      "bytes": 403125
     },
     {
       "id": "cosmos_flat_earth_friend-spinning-globe-debate.png",
       "path": "cosmos/flat_earth/friend-spinning-globe-debate.png",
       "ipfs": "bafkreigcknuff6k3wriheadt4wl5ooehj6cxcobmdqhdivsnwewigujhb4",
-      "contentType": "image/png",
-      "sha256": "c2536852f95bb450720073e597d738874f8571382c1c0e34564db12c8351270f",
-      "bytes": 97279
+      "contentType": "image/jpeg",
+      "sha256": "3cb614825b3c1a434e38426294da894c95f19c2c77f6c9e494ff65b19c223baa",
+      "bytes": 98686
     },
     {
       "id": "cosmos_flat_earth_pilot-earth-spin-meme.png",
@@ -14158,6 +14158,14 @@
       "contentType": "image/jpeg",
       "sha256": "11ceed02a2d374da03767cd7731328ec27f62966077570ddb1b91bcef8373a30",
       "bytes": 31353
+    },
+    {
+      "id": "science_ai_corporate-ai-hell-vs-competitive-ai-heaven.jpg",
+      "path": "science/ai/corporate-ai-hell-vs-competitive-ai-heaven.jpg",
+      "ipfs": "",
+      "contentType": "image/jpeg",
+      "sha256": "c924ee07971e1f37bc787c02424724694bfa521e872ce6faa4c7f4410d06603c",
+      "bytes": 255633
     }
   ]
 }

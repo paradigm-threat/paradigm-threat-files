@@ -119,6 +119,8 @@ See [microchips-shrinking-technology-investigation](../../microchips/microchips-
 
 ## 5. Connections to Other Investigations
 
+- **[Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md)** — Reader Installment II: Aug 28 notice, QuitGPT sponsorship class, Skynet + competitor, Composer path
+- **[AI Suppression — OpenAI × Cursor (Aug 2026)](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md)** — Model wind-down after SpaceX acquisition; kill-switch / ToS thinness; ChatGPT vs Composer; **AU-052**
 - **[LLM History & Governance Theater](/science/ai/llm-history-governance-theater-investigation.md)** — Chronology, open letters, Pentagon vs labs, Net Neutrality parallel, open-weights oversight; pre-LLM deployed AI contrast
 - **[The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md)** — WebMCP, Chrome agent stack, AI hijack, courts; full dossier [here](/science/computing/investigations/internet-that-should-have-been-investigation.md)
 - **[Microchips](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation)** — AI chips depend on the same suppressed semiconductor supply chain; China cannot replicate

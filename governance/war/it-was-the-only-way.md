@@ -154,6 +154,7 @@ More calendar and receipt detail for this presidential chain:
 - [Managed democracy, puppets, and redemption](https://paradigmthreat.net/governance/war/managed-democracy-puppets-and-redemption.md)
 - [Animatrix / currency-reset read](https://paradigmthreat.net/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md#334-predictive-programming--the-animatrix-the-second-renaissance-and-currency-reset-rehearsal)
 - [Iran 2026 — mission accomplished again](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)
+- [Corporate AI hell vs competitive AI heaven](https://paradigmthreat.net/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) — xAI/SpaceX/Cursor as military Plan B; Iron Man class as **Trump + Musk** in the AI lane (**AU-052**)
 
 ---
 
@@ -163,13 +164,13 @@ More calendar and receipt detail for this presidential chain:
 
 *Infinity War* and *Endgame* scenes used here: the 14,000,605 futures count; Strange’s warning that he would let Tony or the kid die to protect the Time Stone; the Titan trade; “it was the only way” (some transcripts: “there was no other way”); then in *Endgame*, Tony’s winning-future ask, “If I tell you what happens, it won’t happen,” and the one-finger moment. Film lines carry the bargain. They are not election memos.
 
-Tony Stark and Trump comparisons already circulate in commentary and satire. Mapping Trump to Tony and Thanos to force, cull, and Global South–China gravity is interpretive. The 1991 “Iraqi dinar strategy” label is author conviction with almost no mainstream news trail. The gold and hard-currency threat, the 2003 gold whitewash, *Three Kings*, and *The Second Renaissance* money-to-war scene carry that money-war argument. Calendar and policy detail live in the [presidency decoupling investigation](https://paradigmthreat.net/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md).
+Tony Stark and Trump comparisons already circulate in commentary and satire. Mapping Trump to Tony and Thanos to force, cull, and Global South–China gravity is interpretive. **Author extension (2026-08-29):** in the AI suppression lane, Iron Man also stands for **Musk** beside Trump — same outsider-industrialist class competing with technological suppression / singularity plots; see [Corporate AI hell vs competitive AI heaven](https://paradigmthreat.net/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) and [AU-052 §1.3](https://paradigmthreat.net/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md). The 1991 “Iraqi dinar strategy” label is author conviction with almost no mainstream news trail. The gold and hard-currency threat, the 2003 gold whitewash, *Three Kings*, and *The Second Renaissance* money-to-war scene carry that money-war argument. Calendar and policy detail live in the [presidency decoupling investigation](https://paradigmthreat.net/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md).
 
-Keywords: #InfinityWar #DoctorStrange #TonyStark #IronMan #Thanos #Trump #RepublicanParty #GivingUpPower #Avengers #Endgame #RINO #TedCruz #Eisenhower #Truman #Nixon #Watergate #Reagan #NewFederalism #GeorgeHWBush #GeorgeWBush #Clinton #Obama #HillaryClinton #Iraq #Gold #Animatrix #Iran #ParadigmThreatFiles
+Keywords: #InfinityWar #DoctorStrange #TonyStark #IronMan #Thanos #Trump #ElonMusk #RepublicanParty #GivingUpPower #Avengers #Endgame #RINO #TedCruz #Eisenhower #Truman #Nixon #Watergate #Reagan #NewFederalism #GeorgeHWBush #GeorgeWBush #Clinton #Obama #HillaryClinton #Iraq #Gold #Animatrix #Iran #ParadigmThreatFiles
 
 **Substack:** [paradigmthreat2.substack.com/p/it-was-the-only-way](https://paradigmthreat2.substack.com/p/it-was-the-only-way)
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-29
 
 ---
 

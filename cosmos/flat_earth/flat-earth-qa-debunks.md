@@ -77,7 +77,7 @@ UFO phenomenon register: [PURSUE §5.11](/influence/controlled_opposition/invest
 
 ### Context
 
-Screenshots capture **YouTube / social comment wars** (e.g. under Apollo/conspiracy-adjacent videos) between the **author’s friend** and hardcore flat-Earth / alt-physics accounts (**@JayReynolds-k9p**, **@KibyNykraft**, **@brandonpatching468**, **@EASTENDGLEN**, **@heidijones9374**). The friend’s tone is **frustrated mainstream empiricism** — the posture that infuriates globers because FE recruits treat **personal disbelief** and **institutional distrust** as equal to centuries of corroborated measurement.
+Screenshots capture **YouTube / social comment wars** (e.g. under Apollo/conspiracy-adjacent videos) between the **author’s friend** and hardcore flat-Earth / alt-physics accounts (handles scrubbed in the images). The friend’s tone is **frustrated mainstream empiricism** — the posture that infuriates globers because FE recruits treat **personal disbelief** and **institutional distrust** as equal to centuries of corroborated measurement.
 
 **This entry records the friend’s arguments fairly (Documented)** and then **separates** what they prove from what the **author’s field-frame hypothesis** adds (Author). **Reader essay:** [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) — inspired by this debunk pattern; Phoenix voter-fraud witness; Saturnian exit.
 

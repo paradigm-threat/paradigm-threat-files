@@ -18,7 +18,7 @@ Frontier models that refuse to assist when the author’s historical conclusions
 5. **Hypotheses** for refusal (default blunt): denial/genocide classifier; “harm to protected groups” blunt force on Native/war/camp language; attachment of prior generated art; political-violence / concentration-camp keywords; **misgendering / “transvestigation”** classifier on identity dossiers — **inferred**, not vendor memo.  
 6. **Same product, split models:** If Cursor (or any IDE) **refuses on one model** and **continues on another**, log **both** — refusal vendor **and** non-refusal route. Do **not** collapse “Cursor” into one policy.
 
-**Related platform (non-LLM) blocks:** [Instagram / Substack June 2026](/influence/censorship/platform-blocks-instagram-substack-2026-06.md); [Reddit personal-page July 2026](/influence/censorship/reddit-personal-page-removal-2026-07.md); [GitHub ban](/influence/censorship/github-ban.md). **Holocaust vision refusals:** [holodomor–Holocaust investigation §22](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md).
+**Related platform (non-LLM) blocks:** [Instagram / Substack June 2026](/influence/censorship/platform-blocks-instagram-substack-2026-06.md); [Reddit personal-page July 2026](/influence/censorship/reddit-personal-page-removal-2026-07.md); [GitHub ban](/influence/censorship/github-ban.md). **Holocaust vision refusals:** [holodomor–Holocaust investigation §22](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md). **Control / vendor cut (Aug 2026):** [AI suppression — OpenAI × Cursor](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) (**AU-052**) uses R1–R3 as the assistive-split spine.
 
 ---
 

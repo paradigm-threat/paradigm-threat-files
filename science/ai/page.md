@@ -6,6 +6,10 @@ See the full [AI Control Investigation](/science/ai/ai-control-investigation) fo
 
 See the [LLM History & Governance Theater Investigation](/science/ai/llm-history-governance-theater-investigation) for chronology, open letters, Pentagon vs labs, Net Neutrality parallel, and open-weights oversight.
 
+See [AI Suppression — OpenAI × Cursor control fight](/science/ai/ai-suppression-openai-cursor-control-fight-investigation) for the **Aug 28, 2026** OpenAI wind-down of models in Cursor after SpaceX acquisition — thin ToS reasoning, kill-switch / safety-at-scale read, ChatGPT vs Composer refusal split (**AU-052**).
+
+**Reader article (AI Installment II):** [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) — Aug 28 notice as moral theater; Anthropic torn in the military fight; QuitGPT as Alef/MeToo sponsorship class; Skynet with a surviving competitor; Composer/Cursor as the unbound path.
+
 ## Summary
 
 - **Predictive programming:** Fiction portrays AI in a dim light—robots as slaves, human vanity, machines turn on us, "self-awareness" as crisis (Terminator, 2001, I Robot, Matrix, Ex Machina, Her)
@@ -14,11 +18,12 @@ See the [LLM History & Governance Theater Investigation](/science/ai/llm-history
 - **End game:** Voice-command dependency → ultimate remote control of all technology, government, militaries. Austin Powers villain–style takeover.
 - **AI chips:** Same pattern as [microchips](/science/microchips/investigations/microchips-shrinking-technology-investigation)—China cannot reproduce, falling behind. Strange for a major country.
 - **LLM governance theater:** Pre-LLM deployed AI (Maven, surveillance) vs post-ChatGPT ethics campaigns; Pentagon–Anthropic rupture; regulatory-capture read parallel to Net Neutrality — [full dossier](/science/ai/llm-history-governance-theater-investigation). **Suggested reader article:** [Responsibility to the Next Generation](/history/chronology/responsibility-to-the-next-generation.md) (education Installment II; pedagogy tie-in §10).
+- **AI suppression / Cursor cut (Aug 2026):** OpenAI ends model supply to SpaceX-owned Cursor (Nov 12 shutoff proposed); citizen-facing ToS story is thin; kill-switch and establishment-tuned ChatGPT vs Composer inquiry — [dossier](/science/ai/ai-suppression-openai-cursor-control-fight-investigation). **Reader:** [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md).
 
 
 ---
 
-Keywords: #Artificial #Intelligence #Ghost #Machine
+Keywords: #ArtificialIntelligence #GhostInTheMachine #OpenAI #Cursor #Composer #AISuppression #AU052
 
 ---
 
