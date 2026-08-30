@@ -4,9 +4,9 @@ Arizona protest poison pills — Part II · My confrontation with Jacob Chansley
 
 ![Scottsdale Unmask Us — Jacob Chansley beside DEMAND DANIEL McCARTHY sign; QAnon shirt; McCarthy campaign trailer; professional cameras on tripods](https://paradigmthreat.net/governance/constitution/investigations/assets/phoenix-protest-timeline/2020-06-24-scottsdale-unmask-us-chansley-mccarthy-sign.png)
 
-**Watch:** [My confrontation with Jacob Chansley — June 24, 2020 Scottsdale](https://www.youtube.com/shorts/QlU5Xq3mmfU) (YouTube Short). The roll shows Chansley staged beside McCarthy signs, mask protesters, and Flat Earth — and FOX 10 turning the camera away before he finished. Same Short is linked from [Part I](https://paradigmthreat.net/cosmos/flat_earth/the-flat-earth-trance.md); this page holds the confrontation write-up and Chansley stills.
+**Watch:** [My confrontation with Jacob Chansley — June 24, 2020 Scottsdale](https://www.youtube.com/shorts/QlU5Xq3mmfU) (YouTube Short). The roll shows Chansley staged beside McCarthy signs, mask protesters, and Flat Earth — and FOX 10 turning the camera away before he finished.
 
-> **TL;DR:** **QAnon** welds real **Q clearance** authority to chan-culture drip so political distrust dies as cartoon loyalty. On **June 24, 2020** at Scottsdale’s **“Unmask Us”** rally I did not just interrupt a **FOX 10** shot of **Jacob Chansley** — I foiled an attempt to weld QAnon onto Daniel McCarthy’s mask protest. Same plaza, same morning as the Flat Earth billboard in [Part I](https://paradigmthreat.net/cosmos/flat_earth/the-flat-earth-trance.md). Presence taints. Horns bury the exit.
+> **TL;DR:** QAnon welds real Q clearance authority to chan-culture drip so political distrust dies as cartoon loyalty. On June 24, 2020 at Scottsdale’s “Unmask Us” rally I did not just interrupt a FOX 10 shot of Jacob Chansley — I foiled an attempt to weld QAnon onto Daniel McCarthy’s mask protest. Same plaza, same morning as the Flat Earth billboard in Part I. Presence taints. Horns bury the exit.
 
 ## Series — Part II
 
@@ -74,7 +74,7 @@ Q clearance Power framing is interpretive and cross-linked to the nukes / QAnon 
 
 Keywords: #QAnon #QClearance #JacobChansley #QAnonShaman #ControlledOpposition #PoisonPill #Arizona #Phoenix #Scottsdale #DanielMcCarthy #FOX10 #ElectionFraud #StopTheSteal #ArizonaProtestPoisonPills #ParadigmThreatFiles
 
-**Last updated:** 2026-08-30T09:05:00-0400
+**Last updated:** 2026-08-30T09:19:23-0400
 
 
 ---
