@@ -20,7 +20,7 @@
 | [2](#entry-2-density-gravity-electric-universe--my-truth-debates-friend-threads) | Density vs gravity, Electric Universe, Bible-vs-NASA, “my truth” | `friend-fe-debate-collage.png` |
 | [3](#entry-3-zonal-winds--alternating-eastwest-weather-belts) | Zonal winds / alternating east–west weather belts (Hadley–Ferrel–Polar) | — |
 
-Related: [Flat Earth investigation — history & misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md) · [CO / PSYOP angle](/cosmos/flat_earth/co.md) · [**Reader essay — The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) (friend debunk inspiration, Phoenix witness, dual ignorance) · [Thunderbolts / Electric Universe index](/cosmos/cosmology/saturnian/index-thunderbolts.md) · [**Three-Cell Motion dossier**](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) (Hadley / Ferrel / Polar + thermal=EM / æther framing; expands Entry 3)
+Related: [Flat Earth investigation — history & misinterpretation](/cosmos/flat_earth/flat-earth-investigation.md) · [CO / PSYOP angle](/cosmos/flat_earth/co.md) · [**Reader essay — The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) (friend debunk inspiration, Phoenix FE + Q, Chansley climax, dual ignorance) · [Thunderbolts / Electric Universe index](/cosmos/cosmology/saturnian/index-thunderbolts.md) · [**Three-Cell Motion dossier**](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) (Hadley / Ferrel / Polar + thermal=EM / æther framing; expands Entry 3)
 
 ---
 
@@ -79,7 +79,7 @@ UFO phenomenon register: [PURSUE §5.11](/influence/controlled_opposition/invest
 
 Screenshots capture **YouTube / social comment wars** (e.g. under Apollo/conspiracy-adjacent videos) between the **author’s friend** and hardcore flat-Earth / alt-physics accounts (handles scrubbed in the images). The friend’s tone is **frustrated mainstream empiricism** — the posture that infuriates globers because FE recruits treat **personal disbelief** and **institutional distrust** as equal to centuries of corroborated measurement.
 
-**This entry records the friend’s arguments fairly (Documented)** and then **separates** what they prove from what the **author’s field-frame hypothesis** adds (Author). **Reader essay:** [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) — inspired by this debunk pattern; Phoenix voter-fraud witness; Saturnian exit.
+**This entry records the friend’s arguments fairly (Documented)** and then **separates** what they prove from what the **author’s field-frame hypothesis** adds (Author). **Reader essay:** [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) — inspired by this debunk pattern; Phoenix FE + Q; Saturnian exit.
 
 ### What the flat-Earther side repeats (pattern)
 

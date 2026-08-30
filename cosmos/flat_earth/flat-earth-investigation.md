@@ -107,7 +107,7 @@ An alternative reading of “flat earth” imagery and text:
 Flat Earth is referenced in **paradigm-threat-files** in these places:
 
 - **[cosmos/flat_earth/co.md](./co.md)** — CIA-directed Flat Earth Conspiracy as PSYOP; Firmament/Absu vs. modern sky; Spanish maps (southern barrier as unknown geography, not doctrinal flat earth); controlled opposition.
-- **[cosmos/flat_earth/the-flat-earth-trance.md](/cosmos/flat_earth/the-flat-earth-trance.md)** — Reader essay: Flat Earth trance / dual ignorance; friend’s social debunk; Phoenix summer voter-fraud protest witness before Jan 6 (FE billboard, Chansley adjacent CO); Saturnian cosmology exit.
+- **[cosmos/flat_earth/the-flat-earth-trance.md](/cosmos/flat_earth/the-flat-earth-trance.md)** — Reader essay: Flat Earth trance / dual ignorance; Phoenix FE timeline; Q clearance / QAnon; Jun 24 Scottsdale Chansley confrontation; Saturnian cosmology exit.
 - **[cosmos/flat_earth/flat-earth-qa-debunks.md](/cosmos/flat_earth/flat-earth-qa-debunks.md)** — Q&A hub: (1) pilot-spin meme / rotating-frame debunk; (2) friend vs dogmatic FE threads (density, Electric Universe, “my truth”) merged with author EM frame-of-reference hypothesis — fixed local sensation while sky proves rotation; (3) zonal winds / east–west belts — **pattern real**; textbook Coriolis-as-cause rejected; author EM/EU (possibly spin-through-field) hypothesis — **not** “Coriolis is fake.”
 - **[page.md](/page.md)** — “Flat Earth Movement is a PsyOp created centuries ago by the Vatican” (link to `/controlled_opposition/flat_earth`). Note: the **historical** claim that the Church *taught* flat earth is unsupported by primary evidence (see Part One); the **Vatican/PsyOp** angle may refer to later use of the *myth* or to controlled opposition in the modern movement, not to documented 15th-century doctrine.
 - **[history/mudflood/page.md](/history/mudflood/page.md)** — Flat Earth as controlled opposition / divide-and-conquer; image and link to flatearth.ws.
@@ -125,7 +125,7 @@ Flat Earth is referenced in **paradigm-threat-files** in these places:
 - [ ] **Vatican/PsyOp:** Clarify whether “created centuries ago by the Vatican” refers to (a) the **myth** that the Church taught flat earth (invented later), or (b) some other Vatican-linked narrative; update [page.md](/page.md) or controlled opposition copy if needed.
 - [ ] **Collinear / Golden Age:** Trace specific ancient or medieval sources that describe the cosmic axis or “normal lines” up/down in a form that could have been later misread as “flat earth.”
 - [ ] **Refraction:** Collect serious treatments of atmospheric and celestial refraction and their effect on inferred distances and shapes (e.g. FE critics’ use of refraction vs. mainstream astronomy).
-- [ ] **Phoenix protest witness:** Author may hold personal footage; see [Phoenix Stop the Steal — McCarthy, Chansley author-witness investigation](/governance/constitution/investigations/phoenix-stop-the-steal-mccarthy-chansley-author-witness-investigation.md) and [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md).
+- [ ] **Phoenix protest witness:** Author holds personal footage; see [Phoenix protest timeline](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) and [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md).
 
 ## References
 

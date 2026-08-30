@@ -1,9 +1,9 @@
 # Investigation: Phoenix protest timeline — McCarthy, Chansley, Flat Earth, QAnon, and CO pattern
 
-> **TL;DR:** **Three distinct author-witness venues:** (**1**) **ASU mask-mandate protest** (~mid-June 2020, date TBD) — pre-march **Flat Earth** debate, **government official** confirms **communist insurrection** conspiracy, **chemtrails** segue, author **Catholic Church / Requerimiento** argument — **Flat Earthers did not join march**; (**2**) **Jun 24, 2020 Scottsdale “Unmask Us”** — **Daniel McCarthy** speaks (**“communist insurrection”** — documented); **Jacob Chansley** **TV beat** — **one FOX 10 camera** held on him while **other crews** did **local interviews nearby**; his **yelling audible over** those interviews; author **disrupted / broke shot** (**Paid! money** chant in front of FOX 10 camera) on **`VID_20200624_110648.mp4`** (~20 s intervention + **end pack-up frame — confirmed**); **Flat Earth PVC cube booth** + **eight frame grabs** ([§3C](#3c-jun-24-photo-evidence--frame-grabs); Chansley **“Q sent me”** + author-in-frame intervention grab); (**3**) **Nov 7, 2020 Capitol Stop the Steal** — funded **Flat Earth** billboard + **detailed** author confrontation (Catholic Church / Requerimiento). McCarthy + Chansley shared **Nov–Dec 2020** post-election venues. Author suspects **McCarthy as controlled opposition**. **Documented later McCarthy beats:** **$120M** defamation suit vs **James T. Harris** / **iHeartRadio** (Feb 2021) — **unanimously dismissed** by **Arizona Supreme Court** (Apr 14, 2023, *Harris v. Warner*, CV-21-0242-PR) as **political hyperbole** protected by the **First Amendment**; **Jan 2022** viral **Trump debate** stunt with **flamethrower MAGA-hat** burn — debate terms listed **Jake Angeli Chansley Legal Defense Fund** among charity options ([Newsweek](https://www.newsweek.com/ex-gop-senate-candidate-torches-maga-hat-challenges-trump-1-million-debate-1666071)). Cross-read: [Flat Earth trance essay](/cosmos/flat_earth/the-flat-earth-trance.md) · [2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) · [QAnon CO investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) · [QAnon CO hub](/influence/controlled_opposition/00) · [poison-pill sorting](/influence/controlled_opposition/mudflood-gatekeepers.md).
+> **TL;DR:** **Three distinct author-witness venues:** (**1**) **ASU mask-mandate protest** (~mid-June 2020, date TBD) — pre-march **Flat Earth** debate, **government official** confirms **communist insurrection** conspiracy, **chemtrails** segue, author **Catholic Church / Requerimiento** argument — **Flat Earthers did not join march**; (**2**) **Jun 24, 2020 Scottsdale “Unmask Us”** — **Daniel McCarthy** speaks (**“communist insurrection”** — documented); **Jacob Chansley** **TV beat** — **one FOX 10 camera** held on him while **other crews** did **local interviews nearby**; his **yelling audible over** those interviews; author **disrupted / broke shot** (**Paid! money** chant in front of FOX 10 camera) on **`VID_20200624_110648.mp4`** (~20 s intervention + **end pack-up frame — confirmed**); **Flat Earth PVC cube booth** + **eight frame grabs** ([§3C](#3c-jun-24-photo-evidence--frame-grabs); Chansley **“Q sent me”** + author-in-frame intervention grab); (**3**) **Nov 7, 2020 Capitol Stop the Steal** — funded **Flat Earth** billboard / presence (**sighting**; **no** Catholic Church / Requerimiento debate — that engagement was **ASU only**). McCarthy + Chansley shared **Nov–Dec 2020** post-election venues. Author suspects **McCarthy as controlled opposition**. **Documented later McCarthy beats:** **$120M** defamation suit vs **James T. Harris** / **iHeartRadio** (Feb 2021) — **unanimously dismissed** by **Arizona Supreme Court** (Apr 14, 2023, *Harris v. Warner*, CV-21-0242-PR) as **political hyperbole** protected by the **First Amendment**; **Jan 2022** viral **Trump debate** stunt with **flamethrower MAGA-hat** burn — debate terms listed **Jake Angeli Chansley Legal Defense Fund** among charity options ([Newsweek](https://www.newsweek.com/ex-gop-senate-candidate-torches-maga-hat-challenges-trump-1-million-debate-1666071)). Cross-read: [Flat Earth trance essay](/cosmos/flat_earth/the-flat-earth-trance.md) · [2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) · [QAnon CO investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) · [QAnon CO hub](/influence/controlled_opposition/00) · [poison-pill sorting](/influence/controlled_opposition/mudflood-gatekeepers.md).
 
-**Status:** Open — **`110648`** frame- + dialogue-reviewed (**2026-08-28**): FOX 10 beat + **pack-up end frame** + **paid-chant correction** + full **SRT transcript** [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648); remaining rolls (`102221`, `110943`) pending.  
-**Date:** 2026-08-28
+**Status:** Open — **`110648`** frame- + dialogue-reviewed (**2026-08-28**): FOX 10 beat + **pack-up end frame** + **paid-chant correction** + full **SRT transcript** [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648); remaining rolls (`102221`, `110943`) pending. Venue correction **2026-08-30**: Catholic FE debate **ASU-only**; Nov 7 = FE sighting; march companion = Jewish woman.  
+**Date:** 2026-08-30
 
 ---
 
@@ -17,7 +17,7 @@
 6. **Primary witness — McCarthy / Chansley / TV cameras (June 24, 2020 Unmask Us)** → [§3](#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us)
 7. **Jun 24 photo evidence — frame grabs (QAnon, speaker, Chansley TV beat, Flat Earth booth)** → [§3C](#3c-jun-24-photo-evidence--frame-grabs)
 8. **Chansley confrontation dialogue — `VID_20200624_110648` SRT** → [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648)
-9. **Flat Earth billboard — pattern and Nov 7 Capitol confrontation** → [§3A](#3a-flat-earth-billboard--pattern-and-capitol-confrontation-november-7-2020)
+9. **Flat Earth billboard — pattern and Nov 7 Capitol presence** → [§3A](#3a-flat-earth-billboard--pattern-and-capitol-presence-november-7-2020)
 10. **ASU mask protest — press archive search** → [§3E](#3e-asu-mask-protest--press-archive-search)
 11. **Poison-pill adjacency (Flat Earth + QAnon)** → [§4](#4-poison-pill-adjacency--flat-earth-and-chansley)
 12. **McCarthy CO read — author + documented pattern** → [§5](#5-mccarthy-controlled-opposition-read)
@@ -37,7 +37,7 @@
 >
 > McCarthy kept appearing through **November–December 2020** at **Capitol**, **Maricopa County Tabulation and Election Center**, and **Executive Tower** while Chansley showed at **shared post-election locations**. That is why I suspect McCarthy reads as **controlled opposition**: not because every fraud claim was false, but because he **never expelled the poison pills** from protests he headlined.
 
-**Unpack:** **ASU pre-march debate** (§3B) = **~mid-June 2020**, **Catholic Church / Requerimiento** argument + **communist insurrection** official beat — **not** Jun 24 Scottsdale. **McCarthy/Chansley/TV cameras** (§3) = **Jun 24, 2020 Unmask Us**, **Scottsdale** — **Flat Earth billboard sighting only** at that venue. **Flat Earth** detailed confrontation (§3A) = **Nov 7, 2020 Capitol Stop the Steal**. **Missing media** reads (§3) are **hypothesis tier** — not located proof of scrubbing.
+**Unpack:** **ASU pre-march debate** (§3B) = **~mid-June 2020**, **Catholic Church / Requerimiento** argument (**only** FE engagement of that kind) + **communist insurrection** official beat — **not** Jun 24 Scottsdale; **not** Nov 7 Capitol. **McCarthy/Chansley/TV cameras** (§3) = **Jun 24, 2020 Unmask Us**, **Scottsdale** — **Flat Earth billboard + PVC sighting only** at that venue. **Nov 7 Capitol** (§3A) = Flat Earth **billboard / presence** (sighting) beside Stop the Steal — **no** Catholic Church debate. **Missing media** reads (§3) are **hypothesis tier** — not located proof of scrubbing.
 
 ---
 
@@ -48,7 +48,7 @@
 | **ASU mask-mandate protest** — pre-march Flat Earth debate, government official **communist insurrection** confirmation, chemtrails segue, Catholic Church argument; author marched with small group (Flat Earthers did **not** join) | **~mid-June 2020** (TBD — see [§3E](#3e-asu-mask-protest--press-archive-search)) | **ASU Tempe campus** (mask walk through campus) | **Not** Jun 24 Scottsdale; **not** Stop the Steal | **Author eyewitness** |
 | **“Unmask Us”** anti-mask rally — McCarthy speaks; Chansley **TV beat** (**one FOX 10 broadcast camera** on him; **handheld cameras** on lawn; other crews on **local interviews**); author **broke shot** (**Paid! money** chant); **FOX 10 pack-up** while Chansley still ranting; Flat Earth **PVC cube booth** + **billboard sighting**; QAnon presence + **eight frame grabs** ([§3C](#3c-jun-24-photo-evidence--frame-grabs)) | **2020-06-24** | **Scottsdale City Hall** | ~200 people; geotagged still `IMG_20200624_101244.jpg`; intervention roll **`VID_20200624_110648.mp4`** confirmed | **Documented** (McCarthy) + **author eyewitness** + **video-reviewed** |
 | Daniel McCarthy loses Arizona GOP Senate primary to Martha McSally | **2020-08** | — | ~370k-vote margin | **Documented** |
-| **Stop the Steal** at **Arizona Capitol**; McCarthy speaks; Flat Earth **detailed** confrontation | **2020-11-07** | **Arizona State Capitol**, Phoenix | Catholic Church / Requerimiento argument — **author**; also moved to **MCTEC** same day (Getty) | **Documented** + **author eyewitness** |
+| **Stop the Steal** at **Arizona Capitol**; McCarthy speaks; Flat Earth **billboard / presence** (sighting) | **2020-11-07** | **Arizona State Capitol**, Phoenix | **No** Catholic Church / Requerimiento debate here (that was **ASU**); also moved to **MCTEC** same day (Getty) | **Documented** + **author eyewitness** |
 | McCarthy + Chansley at **MCTEC**, **Executive Tower**, Capitol — post-election circuit | **2020-11 → 2020-12** | Phoenix metro | Partial press | **Author memory** + partial press |
 | Large **Stop the Steal** rally at Capitol plaza | **2020-11-14** | Capitol plaza | Author photo roll — see [§2A](#2a-author-protest-appearances--personal-photo-library) | **Author device metadata** |
 | U.S. Capitol breach; Chansley as **QAnon Shaman** | **2021-01-06** | Washington, D.C. | Independent of Jun 24 Scottsdale scene | **Documented** |
@@ -98,7 +98,7 @@
 
 - **ASU mask-mandate protest (~mid-June 2020):** Pre-march **Flat Earth** debate circle; **government official** brought as speaker re communism; author **Catholic Church / Requerimiento** argument; small march through campus **without masks** — **not** documented at Jun 24 Scottsdale. See [§3B](#3b-asu-mask-mandate-protest--flat-earth-pre-march-debate-official-communism-beat).  
 - **Jun 24, 2020 — Scottsdale “Unmask Us”:** **Anti-mask** mandate protest (~200). **McCarthy → Chansley TV beat** (**one camera on Chansley**; other crews on **local interviews**) + **Flat Earth billboard off to side** (**sighting only** — **no** Catholic Church confrontation here). **Not Stop the Steal.**  
-- **Nov 7, 2020 — Capitol Stop the Steal:** Post-election fraud grievance. **Flat Earth** **detailed** confrontation (**author**). **Not** the Chansley TV-beat day.  
+- **Nov 7, 2020 — Capitol Stop the Steal:** Post-election fraud grievance. **Flat Earth** billboard / presence (**sighting only** — **no** Catholic Church debate). **Not** the Chansley TV-beat day.  
 - **Flat Earth pattern (author):** funded billboard at **every large** protest; **absent** at **small** turnouts (e.g. **2021-10-25** — see [§2A](#2a-author-protest-appearances--personal-photo-library)).
 
 ---
@@ -108,12 +108,12 @@
 | Witness bundle | **Date / venue** | Tier | Why |
 |---|---|---|---|
 | Pre-march **Flat Earth** debate; **government official** confirms **communist insurrection**; **chemtrails** segue; author **Catholic Church / Requerimiento** argument | **~mid-June 2020 — ASU Tempe campus** (mask-mandate protest) | **Author eyewitness** | **Not** Jun 24 Scottsdale; **not** Nov 7 Capitol — see [§3B](#3b-asu-mask-mandate-protest--flat-earth-pre-march-debate-official-communism-beat) |
-| **Flat Earthers did not join march**; author walked with **older Israeli lady**, few people, to **parking lot**; author had **big bike** | **Same ASU event** | **Author eyewitness** | Separates pre-march debate from march cohort |
+| **Flat Earthers did not join march**; author walked with **older Jewish woman**, few people, to **parking lot**; author had **big bike** | **Same ASU event** | **Author eyewitness** | Separates pre-march debate from march cohort |
 | McCarthy speaks → **Chansley** staging → **one FOX 10 broadcast camera** on Chansley (+ **handheld cameras**; other crews on **local interviews**) → author **breaks shot** (**crazy signal** [witness, not on roll] → **Paid! money** confrontation [roll audio]) → **FOX 10 pack-up** while Chansley still ranting | **2020-06-24 — Scottsdale “Unmask Us”** | **Author eyewitness** + **video-reviewed** + **eight frame grabs** + **Documented** (McCarthy) | **Anti-mask** — **not Stop the Steal**; [§3C](#3c-jun-24-photo-evidence--frame-grabs) |
 | **Flat Earth** giant **sheet billboard** **off to side** — **sighting only** | **2020-06-24 — Scottsdale** | **Author eyewitness** | **No** Catholic Church confrontation at this venue |
 | **QAnon** presence at Jun 24 rally | **2020-06-24 — Scottsdale** | **Author eyewitness** + **frame grabs** [§3C](#3c-jun-24-photo-evidence--frame-grabs) | Q / QMap.pub sign + speaker-at-mic + Chansley TV-beat sequence |
 | Author **many videos** incl. **pro-Q fights** | **2020-06-24** | **Author memory** | **Absent from Google Photos**; Takeout **`Trash/`** recovery |
-| **Flat Earth** confrontation (Catholic Church / Requerimiento) — **detailed** | **2020-11-07 — Capitol** | **Author eyewitness** | Stop the Steal; author **walked over** to billboard |
+| **Flat Earth** billboard / presence — **sighting only** (**no** Catholic Church / Requerimiento debate) | **2020-11-07 — Capitol** | **Author eyewitness** | Stop the Steal; FE **off to side**; Church debate was **ASU only** |
 | **Flat Earth absent** | **Small** protests (e.g. **2021-10-25**) | **Author visual read** | Headcount filter — claim **A9** |
 | McCarthy **“GOP failed you”** | **2020-11-07 — Capitol** | **Documented** | [azcentral video](https://www.azcentral.com/videos/news/politics/elections/2020/11/07/daniel-mccarthy-tells-trump-supporters-biden-not-accepted-arizona/6206009002/) — **post-election** wording, not Jun 24 anti-mask |
 
@@ -267,8 +267,8 @@ Besides a few items the author **knows they trashed** (mostly mistaken phone vid
 4. **Communist insurrection beat:** Author asked whether a serious **communist insurrection conspiracy** was underway in America; official answered **yes, point blank** — **eye-opener** for author.  
 5. **Chemtrails segue:** **Chemtrails** topic entered the same debate; author **agreed** chemtrails in the moment; a **jumbo jet** flew overhead with a **streak above clouds**; official **lost interest** and **decided not to speak** after the chemtrails turn.  
 6. **Controlled-opposition read (author):** Chemtrails segue → **Flat Earth**; most already agreed Earth flat — **controlled opposition worked** in real time.  
-7. **Catholic Church argument:** Author **debated**, mentioned the **Catholic Church** — then the **march started**. (**This** is where the **Requerimiento / church-sponsor** argument occurred — **not** at Jun 24 Scottsdale.)  
-8. **March cohort:** **Flat Earthers did not join** the march; author went with an **older Israeli lady** and **only a few people**; walked to a **parking lot**; author had a **big bike**.
+7. **Catholic Church argument:** Author **debated**, mentioned the **Catholic Church** — then the **march started**. (**This** is the **only** venue where the **Requerimiento / church-sponsor** Flat Earth argument occurred — **not** at Jun 24 Scottsdale and **not** at Nov 7 Capitol.)  
+8. **March cohort:** **Flat Earthers did not join** the march; author went with an **older Jewish woman** and **only a few people**; walked to a **parking lot**; author had a **big bike**.
 
 ### What is not yet in this file
 
@@ -373,15 +373,15 @@ Besides a few items the author **knows they trashed** (mostly mistaken phone vid
 
 ---
 
-## 3A. Flat Earth billboard — pattern and Capitol confrontation (November 7, 2020)
+## 3A. Flat Earth billboard — pattern and Capitol presence (November 7, 2020)
 
-**Pattern (author):** Funded **sheet billboard** at **every large** protest author attended (**Capitol Stop the Steal**, **Scottsdale Unmask Us**, big **Nov–Dec 2020** turnouts); **absent** at **small** gatherings (**2021-10-25** etc. — see [§2A](#2a-author-protest-appearances--personal-photo-library)). **Scottsdale Jun 24, 2020** (~200 people): billboard **off to side** — **sighting only** at [§3](#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us); **detailed Catholic Church confrontation was not there** — that was **ASU** [§3B](#3b-asu-mask-mandate-protest--flat-earth-pre-march-debate-official-communism-beat).
+**Pattern (author):** Funded **sheet billboard** at **every large** protest author attended (**Capitol Stop the Steal**, **Scottsdale Unmask Us**, big **Nov–Dec 2020** turnouts); **absent** at **small** gatherings (**2021-10-25** etc. — see [§2A](#2a-author-protest-appearances--personal-photo-library)). **Scottsdale Jun 24, 2020** (~200 people): billboard **off to side** — **sighting only** at [§3](#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us). **Catholic Church / Requerimiento Flat Earth debate** occurred **once only** — **ASU** pre-march [§3B](#3b-asu-mask-mandate-protest--flat-earth-pre-march-debate-official-communism-beat) — **not** at Scottsdale and **not** at Nov 7 Capitol.
 
-**Capitol Nov 7, 2020** — detailed confrontation witness (Stop the Steal):
+**Capitol Nov 7, 2020** — Flat Earth **presence / sighting** (Stop the Steal):
 
 1. **Location:** Outside **Arizona State Capitol**, Phoenix — **Stop the Steal** / election-integrity rally.  
-2. **Adjacent poison pill:** **Flat Earth** group with large professional billboard — not participating in main protest; author challenged them (**Catholic Church / Requerimiento** argument at scene — same thesis as ASU pre-march debate, **separate venue**).  
-3. **Bystander persuasion:** Author convinced listeners the billboard group was there to **ruin** the protest, not support it — **no press presence** on this sidebar; author **never expected** a news clip of a fringe Flat Earth argument.
+2. **Adjacent poison pill:** **Flat Earth** group with large professional billboard — not participating in main protest; author **saw** the billboard / presence (**sighting**). **No** Catholic Church / Requerimiento debate at this venue.  
+3. **McCarthy circuit:** McCarthy spoke the same day; later same circuit to **MCTEC** (Getty). Flat Earth stayed **off to the side** as reputation taint, not a second Church debate.
 
 ### What is not yet in this file
 
@@ -466,7 +466,7 @@ The stunt **burns MAGA** while **listing Chansley’s defense fund** as a **char
 |---|---|---|
 | A0 | **ASU mask-mandate protest** (~mid-June 2020) — pre-march Flat Earth debate, **government official** **communist insurrection** confirmation, chemtrails segue, **Catholic Church / Requerimiento** argument; Flat Earthers **did not march** | **Author eyewitness** |
 | A1 | **Jun 24, 2020** **Scottsdale** — McCarthy + **Flat Earth billboard sighting** + Chansley **TV beat** (**one FOX 10 camera** on him; other crews on **local interviews**) + author intervention + **pro-Q fights on author video** | **Author eyewitness** + **video-reviewed** (`110648`) |
-| A1b | **Nov 7, 2020 Capitol** — **Flat Earth** **detailed** confrontation (Catholic Church / Requerimiento) | **Author eyewitness** |
+| A1b | **Nov 7, 2020 Capitol** — **Flat Earth** billboard / presence (**sighting**; **no** Catholic Church / Requerimiento debate — that was **ASU only**) | **Author eyewitness** |
 | A1c | **Jun 24, 2020** **QAnon presence** + **Chansley TV-beat sequence** + **author intervention frame** + **FOX 10 pack-up end frame** at Scottsdale — **eight frame grabs** [§3C](#3c-jun-24-photo-evidence--frame-grabs); **`VID_20200624_110648.mp4`** TV-beat + intervention + pack-up roll **confirmed** (~20 s intervention); speaker **unidentified** | **Author eyewitness** + **video-reviewed** + **author frame grab** |
 | A1d | **`VID_20200624_110648` dialogue** — Crackpot bystander → author **Paid! money** chant → Chansley shirt response → **anarchy** line → **paid-shill** Q-supporter exchange → **FOX 10 pack-up** while Chansley still ranting | **SRT** + **roll audio** + **author-attributed** speakers — [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648) · [§3C end frame](#3c-jun-24-photo-evidence--frame-grabs) |
 | A1e | **FOX 10 primary cameraman packed up / moved camera aside** at **`110648` roll end** while **Chansley still ranting** on audio — segment **called before subject finished** | **Video-reviewed** + **author frame grab** — [§3C](#3c-jun-24-photo-evidence--frame-grabs) |
@@ -509,7 +509,7 @@ The stunt **burns MAGA** while **listing Chansley’s defense fund** as a **char
 
 Keywords: #StopTheSteal #DanielMcCarthy #Phoenix #Arizona #ElectionFraud #JacobChansley #QAnon #FlatEarth #ControlledOpposition #PoisonPill #JamesTHarris #Defamation #FirstAmendment #ParadigmThreatFiles
 
-**Last updated:** 2026-08-28 (`110648` pack-up end frame + paid-chant correction; SRT §3D; eight frame grabs)
+**Last updated:** 2026-08-30 (venue: ASU-only Catholic FE debate; Nov 7 sighting; Jewish march companion; companion essay unified FE+Q)
 
 ---
 
@@ -533,8 +533,8 @@ Keywords: #StopTheSteal #DanielMcCarthy #Phoenix #Arizona #ElectionFraud #JacobC
 
 ## Investigator notes
 
-- Companion reader essay: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) — Flat Earth + Chansley witness in narrative form.  
+- Companion reader essay: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) — unified FE + Q narrative; Chansley / FOX 10 climax.  
 - AZ Supreme Court opinion text: CV-21-0242-PR (Montgomery, J., filed 2023-04-14).  
 - HD Takeout search (**2026-08-22**): **`VID_20200624_*`** ×3 in Takeout **`Trash/`**; stills ×4 in **`Photos from 2020/`**; **`trashed: true`** in JSON. Trash pattern: selective video delete, 56-item Trash inventory, no trash timestamp in sidecars; **post-fire Google gap** added as plausible account gap (**fire date TBD**). Commit **`a7847b0c`** pushed gitlab/iad1.  
 - Video frame review (**2026-08-28**): **`VID_20200624_110648.mp4`** — **one FOX 10 camera** on Chansley; other crews on **local interviews**; **SRT dialogue** archived and annotated [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648).
-- User-provided context (**2026-08-22**): **Venue correction** — **Catholic Church / Flat Earth detailed confrontation** at **ASU** pre-march (~mid-June 2020) and **Capitol Nov 7**, **not** Jun 24 Scottsdale (billboard **sighting only** there). Trash-pattern read: selective loss + post-fire Google gap (**hypothesis**).
+- User-provided context (**2026-08-22** / **2026-08-30**): **Venue correction** — **Catholic Church / Flat Earth debate** **once only** at **ASU** pre-march (~mid-June 2020); **Nov 7 Capitol** = Flat Earth **billboard / presence** (sighting); **Jun 24 Scottsdale** = billboard + PVC **sighting only** + Chansley climax. March companion = **older Jewish woman** (not Israeli). Trash-pattern read: selective loss + post-fire Google gap (**hypothesis**).

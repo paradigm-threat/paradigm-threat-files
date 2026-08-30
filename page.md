@@ -60,7 +60,7 @@ or *not* believing.
 * [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) - Sources, maps, books, and Atlantis framing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) - Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) - History, myth, and misinterpretation of the flat-Earth idea.
-* [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - **Controlled Opposition Trilogy Installment I:** FE debunk trance, dual ignorance, sponsored billboard at Nov 7 Capitol; Scottsdale Q+FE pan teaser; Saturnian exit; Installments II–III coming.
+* [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - FE debunk trance, dual ignorance, Phoenix FE timeline, Q clearance / QAnon, Jun 24 Scottsdale Chansley / FOX 10 confrontation; Saturnian exit.
 * [Flat Earth - Q&A and Debunks](/cosmos/flat_earth/flat-earth-qa-debunks.md) - Social debunk captures; rotating-frame debunk; author EM/frame-of-reference hypothesis.
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) - Curved-light aether model: Maxwell lineage, gravity reinterpretation pressure, and cosmological scale-inference risk.
 * [Big Mysteries Survey - consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) - APS 1,675-physicist poll vs Phys.org gloss; menu design, black holes, QG fracture, audit/ROI, Space Force.
