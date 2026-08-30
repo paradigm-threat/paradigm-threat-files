@@ -52,6 +52,13 @@ public/
 # python
 __pycache__/
 *.pyc
+.venv/
+
+# Local Phoenix timeline renders — GitLab 100MiB limit; keep on disk / IPFS, not git
+governance/constitution/investigations/assets/phoenix-protest-timeline/*.mkv
+governance/constitution/investigations/assets/phoenix-protest-timeline/*-instagram.mp4
+governance/constitution/investigations/assets/phoenix-protest-timeline/VID_20200624_110648.mp4
+governance/constitution/investigations/assets/phoenix-protest-timeline/VID_20200624_110648-fox10-packup-pause.mp4
 
 # Investigation LLM sweep — generated plans (local only; spec + template stay tracked)
 docs/sweep-plans/*
