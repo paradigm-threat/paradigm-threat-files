@@ -152,7 +152,7 @@ Author witness on this page: Flat Earth billboard and PVC presence at large Ariz
 
 Keywords: #FlatEarth #FlatEarthTrance #ControlledOpposition #SaturnianCosmology #Firmament #Absu #PoisonPill #CollinearConfiguration #FrameOfReference #Arizona #Phoenix #Scottsdale #StopTheSteal #FaithDebate #HollowEarth #DEWChurch #Alef #TaxExempt #Church #501c3 #Chemtrails #RevelationOfTheMethod #ArizonaProtestPoisonPills
 
-**Last updated:** 2026-08-30T09:19:23-0400
+**Last updated:** 2026-08-30T09:26:09-0400
 
 
 ---
