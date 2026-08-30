@@ -8,7 +8,7 @@ Why serious people cannot look away from a movement that was built to waste thei
 
 <!-- popimage-portrait-sibling: the-flat-earth-trance-portrait.png (~1086×1448) — PopImage art-direction at max-width 768px; do not embed portrait URL in Markdown -->
 
-> **TL;DR:** Flat Earth keeps serious people glued to a fight designed to go nowhere. Debunkers win the physics and still lose the room. The movement is controlled opposition: a poison pill that protects deep-time dogma while burying Saturnian cosmology. Funded Flat Earth billboards showed up at large Arizona rallies and stayed away from the small ones. Presence taints. Noise buries the exit.
+> **TL;DR:** Flat Earth keeps serious people glued to a fight designed to go nowhere. Debunkers win the physics and still lose the room. The movement is controlled opposition: a poison pill that protects deep-time dogma while burying Saturnian cosmology. Funded Flat Earth billboards showed up at large Arizona rallies and stayed away from the small ones. The billboard taints the photograph; the noise keeps Saturnian cosmology off the stage.
 
 ## The debunk trance both camps cannot break
 
