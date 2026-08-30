@@ -448,9 +448,9 @@ Full cite stack: [Flat Earth investigation — §VI](/cosmos/flat_earth/flat-ear
 
 | Adjacent actor | Why it taints | In-repo read |
 |---|---|---|
-| **Flat Earth billboard** + smaller **Bible / Firmament** signs | Easy-debunk **alternative science** beside real grievance; faith-hook captions that **mesmerized** some older protesters even when they thought FE was crazy | [Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) · [co.md](/cosmos/flat_earth/co.md) |
+| **Flat Earth billboard** + smaller **Bible / Firmament** signs | Easy-debunk **alternative science** beside real grievance; faith-hook captions that **mesmerized** some older protesters even when they thought FE was crazy | [Flat Earth trance — Part I](/cosmos/flat_earth/the-flat-earth-trance.md) · [co.md](/cosmos/flat_earth/co.md) |
 | **Tax-exempt church channel (possible)** | If protest FE ops run through deductible-donation / church opacity, the public subsidizes the taint | [§3F](#3f-tax-exempt-church-vehicle--arizona-funding-gap) · [FE investigation §VI](/cosmos/flat_earth/flat-earth-investigation.md#vi-tax-exempt-church-vehicle--funding-opacity) |
-| **Jacob Chansley / QAnon** | Caricature **adjacent ruin** — cameras prefer horns over affidavits | [QAnon CO](/influence/controlled_opposition/00) |
+| **Jacob Chansley / QAnon** | Caricature **adjacent ruin** — cameras prefer horns over affidavits | [QAnon shaman — Part II](/influence/controlled_opposition/qanon-shaman-scottsdale.md) · [QAnon CO](/influence/controlled_opposition/00) |
 | **McCarthy (author read)** | Headliner who **does not clear the frame** | [§5](#5-mccarthy-controlled-opposition-read) |
 
 **Sorting rule:** [Mudflood gatekeepers — poison pill present → CO behavior](/influence/controlled_opposition/mudflood-gatekeepers.md). McCarthy is scored here on **stage hygiene**, not on whether **2020 Arizona fraud** claims were true ([2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md)).
@@ -599,7 +599,7 @@ Keywords: #StopTheSteal #DanielMcCarthy #Phoenix #Arizona #ElectionFraud #JacobC
 
 ## Investigator notes
 
-- Companion reader essay: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) — unified FE + Q narrative; Chansley / FOX 10 climax.  
+- Companion reader essays: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) (*Arizona protest poison pills — Part I*) · [`influence/controlled_opposition/qanon-shaman-scottsdale.md`](/influence/controlled_opposition/qanon-shaman-scottsdale.md) (*Part II* — Chansley / FOX 10).  
 - AZ Supreme Court opinion text: CV-21-0242-PR (Montgomery, J., filed 2023-04-14).  
 - HD Takeout search (**2026-08-22**): **`VID_20200624_*`** ×3 in Takeout **`Trash/`**; stills ×4 in **`Photos from 2020/`**; **`trashed: true`** in JSON. Trash pattern: selective video delete, 56-item Trash inventory, no trash timestamp in sidecars; **post-fire Google gap** added as plausible account gap (**fire date TBD**). Commit **`a7847b0c`** pushed gitlab/iad1.  
 - Video frame review (**2026-08-28**): **`VID_20200624_110648.mp4`** — **one FOX 10 camera** on Chansley; other crews on **local interviews**; **SRT dialogue** archived and annotated [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648).
