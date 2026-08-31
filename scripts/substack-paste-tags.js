@@ -29,13 +29,20 @@
     "PoisonPill",
     "CollinearConfiguration",
     "FrameOfReference",
-    "QAnon",
     "Arizona",
-    "ElectionFraud",
     "Phoenix",
-    "DebunkHost",
+    "Scottsdale",
+    "StopTheSteal",
     "FaithDebate",
-    "ParadigmThreatFiles",
+    "HollowEarth",
+    "DEWChurch",
+    "Alef",
+    "TaxExempt",
+    "Church",
+    "501c3",
+    "Chemtrails",
+    "RevelationOfTheMethod",
+    "ArizonaProtestPoisonPills",
   ];
 
   const PLACEHOLDER = "Select or create tags";
@@ -91,8 +98,8 @@
     if (/^keywords$/i.test(t)) return false;
     if (t.includes("#")) return false;
     if (t.length > MAX_TAG_LEN) return false;
-    // Prefer Option B style: letters/digits only (PascalCase or short acronyms).
-    if (!/^[A-Za-z][A-Za-z0-9]*$/.test(t)) return false;
+    // Prefer Option B style: letters/digits (PascalCase, short acronyms, e.g. 501c3).
+    if (!/^(?=.*[A-Za-z])[A-Za-z0-9]+$/.test(t)) return false;
     return true;
   }
 

@@ -495,6 +495,8 @@ Entertainment law: **13th Amendment** bars **specific performance** of **persona
 
 ## MeToo machinery — industry sponsorship, persecution pattern, and the Lively/Baldoni lane
 
+**Dedicated dossier (2026-08-29):** [**#MeToo corporate sponsorship choreography**](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) — full author thesis, Spacey highlight, Carroll/SCOTUS Aug 2026 hinge, accusation/counter starter registry, **AU-053**. This section remains the **celebrity-containment** cut (Lively/Baldoni / Reynolds).
+
 **Investigation essential (restated):** The **2017–present #MeToo public campaign** is **not** treated as **organic**. It is **corporate- / institution-sponsored** machinery — **exactly the same epistemic class** as **Occupy Wall Street** ([§ Investigation essentials](#investigation-essentials--sponsored-campaigns-baseline)). **L1** **abuse** **cases** (**Weinstein** **conviction**, **NDA** **decades**) **coexist** with **L3** **read** that **Hollywood** **owned** **the** **wave** **once** **NYT** **lit** **it**.
 
 ### Author thesis (session 2026-06-10)
@@ -1298,6 +1300,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | **Suppression hub**                          | [suppression page](/influence/suppression/page.md)                                                                                                                                            |
 | **Reader essay — celebrity IP slavery**      | [It's gonna be a long, long time.](/influence/suppression/modern-celebrity-slavery.md)                                                                                                        |
 | **Reader essay — gender-swap installment**   | [Designed from birth](/influence/suppression/designed-from-birth.md)                                                                                                                          |
+| **#MeToo corporate choreography (dedicated)** | [metoo-corporate-sponsorship-choreography-investigation](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) — **AU-053**; Spacey / Carroll / registry |
 
 
 ---

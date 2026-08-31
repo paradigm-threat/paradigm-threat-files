@@ -293,6 +293,7 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 | [Good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | Interagency two-camp |
 | [Hollywood two-camp war](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | BTTF catalog home |
 | [JFK / Nixon Watergate inverse exit](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#12-post-kennedy-inverse-exit--nixon--watergate) | Nixon containment |
+| [War on Drugs — Nixon health → globalist incarceration (**AU-054**)](/governance/war/investigations/war-on-drugs-nixon-health-to-globalist-incarceration-investigation.md) | Phase A health/nationalist → Phase B prisons/Contra trafficking; Watergate exit bridge |
 | [Libya / Benghazi / *BTTF* Libya PP](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) | Libyan terrorists beat |
 | [Trump antibody index](/events/trump/index-trump-investigation.md) | Trump NSA plan |
 | [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) | GOP gauge / managed opposition |

@@ -36,7 +36,7 @@ This investigation examines the **Central Intelligence Agency (CIA)** as an inst
 
 - **National Security Act 1947:** The CIA was created by statute with broad authorities and limited public oversight. The thesis under investigation: the Agency was designed to operate **outside** the normal constraints of a republic—no declaration of war, no direct appropriation of its black budget by line-item, and no accountability to the electorate for its operations.
 - **Funding and self-enrichment:** Allegations that the Agency (and its precursors) funded and enriched itself through:
-  - **Drug trade:** e.g. Southeast Asia (Vietnam era), Afghanistan, Latin America (Contras, cartels).
+  - **Drug trade:** e.g. Southeast Asia (Vietnam era), Afghanistan, Latin America (Contras, cartels). Companion conversion arc: [War on Drugs — Nixon→globalist incarceration (**AU-054**)](/governance/war/investigations/war-on-drugs-nixon-health-to-globalist-incarceration-investigation.md).
   - **Human trafficking and related illicit flows.**
   - **Asset capture and covert commercial operations.**
 - **“Massive parasite”:** The investigation will document the scale of alleged off-the-books funding and the degree to which the institution became self-sustaining and independent of democratic control.

@@ -2,10 +2,10 @@
 
 ![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Thread R — *The Arrival* (1996, Charlie Sheen)** = **NSA-aligned geoengineering / alien-influence flagship** — **not** Villeneuve’s *Arrival* (2016). Greenhouse plants as terraforming; JPL/spy compromise; Wolf 336 catastrophe stand-in; **AGW narrative as cover**. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. ***Back to the Future* (1985) + *Part II* (1989)** = **NSA** (Reagan-as-actor call-out; Libyan plutonium terrorists; 9/11 PP cluster) — presidency cross-read [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md). **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Thread R — *The Arrival* (1996, Charlie Sheen)** = **NSA-aligned geoengineering / alien-influence flagship** — **not** Villeneuve’s *Arrival* (2016). Greenhouse plants as terraforming; JPL/spy compromise; Wolf 336 catastrophe stand-in; **AGW narrative as cover**. **Thread S — *The Big Lebowski* (1998)** = **NSA-aligned sovereignty / Gulf War ROTM** — hard talk wrapped in **Walter** (unchecked-aggression Vietnam vessel); **Kuwait bullying** reminder; **“This aggression will not stand”** as **line-crossed response**, not Bush-as-aggressor close; **Jesus / pederast declaration**; clinical sexuality-control warning. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. ***Back to the Future* (1985) + *Part II* (1989)** = **NSA** (Reagan-as-actor call-out; Libyan plutonium terrorists; 9/11 PP cluster) — presidency cross-read [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md). **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
-**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23; ***Back to the Future* 1–2** NSA catalog rows + presidency cross-link added 2026-07-26.  
+**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23; ***Back to the Future* 1–2** NSA catalog rows + presidency cross-link added 2026-07-26; ***The Big Lebowski* (1998)** Thread S added 2026-08-30.  
 **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md)
 
 ---
@@ -29,7 +29,8 @@
 10. [Thread P — *Stargate* (1994 film): globalist / CIA contrast to *ID4*](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)
 11. [Thread Q — *Burn After Reading* (2008): CIA decay / interagency satire](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire)
 12. [Thread R — *The Arrival* (1996): geoengineering / alien-influence NSA flagship](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship)
-13. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
+13. [Thread S — *The Big Lebowski* (1998): sovereignty / Gulf War ROTM](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm)
+14. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
 12. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
 12. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
 13. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
@@ -66,6 +67,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 | **Unity / declass** (1990s antibody window) | Does the work **unite former enemies against a common foe**, **surface hidden programs** (Area 51), and **punish compartmentalized secrecy** — **without** holy-war predestination? | ***Independence Day*** (1996, **original only**) — [Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) |
 | **Ancient aliens / globalist misdirection** | Does the work **sell ancient astronauts + modern authority**, **misdirect real history/tech**, and **train ridicule** of forbidden topics (Atlantis, Mars) — with **sketchy** plot/physics? | ***Stargate*** (1994 **film only**) — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4) |
 | **Geoengineering / climate-cover** | Does the work **name deliberate atmospheric modification**, **alien or elite capture of government/spy desks**, and **AGW as cover story** — without requiring the audience to “believe in aliens”? | ***The Arrival*** (1996, **Charlie Sheen**) — [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve *Arrival* (2016) |
+| **Sovereignty / Gulf War ROTM** | Does the work **remind the audience of Kuwait bullying / a line crossed**, **wrap** hard talk in a comic **unchecked-aggression vessel**, and keep **American sovereignty / declaration culture** in view — **without** closing as “Bush was the aggressor”? | ***The Big Lebowski*** (1998) — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
 
 **Pacific lane — camp table (v1 seed):**
 
@@ -355,6 +357,58 @@ Cross-read [weather modification](/science/geoengineering/weather-modification-i
 
 ---
 
+## Thread S — *The Big Lebowski* (1998): sovereignty / Gulf War ROTM
+
+**Scope:** ***The Big Lebowski*** (1998 theatrical film; Joel & Ethan Coen). **No** claim of agency production contact. Same directors later deliver [Thread Q — *Burn After Reading*](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) — **title-by-title** camp still holds ([Thread A](#thread-a--definitions-and-litmus-test)).
+
+**Author thesis (verbatim capture):** ***The Big Lebowski* belongs on the NSA-aligned movie list** because of a **very clever wrapping** for its messaging. Almost all of the **controversial statements** come from **Walter Sobchak** (John Goodman) — a **Vietnam vet** with **unchecked aggression** — who forces every personal slight through **Nam / Gulf War** frames and holds the **Saddam / Iraq** bullying situation up as the reason **pacifism is not something to hide behind**. The film was made so audiences would be **reminded of the bullying aspect** of that war — Iraq’s invasion of Kuwait as a **line crossed**. Through **revelation of the method**, it **triggers discussions that keep the eye on American sovereignty** and on **not falling into traps laid by CIA-backed plans in Iraq and Iran**. The wrapping **seems** to attack American icons for unchecked aggression; it **certainly starts** that discussion. It does **not** end with Bush as the aggressor in that scenario. The film specifically shows he was **responding to a line that was crossed** — **“This aggression will not stand”** — and **that** is the real point. The author is sure of this because the **intro** is a **vague and hilarious** beginning: **The Stranger** mentions **Saddam and the Iraqi situation**, then **wanders off** because he **cannot remember his own train of thought**. That is a **bold joke** on a controversial topic — and they would not have made it if they were not so sure the **ROTM trick** would work in their favor.
+
+**Additional warnings (author):** The film also calls out a **subsection** that **rules by describing their sexuality** — not normal passion or love, but **systematic** sex for **spreading seed and control**, manipulating others (**Maude’s** clinical fertility use of the Dude; **Jackie Treehorn’s** porn apparatus). Another American final message: the immigrant **Jesus Quintana**, already caught as a **child sex offender**, is still allowed to stay — but must **go door-to-door** and **declare** himself a **pederast** to the neighborhood. **This is our way** — if you stay here, you still **declare**.
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Stranger / Saddam open** | Opening narration: early ’90s, **“just about the time of our conflict with Sad’m and the Eye-rackies”**; The Stranger **loses the thread**, apologizes, continues — **comic derailment** on the war name | L1 — [script / wiki summary](https://en.wikipedia.org/wiki/The_Big_Lebowski); published screenplay |
+| **Bush on TV** | Grocery: TV carries **George H.W. Bush** — **“This aggression will not stand”** (Kuwait invasion frame) | L1 — [JSTOR Daily / Comer](https://daily.jstor.org/aggression-ethics-war-big-lebowski/); [Slate](https://slate.com/culture/2008/09/the-prescient-politics-of-the-big-lebowski.html) |
+| **Dude echoes Bush** | After the rug pissing: **“This will not stand, ya know, this will not stand, man”** | L1 — [Wikiquote](https://en.wikiquote.org/wiki/The_Big_Lebowski) |
+| **Walter / Iraq pacifism** | Walter: **“look at our current situation with that camel-fucker in Iraq — pacifism is not something to hide behind”**; Vietnam lens on every plot beat; **“This is not ’Nam, there are rules”** | L1 — screenplay / quote corpora |
+| **Saddam in dream** | Dude’s dream: **Saddam** as bowling-alley **shoe-shine** attendant | L1 — [Stack Exchange summary](https://movies.stackexchange.com/questions/34254/whats-saddam-hussein-doing-in-the-dudes-dream) |
+| **Jesus / pederast declaration** | Walter: Jesus served time for **exposing himself to an eight-year-old**; when he moved to Hollywood he had to **go door-to-door** and tell everyone he was a **pederast** | L1 — [Wikiquote](https://en.wikiquote.org/wiki/The_Big_Lebowski) |
+| **Maude clinical fertility** | Maude uses the Dude as a **sperm donor** — **planned impregnation**, not romance; later confirms pregnancy | L1 — plot summary |
+| **Treehorn porn power** | Jackie Treehorn’s **porn / debt** machine drives the mistaken-identity violence that starts the rug plot | L1 |
+
+### Investigator assessment
+
+| # | Author claim | Verdict | Notes |
+|---|--------------|---------|-------|
+| V1 | Controversial payload **wrapped** in Walter’s unchecked aggression | **Supported (L1 + L3)** | Walter delivers Nam/Iraq/hard talk; Dude abides |
+| V2 | Film **reminds** of **Kuwait bullying** / line crossed | **Supported as author read** | L3 — Bush TV + rug-as-Kuwait farce rhyme (Comer et al.) |
+| V3 | Close is **not** “Bush was the aggressor” | **Supported as author read** | L3 — aggression framed as **response** to invasion |
+| V4 | Stranger’s Saddam derail = **bold ROTM joke** | **Supported as author read** | L3 — L1 beat exists; **confidence-in-ROTM** is author |
+| V5 | Sovereignty / avoid **CIA Iraq–Iran traps** | **Author thesis** | L3–L4 — thematic; **no** on-screen CIA Iraq desk |
+| V6 | Sexuality-control subsection (clinical seed / porn power) | **Supported as author read** | L3 — Maude + Treehorn beats are L1 |
+| V7 | Jesus door-to-door **pederast declaration** = American final message | **Supported as author read** | L1 dialogue; L3 civic-declaration read |
+| V8 | Coens received **agency direction** | **Unproven** | **No production evidence** |
+
+**Bottom line (investigator):** ***The Big Lebowski* fits the NSA sovereignty / ROTM lane** — **Gulf War bullying reminder**, **aggression-will-not-stand** as **response grammar**, **Walter as comic vessel**, **declaration culture** (Jesus), **sexuality-as-control** warning. **Not** a Pacific war-prep title. **Not** the same payload as mainstream “Walter = neocon satire = Bush bad” essays ([Slate 2008](https://slate.com/culture/2008/09/the-prescient-politics-of-the-big-lebowski.html)) — those start the aggression discussion; this site’s close is the **line-crossed / sovereignty** point.
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **Wrapping** — Walter’s aggression **carries** the hard talk so the film can name Saddam/Iraq without a straight propaganda speech | L3 | Goodman vessel |
+| **ROTM** — Stranger’s vague hilarious open + Bush TV = **permission** to keep the war in comic memory | L3 | Intro derail |
+| **Sovereignty eye** — keep Americans watching **who crossed whose line**, not sleepwalking into **CIA holy-war / Iraq–Iran** scripts | L3–L4 | [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md); [CIA investigation](/governance/war/investigations/cia-investigation.md) |
+| **Sexuality-control warning** — rule by **describing / systematizing** sex (porn empire; clinical seed) without love | L3 | Maude / Treehorn |
+| **Declaration culture** — pederast must **announce** to the neighborhood; American civic **final message** | L3 | Jesus beat |
+
+**Camp label (author):** ***The Big Lebowski* (1998) = NSA-aligned (sovereignty / Gulf War ROTM lane)** — **high-confidence** on this taxonomy.
+
+Cross-read [NSA investigation § V](/governance/war/investigations/nsa-investigation.md); [Thread Q — Coen CIA-audit satire](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire); [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
+
+---
+
 ## Thread C — *Rush Hour* franchise (1998–2001)
 
 ### *Rush Hour* (1998) — buddy partnership (L1)
@@ -464,6 +518,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***Arrival*** | 2016 | US–China cooperate on aliens | Globalist-neutral | None | Released | Contrast bucket — **not** Charlie Sheen ***The Arrival*** (1996) [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship) |
 | ***The Dark Knight Rises*** | 2012 | No HK/Lau arc; Bane occupation | Containment sequel | Low | Released China later | **Typical** sequel — [Thread G](#thread-g--one-off-masterpiece--franchise-containment) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** purge; **cellphone geolocation** forecast; **burn the body**; FBI excluded | NSA | None | Released | Interagency satire — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
+| ***The Big Lebowski*** | 1998 | Gulf War / Saddam open; Bush **“aggression will not stand”**; Walter aggression wrap; Jesus pederast declaration | NSA | None | Released | Sovereignty / ROTM — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
 | ***Congo*** | 1995 | Congo theater (n/a China); Ross CIA audit; Monroe Africa contempt residual | NSA (overall; mixed residual) | None | Released | CIA audit + *KSM*/Zinj — [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 | ***Joker*** (Phillips) | 2019 | Arthur Fleck victim narrative; protest “clowns” | CIA/MI6 | Low (war) / **high (counter-msg)** | Released | [Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) |
 
@@ -493,6 +548,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 |-------|------|-------------|---------------|-------|
 | ***Sneakers*** | 1992 | NSA vs CIA vs FBI; “we’re the good guys”; information war | **NSA** | Dialogue map — [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** desk purge; **Harry cellphone location** line; memoir chaos; **burn the body** not FBI; transactional incompetence | **NSA** | **Flagship satire** — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
+| ***The Big Lebowski*** | 1998 | Stranger **Saddam** derail; Bush **aggression will not stand**; Walter Nam/Iraq wrap; Jesus **pederast** door-to-door; Maude clinical seed | **NSA** | **Sovereignty / Gulf War ROTM** — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
 | ***The Arrival*** | 1996 | Greenhouse **terraforming** plants; JPL/Gordian compromise; Calvin eliminated; **AGW cover**; Wolf 336 catastrophe stand-in | **NSA** | **Flagship geoengineering** — [dossier](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md); [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve 2016 |
 | ***Congo*** | 1995 | Ross *“loveless bunch of sons of bitches”* (CIA); Wanta names CIA past; **residual** Monroe *settle scores* Africa contempt; pro-African **balance**; *KSM*/Zinj | **NSA** (overall; mixed residual) | [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 
@@ -1072,6 +1128,8 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread Q — *Burn After Reading* (2008):** **SigInt** purge, Chad **signals intelligence** dialogue, **Harry (Clooney) cellphone geolocation** forecast (**“pretty soon they're gonna know where everyone is… at any given moment”**), **burn the body** / **FBI exclusion**, and **Chubb/Palmer** closing are **L1** where [Daily Script PDF](https://www.dailyscript.com/scripts/BurnAfterReading.pdf) / [Harry dialogue corpus](http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/output/burn-after-reading-harry.txt) sourced. **CIA decay**, **transactional farce**, **NSA charter rhyme via SigInt**, **mass location collection inevitability**, **sovereignty violation read**, and **NSA-aligned audit camp** are **L3–L4**. **No literal “NSA” agency name** in published screenplay — **SigInt** vocabulary only. **Not** claim Coen Brothers received agency direction.
 
 **Thread R — *The Arrival* (1996):** Taxonomy pointer only — **canonical dossier** [the-arrival-1996-geoengineering-agw-cover-investigation.md](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md) holds thesis, plot beats, **key scripts** (“Why did it have to be like this?” / “They’re terraform factories”), fear-weapon / Char suspicion, non-flawed relationship, Mars/Wolf 336 rhyme, and limits. Camp = **NSA geoengineering / AGW-cover flagship**. **Not** Villeneuve ***Arrival*** (2016).
+
+**Thread S — *The Big Lebowski* (1998):** Stranger **Saddam / Iraq** open and derail, Bush TV **“This aggression will not stand,”** Dude echo, Walter Iraq/Nam hard talk, Jesus **pederast** door-to-door declaration, Maude clinical impregnation, and Saddam dream shoe-shine are **L1** where script / Wikiquote / reception essays sourced. **Walter-as-wrapping vessel**, **Kuwait bullying reminder**, **line-crossed response (not Bush-as-aggressor close)**, **ROTM confidence read of the Stranger joke**, **sovereignty / avoid CIA Iraq–Iran traps**, and **sexuality-control subsection** are **L3–L4**. **Not** claim Coen Brothers received agency direction. **Not** identical to mainstream “Walter = neocon = Bush satire” reception.
 
 ***Congo* (1995) / Thread D satire catalog:** Ross CIA *loveless…sons of bitches* exchange, Monroe *settle scores* / *great white hunter* lines, and Homolka/Monroe Zinj–Solomon dialogue are **L1** where quote corpora sourced. **NSA overall**, **residual CIA Africa contempt**, **pro-African balance**, **Spielberg entry = full-CIA path**, ***Congo* pass = cannot (not chose not to)**, and **Marshall/Kennedy ballast vs NSA drift** are **L3–L4**. Crichton *King Solomon’s Mines* homage is **L1**; **Rus–Horde / worldwide-empire whitewash** and **Solomon’s men → Phoenician** map are **L3** — do **not** claim Crichton said “Phoenicians” without a novel page cite. **Not** claim Marshall/Shanley received agency direction.
 
