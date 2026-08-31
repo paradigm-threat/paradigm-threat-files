@@ -708,6 +708,7 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">chansley-fox10-packup.mkv</property>
+  <property name="kdenlive:docproperties.subtitlesList">VID_20200624_110648-captions-edited-timeline.srt</property>
   <property name="xml_retain">1</property>
   <entry producer="{1818198c-f9c4-42ab-bf4c-7122416c6838}" in="00:00:00.000" out="00:00:00.000"/>
   <entry producer="chain2" in="00:00:00.000" out="00:01:11.600"/>
@@ -718,5 +719,12 @@ p, li { white-space: pre-wrap; }
  <tractor id="tractor4" in="00:00:00.000" out="00:01:29.600">
   <property name="kdenlive:projectTractor">1</property>
   <track producer="{1818198c-f9c4-42ab-bf4c-7122416c6838}" in="00:00:00.000" out="00:01:29.600"/>
+  <filter id="filter_sub">
+   <property name="maxfilesize">1048576</property>
+   <property name="mlt_service">avfilter.subtitles</property>
+   <property name="internal_added">410</property>
+   <property name="av.filter.filename">/home/ari/dev/pt/paradigm-threat-files/governance/constitution/investigations/assets/phoenix-protest-timeline/kdenlive/VID_20200624_110648-captions-edited-timeline.srt</property>
+   <property name="disable">0</property>
+  </filter>
  </tractor>
 </mlt>

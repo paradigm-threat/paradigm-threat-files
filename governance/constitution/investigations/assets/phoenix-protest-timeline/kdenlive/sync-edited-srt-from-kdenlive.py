@@ -15,6 +15,8 @@ EDITED_SRT = BASE / "VID_20200624_110648-captions-edited-timeline.srt"
 
 PACKUP_SCENE = "[Scene — FOX 10 cam turns away, left; Chansley still yelling]"
 BADGE_SCENE = "[Scene — FOX 10 on Chansley beat]"
+MIN_TAIL_FRAC = 0.25
+MIN_CUE_DUR = 0.08
 
 
 @dataclass
@@ -24,6 +26,10 @@ class Gap:
     timeline_start: float
     scene_text: str
 
+    @property
+    def timeline_end(self) -> float:
+        return self.timeline_start + self.duration
+
 
 @dataclass
 class Cue:
@@ -31,6 +37,14 @@ class Cue:
     start: float
     end: float
     text: str
+
+    @property
+    def duration(self) -> float:
+        return self.end - self.start
+
+
+def is_scene(text: str) -> bool:
+    return text.strip().startswith("[Scene")
 
 
 def timecode_to_seconds(tc: str) -> float:
@@ -56,7 +70,6 @@ def seconds_to_srt(t: float) -> str:
 
 
 def parse_gaps(path: Path) -> list[Gap]:
-    """Read video playlist structure + audio blank durations."""
     root = ET.parse(path).getroot()
     audio = root.find(".//playlist[@id='playlist2']")
     video = root.find(".//playlist[@id='playlist4']")
@@ -89,7 +102,6 @@ def parse_gaps(path: Path) -> list[Gap]:
         dur = blanks[blank_i] if blank_i < len(blanks) else timecode_to_seconds(entry.get("out", "0"))
         blank_i += 1
 
-        # Source resume point = next chain segment in-time (insert happens before that point).
         source_at = src_in
         for nxt in entries[i + 1 :]:
             if nxt.get("producer", "").startswith("chain"):
@@ -146,33 +158,122 @@ def parse_srt(path: Path) -> list[Cue]:
     return cues
 
 
-def split_points(gaps: list[Gap]) -> list[float]:
-    return sorted({g.source_at for g in gaps if g.source_at > 0})
+def split_source_at_gaps(start: float, end: float, gaps: list[Gap]) -> list[tuple[float, float]]:
+    """Split a source-time range at each gap boundary."""
+    points = [start] + [g.source_at for g in gaps if start < g.source_at < end] + [end]
+    points = sorted(set(points))
+    return [(points[i], points[i + 1]) for i in range(len(points) - 1) if points[i + 1] > points[i]]
 
 
-def map_cue(cue: Cue, gaps: list[Gap], splits: list[float]) -> list[Cue]:
-    if cue.text.strip() in {PACKUP_SCENE, BADGE_SCENE}:
+def segment_to_edited(
+    src_a: float, src_b: float, gaps: list[Gap], gap_for_start: Gap | None, gap_for_end: Gap | None
+) -> tuple[float, float]:
+    ed_a = source_to_edited(src_a, gaps)
+    ed_b = source_to_edited(src_b, gaps)
+    if gap_for_end is not None:
+        ed_b = gap_for_end.timeline_start
+    if gap_for_start is not None:
+        ed_a = gap_for_start.timeline_end
+    return ed_a, ed_b
+
+
+def map_speech_cue(cue: Cue, gaps: list[Gap]) -> list[Cue]:
+    if is_scene(cue.text) or cue.text.strip() in {PACKUP_SCENE, BADGE_SCENE}:
         return []
 
-    points = [cue.start] + [s for s in splits if cue.start < s < cue.end] + [cue.end]
+    total = cue.duration
+    if total <= 0:
+        return []
+
     out: list[Cue] = []
-    for a, b in zip(points, points[1:]):
-        if b <= a:
+    gap_by_source = {g.source_at: g for g in gaps}
+
+    for src_a, src_b in split_source_at_gaps(cue.start, cue.end, gaps):
+        seg_dur = src_b - src_a
+        gap_end = gap_by_source.get(src_b)
+        gap_start = gap_by_source.get(src_a)
+
+        # After a pause: keep tail only if >25% of original cue remains.
+        if gap_start is not None and seg_dur / total <= MIN_TAIL_FRAC:
             continue
-        out.append(Cue(cue.index, source_to_edited(a, gaps), source_to_edited(b, gaps), cue.text))
+
+        ed_a, ed_b = segment_to_edited(src_a, src_b, gaps, gap_start, gap_end)
+        if ed_b - ed_a >= MIN_CUE_DUR:
+            out.append(Cue(cue.index, ed_a, ed_b, cue.text))
+    return out
+
+
+def clip_out_of_gaps(cues: list[Cue], gaps: list[Gap]) -> list[Cue]:
+    """Remove any speech overlapping freeze/pause windows."""
+    cleaned: list[Cue] = []
+    for cue in cues:
+        if is_scene(cue.text):
+            cleaned.append(cue)
+            continue
+        parts = [(cue.start, cue.end)]
+        for gap in gaps:
+            next_parts: list[tuple[float, float]] = []
+            for a, b in parts:
+                if b <= gap.timeline_start or a >= gap.timeline_end:
+                    next_parts.append((a, b))
+                    continue
+                if a < gap.timeline_start:
+                    next_parts.append((a, gap.timeline_start))
+                if b > gap.timeline_end:
+                    next_parts.append((gap.timeline_end, b))
+            parts = next_parts
+        for a, b in parts:
+            if b - a >= MIN_CUE_DUR:
+                cleaned.append(Cue(cue.index, a, b, cue.text))
+    return cleaned
+
+
+def resolve_overlaps(cues: list[Cue]) -> list[Cue]:
+    """Trim overlapping speech; scene cues during pauses win over clipped speech."""
+    scenes = [c for c in cues if is_scene(c.text)]
+    speech = [c for c in cues if not is_scene(c.text)]
+    speech.sort(key=lambda c: (c.start, c.end))
+
+    merged: list[Cue] = []
+    for cue in speech:
+        if not merged:
+            merged.append(cue)
+            continue
+        prev = merged[-1]
+        if cue.start < prev.end:
+            # Same text duplicate from split — drop the shorter overlap.
+            if cue.text.strip() == prev.text.strip():
+                if cue.duration > prev.duration:
+                    merged[-1] = cue
+                continue
+            prev.end = min(prev.end, max(prev.start + MIN_CUE_DUR, cue.start))
+            if prev.duration < MIN_CUE_DUR:
+                merged.pop()
+        if not merged or cue.start >= merged[-1].end - 1e-6:
+            merged.append(cue)
+        elif cue.text.strip() != merged[-1].text.strip():
+            merged[-1].end = min(merged[-1].end, max(merged[-1].start + MIN_CUE_DUR, cue.start))
+            if cue.start >= merged[-1].end - 1e-6:
+                merged.append(cue)
+
+    out = merged + scenes
+    out.sort(key=lambda c: (c.start, c.end))
     return out
 
 
 def build_edited_cues(orig: list[Cue], gaps: list[Gap]) -> list[Cue]:
-    splits = split_points(gaps)
-    out: list[Cue] = []
+    speech: list[Cue] = []
     for cue in orig:
-        out.extend(map_cue(cue, gaps, splits))
-    for gap in gaps:
-        out.append(
-            Cue(0, gap.timeline_start, gap.timeline_start + gap.duration, gap.scene_text)
-        )
-    out.sort(key=lambda c: (c.start, c.end))
+        speech.extend(map_speech_cue(cue, gaps))
+
+    speech = clip_out_of_gaps(speech, gaps)
+
+    scenes = [
+        Cue(0, g.timeline_start, g.timeline_end, g.scene_text)
+        for g in gaps
+    ]
+
+    out = resolve_overlaps(speech + scenes)
     return [Cue(i, c.start, c.end, c.text) for i, c in enumerate(out, start=1)]
 
 
@@ -186,14 +287,12 @@ def write_srt(cues: list[Cue], path: Path) -> None:
 
 def main() -> None:
     gaps = parse_gaps(PROJECT)
-    if len(gaps) != 2:
-        raise SystemExit(f"expected 2 gaps, found {len(gaps)}")
     edited = build_edited_cues(parse_srt(ORIG_SRT), gaps)
     write_srt(edited, EDITED_SRT)
     for i, g in enumerate(gaps, 1):
         print(
             f"gap{i}: source={g.source_at:.3f}s dur={g.duration:.3f}s "
-            f"timeline={g.timeline_start:.3f}-{g.timeline_start + g.duration:.3f}s"
+            f"timeline={g.timeline_start:.3f}-{g.timeline_end:.3f}s"
         )
     print(f"Wrote {len(edited)} cues -> {EDITED_SRT}")
 

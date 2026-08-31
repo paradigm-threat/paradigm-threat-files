@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Sync edited SRT from Kdenlive gaps, burn subs into final pause mp4.
+# Sync edited SRT from Kdenlive gaps, embed soft subs in chansley-fox10-packup.mkv.
 set -euo pipefail
 ASSET="$(cd "$(dirname "$0")/.." && pwd)"
 K="$ASSET/kdenlive"
 MKV="$ASSET/chansley-fox10-packup.mkv"
-[[ -s "$MKV" ]] || MKV="$K/chansley-fox10-packup.mkv"
+SRC="$ASSET/chansley-fox10-packup.source.mkv"
 SRT="$K/VID_20200624_110648-captions-edited-timeline.srt"
-OUT="$ASSET/VID_20200624_110648-fox10-packup-pause.mp4"
+TMP="$ASSET/chansley-fox10-packup.subs.mkv"
 
 python3 "$K/sync-edited-srt-from-kdenlive.py"
 
@@ -14,16 +14,25 @@ while pgrep -f "melt.*kdenlive" >/dev/null 2>&1; do
   echo "Waiting for Kdenlive/melt render..."
   sleep 5
 done
-sleep 2
 
-[[ -s "$MKV" ]] || { echo "Missing render: $MKV" >&2; exit 1; }
+# Source = clean Kdenlive export (no subs). Preserve first good export.
+if [[ -s "$MKV" && ! -s "$SRC" ]]; then
+  cp -a "$MKV" "$SRC"
+fi
+INPUT="${SRC:-}"
+[[ -s "$INPUT" ]] || INPUT="$MKV"
+[[ -s "$INPUT" ]] || { echo "Missing render: $MKV" >&2; exit 1; }
 
-ffmpeg -y -i "$MKV" \
-  -vf "subtitles='${SRT}':force_style='FontName=DejaVu Sans,FontSize=22,PrimaryColour=&HFFFFFF,OutlineColour=&H000000,Outline=2,Shadow=1,MarginV=40'" \
-  -c:v libx264 -crf 20 -preset medium \
-  -c:a aac -b:a 192k \
-  -movflags +faststart \
-  "$OUT"
+ffmpeg -y -i "$INPUT" -i "$SRT" \
+  -map 0:v -map 0:a -map 1 \
+  -c:v copy -c:a copy -c:s srt \
+  -disposition:s:0 default \
+  -metadata:s:s:0 language=eng \
+  -metadata:s:s:0 title="Edited timeline" \
+  "$TMP"
 
-ffprobe -hide_banner "$OUT" 2>&1 | rg "Duration|Stream"
-echo "Wrote $OUT"
+mv "$TMP" "$MKV"
+rm -f "$ASSET/chansley-fox10-packup.subs.mkv" 2>/dev/null || true
+
+ffprobe -hide_banner "$MKV" 2>&1 | rg "Duration|Stream"
+echo "Wrote $MKV (embedded soft subs from $SRT; clean source at $SRC)"
