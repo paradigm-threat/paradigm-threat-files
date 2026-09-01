@@ -84,7 +84,7 @@ At the large Scottsdale “Unmask Us” protest on June 24, 2020, I saw the same
 
 The booth was a branded kit, not a homemade yard sign: a PVC cube reading “Earth IS Flat,” with `flatearth101.com`, `stoplookthink.com`, and `truthpirates.com` on the display, and Daniel McCarthy campaign signage in the same field of view.
 
-That morning I also filmed [my confrontation with Jacob Chansley](https://www.youtube.com/shorts/QlU5Xq3mmfU) — the man later branded the QAnon Shaman. He staged on an empty grass patch the crowd had not filled. One dedicated FOX 10 camera held him as the continuous subject while other crews ran local interviews. I walked in front of that lens and yelled “Paid!” He kept ranting. At the end of the roll, the same operator packed the camera up while he was still going. Same plaza, same morning as the Flat Earth booth. The full sequence, the second exchange after the Short, and the FOX 10 read live in [Part II — The Q trance](https://paradigmthreat.net/influence/controlled_opposition/the-q-trance.md).
+That morning I also filmed [my confrontation with Jacob Chansley](https://www.youtube.com/shorts/QlU5Xq3mmfU) — the man later branded the Q-Anon Shaman. He staged on an empty grass patch the crowd had not filled. One dedicated FOX 10 camera held him as the continuous subject while other crews ran local interviews. I walked in front of that lens and yelled “Paid!” He kept ranting. At the end of the roll, the same operator packed the camera up while he was still going. Same plaza, same morning as the Flat Earth booth. The full sequence, the second exchange after the Short, and the FOX 10 read live in [Part II — The Q trance](https://paradigmthreat.net/influence/controlled_opposition/the-q-trance.md).
 
 ### November 7, 2020 — Arizona Capitol (Stop the Steal)
 
@@ -134,9 +134,9 @@ Saturnian cosmology threatens uniformitarian deep time and Big Bang cosmology di
 
 ## Framing and limits
 
-This article assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) — the ancients held profound understanding later degraded or captured. Modern consensus science and institutions are not default truth; specific claims still need their own tiers.
+This article assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) — the ancients held profound understanding later degraded or captured. Modern consensus science and institutions are not default truth; specific claims still need their own evidence.
 
-Controlled-opposition reads here follow pattern, behavior, and function — not a routine court-grade payroll proof. See [QAnon investigation §7.4](https://paradigmthreat.net/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#74-pushback--known-plausibility-gaps) for the standard and pushback table.
+Controlled-opposition reads here follow pattern, behavior, and function — not a routine court-grade payroll proof. See [Q-Anon investigation §7.4](https://paradigmthreat.net/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#74-pushback--known-plausibility-gaps) for the standard and pushback table.
 
 Author witness on this page: Flat Earth billboard and PVC presence at large Arizona rallies; ASU mask-mandate pre-march debate (chemtrails ask, Catholic Church / Requerimiento argument with remaining Flat Earthers after the ex-official left); Scottsdale and Capitol sightings. Chemtrails / revelation-of-the-method / Church-as-sponsor are scene-level reads from that day — not a finding that chemtrails are proven, and not a receipt that the Church funded the props. Lancaster EIN 23-7154049 as a Flat Earth–branded 501(c)(3) church is documented; any claim that it funded the Arizona protest props remains open. Full venue timeline: [Phoenix protest timeline investigation](https://paradigmthreat.net/governance/constitution/investigations/phoenix-protest-timeline-investigation.md). Chansley / FOX 10 confrontation: [Part II](https://paradigmthreat.net/influence/controlled_opposition/the-q-trance.md). Faith-only debate and DEW church are pattern language for belief-club grammar over receipts.
 

@@ -2,10 +2,10 @@
 
 ![Hollywood two-camp war — investigation cover](hollywood-two-camp-war-investigation.png)
 
-> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Thread R — *The Arrival* (1996, Charlie Sheen)** = **NSA-aligned geoengineering / alien-influence flagship** — **not** Villeneuve’s *Arrival* (2016). Greenhouse plants as terraforming; JPL/spy compromise; Wolf 336 catastrophe stand-in; **AGW narrative as cover**. **Thread S — *The Big Lebowski* (1998)** = **NSA-aligned sovereignty / Gulf War ROTM** — hard talk wrapped in **Walter** (unchecked-aggression Vietnam vessel); **Kuwait bullying** reminder; **“This aggression will not stand”** as **line-crossed response**, not Bush-as-aggressor close; **Jesus / pederast declaration**; clinical sexuality-control warning. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. ***Back to the Future* (1985) + *Part II* (1989)** = **NSA** (Reagan-as-actor call-out; Libyan plutonium terrorists; 9/11 PP cluster) — presidency cross-read [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md). **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
+> **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **CIA/globalist contrast** — ancient aliens + modern authority, **Atlantis/Mars laughed off**, sketchy portal physics/plot; **nothing “fake”** in *ID4* by comparison. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Thread R — *The Arrival* (1996, Charlie Sheen)** = **NSA-aligned geoengineering / alien-influence flagship** — **not** Villeneuve’s *Arrival* (2016). Greenhouse plants as terraforming; JPL/spy compromise; Wolf 336 catastrophe stand-in; **AGW narrative as cover**. **Thread S — *The Big Lebowski* (1998)** = **NSA-aligned sovereignty / Gulf War ROTM** — hard talk wrapped in **Walter** (unchecked-aggression Vietnam vessel); **Kuwait bullying** reminder; **“This aggression will not stand”** as **line-crossed response**, not Bush-as-aggressor close; **Jesus / pederast declaration**; clinical sexuality-control warning. **Thread T — *300* (2006)** = **NSA-aligned East–West / holy-war antibody** — Plataea close: **“rescue a world from mysticism and tyranny”**; antiquity–present conflation for **radical-Islam-as-Eastern-invasion** read; stylistic lasting-impression grammar; **Fomenko** duplicate + **Thermopylae=Fellin/Livonian** (§07_30); **1492 Ottoman** = separate Fomenko epoch + **parallel site fold**, not one equation. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. ***Back to the Future* (1985) + *Part II* (1989)** = **NSA** (Reagan-as-actor call-out; Libyan plutonium terrorists; 9/11 PP cluster) — presidency cross-read [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md). **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
-**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23; ***Back to the Future* 1–2** NSA catalog rows + presidency cross-link added 2026-07-26; ***The Big Lebowski* (1998)** Thread S added 2026-08-30.  
+**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23; ***Back to the Future* 1–2** NSA catalog rows + presidency cross-link added 2026-07-26; ***The Big Lebowski* (1998)** Thread S added 2026-08-30; ***300* (2006)** Thread T added 2026-09-01.  
 **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md)
 
 ---
@@ -30,7 +30,8 @@
 11. [Thread Q — *Burn After Reading* (2008): CIA decay / interagency satire](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire)
 12. [Thread R — *The Arrival* (1996): geoengineering / alien-influence NSA flagship](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship)
 13. [Thread S — *The Big Lebowski* (1998): sovereignty / Gulf War ROTM](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm)
-14. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
+14. [Thread T — *300* (2006): East–West / holy-war antibody](#thread-t--300-2006-eastwest--holy-war-antibody)
+15. [Thread G — Hollywood hot war: containment, forced labor, war-movie conveyor](#thread-g--hollywood-hot-war-franchise-containment-forced-labor-war-movie-conveyor)
 12. [Thread C — *Rush Hour* franchise (1998–2001)](#thread-c--rush-hour-franchise-19982001)
 12. [Thread M — Stolen memory: Jackie Chan artifacts, Taiwan, tech trigger](#thread-m--stolen-memory-jackie-chan-artifacts-taiwan-tech-trigger)
 13. [Thread K — *24* (TV, 2001–2010): China torture, proxy terror, CTU destruction](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction)
@@ -68,6 +69,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 | **Ancient aliens / globalist misdirection** | Does the work **sell ancient astronauts + modern authority**, **misdirect real history/tech**, and **train ridicule** of forbidden topics (Atlantis, Mars) — with **sketchy** plot/physics? | ***Stargate*** (1994 **film only**) — [Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4) |
 | **Geoengineering / climate-cover** | Does the work **name deliberate atmospheric modification**, **alien or elite capture of government/spy desks**, and **AGW as cover story** — without requiring the audience to “believe in aliens”? | ***The Arrival*** (1996, **Charlie Sheen**) — [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve *Arrival* (2016) |
 | **Sovereignty / Gulf War ROTM** | Does the work **remind the audience of Kuwait bullying / a line crossed**, **wrap** hard talk in a comic **unchecked-aggression vessel**, and keep **American sovereignty / declaration culture** in view — **without** closing as “Bush was the aggressor”? | ***The Big Lebowski*** (1998) — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
+| **East–West / holy-war antibody** | Does the work **conflate antiquity with the present** to frame an **Eastern invasion** under **mysticism + tyranny** vs **Western values**, and **celebrate resistance** to an apocalyptic eastward push — without CIA slow-burn holy-war predestination? | ***300*** (2006) — [Thread T](#thread-t--300-2006-eastwest--holy-war-antibody) |
 
 **Pacific lane — camp table (v1 seed):**
 
@@ -409,6 +411,71 @@ Cross-read [NSA investigation § V](/governance/war/investigations/nsa-investiga
 
 ---
 
+## Thread T — *300* (2006): East–West / holy-war antibody
+
+**Scope:** ***300*** (2006 theatrical film; Zack Snyder; Frank Miller / Lynn Varley graphic novel). **Not** *300: Rise of an Empire* (2014) — sequel drift out of scope unless separately cataloged.
+
+**Author thesis (verbatim capture):** ***300* belongs on the NSA-aligned movie list.** One line stands out at the end: after Leonidas and the **300** die at Thermopylae, **Dilios** leads a huge Greek army at **Plataea** and declares they will **preserve their values against Eastern mysticism and tyranny** — **“This day we rescue a world from mysticism and tyranny, and usher in a future brighter than anything we can imagine.”** That is **not** coincidence and **not** accurate ancient history on its own terms. It is a **message conflating past with present**: treat the **current radical-Islam situation** as an **Eastern invasion** under the same key terms — **mysticism** and **tyranny**. A lot of people took the movie that way when it came out (2006–2007 release window). As usual, **NSA movies are extremely stylistic and trendy** — comic-book chiaroscuro, slow-motion spectacle — with **lasting impressions**.
+
+**Chronology (Fomenko + site fold — corrected against wget mirror):** [Anatoly Fomenko](https://chronologia.org/en/es_analysis2/index.html) treats the **Greco-Persian Wars** and the **battle of 300 Spartans with Xerxes at Thermopylae** as a **chronological duplicate** under the **~1,800-year Greco-biblical shift** ([*Empirico-Statistical Analysis* §11.4](https://chronologia.org/en/es_analysis2/index.html); local mirror: `~/dev/wget/chronologia.org/en/es_analysis2/index.html`). **Fomenko’s primary identification is not 1492.** In [*How It Was* §07_30](https://chronologia.org/en/how_it_was/07_30.html) and [§06_45](https://chronologia.org/en/how_it_was/06_45.html) (local: `en/how_it_was/07_30.html`, `06_45.html`), the **Greco-Persian war / Xerxes campaign** = **Ivan the Terrible’s failed Livonian War (XVI century)**; **Thermopylae** = **Fellin (Viljandi), ~1560**; the **300 Spartans** = **~800 fallen German knights** under **Philipp Bell**; **Leonidas** = **Bell**; **Xerxes** = **Ivan IV**; **Plataea** (Greek victory in the Western retelling) = **Russian defeat at Polotsk**. Herodotus, on Fomenko’s read, casts **Hellas = Western Europe** and **Persia = Russia-Horde** — then **celebrates** the West beating the “barbarian East.”
+
+**Separate Fomenko epoch — 1492 Ottoman:** [*How It Was* §05_38](https://chronologia.org/en/how_it_was/05_38.html) (**Apocalypse = “Book of the Ottoman Conquest”**) places the **Ataman/Ottoman invasion circa 1492** as its **own epoch** — Last Judgement / Apocalypse Crusade — **not** as Thermopylae. Fomenko notes “ancient” Greek authors **barely mention** epoch 4 (Ottoman conquest) but **dwell on** epoch 5 (Reformation / Livonian / Thermopylae duplicate). See also [§07_30 fig.92](https://chronologia.org/kak_reconstruction/im/092.jpg) five-epoch table.
+
+**Site author fold (L3 — not Fomenko verbatim):** The **1492 Apocalypse Crusade / Ottoman invasion** read ([timeline](https://paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade); [promised-land investigation](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.md); [you are a slave, Neo](https://paradigmthreat.net/governance/slavery/you-are-a-slave-neo.md)) is kept as a **parallel apocalyptic-invasion memory** in the same redaction stack — **~1,000-year compression** — but **must not be collapsed into Fomenko’s Thermopylae=Fellin identification.** Author read: both layers (1492 Ottoman + XVI-c Livonian/ Thermopylae shell) support ***300***’s **mysticism + tyranny** closing as **Western sovereignty / anti-Eastern-invasion** vocabulary; the movie’s **legend mobilization** (narrow stand → big army) is the **antibody** grammar. **Not** the CIA–MI6 slow-burn holy-war script.
+
+### Plot beats (L1)
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Opening beast / East** | Dilios: a **beast** of **men and horses** approaches — **“ready to devour tiny Greece”** and snuff out the world’s **“one hope for reason and justice”** | L1 — [IMDb — Dilios](https://www.imdb.com/title/tt0416449/characters/nm0920992/); transcript corpora |
+| **Thermopylae stand** | Leonidas leads **300** Spartans (+ allies) against **Xerxes**’ Persian host; deliberate **last stand** | L1 — [Wikipedia — *300*](https://en.wikipedia.org/wiki/300_(film)) |
+| **Plataea close — mysticism and tyranny** | Dilios at **Plataea**: **10,000 Spartans** commanding **30,000 free Greeks** vs Xerxes’ hordes — **“This day we rescue a world from mysticism and tyranny…”** | L1 — [American Rhetoric — Plataea](https://www.americanrhetoric.com/MovieSpeeches/moviespeech300battleatplataea.html); [IMDb quotes](https://www.imdb.com/title/tt0416449/quotes/) |
+| **Unreliable narrator** | Dilios **embellishes** (monsters, size exaggeration) to **make legend** — Snyder: *“not to wreck a good story with truth”* | L1 — [Screen Rant ending explainer](https://screenrant.com/300-movie-ending-explained/) |
+| **Release / reception** | US release **March 2007**; Iran and others protested **Persian / Eastern** portrayal; scholars flagged **East vs West / mysticism** framing ([CAIS](https://www.cais-soas.com/CAIS/Iran/300_movie_seperating_fact_from_fiction.htm)) | L1 |
+
+### Fomenko + site chronology (L2–L3)
+
+| Layer | Claim | Source / tier |
+|-------|-------|----------------|
+| **Duplicate read** | **Greco-Persian war** + **Thermopylae 300** = statistical duplicate under **~1,800-year shift**, not independent deep antiquity | L2 — [Fomenko §11.4](https://chronologia.org/en/es_analysis2/index.html); [DOI paper](https://doi.org/10.1155/s1048953394000109) |
+| **Fomenko primary ID** | **Thermopylae = Fellin (Viljandi), ~1560 Livonian War**; **300 Spartans = German knights (Philipp Bell)**; **Xerxes = Ivan the Terrible**; **Plataea = Polotsk** (Western triumph narrative) | L2 — [*How It Was* §07_30](https://chronologia.org/en/how_it_was/07_30.html), [§06_45](https://chronologia.org/en/how_it_was/06_45.html); [ermak index](https://chronologia.org/en/ermak/index.html) |
+| **Fomenko 1492 Ottoman (separate)** | **Apocalypse = Ottoman conquest book**; **circa 1492** Ataman invasion = **Last Judgement** epoch — **distinct from Thermopylae duplicate** | L2 — [*How It Was* §05_38](https://chronologia.org/en/how_it_was/05_38.html) |
+| **Site fold — 1492** | Parallel **apocalyptic invasion / resistance** memory in same redaction stack — **[1492 Apocalypse Crusade](/timeline/evt-1492-ce-the-apocalypse-crusade)** | L3 — author synthesis **on top of** Fomenko; **not** Fomenko’s Thermopylae mapping |
+| **“50-year struggle”** | Mainstream **pentekontaetia** (~479–431 BCE) names post-Persian-war decades; author uses the phrase for the **whole duplicate cluster** | L1 mainstream; L3 author assembly |
+
+**Discipline:** **Do not quote Fomenko as placing Thermopylae at 1492.** Wget mirror has **zero** `Thermopylae + 1492` linkage. Fomenko **separates** Ottoman epoch 4 (~1492) from Livonian/Thermopylae epoch 5 (~1560). Site **1492 fold** is **author layer** for *300*’s **apocalyptic resistance** read, not a chronologia.org citation.
+
+### Investigator assessment
+
+| # | Author claim | Verdict | Notes |
+|---|--------------|---------|-------|
+| V1 | Closing line **mysticism and tyranny** = deliberate **East–West** payload | **Supported (L1)** | Plataea speech on record |
+| V2 | **Past–present conflation** for **radical Islam / Eastern invasion** read | **Supported as reception + author read** | L3 — 2007 protests + CAIS mysticism essay |
+| V3 | **Not** accurate ancient-history teaching | **Supported (L1 + scholarship)** | Fantasy Persians; legend narrator |
+| V4 | **Stylistic / trendy / lasting** NSA-camp heuristic | **Partial** | L3 taste pattern |
+| V5 | Fomenko duplicate thesis (Greco-Persian = medieval reflection) | **Supported (L2)** | §11.4 + §07_30 / §06_45 |
+| V5b | Fomenko **primary** Thermopylae = **1492 Ottoman** | **Rejected** | Fomenko = **1560 Fellin / Livonian**; 1492 = **separate Apocalypse epoch** |
+| V5c | Site **1492 fold** as parallel invasion memory for *300* antibody read | **Author thesis (L3)** | Composes Fomenko + site chronology — not one Fomenko equation |
+| V6 | **Resistance to apocalyptic invasion** = core antibody message | **Supported as author read** | L3 — Thermopylae → Plataea mobilization arc |
+| V7 | Snyder / Warner received **agency direction** | **Unproven** | No production evidence |
+
+**Bottom line (investigator):** ***300* fits the East–West / holy-war antibody lane** — **mysticism + tyranny** closing, **reason and justice** opening, **legend-as-mobilization** (Dilios), **stylized mass impact**. Pairs with [Thread S — Gulf War sovereignty](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) and [good-actor § proxy radical Islam counter](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) as **recognition grammar**, not **CIA holy-war completion**.
+
+### Author reads (L3–L4)
+
+| Read | Tier | Notes |
+|------|------|-------|
+| **Key terms** — **mysticism** + **tyranny** = portable **Eastern invasion** vocabulary for post-2001 audience | L3 | Plataea line |
+| **Antiquity shell** — Thermopylae **300** = **narrow antibody stand**; Plataea = **sovereignty coalition** raised afterward | L3 | Narrative structure |
+| **Fomenko fold** — Greco-Persian duplicate; **Thermopylae = Fellin 1560** per Fomenko; **1492 Ottoman** = **parallel** site layer, not same equation | L3–L4 | [REDACTION R4](/docs/REDACTION.md); wget `en/how_it_was/07_30.html` |
+| **Vs CIA lane** — does **not** train **slow-burn infiltration**; trains **name the East, rally the West, resist now** | L3 | Contrast [1979 holy-war geometry](/influence/religion/1979-religious-revival-investigation.md) |
+
+**Camp label (author):** ***300* (2006) = NSA-aligned (East–West / holy-war antibody lane)** — **high-confidence** on this taxonomy.
+
+Cross-read [Fomenko §11.4 — Greco-Persian / Thermopylae duplicate](https://chronologia.org/en/es_analysis2/index.html); [1492 Apocalypse Crusade](/timeline/evt-1492-ce-the-apocalypse-crusade); [promised-land investigation](/history/mudflood/investigations/promised-land-investigation.md); [NSA investigation § V](/governance/war/investigations/nsa-investigation.md); [good-actor antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md).
+
+---
+
 ## Thread C — *Rush Hour* franchise (1998–2001)
 
 ### *Rush Hour* (1998) — buddy partnership (L1)
@@ -519,6 +586,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***The Dark Knight Rises*** | 2012 | No HK/Lau arc; Bane occupation | Containment sequel | Low | Released China later | **Typical** sequel — [Thread G](#thread-g--one-off-masterpiece--franchise-containment) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** purge; **cellphone geolocation** forecast; **burn the body**; FBI excluded | NSA | None | Released | Interagency satire — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
 | ***The Big Lebowski*** | 1998 | Gulf War / Saddam open; Bush **“aggression will not stand”**; Walter aggression wrap; Jesus pederast declaration | NSA | None | Released | Sovereignty / ROTM — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
+| ***300*** | 2006 | Plataea **mysticism and tyranny** close; Thermopylae stand; East–West mobilization legend | NSA | Low (not China) | Released | East–West antibody — [Thread T](#thread-t--300-2006-eastwest--holy-war-antibody) |
 | ***Congo*** | 1995 | Congo theater (n/a China); Ross CIA audit; Monroe Africa contempt residual | NSA (overall; mixed residual) | None | Released | CIA audit + *KSM*/Zinj — [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 | ***Joker*** (Phillips) | 2019 | Arthur Fleck victim narrative; protest “clowns” | CIA/MI6 | Low (war) / **high (counter-msg)** | Released | [Thread I](#thread-i--joker-lineage-ledger-resistance-vs-phoenix-containment-2019) |
 
@@ -549,6 +617,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | ***Sneakers*** | 1992 | NSA vs CIA vs FBI; “we’re the good guys”; information war | **NSA** | Dialogue map — [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** desk purge; **Harry cellphone location** line; memoir chaos; **burn the body** not FBI; transactional incompetence | **NSA** | **Flagship satire** — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
 | ***The Big Lebowski*** | 1998 | Stranger **Saddam** derail; Bush **aggression will not stand**; Walter Nam/Iraq wrap; Jesus **pederast** door-to-door; Maude clinical seed | **NSA** | **Sovereignty / Gulf War ROTM** — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
+| ***300*** | 2006 | Plataea **mysticism and tyranny**; Thermopylae **300** stand; Dilios legend mobilization; East vs **reason and justice** open | **NSA** | **East–West / holy-war antibody** — [Thread T](#thread-t--300-2006-eastwest--holy-war-antibody) |
 | ***The Arrival*** | 1996 | Greenhouse **terraforming** plants; JPL/Gordian compromise; Calvin eliminated; **AGW cover**; Wolf 336 catastrophe stand-in | **NSA** | **Flagship geoengineering** — [dossier](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md); [Thread R](#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship); **not** Villeneuve 2016 |
 | ***Congo*** | 1995 | Ross *“loveless bunch of sons of bitches”* (CIA); Wanta names CIA past; **residual** Monroe *settle scores* Africa contempt; pro-African **balance**; *KSM*/Zinj | **NSA** (overall; mixed residual) | [Congo note](#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
 
@@ -1130,6 +1199,8 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread R — *The Arrival* (1996):** Taxonomy pointer only — **canonical dossier** [the-arrival-1996-geoengineering-agw-cover-investigation.md](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md) holds thesis, plot beats, **key scripts** (“Why did it have to be like this?” / “They’re terraform factories”), fear-weapon / Char suspicion, non-flawed relationship, Mars/Wolf 336 rhyme, and limits. Camp = **NSA geoengineering / AGW-cover flagship**. **Not** Villeneuve ***Arrival*** (2016).
 
 **Thread S — *The Big Lebowski* (1998):** Stranger **Saddam / Iraq** open and derail, Bush TV **“This aggression will not stand,”** Dude echo, Walter Iraq/Nam hard talk, Jesus **pederast** door-to-door declaration, Maude clinical impregnation, and Saddam dream shoe-shine are **L1** where script / Wikiquote / reception essays sourced. **Walter-as-wrapping vessel**, **Kuwait bullying reminder**, **line-crossed response (not Bush-as-aggressor close)**, **ROTM confidence read of the Stranger joke**, **sovereignty / avoid CIA Iraq–Iran traps**, and **sexuality-control subsection** are **L3–L4**. **Not** claim Coen Brothers received agency direction. **Not** identical to mainstream “Walter = neocon = Bush satire” reception.
+
+**Thread T — *300* (2006):** Plataea **“rescue a world from mysticism and tyranny”** close, opening **reason and justice vs Eastern beast**, Thermopylae stand, and Dilios unreliable-narrator legend beats are **L1** where American Rhetoric / IMDb / screenplay sourced. **Past–present conflation for radical-Islam-as-Eastern-invasion read**, **stylish lasting-impression NSA heuristic**, **Fomenko duplicate (§11.4) + primary Thermopylae=Fellin/Livonian ID (§07_30, §06_45)**, **separate Fomenko 1492 Ottoman epoch (§05_38)**, and **site 1492 Apocalypse fold as parallel layer** are **L3–L4**. **Reject:** quoting Fomenko as placing Thermopylae at 1492 (wget mirror has no such link). **Not** claim Snyder/Warner received agency direction. ***300: Rise of an Empire* (2014) out of scope.**
 
 ***Congo* (1995) / Thread D satire catalog:** Ross CIA *loveless…sons of bitches* exchange, Monroe *settle scores* / *great white hunter* lines, and Homolka/Monroe Zinj–Solomon dialogue are **L1** where quote corpora sourced. **NSA overall**, **residual CIA Africa contempt**, **pro-African balance**, **Spielberg entry = full-CIA path**, ***Congo* pass = cannot (not chose not to)**, and **Marshall/Kennedy ballast vs NSA drift** are **L3–L4**. Crichton *King Solomon’s Mines* homage is **L1**; **Rus–Horde / worldwide-empire whitewash** and **Solomon’s men → Phoenician** map are **L3** — do **not** claim Crichton said “Phoenicians” without a novel page cite. **Not** claim Marshall/Shanley received agency direction.
 

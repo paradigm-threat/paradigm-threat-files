@@ -32,7 +32,7 @@
 
 ### 1.2 Hub baseline (already in-repo)
 
-[00.md](/influence/controlled_opposition/00.md) lists Assange, Snowden, Manning with QAnon as **not real** opposition — **highly media-promoted** when true opposition is blacklisted. [z.md](/influence/controlled_opposition/z.md): Snowden told the public the NSA spies (“didn’t we already know?”) and **does not** release on western state terror, illegal wars, torture, 9/11, or corrupt politicians/bankers; Assange dismisses 9/11 “false conspiracies,” soft-pedals central banks. This dossier **extends** that baseline with timeline, tiers, and interagency adjudication.
+[00.md](/influence/controlled_opposition/00.md) lists Assange, Snowden, Manning with Q-Anon as **not real** opposition — **highly media-promoted** when true opposition is blacklisted. [z.md](/influence/controlled_opposition/z.md): Snowden told the public the NSA spies (“didn’t we already know?”) and **does not** release on western state terror, illegal wars, torture, 9/11, or corrupt politicians/bankers; Assange dismisses 9/11 “false conspiracies,” soft-pedals central banks. This dossier **extends** that baseline with timeline, tiers, and interagency adjudication.
 
 ---
 
@@ -232,7 +232,7 @@ Assange: annoyed people are “distracted by false conspiracies such as 9/11” 
 
 | Topic | Path |
 |-------|------|
-| CO hub / QAnon–Snowden–Assange baseline | [controlled_opposition/page.md](/influence/controlled_opposition/page.md); [00.md](/influence/controlled_opposition/00.md); [z.md](/influence/controlled_opposition/z.md) |
+| CO hub / Q-Anon–Snowden–Assange baseline | [controlled_opposition/page.md](/influence/controlled_opposition/page.md); [00.md](/influence/controlled_opposition/00.md); [z.md](/influence/controlled_opposition/z.md) |
 | NSA SIGINT antibody / Tron / Snowden TODO | [nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) |
 | CIA antibody thesis | [cia-investigation.md](/governance/war/investigations/cia-investigation.md) |
 | Good-actor / Ellsberg–Hanyok | [good-actor-theory-interagency-antibody-investigation.md](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |

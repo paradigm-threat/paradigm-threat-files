@@ -18,7 +18,7 @@
 3. **Catalog + link list (8 articles)** → [§3](#3-catalog--other-printed-jfk-alive-leaks) · [§3.1](#31-link-list-copy-paste)
 4. **Dead-end design + mockery function** → [§4](#4-dead-end-design--hardening-society)
 5. **Pope / CIA psych-warfare ownership** → [§5](#5-ownership-lane--generoso-pope-jr-and-cia-psychological-warfare)
-6. **Parallel lanes (Elvis, QAnon Jr.)** → [§6](#6-parallel-lanes--elvis-qanon-jr-one-node-virus)
+6. **Parallel lanes (Elvis, Q-Anon Jr.)** → [§6](#6-parallel-lanes--elvis-qanon-jr-one-node-virus)
 7. **Open claims / questions / Limits** → [§7](#7-authors-open-claims)–[§8](#8-questions-to-clarify-verify-or-debunk)
 
 ---
@@ -161,12 +161,12 @@ A supermarket fiction engine founded inside an empire whose builder had **docume
 
 ---
 
-## 6. Parallel lanes — Elvis, QAnon Jr., one-node virus
+## 6. Parallel lanes — Elvis, Q-Anon Jr., one-node virus
 
 | Lane | Surface | Function (author) |
 |------|---------|-------------------|
 | **Elvis alive** (WWN May 1988 “Kalamazoo” and follow-ons) | Fake death + blurry “sightings” | Same dead-end colonization of **celebrity death-hoax** talk ([Wikipedia](https://en.wikipedia.org/wiki/Weekly_World_News); [TIME](https://time.com/archive/6908434/the-late-great-weekly-world-news/)) |
-| **QAnon / “JFK Jr. alive”** | Modern digital tabloid | Keeps **survival talk** warm while poisoning serious audit ([staged-hoax Tier B2](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md); [reader article](/events/jfk/jfk-was-never-assassinated.md)) |
+| **Q-Anon / “JFK Jr. alive”** | Modern digital tabloid | Keeps **survival talk** warm while poisoning serious audit ([staged-hoax Tier B2](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md); [reader article](/events/jfk/jfk-was-never-assassinated.md)) |
 | **Edison/Dominion meme** | Killable 2020 fraud node | Same **one-node → network collapse** virus ([election fraud §6](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md#6-one-node-debunk--network-collapse-virus)) |
 | ***Friday* Kickin / Bran Flakes** | Killable PP hinges | Same poisoned-hinge grammar |
 
@@ -221,7 +221,7 @@ Keywords: #JFK #WeeklyWorldNews #Tabloid #ControlledOpposition #DeathHoax #Survi
 - **WWN covers are not evidence** that JFK lived in a wheelchair hideout in 1990. They **are** evidence that **printed survival claims** saturated checkout culture for years.
 - **Debunking a tabloid photo ≠ proving Dallas was a real fatal shooting.** Node-local rule ([§6](#6-parallel-lanes--elvis-qanon-jr-one-node-virus)).
 - Pope’s CIA year does **not** by itself prove Langley authored specific covers.
-- Cross-links to election / *Friday* / QAnon are **method parallels**, not one payroll.
+- Cross-links to election / *Friday* / Q-Anon are **method parallels**, not one payroll.
 
 **Last updated:** 2026-08-20
 

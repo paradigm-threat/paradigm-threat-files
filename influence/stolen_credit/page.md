@@ -18,6 +18,8 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 | [Dave Wise / Rare](dave-wise.md) | Donkey Kong Country; Nintendo R&D credit; Eveline Fischer; Yukio Kaneoka on copyright |
 | [Rare & Nintendo R&D](rare-nintendo-rd.md) | Games without credits; Battletoads, PIN·BOT; 335+ games in VGMPF database |
 | [Minako Hamano](minako-hamano.md) | Super Metroid (Ridley, Maridia, Mother Brain); "often credited only to Yamamoto" |
+| [Minako Hamano — full dossier](investigations/minako-hamano-investigation.md) | R&D1 timeline, 1988–1996 rupture, CD-i/Mario RPG, falsifiers, evidence targets |
+| [Minako Hamano and the Whitewash](minako-hamano-and-the-whitewash.md) | Reader essay — Mine Menace credit chain, Returns vs Tropical Freeze, miscredit thesis |
 | [Capcom / Mega Man](capcom.md) | Platform betrayal, composer churn, leftover theory; MM9 from original projects |
 | [Yasunori Mitsuda](yasunori-mitsuda.md) | Chrono Trigger third hands; Chrono Cross RD Edition corruption; never again at Nintendo level |
 | [Robin Beanland](robin-beanland.md) | DKC Aquatic Ambience four-way copyright; role vs. Wise/Fischer |

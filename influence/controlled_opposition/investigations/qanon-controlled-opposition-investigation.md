@@ -1,8 +1,8 @@
-# Investigation: QAnon — Pre-Q “Q,” Anonymous, merger, predictions, and protest poison-pill pattern (open)
+# Investigation: Q-Anon — Pre-Q “Q,” Anonymous, merger, predictions, and protest poison-pill pattern (open)
 
-> **TL;DR:** Q&A dossier for **QAnon** as **controlled opposition** — companion to the two-part protest series: [Flat Earth trance — Part I](/cosmos/flat_earth/the-flat-earth-trance.md) · [The Q trance — Part II](/influence/controlled_opposition/the-q-trance.md) (author confrontation with Chansley). **Documented:** QAnon began **Oct 2017** on **4chan /pol** as **“Q Clearance Patriot”**; migrated **4chan → 8chan → 8kun**; **4,953** authenticated drops through **Dec 8, 2020** per [ADL](https://www.adl.org/resources/backgrounder/qanon); mainstream attribution points to **Paul Furber** then **Ron Watkins** — **disputed**, not a court finding; **Anonymous** label from **4chan ~2003**; **Q clearance** is real **DOE** category for **Restricted Data**, **not** a public SIGINT channel; no located primary explaining **why** the letter **Q** was chosen. **Author thesis (Q clearance):** the clearance guards more than “nuclear weapons design” — it marks insiders who manage the **half-hoax** on **power** (flash myth vs real **DU** harm, proxy threat, blocked transformative **Power**); **Bond Q** and **Star Trek Q** mirror that insider grammar before Oct 2017 — see [**§Q1.0 timeline**](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q10--real-world-q-clearance--q-influenced-media-timeline). **Anonymous** as blanket anarchy CO; **Anonymous + Q → QAnon** breaks **chain of custody**; protest poison pills — cross-read [Phoenix §3C](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3c-jun-24-photo-evidence--frame-grabs), [QAnon shaman Part II](/influence/controlled_opposition/the-q-trance.md), [Occupy CO §10](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md#10-field-note--arizona-occupy-author-observation). Nukes half-hoax spine: [nukes dossier](/science/nukes/investigations/nukes-dont-exist-investigation.md). Pre-Q rhymes: [great-awakening §3.7](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md#37-qanon--timeline-claims-debunks-and-fit-to-this-file). Hub: [QAnon CO](/influence/controlled_opposition/00).
+> **TL;DR:** Q&A dossier for **Q-Anon** as **controlled opposition** — companion to the two-part protest series: [Flat Earth trance — Part I](/cosmos/flat_earth/the-flat-earth-trance.md) · [The Q trance — Part II](/influence/controlled_opposition/the-q-trance.md) (author confrontation with Chansley). **Documented:** Q-Anon began **Oct 2017** on **4chan /pol** as **“Q Clearance Patriot”**; migrated **4chan → 8chan → 8kun**; **4,953** authenticated drops through **Dec 8, 2020** per [ADL](https://www.adl.org/resources/backgrounder/qanon); mainstream attribution points to **Paul Furber** then **Ron Watkins** — **disputed**, not a court finding; **Anonymous** label from **4chan ~2003**; **Q clearance** is real **DOE** category for **Restricted Data**, **not** a public SIGINT channel; no located primary explaining **why** the letter **Q** was chosen. **Author thesis (Q clearance):** the clearance guards more than “nuclear weapons design” — it marks insiders who manage the **half-hoax** on **power** (flash myth vs real **DU** harm, proxy threat, blocked transformative **Power**); **Bond Q** and **Star Trek Q** mirror that insider grammar before Oct 2017 — see [**§Q1.0 timeline**](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q10--real-world-q-clearance--q-influenced-media-timeline). **Anonymous** as blanket anarchy CO; **Anonymous + Q → Q-Anon** breaks **chain of custody**; protest poison pills — cross-read [Phoenix §3C](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3c-jun-24-photo-evidence--frame-grabs), [Q-Anon shaman Part II](/influence/controlled_opposition/the-q-trance.md), [Occupy CO §10](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md#10-field-note--arizona-occupy-author-observation). Nukes half-hoax spine: [nukes dossier](/science/nukes/investigations/nukes-dont-exist-investigation.md). Pre-Q rhymes: [great-awakening §3.7](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md#37-qanon--timeline-claims-debunks-and-fit-to-this-file). Hub: [Q-Anon CO](/influence/controlled_opposition/00).
 
-**Status:** Open — **Part 7 conclusion** (Q → deep state → QAnon CO synthesis + pushback) **2026-08-28**; **§Q1.0** media timeline; prediction registry; Chansley through **Aug 2026**.  
+**Status:** Open — **Part 7 conclusion** (Q → deep state → Q-Anon CO synthesis + pushback) **2026-08-28**; **§Q1.0** media timeline; prediction registry; Chansley through **Aug 2026**.  
 **Date:** 2026-08-28
 
 ---
@@ -13,7 +13,7 @@
 |------|-------|
 | [Part 1](#part-1--pre-q-history-qa) | Pre-Q history — **[§Q1.0 clearance + media timeline](#q10--real-world-q-clearance--q-influenced-media-timeline)**, codename, SIGINT, Bond / Star Trek Q |
 | [Part 2](#part-2--anonymous-qa) | Anonymous — founding, timeline, accusations, CO read |
-| [Part 3](#part-3--q--qanon-origin-qa) | QAnon origin, platform migration, claims, **prediction table** |
+| [Part 3](#part-3--q--qanon-origin-qa) | Q-Anon origin, platform migration, claims, **prediction table** |
 | [Part 4](#part-4--merger-thesis-qa) | Anonymous + Q merger, custody break, CO pattern, cross-links |
 | [Part 5](#part-5--jacob-chansley--jan-6-qa) | Chansley biography, Scottsdale, Capitol, legal status |
 | [Part 7](#part-7--conclusion-author-synthesis) | **Conclusion** — Q through-line, CO read, **pushback / weak points** |
@@ -78,15 +78,15 @@
 | **1958–1964** | **James Bond “Q”** (Major Boothroyd / quartermaster) enters Fleming canon; film **1962+** | MI6 **Q Branch** — gadgets, weapons, vehicles for field ops; [Wikipedia — Q (James Bond)](https://en.wikipedia.org/wiki/Q_(James_Bond)) | **Overlap**: state **secret warfare / espionage** shop that **already knows** deployable tech the public will not see for decades — **might as well hold Q clearance**; invisible cars, exotic ordnance = **preview of compartmented engineering** | **Documented** (character) + **Author pattern** |
 | **1987–1994+** | **Star Trek TNG “Q”** (John de Lancie) | Continuum member; **godlike** powers; trial of humanity; [Roddenberry / Quarton naming](https://en.wikipedia.org/wiki/Q_(Star_Trek)) | **Red herring to the plot**: omniscient being who **knows secrets humans cannot** — mirrors **insider who sees the board** while audience chases **misdirection**; creator **Quarton** honor name **outranks** SIGINT codename unless new primaries surface | **Documented** (production) + **Author pattern** |
 | **2003+** | **Anonymous** on 4chan | Default username **Anonymous** | Separate thread — [Part 2](#part-2--anonymous-qa); sets up **Anon + Q** portmanteau later | **Documented** |
-| **Oct 2017** | **“Q Clearance Patriot”** → **QAnon** | Chan insider persona claiming **Q clearance** | **Brands** the real clearance **category** onto **tripcode drops** — imports **authority of §Q1.0 anchor** without **chain of custody** ([Part 4](#part-4--merger-thesis-qa)) | **Documented** + **Author CO read** |
+| **Oct 2017** | **“Q Clearance Patriot”** → **Q-Anon** | Chan insider persona claiming **Q clearance** | **Brands** the real clearance **category** onto **tripcode drops** — imports **authority of §Q1.0 anchor** without **chain of custody** ([Part 4](#part-4--merger-thesis-qa)) | **Documented** + **Author CO read** |
 
-**Pattern summary (author):** Three **Q** layers stack — **(1)** real **clearance / compartment**, **(2)** **Bond Q** = **applied secret tech** for state violence and espionage, **(3)** **Star Trek Q** = **omniscient red herring** who bends the story while humans argue the wrong frame. **Oct 2017 QAnon** **weaponizes (1)** through chan culture **(2)+(3)** already seeded in mass media: **insider who knows**, **trust the gadgets/plan**, **plot you cannot verify**.
+**Pattern summary (author):** Three **Q** layers stack — **(1)** real **clearance / compartment**, **(2)** **Bond Q** = **applied secret tech** for state violence and espionage, **(3)** **Star Trek Q** = **omniscient red herring** who bends the story while humans argue the wrong frame. **Oct 2017 Q-Anon** **weaponizes (1)** through chan culture **(2)+(3)** already seeded in mass media: **insider who knows**, **trust the gadgets/plan**, **plot you cannot verify**.
 
 ```mermaid
 flowchart LR
   A["Q clearance\n(DOE Restricted Data)"] --> B["Bond Q\n(secret tech / warfare shop)"]
   A --> C["Star Trek Q\n(omniscient red herring)"]
-  B --> D["QAnon 2017\n(clearance brand + chan Anon)"]
+  B --> D["Q-Anon 2017\n(clearance brand + chan Anon)"]
   C --> D
 ```
 
@@ -115,7 +115,7 @@ flowchart LR
 | **Codename “Q” as public SIGINT network** | No located declassified primary for a follower-facing channel branded **“Q”** pre-2017 | **Documented absence (search-limited)** |
 | **Internal compartment codename “Q”** | Author asks whether any **non-public** SIGINT-adjacent network used that label | **Author hypothesis** — no located primary |
 
-**Distinction (critical):** Conflating **(a)** Q-codes, **(b)** Q clearance, **(c)** fictional Q, and **(d)** Oct 2017 **“Q Clearance Patriot”** is **documented** in QAnon rhetoric; it is **not** evidence any one hidden network existed.
+**Distinction (critical):** Conflating **(a)** Q-codes, **(b)** Q clearance, **(c)** fictional Q, and **(d)** Oct 2017 **“Q Clearance Patriot”** is **documented** in Q-Anon rhetoric; it is **not** evidence any one hidden network existed.
 
 **Repo contrast:** Real high-impact leak lanes in corpus ([Snowden dossier](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md)) hit **named programs** with **identifiable journalists** and **forensic archives** — different grammar from **tripcode drops** on imageboards.
 
@@ -124,7 +124,7 @@ flowchart LR
 | Question | Finding | Tier |
 |----------|---------|------|
 | Declassified **public-facing** military SIGINT feed named **“Q”** pre-2017 | **No located primary** in this survey | **Documented absence (search-limited)** |
-| Government **insider bulletin** publicly branded **“Q”** | **Not found**; mass phenomenon under that brand begins **Oct 2017** | **Mainstream synthesis** ([Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon)) |
+| Government **insider bulletin** publicly branded **“Q”** | **Not found**; mass phenomenon under that brand begins **Oct 2017** | **Mainstream synthesis** ([Wikipedia — Q-Anon](https://en.wikipedia.org/wiki/QAnon)) |
 | **Pre-Q** “trust the plan” / mass-arrest briefing culture | Fulford, Drake/Wilcock **2012** lane — [great-awakening §3.5](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md#35-pre-q-insider-war-briefings--benjamin-fulford-drake-wilcock-ventura) | **Documented** newsletters; **interpretive** CO read |
 
 **Open questions:** Declassified NSA/GCHQ reading-room search for codename **“Q”** as network label (**§6** checklist V1); whether Oct 2017 violated a real **non-public** boundary by design (CO) or grift (**Author hypothesis** P4).
@@ -140,7 +140,7 @@ flowchart LR
 
 **Author hypothesis P2** (Star Trek **Q** references a real SIGINT network): **Outranked** by documented Quarton naming unless future primaries surface. **Author hypothesis P2b** (Star Trek **Q** mirrors **compartmented nuclear-truth managers** and functions as **plot red herring**): **first-class pattern read** — distinct from naming etymology; see **§Q1.0**.
 
-### Q1.4 — SIGINT landscape pre-QAnon — what intel really looked like (brief)
+### Q1.4 — SIGINT landscape pre-Q-Anon — what intel really looked like (brief)
 
 **Full spine:** [SIGINT history investigation](/governance/war/investigations/sigint-history-investigation.md) — global chronology, Five Eyes, Tonkin/Church/Snowden events, repo crosswalk §6.
 
@@ -197,15 +197,15 @@ flowchart LR
 
 ---
 
-# Part 3 — Q / QAnon origin (Q&A)
+# Part 3 — Q / Q-Anon origin (Q&A)
 
-### Q3.1 — When was QAnon founded, and how did platforms migrate?
+### Q3.1 — When was Q-Anon founded, and how did platforms migrate?
 
 | Date / beat | Documented fact | Source |
 |-------------|-----------------|--------|
 | **Oct 28, 2017** | First posts on **4chan /pol**; “Calm Before the Storm” thread; Clinton arrest prediction | [ADL](https://www.adl.org/resources/backgrounder/qanon); [Q Origins Project](https://qoriginsproject.org/the-making-of-qanon-a-crowdsourced-conspiracy/) |
 | **Nov 1–2, 2017** | Moniker **“Q Clearance Patriot”** → signs as **“Q”** | ADL |
-| **Late Nov 2017** | Moves to **8chan** (citing 4chan “infiltration”) | Wikipedia — QAnon |
+| **Late Nov 2017** | Moves to **8chan** (citing 4chan “infiltration”) | Wikipedia — Q-Anon |
 | **2018–2020** | Aggregators (QMap, Patriots’ Soapbox, etc.); rally apparel | Wikipedia; ADL |
 | **Aug 2019** | **8chan** forced offline after El Paso shooting | PBS; Wikipedia |
 | **Nov 2019** | Returns as **8kun** | ADL |
@@ -213,7 +213,7 @@ flowchart LR
 | **Jun 24, 2022** | Brief re-emergence (handful of posts) | ADL |
 | **Jan 6, 2021** | Capitol attack cluster includes Q-adherents | **Documented** |
 
-**Culture context:** [Q Origins Project](https://qoriginsproject.org/the-making-of-qanon-a-crowdsourced-conspiracy/) — QAnon **cannot** be separated from **/pol/** conspiracy slurry (Pizzagate lineage, antisemitic tropes).
+**Culture context:** [Q Origins Project](https://qoriginsproject.org/the-making-of-qanon-a-crowdsourced-conspiracy/) — Q-Anon **cannot** be separated from **/pol/** conspiracy slurry (Pizzagate lineage, antisemitic tropes).
 
 ### Q3.2 — What did Q claim to be? What did accusers and media say?
 
@@ -236,19 +236,19 @@ flowchart LR
 
 ### Q3.4 — Q drop predictions and promised events (registry)
 
-**Method:** Past-tense analysis through **Aug 2026**. Sources: [ADL backgrounder](https://www.adl.org/resources/backgrounder/qanon), [Newsweek failed predictions](https://www.newsweek.com/qanon-trump-march4-predictions-failed-1573739), [QAnon Debunked list](https://www.qanondebunked.com/2020/08/08/non-comprehensive-list-of-qdrops-that-have-been-debunked/), [sealed-indictment debunk](https://wmerthon6.wixsite.com/website-1/post/who-started-the-60k-sealed-indictment-claim), [Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon), [James Carner drop test](https://jamescarner.com/qanon-tested-prophecy-pattern-or-psychological-operation/) (drop-date inventory). **Believer reinterpretations** noted where standard.
+**Method:** Past-tense analysis through **Aug 2026**. Sources: [ADL backgrounder](https://www.adl.org/resources/backgrounder/qanon), [Newsweek failed predictions](https://www.newsweek.com/qanon-trump-march4-predictions-failed-1573739), [Q-Anon Debunked list](https://www.qanondebunked.com/2020/08/08/non-comprehensive-list-of-qdrops-that-have-been-debunked/), [sealed-indictment debunk](https://wmerthon6.wixsite.com/website-1/post/who-started-the-60k-sealed-indictment-claim), [Wikipedia — Q-Anon](https://en.wikipedia.org/wiki/QAnon), [James Carner drop test](https://jamescarner.com/qanon-tested-prophecy-pattern-or-psychological-operation/) (drop-date inventory). **Believer reinterpretations** noted where standard.
 
 **Outcome key:** **Failed** = no matching public event by stated window; **Reinterpreted** = community moved goalposts; **Ambiguous** = partial real event retrofitted; **Pending (believers)** = still claimed “coming” despite elapsed windows.
 
 | Date of drop | Claim / prediction | Stated timeframe | Outcome (by Aug 2026) | Source |
 |--------------|-------------------|------------------|----------------------|--------|
 | **Oct 28, 2017** | **HRC extradition** “already in motion”; cross-border run; **mass riots** if arrested | Imminent (2017) | **Failed** — no Clinton arrest/extradition | ADL; Drop 1 ([4plebs archive](https://4plebs.org/)) |
-| **Oct 28, 2017** | **HRC arrest** **Oct 30, 2017**, **7:45–8:30 AM ET**; passport flagged | Oct 30, 2017 AM | **Failed** | Carner; QAnon Debunked |
+| **Oct 28, 2017** | **HRC arrest** **Oct 30, 2017**, **7:45–8:30 AM ET**; passport flagged | Oct 30, 2017 AM | **Failed** | Carner; Q-Anon Debunked |
 | **Oct 28, 2017** | HRC **“detained, not arrested (yet)”** | Present tense Oct 2017 | **Failed** | ADL; Carner |
 | **Oct 29–31, 2017** | **National Guard** activated across major cities tied to Clinton ops | Oct–Nov 2017 | **Failed** at claimed scale | Carner; ADL |
 | **Oct 31, 2017** | **“Friday and Saturday will deliver on MAGA promise”**; **“cleaning house (gov’t)”** | Nov 3–4, 2017 weekend | **Reinterpreted** → Saudi purge (below) | Impious Digest; Telegraph 11.3 analysis |
-| **Nov 1, 2017** | **John Podesta** arrest announced | **Nov 3, 2017** (“11.3”) | **Failed** — no Podesta arrest | QAnon Debunked; Telegraph |
-| **Nov 1, 2017** | **Huma Abedin** indictment | **Nov 6, 2017** (“11.6”) | **Failed** | QAnon Debunked |
+| **Nov 1, 2017** | **John Podesta** arrest announced | **Nov 3, 2017** (“11.3”) | **Failed** — no Podesta arrest | Q-Anon Debunked; Telegraph |
+| **Nov 1, 2017** | **Huma Abedin** indictment | **Nov 6, 2017** (“11.6”) | **Failed** | Q-Anon Debunked |
 | **Nov 2, 2017** | **Nov 3** = “big day”; **National Guard** deployments; **“calm before the storm”** | Nov 3, 2017 | **Failed** as mass-arrest day; phrase **retrofitted** to Trump Oct 5 remark | ADL; Carner |
 | **Nov 4–5, 2017** | Clinton / Podesta / Abedin arrests “first week of November” | Nov 2017 | **Reinterpreted** → **Saudi royal purge** (real event, **not** named targets) | Telegraph; ADL |
 | **Nov 2017** | **George Soros** targeted / arrested | Nov 2017 | **Failed** | Impious Digest |
@@ -259,7 +259,7 @@ flowchart LR
 | **Early 2018** | **Mass suicides** of Trump critics | Feb 2018 | **Failed** | Newsweek |
 | **2018** | **MOAB** on **North Korea** | 2018 | **Failed** | Newsweek |
 | **2018–2019** | **“The Storm”** — mass arrests, Gitmo tribunals | **Dec 5, 2018**; **Jan 19, 2019**; **Mar 19, 2019** | **Failed** each date; **Reinterpreted** | Newsweek; ADL |
-| **Drop 1332 (2018)** | **“Obama goes down”** | Near-term | **Failed** | QAnon Debunked |
+| **Drop 1332 (2018)** | **“Obama goes down”** | Near-term | **Failed** | Q-Anon Debunked |
 | **2019–2020** | **Mass awakening** — public learns cabal truth via Plan | Before 2020 election | **Ambiguous** — audience grew; **no** cabal exposure | ADL |
 | **2020 cycle** | **Trump wins** 2020 election | Nov 2020 | **Failed** (Biden certified) | ADL; Skeptical Inquirer |
 | **2020–2021** | **EBS** (Emergency Broadcast System) activation; truth documentaries | Various 2020–2021 windows | **Failed** | ADL; movement lore |
@@ -280,15 +280,15 @@ flowchart LR
 
 # Part 4 — Merger thesis (Q&A)
 
-### Q4.1 — How does Anonymous + Q → QAnon naming / implication work?
+### Q4.1 — How does Anonymous + Q → Q-Anon naming / implication work?
 
 | Layer | What it imports | Problem |
 |-------|-----------------|---------|
 | **Anonymous** (chan) | Decentralized **Anons**, decode culture, raid idiom | **No identity**, **no accountability** |
 | **“Q”** persona | **Insider** military/intel **authority** | **Tripcode** ≠ chain of evidence |
-| **QAnon** brand | **Serious** coup / tribunals / Trump war vs cabal | Followers **merge** joke-board culture with **national-security** claims |
+| **Q-Anon** brand | **Serious** coup / tribunals / Trump war vs cabal | Followers **merge** joke-board culture with **national-security** claims |
 
-The portmanteau **QAnon** (= **Q** + **Anon**) encodes both halves: **classified insider** + **faceless crowd**. Structurally **unreliable** for disciplined investigation — by design if CO, by grift if not (**Author thesis** A4).
+The portmanteau **Q-Anon** (= **Q** + **Anon**) encodes both halves: **classified insider** + **faceless crowd**. Structurally **unreliable** for disciplined investigation — by design if CO, by grift if not (**Author thesis** A4).
 
 ### Q4.2 — Chain of custody / reliability problem
 
@@ -320,7 +320,7 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 
 # Part 5 — Jacob Chansley / Jan 6 (Q&A)
 
-### Q5.1 — Documented biography and QAnon Shaman role
+### Q5.1 — Documented biography and Q-Anon Shaman role
 
 | Field | Fact | Tier |
 |-------|------|------|
@@ -328,14 +328,14 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 | **Born** | **1988**; raised Phoenix area | **Documented** |
 | **Education** | Moon Valley HS; Glendale Community College (psychology, religion, philosophy, ceramics) | **Documented** |
 | **Military** | U.S. **Navy** Sep 2005 – Oct 2007; USS **Kitty Hawk**; discharged after **anthrax vaccine** refusal; final rank SK **Seaman Apprentice** (E-2) | **Documented** ([Military.com](https://www.military.com/daily-news/2021/01/11/qanon-shaman-arrested-storming-us-capitol-navy-veteran.html)) |
-| **Public persona** | Self-styled **“QAnon Shaman”**; horned headdress, face paint; **Trump rallies** Arizona **2020** | **Documented** |
-| **QAnon** | Former believer and **amplifier**; later **repudiated** movement (2025–2026 press) | **Documented** ([Independent](https://www.the-independent.com/news/world/americas/qanon-shaman-capitol-riot-sentencing-b1958223.html)) |
+| **Public persona** | Self-styled **“Q-Anon Shaman”**; horned headdress, face paint; **Trump rallies** Arizona **2020** | **Documented** |
+| **Q-Anon** | Former believer and **amplifier**; later **repudiated** movement (2025–2026 press) | **Documented** ([Independent](https://www.the-independent.com/news/world/americas/qanon-shaman-capitol-riot-sentencing-b1958223.html)) |
 
 ### Q5.2 — Jun 24, 2020 Scottsdale (documented + witness)
 
 **Grievance:** Anti-**mask** mandate **“Unmask Us”** — **not** Stop the Steal. **Documented:** McCarthy spoke ([azcentral Jun 24, 2020](https://www.azcentral.com/story/news/local/scottsdale/2020/06/24/scottsdale-councilman-leads-protest-against-mask-mandates/3245724001/)).
 
-**Author eyewitness + frame grabs:** **FOX 10 single-camera** Chansley TV beat (**“Q sent me”**); author intervention on **`VID_20200624_110648.mp4`**; QAnon / Flat Earth adjacency — **do not duplicate** — [Phoenix §3](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us), [§3C](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3c-jun-24-photo-evidence--frame-grabs).
+**Author eyewitness + frame grabs:** **FOX 10 single-camera** Chansley TV beat (**“Q sent me”**); author intervention on **`VID_20200624_110648.mp4`**; Q-Anon / Flat Earth adjacency — **do not duplicate** — [Phoenix §3](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us), [§3C](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3c-jun-24-photo-evidence--frame-grabs).
 
 ### Q5.3 — Jan 6, 2021 Capitol (documented)
 
@@ -355,7 +355,7 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 
 | Claim | Notes | Tier |
 |-------|-------|------|
-| Chansley as **deliberate visual** for QAnon at **center of historic event** | Iconic Jan 6 imagery | **Documented** (media role) + **Author interpretive** |
+| Chansley as **deliberate visual** for Q-Anon at **center of historic event** | Iconic Jan 6 imagery | **Documented** (media role) + **Author interpretive** |
 | **“Ride he knew”** / **handlers** at Scottsdale | **One FOX 10 camera** on Chansley continuously; other crews on **local interviews** nearby; Chansley from **side** onto empty patch — [Phoenix §3 staging read](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us) | **Video-reviewed** + **Author hypothesis** — **not** proof of witting asset |
 | **Coincidence vs staging** | Legitimate grievance crowd + **TV-ready** Q mascot | **Open question** |
 
@@ -369,17 +369,17 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 
 ### 7.1 Author words (conclusion — session 2026-08-28)
 
-> Although the QAnon movement seems to have **no real origin beyond media and Q clearance** — which most people find **out of sync** with the main claims of secret intel (a scientist who knows how to make nuclear bombs does **not** necessarily have real-time military intel; those are **two different departments**) — it can be easily understood why **nobody would see the significance** of the word QAnon. But the significance is that the **Q character is far more of an influence than publicly perceived**. The Q character essentially has the **biggest influence of all** — keeping the **biggest secrets of all**, and harnessing the secrets and/or lies to extend **massive influence over the world population**, even to the point of being able to **cause world wars** like the one we're in right now — **over nuclear fuel**. More significantly, if we understand that **Q is definitely a real force that's always been there**, a **transformative force**, and that **QAnon represents that same patriotic, intelligence-leaking character** that apparently still works for the government and is still very transformative, then what we're really deriving is that the **government is secretly sending us a message to cause anarchy** — even **against that same government**. Not just anarchy, but **anti-Semitism** and everything else QAnon is associated with. The movement is **harnessing the legitimacy of the real Q influence** and suggesting that it is the **only signal** coming out of the chaos of government that we should trust — **follow the plan**, even if that plan means the **destruction of that same government and our country** in a not-surprisingly **Marxist prediction** of the future. Not surprising because this has always been the **deep state plan**, and the **deep state represents the Q** — the ability to **hide information**, **lie to the masses**, **carry out secret clearances**, which all started over **nuclear fuel** in the first place, or the ability to **create (or unsuppress publicly in a controlled way) nuclear weapons after World War II**. Most of our government **wasn't as secretive as the CIA and nuclear-clearance sectors**; it was within those **absolutely opaque sectors** where some of the **most heinous conspiracies** could be birthed. The argument that nuclear-energy clearance does not look like the breeding ground for worldwide anarchy conspiracies is **precisely** the misdirection — the public looks for intel leaks in Langley headlines while the **Q compartment** runs the board on **Power**.
+> Although the Q-Anon movement seems to have **no real origin beyond media and Q clearance** — which most people find **out of sync** with the main claims of secret intel (a scientist who knows how to make nuclear bombs does **not** necessarily have real-time military intel; those are **two different departments**) — it can be easily understood why **nobody would see the significance** of the word Q-Anon. But the significance is that the **Q character is far more of an influence than publicly perceived**. The Q character essentially has the **biggest influence of all** — keeping the **biggest secrets of all**, and harnessing the secrets and/or lies to extend **massive influence over the world population**, even to the point of being able to **cause world wars** like the one we're in right now — **over nuclear fuel**. More significantly, if we understand that **Q is definitely a real force that's always been there**, a **transformative force**, and that **Q-Anon represents that same patriotic, intelligence-leaking character** that apparently still works for the government and is still very transformative, then what we're really deriving is that the **government is secretly sending us a message to cause anarchy** — even **against that same government**. Not just anarchy, but **anti-Semitism** and everything else Q-Anon is associated with. The movement is **harnessing the legitimacy of the real Q influence** and suggesting that it is the **only signal** coming out of the chaos of government that we should trust — **follow the plan**, even if that plan means the **destruction of that same government and our country** in a not-surprisingly **Marxist prediction** of the future. Not surprising because this has always been the **deep state plan**, and the **deep state represents the Q** — the ability to **hide information**, **lie to the masses**, **carry out secret clearances**, which all started over **nuclear fuel** in the first place, or the ability to **create (or unsuppress publicly in a controlled way) nuclear weapons after World War II**. Most of our government **wasn't as secretive as the CIA and nuclear-clearance sectors**; it was within those **absolutely opaque sectors** where some of the **most heinous conspiracies** could be birthed. The argument that nuclear-energy clearance does not look like the breeding ground for worldwide anarchy conspiracies is **precisely** the misdirection — the public looks for intel leaks in Langley headlines while the **Q compartment** runs the board on **Power**.
 
 ### 7.2 What they mean (unpack)
 
 | Piece | Unpack | Tier |
 |-------|--------|------|
-| **Surface mismatch** | QAnon sells **live military intel**; **Q clearance** is **DOE Restricted Data** — different departments, different skill sets | **Documented** mismatch + **Author read** (misdirection is the point) |
-| **Hidden significance** | Word **QAnon** looks absurd on surface; **real Q grammar** (clearance + media Q + deep opacity) is **underweighted** in public debate | **Author thesis** |
+| **Surface mismatch** | Q-Anon sells **live military intel**; **Q clearance** is **DOE Restricted Data** — different departments, different skill sets | **Documented** mismatch + **Author read** (misdirection is the point) |
+| **Hidden significance** | Word **Q-Anon** looks absurd on surface; **real Q grammar** (clearance + media Q + deep opacity) is **underweighted** in public debate | **Author thesis** |
 | **Q as largest influence** | Not chan persona — **compartment class** that **manages nuclear truth**, **DU proxy**, war timing ([Iran 2026](/governance/war/investigations/iran-2026-war-runner.md)) | **Author thesis** |
 | **Transformative force** | **Power** knowledge suppressed since post-WWII nuclear lock — [§Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#author-thesis--what-q-clearance-really-marks-nuclear--power) | **Author thesis** |
-| **QAnon as patriotic leak fiction** | Movement **dresses** real **Q** authority in **insider-leak** costume — **“Q Clearance Patriot”** | **Documented** branding + **Author read** |
+| **Q-Anon as patriotic leak fiction** | Movement **dresses** real **Q** authority in **insider-leak** costume — **“Q Clearance Patriot”** | **Documented** branding + **Author read** |
 | **Message = anarchy against state** | Followers decode **trust the plan** toward **institutional collapse** while believing they **defend** the nation | **Author interpretive** |
 | **Toxic adjacency** | **Anti-Semitism**, cabal lore, sovereign-citizen reinstatement — **documented** in movement ([ADL](https://www.adl.org/resources/backgrounder/qanon)); author read = **feature** if CO | **Documented** themes + **Author CO read** |
 | **Legitimacy harvest** | Chan **Q** **borrows** real clearance **prestige** + decades of **Bond / Trek Q** omniscience — only **signal** worth trusting in chaos | **Author thesis** |
@@ -388,7 +388,7 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 | **Opacity breeding ground** | Least transparent branches (**nuclear clearance**, **CIA**) — not routine bureaucracy — **where worst plots gestate** | **Author thesis** |
 | **CO army without visible puppet master** | **Millions recruited**, **no named handler**, **no deliverable goals** — **mob in reserve** for politics or **real-world anarchy** ([Part 4](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-4--merger-thesis-qa)) | **Author thesis** |
 
-### 7.3 Dot connection — from nuclear Q to QAnon (author chain)
+### 7.3 Dot connection — from nuclear Q to Q-Anon (author chain)
 
 | Step | Link | Gap? |
 |------|------|------|
@@ -400,25 +400,25 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 | **6** | **Prediction failures** ([§3.4](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q34--q-drop-predictions-and-promised-events-registry)) + **toxic themes** → **discredit** adjacent dissent; **reserve army** remains ([Jan 6](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q53--jan-6-2021-capitol-documented), [Phoenix](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md)) | **Documented** outcomes + **Author pattern** |
 | **7** | **2026** — **nuclear fuel / DU / latency** wars as downstream of **(1)** board ([Iran runner](/governance/war/investigations/iran-2026-war-runner.md), [CIA DU](/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat)) | **Author thesis** — temporal stretch |
 
-**Author verdict (conclusion):** The through-line **closes without rhetorical gaps** *inside the author model*: **real Q opacity** → **cultural Q avatars** → **QAnon harvest** → **deployable chaos army** serving the **same class** that **classified nuclear Power** first. QAnon did **not** need a visible puppet master if it **extended** an **already operating** unseen influence — **controlled opposition** on top of **controlled information**.
+**Author verdict (conclusion):** The through-line **closes without rhetorical gaps** *inside the author model*: **real Q opacity** → **cultural Q avatars** → **Q-Anon harvest** → **deployable chaos army** serving the **same class** that **classified nuclear Power** first. Q-Anon did **not** need a visible puppet master if it **extended** an **already operating** unseen influence — **controlled opposition** on top of **controlled information**.
 
 **Tier:** **Author synthesis** — not adjudicated fact. See **§7.4**.
 
 ### 7.4 Pushback — where this conclusion may fail or stay weak
 
-Steel-man counter-reads — **not** a demand for **court-grade sponsorship proof**. **Site claim:** [`co-evidence-methodology`](/site-claims.json) — CO is **pattern + overlapping influence + cui bono**, not routine payroll memo proof; court-grade witting sponsorship is **rare** (COINTELPRO-scale exceptions; modern DOJ/FBI waves **may** add cases but are **not** the default bar). This repo’s CO standard is **behavior + function + outcome**, same as [mudflood-gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) (“**not a courtroom finding** of CIA payroll”), [Meltrix dossier](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md), and [Occupy CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) (**plausible to investigate** ≠ proof of single puppetmaster). **Known plausibility gap:** you will **not** normally find public evidence that would **hold up in court** proving QAnon (or Assange, Snowden, FE injectors, etc.) was **witting** state-controlled opposition — unless history opens like **post-war Nazi archives** or a **COINTELPRO-scale** declassification. **That absence is expected**, not a surprise defeat of the thesis. We are **never** primarily hunting **direct conspiracy links**; we study **patterns**, **overlapping influence**, **who benefits**, and **history/literature** to deduce the best-fit read from **realistic possibilities** (tier-labeled). Hub tell: [**high media promotion when true opposition is blacklisted**](/influence/controlled_opposition/00.md); dossier tells: **broken custody**, **prediction failures**, **toxic adjacency**, **poison-pill witness** ([Phoenix](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md)). Pushback below tests **competing reads**, not “produce a memo or lose.”
+Steel-man counter-reads — **not** a demand for **court-grade sponsorship proof**. **Site claim:** [`co-evidence-methodology`](/site-claims.json) — CO is **pattern + overlapping influence + cui bono**, not routine payroll memo proof; court-grade witting sponsorship is **rare** (COINTELPRO-scale exceptions; modern DOJ/FBI waves **may** add cases but are **not** the default bar). This repo’s CO standard is **behavior + function + outcome**, same as [mudflood-gatekeepers](/influence/controlled_opposition/mudflood-gatekeepers.md) (“**not a courtroom finding** of CIA payroll”), [Meltrix dossier](/history/mudflood/investigations/meltrix-druzhinin-mudflood-controlled-opposition-poison-pills-investigation.md), and [Occupy CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) (**plausible to investigate** ≠ proof of single puppetmaster). **Known plausibility gap:** you will **not** normally find public evidence that would **hold up in court** proving Q-Anon (or Assange, Snowden, FE injectors, etc.) was **witting** state-controlled opposition — unless history opens like **post-war Nazi archives** or a **COINTELPRO-scale** declassification. **That absence is expected**, not a surprise defeat of the thesis. We are **never** primarily hunting **direct conspiracy links**; we study **patterns**, **overlapping influence**, **who benefits**, and **history/literature** to deduce the best-fit read from **realistic possibilities** (tier-labeled). Hub tell: [**high media promotion when true opposition is blacklisted**](/influence/controlled_opposition/00.md); dossier tells: **broken custody**, **prediction failures**, **toxic adjacency**, **poison-pill witness** ([Phoenix](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md)). Pushback below tests **competing reads**, not “produce a memo or lose.”
 
 | # | Challenge | Why it pressures the thesis | Repo-aligned response / what would *shift* the read |
 |---|-----------|----------------------------|-----------------------------------------------------|
-| **P1** | **Department mismatch → “just LARP”** | Skeptics say QAnon claims **live military intel** while **Q clearance** is **DOE nuclear** — therefore **grift**, not **deep continuity** | **Misread of author model.** The mismatch is **documented** ([§Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#documented-baseline--q-clearance)) and **the point**: chan **Q** **harvests clearance prestige** while selling **SIGINT-insider** fantasy — **misdirection**, not accidental error. CO classification here does **not** require proof a **Los Alamos** holder wrote the drops. **Would shift read:** independent **organic** origin story that **better explains** promotion + **outcome function** (discredit dissent) **without** clearance-harvest grammar — not a DOE memo |
+| **P1** | **Department mismatch → “just LARP”** | Skeptics say Q-Anon claims **live military intel** while **Q clearance** is **DOE nuclear** — therefore **grift**, not **deep continuity** | **Misread of author model.** The mismatch is **documented** ([§Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#documented-baseline--q-clearance)) and **the point**: chan **Q** **harvests clearance prestige** while selling **SIGINT-insider** fantasy — **misdirection**, not accidental error. CO classification here does **not** require proof a **Los Alamos** holder wrote the drops. **Would shift read:** independent **organic** origin story that **better explains** promotion + **outcome function** (discredit dissent) **without** clearance-harvest grammar — not a DOE memo |
 | **P2** | **Furber / Watkins = visible platform operators** | Mainstream-academic chain: **Paul Furber** → **Ron Watkins** ([§3.3](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q33--who-is-behind-q-furber--watkins--current-attribution-status)) — **grifters on imageboards**, not “unseen Q” | **Compatible with CO.** Visible operators **do not falsify** managed opposition; they are the **public skin** ([Snowden §4](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) — “CO can speak true sentences”). **Would shift read:** Watkins/Furber **consistently** behaved as **sincere believers** with **no** monetization / **no** discredit outcome for adjacent movements — weak given Jan 6 / Phoenix adjacency |
-| **P3** | **Emergent fandom scales without command** | Chanology, Pizzagate → Q fits **decentralized toxic fandom** + **ICWSM** persona takeover | **Strongest non-CO read.** Must be held **live**. **Would shift read:** not payroll — **documented** that QAnon **underperformed** every **CO function** (no adjacent-lane poison, no media lift, no reserve army) — **contradicted** by ADL Jan 6 set, Phoenix witness, hub “unsuccessful” = **discredit metric** not zero reach |
-| **P4** | **Nuclear clearance is a weak unique seed for antisemitic chan lore** | **/pol/** slurry explains cabal / Storm themes more locally than **Restricted Data** managers | **Fair pressure on causal bridge** — distinct from **sponsorship proof** gap. Author ties **Q class** (opacity / Power) to **deep state**, not every drop to **Los Alamos**. **Would shift read:** QAnon toxic themes **track only** random chan noise with **zero** clearance-brand lift — disputed while **“Q Clearance Patriot”** branding persists |
-| **P5** | **Self-harming CO? — Trump alignment + Jan 6 blowback** | QAnon **pro-Trump**; Jan 6 **hurt** second-term lane in mainstream post-mortems | **Function vs intent.** CO often **damages the crowd it pretends to serve** ([§Q4.3](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q43--author-co-pattern-divide--conquer--dead-ends--poison-pill)). **Would shift read:** QAnon **only** mobilized base **without** discrediting **any** parallel serious dissent lane — **not** what Phoenix / election season show |
+| **P3** | **Emergent fandom scales without command** | Chanology, Pizzagate → Q fits **decentralized toxic fandom** + **ICWSM** persona takeover | **Strongest non-CO read.** Must be held **live**. **Would shift read:** not payroll — **documented** that Q-Anon **underperformed** every **CO function** (no adjacent-lane poison, no media lift, no reserve army) — **contradicted** by ADL Jan 6 set, Phoenix witness, hub “unsuccessful” = **discredit metric** not zero reach |
+| **P4** | **Nuclear clearance is a weak unique seed for antisemitic chan lore** | **/pol/** slurry explains cabal / Storm themes more locally than **Restricted Data** managers | **Fair pressure on causal bridge** — distinct from **sponsorship proof** gap. Author ties **Q class** (opacity / Power) to **deep state**, not every drop to **Los Alamos**. **Would shift read:** Q-Anon toxic themes **track only** random chan noise with **zero** clearance-brand lift — disputed while **“Q Clearance Patriot”** branding persists |
+| **P5** | **Self-harming CO? — Trump alignment + Jan 6 blowback** | Q-Anon **pro-Trump**; Jan 6 **hurt** second-term lane in mainstream post-mortems | **Function vs intent.** CO often **damages the crowd it pretends to serve** ([§Q4.3](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q43--author-co-pattern-divide--conquer--dead-ends--poison-pill)). **Would shift read:** Q-Anon **only** mobilized base **without** discrediting **any** parallel serious dissent lane — **not** what Phoenix / election season show |
 | **P6** | **“Deep state = Q” merges rhetorical objects** | **Deep state** ≠ **DOE Q clearance** without **institutional bridge** | **Fair conceptual pressure.** Dossier uses **Q** as **grammar** (hide / lie / classify), not identity of every bureaucrat. **Would shift read:** bridge table with **documented** DOE ↔ IC ↔ political ops **policy** contacts — optional strengthener, **not** required for CO class |
 | **P7** | **Media Q etymologies break clearance chain** | **Bond Q** = quartermaster; **Trek Q** = **Quarton** — documented creator intent | **Fair on naming etymology** — author **P2** already **outranked** for SIGINT codename. **Pattern read** (omniscient red herring) is **separate tier** ([§Q1.0.1](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q101--bond-q-vs-star-trek-q-media-contrast)). **Would shift read:** media Q **zero** rhymes with insider-opacity grammar — weak given on-screen roles |
-| **P8** | **Iran 2026 / nuclear fuel — long jump from Oct 2017 chan** | **DU / latency** board predates and **outlives** QAnon | **Fair on causal length.** §7.3 step **7** is **author thesis**, not proven chain. QAnon **not required** for Iran war — only **same opacity class** |
-| **P9** | **Hub calls QAnon “unsuccessful” CO** | If state-run, why **predictions dead**, **Watkins exposed**, movement **toxic**? | **Discredit-as-success** read: hub **unsuccessful** = failed **coup prophecy**, not failed **poison-pill function**. **Would shift read:** **no** measurable discredit of adjacent lanes (mask fraud, election audit, etc.) — witness files argue otherwise |
+| **P8** | **Iran 2026 / nuclear fuel — long jump from Oct 2017 chan** | **DU / latency** board predates and **outlives** Q-Anon | **Fair on causal length.** §7.3 step **7** is **author thesis**, not proven chain. Q-Anon **not required** for Iran war — only **same opacity class** |
+| **P9** | **Hub calls Q-Anon “unsuccessful” CO** | If state-run, why **predictions dead**, **Watkins exposed**, movement **toxic**? | **Discredit-as-success** read: hub **unsuccessful** = failed **coup prophecy**, not failed **poison-pill function**. **Would shift read:** **no** measurable discredit of adjacent lanes (mask fraud, election audit, etc.) — witness files argue otherwise |
 | **P10** | **Occam — chan residue without Q priesthood** | Pizzagate + Trump anxiety + grifters **without** post-WWII **Q** class | **Default skeptic read** — must **outpredict** on **outcomes**: promotion, topic shape, custody break, protest adjacency. **Payroll memo** is **not** Occam’s blade here |
 
 **Synthesis of pushback:** The conclusion is **coherent as author pattern work** and **first-class** for this repo’s **nuclear / opacity** spine. **Weakest** on **long causal jumps** (clearance → Iran 2026; Bond/Trek → chan Q **naming**). **Strongest** on **documented CO grammar** — broken custody, prediction failures, toxic adjacency, reserve-army structure, Phoenix poison-pill witness, **media promotion tell** — **without** pretending a **court memo** is the expected bar. The **department mismatch** is **evidence for misdirection** in the author model, **not** automatic proof of LARP — and **cannot** be flipped into “no memo, therefore organic,” because **this repo explicitly names that plausibility gap**.
@@ -434,19 +434,19 @@ Steel-man counter-reads — **not** a demand for **court-grade sponsorship proof
 | ID | Claim | Tier |
 |----|-------|------|
 | A0 | **Q clearance** marks managers of the **nuclear half-hoax** (flash myth, **DU** denial, blocked transformative **Power**) — not merely “weapons design” trivia | **Author thesis** — [§Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q10--real-world-q-clearance--q-influenced-media-timeline); [nukes dossier](/science/nukes/investigations/nukes-dont-exist-investigation.md) |
-| A0b | **Bond Q** / **Star Trek Q** form a **pre-2017 media timeline** mirroring **compartmented tech** + **omniscient red herring** before chan **QAnon** brands real clearance | **Author pattern** — **§Q1.0** |
+| A0b | **Bond Q** / **Star Trek Q** form a **pre-2017 media timeline** mirroring **compartmented tech** + **omniscient red herring** before chan **Q-Anon** brands real clearance | **Author pattern** — **§Q1.0** |
 | A1 | Real **pre-2017** military intel network called **“Q”** existed (non-public) | **Author hypothesis** |
 | A2 | Oct 2017 **Q** is **fiction on real intel culture** or **deliberate CO** | **Author hypothesis** |
 | A3 | **Anonymous** functions as **controlled opposition** / **anarchy sink** | **Author hypothesis** |
-| A4 | **QAnon** = **Anonymous + Q** merger with **broken custody** — **never reliable** | **Author thesis** |
-| A5 | QAnon **pretends ally**, later **damages** Trump-aligned dissent | **Author interpretive** |
+| A4 | **Q-Anon** = **Anonymous + Q** merger with **broken custody** — **never reliable** | **Author thesis** |
+| A5 | Q-Anon **pretends ally**, later **damages** Trump-aligned dissent | **Author interpretive** |
 | A6 | **Chansley TV beat** Jun 24 2020 = **staged poison pill** beside legitimate anti-mask protest (**one FOX 10 camera** on Chansley; other crews on **local interviews**) | **Video-reviewed** + [Phoenix](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) |
-| A7 | **Flat Earth** + **QAnon** **parallel** injectors at **large** AZ protests | **Author pattern** |
+| A7 | **Flat Earth** + **Q-Anon** **parallel** injectors at **large** AZ protests | **Author pattern** |
 | A8 | **Occupy Phoenix** escalation speaker = same **poison-pill** class | **Author eyewitness** (single event) |
-| A9 | **Real Q** (clearance / deep-state opacity class) is **transformative force** with **larger public influence** than QAnon surface suggests | **Author conclusion** — [§7](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-7--conclusion-author-synthesis) |
-| A10 | **QAnon** **harvests** real **Q legitimacy** to sell **anarchy**, **anti-Semitism**, and **institutional collapse** as **patriotic “trust the plan”** | **Author conclusion** |
+| A9 | **Real Q** (clearance / deep-state opacity class) is **transformative force** with **larger public influence** than Q-Anon surface suggests | **Author conclusion** — [§7](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-7--conclusion-author-synthesis) |
+| A10 | **Q-Anon** **harvests** real **Q legitimacy** to sell **anarchy**, **anti-Semitism**, and **institutional collapse** as **patriotic “trust the plan”** | **Author conclusion** |
 | A11 | **Deep state = Q grammar** — hide / lie / classify born in **nuclear fuel** opacity; **CIA + clearance sectors** most fertile for **heinous conspiracies** | **Author conclusion** |
-| A12 | **QAnon** = **deliberate CO** extending pre-existing **Q** influence into **million-user reserve army** **without visible puppet master** | **Author conclusion** — CO = **function / behavior** tier; **not** payroll proof ([§7.4 gap](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#74-pushback--where-this-conclusion-may-fail-or-stay-weak)) |
+| A12 | **Q-Anon** = **deliberate CO** extending pre-existing **Q** influence into **million-user reserve army** **without visible puppet master** | **Author conclusion** — CO = **function / behavior** tier; **not** payroll proof ([§7.4 gap](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#74-pushback--where-this-conclusion-may-fail-or-stay-weak)) |
 
 ### 6.2 Verification checklist
 
@@ -462,18 +462,18 @@ Steel-man counter-reads — **not** a demand for **court-grade sponsorship proof
 | V6 | Frame-review **`VID_20200624_102221`**, **`110943`** | Medium |
 | V7 | **Anonymous** early organizer interviews (Coleman; Housh) — CO vs organic | Medium |
 | V8 | **Cicada 3301** — in-scope decision | Low |
-| V9 | **QAnon** themes **2024–2026** under new brands | Ongoing |
+| V9 | **Q-Anon** themes **2024–2026** under new brands | Ongoing |
 | V10 | **Pre-Q** Fulford/Drake dated predictions vs **§3.4** registry | Medium |
-| V11 | **§7.4** — FOIA / archives on **FBI–DHS–QAnon** infiltration or amplification (**optional** — **not** decisive bar for CO class) | Low |
-| V12 | **§7.4 P5** — documented **CO success metric** (discredit dissent vs mobilize base) for QAnon | Medium |
+| V11 | **§7.4** — FOIA / archives on **FBI–DHS–Q-Anon** infiltration or amplification (**optional** — **not** decisive bar for CO class) | Low |
+| V12 | **§7.4 P5** — documented **CO success metric** (discredit dissent vs mobilize base) for Q-Anon | Medium |
 
 ### 6.3 Related investigations
 
 | File | Why |
 |------|-----|
-| [QAnon CO hub](/influence/controlled_opposition/00) | Short hub thesis |
+| [Q-Anon CO hub](/influence/controlled_opposition/00) | Short hub thesis |
 | [CO hub page](/influence/controlled_opposition/page.md) | Index |
-| [Phoenix protest timeline](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) | Chansley / QAnon witness |
+| [Phoenix protest timeline](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) | Chansley / Q-Anon witness |
 | [Flat Earth trance — Part I](/cosmos/flat_earth/the-flat-earth-trance.md) · [The Q trance — Part II](/influence/controlled_opposition/the-q-trance.md) | Arizona protest poison-pill series |
 | [2020 election fraud](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) | Voter-fraud season |
 | [Occupy Wall Street CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) | Anonymous → OWS |
@@ -488,7 +488,7 @@ Steel-man counter-reads — **not** a demand for **court-grade sponsorship proof
 
 **Prisca sapientia:** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md) — evidence tiers above adjudicate specific claims.
 
-- **Author thesis sections** (Pre-Q military **Q**, Anonymous/QAnon as **witting CO**, protest staging) are **first-class** for Paradigm Threat pattern work and are **not** automatically factual.
+- **Author thesis sections** (Pre-Q military **Q**, Anonymous/Q-Anon as **witting CO**, protest staging) are **first-class** for Paradigm Threat pattern work and are **not** automatically factual.
 - **Documented** timelines do **not** prove or disprove **2020 election** claims — see [election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md).
 - **Chansley** — public record + linked Phoenix witness; no clinical labels.
 - **Identity of Q** reported as **disputed mainstream research**, not court fact.

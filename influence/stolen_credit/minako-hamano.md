@@ -1,13 +1,14 @@
 # Minako Hamano — Investigation
 
-> **TL;DR:** Minako Hamano — Investigation
+> **TL;DR:** Minako Hamano (R&D1, from **1991**) co-authored *Super Metroid*'s most iconic tracks and anchors a wider probe into **Nintendo craft vs. platform rupture** (Sony/Philips 1988–1996, credit erasure, 2D→3D cutoff). **Load-bearing case:** [Mine Menace → Tropical Freeze credit hop](minako-hamano-and-the-whitewash.md). **Full dossier:** [investigations/minako-hamano-investigation.md](investigations/minako-hamano-investigation.md). **Reader article:** [minako-hamano-and-the-whitewash.md](minako-hamano-and-the-whitewash.md).
+
 **Status:** Investigating. Hypothesis: She may be the primary creative force behind much of the music she's credited on; credit may have been stolen by collaborators or institutional bias. When she is properly involved, quality is high; when she is sidelined or credited without actually composing, the result is amateurish.
 
 ---
 
 ## Career Summary
 
-- **Japanese** composer; joined Nintendo 1993.
+- **Japanese** composer; joined Nintendo R&D1 **1991** (see full dossier for timeline corrections).
 - Longest-employed female composer at Nintendo (as of records).
 - Born Kyoto, 1969.
 
@@ -22,10 +23,10 @@
 | Metroid Fusion | Akira Fujiwara | 2002 |
 | Metroid: Zero Mission | Kenji Yamamoto | 2004 |
 | Metroid Prime 3: Corruption | Kenji Yamamoto, Masaru Tajima | 2007 |
-| Donkey Kong Country Returns | — | **Excellent** soundtrack; Retro Studios |
-| Donkey Kong Country: Tropical Freeze | Dave Wise (exclusive credit in press) | Hamano in credits; not attributed; soundtrack even better |
+| Donkey Kong Country Returns | Kenji Yamamoto (supervisor); Hamano **music** team | Excellent soundtrack; mostly SNES rearrangements + Hamano originals (Club Nintendo tracks 3, 8); **Mine Menace** → Yamamoto on streaming |
+| Donkey Kong Country: Tropical Freeze | David Wise (**Music** in credits/press); Hamano **music recording** | “Return of Dave Wise” marketing; four Mine Menace arrangements credited Wise on stream without “arrangement”; see [whitewash article](minako-hamano-and-the-whitewash.md) |
 | Metroid Prime 4: Beyond | Credited | **No sign she worked on songs**; soundtrack amateurish; game disaster |
-| Donkey Kong Country | (with others) | Credited among team |
+| Donkey Kong Country (SNES) | — | **Not** Hamano — David Wise / Rare UK (1994) |
 | Mario Kart, Wario, Brain Age | Various | Numerous titles |
 
 ---
@@ -77,9 +78,8 @@
 - Hamano led Metroid Fusion; later moved to supervisor role (Samus Returns).
 
 ### Donkey Kong Country Returns & Tropical Freeze — The Pattern
-- **DKC Returns (2010):** Excellent soundtrack. Hamano credited. **Clue:** She may have been one of the original inspirations or composers behind many favorite Nintendo-era songs. ([dave-wise.md](dave-wise.md))
-- **DKC Tropical Freeze (2014):** Soundtrack even better. Dave Wise got **exclusive attribution** in press ("the return of Dave Wise"); Hamano was in the credits but explicitly **not** part of the "return" in articles. She was at Retro Studios at the time.
-- **Retro Studios reputation:** Metroid Prime 1 excellent. DKC Returns and Tropical Freeze excellent. Something went right when Hamano was involved.
+- **DKC Returns (2010):** Hamano on **music** team; Yamamoto supervisor; Wise **not on project** (left Rare 2009). Mostly SNES rearrangements + Hamano originals on Club Nintendo album. **Mine Menace** credited **Yamamoto** on streaming — rocket-barrel theme that became the series’ signature new action cue.
+- **DKC Tropical Freeze (2014):** Wise back under **Music**; press = “return of David Wise.” Hamano demoted **music → music recording**. Four rocket-barrel tracks are **arrangements of Mine Menace**; streaming credits **Wise** without “arrangement.” Author thesis: Wise = stakeholder credit front; Kyoto pipeline wrote original + variations. **Full argument:** [minako-hamano-and-the-whitewash.md](minako-hamano-and-the-whitewash.md).
 
 ### Metroid Prime 4 — "Something Is Up"
 - Metroid Prime 4: Beyond — **unmitigated disaster**; everyone agrees.
@@ -98,7 +98,8 @@
 - Which specific tracks did Hamano compose vs. Yamamoto/Fujiwara?
 - Link's Awakening — full credit breakdown?
 - Has she spoken publicly about credit or collaboration?
-- Tropical Freeze: What was Hamano's actual role? Why was she in credits but excluded from "return of Dave Wise" narrative?
+- Tropical Freeze: Why Hamano **music → music recording**? Why Wise on stream for Mine Menace arrangements Yamamoto owns on Returns?
+- Mine Menace: Hamano in the room? Friend Like Me ear-similarity — see dossier §5.8 and whitewash article.
 - Metroid Prime 4: Did Hamano contribute any tracks? If credited but not composing, who was?
 
 ---

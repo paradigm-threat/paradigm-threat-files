@@ -61,7 +61,7 @@ or *not* believing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) - Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) - History, myth, and misinterpretation of the flat-Earth idea.
 * [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - *Arizona protest poison pills — Part I*; FE debunk trance, dual ignorance, Phoenix FE billboards; Saturnian exit; links [Part II — The Q trance](/influence/controlled_opposition/the-q-trance.md).
-* [The Q trance](/influence/controlled_opposition/the-q-trance.md) - *Arizona protest poison pills — Part II*; Q clearance / QAnon; Jun 24 Chansley / FOX 10 confrontation; [YouTube Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
+* [The Q trance](/influence/controlled_opposition/the-q-trance.md) - *Arizona protest poison pills — Part II*; Q clearance / Q-Anon; Jun 24 Chansley / FOX 10 confrontation; [YouTube Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
 * [Flat Earth - Q&A and Debunks](/cosmos/flat_earth/flat-earth-qa-debunks.md) - Social debunk captures; rotating-frame debunk; author EM/frame-of-reference hypothesis.
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) - Curved-light aether model: Maxwell lineage, gravity reinterpretation pressure, and cosmological scale-inference risk.
 * [Big Mysteries Survey - consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) - APS 1,675-physicist poll vs Phys.org gloss; menu design, black holes, QG fracture, audit/ROI, Space Force.
@@ -89,7 +89,7 @@ or *not* believing.
 * [TONA, Not War - Liberty's Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) - Reader essay: TONA abolition-by-disconnect; war tangent; Liberty 1886 rebrand; amendment cascade; *Trump v. Barbara* (June 2026).
 * [Constitution & amendments - nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) - TONA "original 13th"; carceral replacement 13th; 14th birthright; Liberty section 12; cascade section 13; SCOTUS section 14; full scorecard.
 * [2020 election fraud -  selective battleground, AZ logs, midterm audit timing](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Selective theft; AZ routers; Edison CO; **one-node virus**; midterm **all-or-nothing legitimacy**; AFL/2026 audits.
-* [Phoenix protest timeline — McCarthy, Chansley, Flat Earth, QAnon, CO pattern](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) - ASU + Jun 24 Unmask Us + Nov 7 Capitol venues; Flat Earth / Q adjacency; Harris defamation suit; verification timeline.
+* [Phoenix protest timeline — McCarthy, Chansley, Flat Earth, Q-Anon, CO pattern](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) - ASU + Jun 24 Unmask Us + Nov 7 Capitol venues; Flat Earth / Q adjacency; Harris defamation suit; verification timeline.
 * [Slave trades & Moor etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) - Historical slave systems and Moor / Morocco naming threads.
 * [THIS IS AMERICA! percentage ads -  Dem dual platform & bait-switch](/governance/usury/communism/investigations/this-is-america-percentage-ads-democratic-bait-switch-investigation.md) - Soft-majority graphics as coalition glue; DSA vs "we are capitalists"; M4A->ACA corporatism; Pre-K/family thesis; MAGA candor contrast (Jul 2026).
 * [American Revolution](/governance/war/investigations/american-revolution-investigation.md) - Atlantic context; a small piece of a larger puzzle.
@@ -178,7 +178,7 @@ or *not* believing.
 
 #### Influence
 
-* [Controlled opposition hub](/influence/controlled_opposition/page) - CO patterns, QAnon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars x *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
+* [Controlled opposition hub](/influence/controlled_opposition/page) - CO patterns, Q-Anon cluster, CIA Reading Room Mars **remote viewing** dossier; readable [**Mars x *Chrono Trigger* article**](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md).
 * [JFK survival tabloids — WWN CO](/events/jfk/investigations/jfk-survival-tabloid-controlled-opposition-investigation.md) - Blurry “alive” covers as mockery/hardening; colonize death-hoax claim so serious audit inherits the laugh track.
 * [Snowden x WikiLeaks - CIA-aligned CO (open)](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) - CIA pedigree, NSA-targeting leak, Moscow hybrid billboard; WikiLeaks dumps / Russia amplifier / extradition theater; vs NSA-antibody counter-read.
 * [2020 election -  Edison/Dominion CO vs forward audits](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Poisoned hinge; **one-node != network**; all-or-nothing midterm legitimacy; AFL/2026 audits.
@@ -307,7 +307,7 @@ These things we were instructed to believe, but are actually fake.
 * [Atomic bomb flash is half-hoax; DU is real](/science/nukes) - Supersedes older "bombs are fake" label (2026-07-19).
 * [JFK Was Never Assassinated](/events/jfk/jfk-was-never-assassinated)
 * [Astronomy is a Religion, not Science](/cosmos/cosmology/astronomy)
-* [QAnon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
+* [Q-Anon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
 * [False Flags](/events/false_flag)
 
 
@@ -481,7 +481,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [The Arrival Treated Us Like Adults](/influence/hollywood/the-arrival-treated-us-like-adults.md) - Installment IV: *The Arrival* (1996) NSA geoengineering message vs *Signs* (2002) media-reset insult; crop circles / mudflood / Birkeland; links [*Arrival* dossier](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md).
 * [Designed from birth](/influence/suppression/designed-from-birth.md) - Celebrity slavery, gender-swap installment; Golda as Israel control hinge; Grok refusal lede.
 * [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - *Arizona protest poison pills — Part I*; FE trance / dual ignorance / Phoenix FE billboards; Saturnian exit; [confrontation Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
-* [The Q trance](/influence/controlled_opposition/the-q-trance.md) - *Arizona protest poison pills — Part II*; Q clearance / QAnon; Jun 24 Chansley / FOX 10; [same Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
+* [The Q trance](/influence/controlled_opposition/the-q-trance.md) - *Arizona protest poison pills — Part II*; Q clearance / Q-Anon; Jun 24 Chansley / FOX 10; [same Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
 
 ### Hubs and broad entry points
 

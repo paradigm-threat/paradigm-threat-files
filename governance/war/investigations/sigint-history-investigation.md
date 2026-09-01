@@ -1,6 +1,6 @@
 # Investigation: SIGINT — global history, events, and corpus alignment (open)
 
-> **TL;DR:** **Signals intelligence (SIGINT)** — intercepting, processing, and exploiting communications and electronic emissions — is the **invisible war map** behind most modern conflicts. This dossier is the **repo spine** for SIGINT **history and events** (Black Chamber → **ULTRA** → **UKUSA / Five Eyes** → **NSA** → **ECHELON** → **MINARET / Church** → **Tonkin / Hanyok** → **STELLARWIND / PRISM / Snowden**). **Documented:** SIGINT is **legally and operationally distinct** from **HUMINT** (CIA) and from **DOE Q clearance** (Restricted Data — [QAnon §Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q10--real-world-q-clearance--q-influenced-media-timeline)). **Corpus read:** U.S. **NSA** as **SIGINT antibody** vs **CIA–MI6 infection** ([NSA investigation](/governance/war/investigations/nsa-investigation.md)); **Tonkin SIGINT forgery** as template for casus-belli lies ([good-actor § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)); **Snowden** as payload hitting **NSA** not **CIA** ([Snowden CO](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md)); **chan “Q”** as **anti-SIGINT** grammar (tripcodes, no custody — [QAnon §Q1.4](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q14--sigint-landscape-pre-qanon--what-intel-really-looked-like-brief)). **Companion (U.S. antibody + *Tron*):** [NSA investigation](/governance/war/investigations/nsa-investigation.md) — do not duplicate § IV there.
+> **TL;DR:** **Signals intelligence (SIGINT)** — intercepting, processing, and exploiting communications and electronic emissions — is the **invisible war map** behind most modern conflicts. This dossier is the **repo spine** for SIGINT **history and events** (Black Chamber → **ULTRA** → **UKUSA / Five Eyes** → **NSA** → **ECHELON** → **MINARET / Church** → **Tonkin / Hanyok** → **STELLARWIND / PRISM / Snowden**). **Documented:** SIGINT is **legally and operationally distinct** from **HUMINT** (CIA) and from **DOE Q clearance** (Restricted Data — [Q-Anon §Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q10--real-world-q-clearance--q-influenced-media-timeline)). **Corpus read:** U.S. **NSA** as **SIGINT antibody** vs **CIA–MI6 infection** ([NSA investigation](/governance/war/investigations/nsa-investigation.md)); **Tonkin SIGINT forgery** as template for casus-belli lies ([good-actor § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)); **Snowden** as payload hitting **NSA** not **CIA** ([Snowden CO](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md)); **chan “Q”** as **anti-SIGINT** grammar (tripcodes, no custody — [Q-Anon §Q1.4](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q14--sigint-landscape-pre-qanon--what-intel-really-looked-like-brief)). **Companion (U.S. antibody + *Tron*):** [NSA investigation](/governance/war/investigations/nsa-investigation.md) — do not duplicate § IV there.
 
 **Status:** Open — master chronology + repo crosswalk **2026-08-28**  
 **Date:** 2026-08-28
@@ -17,7 +17,7 @@
 | [§4](#4--five-eyes--ukusa) | Five Eyes / UKUSA architecture |
 | [§5](#5--u-s-institutional-arc) | U.S. institutional arc — pointer to [NSA investigation](/governance/war/investigations/nsa-investigation.md) |
 | [§6](#6--corpus-theory-crosswalk) | **Repo theory crosswalk** — alignment, influence, CO reads |
-| [§7](#7--sigint-vs-fake-insider-channels-qanon-etc) | SIGINT vs fake insider channels (QAnon, chan) |
+| [§7](#7--sigint-vs-fake-insider-channels-qanon-etc) | SIGINT vs fake insider channels (Q-Anon, chan) |
 | [§8](#8--open-claims-verification-limits) | Open claims, verification, limits |
 
 **Epistemic tiers:** **Documented** = primary / court / agency-published; **Mainstream synthesis** = Wikipedia / press secondary; **Author thesis** = Paradigm Threat pattern read — not default fact.
@@ -34,10 +34,10 @@
 | **HUMINT** | Human intelligence — agents, defectors, covert access | **Documented** — **CIA lane** in U.S. architecture |
 | **OSINT** | Open sources — press, public data | **Documented** |
 | **IMINT** | Imagery intelligence | **Documented** |
-| **Q clearance** | DOE **Restricted Data** (nuclear weapons design, etc.) — **not SIGINT** | **Documented** — [QAnon §Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#documented-baseline--q-clearance) |
+| **Q clearance** | DOE **Restricted Data** (nuclear weapons design, etc.) — **not SIGINT** | **Documented** — [Q-Anon §Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#documented-baseline--q-clearance) |
 | **Metadata** | Who called whom, when, length — often bulk-collected at scale | **Documented** (post-Snowden public) |
 
-**Corpus distinction (critical):** Real SIGINT flows through **compartmented agencies**, **FISA / oversight fights**, and **historian audits** (Ellsberg documents, **Hanyok** SIGINT study). **Chan “Q”** uses **tripcodes** and **decode cults** — opposite grammar ([QAnon §Q1.4](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q14--sigint-landscape-pre-qanon--what-intel-really-looked-like-brief); [Snowden §4 contrast matrix](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md#4-two-camp-adjudication--cia-co-primary-vs-nsa-antibody)).
+**Corpus distinction (critical):** Real SIGINT flows through **compartmented agencies**, **FISA / oversight fights**, and **historian audits** (Ellsberg documents, **Hanyok** SIGINT study). **Chan “Q”** uses **tripcodes** and **decode cults** — opposite grammar ([Q-Anon §Q1.4](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q14--sigint-landscape-pre-qanon--what-intel-really-looked-like-brief); [Snowden §4 contrast matrix](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md#4-two-camp-adjudication--cia-co-primary-vs-nsa-antibody)).
 
 ---
 
@@ -67,7 +67,7 @@
 | **2013** | **Snowden disclosures** | PRISM, Verizon FISA order, Five Eyes bulk programs | **Documented** — [Snowden investigation §2](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) |
 | **2013–2020** | **USA FREEDOM Act** etc. | Post-Snowden statutory tweaks (metadata bulk phone — shifted) | **Documented** (statute) |
 | **2016–2020** | **Vault 7** (WikiLeaks) | CIA **cyber tools** leak — **HUMINT/tech lane**, not NSA SIGINT core | **Documented** — [Snowden §6](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) |
-| **Oct 2017+** | **QAnon “Q”** | **Fake insider** channel — **not SIGINT** | **Documented** origin — [QAnon §3.1](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q31--when-was-qanon-founded-and-how-did-platforms-migrate) |
+| **Oct 2017+** | **Q-Anon “Q”** | **Fake insider** channel — **not SIGINT** | **Documented** origin — [Q-Anon §3.1](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#q31--when-was-qanon-founded-and-how-did-platforms-migrate) |
 | **2018–2026** | **Havana Syndrome** reporting | **Anomalous health incidents** — diplomatic / personnel; **SIGINT-adjacent** directed-energy debate | **Documented** (incidents); cause **disputed** — [Havana investigation](/science/havana_syndrome/havana-syndrome-investigation.md) |
 | **2026** | **Iran / nuclear fuel war** | **DU / latency** board — SIGINT-adjacent **NSA-aligned** fear read in-repo | **Author thesis** — [Iran runner](/governance/war/investigations/iran-2026-war-runner.md); [nukes half-hoax](/science/nukes/investigations/nukes-dont-exist-investigation.md) |
 
@@ -193,14 +193,14 @@ This SIGINT spine adds **global pre-NSA history**, **UKUSA / ECHELON**, and **re
 | **Hanyok (2001–05)** | **Internal NSA** SIGINT reconstruction | **Pure SIGINT antibody** |
 | **Snowden (2013)** | Leaks **NSA** systems | **Author: CO vs antibody** — [Snowden dossier](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) |
 | **WikiLeaks** | Dump franchise; **Vault 7** = CIA tools | Parallel **transparency brand** — selective spine |
-| **Chan Q (2017+)** | **No** SIGINT chain of custody | [QAnon investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) |
+| **Chan Q (2017+)** | **No** SIGINT chain of custody | [Q-Anon investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) |
 
 ### 6.3 Nuclear / DU board (not SIGINT — adjacent)
 
 | Claim | SIGINT relation | File |
 |-------|-----------------|------|
 | **Half-hoax nukes** | **NSA-aligned** actors feared **DU proxy** more than press/fatwa bomb talk | [nukes dossier](/science/nukes/investigations/nukes-dont-exist-investigation.md) |
-| **Q clearance ≠ SIGINT** | Oct 2017 **mis-brands** DOE compartment as intel feed | [QAnon §Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md); [Part 7 conclusion](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-7--conclusion-author-synthesis) |
+| **Q clearance ≠ SIGINT** | Oct 2017 **mis-brands** DOE compartment as intel feed | [Q-Anon §Q1.0](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md); [Part 7 conclusion](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-7--conclusion-author-synthesis) |
 | **Iran 2026** | Latency / **DU** — briefing-room **imminence** | [CIA fatwa/DU](/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat) |
 
 ### 6.4 Predictive programming — SIGINT in fiction
@@ -234,17 +234,17 @@ CIA **STAR GATE** / RV programs overlap **intel culture** but are **not classic 
 
 ---
 
-## 7 — SIGINT vs fake insider channels (QAnon, etc.)
+## 7 — SIGINT vs fake insider channels (Q-Anon, etc.)
 
-| Property | Real SIGINT product | Chan **Q** / QAnon |
+| Property | Real SIGINT product | Chan **Q** / Q-Anon |
 |----------|---------------------|---------------------|
 | **Source** | Intercept systems, FISA orders, analyst reports | **Tripcode** posts on imageboards |
 | **Custody** | Classification, oversight fights, FOIA | **Broken** — [ICWSM 2023](https://ojs.aaai.org/index.php/ICWSM/article/view/19330) |
 | **Verification** | Hanyok-style **reconstruction**; court/subpoena in rare cases | **Decode cult** — unfalsifiable |
 | **Agency** | **NSA**, GCHQ, Five Eyes | **Disputed** Furber/Watkins — not cleared personnel |
-| **Corpus verdict** | **Documented** institution with **abuse** and **audit** history | **Author: CO** harnessing **Q clearance** prestige without SIGINT rigor — [QAnon Part 7](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-7--conclusion-author-synthesis) |
+| **Corpus verdict** | **Documented** institution with **abuse** and **audit** history | **Author: CO** harnessing **Q clearance** prestige without SIGINT rigor — [Q-Anon Part 7](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#part-7--conclusion-author-synthesis) |
 
-**Author synthesis:** The public ignores **QAnon** because **Q clearance ≠ live intel** — correctly. The dossier stake is **different**: real **Q** (nuclear opacity / deep state) is **large**; chan **Q** is **misdirection** that **pollutes** legitimate **SIGINT-audit** literacy (Tonkin, Church, Snowden debates).
+**Author synthesis:** The public ignores **Q-Anon** because **Q clearance ≠ live intel** — correctly. The dossier stake is **different**: real **Q** (nuclear opacity / deep state) is **large**; chan **Q** is **misdirection** that **pollutes** legitimate **SIGINT-audit** literacy (Tonkin, Church, Snowden debates).
 
 ---
 
@@ -258,7 +258,7 @@ CIA **STAR GATE** / RV programs overlap **intel culture** but are **not classic 
 | S2 | **Tonkin SIGINT skew** is **template** for later casus-belli intercept theater | **Author pattern** |
 | S3 | **Snowden** primary read = **CO** damaging **NSA** while sparing **CIA** spine | **Author thesis** — [Snowden §4](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) |
 | S4 | **Five Eyes** = durable **Anglosphere board** above electoral politics | **Author interpretive** |
-| S5 | **QAnon** is **anti-SIGINT** — mimics insider leak without institutional audit grammar | **Author synthesis** — [QAnon](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) |
+| S5 | **Q-Anon** is **anti-SIGINT** — mimics insider leak without institutional audit grammar | **Author synthesis** — [Q-Anon](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) |
 | S6 | **1980s NSA** discovered **CIA holy-war setup** via SIGINT (speculative) | **Open** — [NSA investigation § IV](/governance/war/investigations/nsa-investigation.md) |
 
 ### 8.2 Verification checklist
@@ -270,7 +270,7 @@ CIA **STAR GATE** / RV programs overlap **intel culture** but are **not classic 
 | V3 | **Hanyok** — curriculum adoption post-2005 by state | Medium |
 | V4 | **Snowden** — primary on **classification decisions** vs **release selectors** | High |
 | V5 | **9/11** — NSA / WTC 7 occupancy primary stack | Medium |
-| V6 | **Chan Q** — FBI / DHS **QAnon** influence ops FOIA | High |
+| V6 | **Chan Q** — FBI / DHS **Q-Anon** influence ops FOIA | High |
 | V7 | **STAR GATE** declass bundle vs **2000–2005** Tonkin fight — interagency calendar | Medium |
 
 ### 8.3 Related investigations (index)
@@ -281,7 +281,7 @@ CIA **STAR GATE** / RV programs overlap **intel culture** but are **not classic 
 | [CIA investigation](/governance/war/investigations/cia-investigation.md) | HUMINT / covert action counterpart |
 | [good-actor investigation](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | Eighty-year antibody arc |
 | [Snowden × WikiLeaks CO](/influence/controlled_opposition/investigations/snowden-wikileaks-cia-aligned-controlled-opposition-investigation.md) | 2013 leak adjudication |
-| [QAnon investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Fake Q vs real clearance / SIGINT |
+| [Q-Anon investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Fake Q vs real clearance / SIGINT |
 | [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) | Post-9/11 SIGINT expansion |
 | [nukes half-hoax](/science/nukes/investigations/nukes-dont-exist-investigation.md) | DU board adjacent to clearance |
 
@@ -291,7 +291,7 @@ CIA **STAR GATE** / RV programs overlap **intel culture** but are **not classic 
 
 - **Master chronology** is **not exhaustive** of every national SIGINT service (France **DGSE**, Russia **FAPSI/SVR**, Israel **Unit 8200**, etc.) — extend in future passes if needed.
 - **Author two-camp reads** (NSA antibody vs CIA infection) are **first-class pattern work**, not proven institutional doctrine.
-- **Snowden**, **Assange**, and **QAnon** sections **summarize** sibling dossiers — follow links for tiers and falsifiers.
+- **Snowden**, **Assange**, and **Q-Anon** sections **summarize** sibling dossiers — follow links for tiers and falsifiers.
 - **Predictive programming** rows are **allegory**, not production proof.
 - **Not** legal advice; **not** incitement.
 

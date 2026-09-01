@@ -23,7 +23,7 @@ The speaker in the audio is **David Lester Straight**, identified via multiple m
 - Self-described "former CIA agent" and "intelligence world" insider — **no independent verification of CIA employment exists**
 - Prominent figure in the **sovereign citizen / "American State National" movement**
 - Ran multi-day seminars (e.g. "Out of Babylon" conferences) teaching attendees about birth certificate fraud, Cestui Que Vie trusts, sovereignty from the federal government
-- Referenced in an **ADL (Anti-Defamation League) report** on sovereign citizen ideology seeping into QAnon — "Sovereign Citizen Ideology Increasingly Seeping into QAnon"
+- Referenced in an **ADL (Anti-Defamation League) report** on sovereign citizen ideology seeping into Q-Anon — "Sovereign Citizen Ideology Increasingly Seeping into QAnon"
 - **Died April 1, 2025, in Arkansas, of aggressive stage 4 cancer** (diagnosed September 2024), per his obituary on Memoria.co and FreedomRadio.us
 
 **Key irony:** Straight promoted probiotics as an easy cancer cure in this very talk, yet died of cancer himself. His followers on the memorial page speculate he was "targeted" or "given cancer" rather than accepting the obvious implication that probiotics do not cure cancer.

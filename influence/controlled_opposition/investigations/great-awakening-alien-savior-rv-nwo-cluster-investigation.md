@@ -2,7 +2,7 @@
 
 ![“Great Awakening” cluster illustration — mind-map style web (SSP, Q, lightworkers, solar flash, etc.); see Limits and disclaimers](great-awakening-alien-savior-rv-nwo-cluster-investigation.png)
 
-> **TL;DR:** Case file treating the online convergence of David Wilcock–style disclosure, “Great Awakening” spirituality, lightworker / starseed / frequency language, Iraqi dinar–style **revaluation** (global currency reset) lore — promoters often type **“RV”** in forums; that is **not** intelligence-community **remote viewing** ([Mars 1984 worksheet](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) — *Ancient Aliens*–style extraterrestrial historiography, and adjacent Q / “white hats” / tribunals memes as a **single recruitment basin** for **managed dissent**—not proven as one operation, but **structurally** similar: it promises redemption through non-human or occulted benefactors and patience, while the same arc names a macro financial “reset” aligned with the **WEF Great Reset camp** (**§3.2**, **§3.3.1**). **§3.3.4** adds *The Animatrix* / *The Second Renaissance* as a **predictive-programming** read (blockade → total war → surface-ecology collapse) beside dinar/GCR sociology, plus an esoteric “gold” basin note with an explicit **chemistry caveat**. **Author hard-power corollary:** U.S.-led destruction of Iraq (1991 / 2003) and Libya (2011) and of gold / settlement forks is read as fear of a parallel financial reset outside that camp (timeline **§3.3.2**). WEF-style public programs advance human long-horizon governance rebrands in parallel. **Pre-Q rhymes:** [Benjamin Fulford](https://benjaminfulford.net/about/)-style weekly “secret war” / mass-arrest forecasting; Drake Bailey × Wilcock ([Divine Cosmos transcript](https://divinecosmos.com/davids-blog/1043-massarrests/)); **§3.7** QAnon (“Trust the plan,” Storm) as the same grammar at scale. **Cable parallel:** *Conspiracy Theory with Jesse Ventura* ([Wikipedia](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)). **Author conclusion (pattern):** the beneficiaries of any real “reset” are terrestrial power networks (deep state / NWO vocabulary in repo idiom), **not** aliens; the alien–savior lane may cover hypotheses the repo treats separately—e.g. a human breakaway presence associated with Mars that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [QAnon CO hub](/influence/controlled_opposition/00).
+> **TL;DR:** Case file treating the online convergence of David Wilcock–style disclosure, “Great Awakening” spirituality, lightworker / starseed / frequency language, Iraqi dinar–style **revaluation** (global currency reset) lore — promoters often type **“RV”** in forums; that is **not** intelligence-community **remote viewing** ([Mars 1984 worksheet](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) — *Ancient Aliens*–style extraterrestrial historiography, and adjacent Q / “white hats” / tribunals memes as a **single recruitment basin** for **managed dissent**—not proven as one operation, but **structurally** similar: it promises redemption through non-human or occulted benefactors and patience, while the same arc names a macro financial “reset” aligned with the **WEF Great Reset camp** (**§3.2**, **§3.3.1**). **§3.3.4** adds *The Animatrix* / *The Second Renaissance* as a **predictive-programming** read (blockade → total war → surface-ecology collapse) beside dinar/GCR sociology, plus an esoteric “gold” basin note with an explicit **chemistry caveat**. **Author hard-power corollary:** U.S.-led destruction of Iraq (1991 / 2003) and Libya (2011) and of gold / settlement forks is read as fear of a parallel financial reset outside that camp (timeline **§3.3.2**). WEF-style public programs advance human long-horizon governance rebrands in parallel. **Pre-Q rhymes:** [Benjamin Fulford](https://benjaminfulford.net/about/)-style weekly “secret war” / mass-arrest forecasting; Drake Bailey × Wilcock ([Divine Cosmos transcript](https://divinecosmos.com/davids-blog/1043-massarrests/)); **§3.7** Q-Anon (“Trust the plan,” Storm) as the same grammar at scale. **Cable parallel:** *Conspiracy Theory with Jesse Ventura* ([Wikipedia](https://en.wikipedia.org/wiki/Conspiracy_Theory_%28TV_series%29)). **Author conclusion (pattern):** the beneficiaries of any real “reset” are terrestrial power networks (deep state / NWO vocabulary in repo idiom), **not** aliens; the alien–savior lane may cover hypotheses the repo treats separately—e.g. a human breakaway presence associated with Mars that is **neither ancient nor benevolent** ([Mars / deep state hub](/cosmos/mars/page.md)). Cross-read: [Etana / “Ancient Aliens” trap](/history/chronology/investigations/etana-sumerian-king-list-saturnian-investigation.md), [Urantia CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md), [Artemis II debunk-vs-conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md), [Occupy OWS CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [Q-Anon CO hub](/influence/controlled_opposition/00).
 
 **Date:** 2026-04-23  
 **Status:** Open — pattern synthesis and author stakes are first-class; **no** single agency running the whole cluster is claimed as fact here.
@@ -15,7 +15,7 @@
 
 1. **§1** — What this file is / is not (scope, evidence tiers).  
 2. **§2** — The cluster (entities, pipes, how nodes fuse).  
-3. **§3** — Case studies: *Ancient Aliens*, WEF “Great Reset,” revaluation / dinar (**§3.3.1–3.3.3** Iraq/Libya / financial reset read + timeline + gold conclusion; **§3.3.4** *Animatrix* / Second Renaissance PP read + esoteric “gold” basin note), Wilcock, **§3.5** Fulford / Drake / Ventura, **§3.6** missing/dead scientists (**§3.6.6**), **§3.7** QAnon.  
+3. **§3** — Case studies: *Ancient Aliens*, WEF “Great Reset,” revaluation / dinar (**§3.3.1–3.3.3** Iraq/Libya / financial reset read + timeline + gold conclusion; **§3.3.4** *Animatrix* / Second Renaissance PP read + esoteric “gold” basin note), Wilcock, **§3.5** Fulford / Drake / Ventura, **§3.6** missing/dead scientists (**§3.6.6**), **§3.7** Q-Anon.  
 4. **§4** — Mechanics (psychographics, rewarded behaviors, guru / insider avatar).  
 5. **§5** — Cover vs truth — Mars breakaway rhymes (repo cross-links).  
 6. **§6** — Two “resets” — spiritual waiting room vs Davos branding.  
@@ -268,16 +268,16 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 **Desk note:** That is **not** the same as proving every case on every list benign or that no espionage ever targets labs—only that the viral “scientists are vanishing because of the secret” package behaves like the rest of this file: it routes curiosity into cosmic permission slips and waiting rooms (see **§4**, **§5**).
 
-### 3.7 QAnon — timeline, claims, debunks, and fit to this file
+### 3.7 Q-Anon — timeline, claims, debunks, and fit to this file
 
-**Repo hub:** [QAnon is Controlled Opposition](/influence/controlled_opposition/00) (stub / working notes in repo). This subsection adds neutral timeline anchors and mainstream synthesis so **§2**’s “Q-adjacent” row has citations here.
+**Repo hub:** [Q-Anon is Controlled Opposition](/influence/controlled_opposition/00) (stub / working notes in repo). This subsection adds neutral timeline anchors and mainstream synthesis so **§2**’s “Q-adjacent” row has citations here.
 
 #### 3.7.1 Timeline (compressed; mainstream consensus)
 
 | Phase | What happened (documented) |
 |-------|------------------------------|
-| **2016** | Pizzagate precursor (DNC emails → Comet Ping Pong violence)—feeds Q’s later child-trafficking frame ([Wikipedia — QAnon § Pizzagate](https://en.wikipedia.org/wiki/QAnon)). |
-| **Oct 2017** | “Q Clearance Patriot” posts on 4chan /pol in “Calm Before the Storm” thread; moves to 8chan / 8kun ([Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon)). |
+| **2016** | Pizzagate precursor (DNC emails → Comet Ping Pong violence)—feeds Q’s later child-trafficking frame ([Wikipedia — Q-Anon § Pizzagate](https://en.wikipedia.org/wiki/QAnon)). |
+| **Oct 2017** | “Q Clearance Patriot” posts on 4chan /pol in “Calm Before the Storm” thread; moves to 8chan / 8kun ([Wikipedia — Q-Anon](https://en.wikipedia.org/wiki/QAnon)). |
 | **2017–2020** | “Drops” aggregated; influencers (Patriots’ Soapbox, QMap, etc.); Trump rally Q shirts; platform moderation waves (same source). |
 | **Jan 6 2021** | Capitol attack cluster includes Q-adherents; post-attack deplatforming intensifies (same source). |
 | **Post-2020** | Some themes persist in politics under new brands; original Q posting cadence / centrality declines per scholarly / press summaries in Wikipedia and ADL (below). |
@@ -287,16 +287,16 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 - Hidden cabal (Satanic / cannibalistic / pedophilic elite + “deep state”) vs Donald Trump as secret savior figure.  
 - “The Storm” / mass arrests / military tribunals imminent.  
 - Cryptic “Q drops” requiring community decoding (“Trust the plan,” “Nothing can stop what is coming”).  
-- Antisemitic tropes often adjacent (Soros, Rothschild fixation) per [Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon).
+- Antisemitic tropes often adjacent (Soros, Rothschild fixation) per [Wikipedia — Q-Anon](https://en.wikipedia.org/wiki/QAnon).
 
 #### 3.7.3 Counter-claims, debunks, and institutional responses
 
-- Failed predictions and moving goalposts (Clinton arrest, dated DoD “events,” etc.)—see [Wikipedia — QAnon](https://en.wikipedia.org/wiki/QAnon) (“Q’s posts” / “failed predictions” sections).  
+- Failed predictions and moving goalposts (Clinton arrest, dated DoD “events,” etc.)—see [Wikipedia — Q-Anon](https://en.wikipedia.org/wiki/QAnon) (“Q’s posts” / “failed predictions” sections).  
 - Identity of Q disputed; 8chan / 8kun ownership and moderation controversies (same article).  
-- **ADL** backgrounder on movement harms and antisemitism: [ADL — QAnon](https://www.adl.org/resources/backgrounder/qanon).  
-- FBI / DHS warnings on domestic violent extremism often name Q-adjacent radicalization vectors (search FBI press releases “QAnon” for primary statements as they age).
+- **ADL** backgrounder on movement harms and antisemitism: [ADL — Q-Anon](https://www.adl.org/resources/backgrounder/qanon).  
+- FBI / DHS warnings on domestic violent extremism often name Q-adjacent radicalization vectors (search FBI press releases “Q-Anon” for primary statements as they age).
 
-#### 3.7.4 How QAnon fits this investigation’s pattern
+#### 3.7.4 How Q-Anon fits this investigation’s pattern
 
 - **Same grammar** as **§3.5** (Fulford / Drake) and **§3.3** (revaluation): imminent justice, insider chain, cabal blocks the plan this week, stay ready not organized.  
 - **Difference in scale:** Q merged chan culture, evangelical apocalyptic tones, and U.S. electoral politics into one mass movement—bigger blast radius than newsletter subcultures alone.  
@@ -420,7 +420,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 | [Urantia — CO + PP](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md) | Long precedent for spiritual download narrative capture |
 | [Artemis II — debunk vs conspiracy trough](/history/chronology/investigations/artemis-ii-mission-as-faith-test-investigation.md) | Algorithmic clustering of outcomes |
 | [Occupy — CO thesis](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) | Spectacle and managed dissent mechanics |
-| [QAnon — CO hub](/influence/controlled_opposition/00) | Repo stub / working notes on Q as CO-shaped outcome (cross-read **§3.7**) |
+| [Q-Anon — CO hub](/influence/controlled_opposition/00) | Repo stub / working notes on Q as CO-shaped outcome (cross-read **§3.7**) |
 | [AE911Truth / Gage](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) | Different topic—shared “movement containment” language |
 | [MudFlood notes — CO agents](/history/mudflood/notes/page.md) | Flat Earth / 5D / Ancient Aliens named in repo warnings |
 | [Lacatski / AAWSAP — insider mechanics & politics](/influence/controlled_opposition/investigations/lacatski-consciousness-craft-viral-post-investigation.md) | **§3.7** on-record turf/funding/ideology/Kona Blue; **§6.1–§6.3** same **conditional-tech / withdraw** grammar as this basin but **re-rooted** to **bureaucracy + suppressed engineering** fork; viral meme appendix |
@@ -465,11 +465,11 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 - The Last American Vagabond — Drake Bailey retrospective: https://www.thelastamericanvagabond.com/drake-bailey-a-coup-of-the-us-empire/  
 - Steemit — Drake / Wilcock / Q “plan” genealogy (tertiary): https://steemit.com/qanon/@sadcorp/david-wilcock-drake-bailey-and-qanon-the-plan-4bcc83d3ea243
 
-### Benjamin Fulford + QAnon (primary / mainstream synthesis)
+### Benjamin Fulford + Q-Anon (primary / mainstream synthesis)
 
 - Benjamin Fulford — self-described career / beat (About): https://benjaminfulford.net/about/  
-- Wikipedia — QAnon (timeline, claims, failed predictions): https://en.wikipedia.org/wiki/QAnon  
-- ADL — QAnon backgrounder: https://www.adl.org/resources/backgrounder/qanon
+- Wikipedia — Q-Anon (timeline, claims, failed predictions): https://en.wikipedia.org/wiki/QAnon  
+- ADL — Q-Anon backgrounder: https://www.adl.org/resources/backgrounder/qanon
 
 ### Mainstream celebrity parallel — Ventura show
 
@@ -503,7 +503,7 @@ This subsection addresses a recurring add-on claim in the April 2026 cycle: that
 
 ---
 
-Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #Revaluation #Dinar #GCR #NESARA #AncientAliens #WEF #GreatReset #NewWorldOrder #Disclosure #Conspirituality #Mars #DeepState #DrakeBailey #BenjaminFulford #Qanon #JesseVentura #IraqiDinar #MissingScientists #April2026 #Petrodollar #Dedollarization #OilForFood #Libya #Animatrix #PredictiveProgramming #SecondRenaissance
+Keywords: #ControlledOpposition #GreatAwakening #DavidWilcock #Lightworkers #Revaluation #Dinar #GCR #NESARA #AncientAliens #WEF #GreatReset #NewWorldOrder #Disclosure #Conspirituality #Mars #DeepState #DrakeBailey #BenjaminFulford #QAnon #JesseVentura #IraqiDinar #MissingScientists #April2026 #Petrodollar #Dedollarization #OilForFood #Libya #Animatrix #PredictiveProgramming #SecondRenaissance
 
 **Substack:** [paradigmthreat2.substack.com/p/investigation-great-awakening-alien](https://paradigmthreat2.substack.com/p/investigation-great-awakening-alien)
 

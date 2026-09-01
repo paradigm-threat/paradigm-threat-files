@@ -41,7 +41,7 @@ But I remember the JFK assassination and Manson murders very well and I can assu
 
 Accepting the presence of Controlled Opposition does not mean we should stop asking questions.  We can always be fooled but it becomes easier to spot trickery as we read and understand more about it.  Some of these people genuinely believe what they tell us and don't realize they are being used.  And many of them might not exist at all and are totally made up.  .
 
-A good rule of thumb that I try to remember is:  If it seems too good to be true, it always is.  Invariably and without fail.  This includes everything from Space Brothers coming in ships to take us off of Earth to QAnon telling us to believe in the Plan.
+A good rule of thumb that I try to remember is:  If it seems too good to be true, it always is.  Invariably and without fail.  This includes everything from Space Brothers coming in ships to take us off of Earth to Q-Anon telling us to believe in the Plan.
 
 And anything in the mainstream media that tugs at our emotions of joy, hope, sorrow or fear is being used to manipulate us into believing some lie and should be considered calmly and objectively.  Which is never easy to do.  It becomes discouraging to realize that just when we think we have an answer, it turns into another question.
 

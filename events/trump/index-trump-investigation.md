@@ -19,14 +19,14 @@ Ongoing. This investigation documents Donald Trump's ancestry (including the sup
 |--------|------|---------|
 | [Did You Know: General George Patton, Donald Trump's Biological Father](https://www.didyouknow.news/general-george-patton-donald-trump-biological-father) | Proponent | Presents Patton as Trump's biological father. Patton–Jean Gordon affair; Gordon with Patton in London 1944, Bavaria 1945; Patton death Dec 21, 1945; Gordon suicide Jan 8, 1946. |
 | [Did You Know: Jean Gordon, Donald Trump's Biological Mother](https://www.didyouknow.news/jean-gordon-donald-trump-mother) | Proponent | Jean Gordon as Trump's biological mother; Trump's "real" birthdate Dec 7, 1945; adopted by Fred and Mary Trump on Flag Day June 14, 1946 (189 days later). |
-| QAnon (per MSNBC Nov 2021) | Proponent | Conspiracy theorists hold Patton as Trump's biological father; part of broader "family tree" (Lincoln, Mussolini, Patton, JFK, etc.). |
+| Q-Anon (per MSNBC Nov 2021) | Proponent | Conspiracy theorists hold Patton as Trump's biological father; part of broader "family tree" (Lincoln, Mussolini, Patton, JFK, etc.). |
 
 ### Citations (Debunker / Fact-Check Sources)
 
 | Source | Type | Content |
 |--------|------|---------|
 | [Quora: How true is it that Donald Trump believes Patton is his actual paternal father?](https://www.quora.com/How-true-is-it-that-Donald-Trump-himself-believes-that-Gen-George-Patton-is-his-actual-paternal-father) | Debunker | Answers conclude no evidence Trump believes it; timeline impossible. |
-| [USA Today fact-check](https://www.usatoday.com/story/news/factcheck/2024/03/06/trump-patton-son-fact-check/72854894007/) (Mar 6, 2024) | Fact-check | Video of MSNBC reporting claim is **altered**. Original: Velshi describing QAnon theories. Rating: Altered. |
+| [USA Today fact-check](https://www.usatoday.com/story/news/factcheck/2024/03/06/trump-patton-son-fact-check/72854894007/) (Mar 6, 2024) | Fact-check | Video of MSNBC reporting claim is **altered**. Original: Velshi describing Q-Anon theories. Rating: Altered. |
 | [Check Your Fact](https://checkyourfact.com/2024/03/08/fact-check-video-trump-patton-msnbc/) (Mar 8, 2024) | Fact-check | Same; Instagram clip. Rating: Misleading. |
 | [MSNBC, Nov 7, 2021](https://www.youtube.com/watch?v=obCgE_6g21s) | Primary | Velshi: "Even 'Q' Is Disavowing Some of QAnon's Fringe Conspiracy Theories" — describes belief as "winding road of delusion." |
 | [USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2016/03/09/george-pattons-grandson-endorses-rubio-calls-trump-no-patton/81552746/) (Mar 9, 2016) | Primary | Patton's grandson endorses Rubio; calls Trump "no Patton." |
@@ -69,11 +69,11 @@ Trump has stated, on multiple occasions, that his father was born in Germany. He
 
 **Media debunk wave (2019):** Washington Post, PolitiFact, CNN, USA Today, Bloomberg/AP, Guardian, Newsweek — all ran fact-checks. Headlines: "Trump wrongly claims his dad was born in Germany"; "Despite what Donald Trump keeps saying, his father was born in New York, not Germany"; "Fact Check: Trump's dad was not born in Germany."
 
-**Sponsored thesis:** Trump keeps surfacing his German roots while "getting the detail wrong" (father vs grandfather). The media's correction buries the larger truth: the Trump family has deep German heritage that was deliberately suppressed (Sweden lie in *Art of the Deal*; Fred hid it post-WW2). Each debunk reinforces "Trump is wrong" and moves the focus away from *why* the German connection matters — and what else about Trump's family history might be significant. See QAnon framing below.
+**Sponsored thesis:** Trump keeps surfacing his German roots while "getting the detail wrong" (father vs grandfather). The media's correction buries the larger truth: the Trump family has deep German heritage that was deliberately suppressed (Sweden lie in *Art of the Deal*; Fred hid it post-WW2). Each debunk reinforces "Trump is wrong" and moves the focus away from *why* the German connection matters — and what else about Trump's family history might be significant. See Q-Anon framing below.
 
-### QAnon as Controlled Opposition: Truth Mixed with Fiction
+### Q-Anon as Controlled Opposition: Truth Mixed with Fiction
 
-From this timeline's perspective, QAnon functions as [controlled opposition](/timeline?view=browser&path=content/15.ce-21st-the-final-struggle/15.03.00-controlled-opposition-gatekeeping.md): it releases truth mixed with fiction. The truth tends to be the real truth, giving the media a chance to "debunk the latest QAnon claim" — and in debunking the package, they bury or discredit the true parts. The Patton-paternity claim (QAnon) and Trump's "father born in Germany" claims (Trump himself) both point to Trump's German and WW2-era family connections. The media's aggressive debunking of both may be covering up some of the most significant truths about Trump: his family's German lineage, its suppression, and its possible wartime significance. We document the debunk wave; we do not assume the debunkers have the full story.
+From this timeline's perspective, Q-Anon functions as [controlled opposition](/timeline?view=browser&path=content/15.ce-21st-the-final-struggle/15.03.00-controlled-opposition-gatekeeping.md): it releases truth mixed with fiction. The truth tends to be the real truth, giving the media a chance to "debunk the latest Q-Anon claim" — and in debunking the package, they bury or discredit the true parts. The Patton-paternity claim (Q-Anon) and Trump's "father born in Germany" claims (Trump himself) both point to Trump's German and WW2-era family connections. The media's aggressive debunking of both may be covering up some of the most significant truths about Trump: his family's German lineage, its suppression, and its possible wartime significance. We document the debunk wave; we do not assume the debunkers have the full story.
 
 ### Father-Born-in-Germany Debunk Citations
 
@@ -123,7 +123,7 @@ The Trump family emerged from WW2 with a distinct profile: Fred Trump built hous
 - NYT, 22 Dec 1945: "Gen. Patton Dies Quietly in Sleep"
 - National WWII Museum: Patton death chronology (Dec 9 accident, Dec 21 death, Heidelberg)
 - Kallstadt: Guardian, NPR, CNN coverage of Trump ancestral village
-- Patton-paternity: full citation inventory above (Did You Know, QAnon/MSNBC, USA Today, Check Your Fact, Quora, HNN, POLITICO, Patton grandson)
+- Patton-paternity: full citation inventory above (Did You Know, Q-Anon/MSNBC, USA Today, Check Your Fact, Quora, HNN, POLITICO, Patton grandson)
 - Father-born-in-Germany debunk wave: WaPo, PolitiFact, CNN, USA Today, Bloomberg/AP, Guardian, Newsweek (Apr 2019; Mar 2026)
 
 ---
