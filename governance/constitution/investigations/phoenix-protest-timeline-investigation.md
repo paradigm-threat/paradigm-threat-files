@@ -404,7 +404,7 @@ Besides a few items the author **knows they trashed** (mostly mistaken phone vid
 
 ##### Audience drain — and the corrected “watching the argument” claim (author correction, 2026-08-31)
 
-**Superseded wording — flagged, not silently dropped.** Earlier passes in this file and in the [Part II article](/influence/controlled_opposition/qanon-shaman-scottsdale.md) said that when the author **walked back up** at **~01:21**, Chansley **“had been standing on the lawn watching”** the author's argument with the Q supporters. **The author states that is wrong.** Chansley was **not** watching the argument — he stayed **facing the few cameras that were left**. Corrected at [§3 witness beat 2](#author-witness-sequence-scottsdale--june-24-2020), [§3D2 beat 5](#3d2-pro-q-supporter-harassment--vid_20200624_110943), the **01:17–01:21 scene cue**, and in the article.
+**Superseded wording — flagged, not silently dropped.** Earlier passes in this file and in the [Part II article](/influence/controlled_opposition/the-q-trance.md) said that when the author **walked back up** at **~01:21**, Chansley **“had been standing on the lawn watching”** the author's argument with the Q supporters. **The author states that is wrong.** Chansley was **not** watching the argument — he stayed **facing the few cameras that were left**. Corrected at [§3 witness beat 2](#author-witness-sequence-scottsdale--june-24-2020), [§3D2 beat 5](#3d2-pro-q-supporter-harassment--vid_20200624_110943), the **01:17–01:21 scene cue**, and in the article.
 
 **Frame-supported (checkable in [Gallery D](#gallery-d--110943-background-detail-second-cameraman-leaves-police-in-frame) / [Gallery E](#gallery-e--r5-the-supporter-beside-the-man-who-denied-having-supporters)) — direct inspection 2026-08-31:**
 
@@ -681,7 +681,7 @@ Full cite stack: [Flat Earth investigation — §VI](/cosmos/flat_earth/flat-ear
 |---|---|---|
 | **Flat Earth billboard** + smaller **Bible / Firmament** signs | Easy-debunk **alternative science** beside real grievance; faith-hook captions that **mesmerized** some older protesters even when they thought FE was crazy | [Flat Earth trance — Part I](/cosmos/flat_earth/the-flat-earth-trance.md) · [co.md](/cosmos/flat_earth/co.md) |
 | **Tax-exempt church channel (possible)** | If protest FE ops run through deductible-donation / church opacity, the public subsidizes the taint | [§3F](#3f-tax-exempt-church-vehicle--arizona-funding-gap) · [FE investigation §VI](/cosmos/flat_earth/flat-earth-investigation.md#vi-tax-exempt-church-vehicle--funding-opacity) |
-| **Jacob Chansley / QAnon** | Caricature **adjacent ruin** — cameras prefer horns over affidavits | [QAnon shaman — Part II](/influence/controlled_opposition/qanon-shaman-scottsdale.md) · [QAnon CO](/influence/controlled_opposition/00) |
+| **Jacob Chansley / QAnon** | Caricature **adjacent ruin** — cameras prefer horns over affidavits | [The Q trance — Part II](/influence/controlled_opposition/the-q-trance.md) · [QAnon CO](/influence/controlled_opposition/00) |
 | **McCarthy (author read)** | Headliner who **does not clear the frame** | [§5](#5-mccarthy-controlled-opposition-read) |
 
 **Sorting rule:** [Mudflood gatekeepers — poison pill present → CO behavior](/influence/controlled_opposition/mudflood-gatekeepers.md). McCarthy is scored here on **stage hygiene**, not on whether **2020 Arizona fraud** claims were true ([2020 election fraud dossier](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md)).
@@ -910,7 +910,7 @@ Keywords: #StopTheSteal #DanielMcCarthy #Phoenix #Arizona #ElectionFraud #JacobC
 
 ## Investigator notes
 
-- Companion reader essays: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) (*Arizona protest poison pills — Part I*) · [`influence/controlled_opposition/qanon-shaman-scottsdale.md`](/influence/controlled_opposition/qanon-shaman-scottsdale.md) (*Part II* — Chansley / FOX 10).  
+- Companion reader essays: [`cosmos/flat_earth/the-flat-earth-trance.md`](/cosmos/flat_earth/the-flat-earth-trance.md) (*Arizona protest poison pills — Part I*) · [`influence/controlled_opposition/the-q-trance.md`](/influence/controlled_opposition/the-q-trance.md) (*Arizona protest poison pills — Part II* — Chansley / FOX 10).  
 - AZ Supreme Court opinion text: CV-21-0242-PR (Montgomery, J., filed 2023-04-14).  
 - HD Takeout search (**2026-08-22**): **`VID_20200624_*`** ×3 in Takeout **`Trash/`**; stills ×4 in **`Photos from 2020/`**; **`trashed: true`** in JSON. Trash pattern: selective video delete, 56-item Trash inventory, no trash timestamp in sidecars; **post-fire Google gap** added as plausible account gap (**fire date TBD**). Commit **`a7847b0c`** pushed gitlab/iad1.  
 - Video frame review (**2026-08-28**): **`VID_20200624_110648.mp4`** — **one FOX 10 camera** on Chansley; other crews on **local interviews**; **SRT dialogue** archived and annotated [§3D](#3d-chansley-confrontation-dialogue--vid_20200624_110648).

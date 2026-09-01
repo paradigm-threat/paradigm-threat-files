@@ -60,8 +60,8 @@ or *not* believing.
 * [Hollow Earth](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md) - Sources, maps, books, and Atlantis framing.
 * [Tham Luang Cave Rescue (2018)](/cosmos/cosmology/hollow_earth/tham-luang-cave-rescue-2018-investigation.md) - Cover-up threads and alternate rescue narratives.
 * [Flat Earth](/cosmos/flat_earth/flat-earth-investigation.md) - History, myth, and misinterpretation of the flat-Earth idea.
-* [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - *Arizona protest poison pills — Part I*; FE debunk trance, dual ignorance, Phoenix FE billboards; Saturnian exit; links [Part II](/influence/controlled_opposition/qanon-shaman-scottsdale.md).
-* [The QAnon shaman at Scottsdale](/influence/controlled_opposition/qanon-shaman-scottsdale.md) - *Part II*; Q clearance / QAnon; Jun 24 Chansley / FOX 10 confrontation; [YouTube Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
+* [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - *Arizona protest poison pills — Part I*; FE debunk trance, dual ignorance, Phoenix FE billboards; Saturnian exit; links [Part II — The Q trance](/influence/controlled_opposition/the-q-trance.md).
+* [The Q trance](/influence/controlled_opposition/the-q-trance.md) - *Arizona protest poison pills — Part II*; Q clearance / QAnon; Jun 24 Chansley / FOX 10 confrontation; [YouTube Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
 * [Flat Earth - Q&A and Debunks](/cosmos/flat_earth/flat-earth-qa-debunks.md) - Social debunk captures; rotating-frame debunk; author EM/frame-of-reference hypothesis.
 * [The Incorrectly Scaled Universe](/cosmos/cosmology/investigations/incorrectly-scaled-universe-curved-light-aether-investigation.md) - Curved-light aether model: Maxwell lineage, gravity reinterpretation pressure, and cosmological scale-inference risk.
 * [Big Mysteries Survey - consensus theater](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) - APS 1,675-physicist poll vs Phys.org gloss; menu design, black holes, QG fracture, audit/ROI, Space Force.
@@ -481,7 +481,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [The Arrival Treated Us Like Adults](/influence/hollywood/the-arrival-treated-us-like-adults.md) - Installment IV: *The Arrival* (1996) NSA geoengineering message vs *Signs* (2002) media-reset insult; crop circles / mudflood / Birkeland; links [*Arrival* dossier](/influence/hollywood/investigations/the-arrival-1996-geoengineering-agw-cover-investigation.md).
 * [Designed from birth](/influence/suppression/designed-from-birth.md) - Celebrity slavery, gender-swap installment; Golda as Israel control hinge; Grok refusal lede.
 * [The Flat Earth trance](/cosmos/flat_earth/the-flat-earth-trance.md) - *Arizona protest poison pills — Part I*; FE trance / dual ignorance / Phoenix FE billboards; Saturnian exit; [confrontation Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
-* [The QAnon shaman at Scottsdale](/influence/controlled_opposition/qanon-shaman-scottsdale.md) - *Part II*; Q clearance / QAnon; Jun 24 Chansley / FOX 10; [same Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
+* [The Q trance](/influence/controlled_opposition/the-q-trance.md) - *Arizona protest poison pills — Part II*; Q clearance / QAnon; Jun 24 Chansley / FOX 10; [same Short](https://www.youtube.com/shorts/QlU5Xq3mmfU).
 
 ### Hubs and broad entry points
 

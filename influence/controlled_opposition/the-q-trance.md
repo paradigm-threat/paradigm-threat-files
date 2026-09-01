@@ -1,16 +1,14 @@
-# The QAnon shaman at Scottsdale
+# The Q trance
 
-My confrontation with Jacob Chansley - the 'QAnon Shaman'
+Why serious people cannot look away from a clearance brand built to waste their time
+
+*Arizona protest poison pills — Part II*
 
 ![Scottsdale Unmask Us — Jacob Chansley beside DEMAND DANIEL McCARTHY sign; QAnon shirt; McCarthy campaign trailer; professional cameras on tripods](https://paradigmthreat.net/governance/constitution/investigations/assets/phoenix-protest-timeline/2020-06-24-scottsdale-unmask-us-chansley-mccarthy-sign.png)
 
 **Watch:** [My confrontation with Jacob Chansley — June 24, 2020 Scottsdale](https://www.youtube.com/shorts/QlU5Xq3mmfU) (YouTube Short). The roll shows Chansley staged beside McCarthy signs, mask protesters, and Flat Earth — and FOX 10 turning the camera away before he finished.
 
 > **TL;DR:** QAnon welds real Q clearance authority to chan-culture drip so political distrust dies as cartoon loyalty. On June 24, 2020 at Scottsdale’s “Unmask Us” rally I did not just interrupt a FOX 10 shot of Jacob Chansley — I foiled an attempt to weld QAnon onto Daniel McCarthy’s mask protest. Same plaza, same morning as the Flat Earth billboard in Part I. Presence taints. Horns bury the exit.
-
-## Series — Part II
-
-[Part I — The Flat Earth trance](https://paradigmthreat.net/cosmos/flat_earth/the-flat-earth-trance.md) covers the debunk war, funded Flat Earth billboards at Arizona rallies, and the Saturnian exit. This page is the **QAnon** half of the same **two-part** protest witness: clearance brand as poison pill, then my confrontation with Chansley in front of the FOX 10 camera at Scottsdale.
 
 ## Q clearance — what the letter actually guards
 
@@ -132,7 +130,7 @@ Q clearance Power framing is interpretive and cross-linked to the nukes / QAnon 
 
 Keywords: #QAnon #QClearance #JacobChansley #QAnonShaman #ControlledOpposition #PoisonPill #Arizona #Phoenix #Scottsdale #DanielMcCarthy #FOX10 #ElectionFraud #StopTheSteal #ArizonaProtestPoisonPills #ParadigmThreatFiles
 
-**Last updated:** 2026-08-31T10:58:00-04:00
+**Last updated:** 2026-09-01
 
 
 ---

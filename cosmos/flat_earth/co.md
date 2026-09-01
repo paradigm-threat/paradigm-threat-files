@@ -39,7 +39,7 @@ only ever represented by the irritating dogmatic personalities of Flat Earth 'be
 
 ---
 
-**See also:** [Flat Earth investigation](/cosmos/flat_earth/flat-earth-investigation) — historical (did the Church ever teach flat earth?), collinear/Golden Age interpretation, and refraction limits on knowing the shape of the planet or distances in space. [**The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) — reader essay (*Arizona protest poison pills — Part I*): CO trance, Phoenix FE billboards, Saturnian exit; [Part II — QAnon shaman](/influence/controlled_opposition/qanon-shaman-scottsdale.md).
+**See also:** [Flat Earth investigation](/cosmos/flat_earth/flat-earth-investigation) — historical (did the Church ever teach flat earth?), collinear/Golden Age interpretation, and refraction limits on knowing the shape of the planet or distances in space. [**The Flat Earth trance**](/cosmos/flat_earth/the-flat-earth-trance.md) — reader essay (*Arizona protest poison pills — Part I*): CO trance, Phoenix FE billboards, Saturnian exit; [Part II — The Q trance](/influence/controlled_opposition/the-q-trance.md).
 
 ---
 
