@@ -49,6 +49,9 @@ public/
 
 .idea
 
+# Relay local staging — WIP binaries before copy to public paths (see docs/MEDIA_AND_IPFS.md)
+.relay/local-assets/
+
 # python
 __pycache__/
 *.pyc
