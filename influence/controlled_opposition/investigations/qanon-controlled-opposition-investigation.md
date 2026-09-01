@@ -337,6 +337,43 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 
 **Author eyewitness + frame grabs:** **FOX 10 single-camera** Chansley TV beat (**“Q sent me”**); author intervention on **`VID_20200624_110648.mp4`**; Q-Anon / Flat Earth adjacency — **do not duplicate** — [Phoenix §3](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3-primary-witness--mccarthy--chansley--tv-cameras-june-24-2020-unmask-us), [§3C](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3c-jun-24-photo-evidence--frame-grabs).
 
+### Q5.2b — Arizona post-Scottsdale circuit + Dec 3 dry run (documented + author read)
+
+**Do not duplicate** full beat table — [Phoenix §3G](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3g-chansley--arizona-post-scottsdale-circuit-dec-3-dry-run-jan-6-aftermath).
+
+| Beat | Fact | Tier |
+|------|------|------|
+| **Nov 5–7, 2020 MCTEC** | Chansley fixture / speaker; horned **Q** press imagery | **Documented** ([Cronkite News](https://cronkitenews.azpbs.org/2020/11/06/hundreds-gather-outside-maricopa-election-center-for-third-day-of-protests/)) |
+| **Dec 3, 2020 Arizona House lobby** | Rush-in on pizza delivery; **occupation** label; **Chansley speaker**; DPS clear; **2 trespass arrests** | **Documented** ([azcentral Feb 2, 2021](https://www.azcentral.com/story/news/local/arizona-investigations/2021/02/02/jake-angeli-other-trump-fans-rushed-arizona-capitol-month-before-jan-6/4349283001/)) |
+| **Dec 3 as Jan 6 dress rehearsal** | Same actor + costume + Capitol-building target **33 days** earlier | **Documented** parallel (press dates) + **Author CO read** (A14) — **not** handler proof |
+| **McCarthy shared Nov–Dec circuit** | Capitol, MCTEC, Executive Tower — poison pills not expelled | **Author memory** + partial press — [Phoenix §5](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#5-mccarthy-controlled-opposition-read) |
+
+### Q5.2c — Pretrial custody / organic food (documented)
+
+| Beat | Fact | Tier |
+|------|------|------|
+| **Feb 2, 2021** | Judge **Lamberth** orders **USDA organic** meals (religious accommodation) | **Documented** ([order](https://storage.courtlistener.com/recap/gov.uscourts.dcd.225845/gov.uscourts.dcd.225845.8.0_4.pdf)) |
+| **Hunger stretch** | Defense: **>9 days** no standard food; **~20 lb** loss | **Documented** ([AP](https://apnews.com/article/capitol-riot-man-gets-organic-food-jail-198eccc02b8173f4e5071ca342250518)) |
+| **Transfer** | D.C. DOC → **Alexandria, VA** when D.C. could not comply | **Documented** ([CBS](https://www.cbsnews.com/news/qanon-shaman-jake-angeli-jail-transfer-organic-meals/)) |
+| **“Handled gently” / asset read** | Iconic face + accommodation + early release vs median Jan 6 defendant | **Author interpretive** (A15) — counter: RFRA-style process; **2025** category pardon |
+
+### Q5.2d — Jan 6 custody contrast (Chansley vs cohort)
+
+**Full beat tables:** [Phoenix §3G — Jan 6 custody contrast](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#jan-6-custody-contrast--chansley-vs-other-defendants) · **Author thesis (A16):** [deception / jail control](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#author-originating-thesis--jan-6-deception-and-custody-a16).
+
+| Layer | Fact | Tier |
+|-------|------|------|
+| **Harsh cohort backdrop** | Greene *Unusually Cruel* (23-and-1 / ~200-day solitary claims); USMS CDF failure; **Lamberth contempt** of jail officials; Jan 6 **+9 intake points** | **Documented** (mixed sources — Greene is **partisan**) |
+| **Quaglin control case** | Celiac → days without edible meals, major weight loss in filings — **no** equivalent court-ordered transfer | **Documented** (filings) |
+| **Chansley differentials** | **Organic court order + Alexandria transfer (Feb 2021, diet-driven — not cohort-wide)**; **floor sentence**; **early release** Mar 2023 | **Documented** |
+| **Solitary (~11 months)** | Defense public claim — BOP **unconfirmed** | **OPEN** — **author seriously doubts**; may support **not in conventional jail** ([A16](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#author-originating-thesis--jan-6-deception-and-custody-a16)) |
+| **Author read (A15)** | **Selective accommodation** — visibility asset grammar vs harsh cohort | **Author interpretive** |
+| **Author read (A16)** | **Deception premise**; **staged hijacking + blame Republicans**; **same hands** stage + jails; **tool cannot rot**; **deferred Jan 6 investigation**; **future CO exposure**; **tool-disposal risk** | **Author thesis** |
+
+**Companion article:** [The Q trance — Jan 6, deception, and why the tool could not rot in jail](/influence/controlled_opposition/the-q-trance.md#jan-6-deception-and-why-the-tool-could-not-rot-in-jail).
+
+**Diet note:** Primary sources say **organic**, not **vegetarian-only**.
+
 ### Q5.3 — Jan 6, 2021 Capitol (documented)
 
 | Beat | Fact | Tier |
