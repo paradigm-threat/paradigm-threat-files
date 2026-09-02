@@ -344,8 +344,9 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 | Beat | Fact | Tier |
 |------|------|------|
 | **Nov 5–7, 2020 MCTEC** | Chansley fixture / speaker; horned **Q** press imagery | **Documented** ([Cronkite News](https://cronkitenews.azpbs.org/2020/11/06/hundreds-gather-outside-maricopa-election-center-for-third-day-of-protests/)) |
-| **Dec 3, 2020 Arizona House lobby** | Rush-in on pizza delivery; **occupation** label; **Chansley speaker**; DPS clear; **2 trespass arrests** | **Documented** ([azcentral Feb 2, 2021](https://www.azcentral.com/story/news/local/arizona-investigations/2021/02/02/jake-angeli-other-trump-fans-rushed-arizona-capitol-month-before-jan-6/4349283001/)) |
+| **Dec 3, 2020 Arizona House lobby** | Rush-in on pizza delivery; **occupation** label; **McCarthy Facebook live from inside**; **Chansley speaker**; DPS clear; **2 trespass arrests** (not McCarthy, not Chansley); **McCarthy zero legal consequences** | **Documented** ([azcentral Feb 2, 2021](https://www.azcentral.com/story/news/local/arizona-investigations/2021/02/02/jake-angeli-other-trump-fans-rushed-arizona-capitol-month-before-jan-6/4349283001/)) · [Phoenix A20](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#dec-3-legal-consequences--mccarthy-untouched-a20) |
 | **Dec 3 as Jan 6 dress rehearsal** | Same actor + costume + Capitol-building target **33 days** earlier | **Documented** parallel (press dates) + **Author CO read** (A14) — **not** handler proof |
+| **Legal machines / document strategy** | **McCarthy** AZ **trespass impunity** vs **Trump federal conspiracy**; **BBC** mis-edit apology; **rollback thesis** | **Documented** (legal/media) + **Author thesis** (A21) — [Phoenix §5 A21](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#two-legal-machines--federal-conspiracy-vs-state-trespass-a21) |
 | **McCarthy shared Nov–Dec circuit** | Capitol, MCTEC, Executive Tower — poison pills not expelled | **Author memory** + partial press — [Phoenix §5](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#5-mccarthy-controlled-opposition-read) |
 
 ### Q5.2c — Pretrial custody / organic food (documented)
@@ -372,6 +373,18 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 
 **Companion article:** [The Q trance — Jan 6, deception, and why the tool could not rot in jail](/influence/controlled_opposition/the-q-trance.md#jan-6-deception-and-why-the-tool-could-not-rot-in-jail).
 
+### Q5.2e — Jan 6 staging fragility (documented trails + author read)
+
+**Full table:** [Phoenix §3H — A19](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#3h-jan-6-staging-fragility--documented-trails-vs-author-deception-read-a19) · **Article:** [staging fragility](/influence/controlled_opposition/the-q-trance.md#the-staging-was-fragile--what-the-record-shows).
+
+| Layer | Fact | Tier |
+|---|---|---|
+| **Planned in Plain Sight** | Senate HSGAC (**Jun 2023**): open tips / online occupation plans; FBI-DHS **downplayed** | **Documented** |
+| **DOJ OIG (Dec 2024)** | **26 CHSs** on-site; **canvass miss**; **no undercover incitement** finding | **Documented** — **interpretation contested** |
+| **Vanguard** | **Proud Boys** / **Oath Keepers** first breaches; **Chansley** among **first ~30** | **Documented** (DOJ / Lawfare) |
+| **Three-piece model** | Politician + CO infiltrators + main grievance body — Arizona **McCarthy / Chansley / FE / Q** | **Author read (A19)** |
+| **Jun 24 contribution** | Author **marked main player** early; **imperfect media sale** | **A18** + **A19** |
+
 **Diet note:** Primary sources say **organic**, not **vegetarian-only**.
 
 ### Q5.3 — Jan 6, 2021 Capitol (documented)
@@ -383,8 +396,10 @@ Anonymous intel on chan boards **cannot** be verified: tripcodes **compromised**
 | **Plea** | Guilty **obstructing an official proceeding** (18 U.S.C. § 1512) | **Documented** |
 | **Sentence** | **41 months** prison, 36 months supervised release, **$2,000** fine — **Nov 17, 2021** (Judge Lamberth) | **Documented** |
 | **Time served** | **27 months**; released to **halfway house** **Mar 2023** | **Documented** ([The Hill](https://thehill.com/regulation/court-battles/3926036-qanon-shaman-released-from-prison-transferred-to-halfway-house/)) |
-| **Pardon** | **Jan 20, 2025** — Trump **full unconditional pardon** for Jan 6 defendants (incl. Chansley); conviction erased; supervised release terminated | **Documented** ([Independent](https://www.independent.co.uk/news/world/americas/us-politics/aqnon-shaman-jacob-chansley-trump-pardon-b2683533.html); [White House EO](https://www.whitehouse.gov/)) |
-| **Status Aug 2026** | **Pardoned**; no active federal sentence; public break with Trump; reported **Arizona governor** run as independent — verify current ballot status per cycle | **Documented** (press through 2026) |
+| **Pardon** | **Jan 20, 2025** — **Proclamation 10887**: **full unconditional pardon** (~**1,500** convicts incl. Chansley); **14** leader **commutations**; **dismiss with prejudice** pending indictments | **Documented** ([White House EO](https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/); [Independent](https://www.independent.co.uk/news/world/americas/us-politics/aqnon-shaman-jacob-chansley-trump-pardon-b2683533.html)) · **Author closure read** [Phoenix A22](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#the-end-of-the-story--jan-6-pardon-closure-a22) |
+| **Jan 2026 governor bid** | Announced **independent** run for **Arizona governor** (**Nov 2026**); public **break with Trump**; **ballot status open** — failed **2024 AZ-8** signature submission precedent | **Documented** ([The Times](https://www.thetimes.com/us/news-today/article/jacob-chansley-qanon-shaman-jan-6-arizona-governor-take-angeli-650fb0j7); [NewsNation](https://www.newsnationnow.com/politics/qanon-shaman-run-governor-arizona-report/)) · **Author read:** icon arc **over** — [Phoenix A22b](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#a22b--chansley-post-icon-coda-jan-2026-governor-bid) |
+| **Sept 2025 $40T lawsuit** | Self-filed Maricopa suit vs **Trump**, **Musk**, **T-Mobile**, **Warner Bros.**, etc.; **“true/rightful president”**; **Nolan/Cameron plagiarism** claims; **dismissed Dec 2025**, **refiled Feb 2026** | **Documented** ([Phoenix New Times](https://www.phoenixnewtimes.com/news/phoenix-qanon-shaman-files-40-trillion-lawsuit-against-trump-22763479/); [Independent](https://www.independent.co.uk/news/world/americas/us-politics/qanon-shaman-trump-lawsuit-capitol-riots-b2835709.html)) · **Author read:** shock-value brand — A22b |
+| **Status Sep 2026** | **Pardoned**; **no active federal sentence**; **governor plan continues** — **author read:** **will not matter again** as **national icon** | **Documented** (press) + **Author read** (A22b) |
 
 **ADL:** At least **66** known Q-adherent Jan 6 arrestees (Sep 2022 data) — [ADL](https://www.adl.org/resources/backgrounder/qanon).
 
