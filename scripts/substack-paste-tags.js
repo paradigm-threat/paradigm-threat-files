@@ -15,34 +15,28 @@
  * let you delete it from the UI — avoid selecting it; this script will refuse to
  * re-create anything with spaces or a `Keywords:` prefix.
  *
- * Tags for: cosmos/flat_earth/the-flat-earth-trance.md
+ * Tags for: influence/controlled_opposition/the-q-trance.md
  */
 
 (() => {
   const TAGS = [
-    "FlatEarth",
-    "FlatEarthTrance",
+    "QAnon",
+    "QClearance",
+    "JacobChansley",
+    "QAnonShaman",
     "ControlledOpposition",
-    "SaturnianCosmology",
-    "Firmament",
-    "Absu",
     "PoisonPill",
-    "CollinearConfiguration",
-    "FrameOfReference",
+    "FlatEarth",
+    "Communism",
+    "Anarchy",
+    "SonsOfAnarchy",
     "Arizona",
     "Phoenix",
     "Scottsdale",
-    "StopTheSteal",
-    "FaithDebate",
-    "HollowEarth",
-    "DEWChurch",
-    "Alef",
-    "TaxExempt",
-    "Church",
-    "501c3",
-    "Chemtrails",
-    "RevelationOfTheMethod",
+    "DanielMcCarthy",
+    "FOX10",
     "ArizonaProtestPoisonPills",
+    "ParadigmThreatFiles",
   ];
 
   const PLACEHOLDER = "Select or create tags";

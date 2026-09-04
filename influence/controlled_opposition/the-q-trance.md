@@ -154,9 +154,9 @@ Controlled-opposition reads follow pattern, behavior, and function — not routi
 
 Cold Phoenix research recovered protest rolls from Google Takeout Trash/ after a 2021 house fire — who moved the files remains unproven ([trash pattern §](https://paradigmthreat.net/governance/constitution/investigations/phoenix-protest-timeline-investigation.md#trash-pattern--why-videos-missing-from-live-library-2026-08-22-analysis)). Full evidence tiers, custody tables, claim registry, and pushback: [Phoenix protest timeline — Limits](https://paradigmthreat.net/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) · [Q-Anon investigation §7.4](https://paradigmthreat.net/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md#74-pushback--known-plausibility-gaps).
 
-Keywords: #QAnon #QClearance #JacobChansley #QAnonShaman #ControlledOpposition #PoisonPill #Arizona #Phoenix #Scottsdale #DanielMcCarthy #FOX10 #ArizonaProtestPoisonPills #ParadigmThreatFiles
+Keywords: #QAnon #QClearance #JacobChansley #QAnonShaman #ControlledOpposition #PoisonPill #FlatEarth #Communism #Anarchy #SonsOfAnarchy #Arizona #Phoenix #Scottsdale #DanielMcCarthy #FOX10 #ArizonaProtestPoisonPills #ParadigmThreatFiles
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-04
 
 
 ---
