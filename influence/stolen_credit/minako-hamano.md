@@ -43,7 +43,9 @@
 ### 2. Female Erasure
 - Few female composers in public recognition (Hamano, Eveline Fischer, etc.).
 - **Pattern:** Women's contributions minimized or subsumed under male collaborators.
-- **Action:** Research Nintendo's credit practices; compare Hamano-led vs. Yamamoto-led projects.
+- **Two-tier read (author):** Japan’s sōgōshoku (career) vs ippanshoku (support) — maps to Hamano’s **music → music recording**, Wise/Yamamoto composition nouns. Super Metroid voice = early power tell.
+- **Three-tier read (author):** British men (Wise) → British women (Fischer) → Asian craft (Hamano expendable). Author feels Fischer holds public DK-female credit in Hamano’s lineage — open; not same SNES cart. See dossier §5.9; [eveline-fischer.md](eveline-fischer.md).
+- **Action:** Compare tracks by project; public noun matrix; Fischer vs Hamano franchise memory.
 
 ### 3. Japanese / Post-Imperial Erasure
 - **Thesis:** British and post-imperial Japanese attitudes allowed credit to flow away from Japanese creators.

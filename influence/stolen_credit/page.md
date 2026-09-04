@@ -42,6 +42,7 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 | Reference | Summary |
 |-----------|---------|
 | [VGM Preservation / Credits](vgm-preservation-credits.md) | 335 games without credits; publisher policies; ROM/hex methodology |
+| [Poverty → questionable media faces](investigations/poverty-desperation-questionable-media-faces.md) | Pattern registry: desperation exit → willing credit/media face; **Wise** lead (crisp factory); Tallarico / Samuragochi / Swift rails |
 
 ---
 

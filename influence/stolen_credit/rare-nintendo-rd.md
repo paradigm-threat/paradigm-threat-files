@@ -16,6 +16,20 @@
 
 ## Documented: Games Without or With Hidden Credits
 
+### Scale — Rare NES (VGMPF)
+
+| Stat | Detail |
+|------|--------|
+| Rare NES catalog | **40+** games |
+| Shipped **with** credits | **Only 6:** *Cobra Triangle, Double Dare, Pin·Bot, Solar Jetman, Ironsword: Wizards & Warriors II, WWF WrestleMania* |
+| Shipped **without** credits | **~34+ of 40+** |
+| Stated motive | Anti-poaching — hide staff so rivals can’t hire them |
+| Broader (NES/GB/SNES) | VGMPF: they **rarely** put staff credits; later sometimes initials-only |
+
+**Source:** [VGMPF — Rare](https://www.vgmpf.com/Wiki/index.php?title=Rare)
+
+**Author / investigation meaning:** Huge piece of evidence that Rare was **not crediting the proper people on-cart** and could later **tell whatever authorship story** interviews and fan canon needed. Reconstructed “Wise composed Battletoads / DKC…” narratives are **not checked against printed in-game receipts** for most of the NES era — the whitewash had a blank page to write on. Same scarcity class as Nintendo Sound Team / Hamano support billing. Parent: [minako-hamano-investigation.md](investigations/minako-hamano-investigation.md) §5.4 claim 22.
+
 ### Battletoads (NES, 1991)
 - **All credits listed as uncredited** in game.
 - Staff (from external sources): Tim Stamper, Chris Stamper, Joel Hochberg, Gregg Mayles, Guy Miller, Kevin Bayliss, **David Wise (music)**.
@@ -25,11 +39,11 @@
 - **Hidden credits** in ROM at 0x7FE0: "RARE93 BREN GUNN!"
 
 ### PIN·BOT (NES, 1990)
-- Rare-developed; credits **embedded in ROM**, not displayed as end credits.
+- Rare-developed; credits **embedded in ROM**, not displayed as end credits. *(Note: Pin·Bot is one of the six VGMPF lists as having credits in some form — verify display vs ROM.)*
 
 ### Other Rare Titles
-- Pattern: credits omitted, hidden, or incomplete.
-- **Action:** Audit full Rare NES/SNES catalog for credit status.
+- Pattern: credits omitted, hidden, or incomplete — **majority NES default**, not edge case.
+- **Action:** Keep catalog audit aligned with VGMPF 6-of-40+ baseline.
 
 ---
 
@@ -57,6 +71,9 @@
 - **Action:** Who at Nintendo (if anyone) contributed? Japanese manuals vs. Western releases?
 
 ### 4. Count of Rare Games Missing Credits
+
+- **Answered (VGMPF):** NES — **only 6 of 40+ credited** → **~34+ blank**. See scale table above.
+- Remaining: GB/SNES exact counts; which “Wise” music attributions rest only on later reconstruction.
 - **Action:** Build list from VGMPF, TCRF, MobyGames; quantify.
 
 ---

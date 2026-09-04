@@ -1,7 +1,7 @@
 # Dave Wise — Investigation
 
 > **TL;DR:** Dave Wise — Investigation
-**Status:** Investigating. Hypothesis: Credit may have been stolen from Nintendo R&D; Wise may have been involved in sampling/QA but not composition; his solo output shows a sharp quality divide that suggests someone else wrote the beloved tracks.
+**Status:** Investigating. **Author conclusion (2026-09):** Wise = **Samuragochi-class credit face** (composition nouns for others’ work). On *Tropical Freeze* he was really on the album as a **sloppy/unpracticed instrumentalist** (poor timing, weak solos) — not the score’s author; empty non-game career shows through. Left industry thin to avoid Samuragochi-scale exposure. Crisp factory → willing media face. Jazz-sax *Lullaby* = different David Wise.
 
 ---
 
@@ -25,7 +25,7 @@
 | Donkey Kong Country Returns (2010) | — (Minako Hamano; see [minako-hamano.md](minako-hamano.md)) |
 | Donkey Kong Country: Tropical Freeze (2014) | Exclusive credit; Hamano also in credits, unattributed in press |
 | Battletoads (NES) | Music — **game had no visible in-game credits** |
-| Other Rare NES/SNES titles | Various |
+| Other Rare NES/SNES titles | Various — **NES baseline:** only **6 of 40+** Rare games credited (~34+ blank); anti-poaching; later stories unconstrained ([VGMPF Rare](https://www.vgmpf.com/Wiki/index.php?title=Rare); [rare-nintendo-rd.md](rare-nintendo-rd.md)) |
 
 ---
 
@@ -70,13 +70,32 @@
 - **Female erasure:** 7% of game music sector are women (GameSoundCon 2015); 10:1 male-to-female ratio in industry survey.
 
 ### DKC3 GBA (2005) — The Amateur Dive
-- DKC3 for GBA had a **completely different soundtrack** from Eveline Fischer's DKC3 (SNES). Wise was credited exclusively; no controversy at the time.
-- **Quality collapse:** Overreliance on drum loops, very light sequencing, amateur-style composition. Does not resemble his original DKC1/2 work at all.
-- **Style betrayal:** Shift away from traditional Donkey Kong themes and instruments toward industrial techno. Possibly intended to suit a different audience — but reads as a major deviation from franchise tradition.
-- **"Didn't seem like him":** The style suggests someone else. If Wise composed the beloved DKC1/2 tracks, this output is unrecognizable.
+
+- DKC3 for GBA had a **completely different soundtrack** from the SNES *DKC3* bill (Fischer majority / Wise additional). Wise was credited **exclusively**.
+- **Highly divisive** vs “Wise masterpiece” standard of *DKC2* — drum loops, light sequencing, industrial turn; fans and writeups call it below franchise peak ([Wired Fish Network](https://thewiredfishnetwork.com/2011/11/05/i-stand-on-my-soapbox-the-dkc3-soundtracks/); [YouTube discussion](https://www.youtube.com/watch?v=KGFIdVa_6mg)).
+- **Author read:** When the Wise **name** must carry the score alone, the product does not match the legend — stakeholder face without the usual pipeline. See also SNES *DKC3* below.
+
+### DKC3 SNES (1996) — Fischer bill / Wise additional — author rejects both as composers
+
+- **Published:** Fischer almost entire score; Wise additional.
+- **Author ear:** SNES *DKC3* sounds like **Battletoads and other “Dave Wise”–tagged Rare** material — continuous with the credit **machine**, not proof Fischer (or Wise) wrote it.
+- Author does **not** treat Fischer as the true composer; Wise’s thin “additional” credit also doesn’t make him the author. Same whitewash class as Tropical Freeze: **British nouns on opaque labor**. Full: [eveline-fischer.md](eveline-fischer.md).
+
+### Poverty exit → willing media face (pattern list)
+
+- **Documented:** College dropout → **crisp factory** (night shifts: bad crisps off the line / clean machines) → music shop → Stampers hire ([Irish Independent](https://www.independent.ie/entertainment/games/veteran-composer-david-wise-on-donkey-kong-country-battletoads-and-his-chance-start-in-the-games-industry/36266585.html)). Americans often mishear as “chip” = semiconductor; he meant **potato crisps**.
+- **Author read:** Fits the **poverty / desperation → questionable media face** pattern — someone willing to take (or keep) authorship nouns and whitewash interviews to leave the factory floor. Not “broke → genius.” Same psychology as Swift **desperation as compliance**; VGM peer on the registry with Tallarico / Samuragochi class cases.
+- **Registry:** [poverty-desperation-questionable-media-faces.md](investigations/poverty-desperation-questionable-media-faces.md) — **Wise is on the list.**
+
+### Empty Non-Game Catalog — Major Clue (2026-09-04)
+
+- **Documented (Rare / DKC David Wise):** **No non-game studio album.** MusicBrainz and streaming catalogs are almost entirely OSTs, remasters, and game-adjacent singles. Announced **Salamandos** “collectable album” with Kev Bayliss (2019) — full album never clearly shipped; only clear release found: short **8bit Salamandos Signing Song** (2020). No live-instrument original non-game discography.
+- **Name collisions (do not count):** Jazz saxophonist David Wise (Oberlin/LA) — *Till They Lay Me Down* (2016), incl. **Lullaby**; *Courtship* / ambient releases under **David Leo Wise**. Different people; YouTube Music conflates display names.
+- **Author charge:** Functionally **zero original non-game songs** as a career — one 8-bit project single does not make a composer’s solo pipeline. For an “established legend” name, that is anomalous.
+- **Industry-norm clue (author; no exact %):** Non-game published albums (arrangements, piano collections, original studio LPs, concert material) are **incredibly common** — practically the **industry standard** for a vast majority of established game composers (Uematsu, Mitsuda, Kondo-adjacent concert culture, Soule/DirectSong class, etc.). Wise’s empty solo shelf is a **major clue** that the public “composer” noun is stakeholder/face without an independent craft pipeline — consistent with name-without-pipeline reads (*DKC3* GBA exclusive; Returns/Freeze credit theater). See [minako-hamano-investigation.md](investigations/minako-hamano-investigation.md) §5.4 / claim 24.
 
 ### Wise's Original (Non-Game) Music — Disconnect
-- His original music does not sound like it comes from the same person as the game compositions.
+- Where any non-OST material exists, it does not sound like it comes from the same person as the beloved game compositions — and the catalog itself is nearly empty (above).
 - **Thesis:** Making music and **programming video game music** are different skills. VGM requires programming — selecting notes, laying down tracks, building the actual sequence data. Wise may have been involved in composition (direction, concepts) but **not** in the original work that built the songs. His role may have been **sampling and quality assurance** — not the hands-on composition credited to him.
 
 ### Post-Rare Output — Nuanced
@@ -84,10 +103,22 @@
 - **Yooka-Laylee and the Impossible Lair (2019):** Wise composed 13 tracks; Matt Griffin 27. **Highly acclaimed** — "best in class," "matches Tropical Freeze," Editor's Pick Best Game Music 2019.
 - **Conclusion:** Impossible Lair success suggests Wise can still produce quality — but as part of a team. Solo full-soundtrack output post-Rare is limited.
 
-### Tropical Freeze vs. Returns — The Hamano Clue
+### Tropical Freeze vs. Returns — The Hamano Clue + instrumentalist conclusion
+
 - **DKC Returns (2010):** Excellent soundtrack — **Minako Hamano** credited. ([minako-hamano.md](minako-hamano.md))
-- **DKC Tropical Freeze (2014):** Wise credited exclusively in press; soundtrack even better. Hamano appears in credits but was **not attributed** in articles — which framed it as "the return of Dave Wise," making clear Hamano was *not* part of the return.
-- **Interpretation:** Hamano may have been one of the original inspirations or composers behind many favorite Nintendo-era songs. When she is properly credited (Returns), quality is high. When Wise gets exclusive attribution (Tropical Freeze), the soundtrack is excellent — but she was in the room. The pattern suggests shared or misallocated contribution.
+- **DKC Tropical Freeze (2014):** Wise credited exclusively in press; Hamano demoted to **music recording**. Four rocket tracks = arrangements of Returns **Mine Menace**; streaming bills Wise without “arrangement.”
+- **Author conclusion (2026-09-04):** Wise **was** on the TF album — as an **instrumentalist**, and a **rather sloppy / unpracticed** one. Poor **timing** and **weak soloing** on the live layers. Someone who had truly authored the volume of songs the legend claims would never be happy shipping those takes; normal musicians keep working until they are right. His **lack of a real music career** (empty non-game catalog) shows through in the playing.
+- **Samuragochi parallel (author):** Structurally **identical** to **Mamoru Samuragochi** — face keeps the composition noun; someone else writes. Difference: Wise **got thin / got out** rather than ride the fraud until a public bust. See [poverty-desperation-questionable-media-faces.md](investigations/poverty-desperation-questionable-media-faces.md); Hamano dossier claim 26.
+- **Hamano read:** When she is properly in the music room (Returns), quality is high. Freeze keeps Kyoto craft under recording/supervisor lines while the British face owns the poster and the stream.
+
+### Wise ≡ Samuragochi (author identity claim)
+
+| | Samuragochi | Wise (author read) |
+|--|-------------|-------------------|
+| Public noun | Composer / “Japan’s Beethoven” | Composer / DKC legend |
+| Who wrote | Ghost (Niigaki) — **documented** | Kyoto / Rare pipeline — **author charge** |
+| Exposure | Bust 2014 after years of fame | Thin solo career; early-ish retreat |
+| Motive read | Keep fame | Exit poverty (crisp factory); then avoid Samuragochi fate |
 
 ---
 
@@ -95,9 +126,10 @@
 
 - What did Wise compose solo vs. with Beanland/Fischer?
 - Did Nintendo provide melodic/thematic material or only direction?
-- Was Wise's role sampling/QA rather than hands-on composition?
+- **TF session logs:** which live parts are Wise vs other players / Retro staff (Peter Nielsen sax credit exists in interviews)?
 - Full list of post-Rare Wise works?
 - Rare's policy on credits (see [rare-nintendo-rd.md](rare-nintendo-rd.md)).
+- Any public statement of Wise stepping back to avoid scrutiny after Samuragochi-class scandals entered VGM discourse?
 
 ---
 

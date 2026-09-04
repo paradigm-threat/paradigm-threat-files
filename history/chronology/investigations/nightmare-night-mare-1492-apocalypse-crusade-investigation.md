@@ -61,6 +61,7 @@
 ## 4. Related investigations
 
 - [The Hidden History of Words — **Nightmare**](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) — reader essay gloss
+- [The Apocalypse Pictures](https://paradigmthreat.net/history/chronology/the-apocalypse-pictures.md) — Vasnetsov / West horsemen canvases; Sercambi plague folio; Vesuvian sex art
 - [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md)
 - [Rus–Horde English political lexicon §12](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — military / **1492** row
 - [Giants, infantry, guerrilla](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) — foot vs **cavalry** host

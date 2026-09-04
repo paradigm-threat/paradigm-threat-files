@@ -400,6 +400,7 @@ If memory survives this stubbornly in **dictionaries** and **families**, the aut
 - [Martyr word history](https://paradigmthreat.net/governance/war/investigations/martyr-word-history-investigation.md) — witness vs Mars **Mar-** cluster
 - [Troy / 1st Jerusalem](https://paradigmthreat.net/history/chronology/jerusalem/troy_1st_jerusalem.md) — Fomenko **Yoros** read
 - [Nightmare / night mare — 1492 Apocalypse Crusade](https://paradigmthreat.net/history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md) — **AU-030**; Ottoman night cavalry trauma
+- [The Apocalypse Pictures](https://paradigmthreat.net/history/chronology/the-apocalypse-pictures.md) — Vasnetsov, West, Sercambi, comet plates, Vesuvian sex art in the same campaign stack
 
 ---
 
