@@ -8,7 +8,7 @@ My confrontation with Jacob Chansley, the Q-Anon Shaman
 
 **Watch:** [My confrontation with Jacob Chansley — June 24, 2020 Scottsdale](https://www.youtube.com/shorts/QlU5Xq3mmfU) (YouTube Short). The roll shows my confrontation with Chansley who was staged beside McCarthy signs, mask protesters, and Flat Earth — and FOX 10 turning the camera away before he finished.
 
-> **TL;DR:** Q-Anon welds real Q clearance authority to chan-culture drip so political distrust dies as cartoon loyalty. On June 24, 2020 at Scottsdale’s “Unmask Us” rally I interrupted a FOX 10 shot of Jacob Chansley and spoiled an attempt to weld Q-Anon onto a MAGA anti-mask protest. Same plaza, same morning as the Flat Earth billboard in Part I. Horns and Flat Earth in that frame make ordinary MAGA protesters look illegitimate. On December 3, 2020, McCarthy and Chansley were both inside the Arizona Capitol occupation that press later called a dress rehearsal for January 6. A little over a month later a real deep-state insurrection hit the DC Capitol with Chansley at the center.
+> **TL;DR:** Q-Anon welds real Q clearance authority to chan-culture drip so political distrust dies as cartoon loyalty. On June 24, 2020 at Scottsdale’s “Unmask Us” rally I interrupted a FOX 10 shot of Jacob Chansley and spoiled an attempt to weld Q-Anon onto a MAGA anti-mask protest. Horns and Flat Earth in that frame make ordinary MAGA protesters look illegitimate. On December 3, 2020, McCarthy and Chansley were both inside the Arizona Capitol occupation that press later called a dress rehearsal for January 6. A little over a month later a real deep-state insurrection hit the DC Capitol with Chansley at the center.
 
 ## Q clearance — what the letter actually classifies
 
@@ -165,6 +165,8 @@ Cold Phoenix research recovered protest rolls from Google Takeout Trash/ after a
 Keywords: #QAnon #QClearance #JacobChansley #QAnonShaman #ControlledOpposition #PoisonPill #FlatEarth #Communism #Anarchy #SonsOfAnarchy #January6 #Insurrection #Antibody #Arizona #Phoenix #Scottsdale #DanielMcCarthy #FOX10 #ArizonaProtestPoisonPills #ParadigmThreatFiles
 
 **Substack:** [paradigmthreat2.substack.com/p/the-q-trance](https://paradigmthreat2.substack.com/p/the-q-trance)
+
+**LinkedIn:** [linkedin.com/pulse/q-trance-ari-asulin-vumlc](https://www.linkedin.com/pulse/q-trance-ari-asulin-vumlc/)
 
 **Last updated:** 2026-09-04
 
