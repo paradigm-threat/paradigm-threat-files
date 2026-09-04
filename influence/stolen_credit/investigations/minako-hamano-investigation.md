@@ -1,8 +1,8 @@
 # Minako Hamano — R&D1 craft, platform rupture, and credit erasure
 
-> **TL;DR:** Minako Hamano (joined Nintendo R&D1 **1991**) is the investigative center: co-composer of *Super Metroid*, *Link's Awakening*, handheld Metroid, and later *DKC Returns* / *Tropical Freeze* / *Prime* era. Load-bearing case: **Mine Menace** (Returns, Yamamoto on stream) → four TF rocket arrangements credited **David Wise** without “arrangement” on streaming — **slippery “return of Dave Wise”** marketing on Kyoto rearrangements. **Author thesis:** Wise = British IP **stakeholder/actor**, not composer; interviews = whitewash. This dossier holds **documented facts**, **author sentiment** (consolidated below), and **falsifiers**. Surround: **1988–1996 platform rupture**, CD-i without R&D, Mario RPG theater. **Open speculation:** Mine Menace loop ↔ *Aladdin* “Friend Like Me” / Robin Williams displacement era. **Not claimed:** Hamano → *FF7*.
+> **TL;DR:** Minako Hamano (joined Nintendo R&D1 **1991**) is the investigative center: co-composer of *Super Metroid*, *Link's Awakening*, handheld Metroid, and later *DKC Returns* / *Tropical Freeze* / *Prime* era. Load-bearing case: **Mine Menace** (Returns, Yamamoto on stream) → four TF rocket arrangements credited **David Wise** without “arrangement” on streaming — **slippery “return of Dave Wise”** marketing on Kyoto rearrangements. **Author thesis:** Wise = British IP **stakeholder/actor**, not composer; interviews = whitewash. Surround: **1988–1996 platform rupture**, CD-i without R&D, Mario RPG theater. **IP Great Depression (§8c):** scarcity strategy — no internal-dispute books, almost no staff contacts (Tanaka only), no smoking-gun intent memos; independence/hardware myths falsified by Super Disc deal. **Not claimed:** Hamano → *FF7*.
 
-**Status:** Open — author sentiment consolidated (2026-09-01); evidence targets listed for follow-up.
+**Status:** Open — 2026-09-03 (Depression / book drought / contact survey folded in).
 
 ## Author sentiment — consolidated (session)
 
@@ -12,11 +12,25 @@
 
 - Video game music credits are **press releases**, not receipts. Streaming metadata, supervisor lines, and marketing copy are **products** of the same system under investigation — including industry histories that treat David Wise as Rare’s programmer-composer (**author rejects those interviews as whitewash**, not counter-evidence).
 - [**Prisca sapientia**](/docs/PRISCA_SAPIENTIA.md): institutions and consensus histories are not default truth when credits and corporate narratives are the subject.
+- **IP Great Depression (author metaphor):** Nintendo’s information regime after the platform-control wars resembles a **scarcity strategy** — deliberate drought of process, staff, and credit truth (NDAs, sealed tools, outward leak suits, no R&D tell-alls). Outsiders get **pattern + analogy**, not courtroom smoking guns for *intent*. That is not “no evidence”; it is the **designed evidentiary climate**. See §8c.
+- **Independence whitewash:** “Nintendo made their hardware / was fiercely unbound by other companies’ hardware decisions” is false. Silicon partners (Ricoh, Sony SPC700, later IBM/AMD/Nvidia) always held fab/know-how; the **CD-ROM debacle** (Sony as sole Super Disc licenser) **proves** contractual bondage. Tollbooth independence ≠ hardware independence.
 
 **Center and surround**
 
 - **Minako Hamano** (R&D1 from **1991**) is the person; the **1988–1996 platform rupture** (Sony royalty fight, Philips pivot, SNES CD death, CD-i licenses without R&D, Mario RPG farewell theater, N64 cartridge bet) is the **crime scene** — without it, specific authorship claims have no motive structure.
 - R&D1 **mixed-gender programmer-musician** craft was orphaned when the industry chose a **2D→3D hard reset** over incremental SNES + CD + coprocessor evolution (DKC already proved pre-render on stock hardware).
+- **This pattern is not normal industry noise.** Routine miscredit happens; what happened to Hamano — craft lineage severed, credits laundered across sequels, stakeholder names substituted when IP pressure peaks — **could only occur under the umbrella** of the ridiculous situation Nintendo was put in when **Philips and Sony** treated Kyoto’s IP as something to **take**, not something to **license fairly**. The rupture is not backdrop. It is **mechanism**.
+
+**Who betrayed whom (author rejects media default)**
+
+- Press often frames **Nintendo as the betrayer** who “screwed Sony first.” Author: **ridiculous.** Nintendo wanted to **retain its IP** and its software royalty model — the foundation of Yamauchi’s business. **Sony and Philips wanted to take IP control away** — CD format, licensing toll booth, character exploitation without R&D attached. The fight was never “Nintendo refused to partner”; it was **who owns the characters, the music, the tax on every disc sold**.
+- **CD-i is the visible proof** everyone old enough remembers if they look it up: *Hotel Mario*, the CD-i *Zelda* trilogy — Nintendo icons handed to another company, **without Kyoto craft**, producing the shallowest imaginable version of the concept. Barely games; **interactive CD-ROM media** with recognizable silhouettes and alien soul. That is what **IP ripped away from Nintendo** looks like when the inventors are not in the room. Music credit erasure is the **same class of separation** — less visible, same incentive.
+
+**IP lawfare → credit theft (author mechanism)**
+
+- When literal **IP was being ripped away** from Nintendo — characters to Philips, Square toward Sony, format control to outsiders — **composer credits on work tied to that IP became liabilities**. Labor that might later **fall into another company’s hands through contracts, settlements, or defection** could not always survive in **published credits** as authorship hardened into ownership.
+- If partners could **literally rip away something like *Final Fantasy*** (Square’s defection to PlayStation, Jan 1996), it is **not surprising** they — or the corporate legal posture Nintendo adopted in response — would also rip away **Nintendo R&D credits** that never made it into published lines, or that were **generalized** (“music team”) when track-level truth would create future claims.
+- Hamano’s arc fits: she might never have gotten every track name she deserved even in the best case — but author reads her as a **humble Japanese craft person** who would accept **general credits** without insisting on per-track billing. In that culture, **fame gets you in trouble**; visibility invites poaching, jealousy, and contractual exposure. Humility under rupture ≠ consent to erasure — it made her **easier to erase** when IP lawfare demanded it.
 
 **David Wise — stakeholder thesis (author charge)**
 
@@ -63,14 +77,16 @@
 1. **Investigation thesis** — why Hamano, why the surround matters  
 2. **Author sentiment (consolidated)** — full session position in one block  
 3. **Subject timeline** — credited works, gaps, returns  
-3. **Institution** — R&D1 → SPD → outsource model  
-4. **Rupture chronology** — 1988–1996 platform control war  
-5. **Precedent cases** — CD-i, Mario RPG, Rare credits, SNES CD cuts, Mine Menace chain  
-6. **Documented vs speculative ledger** — what the record supports  
-7. **Falsifiers** — what would disprove hidden-authorship claims  
-8. **Evidence targets** — next forensic steps  
-9. **Author's open claims** — pattern registry (not proven)  
-10. **Questions to clarify, verify, or debunk**
+4. **Institution** — R&D1 → SPD → outsource model  
+5. **Rupture chronology** — 1988–1996 platform control war  
+6. **Precedent cases** — CD-i, Mario RPG, Rare credits, SNES CD cuts, Mine Menace chain  
+7. **Documented vs speculative ledger** — what the record supports  
+8. **Falsifiers** — what would disprove hidden-authorship claims  
+9. **Evidence targets** — next forensic steps  
+10. **R&D traditions + book/contact drought** — §8b  
+11. **IP Great Depression / scarcity** — §8c  
+12. **Author's open claims** — pattern registry (not proven)  
+13. **Questions to clarify, verify, or debunk**
 
 ---
 
@@ -79,6 +95,10 @@
 **Center:** Minako Hamano represents a **Nintendo R&D1 sound culture** — small teams, programmer-musicians, mixed-gender co-authorship, techniques passed over years (Tanaka → Totaka; Yamamoto ↔ Hamano).
 
 **Surround (required context):** From **1988**, Nintendo's CD-ROM deals threatened **software licensing monopoly** — the core of Yamauchi's business. The **1991 Sony rupture**, **1993 Philips SNES CD death**, **CD-i settlement games**, **1996 Mario RPG + FF7 platform switch**, and **N64 cartridge bet** form one continuous **control vs. craft** crisis. When corporations fight over **who taxes every game sold**, **labor attribution** becomes expendable.
+
+**Media narrative (author rejects):** Industry press often says Nintendo **betrayed Sony first**. Author: Nintendo sought **IP retention**; Sony and Philips sought **IP extraction**. CD-i (*Hotel Mario*, CD-i *Zelda*) = icons without R&D — shallow interactive CD-ROM, not Kyoto games. That visible humiliation and Square’s **Final Fantasy** defection are the **precedent** for why R&D composer credits could not always survive published credits when IP was in flight.
+
+**Uniqueness claim (author):** Hamano-style credit theft is **not** ordinary industry sloppiness. It required the **1988–1996 rupture umbrella** — IP lawfare, partner defection, character licenses without craft teams — under which music authorship on contested products was **strategically generalized, reassigned, or laundered** (Returns → Tropical Freeze / Mine Menace chain as late proof).
 
 **Investigative premise:** Public history (interviews, fan canon, press "returns") **over-credits safe names** and **under-credits or erases** R&D1-lineage composers — Hamano first. **David Wise** on Returns/Tropical Freeze is the load-bearing example of **stakeholder credit** (British IP face on Kyoto craft). Pattern also includes Eveline Fischer/Novakovic, credit opacity at Rare, Square/Nintendo theater.
 
@@ -131,7 +151,7 @@
 | Date | Event | Control stake |
 |------|--------|----------------|
 | **1988** | Nintendo–Sony SNES CD + sound chip deal | Sony: Super Disc format; later understood as **CD software licensing / royalties** outside Nintendo toll booth |
-| **May 1991** | Yamauchi / NOA signs with **Philips** (Eindhoven) | Recover licensing control; Sheff (*Game Over*): "stranglehold on software" |
+| **May 1991** | Yamauchi / NOA signs with **Philips** (Eindhoven) | Recover CD software licensing; Sheff (*Game Over*) states Sony deal made Sony “sole worldwide licenser of the Super Disc format” (~1988 contract; June 1991 CES) — see [sheff-game-over-corpus-notes.md](sheff-game-over-corpus-notes.md) |
 | **June 1991 CES** | Sony announces Play Station; Nintendo announces Philips | Public "betrayal"; industry sees format war |
 | **Spring 1992** | Square newsletter: designing **SNES CD-ROM** software | *Secret of Mana*, *Chrono Trigger* planned for CD — later **cut to cartridge** |
 | **Oct 1992** | Nintendo–Sony brief reconciliation | Licensing still contested |
@@ -186,12 +206,37 @@
 - **SNES CD** (1993 spec): SCCP + HANDS — killed when N64 chosen.
 - **Author claim:** Nintendo could have evolved SNES + CD + coprocessors instead of **hard 3D reset**; home-console **2D craft lineage** treated as obsolete for platform marketing.
 
-### 5.6 Credit erasure (general)
+### 5.6 Nintendo credit controversies (documented — focus here)
 
-- Nintendo Music app: no composer credits (industry reporting).
-- Grant Kirkhope: Nintendo often omits composer credit on owned music.
-- Kyoto Report: recovery of omitted Nintendo personnel credits.
-- See: [vgm-preservation-credits.md](../vgm-preservation-credits.md).
+**These are Nintendo’s actual public credit fights** — not the Toei/Dragon Ball Kenji Yamamoto plagiarism scandal (see §5.6b).
+
+#### “Nintendo Sound Team” umbrella
+
+- Marketing and official releases historically collapse individual composers under generic **“Nintendo Sound Team”** (or similar house labels), so track-level authorship never reaches the consumer surface.
+- Industry callouts note the practice erases named labor even when internal credits exist ([Sebastian Wolff / X discussion of Sound Team credit](https://x.com/SebastianWolff/status/2088839426868924627)).
+- **Investigative meaning:** Same class of **generalization** Hamano’s humility thesis describes — “music team” instead of names — now visible as corporate product policy, not one-off sloppiness.
+
+#### Nintendo Music app — no individual composer credits
+
+- Nintendo’s official **Nintendo Music** streaming app launched and shipped **without individual composer credits** on tracks; fans and industry figures pushed back hard.
+- Grant Kirkhope and others have publicly noted Nintendo often omits composer credit on music it owns (see also [vgm-preservation-credits.md](../vgm-preservation-credits.md)).
+- **Investigative meaning:** Even the company’s own music storefront continues the **IP Great Depression** scarcity — listening is allowed; **authorship** is not.
+
+#### *Donkey Kong Country Returns HD* — original staff omitted
+
+- *DKC Returns HD* (2025 remaster) **omitted Retro Studios developers** from credits and instead used a generic thanks to “original development staff” — strong fan/industry backlash ([Famiboards thread](https://famiboards.com/threads/donkey-kong-country-returns-hd-omits-retro-studios-developers-from-credits-instead-thanks-original-development-staff.12227/); [Game Developer](https://www.gamedeveloper.com/business/original-donkey-kong-country-returns-devs-omitted-from-hd-remaster-s-credits)).
+- **Investigative meaning:** Same Returns lineage under investigation for Mine Menace / Hamano demotion now shows **remaster-era erasure of the people who built the game** — credit drought is ongoing policy, not 1990s-only.
+
+### 5.6b Disambiguation — do not conflate Kenji Yamamotos
+
+| | Toei / DBZ plagiarism (2011) | Nintendo Metroid / Returns |
+|--|------------------------------|----------------------------|
+| Kanji | 山本**健司** | 山本**健誌** |
+| Born | 1958 | 1964 |
+| Employer | Toei / Dragon Ball freelance | Nintendo since ~1987 |
+| Scandal | Fired after *Kai* / game BGM plagiarized Western rock & film scores | **Not this person** |
+
+Fans confuse them because romaji matches. **Do not** import Toei’s plagiarism bust into Nintendo Yamamoto’s file. Nintendo Yamamoto’s **documented** Hamano-adjacent issues are elsewhere: Super Metroid voice override (“too sexual”), sole-credit overshadowing in fan canon, Returns/Freeze supervisor seat on the Mine Menace chain (§2, §5.7).
 
 ### 5.7 Mine Menace → Tropical Freeze — provable credit hop + stylistic continuity
 
@@ -207,7 +252,17 @@
 - Hamano: **music** on Returns → **music recording** on Tropical Freeze (VGMdb).
 - **Forensic observation (author):** All four TF arrangements preserve Returns **style, timing, phrasing, and attack** — reads as same authorship extended, not Wise mimicking Yamamoto’s idiom after a decade away. Simple read: same pipeline wrote original and variations; Wise name = marketing/contract layer. Complex read (whitewash): Wise as chameleon genius — Occam favors continuity of authorship over mimicry myth.
 
-See reader article: [minako-hamano-and-the-whitewash.md](../minako-hamano-and-the-whitewash.md) §“What the streaming app hides” / §“The style does not change.”
+**Author read — Wise’s “clarification” as whitewash (not exoneration):**
+
+Public narratives often praise Wise for taking to social media to **clarify** that Yamamoto wrote the Returns rocket-barrel theme and to honor the “core internal Wii team” (which included Hamano). Author rejects that as the clean ending. Pattern:
+
+1. **Surface first:** consumer metadata / “return of Dave Wise” marketing puts **Wise** on the TF arrangements (and the poster).  
+2. **Clarification second:** Wise (or secondary reporting of his posts) **assigns** the Returns original to **Yamamoto** — so the British stakeholder remains the **narrator of truth** who generously redistributes credit.  
+3. **Hamano’s ceiling:** she appears only as member of the **internal / support team** being “honored,” never as **named core composer** of Mine Menace or the rocket lineage. Same ending every time — Yamamoto or Wise get the composition nouns; Hamano gets the team noun.
+
+So the clarification does not restore Hamano. It **locks the binary** (Wise ↔ Yamamoto) and keeps her in the Sound Team–class umbrella even when the post pretends to be fair. Useful as **credit metadata**; useless as proof the Kyoto authorship room was fully named.
+
+See reader article: [minako-hamano-and-the-whitewash.md](../minako-hamano-and-the-whitewash.md) §“What the streaming app hides” / §“The style does not change.” / Wise clarification.
 
 ### 5.8 Mine Menace ↔ “Friend Like Me” — ear observation + open speculation
 
@@ -245,15 +300,23 @@ See reader article §“The loop that sounds like Genie.”
 | CD-i games = Nintendo IP without Kyoto craft teams | **Documented** |
 | Mario RPG = farewell during Square–Sony shift | **Supported** (Digital Antiquarian, timeline) |
 | Corporate incentive to omit/redact labor after rupture | **Plausible / partially documented** |
+| “Nintendo Sound Team” umbrella + Music app without composer names | **Documented** (marketing / app policy; §5.6) |
+| *DKC Returns HD* omits Retro staff from credits | **Documented** (§5.6) |
+| Toei 2011 DBZ Kenji Yamamoto plagiarism = Nintendo’s Kenji Yamamoto | **False** — different person (§5.6b) |
 | Hamano ghostwrote *FF7* or Square used Nintendo music archives | **No affirmative public evidence** |
 | David Wise = British IP stakeholder/actor, not hands-on composer (Returns/Freeze) | **Author thesis** |
 | Wise hex/assembly interviews disprove stakeholder thesis | **Author rejects** — interviews = whitewash |
 | Industry record lists Wise as Rare SNES composer | **Documented on paper**; **same system under examination** |
 | Rare SNES music = hidden Nintendo R&D composers | **No staff trail** |
 | “Return of David Wise” (TF) sold on rearrangements of Returns theme Wise did not write | **Documented** (metadata + 2018 post) |
+| Wise social clarification (Yamamoto = Returns rocket; “internal Wii team” honored) restores Hamano as named Mine Menace author | **Author rejects** — she stays support/team; Wise remains narrator (§5.7) |
 | TF live layers sloppier vs SNES programmed myth | **Author judgment** |
 | 2D→3D cutoff harmed craft continuity | **Author thesis; partially supported by industry history** |
 | Women lost co-equal composer authority post-rupture | **Partially supported** (Hamano role shift; industry stats; not monolithic) |
+| Credit erasure on Hamano-scale required 1988–1996 IP rupture (not normal industry baseline) | **Author thesis** |
+| Nintendo sought IP retention; Sony/Philips sought IP extraction (not “Nintendo betrayed Sony first”) | **Author thesis; partially documented** (licensing/royalty stakes) |
+| Hamano accepted general credits from humility; fame-as-trouble (Japanese craft culture) | **Author read** |
+| R&D credits stripped when IP could fall to partners via lawfare/defection (FF7 precedent) | **Author mechanism; plausible** |
 
 ---
 
@@ -280,6 +343,54 @@ See reader article §“The loop that sounds like Genie.”
 7. **Former staff testimony** — R&D1, Square, Rare (low probability but high value).
 8. **Metroid Database / Wayback** — Hamano interview (voice rejection); *Sound in Action* album liner attribution.
 9. **Mine Menace ↔ Friend Like Me** — loop-tail spectrogram; ear panel; search for additional listener citations beyond Patreon 2017.
+10. **R&D craft reconstruction** — published philosophy vs. unpublished process manuals (see §8b).
+
+### 8b. Nintendo R&D heyday — reverse-engineering traditions
+
+**Full codebook + links:** [nintendo-rd-traditions-reverse-engineering.md](nintendo-rd-traditions-reverse-engineering.md)
+
+**Verdict:** No public process bible; day-to-day R&D remains confidential IP. Public record **is** enough to reverse-engineer **traditions** (T1–T12): withered technology, rival pods, programmer-musician, music-as-creature, timing obsession, constraint economy, chabudai gaeshi, Hamano-line atmosphere continuity — knowing those sources are themselves **vetted / enclosed** (see §8c).
+
+**Books corpus (local, facts-only) — what they do *not* give**
+
+| Source | Useful facts | Hamano | Internal disputes / credit lawfare |
+|--------|--------------|--------|-------------------------------------|
+| Sheff *Game Over* | R&D1/2/3 pods; lock-out; Sony **“sole worldwide licenser of the Super Disc format”** (~1988 deal; June 1991 CES) | **0** | Corporate conquest lens only — [notes](sheff-game-over-corpus-notes.md) |
+| Altice *I Am Error* | APU/2A03; FDS wave; Tanaka Metroid SFX; Yokoi T1 phrase; R&D1 vs R&D3 FDS/MMC | **0** | Platform studies — not staff politics — [notes](altice-i-am-error-corpus-notes.md) |
+| Kent / Ryan / Kohler class | Chronology / PR | Useless | Same American press-release layer as Sheff |
+
+**Book drought finding:** English books do **not** open Nintendo **internal** IP disputes, credit erasure, or R&D sound-staff oral history. No “Nintendo HR/IP war room” literature. Sheff/Altice = outside of the tollbooth and the silicon — still **Hamano-invisible**.
+
+**Contactability finding**
+
+| Person | Channel |
+|--------|---------|
+| **Hirokazu Tanaka** (left Nintendo) | [chiptanaka.com](https://www.chiptanaka.com/) · `chiptanaka.official@gmail.com` — **only** public personal bridge found |
+| Hamano, Yamamoto, Sakamoto, Kondo, Totaka | Still Nintendo — **no** public personal email or site |
+| Yokoi / Uemura | Deceased — interviews/archives only |
+
+### 8c. IP Great Depression — scarcity strategy (author frame)
+
+**Name:** Author calls the post-rupture information climate Nintendo’s **IP Great Depression**: a **scarcity strategy** that keeps craft, credit, and process truth rare — analogous to how Depression-era power used scarcity and narrative control, not a claim of identical institutions.
+
+**How scarcity is enforced (documented patterns, not a single memo)**
+
+- License / developer **NDAs** and “confidential information” clauses (tools, specs, emulators) — public SEC-style licensee agreements show the template.
+- **Outward** leak enforcement (e.g. trade-secret / pre-release cases such as TPC strategy-guide leak litigation; accessory pre-reveal suits) — punish distributors of secrets, not publish R&D diaries.
+- **No** process bibles; **no** contactable living R&D1 sound staff except exit-bridge Tanaka.
+- Hardware truth locked in **partner silicon + IP** (Ricoh/Sony/etc.) — “Nintendo made the hardware / fiercely independent of other companies’ hardware” is **whitewash**; CD Super Disc licenser term is the proof of bondage.
+
+**Epistemic consequence**
+
+| Claim type | Realistic outside proof |
+|------------|-------------------------|
+| Credit lines, streaming vs booklet, Club Nintendo splits | **Documentary** (still products of the system) |
+| Audio style continuity (Mine Menace → TF four) | **Observational / forensic** |
+| Super Disc licensing term; APU channel inventory | **Published / technical record** |
+| *Deliberate* coordinated credit crime + cover | **Pattern + analogy** — smoking-gun intent memo **unlikely** from outside |
+| “Independence / we built the chips” myth | **Falsifiable** via partner fab history + 1988–91 CD contract |
+
+**Author position:** If the Depression thesis is right, the whitewash is **intimate and extensive** — even “documented” industry history is contaminated genre. Investigation still proceeds by **layering** contaminated sources against each other (credits vs ear vs rupture timeline vs silicon enclosure), not by waiting for Kyoto to confess.
 
 ---
 
@@ -313,7 +424,15 @@ See reader article §“The loop that sounds like Genie.”
 7. **David Wise** = stakeholder/actor credit front for Kyoto pipeline on Returns/Freeze; SNES-era Wise canon = same system.  
 8. **Mine Menace** loop tail may mirror *Aladdin* “Friend Like Me”; four TF Wise-credited variations + Genie streaming displacement = **hidden significance** (Robin Williams erasure era) — **gut feeling only**.  
 9. **Returns safe / Freeze threat:** Hamano composer billing on sequel originals would crack Wise-return and Yamamoto-supervisor narratives — demotion to recording was structural fix.  
-10. **Mine Menace** likely warrants Hamano in the authorship room; Yamamoto streaming tag ≠ full story.
+10. **Mine Menace** likely warrants Hamano in the authorship room; Yamamoto streaming tag ≠ full story.  
+11. Hamano-style credit theft **not normal industry noise** — required **1988–1996 IP rupture** (Sony/Philips lawfare, CD-i without R&D, Square defection).  
+12. Hamano **humility** (general credits OK; fame = trouble) made erasure easier under rupture — not consent.  
+13. Media “Nintendo betrayed Sony first” = **inverted**; Nintendo wanted **IP retention**, partners wanted **IP extraction**.  
+14. **IP Great Depression / scarcity strategy** — deliberate drought of process/credit truth; outsiders limited to pattern + analogy for *intent*; courtroom smoking gun for conspiracy unlikely.  
+15. **Independence / “Nintendo made their hardware”** = whitewash; always partner-bound; **CD-ROM debacle** proves it.  
+16. English **books** (Sheff, Altice, popular histories) do not open internal credit/IP disputes or name Hamano — expected under scarcity, not accidental omission.  
+17. Contemporary Nintendo credit policy (**Sound Team** umbrella, Music app no names, *Returns HD* staff omission) continues the same erasure class as Hamano’s generalized billing — **documented**, not analogy-only.  
+18. Wise’s public “clarification” (Yamamoto wrote Returns rocket; honor internal Wii team incl. Hamano) = **whitewash ending**: Wise first owns the poster, then narrates credit to Yamamoto; Hamano remains **support staff**, never named core composer of that cue.
 
 **Label:** **Speculative / investigative** until §8 targets produce primary evidence.
 
@@ -333,6 +452,8 @@ See reader article §“The loop that sounds like Genie.”
 | Q8 | Harmonic/melodic overlap: Mine Menace loop tail vs “Friend Like Me” (spectrogram / ear panel)? | Medium |
 | Q9 | Any dev interview or liner note on *Aladdin* reference in Returns rocket theme? | Low |
 | Q10 | Robin Williams Aladdin track availability by region/date vs 2019 remake promotion? | Low (speculative thread) |
+| Q11 | Any English/JP book that documents internal Nintendo credit or sound-staff IP disputes (not conquest PR)? | High (current answer: **none found**) |
+| Q12 | Any public personal contact for Hamano / Yamamoto / Sakamoto beyond corporate channels? | High (current answer: **none**; Tanaka only exit-bridge) |
 
 ---
 
@@ -341,6 +462,10 @@ See reader article §“The loop that sounds like Genie.”
 - [ ] Fix upstream stub [minako-hamano.md](../minako-hamano.md): join year **1991** (not 1993); remove erroneous SNES *DKC* Hamano credit.
 - [ ] Cross-link [nobuo-uematsu.md](../nobuo-uematsu.md) with negative-evidence baseline from session.
 - [ ] Add REDACTION.md R1–R6 tags where dossier cites omission / shell narrative (Mario RPG friendship mask = **R6** candidate).
+- [x] Sheff + Altice local corpus, facts-only notes, Hamano null, Super Disc term, APU/Tanaka Metroid.
+- [x] Contactability survey: Tanaka only; no Hamano/Yamamoto/Sakamoto public email.
+- [x] Book drought + IP Great Depression / independence-myth framing (§8c).
+- [ ] Tanaka outreach draft (craft traditions only — not credit accusations).
 - [ ] Session transcript: `/home/ari/.cursor/projects/home-ari-dev-pt/agent-transcripts/12117906-f4fe-46c2-889e-40975d0bbffe/`
 
 ---
@@ -349,7 +474,11 @@ See reader article §“The loop that sounds like Genie.”
 
 | File | Role |
 |------|------|
-| [minako-hamano.md](../minako-hamano.md) | Short hub / angles (stub — link here for full dossier) |
+| [minako-hamano.md](../minako-hamano.md) | Short hub / angles |
+| [minako-hamano-and-the-whitewash.md](../minako-hamano-and-the-whitewash.md) | Reader article — Mine Menace / Wise / Genie speculation |
+| [nintendo-rd-traditions-reverse-engineering.md](nintendo-rd-traditions-reverse-engineering.md) | **Traditions codebook T1–T12** + book drought + contacts + Depression pointer |
+| [sheff-game-over-corpus-notes.md](sheff-game-over-corpus-notes.md) | Sheff *Game Over* **facts-only** sheet; Sony Super Disc term; **Hamano absent** |
+| [altice-i-am-error-corpus-notes.md](altice-i-am-error-corpus-notes.md) | Altice *I Am Error* **facts-only**; APU/FDS/Tanaka Metroid; **Hamano absent** |
 | [nintendo-sony-breakup.md](../nintendo-sony-breakup.md) | Sony/Philips/Square/Mario RPG narrative |
 | [rare-nintendo-rd.md](../rare-nintendo-rd.md) | Rare credits / Wise angle |
 | [dave-wise.md](../dave-wise.md) | Industry-record Wise angle (author treats as same whitewash system) |
@@ -359,22 +488,23 @@ See reader article §“The loop that sounds like Genie.”
 
 ---
 
-Keywords: #MinakoHamano #NintendoRD1 #CreditErasure #SuperMetroid #PlatformRupture #PhilipsCDi #SuperMarioRPG #StolenCredit
+Keywords: #MinakoHamano #NintendoRD1 #CreditErasure #SuperMetroid #PlatformRupture #PhilipsCDi #SuperMarioRPG #StolenCredit #IPGreatDepression
 
-*Last updated: 2026-09-01*
+*Last updated: 2026-09-03*
 
 ## Limits and disclaimers
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-- **Author thesis sections** (§1, §9, §10) are first-class for Paradigm Threat framing; they are **not** automatically factual.
-- **Documented** rows in §6 rely on cited industry sources (VGMdb, MobyGames, Digital Antiquarian, Kotaku, interviews, Kyoto Report class material).
+- **Author thesis sections** (§1, §9, §10, §8c) are first-class for Paradigm Threat framing; they are **not** automatically factual.
+- **Documented** rows in §6 rely on cited industry sources (VGMdb, MobyGames, Digital Antiquarian, Kotaku, interviews, Kyoto Report class material) — author also holds that this **genre** is whitewashed; tags mark *what the paper says*, not innocence.
 - **Ear comparisons** and **quality judgments** (*Prime 4*, CD-i) are subjective unless backed by primary attribution docs.
 - Cross-links to other stolen-credit files are thematic; each file maintains its own evidence standard.
-- This dossier does **not** allege a single proven conspiracy; it maps **incentive, precedent, and open forensic targets** for Hamano-centered research.
+- This dossier does **not** claim a courtroom-ready conspiracy proof; under the **IP Great Depression** frame, intent is shown by **pattern + analogy**, while credits/audio/timeline remain the workable receipts.
 
 ## Investigator notes
 
 - Cursor session synthesis: 2026-09-01 — Mine Menace credit hop, Wise stakeholder thesis, style continuity, Friend Like Me ear-thread, Robin Williams displacement speculation, author sentiment consolidated.
+- Cursor session: 2026-09-04 — Nintendo Sound Team umbrella; Music app no composer credits; *DKC Returns HD* Retro staff omission; brief DBZ Kenji Yamamoto disambiguation (健司 ≠ 健誌); Wise “clarification” read as whitewash (Yamamoto named, Hamano support-only).
 - Agent transcript JSONL: `12117906-f4fe-46c2-889e-40975d0bbffe` under `.cursor/projects/home-ari-dev-pt/agent-transcripts/`.
 - Wikipedia / Digital Antiquarian / VGMO used for chronology; prefer Japanese primary sources for proof phase.

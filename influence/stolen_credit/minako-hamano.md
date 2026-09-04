@@ -1,8 +1,10 @@
 # Minako Hamano — Investigation
 
-> **TL;DR:** Minako Hamano (R&D1, from **1991**) co-authored *Super Metroid*'s most iconic tracks and anchors a wider probe into **Nintendo craft vs. platform rupture** (Sony/Philips 1988–1996, credit erasure, 2D→3D cutoff). **Load-bearing case:** [Mine Menace → Tropical Freeze credit hop](minako-hamano-and-the-whitewash.md). **Full dossier:** [investigations/minako-hamano-investigation.md](investigations/minako-hamano-investigation.md). **Reader article:** [minako-hamano-and-the-whitewash.md](minako-hamano-and-the-whitewash.md).
+> **TL;DR:** Minako Hamano (R&D1, from **1991**) co-authored *Super Metroid*'s most iconic tracks and anchors a wider probe into **Nintendo craft vs. platform rupture** (Sony/Philips 1988–1996, credit erasure, 2D→3D cutoff). **Load-bearing case:** [Mine Menace → Tropical Freeze credit hop](minako-hamano-and-the-whitewash.md). **Traditions + book drought + contacts:** [investigations/nintendo-rd-traditions-reverse-engineering.md](investigations/nintendo-rd-traditions-reverse-engineering.md). **IP Great Depression / scarcity:** [investigations/minako-hamano-investigation.md](investigations/minako-hamano-investigation.md) §8c. **Full dossier:** [investigations/minako-hamano-investigation.md](investigations/minako-hamano-investigation.md).
 
 **Status:** Investigating. Hypothesis: She may be the primary creative force behind much of the music she's credited on; credit may have been stolen by collaborators or institutional bias. When she is properly involved, quality is high; when she is sidelined or credited without actually composing, the result is amateurish.
+
+**Corpus limits (2026-09-03):** Sheff + Altice local — **Hamano absent**. No English book found on internal credit/IP disputes. **Only** public personal contact for R&D-line sound: Tanaka (`chiptanaka.official@gmail.com`). Hamano/Yamamoto/Sakamoto — no public email.
 
 ---
 
@@ -48,6 +50,12 @@
 - Rare (British) developed Nintendo IP; Dave Wise (British) gets primary credit on DKC.
 - Hamano worked on DKC — her role vs. Wise/Beanland?
 - **Action:** Trace credit in Nintendo-published materials; Japanese vs. Western bylines.
+
+### 3b. Nintendo’s own credit controversies (documented)
+- **“Nintendo Sound Team”** umbrella buries individual composers in marketing ([example discussion](https://x.com/SebastianWolff/status/2088839426868924627)).
+- **Nintendo Music app** shipped without individual composer credits — industry backlash.
+- ***DKC Returns HD*** omitted Retro Studios developers from credits ([Game Developer](https://www.gamedeveloper.com/business/original-donkey-kong-country-returns-devs-omitted-from-hd-remaster-s-credits)).
+- **Not** the 2011 Toei/DBZ Kenji Yamamoto plagiarism case — different person (山本健司 ≠ Nintendo 山本健誌). See dossier §5.6–§5.6b.
 
 ### 4. Super Metroid Voice Work Incident
 - Hamano was to provide voice for Samus in Game Over; Yamamoto removed it as "too sexual."
@@ -97,10 +105,11 @@
 
 - Which specific tracks did Hamano compose vs. Yamamoto/Fujiwara?
 - Link's Awakening — full credit breakdown?
-- Has she spoken publicly about credit or collaboration?
+- Has she spoken publicly about credit or collaboration? (**No public personal email found**; Tanaka is only exit-bridge contact.)
 - Tropical Freeze: Why Hamano **music → music recording**? Why Wise on stream for Mine Menace arrangements Yamamoto owns on Returns?
 - Mine Menace: Hamano in the room? Friend Like Me ear-similarity — see dossier §5.8 and whitewash article.
 - Metroid Prime 4: Did Hamano contribute any tracks? If credited but not composing, who was?
+- Any book that opens internal Nintendo credit/IP disputes? (**None found** — see dossier §8b–§8c **IP Great Depression**.)
 
 ---
 
@@ -113,8 +122,9 @@
 - [VGMPF: Minako Hamano](https://www.vgmpf.com/Wiki/index.php?title=Minako_Hamano)
 - [Super Mario Wiki: Minako Hamano](https://www.mariowiki.com/Minako_Hamano)
 - [RAWG: Minako Hamano](https://rawg.io/creators/minako-hamano)
+- Local corpora: `~/dev/wget/sheff/`, `~/dev/wget/altice/` — facts-only notes under `investigations/`
 
 ---
 
-Keywords: #Minako #Hamano
+Keywords: #Minako #Hamano #IPGreatDepression
 

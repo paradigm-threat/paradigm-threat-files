@@ -30,6 +30,14 @@ None of that is visible on a normal listen.
 
 Open Apple Music, Spotify, or YouTube Music and the track listing **simply credits David Wise**. It does not say *arrangement*. It does not say *of Kenji Yamamoto’s Mine Menace from Returns*. It does not name Hamano. It does not explain that the “return of David Wise” marketing campaign is largely riding on **rearrangements of a Returns theme Wise did not write and was not present for**. A listener has to leave the player and go dig up wiki footnotes, fan credit tables, or Wise’s social posts to learn that his role on those cues was **remix duty on Kyoto’s prior work**, not fresh composition.
 
+## The clarification that still erases her
+
+Industry-friendly tellings praise Wise for posting to **clarify** authorship: Yamamoto wrote the Returns rocket-barrel theme; the core internal Wii team (including Hamano) deserves honor. That sounds like fairness. Author read: it is how the whitewash **ends**.
+
+First the surface gives **Dave** the Tropical Freeze line and the “legend returns” poster. Then Dave — still the **narrator** — hands the Returns original to **Kenji**. Hamano appears only inside the **team** being thanked, never as the **named composer** of Mine Menace. Composition nouns go to Wise or Yamamoto. Hamano gets the support noun. Same ceiling every time: Sound Team–class billing with better PR.
+
+His 2018 post is useful **metadata** (arrangement vs composition on TF). It is not a confession that restores her. It locks a **Wise ↔ Yamamoto binary** and leaves her where “Nintendo Sound Team” always leaves people — present, unnamed as author.
+
 That is a slippery system by design. The **surface** credit supports the press narrative: *legendary DKC composer returns*. The **fine print** — buried outside the product — admits he only rearranged four variations of a theme Yamamoto already owns on the Returns album. Somebody would literally have to go dig up the interviews to learn he only rearranged those songs and did not compose them. That is a very slippery way to ensure the **“return of Dave Wise.”** Returns itself already hid the same theme behind Yamamoto on streaming while Hamano was **music** on the same project. Tropical Freeze then puts Wise’s name on the sequel arrangements **without** printing “arrangement of Returns” on the label the public actually reads.
 
 So the provable misattribution is not only *who* gets the name. It is **what the name is allowed to mean**. Composer on the stream. Arranger in the footnote. Stakeholder in the marketing photo. Same song family, three different stories depending how deep you are willing to dig.
@@ -122,15 +130,21 @@ I believe Mine Menace should be examined with Hamano in the room, not assumed aw
 
 ## The bigger Nintendo arc this sits inside
 
-Hamano is one composer. The surround is the case.
+Hamano is one composer. The surround is the case — and **this kind of theft was not normal**.
 
-From 1988, Nintendo’s CD-ROM deals with Sony and then Philips were never “just hardware.” They were fights over **who collected software royalties** — the foundation of Yamauchi’s business. When those deals collapsed, Nintendo licensed Mario and Zelda to Philips for CD-i games **without sending R&D with the characters**. Hotel Mario and the CD-i Zelda trilogy are what Nintendo properties look like when Kyoto craft does not come along: recognizable silhouettes, alien soul. That is the same separation I am describing in music credits, just visible enough that everyone laughs at the cutscenes.
+What happened to her is not the everyday sloppiness of game credits. It could **only** have occurred under the umbrella of the ridiculous situation Nintendo was put in when **Philips and Sony** — and eventually **Square** — treated Kyoto’s property as something to **take**, not something to **share fairly**. Routine under-crediting happens everywhere. **Strategic erasure of R&D1 craft authorship while IP is in flight** is a different crime, and it tracks the platform rupture year for year.
 
-Super Mario RPG was Square and Nintendo smiling for the camera while FF7 moved to PlayStation. The SNES CD platform died in 1993 when Nintendo pivoted to the N64. Secret of Mana and Chrono Trigger were designed for CD and cut down to cartridge. The incremental path — SNES plus CD plus coprocessor cartridges, the path Donkey Kong Country already proved with pre-rendered 3D on stock hardware — was abandoned for a hard reset into early polygon 3D. Two-dimensional craft did not die because it stopped working. It died because the industry chose a break.
+The media loves to say **Nintendo betrayed Sony first**. That is ridiculous. Nintendo wanted to **retain its IP** and its royalty model. Sony and Philips wanted **format control and licensing power** — which meant taking IP away from Kyoto’s toll booth. Same fight, inverted headline.
+
+If you were alive for the **CD-i** era, you already know the visual proof. *Hotel Mario*. The CD-i *Zelda* games. Nintendo’s icons handed to another company **without R&D**, producing the shallowest, worst, most embarrassing version of the concept imaginable — barely games, really **interactive CD-ROM media** with Mario and Link silhouettes pasted on. Look it up if you need the cutscenes burned back into memory. That is what **IP ripped away** looks like when inventors are not in the room. Music credits are the same separation, just not funny enough for YouTube.
+
+When **Final Fantasy** could literally be ripped away from Nintendo’s orbit — Square to PlayStation, announced January 1996 while *Super Mario RPG* smiled for the camera — it is not surprising that **Nintendo R&D credits** that never hardened into published track lines would be ripped away too. Composer authorship on products tied to contested IP becomes a **legal liability** under **IP lawfare**. General “music team” lines protect the company. Humble craft people who never demanded per-track billing — **Hamano reads that way to me**; fame gets you in trouble in Japanese studio culture — become easier to erase when the corporation is fighting for its life.
+
+From 1988, Nintendo’s CD-ROM deals were never “just hardware.” They were fights over **who collected software royalties**. When those deals collapsed, Nintendo licensed Mario and Zelda to Philips for CD-i **without sending R&D with the characters**. Super Mario RPG was Square and Nintendo smiling while FF7 moved to PlayStation. The SNES CD platform died in 1993 when Nintendo pivoted to the N64. Secret of Mana and Chrono Trigger were designed for CD and cut down to cartridge. The incremental path — SNES plus CD plus coprocessor cartridges, the path Donkey Kong Country already proved — was abandoned for a hard reset into early polygon 3D. Two-dimensional craft did not die because it stopped working. It died because the industry chose a break **while IP was being extracted**.
 
 Credit erasure fits that break. Rare hid credits on Battletoads to stop poaching. Nintendo later shipped apps without composer names. Super Metroid’s album split Hamano and Yamamoto fifty-fifty while fans remember only him. Returns and Tropical Freeze split Hamano from composer to recording while Wise’s name grows on arrangements of themes he did not originate on Returns.
 
-None of that proves Hamano ghostwrote Final Fantasy VII. I do not claim that here. It proves the **incentive structure** for miscredit was already in place before anyone asked whether a specific tune was stolen.
+None of that proves Hamano ghostwrote Final Fantasy VII. I do not claim that here. It proves the **incentive structure for real theft** — not accident — was already in place before anyone asked whether a specific tune was stolen.
 
 ## What you can verify tonight
 
@@ -146,7 +160,7 @@ Everything above is one argument. This section states it once, flat, so nothing 
 
 **Credits are not truth.** They are press releases. The name on Spotify is whoever survived the contract, owned the IP, or fit the marketing photo — not necessarily whoever wrote the tune in Kyoto.
 
-**Hamano is the person; the platform rupture is the crime scene.** She joined R&D1 in **1991**, the same year the Sony CD war went public. She co-wrote Super Metroid’s spine while fans still say she is “overshadowed” and “often credited only to Kenji Yamamoto.” Without the **1988–1996** surround — Sony royalties, Philips, SNES CD death, CD-i without R&D, Mario RPG farewell theater, the 2D→3D hard reset — you cannot explain why her name keeps moving from authorship to infrastructure while men with supervisor titles absorb the themes she may have been in the room for.
+**Hamano is the person; the platform rupture is the crime scene.** She joined R&D1 in **1991**, the same year the Sony CD war went public. She co-wrote Super Metroid’s spine while fans still say she is “overshadowed” and “often credited only to Kenji Yamamoto.” **This was not normal industry credit sloppiness** — it required the **1988–1996 rupture**: Sony and Philips trying to **take IP**, not Nintendo “betraying Sony first”; CD-i handing Mario and Zelda to outsiders without R&D (you remember those “games”); Square ripping **Final Fantasy** to PlayStation while Mario RPG played nice. Under that **IP lawfare**, composer credits on contested products became liabilities — and a **humble** craft person who accepted general billing without demanding track-level fame was **easier to erase**. Fame gets you in trouble. She may never have gotten every name she deserved; she was willing to settle for **music team** without specifying tracks. That humility is not consent.
 
 **David Wise is not the author.** He is the **British IP holder** — stakeholder, actor, Western face. Not a composer, not a programmer, not a musician in the sense that word means for the people who built this music. His hex-and-assembly interviews are **whitewash** — cover story complete enough that journalists treat them as biography. They are not counter-evidence against this investigation; they are **part of the product**. On Returns he was **not on the project**. On Tropical Freeze he was **brought in at the end** for QA at most while his name owned the poster. The SNES golden-age credit on paper is the **same system** extended backward.
 
@@ -154,7 +168,7 @@ Everything above is one argument. This section states it once, flat, so nothing 
 
 **Tropical Freeze was when the name on the box had to change.** Hamano dropped from **music** to **music recording**. Wise became the **Music** credit and the entire press narrative. Live instruments sounded unlike the clockwork SNES myth — sloppier timing, session-musician sheen, a skill set that does not match the legend the interviews sell.
 
-**The provable fraud on Mine Menace is layered.** Yamamoto on Returns. Four TF arrangements — **Rodent Ruckus**, **Twilight Terror**, **Reckless Ride**, **Blurry Flurry** — credited **Wise** on streaming with no “arrangement” label. Wiki footnotes and his 2018 post admit remix duty only if you dig. **Same style, timing, and attack** across all five tracks — so the simple read is one Kyoto author, not Wise the mimicry genius the whitewash needs.
+- **Provable fraud on Mine Menace is layered.** Yamamoto on Returns. Four TF arrangements credited Wise on streaming with no “arrangement.” Wiki / 2018 post admit remix only if you dig. **Wise “clarification”** (Yamamoto wrote rocket theme; honor internal Wii team incl. Hamano) = author whitewash ending: Wise narrates; Yamamoto gets the composition noun; Hamano stays **support/team**, never named core author of that cue. **Same style** across all five tracks — Occam: one Kyoto hand, not Wise the mimic.
 
 **The loop tail feels like Genie.** Toward the end of Mine Menace, the music turns in a way that reads like **“Friend Like Me”** from *Aladdin* — not a genre overlap, a **cover-like** turn these composers do not typically write. Others heard it ([Patreon, 2017](https://kemono.cr/patreon/user/331733/post/15833388)). Then four sequel variations get credited to Wise. I hold open — **speculation only** — that this sits in the same cultural weather as **Robin Williams displacement**: classic Genie songs hard to find on streaming, search paths favoring Will Smith’s 2019 remake, a generation taught to forget Williams as the Genie or meet him second.
 
@@ -162,11 +176,16 @@ Everything above is one argument. This section states it once, flat, so nothing 
 
 **What I am not claiming here:** Hamano ghostwrote Final Fantasy VII.
 
-**What I am claiming:** The incentive structure for miscredit was already in place before anyone asked whether a specific tune was stolen — and Donkey Kong Country Returns → Tropical Freeze is the cleanest recent proof you can queue up tonight.
+**What I am claiming:** The incentive structure for **real theft** — not accident — was already in place before anyone asked whether a specific tune was stolen. Hamano-scale erasure could **only** happen under the rupture umbrella. Donkey Kong Country Returns → Tropical Freeze is the cleanest recent proof you can queue up tonight.
+
+**What books and contacts cannot give you:** Sheff and Altice (local corpora) name **zero** Hamano; English industry books do not open internal credit/IP disputes. Living R&D sound staff still at Nintendo have **no** public personal email — Tanaka (`chiptanaka.official@gmail.com`) is the only exit-bridge found. Author names this climate the **IP Great Depression**: a scarcity strategy. Courtroom smoking guns for *intent* are not the available game; pattern, credits, ear, and rupture timeline are. “Nintendo made their hardware / was fiercely independent of other companies’ hardware” is whitewash — the CD Super Disc licenser deal proves bondage. Full frame: [dossier §8b–§8c](investigations/minako-hamano-investigation.md).
 
 ## Where next
 
-- [Minako Hamano — full investigation dossier](https://paradigmthreat.net/influence/stolen_credit/investigations/minako-hamano-investigation.md) — timeline, rupture chronology, falsifiers, evidence targets  
+- [Minako Hamano — full investigation dossier](https://paradigmthreat.net/influence/stolen_credit/investigations/minako-hamano-investigation.md) — timeline, rupture chronology, falsifiers, evidence targets, **IP Great Depression**  
+- [Nintendo R&D traditions reverse-engineering](https://paradigmthreat.net/influence/stolen_credit/investigations/nintendo-rd-traditions-reverse-engineering.md) — codebook T1–T12, book drought, contacts  
+- [Sheff *Game Over* facts-only notes](https://paradigmthreat.net/influence/stolen_credit/investigations/sheff-game-over-corpus-notes.md) — Super Disc term; Hamano absent  
+- [Altice *I Am Error* facts-only notes](https://paradigmthreat.net/influence/stolen_credit/investigations/altice-i-am-error-corpus-notes.md) — APU/Tanaka Metroid; Hamano absent  
 - [Minako Hamano hub notes](https://paradigmthreat.net/influence/stolen_credit/minako-hamano.md) — track attribution, community quotes, open questions  
 - [Nintendo–Sony breakup and Mario RPG timing](https://paradigmthreat.net/influence/stolen_credit/nintendo-sony-breakup.md) — platform control war context  
 - [Rare credits and missing-credit policy](https://paradigmthreat.net/influence/stolen_credit/rare-nintendo-rd.md) — suppression and hidden staff lists  
@@ -178,7 +197,7 @@ This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRIS
 
 **Documented in the body:** Mine Menace (Returns, Yamamoto on streaming) → four Tropical Freeze arrangements (Rodent Ruckus, Twilight Terror, Reckless Ride, Blurry Flurry); streaming apps credit Wise without “arrangement”; arrangement role buried in wiki/2018 post; stylistic continuity across original and four remixes as forensic giveaway; **Friend Like Me** ear-similarity noted by author and at least one independent listener (Patreon 2017); Hamano composer lines on Returns Club Nintendo tracks 3 and 8; Hamano music vs music recording on Tropical Freeze; Wise absent from Returns as composer.
 
-**Author thesis (this article):** David Wise is a stakeholder/actor front, not the musician or programmer who built the music; his interviews are whitewash; Hamano wrote key Returns originals and was demoted on Tropical Freeze while Wise was brought in for the credit line; Mine Menace may be Hamano’s work while Yamamoto holds the tag; Returns safe / Freeze threat; SNES-era Wise canon = same credit system; “return of Dave Wise” = slippery marketing on Kyoto rearrangements.
+**Author thesis (this article):** David Wise is a stakeholder/actor front, not the musician or programmer who built the music; his interviews are whitewash; Hamano wrote key Returns originals and was demoted on Tropical Freeze while Wise was brought in for the credit line; Mine Menace may be Hamano’s work while Yamamoto holds the tag; Returns safe / Freeze threat; SNES-era Wise canon = same credit system; “return of Dave Wise” = slippery marketing on Kyoto rearrangements; Wise’s social “clarification” (credit to Yamamoto + honor internal team) still leaves Hamano as **support**, never named core composer of the rocket cue; **IP Great Depression** scarcity explains why books/contacts fail and why intent proof stays pattern-level.
 
 **Open speculation (this article):** Mine Menace loop tail may quote or mirror *Aladdin*’s “Friend Like Me”; hidden significance tying Genie displacement, Robin Williams cultural erasure, and streaming search-path replacement (Will Smith 2019) to the same era as the credit hop — **not proven**.
 
@@ -190,9 +209,9 @@ This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRIS
 
 The careful version with tier labels and ROM forensics targets lives in the [investigation dossier](https://paradigmthreat.net/influence/stolen_credit/investigations/minako-hamano-investigation.md).
 
-Keywords: #MinakoHamano #DavidWise #CreditErasure #DonkeyKongCountry #VideoGameMusic #StolenCredit #Nintendo
+Keywords: #MinakoHamano #DavidWise #CreditErasure #DonkeyKongCountry #VideoGameMusic #StolenCredit #Nintendo #IPGreatDepression
 
-**Last updated:** 2026-09-01
+**Last updated:** 2026-09-03
 
 ---
 
