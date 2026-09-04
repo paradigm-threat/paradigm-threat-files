@@ -8,7 +8,7 @@ My confrontation with Jacob Chansley, the Q-Anon Shaman
 
 **Watch:** [My confrontation with Jacob Chansley — June 24, 2020 Scottsdale](https://www.youtube.com/shorts/QlU5Xq3mmfU) (YouTube Short). The roll shows Chansley staged beside McCarthy signs, mask protesters, and Flat Earth — and FOX 10 turning the camera away before he finished.
 
-> **TL;DR:** Q-Anon welds real Q clearance authority to chan-culture drip so political distrust dies as cartoon loyalty. On June 24, 2020 at Scottsdale’s “Unmask Us” rally I did not just interrupt a FOX 10 shot of Jacob Chansley — I foiled an attempt to weld Q-Anon onto Daniel McCarthy’s mask protest. Same plaza, same morning as the Flat Earth billboard in Part I. Presence taints. Horns bury the exit.
+> **TL;DR:** Q-Anon welds real Q clearance authority to chan-culture drip so political distrust dies as cartoon loyalty. On June 24, 2020 at Scottsdale’s “Unmask Us” rally I interrupted a FOX 10 shot of Jacob Chansley and spoiled an attempt to weld Q-Anon onto a MAGA anti-mask protest. Same plaza, same morning as the Flat Earth billboard in Part I. Horns and Flat Earth in that frame make ordinary MAGA protesters look illegitimate.
 
 ## Q clearance — what the letter actually guards
 
