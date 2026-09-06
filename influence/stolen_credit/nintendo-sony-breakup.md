@@ -72,9 +72,11 @@ Ken Kutaragi convinced Sony to build their own console. CD-ROM, strong developer
 
 ## 8. Square's Defection and Final Fantasy VII
 
-**Why Square Left Nintendo:** N64 cartridges 8–64 MB vs. CD ~650 MB. Square's cinematic vision for FF7 required far more storage for CGI cutscenes, voice clips, large world assets.
+**Why Square Left Nintendo:** N64 cartridges 8–64 MB vs. CD ~650 MB. Square's cinematic vision for FF7 required far more storage for CGI cutscenes, voice clips, large world assets. Kitase and Sakaguchi later framed the choice as **cartridge vs CD capacity and price**, not a preference for Sony hardware as such ([shmuplations 1997 interviews](https://shmuplations.com/ff7/); [Edge making-of archive](https://web.archive.org/web/20090608163157/https:/www.edge-online.com/magazine/the-making-of-final-fantasy-vii)).
 
 **Move to PlayStation:** Square moved FF7 to Sony's platform — a massive strategic win for Sony.
+
+**Precision (SNES-CD vs FF7):** The cancelled **1991 Nintendo–Sony SNES CD / “Play Station” add-on** is a real rupture in the industry timeline, and ***Secret of Mana*** is the clearer documented SNES-CD-scope casualty ([Unseen64 Square vs Nintendo](https://www.unseen64.net/2008/09/06/square-vs-nintendo-eng/)). ***Final Fantasy VII*** itself is **not** documented as a finished Nintendo-CD build that Sony then stole. Planning after *FFVI* (~1994) ran through a brief **SNES 2D** concept, SIGGRAPH ’95 CG ambition, then a **next-gen** decision where **N64 carts (and 64DD) could not hold** the FMV + pre-rendered field plan — so PlayStation CD won. Author / older-repo shorthand “designed for Nintendo’s never-released CD” remains useful as **era + capacity politics**; treat literal “SNES add-on *was* FF7” as **overspecific** unless a primary build ledger appears. Full story-sabotage lane: [AU-055](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) §3.
 
 **Marketing:** Sony treated FF7 as system seller. Development ~$40–45M; marketing ~$20–100M. Total investment possible $80M–$145M. Sold ~10 million copies; helped cement PlayStation dominance.
 
@@ -106,8 +108,10 @@ Late-1990s Toonami (Cartoon Network) included game review segments. Creators: Ja
 
 ## Connection to Stolen Credit Thesis
 
+- **Story-sabotage companion:** [*FFVII* Nintendo rip / Jenova–Zack investigation (**AU-055**)](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) — Midgar spine, President Shinra stab ambiguity, Zack late insert, book-rumor hunt; precision note on SNES-CD vs N64→PS capacity exit.
+- **Mother 3 / EB64 companion:** [*Mother 3* Magypsy rupture (**AU-056**)](investigations/mother-3-earthbound-64-magypsy-rupture-investigation.md) — Itoi **SNES CD vision** documented then killed in this war; author lock: franchise **inescapably** hit by Sony/Philips IP-theft climate; N64 cancel; GBA Japan-only; Hamano credit-omission parallel.
 - **Platform containment lane:** [The Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md) §II — Nintendo CD-ROM policy, 3D/2D genre freeze, GPU treadmill; dossier §9.
-- **FF7 design origin:** FF7 was conceived for the Nintendo CD ecosystem (SNES add-on / Play Station) that never released. The game's scope and tech requirements match that planned platform.
+- **FF7 design origin:** Conceived in the **Nintendo-partner Square era**, then finished after the **N64-cart vs PS-CD** exit. Scope/tech match a **high-capacity disc** ambition Nintendo refused to host — not a verified SNES-CD *FFVII* ROM. **See AU-055 §3** and §8 precision note above. **Author cross-read with AU-056:** Mother named SNES CD and **stayed**; Square took CD ambition to Sony — two forks of the **same** Super Disc / Philips war.
 - **Super Mario RPG as signal:** The 1996 joint project — warm, tradition-heavy, "best of both worlds" — arrived as Square was preparing its PlayStation defection. Read as either sincere last gesture or calculated reassurance; either way, a painful artifact of the divorce.
 - **Sprite/engine schism:** Square refused to back-port to Nintendo engine; upgraded battle system in extra year; world vs. battle sprites never unified.
 - **Post-defection decline:** Square lost Nintendo partnership; FF8/9 showed they couldn't replicate FF7-level ambition.

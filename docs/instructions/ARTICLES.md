@@ -82,6 +82,7 @@ Articles are written so they can be **republished or read off-site** without sou
 - **No thesis archaeology:** **Do not** narrate **retired assumptions**, “**I used to think**,” “**earlier read**,” or “**symmetry correction**” in reader essays. **State the current architecture** as it stands. Pole routing, Martian pedagogy, and similar **engineering forks** may stay **open** without hedging the **core gate**.
 - **Neutral ≠ timid:** **Hard thesis** and **manifesto** cadence stay **first class**; **caution** is **not** a substitute for **clarity**. **Operational reads** are **clinical and convinced**, not **tentative**.
 - **Magic (lexical rule):** When articles cite historical or scholarly *magic*, link or gloss per [**magic as operator technology**](https://paradigmthreat.net/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — *magic* = demonstrable operator tech misfiled as supernatural; quote sources verbatim, argue in **operator protocol** voice.
+- **Vacuum inverse (franchise gaps):** When articles treat long product silence, managed “returns,” or sabotaged revivals, name **[vacuum inverse](https://paradigmthreat.net/docs/VACUUM_INVERSE.md)** once — vacuum felt loudest by handlers in pre-viral groups; fans already adapted; revival is **shaped ignition**, not proof of forgotten demand. Load-bearing example: *DKC* → *Returns* (shake-roll / no Classic Controller) → long wait for HD → silence after *Tropical Freeze*.
 
 ### Theory-led pacing (default for parent-folder articles)
 

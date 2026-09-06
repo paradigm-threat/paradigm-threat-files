@@ -112,6 +112,7 @@ Localization caveat: **Darill / Daryl** spellings vary; **canon names** should b
 
 | File | Relation |
 |------|----------|
+| [*FFVII* Nintendo rip / Jenova–Zack story sabotage (**AU-055**)](/influence/stolen_credit/investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Development-cycle companion: Midgar handoff, Sephiroth identity fracture, Zack late insert, post-VII craft collapse |
 | [Prester John / Rus–Horde](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) | Mythic **Eastern empire** substrate |
 | [MFEE / mud flood](/history/mudflood/investigations/mfee-investigation.md) | Catastrophe / burial grammar |
 | [Tartarian maps](/history/mudflood/investigations/tartarian-maps-investigation.md) | Geography **discontinuity** discourse |

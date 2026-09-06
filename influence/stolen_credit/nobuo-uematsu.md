@@ -69,24 +69,31 @@
 
 ### FF7 / FF8 / FF9 — Leftover Music & Reuse Accusations
 
-**Square left Nintendo:** February 1996. FF7 was planned for N64; switched to PlayStation over cartridge limits. Nintendo told Square to "never come back." FF7 (1997), FF8 (1999), FF9 (2000) are all **post-Nintendo**.
+**Square left Nintendo:** February 1996. FF7 was evaluated for **N64** then switched to PlayStation over **cartridge / capacity limits**. Nintendo told Square to "never come back." FF7 (1997), FF8 (1999), FF9 (2000) are all **post-Nintendo-platform**.
 
-**User note:** FF7 was largely designed by Nintendo for their never-released CD-ROM project (the Nintendo-Sony SNES add-on that collapsed). It was by and large their best project and could not be done without Nintendo.
+**Author note (institutional era, not SNES-CD ROM):** FF7 was the peak of the **Nintendo-partner Square** craft window — pre-rendered fields, cinematic RPG ambition — and could not have shipped at that scope on N64 carts. Older shorthand that it was “designed by Nintendo for the never-released SNES CD” should be read as **era + disc politics**, not a verified Nintendo-CD *FFVII* build. Documented SNES-CD scar is closer to ***Secret of Mana***; FF7’s on-record fork is **N64 vs PS CD** after SIGGRAPH ’95. Precision: [nintendo-sony-breakup.md](nintendo-sony-breakup.md) §8; story lane [AU-055](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md).
 
 **Full context:** [nintendo-sony-breakup.md](nintendo-sony-breakup.md) — Nintendo–Sony partnership (1988), CES betrayal (1991), Philips switch, SNES CD never released, Square defection to PlayStation, FF7 storage requirements (CD ~650MB vs. N64 cartridge 8–64MB). FF8 proved Square wasn't going to try for something like that again — i.e. the ambition/quality bar was a Nintendo-era product; post-defection, they couldn't replicate it.
 
-**Sprite mismatch (engine schism):** In FF7, battle sprites and world/field sprites do not match — different proportions, style, fidelity. In FF8 and FF9 they do. **Explanation:** The battle system was upgraded during the extra year of FF7 production (after the platform switch). Square did not want to use the world sprites in battle, and did **not** want to back-port the new battle system to the engine created by Nintendo. Result: two pipelines — Nintendo-era world engine vs. new PlayStation-era battle system — never unified. The visual inconsistency is artifact of deliberately moving away from Nintendo tech rather than iterating on it.
+**Story / lore companion:** [*FFVII* story sabotage investigation (**AU-055**)](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) — author thesis that Jenova-cell Sephiroth + Zack duality + leftover-music pillage are the same post-Nintendo rupture.
 
-**FF8 ↔ FF9 melodic similarity:**
-- Fans (Eyes on FF, GameFAQs) note **FF8 Overworld Theme ≈ FF9 Terra theme** — shared melodic passages.
-- Both credited solely to Uematsu. Intentional callback or recycling?
+**Sprite mismatch (engine schism):** In FF7, battle sprites and world/field sprites do not match — different proportions, style, fidelity. In FF8 and FF9 they do. **Author explanation:** The battle system was upgraded during the extra year of FF7 production (after the platform switch). Square did not want to use the world sprites in battle, and did **not** want to back-port the new battle system to the prior pipeline. Result: two pipelines — earlier world/field engine vs. new PlayStation-era battle system — never unified. The visual inconsistency is artifact of deliberately moving away from the prior tech rather than iterating on it. (**Note:** “engine created by Nintendo” remains **author institutional read**, not a Square credit line naming Nintendo as engine vendor.)
+
+### Leftover / recycle audit (shared with AU-055)
+
+| Claim | Status (2026-09-06) |
+|-------|---------------------|
+| **FF9 remixed older FF themes** (III/IV-era locations, series motifs) | **Documented** — Uematsu said he **wanted** to remix older songs as nostalgia / series watershed ([IGN FF9 team interview archive](https://web.archive.org/web/20121215050854/http:/www.ign.com/articles/2000/09/21/the-final-fantasy-ix-team-spills-all); [shmuplations FF9 2000](https://shmuplations.com/ffix/)) |
+| **FF8 Blue Fields ≈ FF9 Terra** (same leftover cue) | **Fan dispute only** — Eyes on FF thread; no official “leftover from VII/VIII pool” admission ([Eyes on FF](http://home.eyesonff.com/showthread.php/97412-FF8-Overworld-Theme-FF9-Terra-Theme)) |
+| **Author: VIII/IX used unused VII project music** | **Open** — fits exhaustion + volume pattern; **no track-level VII→VIII ledger** yet; do not collapse into FF9’s **intentional** early-series homages |
+| Quality drop / exhaustion on FF9 | **Documented reception** — SquareSound group review (“utter tripe,” “literally exhausted”) |
 
 **FF9 "homage" vs. leftover:**
 - FF9 deliberately incorporated themes from FF3, FF4 (Doga/Unei, Mysidia, Black Mage Village). Design was "love letter to series history."
 - 160 tracks (largest FF project). Critics: "ranges from musical masterpieces... all the way down to **utter tripe** like 'Ceremony for Gods.'"
 - **"Ceremony for Gods":** 3/10; "annoying constant background note"; "grating." Other tracks criticized for discordance.
 - **SquareSound:** FF9 = "**fading edge of his career's peak**"; by album's end "his styles had become worn out and he was **literally exhausted**"; "a Final Fantasy album could not sustain this again."
-- **Interpretation:** Quality drop + overlap with FF8 + exhaustion = plausible that some FF9 material was recycled, filler, or farmed out. No direct accusation found; pattern consistent with theory.
+- **Interpretation:** Quality drop + FF8 melodic-overlap folklore + exhaustion = plausible that **some** post-VII material was recycled or farmed out. **Separate** intentional nostalgia remixes (documented) from **unused-VII-pool** deployment (author, unproven).
 
 ### Nintendo R&D / Institutional Support Thesis
 

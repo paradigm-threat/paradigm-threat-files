@@ -18,6 +18,8 @@
 
 **Magic / operator technology (investigations citing ceremonial magic, folk magic, grimoires):** **[`docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md`](MAGIC_AS_OPERATOR_TECHNOLOGY.md)** — *magic* = misfiled technology **demonstrable in nature or lab**; supernatural magic is **not supported**. Link once in **Guide** or **Limits** when the dossier uses historical *magic* language.
 
+**Vacuum inverse (franchise silence / managed returns):** **[`docs/VACUUM_INVERSE.md`](VACUUM_INVERSE.md)** — vacuums felt loudest by stakeholders/handlers in **pre-viral** groups, not by fans already used to silence; managed “returns” shaped so demand does not explode uncontrollably. Cite when writing franchise-gap or *Returns*-class product control.
+
 **Redaction vocabulary (investigations using narrative rewrite / omission / shell narratives):** **[`docs/REDACTION.md`](REDACTION.md)** — six composable operations **R1–R6** (subtractive through shell/misdirection); **Fomenko / Biblical class** = **R4** (inversive); tag **documented** vs **inferred**. When a dossier discusses “redaction,” “flattening,” “memoir rewrite,” or “respectable shell” press, link **REDACTION.md** once in **Guide** or a dedicated **§0.x** applied table (see [Royal Rife §0.1](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md)).
 
 **Standard paragraph (investigations — paste at top of Limits):**

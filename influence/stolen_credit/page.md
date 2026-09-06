@@ -12,10 +12,14 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 
 | Investigation | Summary |
 |---------------|---------|
-| [Nintendo–Sony Breakup & FF7](nintendo-sony-breakup.md) | SNES CD collapse, Square defection, FF7 designed for Nintendo's never-released platform |
+| [Nintendo–Sony Breakup & FF7](nintendo-sony-breakup.md) | SNES CD collapse, Square defection; FF7 = N64-cart vs PS-CD exit (not a verified SNES-CD build) |
+| [Nintendo hub — vassal / hardware / self-sabotage](nintendo.md) | Timeline: Famicom autonomy → SPC vs CD choke → N64 2D downgrade → franchise/credit clamp |
+| [Nintendo vassal-hardware investigation](investigations/nintendo-vassal-hardware-self-sabotage-investigation.md) | Full dossier — postwar test, BC fork, corroboration vs weaknesses |
+| [*FFVII* story sabotage — Midgar / Jenova / Zack / false-memory (**AU-055**)](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Platform rip; Zack as false-memory tool; *Mother 3*/*Notebook*/Magypsy cluster; suicide-agenda author lock |
+| [*Mother 3* / EarthBound 64 — Magypsy / rupture (**AU-056**)](investigations/mother-3-earthbound-64-magypsy-rupture-investigation.md) | Magypsy vs Reggie business; N64 cancel (not finished vault); SFC/pre-render rumor; Hamano credit-omission parallel to FF7 |
 | [Square Battle System Lineage](square-battle-system-lineage.md) | Nasir Gebelli (Iran/revolution); FF5 never in US; FF12 lost Matsuno; talent exodus |
 | [Nobuo Uematsu](nobuo-uematsu.md) | FF7–9; sprite/engine schism; post-Nintendo decline; leftover music accusations |
-| [Dave Wise / Rare](dave-wise.md) | Donkey Kong Country; Nintendo R&D credit; Eveline Fischer; Yukio Kaneoka on copyright |
+| [Dave Wise / Rare](dave-wise.md) | Fraud / credit face; MIDI/64K own-words tell; DKC; Hamano TF; Tallarico parallel |
 | [Rare & Nintendo R&D](rare-nintendo-rd.md) | Games without credits; Battletoads, PIN·BOT; 335+ games in VGMPF database |
 | [Minako Hamano](minako-hamano.md) | Super Metroid (Ridley, Maridia, Mother Brain); "often credited only to Yamamoto" |
 | [Minako Hamano — full dossier](investigations/minako-hamano-investigation.md) | R&D1 timeline, 1988–1996 rupture, CD-i/Mario RPG, falsifiers, evidence targets |
@@ -26,6 +30,7 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 | [Koji Kondo](koji-kondo.md) | Nintendo institutional support; Kaneoka; unrecognized Zelda composers |
 | [Kinuyo Yamashita](kinuyo-yamashita.md) | Mega Man X3 — composed, credited to "Minakuchi Engineering Staff" |
 | [Tommy Tallarico](tommy-tallarico.md) | **Confirmed plagiarist** — Earthworm Jim, Video Games Live |
+| [Tallarico ↔ Wise CO parallel](investigations/tommy-tallarico-controlled-opposition-wise-parallel-investigation.md) | Useful-face twin; Anthology/Wormaphobic Disorder; Amico dead-end; corporate backend / indie front |
 
 ### Classical Composers
 

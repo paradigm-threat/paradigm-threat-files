@@ -1,7 +1,7 @@
 # Dave Wise — Investigation
 
 > **TL;DR:** Dave Wise — Investigation
-**Status:** Investigating. **Author conclusion (2026-09):** Wise = **Samuragochi-class credit face** (composition nouns for others’ work). On *Tropical Freeze* he was really on the album as a **sloppy/unpracticed instrumentalist** (poor timing, weak solos) — not the score’s author; empty non-game career shows through. Left industry thin to avoid Samuragochi-scale exposure. Crisp factory → willing media face. Jazz-sax *Lullaby* = different David Wise.
+**Status:** Investigating. **Author conclusion (2026-09):** Wise = **fraud** — same useful-face class as Tallarico, accused of **stealing far more** (Rare one-name warehouse). **Not the wiser** — later dim light + unlosable indie garbage. **Smoking gun (claim 29):** SNES “we could have used MIDI, but… processing and extra memory from the 64k” — still narrates the **MIDI ask / blocker**, not hex mastery; MIDI-keyboard ceiling; queried real engineers; recycled their “no” as expertise. Performance artist / credit face, not hex composer. Empty non-game career; TF sloppy instrumentalist; crisp factory → willing media face. Jazz-sax *Lullaby* = different person.
 
 ---
 
@@ -94,14 +94,56 @@
 - **Author charge:** Functionally **zero original non-game songs** as a career — one 8-bit project single does not make a composer’s solo pipeline. For an “established legend” name, that is anomalous.
 - **Industry-norm clue (author; no exact %):** Non-game published albums (arrangements, piano collections, original studio LPs, concert material) are **incredibly common** — practically the **industry standard** for a vast majority of established game composers (Uematsu, Mitsuda, Kondo-adjacent concert culture, Soule/DirectSong class, etc.). Wise’s empty solo shelf is a **major clue** that the public “composer” noun is stakeholder/face without an independent craft pipeline — consistent with name-without-pipeline reads (*DKC3* GBA exclusive; Returns/Freeze credit theater). See [minako-hamano-investigation.md](investigations/minako-hamano-investigation.md) §5.4 / claim 24.
 
+### Own-words fraud tell — MIDI / 64K car-salesman doublespeak (2026-09-05) — HIGHLIGHT / SMOKING GUN
+
+**Documented interview claim** ([Nintendojo](https://www.nintendojo.com/features/interviews/interview-david-wise); same gist [VGMO](https://vgmonline.net/davidwiseinterview/), [OCR](https://ocremix.org/info/Composer_Interview:_David_Wise)):
+
+> For the SNES, we could have used MIDI, but we only had eight monophonic channels with a 64k sample memory. If we had used a MIDI program it would have taken processing and extra memory from the 64k that we had for sample memory. Because of this, I continued to use HEX coding, which we imported over from the NES as it is much more efficient– there are no extra layers of coding. If we were using MIDI, there would be a whole lot more data than there is just typing in the bare code.
+
+**Surface tell — doublespeak (already logged):**
+
+| What he jams together | What it actually is |
+|----------------------|---------------------|
+| “Processing” | SPC700 **CPU** time |
+| “Extra memory from the 64K” | **ARAM** bytes (samples + sequence data) |
+| “MIDI eats the 64K” | MIDI is usually an **authoring** layer; converters spit compact game data — MIDI does not sit in ARAM like a sample |
+| “We chose hex for the chip” | He did **not** design the 64K silicon (Sony SPC path); driver = Stamper / Betteridge / Wattis class work |
+
+**Smoking gun — what the interview *transaction* reveals (author, 2026-09-05 harden):**
+
+The load-bearing clue is **not** only that he still mangles the tech in **2011**. It is **what memory he chose to narrate**.
+
+1. **Door skill = MIDI only.** Hire story is Yamaha CX5 + MIDI keyboards in a music shop. OCR: hardest thing was that there was **no MIDI** — notes entered as data/hex. That is the ceiling he arrived with.
+2. **He frames the problem as “can we run MIDI on this?”** — “we could have used MIDI, but…” = the **blocker**, not a curriculum of learning Rare/Nintendo-evolved hex craft, R&D manuals, or decades of chip technique. He talks about the wall where **he** could not move forward in the only format he operated in.
+3. **Author reconstruction of the real transaction:** He asked the people actually programming the cart/driver something like *put MIDI support in / play my MIDI on this chip*. They said **no** — 64K ARAM is not a place you drop a MIDI runtime; Sony-class SPC design wants their sequence model; fat MIDI-shaped data burns the shared sample budget immediately. He **brought that refusal back into the 2011 interview** as if it were his deep systems insight.
+4. **What he does *not* say:** how he then mastered hex; who taught the driver macros; a learning arc after the “no.” Possible he later typed some hex after refusal — **not the point**. The point is the interview still centers the **MIDI ask + blocker**, which is the fingerprint of a **MIDI keyboard guy querying real engineers**, not a hex composer explaining his craft.
+5. **Credit implication:** He may have believed himself “composer” because he wrote **some songs on MIDI** and handed them to the team (throw MIDIs at actuals, tell them to work with him). Without owning samples, instruments, tuning, driver data, and cart integration, that is **not** the hex-composer noun he claims (“I typed all the hooks myself”). To credit him that way you’d need original MIDI → cart provenance — which **he denies** by insisting he wrote the hex himself.
+6. **2011 after decades:** Still cannot describe the stack without car-salesman mush. A real hex author does not still sound like someone recalling *why the programmers said no to MIDI*.
+
+**Author conclusion:** Major **smoking gun he was not the hex composer**. MIDI-only operator; performance artist / credit face; reals did the chip work. Evident in his **own words** and in **what story he still tells**. Hamano dossier **claim 29**.
+
 ### Wise's Original (Non-Game) Music — Disconnect
 - Where any non-OST material exists, it does not sound like it comes from the same person as the beloved game compositions — and the catalog itself is nearly empty (above).
 - **Thesis:** Making music and **programming video game music** are different skills. VGM requires programming — selecting notes, laying down tracks, building the actual sequence data. Wise may have been involved in composition (direction, concepts) but **not** in the original work that built the songs. His role may have been **sampling and quality assurance** — not the hands-on composition credited to him.
+- **Author harden (2026-09-05):** Not “maybe QA” as soft hedge — **fraud / performance artist**. MIDI-keyboard competence only; hex-coder legend collapses under his own SNES 64K mush (§ above).
 
 ### Post-Rare Output — Nuanced
 - **Yooka-Laylee (2017):** Wise shared with Kirkhope, Burke. Criticism focused on Kirkhope's "imitations of past work"; Wise not singled out. Soundtrack had recycled elements.
 - **Yooka-Laylee and the Impossible Lair (2019):** Wise composed 13 tracks; Matt Griffin 27. **Highly acclaimed** — "best in class," "matches Tropical Freeze," Editor's Pick Best Game Music 2019.
 - **Conclusion:** Impossible Lair success suggests Wise can still produce quality — but as part of a team. Solo full-soundtrack output post-Rare is limited.
+
+### Author conclusion — R&D rip → catalog noun → exit → Minako tool (2026-09)
+
+**Author charge (consolidated):**
+
+1. **SNES→2009:** Wise’s massive Rare catalog sits in the same climate as everyone else then — **three-tier credit stack**, **IP fights**, blank/opaque Rare receipts, need to park a **huge body of work under one British name** until his **“retirement”** (Rare exit **Nov 2009**; last in-house credit **2008**). Author: continued **ripping / laundering Nintendo R&D craft** into that noun the same way the rupture-era system did elsewhere — not ordinary freelancer luck.
+2. **Exit:** Real exit from the Rare/Nintendo pipeline (cleared). Not career death forever — **exit from the seat that needed the legend**.
+3. **Brought back:** *Tropical Freeze* “return of Dave Wise” = **opaque re-use of the same useful tool** — temporary poster pull-in to continue **absorbing credit from Minako Hamano** (Returns music → TF music recording; Mine Menace lineage → Wise on stream without “arrangement”).
+4. **Indie shelf = same mechanism:** Post-TF “indie” / alumni titles (Snake Pass, Yooka, Tengami, etc.) are **not** a clean break. Author: **corporate-sponsored on the backend, independent/popular on the front** — same credit-face tool in a softer wrapper (Playtonic/Sumo/Rare alumni networks, nostalgia marketing).
+5. **Wise was not the wiser — later survival play:** Same class as Tallarico; **far larger** stolen-credit surface (Rare SNES–2009 warehouse). Tallarico got **caught** (EWJ, VGL, false filmography; Amico vapor) because he stayed in prime light hunting products. Wise’s “wisdom” came **later**: dim spotlight; **simple unlosable indie garbage** that in no way mirrors the OST brilliance attached to his nouns. Legend held ≠ innate shrewdness. Full contrast: [tommy-tallarico-controlled-opposition-wise-parallel-investigation.md](investigations/tommy-tallarico-controlled-opposition-wise-parallel-investigation.md).
+6. **Fraud / smoking gun (MIDI ask):** SNES interview still centers *could we use MIDI?* + 64k blocker — fingerprint he was **not** the hex composer; MIDI sketches at best (claim 29).
+
+See Hamano dossier claims 7, 20, 26–29; [poverty-desperation-questionable-media-faces.md](investigations/poverty-desperation-questionable-media-faces.md).
 
 ### Tropical Freeze vs. Returns — The Hamano Clue + instrumentalist conclusion
 
@@ -141,6 +183,8 @@
 - [Wikipedia: Eveline Fischer](https://en.wikipedia.org/wiki/Eveline_Fischer)
 - [NYT: The Man Behind the Legendary Donkey Kong Country Soundtracks](https://www.nytimes.com/2024/11/19/arts/music/donkey-kong-country-soundtrack-david-wise.html)
 - [VGMO: David Wise Interview](http://www.vgmonline.net/davidwiseinterview/)
+- [Nintendojo: David Wise Interview](https://www.nintendojo.com/features/interviews/interview-david-wise) — SNES MIDI / 64K quote (claim 29)
+- [OCR: Composer Interview — David Wise](https://ocremix.org/info/Composer_Interview:_David_Wise)
 - [Rare Wiki: David Wise](https://rarewiki.com/wiki/David_Wise)
 - [Wikipedia: David Wise (composer)](https://en.wikipedia.org/wiki/David_Wise_(composer))
 

@@ -12,7 +12,7 @@
 
 Every paradigm-threat-files investigation that uses the `*investigation.md` filename convention, plus [reverse-crusades-comparison.md](/governance/war/investigations/reverse-crusades-comparison.md), [vril-society.md](/governance/war/investigations/vril-society.md), and [wuxing-five-planets-dark-ages.md](/history/chronology/investigations/wuxing-five-planets-dark-ages.md) (same treatment as site indexes). Deep-dive validation in §2 below applies only where a subsection exists; the rest are listed here so nothing is orphaned.
 
-**Count:** 107 files in the lists below (2026-08-29: +War on Drugs Nixon→globalist **AU-054**; +MeToo **AU-053**; +AI suppression OpenAI×Cursor).
+**Count:** 109 files in the lists below (2026-09-06: +*Mother 3* / EB64 Magypsy rupture **AU-056**; +*FFVII* Nintendo story sabotage **AU-055**; 2026-08-29: +War on Drugs Nixon→globalist **AU-054**; +MeToo **AU-053**; +AI suppression OpenAI×Cursor).
 
 **Supplementary** (same research lane, different filename): [Chronology investigations index](/history/chronology/investigations/index-investigations.md) lists companion articles and **chronology reader essays** under `history/chronology/` (e.g. [Indigenous creation dates, legends, and geology](/history/chronology/indigenous-creation-legends-and-geology.md)). [War investigations hub](/governance/war/investigations/page.md) lists thematic clusters. Fiction-encoding threads: [Narnia planetary encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md), [Tolkien redacted fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md), [Swift investigation](/influence/predictive_programming/fiction_encoding/swift/swift-investigation-debate-rails-and-drift.md), [Asimov investigation threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md).
 
@@ -143,6 +143,9 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: The Cathars — enemy memory, catharization, resistance to monotheism, and the Khazar–Cathar split thesis](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md)
 - [Investigation: “Hell burns attachments” — *Jacob’s Ladder*, Eckhart (mis)attribution, Paradigm Threat read](/influence/suppression/investigations/eckhart-jacobs-ladder-hell-quote-attribution-investigation.md)
 - [Investigation: #MeToo as corporate-sponsored choreography — accusation registry, Spacey / Carroll hinges (**AU-053**, open)](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md)
+- [Investigation: *Final Fantasy VII* — Nintendo rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, story sabotage (**AU-055**, open)](/influence/stolen_credit/investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) — platform exit; cell-puppet villain; late Zack; book-rumor hunt; §10 theory stress test
+- [Investigation: *Mother 3* / EarthBound 64 — Magypsy controversy, platform rupture, N64 cancel, Nintendo R&D credit omission (**AU-056**, open)](/influence/stolen_credit/investigations/mother-3-earthbound-64-magypsy-rupture-investigation.md) — Khan vs Reggie; SFC/pre-render rumor; FF7 parallel; Hamano mechanism
+- [Investigation: *Final Fantasy* I–VII — Tartaria / mud-flood / Sector 7 PP (open)](/influence/predictive_programming/investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md)
 
 ### Science
 
@@ -209,8 +212,10 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 | 35 | British royalty as controlled scheme | [british-royalty-controlled-scheme-investigation.md](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) | Chron4 vassal pull-quotes; UK PM keep-word table; Sussex rumor-rule press inventory; optional wall chart. **Truss §11.2 locked as observable deep-state reference** | Fomenko *History: Fiction or Science?* Chronology 4; Bagehot *English Constitution*; BoE gilt notices Sep–Oct 2022 |
 | 36 | Three-Cell Motion — textbook vs EM / æther | [three-cell-motion-em-aether-investigation.md](/science/geoengineering/investigations/three-cell-motion-em-aether-investigation.md) | **§14** open registry: EU zonal primary (Q1); TOC archaeology (Q7); EM vs GCM diagnostics (Q3–Q4); MIC pedagogy receipts (Q5). **Closed this pass:** Tesla masthead; Hide annulus; Lorenz vs GEC energy honesty; Stormfury/HAARP/seeding cites; §13 literature corroboration; §3.5 trade-winds; flow/redundancy pass | NOAA/Met/GEC/Lorenz/Hide/Tinsley/Stormfury/HAARP/Tesla Collection; Thunderbolts adjacent only |
 | 37 | #MeToo corporate sponsorship choreography | [metoo-corporate-sponsorship-choreography-investigation.md](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) | Accusation census expansion; Spacey “harm dialogue” primary quote hunt; gang-stalking dossier; foreign-sponsor cite pass; registry URL completeness | Time’s Up / NYT / SCOTUS Carroll Aug 2026; Deneuve Le Monde; Spacey trial transcripts |
+| 38 | *FFVII* Nintendo rip / Jenova–Zack story sabotage (**AU-055**) | [final-fantasy-vii-nintendo-story-sabotage-investigation.md](/influence/stolen_credit/investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) | §12–§13: Ultimania Omega stable cite; Japanese `原作 小説` sweep; 1997 guide vs Ultimania wording; script dump Sephiroth-as-actor lines; leftover-music track map; war-novel rumor archaeology | Kristóf *Notebook* trilogy; Clarke *Childhood’s End*; Ultimania Omega / Archive vols |
+| 39 | *Mother 3* / EarthBound 64 Magypsy rupture (**AU-056**) | [mother-3-earthbound-64-magypsy-rupture-investigation.md](/influence/stolen_credit/investigations/mother-3-earthbound-64-magypsy-rupture-investigation.md) | Cancel roundtable quote bank; Reid Young pre-render primary; GBA vs Space World 1999 feature diff; HAL/Brownie vs Nintendo secondment credits | Itoi/Iwata/Miyamoto 1101.com cancel pages; Starmen EB64 archive |
 
-**Total in §1 table:** 37 investigations with explicit unfinished work. **Full corpus:** 106 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
+**Total in §1 table:** 39 investigations with explicit unfinished work. **Full corpus:** 109 in §0 (plus supplementary links there for chronology companions and fiction-encoding threads). Investigations without a §2 subsection may still have shorter checklists; add validation blocks when revisiting them.
 
 ---
 
@@ -350,6 +355,7 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 - **Vril:** Bulwer-Lytton *The Coming Race* (1871); Ettl/Ratthofer Tempelhofgesellschaft publications (1989–92) for reference.
 - **Wuxing:** Earliest Chinese texts linking Wuxing to planets/elements (to be identified).
 - **Titanic:** US Senate inquiry report (1912); UK Wreck Commissioner’s *Titanic* report; Gardiner *Titanic: The Ship That Never Sank?* (advocacy); Butler *The Other Side of the Night* (Californian); critical surveys (e.g. Chirnside dissertation PDF linked in investigation).
+- ***FFVII* AU-055:** Ágota Kristóf *The Notebook* / *The Proof* / *The Third Lie* (pattern parallel — not claimed source); Arthur C. Clarke *Childhood’s End* (Japanese Lifestream genealogy essays); Square *Final Fantasy VII Ultimania Omega* (Reunion / Jenova mimic pages).
 
 ---
 
@@ -379,6 +385,7 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 - [ ] **Wuxing:** Earliest Wuxing–planet links in Chinese sources; cross-cultural five-element parallels; physical consistency with plasma/catastrophist interpretation.
 - [ ] **British divide-conquer:** British Bible Society, PEF, missionary print networks; post-colonial arms audit; Round Table/Milner/Rhodes overlap; Fomenko Jerusalem correlation.
 - [ ] **Yakuza:** Yakuza–Nintendo/Square adjacency; Unification Church–Yakuza links; British consular/commercial networks in Meiji Japan.
+- [ ] ***FFVII* AU-055:** Japanese print/forum archaeology for war-novel “original”; Ultimania Omega page-stable Reunion/Jenova-mimic cites; VII→VIII/IX leftover-music track map (shared with Uematsu file).
 - [ ] **American Revolution:** Dutch capital flows to specific Amsterdam houses; Bank of England vs post-1789 US finance; Masonic networks.
 - [ ] **French/British Civil War:** Fomenko treatment; Masonic/Illuminati role; 1666 prophesiers and coordination; merchant networks (Levant, EIC); Dutch Revolt comparison.
 

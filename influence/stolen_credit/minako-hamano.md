@@ -56,7 +56,7 @@
 ### 3b. Nintendo’s own credit controversies (documented)
 - **“Nintendo Sound Team”** umbrella buries individual composers in marketing ([example discussion](https://x.com/SebastianWolff/status/2088839426868924627)).
 - **Nintendo Music app** shipped without individual composer credits — industry backlash.
-- ***DKC Returns HD*** omitted Retro Studios developers from credits ([Game Developer](https://www.gamedeveloper.com/business/original-donkey-kong-country-returns-devs-omitted-from-hd-remaster-s-credits)).
+- ***DKC Returns HD*** omitted **individual** original *Returns* staff — **including Minako Hamano** and the rest of the original **composer / development** teams — under Nintendo corporate policy; generic “original development staff” only ([Game Developer](https://www.gamedeveloper.com/business/original-donkey-kong-country-returns-devs-omitted-from-hd-remaster-s-credits); [Eurogamer](https://www.eurogamer.net/donkey-kong-country-returns-hd-removes-retro-studios-staff-from-credits)). **Kenji Yamamoto** still listed as **Project Manager**, not music ([Mario Wiki HD staff](https://www.mariowiki.com/List_of_Donkey_Kong_Country_Returns_HD_staff)). Nintendo “proper credit” non-answer: [Eurogamer](https://www.eurogamer.net/nintendo-responds-to-donkey-kong-credits-furore-says-it-values-contributions-that-all-staff-make). Dossier claims 31–32 / §5.6–§5.6c.
 - **Not** the 2011 Toei/DBZ Kenji Yamamoto plagiarism case — different person (山本健司 ≠ Nintendo 山本健誌). See dossier §5.6–§5.6b.
 
 ### 4. Super Metroid Voice Work Incident
@@ -82,10 +82,11 @@
   - Amanda VanHiel: Her compositions "added to the intimidation factor" when "graphics were more limited."
 - Fans repeatedly cite Maridia, Mother Brain, Ridley, Fusion's Sector 1/SA-X as defining work — all Hamano.
 
-### Kenji Yamamoto — Sole-Credit Pattern
+### Kenji Yamamoto — Sole-Credit Pattern / manager seat
 - Super Metroid soundtrack "often credited only to Kenji Yamamoto" despite Hamano's major contributions.
-- Yamamoto composed: Theme of Super Metroid, Norfair; overlap with Hamano on some areas (Discogs lists both for Maridia, Kraid, Wrecked Ship — attribution varies by source).
+- Yamamoto composed (paper): Theme of Super Metroid, Norfair; overlap with Hamano on some areas (Discogs lists both for Maridia, Kraid, Wrecked Ship — attribution varies by source).
 - Hamano led Metroid Fusion; later moved to supervisor role (Samus Returns).
+- **Author harden (claim 32):** Yamamoto’s durable noun is **manager / supervisor** (Prime Music credit → Returns Music Supervisor → *Returns HD* **Project Manager**). *Returns* final boss ≈ Prime boss language → invert historian read: **Hamano** wrote the fight book across platforms; he held the seat. Who learned the hardware and composed vs who supervised.
 
 ### Donkey Kong Country Returns & Tropical Freeze — The Pattern
 - **DKC Returns (2010):** Hamano on **music** team; Yamamoto supervisor; Wise **not on project** (left Rare 2009). Mostly SNES rearrangements + Hamano originals on Club Nintendo album. **Mine Menace** credited **Yamamoto** on streaming — rocket-barrel theme that became the series’ signature new action cue.

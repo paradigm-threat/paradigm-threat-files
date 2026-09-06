@@ -34,9 +34,10 @@
 
 **David Wise — stakeholder thesis (author charge)**
 
-- Wise is **not** the **composer** (or sound programmer) who built the music. He is a **British IP holder / stakeholder / public actor** whose function is to **receive composition nouns** for work built by the Kyoto pipeline (Yamamoto, Hamano, Tajima, et al.). Hex/assembly interviews = **cover story**.
+- Wise is **not** the **composer** (or sound programmer) who built the music. He is a **British IP holder / stakeholder / public actor** whose function is to **receive composition nouns** for work built by the Kyoto pipeline (Yamamoto, Hamano, Tajima, et al.). Hex/assembly interviews = **cover story**. **Own-words tell / smoking gun (claim 29):** “we could have used MIDI, but… processing and extra memory from the 64k” — he still narrates the **MIDI ask + blocker** (MIDI-keyboard ceiling; queried real engineers; recycled their “no”), not hex mastery. **Fraud / performance artist**, not programmer-musician.
 - **Tropical Freeze revision (2026-09-04 author conclusion):** He **was** on the TF album — as a **sloppy / unpracticed instrumentalist**, not as author of the score. Author hears **poor timing** and **weak soloing** on the live layers. That is forensic: a real composer who had written “as many songs as the legend claims” would not ship takes that unfinished — normal musicians keep going until the take is right. Empty non-game career + unpracticed live playing = **same person**.
-- **Samuragochi identity (author):** Wise = **Mamoru Samuragochi class** — career-face credit noun; ghost / pipeline does the composition. Difference: Wise **exited / stayed thin** in the industry rather than ride the fraud to Samuragochi-scale exposure. Samuragochi kept the classical + games fame until the bust; Wise’s empty solo shelf and early-ish retreat read as **avoiding that fate**.
+- **Samuragochi identity (author):** Wise = **Mamoru Samuragochi class** — career-face credit noun; ghost / pipeline does the composition. Difference: Wise **exited the Rare/Nintendo pipeline** (2009) rather than ride one employer’s fraud to a Samuragochi-style bust; then was **brought back** for TF as the same useful face.
+- **Consolidated author charge (2026-09):** Through 2009 he **continued the era pattern** — three-tier system, IP fights, one person credited with a **massive catalog** (R&D/Kyoto craft laundered under British noun) until “retirement.” After exit, opaque **return** = tool to keep **stealing credits from Minako Hamano** on the DK sequel chain (claim 27).
 - On **Returns** he was **not on the project** (left Rare 2009). On **Tropical Freeze** he was **pulled in** for the “legend returns” arc — **instrumentalist + poster noun**, composition still Kyoto; name maximized, authorship minimized.
 - SNES-era “Wise composed DKC” on paper = **same whitewash system** extended backward; not treated here as independent proof against the stakeholder read.
 - **Empty non-game catalog = major clue:** functionally **zero original non-game songs** (no studio album; Salamandos full album never clearly shipped; jazz-sax *Lullaby* = different David Wise). Established game composers almost always publish non-game albums — Wise’s empty shelf is anomalous (§5.4; claim 24; [dave-wise.md](../dave-wise.md)).
@@ -68,6 +69,9 @@
 - Theme with possible Genie echo → four Wise-credited sequel variations → credit hop may sit in same **cultural weather** as **Robin Williams / Genie displacement**: Disney contract fight; post-death voice restrictions; [Spotify users reporting missing Williams Genie tracks](https://community.spotify.com/t5/Content-Questions/Aladdin-Sndtrk-missing-tracks/td-p/111658); 2019 Will Smith remake dominating **search path** so younger listeners meet Genie **second**. TF shipped **Feb 2014**; Williams died **Aug 2014** — not post-death composition, but **displacement era**.
 - **Mine Menace** should be examined with **Hamano in the room**; Yamamoto holds streaming tag; no primary proof she wrote it yet.
 - **Hamano prejudice conjecture:** Japanese women not treated fairly by Japanese men in industry; she beat it with skill inside R&D but could not prove herself to Western press that never learned her name. **Returns safe** (understated success, supervisor names safe). **Freeze threat** — Hamano composer credit on sequel originals would crack Wise return + Yamamoto supervisor stories simultaneously.
+- **Vacuum inverse (claim 30):** Post-*DKC3* vacuum felt loudest by stakeholders/handlers (pre-viral murmur), not fans already used to silence; *Returns* = shaped ignition with shake-roll / controller sabotage so Country does not become indefinite demand; HD gap; silence after TF. Doctrine: [`VACUUM_INVERSE.md`](/docs/VACUUM_INVERSE.md).
+- ***Returns HD* wipe (claim 31):** Remaster omits **Hamano** + original composer/dev individuals under Nintendo corporate policy — same Sound Team generalization class, **2025**.
+- **Yamamoto manager / Hamano composed (claim 32):** HD lists Yamamoto as **Project Manager**, not music; *Returns* final boss ≈ Prime bosses → invert: she wrote the fight language across hardware; he supervised. No playable HD *Returns* prints her name.
 - **Three-tier racial/imperial credit stack (author structural read):** On top of Japan’s gender two-track, **British / Western faces sit above Asian craft labor**. British men (Wise) and British women (Fischer) are treated as the nameable “DKC music” people; Japanese workers — especially Japanese women — are **expendable, negligible, lower tier** in Western press and IP marketing. That is why author **feels** Eveline Fischer absorbed public credit that belongs in Hamano’s lineage (franchise canon substitution and/or uncredited Kyoto→Rare pipeline — **open**, not ROM-proven). Timeline caveat: SNES *DKC* (1994) was Rare UK (Wise/Fischer/Beanland); Hamano was Nintendo R&D1 — they were **not** co-billed on that cart. The three-tier claim is about **who Western memory and posters are allowed to name**, plus any hidden labor under rupture (§5.9; [eveline-fischer.md](../eveline-fischer.md)).
 
 **Explicitly not claimed here**
@@ -106,7 +110,7 @@
 
 **Investigative premise:** Public history (interviews, fan canon, press "returns") **over-credits safe names** and **under-credits or erases** R&D1-lineage composers — Hamano first. **David Wise** on Returns/Tropical Freeze is the load-bearing example of **stakeholder credit** (British IP face on Kyoto craft). Pattern also includes Eveline Fischer/Novakovic, credit opacity at Rare, Square/Nintendo theater.
 
-**Author rejects as rebuttal:** Wise hex/assembly interviews and industry “programmer-musician” canon — treated as **whitewash product** within the same credit system (see § Author sentiment).
+**Author rejects as rebuttal:** Wise hex/assembly interviews and industry “programmer-musician” canon — treated as **whitewash product**. **Claim 29 smoking gun:** the SNES MIDI/64k paragraph is not merely mushy — it is the **MIDI ask / blocker** he still leads with in 2011, fingerprint of a MIDI-keyboard operator querying real engineers, not a hex composer. See [dave-wise.md](../dave-wise.md) § Own-words fraud tell.
 
 **Not claimed as proven here:** Hamano wrote uncredited music for *Final Fantasy VII*; Square reused Nintendo R&D archives for *FF8*/*FF9*; forensic proof that Wise never touched a sound driver (stakeholder thesis is **author charge**, not ROM-proven).
 
@@ -231,10 +235,14 @@
 - Grant Kirkhope and others have publicly noted Nintendo often omits composer credit on music it owns (see also [vgm-preservation-credits.md](../vgm-preservation-credits.md)).
 - **Investigative meaning:** Even the company’s own music storefront continues the **IP Great Depression** scarcity — listening is allowed; **authorship** is not.
 
-#### *Donkey Kong Country Returns HD* — original staff omitted
+#### *Donkey Kong Country Returns HD* — original staff omitted (incl. Hamano / music)
 
-- *DKC Returns HD* (2025 remaster) **omitted Retro Studios developers** from credits and instead used a generic thanks to “original development staff” — strong fan/industry backlash ([Famiboards thread](https://famiboards.com/threads/donkey-kong-country-returns-hd-omits-retro-studios-developers-from-credits-instead-thanks-original-development-staff.12227/); [Game Developer](https://www.gamedeveloper.com/business/original-donkey-kong-country-returns-devs-omitted-from-hd-remaster-s-credits)).
-- **Investigative meaning:** Same Returns lineage under investigation for Mine Menace / Hamano demotion now shows **remaster-era erasure of the people who built the game** — credit drought is ongoing policy, not 1990s-only.
+- *DKC Returns HD* (Switch, **2025-01-16**, Forever Entertainment port) **omits individual names** for the original *Returns* (2010) teams — Retro Studios **and** the original **composer / music / Kyoto development staff** — and substitutes a generic line: based on the work of the “**original development staff**” ([Eurogamer](https://www.eurogamer.net/donkey-kong-country-returns-hd-removes-retro-studios-staff-from-credits); [Game Developer](https://www.gamedeveloper.com/business/original-donkey-kong-country-returns-devs-omitted-from-hd-remaster-s-credits); [Famiboards](https://famiboards.com/threads/donkey-kong-country-returns-hd-omits-retro-studios-developers-from-credits-instead-thanks-original-development-staff.12227/); [The Verge](https://www.theverge.com/2025/1/17/24346145/nintendo-donkey-kong-country-returns-hd-team-credits)).
+- **Author / documented scope:** That wipe includes **Minako Hamano** and the rest of the original **composer and development** billing from *Returns* — not “Retro only.” Same corporate generalization class as **Nintendo Sound Team** / Music app (no individual nouns).
+- **Nintendo response (non-answer):** Spokesperson to Eurogamer: believes in “giving proper credit” and values “contributions that all staff make” — **no explanation** why individual original staff (incl. music) were removed ([Eurogamer](https://www.eurogamer.net/nintendo-responds-to-donkey-kong-credits-furore-says-it-values-contributions-that-all-staff-make); [VGC](https://www.videogameschronicle.com/news/nintendo-fails-to-explain-latest-crediting-omission-insists-it-believes-in-giving-proper-credit/)). Parallel: *Metroid Prime Remastered* same “original development staff” formula.
+- **Documented asymmetry (Mario Wiki HD staff list):** Original *Returns* music individuals (**Hamano**, Tajima, Ushiroda, Matsuoka) are **not** named. **Kenji Yamamoto** still appears — not under Music, but under **Project Managers** (with Toyokazu Nonaka) ([Mario Wiki — Returns HD staff](https://www.mariowiki.com/List_of_Donkey_Kong_Country_Returns_HD_staff)). On Wii *Returns* he was **Music Supervisor**; on HD he is **management**, not music.
+- **Author outrage / structural read:** No broadly **playable** home-console edition of *Returns* (the HD that finally dropped forced shake-roll) will ever print **Hamano’s** name. Yamamoto **survives** the wipe in a manager seat. Same man historians credit for *Metroid Prime* music nouns — see §5.6c / claim 32.
+- **Investigative meaning:** The Returns lineage already under Mine Menace / Hamano demotion now **erases her name again** on the remaster that finally made the game button-playable — credit drought is **ongoing Nintendo policy**, not 1990s-only or Wise-only. Ties **vacuum inverse** to stolen-credit continuity (claims 31–32).
 
 ### 5.6b Disambiguation — do not conflate Kenji Yamamotos
 
@@ -245,7 +253,24 @@
 | Employer | Toei / Dragon Ball freelance | Nintendo since ~1987 |
 | Scandal | Fired after *Kai* / game BGM plagiarized Western rock & film scores | **Not this person** |
 
-Fans confuse them because romaji matches. **Do not** import Toei’s plagiarism bust into Nintendo Yamamoto’s file. Nintendo Yamamoto’s **documented** Hamano-adjacent issues are elsewhere: Super Metroid voice override (“too sexual”), sole-credit overshadowing in fan canon, Returns/Freeze supervisor seat on the Mine Menace chain (§2, §5.7).
+Fans confuse them because romaji matches. **Do not** import Toei’s plagiarism bust into Nintendo Yamamoto’s file. Nintendo Yamamoto’s **documented** Hamano-adjacent issues are elsewhere: Super Metroid voice override (“too sexual”), sole-credit overshadowing in fan canon, Returns/Freeze supervisor seat on the Mine Menace chain (§2, §5.7); **manager-class** arc §5.6c.
+
+### 5.6c Yamamoto as manager — Returns boss ≈ Prime; Hamano did the composing (author)
+
+**Documented role pattern:**
+
+| Product | Yamamoto paper noun | Hamano paper noun |
+|---------|---------------------|-------------------|
+| *Super Metroid* | Co-composer + sound program/SFX | Co-composer (bosses / Ridley / Mother Brain etc. on *Sound in Action*) |
+| *Metroid Prime* (GC) | **Music** (+ Kyuma assistant) | **Absent** from Prime 1 music credits |
+| *DKC Returns* (Wii) | **Music Supervisor** | **Music** (with Tajima, Ushiroda, Matsuoka) |
+| *DKC Returns HD* | **Project Manager** | **Omitted** (generic “original development staff”) |
+
+**Author ear:** *Returns* **final boss** theme is **very similar / near-identical** in language to *Metroid Prime* boss-fight cues commonly tagged “Yamamoto.” Historians read that as: Yamamoto wrote both. **This investigation inverts it:** the shared language is **Hamano’s** fight-writing (already load-bearing on Super Metroid bosses) carried into Prime + Returns; Yamamoto’s durable noun is **supervisor / manager** — who held the seat while she (and others willing to learn new hardware) actually composed.
+
+**Author thesis:** It came down to **who was willing to learn the new hardware and write the songs**, not who supervised. Yamamoto was **always** the manager-class face on these pipelines (sound program → Prime music noun → Returns music supervisor → HD project manager). Prime paper credit without Hamano is the same whitewash class as Mine Menace streaming → Yamamoto / TF → Wise.
+
+**Limits:** Boss-theme similarity = **author ear** until A/B cites / stems; Prime ghost-composition by Hamano = **author charge** against paper credits (Yamamoto + Kyuma). Do **not** conflate with Toei Kenji Yamamoto (§5.6b).
 
 ### 5.7 Mine Menace → Tropical Freeze — provable credit hop + stylistic continuity
 
@@ -370,12 +395,20 @@ Author position: British men **and** British women treat Asian workers as **expe
 | Corporate incentive to omit/redact labor after rupture | **Plausible / partially documented** |
 | “Nintendo Sound Team” umbrella + Music app without composer names | **Documented** (marketing / app policy; §5.6) |
 | *DKC Returns HD* omits Retro staff from credits | **Documented** (§5.6) |
+| *Returns HD* omits **Hamano** + original composer/dev individuals under Nintendo policy (generic “original development staff”) | **Documented** (§5.6); Nintendo PR non-answer **documented** |
+| Yamamoto on *Returns HD* as **Project Manager**, not music | **Documented** ([Mario Wiki HD staff](https://www.mariowiki.com/List_of_Donkey_Kong_Country_Returns_HD_staff)) |
+| Yamamoto always manager; Hamano composed Prime + Returns fight language (boss similarity) | **Author** (§5.6c / claim 32); ear pending A/B |
 | Toei 2011 DBZ Kenji Yamamoto plagiarism = Nintendo’s Kenji Yamamoto | **False** — different person (§5.6b) |
 | Hamano ghostwrote *FF7* or Square used Nintendo music archives | **No affirmative public evidence** |
 | David Wise = British IP stakeholder/actor, not hands-on composer (Returns/Freeze) | **Author thesis** |
 | Wise on *Tropical Freeze* as sloppy/unpracticed **instrumentalist** (poor timing, weak solos), not score author | **Author ear + conclusion** (2026-09-04) — claim 26 |
-| Wise ≡ Samuragochi class (credit face; ghost/pipeline composes); thin exit avoids bust | **Author parallel** — §5.10 / claim 26 |
-| Wise hex/assembly interviews disprove stakeholder thesis | **Author rejects** — interviews = whitewash |
+| Wise ≡ Samuragochi class (credit face; ghost/pipeline composes); pipeline exit + TF return | **Author parallel** — §5.10 / claims 26–27 |
+| Wise SNES–2009 catalog = R&D rip/launder under one British noun until “retirement” | **Author charge** — claim 27; Rare blank-credit climate supports opacity |
+| TF “return” = opaque re-use of Wise to steal/absorb Hamano credit | **Author charge** — claim 27; Returns→Freeze billing documented |
+| Post-TF indie shelf = corporate-sponsored backend, indie/popular front (same credit-face mechanism) | **Author charge** — claim 28 |
+| Wise not wiser; stole more than Tallarico; later dim-light “wisdom” (unlosable indie ≠ stolen OST brilliance) | **Author parallel** — claim 28; Tallarico plagiarism **documented** |
+| Wise hex/assembly interviews disprove stakeholder thesis | **Author rejects** — interviews = whitewash; **claim 29:** MIDI/64K line = own-words fraud tell |
+| Wise SNES “MIDI wastes 64K processing+memory” | **Documented quote** — **author smoking gun:** narrates MIDI ask/blocker (not hex mastery); MIDI sketches at best; doublespeak on top |
 | Industry record lists Wise as Rare SNES composer | **Documented on paper**; **same system under examination** |
 | Rare SNES music = hidden Nintendo R&D composers | **No staff trail** |
 | “Return of David Wise” (TF) sold on rearrangements of Returns theme Wise did not write | **Documented** (metadata + 2018 post) |
@@ -508,7 +541,7 @@ Author position: British men **and** British women treat Asian workers as **expe
 4. **Philips SNES CD** failed because fight was over **chips + rendering (HANDS/SCCP) + licensing**, not discs alone.  
 5. Nintendo **chose** to kill incremental SNES evolution and **2D craft** in favor of control-preserving platform reset.  
 6. Hamano's **under-recognition** is structural, not mere fandom ignorance.  
-7. **David Wise** = **Samuragochi-class** credit face for Kyoto pipeline (Returns/Freeze); on TF as **sloppy instrumentalist**, not score author; SNES-era Wise canon = same system; thin exit avoids bust.  
+7. **David Wise** = **fraud** / same class as Tallarico / Samuragochi-class face; **stole far more**; **not the wiser**; **claim 29 smoking gun** — 2011 still narrates MIDI ask/64k blocker (not hex mastery); **exit 2009**; **TF return** absorbs **Hamano**; TF sloppy instrumentalist tell.  
 8. **Mine Menace** loop tail may mirror *Aladdin* “Friend Like Me”; four TF Wise-credited variations + Genie streaming displacement = **hidden significance** (Robin Williams erasure era) — **gut feeling only**.  
 9. **Returns safe / Freeze threat:** Hamano composer billing on sequel originals would crack Wise-return and Yamamoto-supervisor narratives — demotion to recording was structural fix.  
 10. **Mine Menace** likely warrants Hamano in the authorship room; Yamamoto streaming tag ≠ full story.  
@@ -518,7 +551,7 @@ Author position: British men **and** British women treat Asian workers as **expe
 14. **IP Great Depression / scarcity strategy** — deliberate drought of process/credit truth; outsiders limited to pattern + analogy for *intent*; courtroom smoking gun for conspiracy unlikely.  
 15. **Independence / “Nintendo made their hardware”** = whitewash; always partner-bound; **CD-ROM debacle** proves it.  
 16. English **books** (Sheff, Altice, popular histories) do not open internal credit/IP disputes or name Hamano — expected under scarcity, not accidental omission.  
-17. Contemporary Nintendo credit policy (**Sound Team** umbrella, Music app no names, *Returns HD* staff omission) continues the same erasure class as Hamano’s generalized billing — **documented**, not analogy-only.  
+17. Contemporary Nintendo credit policy (**Sound Team** umbrella, Music app no names, *Returns HD* staff omission **including Hamano / composers**) continues the same erasure class as Hamano’s generalized billing — **documented**, not analogy-only.  
 18. Wise’s public “clarification” (Yamamoto wrote Returns rocket; honor internal Wii team incl. Hamano) = **whitewash ending**: Wise first owns the poster, then narrates credit to Yamamoto; Hamano remains **support staff**, never named core composer of that cue.  
 19. **Two-tier composer system** inside Japan (men = credit nouns; women = task/support) — Super Metroid voice tell; music→recording; sōgōshoku/ippanshoku analogy (§5.9).  
 20. **Three-tier empire stack:** British men (Wise) → British women (Fischer) → Asian craft (Hamano expendable). Author feels Fischer holds public DK-female credit that belongs in Hamano’s lineage — open; chronology: not same SNES DKC cart (§5.9).  
@@ -527,7 +560,13 @@ Author position: British men **and** British women treat Asian workers as **expe
 23. Japan media pattern (§5.10): **Samuragochi** = ghost keeps credit; **DBZ Yamamoto 健司** = plagiarism bust; manga/anime/academic packuri climate — career-face **delegates or steals**, retains noun; postwar dual-track as author analogy.  
 24. **Wise empty non-game catalog = major clue** — functionally **zero original non-game songs** (no album; Salamandos unshipped; jazz *Lullaby* = different person). Exact % unavailable; **non-game published albums are incredibly common / practically industry standard** for a vast majority of established game composers — Wise’s empty shelf is anomalous (name without independent craft pipeline) (§5.4; [dave-wise.md](../dave-wise.md)).  
 25. **Wise on poverty → questionable-media-face list** — crisp factory exit documented; author: willing credit/whitewash role to leave poverty (not “broke → genius”); registry with Tallarico / Samuragochi / Swift rails ([poverty-desperation-questionable-media-faces.md](poverty-desperation-questionable-media-faces.md)).  
-26. **Wise ≡ Samuragochi class (author)** — credit-face noun; pipeline/ghost does composition. **TF:** Wise on album as **unpracticed instrumentalist** (sloppy timing, weak solos) — proves empty real music career; a true high-volume composer would not ship unfinished takes. Wise’s thin/early exit = **avoiding Samuragochi’s fate** (bust after riding the fraud).
+26. **Wise ≡ Samuragochi class (author)** — credit-face noun; pipeline/ghost does composition. **TF:** Wise on album as **unpracticed instrumentalist** (sloppy timing, weak solos) — proves empty real music career; a true high-volume composer would not ship unfinished takes. **Exit** = left Rare/Nintendo pipeline (2009), not total industry silence; TF = temporary marketed return.  
+27. **Wise catalog → exit → Minako tool (author):** SNES–2009 massive British catalog = same rupture-era pattern (three-tier, IP fights, one-name warehouse) — author: continued ripping/laundering **Nintendo R&D** craft under Wise until “retirement.” Brought back opaquely for TF to keep **stealing credits from Hamano** (music→recording; Mine Menace arrangements → Wise stream).  
+28. **Indie shelf = same mechanism; Wise not wiser — later survival play (author):** Snake Pass / Yooka / Tengami-class work = **corporate-sponsored backend, indie/popular front** — and deliberately **simple unlosable garbage** that in no way mirrors the OST brilliance of songs he stole credit for. Tallarico = caught plagiarist/inflated nouns + Amico vapor ([tommy-tallarico.md](../tommy-tallarico.md); [CO dossier](tommy-tallarico-controlled-opposition-wise-parallel-investigation.md)) because he stayed in **prime light** hunting products. Wise stole **far more**; the “wisdom” came **later** — out of the spotlight. Legend held ≠ shrewder at the door.
+29. **MIDI/64K own-words fraud tell + smoking gun (author):** Wise’s SNES interview ([Nintendojo](https://www.nintendojo.com/features/interviews/interview-david-wise); [VGMO](https://vgmonline.net/davidwiseinterview/); [OCR](https://ocremix.org/info/Composer_Interview:_David_Wise)) — “we could have used MIDI, but… processing and extra memory from the 64k… continued to use HEX” — is (a) **car-salesman doublespeak** (CPU ≠ ARAM; MIDI isn’t what lives in 64K; chip/driver not his), and (b) a **smoking gun he was not the hex composer**: the story he still tells in **2011** is the **blocker** (*can we run MIDI on this?*) from a **MIDI-keyboard-only** operator (music-shop CX5 door), not a curriculum of learning Rare/Nintendo-evolved hex craft. **Author reconstruction:** he asked the real programmers for MIDI support / to play his MIDIs on the cart stack; they said **no** (Sony SPC / shared sample RAM); he recycled that refusal as systems expertise. May have believed himself composer after handing off **MIDI sketches** — without samples/instruments/tuning/driver work that is not the hex noun he claims. He does **not** narrate learning hex after the “no”; he narrates the wall. Full: [dave-wise.md](../dave-wise.md) § Own-words fraud tell.
+30. **Vacuum inverse — *DKC* silence → *Returns* shaped ignition (author):** Fans were already used to the post-*DKC3* vacuum; stakeholders/handlers feel vacuums **loudest** via **pre-viral** focused-group murmur (“why no more *Country*?”) and fight hardest. *Returns* (2010) answers the murmur but **sabotages** indefinite demand: roll = Wii shake (lag / anti-pattern); no Classic Controller path other Wii games allowed; *Returns 3D* ≠ full fix; *Returns HD* (2025) ~15-year wait for serious button play; then silence after *Tropical Freeze* — public still not demanding more. Vacuum = consequence of the **inverse of our times**; heard loudest where we cannot hear. Doctrine: [`docs/VACUUM_INVERSE.md`](/docs/VACUUM_INVERSE.md). Same cycle as Wise-return / Hamano credit theater.
+31. ***Returns HD* credit wipe includes Hamano (documented + author):** Remaster omits **individual** original *Returns* composer and development staff — **Minako Hamano** among them — under Nintendo’s controversial corporate credit policy; generic “original development staff” only. Forever Entertainment front-and-center; Nintendo “proper credit” statement **does not explain** the omission ([Eurogamer](https://www.eurogamer.net/donkey-kong-country-returns-hd-removes-retro-studios-staff-from-credits); [Eurogamer response](https://www.eurogamer.net/nintendo-responds-to-donkey-kong-credits-furore-says-it-values-contributions-that-all-staff-make)). Same generalization class as Sound Team / Music app. Continuity of Hamano erasure into **2025**.
+32. **Yamamoto = manager; Hamano composed (incl. Prime) — author invert:** On *Returns HD*, Yamamoto survives as **Project Manager**, not music; Hamano wiped ([Mario Wiki HD staff](https://www.mariowiki.com/List_of_Donkey_Kong_Country_Returns_HD_staff)). Role arc: sound program / Prime **Music** noun / Returns **Music Supervisor** / HD **Project Manager** = durable **manager** seat. Author ear: *Returns* final boss ≈ *Metroid Prime* boss language tagged “Yamamoto” — historians say he wrote both; **invert:** shared fight-writing is **Hamano’s** (Super Metroid bosses already hers); she learned new hardware and composed; he supervised. Prime paper without Hamano = same whitewash class. Outrage: **no playable (HD) console *Returns* will ever print her name.** §5.6c.
 
 **Label:** **Speculative / investigative** until §8 targets produce primary evidence.
 
@@ -577,18 +616,23 @@ Author position: British men **and** British women treat Asian workers as **expe
 | [sheff-game-over-corpus-notes.md](sheff-game-over-corpus-notes.md) | Sheff *Game Over* **facts-only** sheet; Sony Super Disc term; **Hamano absent** |
 | [altice-i-am-error-corpus-notes.md](altice-i-am-error-corpus-notes.md) | Altice *I Am Error* **facts-only**; APU/FDS/Tanaka Metroid; **Hamano absent** |
 | [nintendo-sony-breakup.md](../nintendo-sony-breakup.md) | Sony/Philips/Square/Mario RPG narrative |
+| [nintendo.md](../nintendo.md) / [nintendo-vassal-hardware-self-sabotage-investigation.md](nintendo-vassal-hardware-self-sabotage-investigation.md) | Institutional timeline; SPC vs CD; N64 2D downgrade; self-sabotage |
 | [rare-nintendo-rd.md](../rare-nintendo-rd.md) | Rare credits / Wise angle |
 | [dave-wise.md](../dave-wise.md) | Industry-record Wise angle (author treats as same whitewash system) |
 | [poverty-desperation-questionable-media-faces.md](poverty-desperation-questionable-media-faces.md) | Pattern registry — poverty exit → willing credit/media face; **Wise** lead |
+| [tommy-tallarico-controlled-opposition-wise-parallel-investigation.md](tommy-tallarico-controlled-opposition-wise-parallel-investigation.md) | Tallarico = caught in prime light; Wise = bigger haul / later dim-light wisdom |
+| [`docs/VACUUM_INVERSE.md`](/docs/VACUUM_INVERSE.md) | **Vacuum inverse** doctrine — *DKC* silence → *Returns* shaped ignition (claim 30) |
 | [nobuo-uematsu.md](../nobuo-uematsu.md) | FF7 / Square music thread |
+| [final-fantasy-vii-nintendo-story-sabotage-investigation.md](final-fantasy-vii-nintendo-story-sabotage-investigation.md) | **AU-055** — FF7 rupture; cites this file for credit-omission mechanism |
+| [mother-3-earthbound-64-magypsy-rupture-investigation.md](mother-3-earthbound-64-magypsy-rupture-investigation.md) | **AU-056** — Mother 3 / EB64; §7 applies Hamano mechanism to HAL/Brownie brands |
 | [eveline-fischer.md](../eveline-fischer.md) | Parallel Rare female composer erasure |
 | [square-battle-system-lineage.md](../square-battle-system-lineage.md) | Square engine / Nintendo split |
 
 ---
 
-Keywords: #MinakoHamano #NintendoRD1 #CreditErasure #SuperMetroid #PlatformRupture #PhilipsCDi #SuperMarioRPG #StolenCredit #IPGreatDepression
+Keywords: #MinakoHamano #NintendoRD1 #CreditErasure #SuperMetroid #PlatformRupture #PhilipsCDi #SuperMarioRPG #StolenCredit #IPGreatDepression #VacuumInverse
 
-*Last updated: 2026-09-04*
+*Last updated: 2026-09-05*
 
 ## Limits and disclaimers
 
@@ -607,5 +651,11 @@ Keywords: #MinakoHamano #NintendoRD1 #CreditErasure #SuperMetroid #PlatformRuptu
 - Cursor session: 2026-09-04 — Wise **empty non-game catalog** (no album; functionally zero original non-game songs; jazz *Lullaby* name collision) as **major clue** vs industry-standard solo albums (§5.4 / claim 24; [dave-wise.md](../dave-wise.md)).
 - Cursor session: 2026-09-04 — **Poverty → questionable media faces** registry created (rails existed: Swift compliance, controlled personalities, §5.10); **Wise added** (crisp factory) as claim 25 / [poverty-desperation-questionable-media-faces.md](poverty-desperation-questionable-media-faces.md).
 - Cursor session: 2026-09-04 — **Wise ≡ Samuragochi** (author): TF = sloppy **instrumentalist** not score author; empty career shows in timing/solos; thin exit avoids bust (claim 26).
+- Cursor session: 2026-09-05 — Exit cleared (Rare 2009 / last credit 2008); author consolidates: **catalog under one name until retirement → brought back to steal from Hamano** (claim 27).
+- Cursor session: 2026-09-05 — Indie shelf = **same mechanism** (corporate backend / indie front); **Wise not wiser** — stole more; later dim light + unlosable indie (claim 28 refine).
+- Cursor session: 2026-09-05 — **Claim 29 harden:** smoking gun = interview narrates **MIDI ask / blocker** (not hex learning); queried real engineers; recycled “no”; may have handed MIDI sketches; denies that by claiming self-typed hex ([dave-wise.md](../dave-wise.md)).
+- Cursor session: 2026-09-05 — **Claim 30 / vacuum inverse:** franchise silence felt by handlers not fans; *Returns* shake-roll sabotage; HD gap; doctrine [`VACUUM_INVERSE.md`](/docs/VACUUM_INVERSE.md).
+- Cursor session: 2026-09-06 — **Claim 31:** *Returns HD* wipe = Hamano + original composer/dev individuals under Nintendo corporate policy; PR non-answer.
+- Cursor session: 2026-09-06 — **Claim 32:** Yamamoto HD = **Project Manager** (not music); Returns final boss ≈ Prime bosses → invert: Hamano composed, Yamamoto managed; no playable HD *Returns* prints her name.
 - Agent transcript JSONL: `12117906-f4fe-46c2-889e-40975d0bbffe` under `.cursor/projects/home-ari-dev-pt/agent-transcripts/`.
 - Wikipedia / Digital Antiquarian / VGMO used for chronology; prefer Japanese primary sources for proof phase.
