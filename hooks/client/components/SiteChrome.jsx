@@ -35,7 +35,7 @@ export default function SiteChrome(props) {
           />
           <FooterLink href={siteHref('/')} label="Home" />
           <FooterLink
-            href="https://paradigmthreat.net/timeline"
+            href="https://timeline.paradigmthreat.net/"
             label="Timeline"
             external={true}
           />
