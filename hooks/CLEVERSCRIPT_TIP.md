@@ -63,7 +63,7 @@ Relay CleverScript is **not** React Fiber. On web, each `setState` that calls `s
 
 **Theme on Android (prep — do not implement tip DOM flips):** same `theme.yaml` `light`/`dark` tokens. Host uses JNI `nativeSetThemeAndRender(name)` to re-resolve the stored VNode **without** a CleverScript hook re-run (one native apply). Future dual style maps may remove re-resolve; until then tips must not rely on `html.dark` / `navChromeCss` cascade.
 
-**Inactive until hydrated:** host SSR HTML emits `html[data-pt-hydrated="0"]`; web glue flips to `"1"` when `set_client_live(true)` (same moment as `isClientLive()`). Tip CSS greys `.pt-client-only` (theme/font/menu/Feeling Lucky) and softens P2 placeholders (`data-pt-*-ssr`) while `"0"`. Nav links + article stay clickable. Mark client-only controls with class `pt-client-only`. Tip Nav also asserts the attr once live (fallback if host glue lags).
+**Inactive until hydrated:** host SSR HTML emits `html[data-pt-hydrated="0"]`; web glue flips to `"1"` when `set_client_live(true)` (same moment as `isClientLive()`). Tip CSS greys `.pt-client-only` (theme/font/menu/Feeling Lucky) and softens P2 placeholders (`data-pt-*-ssr`) while `"0"`. **Pre-hydrate also force-shows `.pt-nav-desktop` and hides the hamburger** — below `lg` the link row is otherwise `display:none` while the menu button is disabled, so Home/Timeline/Chat would be dead until hydrate. Mark client-only controls with class `pt-client-only`. Tip Nav also asserts the attr once live (fallback if host glue lags).
 
 Validate on park-local: after hydrate, theme click must **not** remount the article node — only `documentElement` class / paint.
 
