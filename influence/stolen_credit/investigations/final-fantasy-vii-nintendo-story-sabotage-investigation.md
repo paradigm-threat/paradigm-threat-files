@@ -1,6 +1,6 @@
 # *Final Fantasy VII* — platform rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, and story sabotage (**AU-055**, open)
 
-> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, mainline FF centers on **self-delusion / fabricated memory / false reality to shatter** — unlike I–VI grounded heroes (Warrior of Light, Firion, Onion Knights, Cecil, Bartz, Terra/Locke) who were honest with themselves (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
+> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
 
 **Status:** Open — false-memory mandate cluster (FF7 × Mother 3); corroborate / falsify ordered-agenda layer.
 
@@ -134,6 +134,10 @@
 
 > Nearly every mainline Final Fantasy game from VII onward (AFTER IT WAS MODIFIED INTO VERSION B) centers on a protagonist or entire society living under a heavy layer of self-delusion, fabricated memories, or systemic deception. Instead of just fighting an evil empire, the characters must first shatter a false reality—often one they built themselves to cope with trauma. In the earlier games, the main playable heroes—like Warrior of Light, Firion, Onion Knights, Cecil, Bartz, and Terra/Locke—were morally grounded, mentally stable archetypes. They were honest with themselves. If they didn't know something, it was because a villain hid it from them or magic wiped their mind, not because their own psyche fractured to protect them from trauma.
 
+**Scope refinement (author, same day):**
+
+> The pattern breaks on the MMOs for obvious reasons but continues on EVERY non MMO with the exception of 12 — Vaan is a massive outlier compared to characters like Cloud, Tidus, or Clive. The illusion there is cosmic and ends when Ashe chooses to smash the stone, declaring that humanity will write its own history, free from divine curation. This might even be an NSA aligned game/plot. It had heavy controversy when it was made and represents the end of an old battle tradition starting with ff1 (nasir) then the other guy after he was retired leading to tactics and then 12. So 12 does represent a refreshing outlier.
+
 **What that means (unpack):**
 
 | Layer | Author meaning |
@@ -142,16 +146,24 @@
 | Core loop change | Pre-VII: fight empire / crystal / empire villain. Post–Version B: **first shatter a false reality** (self-built trauma coping or systemic lie), *then* fight |
 | Self-fracture vs external hide | Ignorance used to be **villain concealment** or **external magic wipe**. After B: the psyche **fractures itself** to hide trauma — Cloud-class, not Firion-class |
 | Early heroes listed | Warrior of Light, Firion, Onion Knights, Cecil, Bartz, Terra/Locke = **honest with themselves**; moral / mental archetypes remain stable |
-| Pattern reveal | Same false-memory mandate (§1.1) **cascades** across the franchise after VII B — not only Cloud/Zack |
+| **MMOs out** | *FFXI* / *FFXIV* (and MMO-shaped products) **break** the pattern for **obvious** service / avatar / world-persistence reasons — not counterexamples to the single-player mandate |
+| **Every non-MMO except XII** | Cascade continues through Cloud / Tidus / Clive-class titles; ***Final Fantasy XII*** is the **named exception** |
+| **Vaan outlier** | Not a trauma-fractured identity puzzle like Cloud, Tidus, or Clive — street-level honest protagonist energy |
+| ***XII* illusion = cosmic** | False reality is **divine curation / Occuria**, not a psyche coping with personal trauma; ends when **Ashe smashes the stone** — humanity writes its **own history**, free of gods |
+| **NSA-aligned?** | Author: *XII* may sit in the **NSA-aligned warning** camp (human agency vs curated history) — same class language as HL2 / *Children of Men* lanes in-repo; **open**, not memo-proven |
+| **Controversy + battle-tradition end** | Heavy development controversy; marks the **end** of an old battle tradition: **Nasir Gebelli** (*FFI*–III) → successor after his retirement (**Hiroyuki Ito** ATB line in documented staff history) → ***Tactics*** → ***XII*** (Matsuno mid-exit) — see [battle lineage](/influence/stolen_credit/square-battle-system-lineage.md) |
+| **Refreshing outlier** | *XII* is not another Cloud-delusion product — it is a **break** that still shatters a lie, but the lie is **cosmic/political**, and the hero class is **honest** |
 
 **Sketch (author typology — reception / theme inventory, not spoiler dossier):**
 
-| Era | Typical knowledge problem | Author read |
-|-----|---------------------------|-------------|
+| Era / slice | Typical knowledge problem | Author read |
+|-------------|---------------------------|-------------|
 | *FFI–VI* | Secret kept by empire / mage / crystal; hero still **knows who he is** | Grounded archetypes |
-| *FFVII* Version B → onward | Self-delusion, fabricated memory, or **society-scale** false reality the party must shatter | Postmodern / trauma-coping fork |
+| *FFVII* Version B → **non-MMO** mainline (ex. *XII*) | Self-delusion, fabricated memory, or trauma-coping false self (Cloud / Tidus / Clive-class) | Postmodern / psyche-fracture fork |
+| **MMOs** (*XI*, *XIV*, …) | Pattern **does not apply** (service / MMO grammar) | Carve-out |
+| ***FFXII*** | Cosmic Occuria curation; **Ashe** ends it by smashing the stone — humanity authors history | **Refreshing outlier**; possible **NSA-aligned** agency plot; battle-tradition terminus |
 
-**Separation:** Series-theme cascade = **author pattern**. Individual title spoilers and Ultimania citations for VIII+ remain **open TODOs** (§12). Ties to ordered false-memory doctrine (§1.1) and Mother 3 cluster (§8.4).
+**Separation:** Series-theme cascade + *XII*/MMO carve-outs = **author pattern**. *XII* NSA-alignment = **author** (AU-class). Gebelli → Ito → Tactics → *XII* battle handoff = **documented staff chronology** with **author** “end of tradition / refreshing outlier” overlay. Title-by-title citations for remaining non-MMO entries remain **open TODOs** (§12). Ties to ordered false-memory doctrine (§1.1) and Mother 3 cluster (§8.4).
 
 ---
 
@@ -168,7 +180,7 @@ Link once: [`docs/REDACTION.md`](/docs/REDACTION.md).
 | Simple revenge plot → crystal / Lifestream god-plan | **R4**-adjacent polarity (grounded villain → metaphysical puppet) | **R4-inferred** unless early script recovered |
 | Midgar as “Nintendo R&D planned” | Attribution of labor | **Author / institutional inference** — **not** employment-documented |
 | Post-VII + leftover music as pillage | **R1** omit peak craft continuity; leftover reuse = credit shell | Pattern in [Uematsu](/influence/stolen_credit/nobuo-uematsu.md); not proof of intentional story sabotage |
-| Mainline VII-B onward = self-delusion / false-reality cascade vs I–VI grounded heroes | **R4**-adjacent (honest self ↔ trauma-fractured self) + **R6** “mystery” prestige | **Author pattern** (§1.5); title-by-title inventory open |
+| Mainline VII-B onward = self-delusion / false-reality cascade vs I–VI grounded heroes | **R4**-adjacent (honest self ↔ trauma-fractured self) + **R6** “mystery” prestige | **Author pattern** (§1.5); **MMOs carved out**; ***XII*** = refreshing outlier (cosmic lie / Ashe); title ledger still open for remaining non-MMOs |
 
 ---
 
@@ -587,10 +599,13 @@ Honest falsifiers and soft spots — **do not skip**.
 
 | Problem | Detail |
 |---------|--------|
-| **“Nearly every” needs a ledger** | VIII–XVI each need a one-line false-reality / self-delusion cite or the claim overreaches. |
-| **Counterexamples / soft edges** | Some post-VII titles lean empire/crystal more than psyche fracture; *FFVI* already has amnesia/empire fog (Terra) — author distinguishes **external** wipe vs **self-built trauma coping**, but critics will blur that line. |
-| **Trend ≠ ordered doctrine** | Industry fashion (unreliable narrator prestige) can explain cascade without a VII-B **mandate** memo. |
-| **Still useful as pattern** | Even if “nearly every” softens, the **I–VI honest-self vs Cloud-class** contrast is the load-bearing contrast for Version A restoration. |
+| **“Nearly every” → scoped** | Author now scopes to **non-MMO** mainline **except *XII*** — still needs a one-line cite per remaining title (VIII–X, XIII, XV, XVI / Clive-class) or the claim overreaches. |
+| **MMO carve-out is soft** | “Obvious reasons” is fair for service games; critics can still ask whether *XIV* MSQ identity twists rhyme thematically. |
+| ***XII* as NSA-aligned** | Occuria / smash-the-stone agency read is **coherent**; **NSA-camp** label is **author** until paired with the HL2 / *Children of Men* methodology explicitly. |
+| **Battle-tradition “end”** | Gebelli → Ito → Tactics → *XII* staff path is **documented**; “end of tradition = refreshing story outlier” is **interpretive**. Matsuno mid-exit complicates authorship purity. |
+| **Counterexamples / soft edges** | *FFVI* Terra amnesia still blurs external wipe vs self-fracture for critics. |
+| **Trend ≠ ordered doctrine** | Industry fashion can explain Cloud-class cascade without a VII-B **mandate** memo. |
+| **Still useful as pattern** | I–VI honest-self vs Cloud/Tidus/Clive-class + ***XII* carve-out** is the load-bearing map for Version A restoration. |
 
 ### 10.8 Strongest surviving core (after stress test)
 
@@ -627,7 +642,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | 12 | Magypsy (“Magipsy”) + Mother 3 non-US release = **agenda / divide-and-conquer**, not happy craft | Localization friction documented; agenda author | Partial |
 | 13 | Agenda effect class: fan **depression / suicide risk**; writers know; that is the point | Moral/pattern conclusion — **no epi cite in-file yet** | Author |
 | 14 | VII **ending** is weakest link — Lifestream hunt + FMV coda is a **shadow** of *FFVI*’s long triumphant finale; unfinished at Nintendo rip + ordered Sony changes → **uninspired** close; that limp ending is a **clue** | Comparative reception strong; Kitase “different from the past” + late rework **documented**; “ordered / unfinished because Sony” **author** | Partial |
-| 15 | After *FFVII* **Version B**, nearly every mainline FF centers on **self-delusion / fabricated memories / systemic false reality** the party must shatter; I–VI heroes (Warrior of Light, Firion, Onion Knights, Cecil, Bartz, Terra/Locke) were **honest with themselves** — ignorance was villain hide or external magic wipe, not psyche fracture for trauma | Series-theme **author pattern** (§1.5); title-by-title citations open | Author |
+| 15 | After *FFVII* **Version B**, **every non-MMO** mainline (ex. ***XII***) centers on **self-delusion / fabricated memories / trauma false-self** (Cloud / Tidus / Clive-class); **MMOs carve out**; ***XII*** = **refreshing outlier** (Vaan honest; cosmic Occuria lie ends when **Ashe smashes the stone** — humanity writes history); possible **NSA-aligned** agency plot; battle-tradition terminus Nasir → Ito → Tactics → *XII* | Series-theme **author pattern** (§1.5); staff battle lineage **documented**; NSA-camp **author**; remaining non-MMO one-liners open | Author / partial |
 
 **Registry:** [author-unique theories](/history/chronology/investigations/author-unique-theories.md) **AU-055**.
 
@@ -648,7 +663,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | Remake Masamune “manifest” — designer wording | Remake Ultimania |
 | Longer *FFVI*-class VII ending draft cut after platform exit? | Ultimania Omega early materials; period *Famitsu* / *V Jump* ending interviews |
 | Inventory: Jenova/Sephiroth **control-of-Cloud** beats that fire **without** Zack-delusion dialogue | English script (Whirlwind, Black Materia, clones); JP cross-check |
-| **Post–Version B cascade ledger** — one false-reality / self-delusion line per mainline VIII–XVI (or falsify “nearly every”) | Plot summaries + Ultimania; keep *FFVI* Terra as control for “external wipe vs self-fracture” |
+| **Post–Version B cascade ledger** — one false-reality / self-delusion line per **non-MMO** mainline VIII–X, XIII, XV, XVI (exclude *XI*/*XIV*; treat ***XII*** as documented carve-out) | Plot summaries + Ultimania; keep *FFVI* Terra as control for “external wipe vs self-fracture”; *XII* Occuria/Ashe stone as **cosmic** control |
 
 ---
 
@@ -684,9 +699,9 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 ---
 
-Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight #SelfDelusion #VersionB
+Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight #SelfDelusion #VersionB #FinalFantasyXII #Vaan #Ashe #NasirGebelli #NSAAligned
 
-*Last updated: 2026-09-06* (post–Version B self-delusion cascade §1.5; VII music vault §1.4; Zack delusion §1.3/§6.4)
+*Last updated: 2026-09-06* (*XII*/MMO carve-outs on §1.5 cascade; Ashe stone / NSA-aligned outlier; music vault; Zack delusion)
 
 ---
 
@@ -704,7 +719,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 
 ## Investigator notes
 
-- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4); **post–Version B mainline self-delusion cascade** (§1.5) — I–VI honest heroes vs VII-B onward false-reality shatter loop. Kitase V Jump: ending reworked last-second, “different from the past.”  
+- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4); **post–Version B cascade** (§1.5) scoped: **MMOs out**; **every non-MMO except *XII***; Vaan outlier; Ashe smashes Occuria stone; possible NSA-aligned; Gebelli→Ito→Tactics→*XII* battle-tradition end. Kitase V Jump: ending reworked last-second, “different from the past.”  
 - Kristóf: **documented Mother 3 inspiration** (Starmen.net Itoi); trilogy **child sexual violence / pedophilia / grooming CW** floor → [AU-056 §8.1](mother-3-earthbound-64-magypsy-rupture-investigation.md); keep **off** FF7 source column.  
 - Magipsy = author spelling; canon **Magypsy**.  
 - AU-056 Mother 3 dossier shipped same day.  

@@ -38,8 +38,14 @@
 - **Yasumi Matsuno** — original director/producer; stepped down **mid-production**.
 - **Official reason:** Health issues.
 - **Speculation:** Creative disagreements; Sakaguchi reportedly declined to play beyond the intro.
+- Heavy contemporary **controversy** (direction, tone, battle system, delayed ship).
 - **Succession:** Hiroyuki Ito (ATB creator, FF9 director) and Hiroshi Minagawa (Vagrant Story, FFT) took over as co-directors. Matsuno remained "Original Scenario/Plot Supervisor."
 - **Gambit system** — now regarded as "elegant"; but the loss of Matsuno mid-stream meant the game was finished by a different creative hand.
+- **Story outlier (AU-055 §1.5 author):** Unlike Cloud / Tidus / Clive-class psyche-fracture protagonists, **Vaan** is a massive honesty outlier; the “false reality” is **cosmic** (Occuria) and ends when **Ashe smashes the stone** — humanity writes its own history, free of divine curation. Author: possible **NSA-aligned** agency plot; **refreshing** break in the post–*FFVII* Version B self-delusion cascade (**MMOs** also carved out). Cross-link: [AU-055](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md).
+
+### Tradition path (author overlay on documented staff)
+
+**Nasir Gebelli** (*FFI*–III battle code) → retirement → **Hiroyuki Ito** (ATB / later *XII* co-direction) → ***Tactics*** (Matsuno) → ***XII*** — author: end of that old battle-tradition line, with *XII* as both terminus and story outlier.
 
 ---
 
