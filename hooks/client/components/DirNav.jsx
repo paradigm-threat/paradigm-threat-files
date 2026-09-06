@@ -110,7 +110,7 @@ export default function DirNav() {
     )
   }
 
-  const rows = take(loadArticleRows(100), 100)
+  const rows = take(loadArticleRows(60), 60)
   const tree = buildDirTree(rows)
   let hasFolders = false
   let hasFiles = false
@@ -136,8 +136,8 @@ export default function DirNav() {
           node={tree}
           depth={0}
           keyPrefix="r-"
-          maxTop={14}
-          maxFiles={5}
+          maxTop={8}
+          maxFiles={3}
           maxDepth={2}
         />
       )}

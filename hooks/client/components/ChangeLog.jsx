@@ -211,7 +211,7 @@ function tabCss() {
 }
 
 export default function ChangeLog(props) {
-  let limit = 8
+  let limit = 5
   try {
     if (props && typeof props.limit === 'number' && props.limit > 0) limit = props.limit
   } catch (e) {}
