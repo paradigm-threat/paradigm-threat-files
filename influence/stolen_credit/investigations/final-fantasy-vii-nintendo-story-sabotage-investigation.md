@@ -374,6 +374,9 @@ Find **any citation** that *FFVII* was **based on a book**, preferably a **war s
 | Itoi cites ***Le Grand Cahier*** (*The Notebook*) as inspiration; “similar to an RPG,” “incredible presence”; twins’ bond | [Starmen.net EB64 interview 5](http://starmen.net/eb64/interviews/5.php) (Itoi: Lucas/Claus names from the novel; Hayakawa Press Japan) |
 | Lucas / Claus named after Kristóf twin narrators | [Wikipedia: *The Notebook* (1986)](https://en.wikipedia.org/wiki/The_Notebook_(1986_novel)); [Ágota Kristóf](https://en.wikipedia.org/wiki/Agota_Kristof) |
 | Trilogy structure includes later volumes that **destabilize** earlier “truth” (*The Proof*, *The Third Lie*) | [Notebook Trilogy](https://en.wikipedia.org/wiki/The_Notebook_Trilogy) |
+| ***Notebook Trilogy* content floor:** graphic violence including **sexual violence against children**; StoryGraph/reader CW lanes flag **pedophilia** and **grooming** | [Old Paper & Cats](https://oldpaper.uglyporcelaincat.com/the-notebook-the-proof-the-third-lie/); [StoryGraph CW 37](https://app.thestorygraph.com/book_reviews/6a296027-5450-4af0-bd4f-07301cf476cf/content_warning/37); [StoryGraph CW 18](https://app.thestorygraph.com/book_reviews/6a296027-5450-4af0-bd4f-07301cf476cf/content_warning/18) — full chain locked in [**AU-056 §8.1**](mother-3-earthbound-64-magypsy-rupture-investigation.md) |
+
+**Author finding (2026-09-06) — Bingo:** Itoi did not merely borrow twin names from a “dark war book.” He pointed Mother at a trilogy whose **documented content class** is child abuse / sexual violence against children / grooming-adjacent. That sits upstream of *Mother 3*’s **Ionia “endure it” → PK Love** beat ([AU-056 §2.4](mother-3-earthbound-64-magypsy-rupture-investigation.md#24-ionia-hot-spring--endure-it--pk-love-corroborated--grooming-pattern-read-author)) — literary cite and Magypsy scene as **one program**.
 
 **Author (not Itoi’s stated intent):**
 
@@ -581,7 +584,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega
 
-*Last updated: 2026-09-06* (ending collapse vs *FFVI* §1.2 / §5.6; Version A leftover inventory §5.5)
+*Last updated: 2026-09-06* (Kristóf trilogy child-abuse content floor → AU-056 §8.1; ending collapse; Version A)
 
 ---
 
@@ -600,7 +603,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 ## Investigator notes
 
 - Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6) — author: unfinished at rip, Sony orders, uninspired close as clue. Kitase V Jump: ending reworked last-second, “different from the past.”  
-- Kristóf: **documented Mother 3 inspiration** (Starmen.net Itoi); keep **off** FF7 source column.  
+- Kristóf: **documented Mother 3 inspiration** (Starmen.net Itoi); trilogy **child sexual violence / pedophilia / grooming CW** floor → [AU-056 §8.1](mother-3-earthbound-64-magypsy-rupture-investigation.md); keep **off** FF7 source column.  
 - Magipsy = author spelling; canon **Magypsy**.  
 - AU-056 Mother 3 dossier shipped same day.  
 - GameFAQs Ultimania Omega FAQ often Cloudflare-blocked; Lifestream / cached FAQ interim.  
