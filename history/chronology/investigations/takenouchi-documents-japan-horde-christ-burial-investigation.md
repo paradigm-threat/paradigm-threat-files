@@ -22,11 +22,11 @@
 
 **Sign at Shingo:** **Primary for narrative geography** (Isukiri on cross; family **east** with body; Siberia → Alaska → Aomori; twin-mound **story**; death at 106) — **not** primary proof that **this mound pair** is the grave. Toponyms like **"Judea"** use **old timeline and old geography** (pre-Scaligerian +1000) — Fomenko-aligned, not Western Palestine.
 
-1. **Brother swap:** Isukiri on the cross; Christ survives — [`06.03.01`](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross).
+1. **Brother swap:** Isukiri on the cross; Christ survives — [`06.03.01`](https://timeline.paradigmthreat.net/timeline/evt-the-brother-on-the-cross).
 2. **Japan study years:** Christ at 21, twelve years near Mount Fuji — eastern divinity training before Istanbul trap.
 3. **Eastward retirement:** Siberia → Alaska → Japan — **intra-empire movement** within Horde eastern reach; family carries Isukiri's body east (sign narrative).
 4. **Burial in Japan:** Christ + Isukiri interred **somewhere in Japan** — **original locus destroyed**; Shingo = **unproved Takeuchi-tagged candidate**.
-5. **Death date:** Age 106 → **1258 CE** — Horde consolidation band ([`07.02.00`](https://paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
+5. **Death date:** Age 106 → **1258 CE** — Horde consolidation band ([`07.02.00`](https://timeline.paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
 6. **1935 event:** Takeuchi **public announcement** — **untrusted** for location; may tag **pre-existing ordinary mounds**; **not** origin of eastern Christ memory.
 7. **1930s packaging:** **"Japan origin of all world religions"** = exclusive-origin hijack (§5.6) — wrong and anti-Horde.
 8. **1931–1937 sustainment (author thesis — §5.7):** **Manchuria 1931** precedes Shingo; continental invasion under **Western-groomed** pipeline (equipment, orders) → **ideology required afterward** to sustain and scale toward WWII. **1935 Shingo tagging** = **failed** attempt to **enshrine** that ideology via Christ + Pan-Asian mission; **emperor *kokutai*** (always parallel since Meiji/British grooming) **won** when Christ-Shingo was debunked.
@@ -165,7 +165,7 @@ Sources: [Wikipedia — Takeuchi documents](https://en.wikipedia.org/wiki/Takeuc
 
 - Historical Christ **1152 CE** Crimea → **1185 CE** Istanbul crucifixion → Rus-Horde / Tartarian expansion.
 - Shingo relay supplies **eastern geography** for survival and old age — **not proved locus**.
-- **1152 + 106 = 1258 CE** aligns Christ's death with Horde consolidation ([`07.02.00`](https://paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
+- **1152 + 106 = 1258 CE** aligns Christ's death with Horde consolidation ([`07.02.00`](https://timeline.paradigmthreat.net/timeline/evt-1258-ce-historical-christ-dies)).
 
 ### 5.2 Saturnian layer
 

@@ -78,7 +78,7 @@ Democracy, in this reading, **only functions in the open**. Behind closed doors 
 
 The Sneakers lane in the good-actor investigation names the same split in fiction: a team of outsiders who can break encryption because the institutions that built the locks also built the back doors. Hollywood has been rehearsing interagency war for decades—sometimes as warning, sometimes as recruitment poster, sometimes as **predictive programming** that tells you the method and assigns the wrong moral. *Ghost War* sits in that last bucket: revelation-of-the-method plus wrong-villain framing, the same shape as controlled-opposition disclosure elsewhere on the site.
 
-The [historical antibodies](https://paradigmthreat.net/timeline/evt-historical-antibodies) chapter names the pattern: independents who expose machinery or carry suppressed knowledge without being staged opposition. Ellsberg copied the Pentagon Papers; **Robert Hanyok** (NSA historian) fought **2002–2005** to declassify proof the second Gulf of Tonkin attack did not occur—SIGINT skewed to sell war. Two antibodies, two eras, same casus-belli architecture. For curriculum silence on Tonkin versus Watergate, see [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md).
+The [historical antibodies](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies) chapter names the pattern: independents who expose machinery or carry suppressed knowledge without being staged opposition. Ellsberg copied the Pentagon Papers; **Robert Hanyok** (NSA historian) fought **2002–2005** to declassify proof the second Gulf of Tonkin attack did not occur—SIGINT skewed to sell war. Two antibodies, two eras, same casus-belli architecture. For curriculum silence on Tonkin versus Watergate, see [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md).
 
 ![Historical antibodies — independent agents against erasure (timeline chapter)](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
 
@@ -112,7 +112,7 @@ Predictive programming on this site is not only **narrative containment** (wrong
 
 ![Trump-era Hollywood — predictive programming scorecard investigation (2016–2026)](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.png)
 
-**Author anticipation frame (2020–2024):** Western intel and allied leadership (including figures who had **long prioritized the Iran flank**, e.g. **Netanyahu’s** decades-long focus on Iranian capacity in the [historical antibodies](https://paradigmthreat.net/timeline/evt-historical-antibodies) read) could **anticipate** a **Trump return** after the **2020** election dispute, fraud cleanup, and **2024** win—then a **known bundle** of moves: proxy-terror geometry in the Levant, **Iran** latency and strikes, maritime pressure, MI6–CIA continuity with a **visible U.S. executive** again. *Ghost War* was **greenlit Oct 30, 2024** ([Deadline](https://deadline.com/2024/10/john-krasinski-jack-ryan-movie-amazon-mgm-studios-1236145678/)), **before** the November election and **before** the **May 2026** release window when **spring 2026 Iran** headlines peaked ([Mission Accomplished (Again) — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)). PP function: **inoculate** the audience **before** those headlines so interpretive antibodies never attach.
+**Author anticipation frame (2020–2024):** Western intel and allied leadership (including figures who had **long prioritized the Iran flank**, e.g. **Netanyahu’s** decades-long focus on Iranian capacity in the [historical antibodies](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies) read) could **anticipate** a **Trump return** after the **2020** election dispute, fraud cleanup, and **2024** win—then a **known bundle** of moves: proxy-terror geometry in the Levant, **Iran** latency and strikes, maritime pressure, MI6–CIA continuity with a **visible U.S. executive** again. *Ghost War* was **greenlit Oct 30, 2024** ([Deadline](https://deadline.com/2024/10/john-krasinski-jack-ryan-movie-amazon-mgm-studios-1236145678/)), **before** the November election and **before** the **May 2026** release window when **spring 2026 Iran** headlines peaked ([Mission Accomplished (Again) — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)). PP function: **inoculate** the audience **before** those headlines so interpretive antibodies never attach.
 
 ![Netanyahu — faked death / Shiva rumors investigation (Iran flank, March 2026 window)](https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.png)
 
@@ -164,14 +164,14 @@ So sit back. Watch the human carnage and costs that cannot be escaped—not beca
 
 ## Where next
 
-- [Timeline: CIA vs NSA / SIGINT / *Tron* (1952–1982)](https://paradigmthreat.net/timeline/evt-cia-vs-nsa-sigint-antibody-tron)
+- [Timeline: CIA vs NSA / SIGINT / *Tron* (1952–1982)](https://timeline.paradigmthreat.net/timeline/evt-cia-vs-nsa-sigint-antibody-tron)
 - [NSA investigation — Tron theory, MINARET, Tonkin/Hanyok](https://paradigmthreat.net/governance/war/investigations/nsa-investigation.md)
 - [Good-actor theory — interagency war, antibodies, Ghost War § IV](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md)
 - [9/11 investigation — counter–false-flag read, WTC 7](https://paradigmthreat.net/events/false_flag/investigations/09-11-investigation.md)
 - [Call of Duty militainment — Office / Krasinski clue thread §4.6](https://paradigmthreat.net/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md)
 - [Benghazi / *13 Hours* — Krasinski lane](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md)
 - [Mission Accomplished (Again) — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md)
-- [Historical antibodies — timeline chapter](https://paradigmthreat.net/timeline/evt-historical-antibodies)
+- [Historical antibodies — timeline chapter](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies)
 - [Trump-era Hollywood PP methodology](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.md)
 
 ## Framing and limits

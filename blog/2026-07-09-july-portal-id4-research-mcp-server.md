@@ -171,7 +171,7 @@ Both share handlers and corpus; choose by **where the user works**. Full WebMCP 
 
 ## paradigm-threat-timeline
 
-- [**Dead Planet Protocol**](https://paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol) — new timeline event; Mars surface dismantling window, Mariner seal, cross-link Mars/CERN arc from Part A portal essay.
+- [**Dead Planet Protocol**](https://timeline.paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol) — new timeline event; Mars surface dismantling window, Mariner seal, cross-link Mars/CERN arc from Part A portal essay.
 
 ---
 
@@ -203,7 +203,7 @@ The site repo shipped **Research MCP** as the headline infra pass, plus search a
 ## Reading order
 
 1. **Research MCP:** [/mcp setup](https://paradigmthreat.net/mcp) → connect in Cursor or ChatGPT → try `search_site` + `research_status` on a topic you care about → `read_article` on hit → check primary citations in dossier.
-2. **Portal trilogy:** [Out of This Door](https://paradigmthreat2.substack.com/p/out-of-this-door-might-come-something) → [Philadelphia Part B](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) → [earth-portal timeline art](https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png) → [CERN–Mars investigation](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation) → [Dead Planet timeline event](https://paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol).
+2. **Portal trilogy:** [Out of This Door](https://paradigmthreat2.substack.com/p/out-of-this-door-might-come-something) → [Philadelphia Part B](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) → [earth-portal timeline art](https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png) → [CERN–Mars investigation](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation) → [Dead Planet timeline event](https://timeline.paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol).
 3. **Hollywood PP series:** [Not Like This](https://paradigmthreat2.substack.com/p/not-like-this) → [Everything Burns](https://paradigmthreat2.substack.com/p/everything-burns) → [Everything in Independence Day Is True](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) → [two-camp investigation Thread O/P](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation).
 4. **Wells misread:** [Philadelphia Part B § Wells](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) → [time-travel literature deposit investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation).
 5. **JFK hoax:** [JFK/RFK investigation §2.1–§2.7](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) → [JFK Was Never Assassinated](https://paradigmthreat2.substack.com/p/jfk-was-never-assassinated).

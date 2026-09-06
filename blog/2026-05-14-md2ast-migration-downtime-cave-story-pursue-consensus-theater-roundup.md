@@ -81,7 +81,7 @@ Reader-visible outcomes: article pages should again show **real figure rasters**
 
 Light touch relative to files, but not zero. Agent instructions now distinguish **event YAML** (timeline `content/` dates and ids) from **article hub frontmatter** (files-repo `page.md` indices) so assistants stop mixing schemas. The default Relay **client GET hook** (`hooks/client/get.jsx`) landed here in sync with the files-repo server hook.
 
-The [2019 CE — *Ares Le Mandat* Mars–Earth influence corpus](https://paradigmthreat.net/timeline/evt-2019-ce-ares-le-mandat-mars-earth-influence-corpus) event gained a corrected cross-link: Israel–Gaza / Zenodo tomb mirrors now point at **§4–7** of the combined [Ares Le Mandat investigation](https://paradigmthreat.net/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation) rather than a split child file — keeping the Mars360 influence graph navigable from the book timeline.
+The [2019 CE — *Ares Le Mandat* Mars–Earth influence corpus](https://timeline.paradigmthreat.net/timeline/evt-2019-ce-ares-le-mandat-mars-earth-influence-corpus) event gained a corrected cross-link: Israel–Gaza / Zenodo tomb mirrors now point at **§4–7** of the combined [Ares Le Mandat investigation](https://paradigmthreat.net/cosmos/mars/investigations/ares-le-mandat-mars-direct-earth-influence-investigation) rather than a split child file — keeping the Mars360 influence graph navigable from the book timeline.
 
 ---
 

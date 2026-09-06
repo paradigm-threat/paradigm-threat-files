@@ -41,19 +41,19 @@ Freemasonry article split into two: the Horde-era imperial builder class (The Ma
 
 ### Freemasonry: From Operative to Speculative (new)
 
-[Freemasonry: From Operative to Speculative](https://paradigmthreat.net/timeline/evt-freemasonry-operative-to-speculative)
+[Freemasonry: From Operative to Speculative](https://timeline.paradigmthreat.net/timeline/evt-freemasonry-operative-to-speculative)
 
 New article covering **institutional Freemasonry** — documentary gaps, Regius Poem, operative vs speculative transition, GAOTU (Great Architect of the Universe), and the London–D.C.–Vatican architectural thread. Distinguishes from the Horde-era imperial builder class (covered in The Masons article). Documents how operative masons executed the XIV–XVI century building programme under the Rus-Horde Empire, then became "speculative" Freemasons after the Reformation when the empire fragmented — lodges retained signs, tools, and oaths while losing the material technology.
 
 ### The Masons (updated)
 
-[The Masons: Imperial Builders of the Rus-Horde Empire](https://paradigmthreat.net/timeline/evt-the-masons) (updated)
+[The Masons: Imperial Builders of the Rus-Horde Empire](https://timeline.paradigmthreat.net/timeline/evt-the-masons) (updated)
 
 Article updated to clarify distinction from institutional Freemasonry. This article covers the **Horde imperial builder class** — temple commission, unified construction programme, Cathars/Gothic line, secrecy, geopolymer at scale.
 
 ### British Empire as Deep State Instrument (updated)
 
-[British Empire as Deep State Instrument](https://paradigmthreat.net/timeline/evt-british-empire-as-deep-state) (updated)
+[British Empire as Deep State Instrument](https://timeline.paradigmthreat.net/timeline/evt-british-empire-as-deep-state) (updated)
 
 ### Chapter 06 Christianity Articles (updated)
 
@@ -61,7 +61,7 @@ Updates to Christianity chapter articles with Fomenko scope, institutional logic
 
 ### 1947 CIA Article (updated)
 
-[1947 CE — The CIA is Founded](https://paradigmthreat.net/timeline/evt-1947-ce-the-cia-is-founded) (updated)
+[1947 CE — The CIA is Founded](https://timeline.paradigmthreat.net/timeline/evt-1947-ce-the-cia-is-founded) (updated)
 
 Article updated with author opinion references on Iran — fatwa blind spot, depleted uranium not sci-fi nukes, CIA underground facility.
 

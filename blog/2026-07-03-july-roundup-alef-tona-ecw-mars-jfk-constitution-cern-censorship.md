@@ -101,7 +101,7 @@ The through-line is **who controls propagation** — scam meshes that simulate c
 
 ## paradigm-threat-timeline
 
-- **Gastaldi 1548 pre-MFEE maps** — documented in MFEE timeline chapters ([commit 3052337](https://paradigmthreat.net/timeline/)); supports Asia–America continuity read tied to files-repo Gastaldi evidence drop. Cross-read [MFEE investigation](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation) and Mars/cosmology lanes.
+- **Gastaldi 1548 pre-MFEE maps** — documented in MFEE timeline chapters ([commit 3052337](https://timeline.paradigmthreat.net/timeline/)); supports Asia–America continuity read tied to files-repo Gastaldi evidence drop. Cross-read [MFEE investigation](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation) and Mars/cosmology lanes.
 
 ---
 
@@ -130,7 +130,7 @@ The site repo shipped **reader infrastructure** and **operational fixes** in par
 3. **Invention:** [ECW article](https://paradigmthreat2.substack.com/p/exact-change-wallet-invention-and) → [invention spec](https://paradigmthreat.net/science/computing/exact-change-wallet-invention-spec) → [modern celebrity slavery](https://paradigmthreat2.substack.com/p/its-gonna-be-a-long-long-time) (containment rhymes).
 4. **Mars / keeper cult:** [Mars Dagger essay](https://paradigmthreat2.substack.com/p/the-mars-dagger-joseph-smiths-household) → [mars-dagger investigation](https://paradigmthreat.net/cosmos/mars/investigations/mars-dagger-investigation) → [CERN–Mars gateway](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation) → [MFEE investigation](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation).
 5. **Spectacle hoax:** [JFK/RFK investigation §2.1–§2.4](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation) → [JFK Was Never Assassinated](https://paradigmthreat2.substack.com/p/jfk-was-never-assassinated) → [compromised court cases](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation).
-6. **Chronology metrology:** [crucifixion nail investigation](https://paradigmthreat.net/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation) → [Hidden History of Words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words) → [877 CE Nicaea event](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated).
+6. **Chronology metrology:** [crucifixion nail investigation](https://paradigmthreat.net/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation) → [Hidden History of Words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words) → [877 CE Nicaea event](https://timeline.paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated).
 
 ---
 

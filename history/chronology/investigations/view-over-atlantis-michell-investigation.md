@@ -52,7 +52,7 @@ Michell does not invent the term from scratch: he builds on **Alfred Watkins of 
 - **Mechanism:** Michell’s “dragon force,” **Reich**, **von Reichenbach**, and **gematria** are **not** the same as **cathodic grounding at ley portals** in plasma weather. Parallel **narratives**, not one unified theory.
 - **Scope:** The book is **UK–centric** with Egyptian and Chinese excursuses; the timeline’s **Pyramidal Empire** and **Exodus** arcs need **other** sources.
 
-**Practical use on-site:** Keep Michell in the same evidence class as Kerrell & Goggin’s bibliography nod: **period secondary / revival-era synthesis** that **preserves** Brunton–Pyramid and **ley** memes the timeline reinterprets. Link related timeline entries: [Pyramids: Myths vs Reality](https://paradigmthreat.net/timeline/evt-pyramids-myths-vs-reality), [Dark Ages BCE](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages), [Pyramid energy — Kerrell & Goggin (1977)](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md).
+**Practical use on-site:** Keep Michell in the same evidence class as Kerrell & Goggin’s bibliography nod: **period secondary / revival-era synthesis** that **preserves** Brunton–Pyramid and **ley** memes the timeline reinterprets. Link related timeline entries: [Pyramids: Myths vs Reality](https://timeline.paradigmthreat.net/timeline/evt-pyramids-myths-vs-reality), [Dark Ages BCE](https://timeline.paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages), [Pyramid energy — Kerrell & Goggin (1977)](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md).
 
 ---
 

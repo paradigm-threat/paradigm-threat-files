@@ -4,7 +4,7 @@
 
 > **TL;DR:** Ed Wood and Plan 9 from Outer Space — Investigation: The plot encodes, with unusual specificity: The mainstream view: filmmakers create what audiences want—profit-driven popular media, science fiction narratives, action flicks. The predictive-programming thesis: certain productions are funded to propagate specific plot points, regardless of audience demand or artistic merit.
 **Scope:** Predictive programming funding thesis; controlled opposition; inversion of creative process; zombie-apocalypse-as-alien-takeover encoding.  
-**Cross-ref:** [Zombie genre](../zombies/index-zombie-genre-investigation.md) | [Predictive programming page](../page.md) | [Fiction as control](https://paradigmthreat.net/timeline/evt-predictive-programming)
+**Cross-ref:** [Zombie genre](../zombies/index-zombie-genre-investigation.md) | [Predictive programming page](../page.md) | [Fiction as control](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming)
 
 ---
 
@@ -203,7 +203,7 @@ The Plan 9 variant—**aliens resurrect dead → zombie armies → overwhelm cap
 
 - [Zombie genre investigation](../zombies/index-zombie-genre-investigation.md) — Pre-20th c. roots; Stoker, Lovecraft, Romero
 - [Predictive programming page](../page.md) — Fiction encoding index; media catalog
-- [Fiction as control](https://paradigmthreat.net/timeline/evt-predictive-programming) — Forward vs backward programming; Revelation of the Method
+- [Fiction as control](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming) — Forward vs backward programming; Revelation of the Method
 - [Night of the Living Dead](https://paradigmthreat.net/influence/predictive_programming/page.md#media-catalog) — Zombie apocalypse; Media Catalog
 
 **Deep Dive Sources:**

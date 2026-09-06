@@ -44,7 +44,7 @@ This site’s chronology (**not** deep-time uniformitarian Earth):
 
 **What the intro gets half right:** the **affect** of **aligned worlds → violent dispersal → present layout** matches the **3147** “Kronos devours his children” **grammar** ([Golden Age ends](/timeline/evt-3147-bce-the-golden-age-ends-violently)) more than it matches **modern astronomy’s** slow accretion story.
 
-**What it inverts:** alignment is **genesis**, not **mid-sequence capture**; scatter is **beginning of time**, not **end of paradise**; geometry is a **coplanar cartoon row** around the Sun, not the **axial collinear stack** toward Saturn’s pole ([Golden Age chapter — collinear configuration](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age)).
+**What it inverts:** alignment is **genesis**, not **mid-sequence capture**; scatter is **beginning of time**, not **end of paradise**; geometry is a **coplanar cartoon row** around the Sun, not the **axial collinear stack** toward Saturn’s pole ([Golden Age chapter — collinear configuration](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age)).
 
 **PP wedge:** show the **real catastrophe shape** under **deep-time + evolution** labels so a child who later hears **collinear breakup** in alternate chronology reflexively files it as **SNES intro**, not **witness memory**.
 
@@ -91,8 +91,8 @@ The game is **not** clean materialist evolution. It **layers**:
 | [*Chrono Trigger* / Mars](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) | Same **JRPG** medium moment; **dome / ruin** future vs *E.V.O.* **deep past** |
 | [*Final Fantasy* I–VII](final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) | Square contemporary; **catastrophe / ruin** grammar |
 | [Stonehenge — Warcraft PP layer](https://paradigmthreat.net/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) | Same **interactive inoculation** pattern |
-| [Cosmic life cycle](https://paradigmthreat.net/timeline/evt-cosmic-life-cycle) | **Collinear → breakup → settle** sequence *E.V.O.* **compresses and misdates** |
-| [Before Creation](https://paradigmthreat.net/timeline/evt-before-creation) | Rejects **4.5 Ga** as **deep-time faith**; first countable **4077 BCE** |
+| [Cosmic life cycle](https://timeline.paradigmthreat.net/timeline/evt-cosmic-life-cycle) | **Collinear → breakup → settle** sequence *E.V.O.* **compresses and misdates** |
+| [Before Creation](https://timeline.paradigmthreat.net/timeline/evt-before-creation) | Rejects **4.5 Ga** as **deep-time faith**; first countable **4077 BCE** |
 
 ---
 

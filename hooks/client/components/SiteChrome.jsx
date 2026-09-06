@@ -39,7 +39,7 @@ export default function SiteChrome(props) {
             label="Timeline"
             external={true}
           />
-          <FooterLink href="https://paradigmthreat.net/chat" label="Chat" external={true} />
+          <FooterLink href="https://chat.paradigmthreat.net/" label="Chat" external={true} />
           <FooterLink
             href="https://paradigmthreat2.substack.com/"
             label="Substack"

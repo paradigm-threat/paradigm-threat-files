@@ -79,7 +79,7 @@ reconstruction of history from the New Chronology perspective.
 | [07_15.html](en/how_it_was/07_15.html) | Chapter 7. THE EPOCH OF THE XVII CENTURY. |
 | [07_25.html](en/how_it_was/07_25.html) | Chapter 7. THE EPOCH OF THE XVII CENTURY |
 | [07_30.html](en/how_it_was/07_30.html) | Chapter 7.   THE EPOCH OF THE XVII CENTURY |
-| [07_34.html](en/how_it_was/07_34.html) | Ch.7 §34 — **Paschal calendar / Council of Nicaea redated** (877 optimum); Nativity & A.D. era; timeline [877 CE](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) |
+| [07_34.html](en/how_it_was/07_34.html) | Ch.7 §34 — **Paschal calendar / Council of Nicaea redated** (877 optimum); Nativity & A.D. era; timeline [877 CE](https://timeline.paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) |
 | [08.html](en/how_it_was/08.html) | Chapter 8.  THE EPOCH OF THE XIII CENTURY |
 | [08_07.html](en/how_it_was/08_07.html) | Chapter 8.  THE EPOCH OF THE XIII CENTURY |
 | [08_14.html](en/how_it_was/08_14.html) | Chapter 8.  THE EPOCH OF THE XIII CENTURY |

@@ -88,10 +88,10 @@ So: **martyrdom = steadfast witness under maximum duress.** Death alone in a rel
 
 This distinction is already drawn in the paradigm-threat timeline and files:
 
-- **[Revolution Despite Christ's Martyrdom](https://paradigmthreat.net/timeline/evt-revolution-despite-martyrdom)** — States that for the **First Crusade** layer the martyr label **does not hold** for the losing side; they faced mob justice and repentance was common; that is **punishment**, not martyrdom. Martyrdom would require dying affirming that Christ deserved the cross; no such record. See section "Who suffered — and who were not martyrs."
+- **[Revolution Despite Christ's Martyrdom](https://timeline.paradigmthreat.net/timeline/evt-revolution-despite-martyrdom)** — States that for the **First Crusade** layer the martyr label **does not hold** for the losing side; they faced mob justice and repentance was common; that is **punishment**, not martyrdom. Martyrdom would require dying affirming that Christ deserved the cross; no such record. See section "Who suffered — and who were not martyrs."
 - **[Two Branches of Christianity (Fomenko vs. Author)](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md)** — Explicitly rejects calling the Istanbul/Judaizer/temple figures killed in Crusader revenge **martyrs**; they are read as guilty, repenting, and facing mob justice — execution without martyrdom.
-- **[First Crusade and the Trojan War](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war)** — Crusader revenge against circumcision party and Istanbul temple apparatus.
-- **[The Brother on the Cross](https://paradigmthreat.net/timeline/evt-the-brother-on-the-cross)** — Crucifixion narrative and identity of the victim.
+- **[First Crusade and the Trojan War](https://timeline.paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war)** — Crusader revenge against circumcision party and Istanbul temple apparatus.
+- **[The Brother on the Cross](https://timeline.paradigmthreat.net/timeline/evt-the-brother-on-the-cross)** — Crucifixion narrative and identity of the victim.
 - **[Crucifixion giant redaction — nine-inch nails, metrology (AU-031)](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md)** — Giant Passion hardware vs **redacted** small body; **inch/foot** shift; **Vav** nail shape; CERN **WWW** cross-lane.
 - **[Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md)** — Structural comparison of pan-European coalitions vs. Russia; different layer from the First Crusade / Revenge Crusade but same vocabulary of "crusade."
 - **[The Hidden History of Words — *Mar-* cluster / martyr](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md)** — Reader essay: *martyr* among Mars-control vocabulary; witness narrowing vs war-planet lexicon (**open**).
@@ -121,7 +121,7 @@ This distinction is already drawn in the paradigm-threat timeline and files:
 ## 9. Sources
 
 - Martyr etymology: [Etymonline](https://www.etymonline.com/word/martyr), [Wiktionary](https://en.wiktionary.org/wiki/martyr), [Wikipedia: Martyr](https://en.wikipedia.org/wiki/Martyr), [Strong's Greek 3144 μάρτυς](https://biblehub.com/strongs/greek/3144.htm).
-- Timeline: [Revolution Despite Christ's Martyrdom](https://paradigmthreat.net/timeline/evt-revolution-despite-martyrdom); [Two Branches (paradigm-threat-files)](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md); Fomenko [chronologia two branches](https://chronologia.org/en/how_it_was/02_06.html).
+- Timeline: [Revolution Despite Christ's Martyrdom](https://timeline.paradigmthreat.net/timeline/evt-revolution-despite-martyrdom); [Two Branches (paradigm-threat-files)](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md); Fomenko [chronologia two branches](https://chronologia.org/en/how_it_was/02_06.html).
 - [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **Lane A** (*martyr* / *martys* witness narrowing).
 
 ---

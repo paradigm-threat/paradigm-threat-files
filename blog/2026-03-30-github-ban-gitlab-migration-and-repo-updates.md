@@ -54,8 +54,8 @@ This repo absorbed the **censorship dossier**, the **Swift / *Gulliver*** invest
 
 ## paradigm-threat-timeline
 
-- **[1726 CE: *Gulliver's Travels* — travel testimony and the satire shell](https://paradigmthreat.net/timeline/evt-1726-ce-gullivers-travels-managed-disclosure)** — timeline event tying the 1726 memoir frame to Mars / Tartary-scale parallels and cross-links to the files investigations.
-- [Mars literature as reclassified nonfiction](https://paradigmthreat.net/timeline/evt-mars-literature-as-reclassified-nonfiction) and [Predictive programming — literature appendix](https://paradigmthreat.net/timeline/evt-predictive-programming-literature) — Swift pointers added where the appendix TL;DR was filled in.
+- **[1726 CE: *Gulliver's Travels* — travel testimony and the satire shell](https://timeline.paradigmthreat.net/timeline/evt-1726-ce-gullivers-travels-managed-disclosure)** — timeline event tying the 1726 memoir frame to Mars / Tartary-scale parallels and cross-links to the files investigations.
+- [Mars literature as reclassified nonfiction](https://timeline.paradigmthreat.net/timeline/evt-mars-literature-as-reclassified-nonfiction) and [Predictive programming — literature appendix](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming-literature) — Swift pointers added where the appendix TL;DR was filled in.
 - **`generate-index.py`** — same **Git-based `_updated`** pattern as files (plus **mtime** fallback) for the timeline **file browser** `index.json`.
 - **Hosting:** GitLab Pages CI; GitHub Pages workflow removed; export / validation hooks unchanged in intent.
 

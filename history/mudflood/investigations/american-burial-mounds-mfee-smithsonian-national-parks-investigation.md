@@ -322,7 +322,7 @@ The mound memory war connects to **identity compression** documented elsewhere i
 | **Black migrant tribes forced into "Native American" ID** | [Cherokee Moors / Delaware §106 "Moor" label](/history/chronology/investigations/cherokee-moors-lenape-delaware-moor-label-investigation.md); [slave-trades Moor etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) |
 | **Red-Skin survivors as giant-line relatives** | [MudFlood § Red-Skin Native Americans](../page.md) |
 | **Smithsonian as memory enforcer** | [common-questions — Maya/Smithsonian](/history/common-questions.md) |
-| **Giants of Rus-Horde** | [timeline: giants of the Rus-Horde](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) |
+| **Giants of Rus-Horde** | [timeline: giants of the Rus-Horde](https://timeline.paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) |
 | **Giant suppression media** | [Giants of Japan investigation](/influence/suppression/investigations/giants-of-japan-archival-footage-big-man-japan-investigation.md) |
 
 **Thesis (qualified):** Once **giants** were removed from permissible history, **survivor populations** (including **reduced stature lines** and **relocated Moors/Moors-labeled Indians**) were **sorted into "Native American"** census and museum categories — **erasing** both **giant stature** and **African/Moor presence** from the **same mound landscapes**.

@@ -20,10 +20,10 @@ Les Brown’s book is a **short practical manual** from the **1970s** “pyramid
 
 | Theme | In Brown | Timeline use |
 |--------|-----------|----------------|
-| **Pyramids as engineered shells** | Cheops ratio as **active** shape; “computer/receiver” language | **Rhymes** with [Pyramids: Myths vs Reality](https://paradigmthreat.net/timeline/evt-pyramids-myths-vs-reality); mechanism is **pop** energy talk, **not** demonstrated **Birkeland** math. |
+| **Pyramids as engineered shells** | Cheops ratio as **active** shape; “computer/receiver” language | **Rhymes** with [Pyramids: Myths vs Reality](https://timeline.paradigmthreat.net/timeline/evt-pyramids-myths-vs-reality); mechanism is **pop** energy talk, **not** demonstrated **Birkeland** math. |
 | **Habitability / food continuity** | **Pyramid greenhouse**, roof farming, oxygen, enclosed biospace | Same **continuity-of-life** **story shape** as [Kerrell & Goggin](https://paradigmthreat.net/history/chronology/investigations/pyramid-energy-kerrell-goggin-1977-investigation.md) — **farm-scale** rather than **Brunton tomb** arguments. |
 | **Grounding / shielding** | Editor: **Faraday cage** foundation, **ground** | **Word-level** overlap with **Faraday / cathodic** language on the site; **not** proof of **Dark Ages** plasma grounding. |
-| **Chronology** | ET builders, **Atlantis**, editor **~10,500 years** | **Contrasts** with [Fomenko / BCE Dark Ages](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) if taken literally; cite as **1970s–2005** **popular** layer only. |
+| **Chronology** | ET builders, **Atlantis**, editor **~10,500 years** | **Contrasts** with [Fomenko / BCE Dark Ages](https://timeline.paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) if taken literally; cite as **1970s–2005** **popular** layer only. |
 
 **Author appendix:** [Les Brown (The Pyramid)](/timeline/evt-les-brown-the-pyramid).
 

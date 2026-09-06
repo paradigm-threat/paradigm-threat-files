@@ -11,9 +11,9 @@
 
 ### 1.1 First life (cosmological scale)
 
-The timeline develops **scalar energy / ZPE** as the **physical driver** of **first formation** of living shape: large-scale electromagnetic and plasma conditions **bias** matter and **organize** tissue without reducing the story to nucleotide **programs**. Canonical mechanism, environment table, and Saturnian-phase framing: [Scalar Energy as the basis of Creation](https://paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation) (`content/01.before-creation/01.02.01-scalar-energy-as-the-basis-of-creation.md`).
+The timeline develops **scalar energy / ZPE** as the **physical driver** of **first formation** of living shape: large-scale electromagnetic and plasma conditions **bias** matter and **organize** tissue without reducing the story to nucleotide **programs**. Canonical mechanism, environment table, and Saturnian-phase framing: [Scalar Energy as the basis of Creation](https://timeline.paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation) (`content/01.before-creation/01.02.01-scalar-energy-as-the-basis-of-creation.md`).
 
-Mythic and textual convergence (pattern from above → form below) is collected in [Spawning of the First Life Forms](https://paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms); that chapter points to the same timeline event for the **technical** pathway.
+Mythic and textual convergence (pattern from above → form below) is collected in [Spawning of the First Life Forms](https://timeline.paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms); that chapter points to the same timeline event for the **technical** pathway.
 
 **Investigation closure:** Primeval biogenesis and **modern embryogenesis** are not two unrelated explanations. Both are **matter organized by the same vacuum / medium / scalar degrees of freedom**, differing in **boundary conditions** (planetary-scale plasma shell vs. maternal body and parental fields), not in **substrate**.
 
@@ -137,7 +137,7 @@ Mainstream outreach and clinical default remain DNA-centric and rarely spell out
 
 ## 8. Conclusion
 
-Life is organized by nested electromagnetic structure in the structured vacuum (ZPE / aether-class medium in this terminology). Primeval biogenesis and embryogenesis are one physics class with different scales and boundary conditions. Conception is the junction for continuity of life under the chronology premises in §3. DNA is identifier and lineage marker in chemistry, not the causal blueprint of form. Unification with [Scalar Energy as the basis of Creation](https://paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation) and [Spawning of the First Life Forms](https://paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms) is intentional and load-bearing.
+Life is organized by nested electromagnetic structure in the structured vacuum (ZPE / aether-class medium in this terminology). Primeval biogenesis and embryogenesis are one physics class with different scales and boundary conditions. Conception is the junction for continuity of life under the chronology premises in §3. DNA is identifier and lineage marker in chemistry, not the causal blueprint of form. Unification with [Scalar Energy as the basis of Creation](https://timeline.paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation) and [Spawning of the First Life Forms](https://timeline.paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms) is intentional and load-bearing.
 
 Reincarnation, pre-existence, and soul continuity were not marginal in antiquity; they were default across large parts of Greek, Near Eastern, Indian, and late-antique Christian discourse. The record fits prohibition first—anathema, law, imperial pressure—and habit second, not a mass conversion to disbelief. That is a different causal story from organic skepticism or empirical disproof.
 
@@ -172,8 +172,8 @@ The [Cathars](https://en.wikipedia.org/wiki/Catharism) (Albigensians) of medieva
 **Internal / timeline**
 
 - [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — reader essay: scalar / æther bridge, bardos, reincarnation bands (links this dossier).
-- [Scalar Energy as the basis of Creation](https://paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation)
-- [Spawning of the First Life Forms](https://paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms)
+- [Scalar Energy as the basis of Creation](https://timeline.paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation)
+- [Spawning of the First Life Forms](https://timeline.paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms)
 - [/science/maxwell_aether/](https://paradigmthreat.net/science/maxwell_aether/) — [02-did-maxwell-prove-the-aether.md](https://paradigmthreat.net/science/maxwell_aether/02-did-maxwell-prove-the-aether.md)
 - [/science/anti_gravity/a.md](https://paradigmthreat.net/science/anti_gravity/a.md)
 - [/history/chronology/investigations/soul-science-investigation.md](https://paradigmthreat.net/history/chronology/investigations/soul-science-investigation.md)

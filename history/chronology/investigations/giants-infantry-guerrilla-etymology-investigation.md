@@ -2,16 +2,16 @@
 
 ![Giants, infantry, guerrilla, Children's Crusade — etymology](giants-infantry-guerrilla-etymology-investigation.png)
 
-This note ties three military-historical terms to the timeline thesis that **Rus-Horde giant lineages** fought **crusading wars** against the **Istanbul–temple apparatus**, then lost **formed battle** to **cannon** and survived afterward as **irregulars**. Full etymological tables, mainstream chronology notes, and an extended related-word list sit in the timeline appendix: **[Giants, Infantry, Guerrilla, Children's Crusade — Etymology](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology)**.
+This note ties three military-historical terms to the timeline thesis that **Rus-Horde giant lineages** fought **crusading wars** against the **Istanbul–temple apparatus**, then lost **formed battle** to **cannon** and survived afterward as **irregulars**. Full etymological tables, mainstream chronology notes, and an extended related-word list sit in the timeline appendix: **[Giants, Infantry, Guerrilla, Children's Crusade — Etymology](https://timeline.paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology)**.
 
 ## Timeline anchors
 
 | Event | Slug |
 |-------|------|
-| First Crusade / Trojan War; Children's Crusade as young giant wave | [evt-the-first-crusade-trojan-war](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war) |
-| Giants of the Rus-Horde | [evt-the-giants-of-the-rus-horde](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) |
-| Kulikovo — cannon vs giants | [evt-giants-are-defeated-at-the-battle-of](https://paradigmthreat.net/timeline/evt-giants-are-defeated-at-the-battle-of) |
-| Constantinople — Horde infantry | [evt-1453-ce-fall-of-czar-grad-constantinople](https://paradigmthreat.net/timeline/evt-1453-ce-fall-of-czar-grad-constantinople) |
+| First Crusade / Trojan War; Children's Crusade as young giant wave | [evt-the-first-crusade-trojan-war](https://timeline.paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war) |
+| Giants of the Rus-Horde | [evt-the-giants-of-the-rus-horde](https://timeline.paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) |
+| Kulikovo — cannon vs giants | [evt-giants-are-defeated-at-the-battle-of](https://timeline.paradigmthreat.net/timeline/evt-giants-are-defeated-at-the-battle-of) |
+| Constantinople — Horde infantry | [evt-1453-ce-fall-of-czar-grad-constantinople](https://timeline.paradigmthreat.net/timeline/evt-1453-ce-fall-of-czar-grad-constantinople) |
 
 ## Thesis (this chronology)
 
@@ -19,7 +19,7 @@ This note ties three military-historical terms to the timeline thesis that **Rus
 
 2. **Guerrilla** — Spanish *guerrilla* = diminutive of *guerra* “war” → **“little war”**; English from the Peninsular War (~1809). Etymology does **not** encode *gigante*. The narrative link here is **historical**, not phonetic: after **Kulikovo** and progressive **eradication**, giant-line **remnants** could not hold **set-piece** battles; **irregular**, **local**, **ungovernable** resistance matches what modern languages call **guerrilla** warfare.
 
-3. **Children's Crusade** — Scaligerian scholarship places the **1212** movements in France and Germany, questions literal **children**, and notes Latin *pueri* as **social category** (youths / dependents). This timeline [already reads](https://paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war) the name as the **rash first wave** of **young giants** before the main host. See the appendix for the mainstream vs. thesis contrast.
+3. **Children's Crusade** — Scaligerian scholarship places the **1212** movements in France and Germany, questions literal **children**, and notes Latin *pueri* as **social category** (youths / dependents). This timeline [already reads](https://timeline.paradigmthreat.net/timeline/evt-the-first-crusade-trojan-war) the name as the **rash first wave** of **young giants** before the main host. See the appendix for the mainstream vs. thesis contrast.
 
 ## Relation to Fomenko vs. author vocabulary
 
@@ -29,7 +29,7 @@ Do not merge **First Crusade (~1196)** polemics with **Kulikovo (1380)** branch 
 
 - [**Crucifixion giant redaction — nail metrology (AU-031)**](/history/chronology/investigations/crucifixion-giant-redaction-nail-metrology-investigation.md) — **1185** giant Passion; **nine-inch** nails; **inch/foot** rescaling after small-body redaction
 - [**Lexical redaction hub**](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — master cross-ref (**Lane A**)
-- **Appendix (overflow):** [Giants, Infantry, Guerrilla, Children's Crusade — Etymology](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology) — mainstream lexicography, dates, related words (*pueri*, *infante* royal title, *hoplite*, *cohort*, mythic giant vocabulary).
+- **Appendix (overflow):** [Giants, Infantry, Guerrilla, Children's Crusade — Etymology](https://timeline.paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology) — mainstream lexicography, dates, related words (*pueri*, *infante* royal title, *hoplite*, *cohort*, mythic giant vocabulary).
 
 ---
 

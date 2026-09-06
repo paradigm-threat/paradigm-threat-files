@@ -12,47 +12,47 @@
 
 ### Master index and TL;DR rollout
 
-- **[Timeline (full book)](https://paradigmthreat.net/timeline)** — Every article in the main book and appendix now has a **`TL;DR`** block where missing, including **Before Creation**, **Golden Age**, **Dark Ages**, **The Blip**, CE **Chapters 5–15**, and **appendix parts XVI–XXII** (see chapter and appendix entry points below). Regenerated **`timeline-book`** and **`timeline-appendix`** **PDF** and **DOCX** in repo `export/`.
+- **[Timeline (full book)](https://timeline.paradigmthreat.net/timeline)** — Every article in the main book and appendix now has a **`TL;DR`** block where missing, including **Before Creation**, **Golden Age**, **Dark Ages**, **The Blip**, CE **Chapters 5–15**, and **appendix parts XVI–XXII** (see chapter and appendix entry points below). Regenerated **`timeline-book`** and **`timeline-appendix`** **PDF** and **DOCX** in repo `export/`.
 
 ### Chapter entry points (each links into the full subtree for that part)
 
-- [Introduction](https://paradigmthreat.net/timeline/evt-introduction)
-- [Before Creation](https://paradigmthreat.net/timeline/evt-before-creation)
-- [The Golden Age (4077 BCE)](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age)
-- [The Dark Ages (3147 BCE)](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)
-- [The Blip](https://paradigmthreat.net/timeline/evt-670-bce-the-blip)
-- [11th century — Common Era begins](https://paradigmthreat.net/timeline/evt-1053-ce-11th-century-ce-common-era-begins)
-- [12th century — Birth of Christianity](https://paradigmthreat.net/timeline/evt-1100-ce-12th-century-ce-birth-of-christianity)
-- [13th century — Russian Horde / Tartaria](https://paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e)
-- [14th century — Great expansion](https://paradigmthreat.net/timeline/evt-1300-ce-14th-century-ce-the-great-expansion-triumph-and-betr)
-- [15th century — Ottoman conquest of Europe](https://paradigmthreat.net/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe)
-- [16th century — Reformation and Inquisition](https://paradigmthreat.net/timeline/evt-1500-ce-16th-century-ce-reformation-and-inquisition)
-- [17th century — Romanovs and invisible government](https://paradigmthreat.net/timeline/evt-1600-ce-17th-century-from-empire-to-invisible-government)
-- [18th century — Mudflood and Pugachev](https://paradigmthreat.net/timeline/evt-1718-ce-secret-society-of-jesus-goes-public)
-- [19th century — Rise of communism](https://paradigmthreat.net/timeline/evt-1800-ce-19th-century-the-rise-of-communism)
-- [20th century — Reverse Crusades continue](https://paradigmthreat.net/timeline/evt-1900-ce-20th-century-the-reverse-crusades-continue)
-- [21st century — Final struggle / Reverse Crusade IV](https://paradigmthreat.net/timeline/evt-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv)
+- [Introduction](https://timeline.paradigmthreat.net/timeline/evt-introduction)
+- [Before Creation](https://timeline.paradigmthreat.net/timeline/evt-before-creation)
+- [The Golden Age (4077 BCE)](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age)
+- [The Dark Ages (3147 BCE)](https://timeline.paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)
+- [The Blip](https://timeline.paradigmthreat.net/timeline/evt-670-bce-the-blip)
+- [11th century — Common Era begins](https://timeline.paradigmthreat.net/timeline/evt-1053-ce-11th-century-ce-common-era-begins)
+- [12th century — Birth of Christianity](https://timeline.paradigmthreat.net/timeline/evt-1100-ce-12th-century-ce-birth-of-christianity)
+- [13th century — Russian Horde / Tartaria](https://timeline.paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e)
+- [14th century — Great expansion](https://timeline.paradigmthreat.net/timeline/evt-1300-ce-14th-century-ce-the-great-expansion-triumph-and-betr)
+- [15th century — Ottoman conquest of Europe](https://timeline.paradigmthreat.net/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe)
+- [16th century — Reformation and Inquisition](https://timeline.paradigmthreat.net/timeline/evt-1500-ce-16th-century-ce-reformation-and-inquisition)
+- [17th century — Romanovs and invisible government](https://timeline.paradigmthreat.net/timeline/evt-1600-ce-17th-century-from-empire-to-invisible-government)
+- [18th century — Mudflood and Pugachev](https://timeline.paradigmthreat.net/timeline/evt-1718-ce-secret-society-of-jesus-goes-public)
+- [19th century — Rise of communism](https://timeline.paradigmthreat.net/timeline/evt-1800-ce-19th-century-the-rise-of-communism)
+- [20th century — Reverse Crusades continue](https://timeline.paradigmthreat.net/timeline/evt-1900-ce-20th-century-the-reverse-crusades-continue)
+- [21st century — Final struggle / Reverse Crusade IV](https://timeline.paradigmthreat.net/timeline/evt-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv)
 
 ### Appendix parts (XVI–XXII)
 
-- [Appendix — Author profiles (Part XVI)](https://paradigmthreat.net/timeline/evt-authors-appendix-part)
-- [Appendix — Chronology (Part XVII)](https://paradigmthreat.net/timeline/evt-appendix)
-- [Appendix — Narrative control (Part XVIII)](https://paradigmthreat.net/timeline/evt-appendix-narrative-control-part)
-- [Appendix — Conflict and empire (Part XIX)](https://paradigmthreat.net/timeline/evt-appendix-conflict-empire-part)
-- [Appendix — Science and society (Part XX)](https://paradigmthreat.net/timeline/evt-appendix-science-society-part)
-- [Appendix — Cataclysm memory (Part XXI)](https://paradigmthreat.net/timeline/evt-appendix-cataclysm-memory-part)
-- [Appendix — Credits (Part XXII)](https://paradigmthreat.net/timeline/evt-credits)
+- [Appendix — Author profiles (Part XVI)](https://timeline.paradigmthreat.net/timeline/evt-authors-appendix-part)
+- [Appendix — Chronology (Part XVII)](https://timeline.paradigmthreat.net/timeline/evt-appendix)
+- [Appendix — Narrative control (Part XVIII)](https://timeline.paradigmthreat.net/timeline/evt-appendix-narrative-control-part)
+- [Appendix — Conflict and empire (Part XIX)](https://timeline.paradigmthreat.net/timeline/evt-appendix-conflict-empire-part)
+- [Appendix — Science and society (Part XX)](https://timeline.paradigmthreat.net/timeline/evt-appendix-science-society-part)
+- [Appendix — Cataclysm memory (Part XXI)](https://timeline.paradigmthreat.net/timeline/evt-appendix-cataclysm-memory-part)
+- [Appendix — Credits (Part XXII)](https://timeline.paradigmthreat.net/timeline/evt-credits)
 
 ### Highlighted article-level updates
 
-- [Marie Curie: radiography and radiation narrative](https://paradigmthreat.net/timeline/evt-marie-curie-radiography-radiation-narrative)
-- [World War I: Reverse Crusade II](https://paradigmthreat.net/timeline/evt-world-war-i-reverse-crusade-ii)
-- [World War II: Reverse Crusade III](https://paradigmthreat.net/timeline/evt-world-war-ii-reverse-crusade-iii)
-- [Censorship and book burning](https://paradigmthreat.net/timeline/evt-censorship-book-burning-from)
-- [False flags: architecture of manufactured war](https://paradigmthreat.net/timeline/evt-false-flags-architecture-of)
-- [Historical antibodies](https://paradigmthreat.net/timeline/evt-historical-antibodies)
-- [Trump and MAGA (case study)](https://paradigmthreat.net/timeline/evt-trump)
-- [Where do we go from here?](https://paradigmthreat.net/timeline/evt-where-we-go-from-here)
+- [Marie Curie: radiography and radiation narrative](https://timeline.paradigmthreat.net/timeline/evt-marie-curie-radiography-radiation-narrative)
+- [World War I: Reverse Crusade II](https://timeline.paradigmthreat.net/timeline/evt-world-war-i-reverse-crusade-ii)
+- [World War II: Reverse Crusade III](https://timeline.paradigmthreat.net/timeline/evt-world-war-ii-reverse-crusade-iii)
+- [Censorship and book burning](https://timeline.paradigmthreat.net/timeline/evt-censorship-book-burning-from)
+- [False flags: architecture of manufactured war](https://timeline.paradigmthreat.net/timeline/evt-false-flags-architecture-of)
+- [Historical antibodies](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies)
+- [Trump and MAGA (case study)](https://timeline.paradigmthreat.net/timeline/evt-trump)
+- [Where do we go from here?](https://timeline.paradigmthreat.net/timeline/evt-where-we-go-from-here)
 
 ---
 
@@ -106,7 +106,7 @@
 
 These changes apply to the **timeline reader**, **landing**, and **index** UI:
 
-- **[Timeline](https://paradigmthreat.net/timeline)** — **PWA** cache policy for **`events.json`** and **`index.json`**; **BCE elapsed-time** labels with blip fallback; **`?play=1`** query for **TTS autoplay** on load (with host routing support).
+- **[Timeline](https://timeline.paradigmthreat.net/timeline)** — **PWA** cache policy for **`events.json`** and **`index.json`**; **BCE elapsed-time** labels with blip fallback; **`?play=1`** query for **TTS autoplay** on load (with host routing support).
 - **Landing host** — **`/`** rewrites to **`/book`** where configured.
 - **TTS** — Spoken expansion for **World War I / II / III** and **WW** abbreviations; **1905**-style years as “nineteen oh five”; **exponents** and **equals** in formulas (e.g. **e=mc²**); continued **Latin** normalization for **Piper** vs **Web Speech** alignment.
 - **[Blog index](https://paradigmthreat.net/blog/page)** — **AutoIndex** **`format=blog`**, **`_updated`** dates, scroll shell; small **CatchAll** date display tweak.

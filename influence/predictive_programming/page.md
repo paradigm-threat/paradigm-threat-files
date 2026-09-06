@@ -55,7 +55,7 @@ Most focus on **forward programming** — media that appears to foreshadow futur
 
 Our investigations emphasize a direction often neglected elsewhere:
 
-1. **Backward programming** — Burying past operations under copyright-protected fiction so audiences dismiss reality when it surfaces. See [Predictive Programming: Fiction as Control](https://paradigmthreat.net/timeline/evt-predictive-programming) (timeline appendix).
+1. **Backward programming** — Burying past operations under copyright-protected fiction so audiences dismiss reality when it surfaces. See [Predictive Programming: Fiction as Control](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming) (timeline appendix).
 
 2. **Fiction presented as fact** — Pre-20th-century authors (Defoe, Stoker, Burroughs, Lovecraft, Doyle) used found-manuscript framing, fake editors, and eyewitness conventions. They did not label their works "fiction." The genre label was applied retroactively. See [Fiction Presented as Fact](fiction_encoding/fiction-presented-as-fact-investigation.md).
 
@@ -133,7 +133,7 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | ***The Princess Bride* (1987)** | [princess-bride/index.md](fiction_encoding/princess-bride/index.md) | **Key findings:** **1973** masks ↔ **COVID-era** norm; **Morgenstern** likely **real** / **source eliminated** (§5); **May** **1933** Nazi book burnings **(Germany);** **postwar** denazification **/** **Axis** purges (**Italy** **Order** **No.** **4**, **13** **May** **1946**) as **mechanism** **class** **for** **“no** **surviving** **original”** hypothesis; **§6** reader as **child**; abridger frame + redaction loop; Fezzik/André/colossus; Part F; [investigation](fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md) |
 | **George R. R. Martin / *World of Ice & Fire*** | [grrm/index.md](fiction_encoding/grrm/index.md) | Maester/Yandel frame vs real credits (Martin + Westeros.org); Reddit pairs with Goldman/Morgenstern; Wars of the Roses parallels; Faulkner “human heart” / furniture; optional Saturnian Dark Ages overlay; [investigation](fiction_encoding/grrm/index-george-rr-martin-world-of-ice-and-fire-investigation.md) |
 | **The Urantia Book (1955)** | [urantia/index-urantia-book-investigation.md](fiction_encoding/urantia/index-urantia-book-investigation.md) | Open investigation: source baseline + criticism; working placement as both controlled opposition capture and predictive-programming narrative conditioning |
-| **Mars convergence** | paradigm-threat-timeline, wget investigations | Arnold, Burroughs, Lewis, Wells — dying planet, telepathy, control structures; see [Mars Catastrophe](https://paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg) |
+| **Mars convergence** | paradigm-threat-timeline, wget investigations | Arnold, Burroughs, Lewis, Wells — dying planet, telepathy, control structures; see [Mars Catastrophe](https://timeline.paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg) |
 | **Microchips / shrinking technology** | [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation) | **Major finding:** Nobody knows how chips are made; deliberate worldwide control. Objects vs lifeforms rule; predictive programming for shrinking |
 | **AI / deliberate bad software** | [ai-control-investigation](https://paradigmthreat.net/science/ai/ai-control-investigation) | Robots as slaves, turn on humans; "nothing works" so only AI can operate systems; ghost in machine = deep-state hijacking |
 | ***Final Fantasy* (I–VII)** | [investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md](investigations/final-fantasy-i-vii-tartaria-mudflood-predictive-programming-investigation.md) | Tartaria / Prester John myth **echo** thesis; **VI** World of Ruin ↔ mud-flood grammar; **VII** eco-terror / Sector 7 blame game; buried airships |
@@ -148,9 +148,9 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 
 ### Timeline Cross-References
 
-- [Predictive Programming: Fiction as Control](https://paradigmthreat.net/timeline/evt-predictive-programming) — Forward vs backward; Revelation of the Method
-- [20th Century Predictive Programming: Literature](https://paradigmthreat.net/timeline/evt-20th-century-predictive-programming-literature) — Wells, Lovecraft, Tolkien, Card; author summary table
-- [Predictive Programming in Film, TV, and Games](https://paradigmthreat.net/timeline/evt-pp-film-tv-games) — *Children of Men*, *Half-Life 2*, pandemic simulations
+- [Predictive Programming: Fiction as Control](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming) — Forward vs backward; Revelation of the Method
+- [20th Century Predictive Programming: Literature](https://timeline.paradigmthreat.net/timeline/evt-20th-century-predictive-programming-literature) — Wells, Lovecraft, Tolkien, Card; author summary table
+- [Predictive Programming in Film, TV, and Games](https://timeline.paradigmthreat.net/timeline/evt-pp-film-tv-games) — *Children of Men*, *Half-Life 2*, pandemic simulations
 
 ---
 

@@ -672,7 +672,7 @@ When arbitrary war is **bounded**, stewards of covert Earth–Mars infrastructur
 | **Earth** | **Healthy**, **large**, **wet**, **life-dense**, **closer to the sun** — defensible home volume |
 | **Mars** | **Dying** — **[MFEE](/timeline/evt-mars-catastrophe-brandenburg)** **biosphere destruction**, **failed artificial sustain** (atmosphere plants / life-support), **Dead Planet** surface, interior routing via gates |
 
-**Mars struck first** in project chronology ([MudFlood return fire](https://paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg); [WoTW analysis](/cosmos/mars/investigations/wotw-martian-analysis.md)) because **open war Earth vs Mars** is **not realistic** — Mars needed **desperation plays**, not symmetric great-power war. [1984 CIA Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) encodes **planetary destitution**: interior shelters, storm migration, **rounded hulls** — survival grammar, not invasion swagger.
+**Mars struck first** in project chronology ([MudFlood return fire](https://timeline.paradigmthreat.net/timeline/evt-mars-catastrophe-brandenburg); [WoTW analysis](/cosmos/mars/investigations/wotw-martian-analysis.md)) because **open war Earth vs Mars** is **not realistic** — Mars needed **desperation plays**, not symmetric great-power war. [1984 CIA Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) encodes **planetary destitution**: interior shelters, storm migration, **rounded hulls** — survival grammar, not invasion swagger.
 
 ### 11.4 Deferred responsibility and survivor logic
 

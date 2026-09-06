@@ -80,7 +80,7 @@ The Gulf of Tonkin template ([NSA investigation](https://paradigmthreat.net/gove
 
 ## Ring of Power — why the West protects Nazism
 
-Atlantic power had two reasons to shield National Socialism after 1945 — not because elites admired Hitler in public, but because Nazism was an asset (Tier S unless labeled). First, they created it — or built it up as an anti-Bolshevik hammer (Tier B–S; [Reverse Crusade III](https://paradigmthreat.net/timeline/evt-world-war-ii-reverse-crusade-iii), industrial/finance threads in the linked WWII lane; not single-proof). Second, they preserved it when WWII failed to destroy Russia — Paperclip, Gehlen, Ratlines, selective prosecution (Tier A–B; [Paperclip investigation](https://paradigmthreat.net/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)).
+Atlantic power had two reasons to shield National Socialism after 1945 — not because elites admired Hitler in public, but because Nazism was an asset (Tier S unless labeled). First, they created it — or built it up as an anti-Bolshevik hammer (Tier B–S; [Reverse Crusade III](https://timeline.paradigmthreat.net/timeline/evt-world-war-ii-reverse-crusade-iii), industrial/finance threads in the linked WWII lane; not single-proof). Second, they preserved it when WWII failed to destroy Russia — Paperclip, Gehlen, Ratlines, selective prosecution (Tier A–B; [Paperclip investigation](https://paradigmthreat.net/governance/war/investigations/operation-paperclip-nazi-continuity-and-wwii-narrative-investigation.md)).
 
 Russia bore the main land war to extinguish Nazi Europe; the West stopped the advance at the Cold War line (Berlin Wall as memorial hinge). Nazism did not die — it went underground in networks, science, intel, and usable far-right proxies. WW3 signs now: German remilitarization rhetoric (Merz), neo-Nazi symbols and formations in and near Ukraine (documented 2022+; Azov lane in Paperclip §8).
 
@@ -98,7 +98,7 @@ Zelensky’s letter cannot name any of this. It needs Putin as sole orc while At
 
 - [Open-letter investigation](https://paradigmthreat.net/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) — full TA, media-coup lanes  
 - [Holodomor–Holocaust investigation](https://paradigmthreat.net/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) — **§2.7** Stalin agency lock; §30 Ring-of-Power / preserved Nazism; §7 staging; §29 Paperclip  
-- [Reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md) · [Bloodlands appendix](https://paradigmthreat.net/timeline/evt-bloodlands-holodomor-holocaust-continuum) · [Schooling essay](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md)
+- [Reverse crusades](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md) · [Bloodlands appendix](https://timeline.paradigmthreat.net/timeline/evt-bloodlands-holodomor-holocaust-continuum) · [Schooling essay](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md)
 
 ---
 

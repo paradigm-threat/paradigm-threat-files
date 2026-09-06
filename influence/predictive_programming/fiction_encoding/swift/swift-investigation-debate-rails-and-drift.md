@@ -4,7 +4,7 @@
 
 **Purpose:** Freeze the **investigative boundary** and **rhetorical hazards** that surfaced while discussing Swift and *Gulliver’s Travels*. This file is **methodology**, not primary evidence. It exists so readers—and assistants—do not **drift** off the questions that actually matter to this repo.
 
-**Related:** [Swift hub](page.md) | [Mars / giants / publication stance](swift-mars-giants-publication-stance.md) | [Mockingbird: historical chain](https://paradigmthreat.net/timeline/evt-operation-mockingbird-historical-chain) | [Mockingbird: public erasure](https://paradigmthreat.net/timeline/evt-mockingbird-public-erasure)
+**Related:** [Swift hub](page.md) | [Mars / giants / publication stance](swift-mars-giants-publication-stance.md) | [Mockingbird: historical chain](https://timeline.paradigmthreat.net/timeline/evt-operation-mockingbird-historical-chain) | [Mockingbird: public erasure](https://timeline.paradigmthreat.net/timeline/evt-mockingbird-public-erasure)
 
 ---
 

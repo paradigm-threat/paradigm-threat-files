@@ -9,7 +9,7 @@
 | **Primary or paginated secondary only** | Flyers and forum lists routinely misdate, mistruncate, or invent lines. |
 | **Quote text aligned to digitized OCR, with cleanup noted** | Archive.org DJVU-derived text has predictable errors (`Ihe` → *the*, etc.); cleaned wording below matches the **sense** of the line and should be checked against the image/PDF before legal or academic republication. |
 | **Do not treat editorial voice as “the community”** | One London leader-writer or one New York weekly ≠ diaspora consensus. |
-| **Keep separate from Fomenko Ch.9 “treasury caste” framing** | That is a different explanatory model; mixing without signposting confuses readers. See [Disputes against Jews reemerge](https://paradigmthreat.net/timeline/evt-1633-ce-disputes-against-jews-reemerge) (timeline) for the NC strand. |
+| **Keep separate from Fomenko Ch.9 “treasury caste” framing** | That is a different explanatory model; mixing without signposting confuses readers. See [Disputes against Jews reemerge](https://timeline.paradigmthreat.net/timeline/evt-1633-ce-disputes-against-jews-reemerge) (timeline) for the NC strand. |
 
 ---
 

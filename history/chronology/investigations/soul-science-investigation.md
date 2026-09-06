@@ -33,7 +33,7 @@ The concept of the soul has a long history of philosophical and scientific claim
 
 ### Reformation as Watershed
 
-The Protestant Reformation (1517+) — framed in paradigm-threat context as [Deep State controlled opposition](https://paradigmthreat.net/timeline/evt-16th-century-ce-reformation-and-inquisition) — promoted *sola fide*, *sola scriptura*, and a sharper focus on sin, damnation, and God's authority. In mainstream historiography, the Reformation's pastoral concern was "the care of souls." But several factors contributed to the soul's later dismissal:
+The Protestant Reformation (1517+) — framed in paradigm-threat context as [Deep State controlled opposition](https://timeline.paradigmthreat.net/timeline/evt-16th-century-ce-reformation-and-inquisition) — promoted *sola fide*, *sola scriptura*, and a sharper focus on sin, damnation, and God's authority. In mainstream historiography, the Reformation's pastoral concern was "the care of souls." But several factors contributed to the soul's later dismissal:
 
 1. **Fragmentation of authority:** With no single church to define orthodoxy, competing claims about the soul (Protestant vs Catholic vs secular) created doubt.
 2. **Individual conscience vs. institutional soul-care:** Emphasis on personal faith and conscience shifted focus from *soul* as object of clerical care to *inner experience* — a bridge toward psychology.
@@ -169,7 +169,7 @@ Western reception of Russian literature from the 1880s onward heightened awarene
 - Catherine Brown: "The Russian Soul Englished" (JSTOR)
 - First Things: "The Universal Russian Soul"
 - IAI TV: "The uses and abuses of the 'Russian soul'"
-- Paradigm-threat timeline: [Reformation and Inquisition](https://paradigmthreat.net/timeline/evt-16th-century-ce-reformation-and-inquisition), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
+- Paradigm-threat timeline: [Reformation and Inquisition](https://timeline.paradigmthreat.net/timeline/evt-16th-century-ce-reformation-and-inquisition), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
 - Marxists.org: La Mettrie *Man a Machine* (1748) full text
 
 ---

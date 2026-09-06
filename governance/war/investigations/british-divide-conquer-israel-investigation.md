@@ -111,7 +111,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 
 - [ ] Trace Semyenko's documentation on Palestine/biblical sites (spelling may vary; source to be located). **Research note:** Web and catalogue search for “Semyenko” + Palestine/biblical Jerusalem/chronology did not locate a clear match; may be Semenko, Semenkov, or a transliteration variant; or a Russian/Ukrainian source not indexed in English. [Seder Olam](https://www.seder-olam.info/seder-olam-g32-jerusalem.html) and mainstream Jerusalem timelines (Jewish Virtual Library, Wikipedia) document conventional biblical chronology; Fomenko (chronologia.org) places biblical Jerusalem in Constantinople/Moscow — correlate if Semyenko source is found.
 - [ ] British Bible Society, PEF, and missionary print networks—map control over sacred text distribution.
-- [ ] Cross-reference with [Golda Meir investigation](/influence/conspiracy/celebrities/golda) and [Jesuit pilgrimage article](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem).
+- [ ] Cross-reference with [Golda Meir investigation](/influence/conspiracy/celebrities/golda) and [Jesuit pilgrimage article](https://timeline.paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem).
 - [ ] Crown-as-scheme parent: [British royalty controlled scheme AU-049](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md)
 - [ ] Systematic audit: How many post-colonial conflicts have both sides armed by the same Western suppliers?
 - [ ] Round Table, Milner Group, Rhodes network—document overlap with Palestine, India, and African policy.
@@ -122,7 +122,7 @@ This investigation examines the hypothesis that the British Empire (and other co
 ## VIII. References
 
 - Israeli leadership / withdrawal pattern (case file, not proof of Mandate-era recruitment): [Ariel Sharon — Gaza, coma, controlled-opposition threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md)
-- Paradigm-threat: [Jesuit pilgrimage to Palestine](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem), [Golda Meir investigation](/influence/conspiracy/celebrities/golda), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
+- Paradigm-threat: [Jesuit pilgrimage to Palestine](https://timeline.paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to-jerusalem), [Golda Meir investigation](/influence/conspiracy/celebrities/golda), [Deep State Steals Russian History](https://paradigmthreat.net/history/chronology#deep-state-steals-russian-history)
 - PEF Survey of Palestine (1872–1877); British maps of Palestine (19th c.)
 - History Rise: British divide-and-rule in India; Belgian colonialism in Rwanda
 - BBC, Conversation: Partition of India 1947

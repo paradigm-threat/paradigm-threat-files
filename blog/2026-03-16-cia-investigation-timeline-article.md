@@ -31,7 +31,7 @@ Listed on [War Investigations](https://paradigmthreat.net/governance/war/investi
 
 ## 1947 CIA Timeline Article (paradigm-threat-timeline)
 
-[1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](https://paradigmthreat.net/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand)
+[1947 CE — Central Intelligence Agency: OSS Rebrand and Cold War Deep State](https://timeline.paradigmthreat.net/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand)
 
 New timeline article in chapter 14 (20th century), with image `cia-to-oss.png`:
 

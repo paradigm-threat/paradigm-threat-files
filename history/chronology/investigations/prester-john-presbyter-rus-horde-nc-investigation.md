@@ -12,7 +12,7 @@ On [How it was — Ch. 5 §7](https://chronologia.org/en/how_it_was/05.html#the7
 - English chronicles reportedly identified Genghis Khan as Prester John.
 - Rus = Kingdom of Prester John (same chapter band).
 
-The Paradigm Threat timeline compresses this into reader-facing prose in [Hordian Empire Fracture](https://paradigmthreat.net/timeline/evt-hordian-empire-fracture): Prester John = Ivan Danilovich Kalita (Khan Batuy); kingdom = Russian-Horde Empire; Western envoys sought alliance when Ottoman pressure mounted; eastern warriors bore the cross; no reply is read as memory of Western schism and betrayal, not as accident.
+The Paradigm Threat timeline compresses this into reader-facing prose in [Hordian Empire Fracture](https://timeline.paradigmthreat.net/timeline/evt-hordian-empire-fracture): Prester John = Ivan Danilovich Kalita (Khan Batuy); kingdom = Russian-Horde Empire; Western envoys sought alliance when Ottoman pressure mounted; eastern warriors bore the cross; no reply is read as memory of Western schism and betrayal, not as accident.
 
 **Open task:** Pull Russian originals or full English volumes to confirm whether Fomenko uses the exact phrase “first presbyter” or equivalent, or whether that is author shorthand for: Latin name Presbyter Ioannes + priest-king legend + NC identification. Until cited, treat “first presbyter / leader of the Presbyterian sect of Christianity” as Paradigm Threat author language, not a verified Fomenko quotation.
 
@@ -55,7 +55,7 @@ Standard history: [Presbyterianism](https://en.wikipedia.org/wiki/Presbyterianis
 
 **Claim (author):** The Prester John episode exposes a double ignorance: (1) Latin Christendom forgot how real eastern Christian power was, yet (2) still begged for help against Muslim advance; when no tidy papal answer came, Europe drifted toward cynicism or reassignment of the legend (India → Central Asia → Ethiopia). Meanwhile hard exclusive monotheism — one correct text, one obedience, one invisible God mediated only by licensed priests — trimmed the older, more polyphonic Christian imagination (heavenly powers, national gods as experienced, Christ as king in history) into brands that could war with each other. “Monotheism” here means institutional simplification and mandatory creed, not a proof that Jewish or Muslim monotheism is the villain.
 
-**Silence as morally legible (author):** If the eastern empire was the Rus–Horde center NC describes, it had little reason to trust Western envoys: the West had pursued schism, crusade against eastern Christians in places, Inquisition, and Romanov-era rewrite of Russian memory — the timeline’s [Hordian Fracture](https://paradigmthreat.net/timeline/evt-hordian-empire-fracture) article names Protestant deception, Latin, Inquisition, Romanov usurpers as reasons the Horde remembered betrayal. That is author narrative logic, not a document from Kalita’s chancery.
+**Silence as morally legible (author):** If the eastern empire was the Rus–Horde center NC describes, it had little reason to trust Western envoys: the West had pursued schism, crusade against eastern Christians in places, Inquisition, and Romanov-era rewrite of Russian memory — the timeline’s [Hordian Fracture](https://timeline.paradigmthreat.net/timeline/evt-hordian-empire-fracture) article names Protestant deception, Latin, Inquisition, Romanov usurpers as reasons the Horde remembered betrayal. That is author narrative logic, not a document from Kalita’s chancery.
 
 ## Author coda — cataclysm memory, sun, and “obvious” religion
 
@@ -63,7 +63,7 @@ Standard history: [Presbyterianism](https://en.wikipedia.org/wiki/Presbyterianis
 
 ## Cross-links
 
-- Timeline: [13th c. Russian Horde / Tartarian empire](https://paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e), [Romanov seizure / fracturing](https://paradigmthreat.net/timeline/evt-romanov-seizure-fracturing-of), [Slave trades and Horde fracture](https://paradigmthreat.net/timeline/evt-slave-trades-and-the-horde-fracture)
+- Timeline: [13th c. Russian Horde / Tartarian empire](https://timeline.paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e), [Romanov seizure / fracturing](https://timeline.paradigmthreat.net/timeline/evt-romanov-seizure-fracturing-of), [Slave trades and Horde fracture](https://timeline.paradigmthreat.net/timeline/evt-slave-trades-and-the-horde-fracture)
 - [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md)
 - [Apotheosis of Washington — Benjamin tribe, America](/history/chronology/investigations/apotheosis-washington-benjamin-tribe-america-investigation.md) — **author elder-system spine supersedes** § “Presbyterianism as Reformation product” for Native/Benjamin/America thread; revision of this file optional follow-up
 - Religious edition README + intro: `paradigm-threat-timeline/content-editions/modern-religious/`

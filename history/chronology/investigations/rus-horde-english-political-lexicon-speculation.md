@@ -5,16 +5,16 @@
 
 ## Purpose
 
-This note records a research thread: after large-scale chronology shift and imperial narrative collapse, could ordinary English still carry **phonetic crumbs**, **calques**, or **post-hoc confusions** involving **Rus**, **Horde**, **Khan** polities, and **Roman auxiliary** frames? It also asks whether **mass-printed polemic** (especially **Reformation / Protestant** networks hostile to Catholic-imperial rivals and later to **Muscovy / “Tartar”** stereotypes) could have **steered** or **frozen** **word bias** — pejorative animal labels where older or parallel registers had named **forces to respect and fear**. The timeline already treats the **Rus-Horde** complex as central ([13th-century Russian Horde / Tartarian empire](https://paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e), [Giants of the Rus-Horde](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde)). Here the question is strictly **lexical and media-pattern**, not a claim that standard handbooks are wrong without evidence.
+This note records a research thread: after large-scale chronology shift and imperial narrative collapse, could ordinary English still carry **phonetic crumbs**, **calques**, or **post-hoc confusions** involving **Rus**, **Horde**, **Khan** polities, and **Roman auxiliary** frames? It also asks whether **mass-printed polemic** (especially **Reformation / Protestant** networks hostile to Catholic-imperial rivals and later to **Muscovy / “Tartar”** stereotypes) could have **steered** or **frozen** **word bias** — pejorative animal labels where older or parallel registers had named **forces to respect and fear**. The timeline already treats the **Rus-Horde** complex as central ([13th-century Russian Horde / Tartarian empire](https://timeline.paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e), [Giants of the Rus-Horde](https://timeline.paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde)). Here the question is strictly **lexical and media-pattern**, not a claim that standard handbooks are wrong without evidence.
 
 ## In-repo anchors
 
 | Topic | Link |
 |--------|------|
 | **Lexical redaction hub (master table)** | [/history/chronology/investigations/lexical-redaction-hub-investigation.md](/history/chronology/investigations/lexical-redaction-hub-investigation.md) |
-| Rus-Horde empire (timeline) | [evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e](https://paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e) |
-| Giants / shock warfare | [evt-the-giants-of-the-rus-horde](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde), [Giants defeated at Kulikovo](https://paradigmthreat.net/timeline/evt-giants-are-defeated-at-the-battle-of) |
-| Arthur / Jupiter replacement motif | [evt-jupiter-replaces-saturn-as-the-new-saviour](https://paradigmthreat.net/timeline/evt-jupiter-replaces-saturn-as-the-new-saviour) |
+| Rus-Horde empire (timeline) | [evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e](https://timeline.paradigmthreat.net/timeline/evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e) |
+| Giants / shock warfare | [evt-the-giants-of-the-rus-horde](https://timeline.paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde), [Giants defeated at Kulikovo](https://timeline.paradigmthreat.net/timeline/evt-giants-are-defeated-at-the-battle-of) |
+| Arthur / Jupiter replacement motif | [evt-jupiter-replaces-saturn-as-the-new-saviour](https://timeline.paradigmthreat.net/timeline/evt-jupiter-replaces-saturn-as-the-new-saviour) |
 | Fomenko vs author labels | [/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) |
 | [Jew word — Judas / judicial](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) | **Passion-trial** mnemonic cluster |
 | [Nicaea / *nice* mnemonic](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | **Council-brand** mnemonic cluster (**AU-026**) |
@@ -144,7 +144,7 @@ This note records a research thread: after large-scale chronology shift and impe
 
 **Still open:** Studio **screenplay** PDF or signed dialogue list for non-subtitle wording and for exposition lines that map **Sarmatian** to **Rus** / homelands.
 
-**Thematic link (timeline):** Arthur material in this project is also read through **Jupiter / saviour replacement** ([evt-jupiter-replaces-saturn-as-the-new-saviour](https://paradigmthreat.net/timeline/evt-jupiter-replaces-saturn-as-the-new-saviour)); the 2004 film is **not** yet cross-linked there.
+**Thematic link (timeline):** Arthur material in this project is also read through **Jupiter / saviour replacement** ([evt-jupiter-replaces-saturn-as-the-new-saviour](https://timeline.paradigmthreat.net/timeline/evt-jupiter-replaces-saturn-as-the-new-saviour)); the 2004 film is **not** yet cross-linked there.
 
 ---
 

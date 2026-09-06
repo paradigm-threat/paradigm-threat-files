@@ -4,7 +4,7 @@
 
 **Status:** Open — mnemonic / pedagogical thesis; mainstream etymology in appendix.  
 **Registry:** [Author-unique theories **AU-026**](/history/chronology/investigations/author-unique-theories.md)  
-**Timeline:** [877 CE — Paschal calendar / Council of Nicaea redated](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated)
+**Timeline:** [877 CE — Paschal calendar / Council of Nicaea redated](https://timeline.paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated)
 
 ---
 
@@ -65,7 +65,7 @@ Sources: [Etymonline: nice](https://www.etymonline.com/word/nice); OED sense his
 
 - **Start:** *nice* = **foolish / ignorant** (*nescius* family) — what heretics and “barbarians” are in polemic.
 - **End:** *nice* = **refined, civil, kind** — what **orthodox Western Christendom** claims to be **after** Nicaea.
-- **Overlap era:** print, Jesuit schooling, **Gregorian “since Nicaea” (1582)**, Enlightenment **civilized vs savage**, colonial **manners** discourse — same stack that **standardizes** Nicene origin myth ([Gregorian reform timeline](https://paradigmthreat.net/timeline/evt-gregorian-calendar-makes-slight)).
+- **Overlap era:** print, Jesuit schooling, **Gregorian “since Nicaea” (1582)**, Enlightenment **civilized vs savage**, colonial **manners** discourse — same stack that **standardizes** Nicene origin myth ([Gregorian reform timeline](https://timeline.paradigmthreat.net/timeline/evt-gregorian-calendar-makes-slight)).
 - **Pun pair in Latin pedagogy:** ***nescius*** (ignorant) vs ***Nicaea*** / orthodox — defeat ignorance **at** the council brand. Dictionaries need not merge roots; **classrooms** merge **sounds**.
 
 **Irony (author):** modern “nice Westerners” boast **true knowledge** because of **Nicaea**, while old *nice* meant **ignorant** — the word **encodes the boast**.

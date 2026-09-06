@@ -20,7 +20,7 @@ Schools laughed creation stories into the “myth” bin and replaced them with 
 
 The **old model** was not complicated to say out loud: **what appeared in the heavens shaped what congealed on the ground**. In this reading, that sentence is not poetry-only. **Scalar energy** is treated as **vacuum-coupled organization** that can repeat **shape** at **nested scales**—macro pattern impressing micro instantiation—continuous with the Maxwell-medium lineage and with what textbooks now split across **QED**, **Casimir**, and **ZPE** vocabulary. Much of the public **cosmology-and-biology** narrative hardened **before** late-century **plasma–cosmology literacy** became widely teachable.
 
-Canonical narrative and environment table: [Scalar energy as the basis of creation](https://paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation). Myth-to-mechanism bridge: [Spawning of the first life forms](https://paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms). Maxwell and æther vocabulary: [LLM æther vocabulary / Maxwell debate](https://paradigmthreat.net/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md).
+Canonical narrative and environment table: [Scalar energy as the basis of creation](https://timeline.paradigmthreat.net/timeline/evt-scalar-energy-as-the-basis-of-creation). Myth-to-mechanism bridge: [Spawning of the first life forms](https://timeline.paradigmthreat.net/timeline/evt-spawning-of-the-first-life-forms). Maxwell and æther vocabulary: [LLM æther vocabulary / Maxwell debate](https://paradigmthreat.net/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md).
 
 ## Life does not start with DNA
 

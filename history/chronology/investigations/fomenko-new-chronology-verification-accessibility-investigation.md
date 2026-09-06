@@ -221,7 +221,7 @@ Optional toy “peak spacing” (difference between successive local maxima, tru
 
 ### 8.4 Paschal calendar / “Council of Nicaea” — documented NC claim (not yet recomputed here)
 
-**Timeline placement:** [877 CE — Paschal calendar / Council of Nicaea redated](https://paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) (Ch.05, 11th-century reset).
+**Timeline placement:** [877 CE — Paschal calendar / Council of Nicaea redated](https://timeline.paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) (Ch.05, 11th-century reset).
 
 | Item | Source | Status |
 |------|--------|--------|

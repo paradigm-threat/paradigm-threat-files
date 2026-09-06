@@ -1,6 +1,6 @@
 # Nightmare — Night Mare and the 1492 Apocalypse Crusade (open)
 
-> **TL;DR:** **Nightmare** may crystallize **continental trauma** from the **[1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — **Ottoman** / Rus-Horde **night cavalry raids** when much of Europe saw **war horses** in **darkness**, possibly for the **first time**. Folk compression: recurring **night** + **mare** (horse) → **nightmare**. Handbooks prefer Old English **mare** as **night-demon**; author read keeps the **equine** siege image. **Open** — **AU-030**.
+> **TL;DR:** **Nightmare** may crystallize **continental trauma** from the **[1492 Apocalypse Crusade](https://timeline.paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus)** — **Ottoman** / Rus-Horde **night cavalry raids** when much of Europe saw **war horses** in **darkness**, possibly for the **first time**. Folk compression: recurring **night** + **mare** (horse) → **nightmare**. Handbooks prefer Old English **mare** as **night-demon**; author read keeps the **equine** siege image. **Open** — **AU-030**.
 
 **Status:** Open — author thesis + cross-refs; needs dated *nightmare* / *night mare* corpus beside **1492** print and cavalry chronicles.
 
@@ -37,10 +37,10 @@
 **Unpack:**
 
 1. **Compound legibility** — English keeps **night** + **mare** visible; handbook splits **mare** into a supernatural agent so the **horse** disappears from etymology class.
-2. **1492 window** — Same event cluster as [canon / cannon / trump / trumpet](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) pejoration and [Apocalypse Crusade timeline](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus); [chronology hub — 1492 CE](https://paradigmthreat.net/history/chronology/page.md) describes **armed cavalry** reordering Europe, **Four Horsemen** apocalyptic framing, **Ottoman** / Ataman second wave.
+2. **1492 window** — Same event cluster as [canon / cannon / trump / trumpet](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) pejoration and [Apocalypse Crusade timeline](https://timeline.paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus); [chronology hub — 1492 CE](https://paradigmthreat.net/history/chronology/page.md) describes **armed cavalry** reordering Europe, **Four Horsemen** apocalyptic framing, **Ottoman** / Ataman second wave.
 3. **First horses** — Imperial **horse cavalry** was Horde norm ([giants / infantry dossier](https://paradigmthreat.net/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md); chronology: Rus-Horde campaigns **predominantly horse cavalry**). Many **western European** populations may have had **no lived category** for mass **war horses** until the **invasion** — daylight taxonomy fails; **night** raids leave **hoofbeat**, **silhouette**, **speed** as the memory payload.
 4. **Night strategy** — Siege and terror doctrine favors **dark** approaches; repeated **night mare** sightings (horse-at-night) compress into one **fright** word.
-5. **Scale** — Author ranks this below only **planetary cataclysm** ([MFEE](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm)) as a **shared** European trauma still audible in everyday **nightmare**.
+5. **Scale** — Author ranks this below only **planetary cataclysm** ([MFEE](https://timeline.paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm)) as a **shared** European trauma still audible in everyday **nightmare**.
 
 **Not claimed:** every European had never seen any horse; **mare** demon etymology is **fabricated**; dated OE *mære* attestations are **disproven**.
 
@@ -50,7 +50,7 @@
 
 | Anchor | Link |
 |--------|------|
-| **1492 Apocalypse Crusade & Reverse Exodus** | [evt-the-apocalypse-crusade-reverse-exodus](https://paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus) |
+| **1492 Apocalypse Crusade & Reverse Exodus** | [evt-the-apocalypse-crusade-reverse-exodus](https://timeline.paradigmthreat.net/timeline/evt-the-apocalypse-crusade-reverse-exodus) |
 | **15th c. Ottoman conquest of Europe** (chronology prose) | [history/chronology/page.md](https://paradigmthreat.net/history/chronology/page.md) — §15th Century; **1492** block; cavalry / apocalypse art |
 | **Rus-Horde horse cavalry** (campaign norm) | Same hub — Horde army **predominantly horse cavalry** |
 | **England / horse inheritance** (later vacuum read) | [Hidden History of Words — England](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) — vassal cavalry vs post-MFEE Atlantic **claim** |

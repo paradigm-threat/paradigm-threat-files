@@ -44,14 +44,14 @@ Two days since the last update: paradigm-threat-files gained the **Soul Science 
 
 ## 1948 Israel Creation (paradigm-threat-timeline)
 
-[1948 CE — Israel Creation: British Mandate, Divide-and-Conquer, and False Geography](https://paradigmthreat.net/timeline/evt-1948-ce-israel-creation-british-mandate)
+[1948 CE — Israel Creation: British Mandate, Divide-and-Conquer, and False Geography](https://timeline.paradigmthreat.net/timeline/evt-1948-ce-israel-creation-british-mandate)
 
 New timeline article in chapter 14 (20th century):
 
 - Balfour (1917) → Mandate (1920–48) → 14 May 1948 declaration
 - Palestine on British maps (PEF Survey 1872–77); "Israel" absent
 - Control of sacred texts; Operation Agatha; Golda Meir
-- Links to [Jesuit pilgrimage](https://paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to) and the divide-and-conquer investigation
+- Links to [Jesuit pilgrimage](https://timeline.paradigmthreat.net/timeline/evt-jesuits-make-pilgrimage-to) and the divide-and-conquer investigation
 
 ---
 

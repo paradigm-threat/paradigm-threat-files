@@ -40,11 +40,11 @@ The Columbus story will not die even when people treat it as hokey, because a fo
 
 I still hold that the early American colonists were **right to leave**. Their religion was preserved in America. They did not shake off the Deep State religious yoke. What they spared was the later European religious purge.
 
-On Fomenko’s timeline, and on my read, the **Cathars** and the **Khazars** are one erased people split by map and dating — Katherine-centred / pre-schism Christianity burned or sieged on two fronts. Western chronicles call one front the Albigensian / Inquisition war. Eastern and steppe ledgers bury the other under Khazar erasure. [Joan of Arc](https://paradigmthreat.net/timeline/evt-1580-ce-jeanne-darc-is-executed-in-rouen-france) was burned in that same war complex; Fomenko folds her into the Judges dossier with the Cathar crusade. Her name is the most resilient scrap of a people otherwise wiped from the ledger. That is what the American colonists **avoided**.
+On Fomenko’s timeline, and on my read, the **Cathars** and the **Khazars** are one erased people split by map and dating — Katherine-centred / pre-schism Christianity burned or sieged on two fronts. Western chronicles call one front the Albigensian / Inquisition war. Eastern and steppe ledgers bury the other under Khazar erasure. [Joan of Arc](https://timeline.paradigmthreat.net/timeline/evt-1580-ce-jeanne-darc-is-executed-in-rouen-france) was burned in that same war complex; Fomenko folds her into the Judges dossier with the Cathar crusade. Her name is the most resilient scrap of a people otherwise wiped from the ledger. That is what the American colonists **avoided**.
 
 ![Joan of Arc at the stake](https://paradigmthreat.net/history/chronology/tartaria/painting_joan_of_arc_stake.jpg)
 
-Christians should never apologize for the **1492** move to America, no matter what came later on this continent. Renaming Columbus Day to “Indigenous Peoples’ Day” is a political stunt that divides people and explains nothing. Keep the holiday. Keep the name if you insist. Understand the event. Spanish *Cristóbal Colón* translates as **Colony of Christ** — a title for the function, not a tidy sailor biography ([1492 Apocalypse Crusade](https://paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade)).
+Christians should never apologize for the **1492** move to America, no matter what came later on this continent. Renaming Columbus Day to “Indigenous Peoples’ Day” is a political stunt that divides people and explains nothing. Keep the holiday. Keep the name if you insist. Understand the event. Spanish *Cristóbal Colón* translates as **Colony of Christ** — a title for the function, not a tidy sailor biography ([1492 Apocalypse Crusade](https://timeline.paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade)).
 
 Christians should know this and teach it to children in church. Not the cartoon sermon — “Columbus was told by God to spread the religion and ended up slaughtering Native Americans.” Teach this: the Christ colony preserved original Christianity when that flame was about to go out like a candle. Refugees of that faith reached a land already peopled. On this read, natives welcomed them and understood the plight — sanctuary for a Christianity Europe was burning. That **union between Native Americans and original Christians** is the defining element of this country. Later empires redacted it, suppressed it, and tried to destroy it. The memory still survives. Textbooks bury it. Churches look away and apologize. That loss of memory is the real wound.
 
@@ -52,7 +52,7 @@ What arrived in the next century was a different machine — the imperial yoke. 
 
 > But, if you do not do this, and maliciously make delay in it, I certify to you that, with the help of God, we shall powerfully enter into your country, and shall make war against you in all ways and manners that we can, and shall subject you to the yoke and obedience of the Church and of their Highnesses; we shall take you and your wives and your children, and shall make slaves of them, and as such shall sell and dispose of them as their Highnesses may command; and we shall take away your goods, and shall do you all the mischief and damage that we can, as to vassals who do not obey, and refuse to receive their lord, and resist and contradict him; and we protest that the deaths and losses which shall accrue from this are your fault, and not that of their Highnesses, or ours, nor of these cavaliers who come with us.
 
-The natives did not agree. They were subjected to complete slavery — and later, mostly wiped out. The people who replaced them lived under the same imperial stamp. The [Doctrine of Discovery](https://en.wikipedia.org/wiki/Discovery_doctrine) is not a gentler British cousin. Strip the land, remake the religion, put people under someone else’s law — that is slavery whether the paper says “slave,” “title,” “discovery,” or “destiny.” The British empire ran the same bondage through bureaucracy: Discovery title in court (*Johnson v. M’Intosh*), Indian treaties that moved nations off soil, removal statutes, land patents that treated Native tenure as occupancy under the Crown’s heir. Hard to prove “slavery” from novels alone. You have to read the forms as the yoke ([mud flood hub](https://paradigmthreat.net/history/mudflood/page.md); [British Empire as Deep State](https://paradigmthreat.net/timeline/evt-british-empire-as-deep-state)).
+The natives did not agree. They were subjected to complete slavery — and later, mostly wiped out. The people who replaced them lived under the same imperial stamp. The [Doctrine of Discovery](https://en.wikipedia.org/wiki/Discovery_doctrine) is not a gentler British cousin. Strip the land, remake the religion, put people under someone else’s law — that is slavery whether the paper says “slave,” “title,” “discovery,” or “destiny.” The British empire ran the same bondage through bureaucracy: Discovery title in court (*Johnson v. M’Intosh*), Indian treaties that moved nations off soil, removal statutes, land patents that treated Native tenure as occupancy under the Crown’s heir. Hard to prove “slavery” from novels alone. You have to read the forms as the yoke ([mud flood hub](https://paradigmthreat.net/history/mudflood/page.md); [British Empire as Deep State](https://timeline.paradigmthreat.net/timeline/evt-british-empire-as-deep-state)).
 
 The founding parchment did not break that chain. The Declaration of Independence and the Constitution of **1787** protected and preserved slavery — three-fifths enumeration, the delayed slave-trade clause, the fugitive-slave clause. The republic was born inside the slave empire, not outside it. The empire evolved. **Slavery was never really banned**. The carceral Thirteenth and the memory-hole of [TONA](https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand) — the Titles of Nobility amendment that could have cut foreign ownership hooks without a replacement “liberation” text — are later chapters of the same story. Once you know TONA, the blue pill is harder to swallow.
 
@@ -62,7 +62,7 @@ The founding parchment did not break that chain. The Declaration of Independence
 
 **1492** remade religion while the Rus–Horde center still stood. About a century later that center was cut apart.
 
-In the early **1600s**, the [Tartarian / Rus–Horde](https://paradigmthreat.net/history/chronology/tartaria/_time_warp.md) world empire broke into rival states. Schoolbooks call that the birth of independent nations. On this map it is a cover story. Families that once served one throne became kings and queens of **Russia**, **Ottoman**, **Spain**, **England**, **America**, and the rest — timed with the [Romanov seizure](https://paradigmthreat.net/timeline/evt-romanov-seizure-fracturing-of), the King James Bible, and the Petavius chronology rewrite. [Chronology revision](https://paradigmthreat.net/history/chronology/page.md) shortened the record until the old center was easy to forget.
+In the early **1600s**, the [Tartarian / Rus–Horde](https://paradigmthreat.net/history/chronology/tartaria/_time_warp.md) world empire broke into rival states. Schoolbooks call that the birth of independent nations. On this map it is a cover story. Families that once served one throne became kings and queens of **Russia**, **Ottoman**, **Spain**, **England**, **America**, and the rest — timed with the [Romanov seizure](https://timeline.paradigmthreat.net/timeline/evt-romanov-seizure-fracturing-of), the King James Bible, and the Petavius chronology rewrite. [Chronology revision](https://paradigmthreat.net/history/chronology/page.md) shortened the record until the old center was easy to forget.
 
 Textbooks remember the old order as Mongol barbarism. The fracture thesis runs the other way. One center had less reason to run rival slave races against itself. After the cut, **splinter empires** competed for labor and loot. Once fealty to one throne was illegal, people had to be bought, raided, or shipped across oceans under contract. That is how forced labor scaled up.
 
@@ -95,22 +95,22 @@ You are a slave, Neo. Like everyone else you were born into bondage. That should
 ## Where next
 
 - [Slave trades and Moor etymology — claim tables, SSN history, covert-slavery registry](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation)
-- [1492 Apocalypse Crusade — Fomenko plague crusade / Columbus cover](https://paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade)
-- [15th century Ottoman conquest of Europe — Ataman second wave](https://paradigmthreat.net/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe)
-- [Reverse Exodus — 1492 BCE/CE mirror](https://paradigmthreat.net/timeline/evt-the-reverse-exodus-theory)
+- [1492 Apocalypse Crusade — Fomenko plague crusade / Columbus cover](https://timeline.paradigmthreat.net/timeline/evt-1492-ce-the-apocalypse-crusade)
+- [15th century Ottoman conquest of Europe — Ataman second wave](https://timeline.paradigmthreat.net/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe)
+- [Reverse Exodus — 1492 BCE/CE mirror](https://timeline.paradigmthreat.net/timeline/evt-the-reverse-exodus-theory)
 - [Cathars — purge, catharization, Khazar split thesis](https://paradigmthreat.net/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md)
-- [Cathar–Khazar–Katya connection](https://paradigmthreat.net/timeline/evt-cathar-khazar-katya-link)
-- [Jeanne d’Arc executed — Fomenko Judges / Cathar war complex](https://paradigmthreat.net/timeline/evt-1580-ce-jeanne-darc-is-executed-in-rouen-france)
+- [Cathar–Khazar–Katya connection](https://timeline.paradigmthreat.net/timeline/evt-cathar-khazar-katya-link)
+- [Jeanne d’Arc executed — Fomenko Judges / Cathar war complex](https://timeline.paradigmthreat.net/timeline/evt-1580-ce-jeanne-darc-is-executed-in-rouen-france)
 - [Promised land investigation](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.md)
 - [Mud flood hub — Requerimiento “yoke”](https://paradigmthreat.net/history/mudflood/page.md)
 - [TONA, Not War — Liberty’s Rebrand](https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand)
-- [Slave Trades and the Horde Fracture](https://paradigmthreat.net/timeline/evt-slave-trades-and-the-horde-fracture)
+- [Slave Trades and the Horde Fracture](https://timeline.paradigmthreat.net/timeline/evt-slave-trades-and-the-horde-fracture)
 - [Mars and the stock market — Mars–lunar-node / Dow](https://paradigmthreat.net/cosmos/mars/investigations/mars-stock-market-correlation.md)
 - [Mars hub — breakaway civilization](https://paradigmthreat.net/cosmos/mars/page.md)
 - [History Q&A — Black Cube of Saturn](https://paradigmthreat.net/history/chronology/history-qa/page.md)
 - [Not Like This — *Matrix* 1 NSA-camp wake-up](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md)
 - [Modern celebrity slavery](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery)
-- [British Empire as Deep State instrument](https://paradigmthreat.net/timeline/evt-british-empire-as-deep-state)
+- [British Empire as Deep State instrument](https://timeline.paradigmthreat.net/timeline/evt-british-empire-as-deep-state)
 
 ## Framing and limits
 

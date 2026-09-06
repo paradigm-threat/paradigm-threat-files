@@ -45,29 +45,29 @@
 
 ### Mudflood appendix cluster
 
-- [MudFlood evidence](https://paradigmthreat.net/timeline/evt-mudflood-evidence) — appendix hub refinements.
-- [Slow ecological collapse — MFEE through Donner era (appendix)](https://paradigmthreat.net/timeline/evt-slow-ecological-collapse-mfee-donner-appendix) — links to files investigation.
-- [“New World” naming, MFEE, colonization memory (appendix)](https://paradigmthreat.net/timeline/evt-new-world-naming-mfee-colonization-memory-appendix) — links to files investigation (content touched in latest commit).
+- [MudFlood evidence](https://timeline.paradigmthreat.net/timeline/evt-mudflood-evidence) — appendix hub refinements.
+- [Slow ecological collapse — MFEE through Donner era (appendix)](https://timeline.paradigmthreat.net/timeline/evt-slow-ecological-collapse-mfee-donner-appendix) — links to files investigation.
+- [“New World” naming, MFEE, colonization memory (appendix)](https://timeline.paradigmthreat.net/timeline/evt-new-world-naming-mfee-colonization-memory-appendix) — links to files investigation (content touched in latest commit).
 
 ### 1666, London, aether, Einstein
 
-- [London burns (Sept 2–6, 1666)](https://paradigmthreat.net/timeline/evt-1666-ce-london-burns-to-the-ground-sept-2-6-1666) — Deep State climax thesis and open speculation cross-link to Wells investigation in files.
-- [Suppression of Maxwell & the Aether](https://paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether) — expanded argument on 1905 and proof standards; points to appendix.
-- [Einstein, 1905, the Aether, and Theoretical Physics (appendix)](https://paradigmthreat.net/timeline/evt-einstein-1905-aether-theoretical-physics-appendix) — explicit thesis appendix for managed medium retirement and textbook cosmology.
+- [London burns (Sept 2–6, 1666)](https://timeline.paradigmthreat.net/timeline/evt-1666-ce-london-burns-to-the-ground-sept-2-6-1666) — Deep State climax thesis and open speculation cross-link to Wells investigation in files.
+- [Suppression of Maxwell & the Aether](https://timeline.paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether) — expanded argument on 1905 and proof standards; points to appendix.
+- [Einstein, 1905, the Aether, and Theoretical Physics (appendix)](https://timeline.paradigmthreat.net/timeline/evt-einstein-1905-aether-theoretical-physics-appendix) — explicit thesis appendix for managed medium retirement and textbook cosmology.
 
 ### British Empire & 19th century
 
-- [British Empire as Deep State](https://paradigmthreat.net/timeline/evt-british-empire-as-deep-state) — minor content update (latest commit).
+- [British Empire as Deep State](https://timeline.paradigmthreat.net/timeline/evt-british-empire-as-deep-state) — minor content update (latest commit).
 
 ### Giants, infantry, guerrilla
 
-- [Giants, infantry, guerrilla, Children’s Crusade — etymology (appendix)](https://paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology) — overflow from files investigation; mainstream table and timeline cross-links.
+- [Giants, infantry, guerrilla, Children’s Crusade — etymology (appendix)](https://timeline.paradigmthreat.net/timeline/evt-giants-infantry-guerrilla-childrens-crusade-etymology) — overflow from files investigation; mainstream table and timeline cross-links.
 
 ### Chapter arcs & Golden Age presentation
 
-- [4077 BCE — The Golden Age](https://paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) — part opener and documentary-style graphics rollout (with sibling Golden Age / Dark Ages entries refreshed in the same release train).
-- [Cathar suppression](https://paradigmthreat.net/timeline/evt-cathar-suppression) and [Cathar–Khazar–Katya link](https://paradigmthreat.net/timeline/evt-cathar-khazar-katya-link) — Chapter 10 arc and Reverse Crusade cross-links.
-- [Napoleonic wars (reverse reading)](https://paradigmthreat.net/timeline/evt-napoleonic-wars-reverse) — weather / Absu note (MFEE investigation stub wave).
+- [4077 BCE — The Golden Age](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) — part opener and documentary-style graphics rollout (with sibling Golden Age / Dark Ages entries refreshed in the same release train).
+- [Cathar suppression](https://timeline.paradigmthreat.net/timeline/evt-cathar-suppression) and [Cathar–Khazar–Katya link](https://timeline.paradigmthreat.net/timeline/evt-cathar-khazar-katya-link) — Chapter 10 arc and Reverse Crusade cross-links.
+- [Napoleonic wars (reverse reading)](https://timeline.paradigmthreat.net/timeline/evt-napoleonic-wars-reverse) — weather / Absu note (MFEE investigation stub wave).
 
 ### Media & build
 
@@ -80,9 +80,9 @@
 
 These changes apply across the timeline reader and related UI (not separate static articles):
 
-- **[Timeline](https://paradigmthreat.net/timeline)** — Date labels for open-ended and mixed BCE–CE ranges; dropdown and path handling; **book-illustration** layout and slideshow filtering; **LQIP** image sizing using dimensions from the files index; Markdown / carousel handling for print-only figures.
+- **[Timeline](https://timeline.paradigmthreat.net/timeline)** — Date labels for open-ended and mixed BCE–CE ranges; dropdown and path handling; **book-illustration** layout and slideshow filtering; **LQIP** image sizing using dimensions from the files index; Markdown / carousel handling for print-only figures.
 - **[Search](https://paradigmthreat.net/search)** — Search field **autofocus** on load so typing starts the query immediately.
-- **Planets (3D) split view** — [Example event with animation-3d](https://paradigmthreat.net/timeline/evt-september-8-jupiter-disappears?fullscreen=1&view=animation-3d): WebGL **resize** after dragging the timeline/article splitter (double `requestAnimationFrame` + split state).
+- **Planets (3D) split view** — [Example event with animation-3d](https://timeline.paradigmthreat.net/timeline/evt-september-8-jupiter-disappears?fullscreen=1&view=animation-3d): WebGL **resize** after dragging the timeline/article splitter (double `requestAnimationFrame` + split state).
 - **TTS** (timeline slideshow and article read-aloud) — years and common date patterns are expanded to spoken English before synthesis; **Latin and scholarly Latinisms** are normalized or omitted so **Piper** and **Web Speech** stay aligned with on-screen captions.
 
 ---

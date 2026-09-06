@@ -275,7 +275,7 @@ Approximate order as **MON** issues moves (all **in the time on the card** unles
 - [RV two-way, Iran revival, Super Cockpit](cia-reading-room-rv-two-way-iran-revival-investigation.md) — **open** Earth-side **two-way** / revival / **Super Cockpit** rhyme (substrate = Mars file).
 - [Plain transcript (.txt)](cia-reading-room-mars-exploration-1984-transcript.txt) — **MON/SUB** + acquisition block (machine extract).
 - Local mirror ops (outside **paradigm-threat-files**): `~/dev/wget/cia/cia-reading-room-local-mirror-and-ocr-operations.md`
-- **Timeline:** [The MudFlood & World Cataclysm](https://paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this PDF for **MFEE phenomenology** cross-read.
+- **Timeline:** [The MudFlood & World Cataclysm](https://timeline.paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm) (paradigm-threat-timeline) cites this PDF for **MFEE phenomenology** cross-read.
 
 ---
 

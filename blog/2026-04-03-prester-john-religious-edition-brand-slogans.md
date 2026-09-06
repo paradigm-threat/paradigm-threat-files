@@ -31,7 +31,7 @@
 
 ## paradigm-threat-timeline
 
-- **Cathar / Khazar hub** — [10.05.01 Cathar–Khazar–Katya link](https://paradigmthreat.net/timeline/evt-cathar-khazar-katya-link) updated to point at the **files** suppression investigations (**Eckhart / *Jacob’s Ladder***, **Cathar–Khazar** dossier).
+- **Cathar / Khazar hub** — [10.05.01 Cathar–Khazar–Katya link](https://timeline.paradigmthreat.net/timeline/evt-cathar-khazar-katya-link) updated to point at the **files** suppression investigations (**Eckhart / *Jacob’s Ladder***, **Cathar–Khazar** dossier).
 - **Two products** — Docs and rules now state **definitive** narrative in root `**content/`** only; **religious** voice lives in `**content-editions/modern-religious/`** (no parallel `content-editions/educational/` tree). See `**content-editions/README.md**`, `**docs/BOOK_EDITIONS_PLAN.md**`, and related FAQ / strategy notes where touched.
 - **Religious edition** — README and `**00.overview/00.00.00-introduction.md`** frame **good–evil / God–devil** language, avoid **central cabal** tone, and thread **Prester John**, **presbyter**, **Rus–Horde / Tartary**, and **“original Christianity”** vs Western fracture themes without collapsing **religious** into **good**.
 - **Canonical intro** — Root `**content/00.overview/00.00.00-introduction.md`** carries a shorter **Prester John / presbyter** bridge aligned with the investigation’s attribution rules.

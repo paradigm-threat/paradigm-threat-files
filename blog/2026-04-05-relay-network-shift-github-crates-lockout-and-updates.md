@@ -35,7 +35,7 @@ This window includes a **broad tree refresh** commit (metadata / standard blocks
 
 A **large merge** landed (**“griff merge”**): **definitive** `content/` and **religious** `content-editions/modern-religious/` chapters, appendices, and **`data/events.json`** were brought in line together—book-facing prose, cross-links, and generated events for the site timeline.
 
-- **New article** — **[1463 CE — Man-eating griffins and the steppe extinction campaign](https://paradigmthreat.net/timeline/evt-1463-ce-man-eating-griffins-extinction)** (`09.07.00-1463-ce-man-eating-griffins-extinction.md`), sibling to the **[15th-century Ottoman conquest of Europe](https://paradigmthreat.net/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe)** chapter hub (`09.00.00` overview).
+- **New article** — **[1463 CE — Man-eating griffins and the steppe extinction campaign](https://timeline.paradigmthreat.net/timeline/evt-1463-ce-man-eating-griffins-extinction)** (`09.07.00-1463-ce-man-eating-griffins-extinction.md`), sibling to the **[15th-century Ottoman conquest of Europe](https://timeline.paradigmthreat.net/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe)** chapter hub (`09.00.00` overview).
 - **Housekeeping** — **`package.json`**, **`index.json`**, **`changelog.json`**, keyword scripts (`append_article_keywords.py`, `article_keyword_overrides.json`) where touched by the merge.
 
 ---

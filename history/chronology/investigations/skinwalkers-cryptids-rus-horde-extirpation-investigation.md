@@ -138,9 +138,9 @@ This investigation adopts (for exploration) the author’s claim that the Rus–
   — Local mirror: [/influence/religion/hairy_mary/index-hairy-mary-original.md](/influence/religion/hairy_mary/index-hairy-mary-original.md) (source: `https://en.posztukiwania.pl/2014/07/19/hairy-mary/`)
 - **This still counts as evidence for the investigation’s narrow claim:** even if an allegory or an artistic misunderstanding, it demonstrates a durable cultural image: **a human saint depicted as hirsute / wild / outside civilization**, overlapping the “hairy human” cryptid phenotype category this file is trying to track.
 - **Repository cross-link (timeline treatment):** the timeline expands this into a Rus’/Horde lineage thesis (“Wild People” / “Mary of Rus’”) and treats hirsute “wild woman” iconography as memory of a real phenotype. This is an internal thesis (not mainstream), but it is a concrete in-repo anchor for the “hairy human” track.  
-  — Timeline article: [`Hairy Mary`](https://paradigmthreat.net/timeline/evt-hairy-mary) (repo source: `paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.01.01-hairy-mary.md`)
+  — Timeline article: [`Hairy Mary`](https://timeline.paradigmthreat.net/timeline/evt-hairy-mary) (repo source: `paradigm-threat-timeline/content/06.ce-12th-birth-of-christianity/06.01.01-hairy-mary.md`)
 - **Second Rus–Horde anchor (internal thesis):** “The Giants of the Rus‑Horde” explicitly describes the Rus‑Horde leadership caste as “giant, hairy humans” and ties that to the “Wild People” / Hairy Mary thread.  
-  — Timeline article: [`The Giants of the Rus-Horde`](https://paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) (repo source: `paradigm-threat-timeline/content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md`)
+  — Timeline article: [`The Giants of the Rus-Horde`](https://timeline.paradigmthreat.net/timeline/evt-the-giants-of-the-rus-horde) (repo source: `paradigm-threat-timeline/content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md`)
 
 #### 5.2.2 Evidence cluster: Wild Woman iconography (non-saint “hairy human” normalization)
 

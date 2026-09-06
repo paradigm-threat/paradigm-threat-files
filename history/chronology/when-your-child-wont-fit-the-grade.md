@@ -107,7 +107,7 @@ I was pushed through public material on slavery and violence too young. What stu
 
 #### What Ellsberg documented (1971)
 
-Ellsberg was **on duty in the Pentagon** the night of 4 August 1964, reading real-time cable traffic. He knew the second-attack story was rotten before the country did. The *Pentagon Papers* (1971) placed Tonkin inside a **pattern of deception** that expanded Vietnam — an **antibody** leak from the **Pentagon/RAND** pipeline. See [historical antibodies profiles — Ellsberg](https://paradigmthreat.net/timeline/evt-historical-antibodies-profiles) and the [good-actor / interagency investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) § II.I.
+Ellsberg was **on duty in the Pentagon** the night of 4 August 1964, reading real-time cable traffic. He knew the second-attack story was rotten before the country did. The *Pentagon Papers* (1971) placed Tonkin inside a **pattern of deception** that expanded Vietnam — an **antibody** leak from the **Pentagon/RAND** pipeline. See [historical antibodies profiles — Ellsberg](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies-profiles) and the [good-actor / interagency investigation](https://paradigmthreat.net/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) § II.I.
 
 #### What Robert Hanyok and the NSA did (2001–2005) — a **hot war between agencies**
 

@@ -16,7 +16,7 @@
 
 ## paradigm-threat-timeline
 
-Appendix and **20th-century** chapters now **cross-link** the **[spore / ecological disaster](https://paradigmthreat.net/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation)** investigation from **[Predictive Programming: Fiction as Control](https://paradigmthreat.net/timeline/evt-predictive-programming-fiction-as-control)** (Wells / chestnut thread) and **[American chestnut blight — Martian incursion](https://paradigmthreat.net/timeline/evt-american-chestnut-blight-martian)**; **[20th Century Predictive Programming: Literature](https://paradigmthreat.net/timeline/evt-predictive-programming-literature)** picks up the consolidated **PP** pointer. Repo **version** → **1.2.181**.
+Appendix and **20th-century** chapters now **cross-link** the **[spore / ecological disaster](https://paradigmthreat.net/history/mudflood/investigations/spore-ecological-disaster-martian-cylinders-investigation)** investigation from **[Predictive Programming: Fiction as Control](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming-fiction-as-control)** (Wells / chestnut thread) and **[American chestnut blight — Martian incursion](https://timeline.paradigmthreat.net/timeline/evt-american-chestnut-blight-martian)**; **[20th Century Predictive Programming: Literature](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming-literature)** picks up the consolidated **PP** pointer. Repo **version** → **1.2.181**.
 
 ---
 

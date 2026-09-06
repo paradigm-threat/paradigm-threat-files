@@ -73,7 +73,7 @@ Read that voice for yourself. Short lines, ellipses, “NASA fools,” “please
 
 That is why Spurr is **controlled opposition** here on behavior as well as content: fame for the claim; every door that would produce a checkable file closed; poison-pill landscape anatomy pushed when the soft-tissue docs are what matter; exit with YouTube. Soft-tissue and Helix DNA can stay open **without** him. Readers can decide whether that sounds like research.
 
-Google Earth “dragons,” continent-scale bodies, and Typhon-on-a-map are the same class of pill as Flat Earth for that lane. Soft-tissue preservation, DNA custody, and imaging documents can stay open without them. The only dragon that holds here is [comet Venus](https://paradigmthreat.net/timeline/evt-passover-of-comet-venus).
+Google Earth “dragons,” continent-scale bodies, and Typhon-on-a-map are the same class of pill as Flat Earth for that lane. Soft-tissue preservation, DNA custody, and imaging documents can stay open without them. The only dragon that holds here is [comet Venus](https://timeline.paradigmthreat.net/timeline/evt-passover-of-comet-venus).
 
 I still leave the door open if he ships paper — radiology letterhead, dig coordinates, a Briggs or Zolensky reply, contamination notes. Mail works. Email works. Published links work. I will credit documents fairly. “Refer to my YouTube” is not a citation. Full chronology: [Spurr correspondence §11](https://paradigmthreat.net/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md#11-spurr-correspondence-2026-07).
 

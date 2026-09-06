@@ -14,7 +14,7 @@ Overview and appendix copy only: the *Authors Who Read Ancient Sources as World 
 
 ### Authors Who Read Ancient Sources as World Cataclysm (expanded)
 
-[Authors Who Read Ancient Sources as World Cataclysm](https://paradigmthreat.net/timeline/evt-authors-cataclysm-texts)
+[Authors Who Read Ancient Sources as World Cataclysm](https://timeline.paradigmthreat.net/timeline/evt-authors-cataclysm-texts)
 
 The timeline overview article now has **multiple paragraphs**:
 
@@ -23,13 +23,13 @@ The timeline overview article now has **multiple paragraphs**:
 - **Why it matters:** Shared interpretive frame for the timeline project.
 - **Controlled opposition:** A dedicated paragraph states the author's thesis — Velikovsky vs. Talbott as divide-and-conquer, Golden-Age-only boundary, Talbott camp as controlled opposition/straw man, Thornhill as the real deal — with a link to the full argument in the appendix.
 
-Links to [Author Profiles](https://paradigmthreat.net/timeline/evt-author-profiles) and [Authors Challenging the Mainstream Timeline](https://paradigmthreat.net/timeline/evt-authors-challenging-chronology) are unchanged.
+Links to [Author Profiles](https://timeline.paradigmthreat.net/timeline/evt-author-profiles) and [Authors Challenging the Mainstream Timeline](https://timeline.paradigmthreat.net/timeline/evt-authors-challenging-chronology) are unchanged.
 
 ---
 
 ### Controlled Opposition & Managed Disclosure (new section)
 
-[Controlled Opposition & Managed Disclosure](https://paradigmthreat.net/timeline/evt-controlled-opposition-managed-disclosure) — section *"Author's theory: Velikovsky and Talbott as divide-and-conquer"*
+[Controlled Opposition & Managed Disclosure](https://timeline.paradigmthreat.net/timeline/evt-controlled-opposition-managed-disclosure) — section *"Author's theory: Velikovsky and Talbott as divide-and-conquer"*
 
 New section in the timeline appendix:
 

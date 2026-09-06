@@ -43,7 +43,7 @@ New geoengineering investigation: [Tornado–Power Station Explosion: Electromag
 
 **Thesis:** Oil may cause the fire, but the *heating mechanism* is unclear. Mainstream account: mechanical damage → arcing → oil combusts. Alternate: **high-amplitude energy transmission through the tornado**; substation as discharge point; oil heated almost instantly. Electric theory of tornadoes (Bolonkin et al.) — discharging voltage could destabilize the vortex.
 
-**Cross-ref:** [Weather Modification](https://paradigmthreat.net/science/geoengineering/weather-modification-investigation), [HAARP](https://paradigmthreat.net/timeline/evt-weather-control).
+**Cross-ref:** [Weather Modification](https://paradigmthreat.net/science/geoengineering/weather-modification-investigation), [HAARP](https://timeline.paradigmthreat.net/timeline/evt-weather-control).
 
 **Image:** [electromagnetic-tornado.png](https://paradigmthreat.net/science/geoengineering/electromagnetic-tornado.png)
 

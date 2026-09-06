@@ -323,7 +323,7 @@ European permafrost-virus work (**Jean-Michel Claverie** / Aix-Marseille team; *
 | [Predictive programming hub](/influence/predictive_programming/page.md) | PP definitions |
 | [Zombie genre investigation](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) | Pre-20th c. roots; fiction-vs-fact framing |
 | [Exorcism / demonology / disease](/influence/religion/exorcism-demonology-disease-colonial-memory-investigation.md) | Possession rhyme |
-| [PP film/TV/games timeline](https://paradigmthreat.net/timeline/evt-pp-film-tv-games) | Broader catalog |
+| [PP film/TV/games timeline](https://timeline.paradigmthreat.net/timeline/evt-pp-film-tv-games) | Broader catalog |
 | [virus.md](/science/health/virus.md) | GNM / virus mania fear grammar |
 | [Vaccine hub](/governance/genocide/vaccine/a.md) | [zombie_virus.jpg](/governance/genocide/vaccine/zombie_virus.jpg) exhibit — NY Post 2022 headline |
 

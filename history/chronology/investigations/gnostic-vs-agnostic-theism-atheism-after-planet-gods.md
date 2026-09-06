@@ -19,7 +19,7 @@
 
 - In the [Wuxing / five planets investigation](/history/chronology/investigations/wuxing-five-planets-dark-ages.md), **five phases** are read as an **observational record** of interacting bodies during the nonlinear sky configuration, not as free-floating metaphysics.
 - When **Jupiter, Venus, Mars, Mercury, and Earth** (and, earlier, **Saturn** in polar / “Golden Age” reconstructions) were **visibly** doing things humans had to respect, **worship and prediction** had a **shared substrate** with **meteorology** and survival.
-- After **stabilization** (timeline: [Solar system becomes stable](https://paradigmthreat.net/timeline/evt-684-bce-solar-system-becomes-stable)), the **same stories and names** could persist while the **operational link** — *this rite / this god-term maps to this visible behaviour* — **weakened or broke**. Survivors of tradition were left with **narrative and institution**, not the old **bench-and-sky** feedback loop.
+- After **stabilization** (timeline: [Solar system becomes stable](https://timeline.paradigmthreat.net/timeline/evt-684-bce-solar-system-becomes-stable)), the **same stories and names** could persist while the **operational link** — *this rite / this god-term maps to this visible behaviour* — **weakened or broke**. Survivors of tradition were left with **narrative and institution**, not the old **bench-and-sky** feedback loop.
 
 **Investigative claim:** What later ages call **“God”** or **high gods** may **carry compressed memory** of bodies such as **Saturn** (in Saturnian reconstruction, the **central** luminous configuration before later reorderings). Worship of an **invisible**, **transcendent** creator can then be read as **continued allegiance** to a **no-longer-obvious** referent — **theistic** in confession, **agnostic** in **epistemic access** to what that referent **was**, physically and historically.
 
@@ -53,7 +53,7 @@
 **Historical sketch (this repo’s reading):**
 
 - **19th-century electrodynamics** assumed a **substantive medium** (luminiferous **aether**); engineers and physicists **worked as if** space had **dielectric** / **polarizable** structure.
-- After **1905** and institutional consolidation, textbooks could **drop** the ether **without** installing a **workbench-clear** replacement narrative for students and the public. See [Suppression of Maxwell & the Aether](https://paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether) and the extended thesis in [Einstein, 1905, the Aether, and Theoretical Physics (Appendix)](https://paradigmthreat.net/timeline/evt-einstein-1905-aether-theoretical-physics-appendix): **medium out**, **proof optional**, **elegance and consensus** in.
+- After **1905** and institutional consolidation, textbooks could **drop** the ether **without** installing a **workbench-clear** replacement narrative for students and the public. See [Suppression of Maxwell & the Aether](https://timeline.paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether) and the extended thesis in [Einstein, 1905, the Aether, and Theoretical Physics (Appendix)](https://timeline.paradigmthreat.net/timeline/evt-einstein-1905-aether-theoretical-physics-appendix): **medium out**, **proof optional**, **elegance and consensus** in.
 
 **Structural parallel to religion:**
 
@@ -71,8 +71,8 @@
 
 There is **no single** `Einstein-vs-Marx` investigation in **paradigm-threat-files**; the **pairing** is useful as **two faces of modern non‑gnosis**:
 
-- **Einstein track (physics institution):** Retires **medium** without **engineering-substitute** narrative; installs **high math, low bench accountability** — see appendix above and [Suppression of Maxwell & the Aether](https://paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether).
-- **Marx / materialist track (social theory and pulp encoding):** **Soul-denial**, **historical materialism**, and **robot/slave** framings that **assume** **no transcendent or electric-spiritual** layer worth recovering — see [Soul Science investigation](/history/chronology/investigations/soul-science-investigation.md), [Asimov: Marx in Space!](https://paradigmthreat.net/timeline/evt-asimov-three-laws-and-marx-encoding), and the Asimov profile in [Mars Literature: Author Profiles](https://paradigmthreat.net/timeline/evt-mars-literature-author-profiles) (*“soulless Marxist”* reading — robot as **denied** *nefesh*).
+- **Einstein track (physics institution):** Retires **medium** without **engineering-substitute** narrative; installs **high math, low bench accountability** — see appendix above and [Suppression of Maxwell & the Aether](https://timeline.paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether).
+- **Marx / materialist track (social theory and pulp encoding):** **Soul-denial**, **historical materialism**, and **robot/slave** framings that **assume** **no transcendent or electric-spiritual** layer worth recovering — see [Soul Science investigation](/history/chronology/investigations/soul-science-investigation.md), [Asimov: Marx in Space!](https://timeline.paradigmthreat.net/timeline/evt-asimov-three-laws-and-marx-encoding), and the Asimov profile in [Mars Literature: Author Profiles](https://timeline.paradigmthreat.net/timeline/evt-mars-literature-author-profiles) (*“soulless Marxist”* reading — robot as **denied** *nefesh*).
 
 **Synthetic point:** **Atheistic materialism** and **consensus cosmology** can **reinforce** each other: the first **ridicules** **god-language**, the second **refuses** **aether-language**, and **neither** necessarily **returns** the investigator to **planet-god history** as **real meteorology**.
 
@@ -91,11 +91,11 @@ There is **no single** `Einstein-vs-Marx` investigation in **paradigm-threat-fil
 
 - [Wuxing and the Five Planets](/history/chronology/investigations/wuxing-five-planets-dark-ages.md)
 - [Soul Science](/history/chronology/investigations/soul-science-investigation.md)
-- [3147 BCE — The Dark Ages](https://paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)
-- [684 BCE — Solar system becomes stable](https://paradigmthreat.net/timeline/evt-684-bce-solar-system-becomes-stable)
-- [Suppression of Maxwell & the Aether](https://paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether)
-- [Einstein, 1905, the Aether, and Theoretical Physics (Appendix)](https://paradigmthreat.net/timeline/evt-einstein-1905-aether-theoretical-physics-appendix)
-- [Asimov: Marx in Space!](https://paradigmthreat.net/timeline/evt-asimov-three-laws-and-marx-encoding)
+- [3147 BCE — The Dark Ages](https://timeline.paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages)
+- [684 BCE — Solar system becomes stable](https://timeline.paradigmthreat.net/timeline/evt-684-bce-solar-system-becomes-stable)
+- [Suppression of Maxwell & the Aether](https://timeline.paradigmthreat.net/timeline/evt-suppression-of-maxwell-aether)
+- [Einstein, 1905, the Aether, and Theoretical Physics (Appendix)](https://timeline.paradigmthreat.net/timeline/evt-einstein-1905-aether-theoretical-physics-appendix)
+- [Asimov: Marx in Space!](https://timeline.paradigmthreat.net/timeline/evt-asimov-three-laws-and-marx-encoding)
 
 ---
 

@@ -150,7 +150,7 @@ export default function Nav(props) {
       external: true,
     },
     {
-      href: 'https://paradigmthreat.net/chat',
+      href: 'https://chat.paradigmthreat.net/',
       label: 'Chat',
       icon: <IconMessage />,
       external: true,
