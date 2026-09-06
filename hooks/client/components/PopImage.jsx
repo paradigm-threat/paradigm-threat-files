@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { prop } from '@relay/util'
 import { portraitSiblingIfPresent as pathPortraitIfPresent } from '@relay/path'
 import { gallery } from 'hooks/client/galleryStore.jsx'
@@ -69,7 +69,7 @@ export default function PopImage(props) {
       children = props.children
     }
   } catch (e) {}
-  const live = isClientLive() === true
+  const live = isClientLivePhase(4) === true
   const id = gallery.safeImgDomId(src)
   const portraitSrc = portraitSiblingIfPresent(src)
 

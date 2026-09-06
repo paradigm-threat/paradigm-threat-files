@@ -3,7 +3,7 @@
  * (circular indigo play/pause, stop when session active, seek, settings).
  */
 import React, { useState, useEffect } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { AudioPlayer, synthesize } from '@relay/tts'
 import { splitSentences as hostSplitSentences, takeSentenceChunk } from '@relay/util'
 import {
@@ -99,7 +99,7 @@ function clamp(n, lo, hi) {
 
 /** Bottom playback dock — Piper via @relay/tts (client-live only). */
 export default function ArticleTtsDock() {
-  const live = isClientLive() === true
+  const live = isClientLivePhase(4) === true
   const playingState = useState(false)
   const playing = playingState[0]
   const setPlaying = playingState[1]

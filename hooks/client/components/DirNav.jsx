@@ -1,5 +1,5 @@
 import React from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { buildDirTree } from '@relay/catalog'
 import { take } from '@relay/util'
@@ -92,7 +92,8 @@ function FolderBranch(props) {
 
 /** Left directory — nested via @relay/catalog.buildDirTree (SSR-safe arrays). */
 export default function DirNav() {
-  if (isClientLive() !== true) {
+  // Phase 2+ (catalog). Host advances on idle after shell hydrate.
+  if (isClientLivePhase(2) !== true) {
     if (isCsrHost()) {
       return null
     }

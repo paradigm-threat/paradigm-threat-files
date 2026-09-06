@@ -1,13 +1,14 @@
 import React from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { pickFeelingLuckyPath, siteHref } from 'hooks/client/loadArticles.jsx'
 
 /**
  * Random article from nav-index (files park only).
  * Prefer native navigate() host binding; fall back to <a href>.
+ * Phase 2+ (catalog) — same gate as DirNav.
  */
 export default function FeelingLucky() {
-  const live = isClientLive() === true
+  const live = isClientLivePhase(2) === true
   const path = pickFeelingLuckyPath()
   const href = path.length > 0 ? siteHref('/' + path) : '#'
 

@@ -4,7 +4,7 @@
  * Thumbs: stem/slug map from changelog-thumbs.json (Vercel queryRecentContent parity).
  */
 import React from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
@@ -216,8 +216,8 @@ export default function ChangeLog(props) {
     if (props && typeof props.limit === 'number' && props.limit > 0) limit = props.limit
   } catch (e) {}
 
-  // SSR: skip nav-index parse / card fan-out; hydrate fills after isClientLive.
-  if (isClientLive() !== true) {
+  // Phase 3+ (feeds). Host advances after catalog idle tick.
+  if (isClientLivePhase(3) !== true) {
     if (isCsrHost()) {
       return null
     }

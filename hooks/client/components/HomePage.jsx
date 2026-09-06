@@ -1,5 +1,5 @@
 import React from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
@@ -16,7 +16,7 @@ import {
  * Article index (Files /articles) — list corpus markdown with CTAs.
  */
 export default function HomePage() {
-  const live = isClientLive() === true
+  const live = isClientLivePhase(3) === true
   if (!live && isCsrHost()) {
     return null
   }

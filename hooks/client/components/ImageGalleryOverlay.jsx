@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { basename } from '@relay/path'
 import { gallery } from 'hooks/client/galleryStore.jsx'
 import {
@@ -33,7 +33,7 @@ function captionFor(img) {
 
 /** Fullscreen gallery overlay — mounted once under SiteChrome. */
 export default function ImageGalleryOverlay() {
-  const live = isClientLive() === true
+  const live = isClientLivePhase(4) === true
   const tick = useState(0)
   const setTick = tick[1]
   const rev = tick[0]

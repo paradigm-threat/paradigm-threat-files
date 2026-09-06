@@ -3,7 +3,7 @@
  * Links are #id anchors; active follows URL hash when available.
  */
 import React, { useState, useEffect } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { propStr, propOr } from 'hooks/client/propOr.jsx'
 
 function str(v) {
@@ -96,7 +96,7 @@ function normalizeItems(raw) {
 export default function DynamicIndex(props) {
   const pathKey = propStr(props, 'pathKey', '')
   const items = normalizeItems(propOr(props, 'items', []))
-  const live = isClientLive() === true
+  const live = isClientLivePhase(3) === true
   const activeState = useState('')
   const activeId = activeState[0]
   const setActiveId = activeState[1]

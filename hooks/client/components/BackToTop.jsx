@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 
 function scrollY() {
   try {
@@ -38,7 +38,7 @@ function scrollToTop() {
 
 /** Fixed back-to-top — shows after scroll (live FloatingDiv button). */
 export default function BackToTop() {
-  const live = isClientLive() === true
+  const live = isClientLivePhase(4) === true
   const state = useState(false)
   const visible = state[0]
   const setVisible = state[1]
