@@ -50,9 +50,7 @@ function navChromeCss() {
     'html[data-pt-hydrated="0"] [data-pt-autoindex-ssr]{' +
     'opacity:0.55;filter:grayscale(0.2);' +
     '}' +
-    /* Theme class collectors use real layout classes (.pt-gallery fixed fullscreen,
-     * .pt-toc sticky). `hidden` loses to those display rules and steals clicks —
-     * force collectors out of hit-testing. */
+    // Theme class collectors reuse layout classes; force them out of hit-testing.
     '[data-pt-gallery-css],[data-pt-toc-css],[data-pt-md-css],[data-pt-tts-css],[data-pt-back-top-css]{' +
     'display:none!important;pointer-events:none!important;position:static!important;' +
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +

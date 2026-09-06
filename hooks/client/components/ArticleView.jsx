@@ -166,18 +166,24 @@ export default function ArticleView(props) {
       h.indexOf('tel:') === 0
     ) {
       try {
-        if (typeof window !== 'undefined' && window.location) {
-          window.location.assign(h)
-        }
-      } catch (e) {}
+        navigate(h)
+      } catch (e) {
+        try {
+          const g = globalThis
+          if (g && g.location) {
+            g.location.href = h
+          }
+        } catch (e2) {}
+      }
       return
     }
     if (h.charAt(0) === '#') {
       try {
-        if (typeof window !== 'undefined' && window.location) {
-          window.location.hash = h
+        const g = globalThis
+        if (g && g.location) {
+          g.location.hash = h
         }
-      } catch (e2) {}
+      } catch (e3) {}
       return
     }
     if (h.charAt(0) === '/' && h.indexOf('://') < 0) {
