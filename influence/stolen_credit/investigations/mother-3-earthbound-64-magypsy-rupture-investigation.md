@@ -88,15 +88,29 @@ His claimed clock is **not** “the game wasn’t finished.” Japan had already
 
 **Author / common-sense tear-down:** If the product **exists and is shipping**, “timing” only means *we chose not to buy the localization*. That is a **decision**, not a physics constraint. Late-gen GBA locals still happened; EarthBound cult demand was known; DS owners could play GBA carts; fan translation proved a market. The shell needs “timing” language because **“we won’t put Magypsies / this tone on a US kids SKU”** is the line they will not say.
 
+#### 2.3.2 Localization budget vs loss of not releasing (author tear-down)
+
+**Author confusion / lock:** Why would localization ever be treated as the hard budget issue **compared to the loss of not releasing** a finished game?
+
+| Ledger Reggie pretends to run | What is actually on the table |
+|-------------------------------|-------------------------------|
+| **Cost of saying yes** | Translate + QA + manuals + cart print + ads — **incremental**, on a ROM Japan already paid for |
+| **Cost of saying no** (hidden) | Forgone Western unit sales; **franchise goodwill**; years of petition / “Nintendo hates EarthBound” brand damage; **vacuum** that fans fill with piracy + fan-trans (free marketing Nintendo then refuses to monetize); forever-open “why no Mother 3?” press cycle |
+| **Honest ROI frame** | Localization spend is tiny next to **sunk Japanese development**. Leaving money on the table is the irrational ledger **unless** the goal is **not** to maximize Western sales |
+
+Corporate accounting *can* treat NOA localization as a **separate P&L line** (“will this SKU clear its own translate/print hurdle on dying GBA?”) and **ignore** opportunity cost and franchise equity — that is how spreadsheet people talk. It is **not** how a company behaves when it **wants** a cult IP to hit the West (see: other late GBA / DS RPGs they *did* local).
+
+**Author:** If the loss of non-release dwarfs localization cost — and for a finished, celebrated Japan ship with known EarthBound nostalgia it does — then “budget / timing” is **cover language**. The real constraint is **willingness to put this content on a Western kids-brand SKU**, not inability to afford a script pass. That matches Magypsy / controversy furniture, not Reggie’s clean business story.
+
 **Adjudication (this dossier):**
 
 - **Documented:** Magypsies are controversial *in reception*; Khan-class rumor of controversy-stop exists; Reggie **publicly denies** content as the reason and cites **GBA-sunset / DS-pivot** as the business situation.
 - **Not documented:** An internal Nintendo memo naming Magypsies as the kill switch (or proving “business only”).
-- **Author lock (2026-09-06):** Reggie’s denial **does not hold water.** “Timing” for a **already-released** Japan title is **R6** ([`REDACTION.md`](/docs/REDACTION.md)): respectable shelf-calendar language **misdirects** from Magypsy / gender / darkness risk. Fan localization demand never died; EarthBound nostalgia never went cold.
+- **Author lock (2026-09-06):** Reggie’s denial **does not hold water.** “Timing” / “budget” for a **already-released** Japan title is **R6** ([`REDACTION.md`](/docs/REDACTION.md)): incremental localization cost is **dwarfed** by the loss of not shipping West — so the shell **misdirects** from Magypsy / gender / darkness risk. Fan localization demand never died; EarthBound nostalgia never went cold.
 - **Outcome still fits AU-055 continuity:** Japan-only + permanent fan civil war + Magypsy as forever-argument = **divide-and-conquer product control**. Magypsies need not be the *sole* 2006 checkbox to be **load-bearing** controversy furniture NOA will not cleanly ship.
 
 **Practical answer to “was that the reason?”:**  
-**Author:** content / Magypsy-class risk is **in the kill stack**; Reggie’s absolute denial + “timing” story is **shell**, not adjudication. **Documented press:** Story A (controversy kill, later ports) vs Story B (business kill, Reggie). Treat “Magypsies *alone* and *only*” as overspecific; treat “gender-controversy risk is *why the franchise never gets a clean Western close*” as **author-locked**.
+**Author:** content / Magypsy-class risk is **in the kill stack**; Reggie’s absolute denial + “timing / budget” story is **shell**, not adjudication. **Documented press:** Story A (controversy kill, later ports) vs Story B (business kill, Reggie). Treat “Magypsies *alone* and *only*” as overspecific; treat “gender-controversy risk is *why the franchise never gets a clean Western close*” as **author-locked**.
 
 ---
 
@@ -288,7 +302,7 @@ This dossier owns **Magypsy + platform rupture + credit omission**; AU-055 owns 
 
 Keywords: #Mother3 #EarthBound64 #Magypsy #Nintendo #HALLaboratory #BrownieBrown #ShigesatoItoi #FalseMemory #AgotaKristof #PlatformRupture #StolenCredit #MinakoHamano #AU056 #AU055 #ParadigmThreat #DivideAndConquer #PreRendered #64DD
 
-*Last updated: 2026-09-06* (Reggie “timing” unpack §2.3.1; Magypsy denial = R6; SNES CD + Sony/Philips locks)
+*Last updated: 2026-09-06* (localization cost ≪ non-release loss §2.3.2; Reggie R6; SNES CD + Sony/Philips)
 
 ---
 
