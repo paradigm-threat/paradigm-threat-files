@@ -85,7 +85,7 @@
 |-------|---------------------|
 | **FF9 remixed older FF themes** (III/IV-era locations, series motifs) | **Documented** — Uematsu said he **wanted** to remix older songs as nostalgia / series watershed ([IGN FF9 team interview archive](https://web.archive.org/web/20121215050854/http:/www.ign.com/articles/2000/09/21/the-final-fantasy-ix-team-spills-all); [shmuplations FF9 2000](https://shmuplations.com/ffix/)) |
 | **FF8 Blue Fields ≈ FF9 Terra** (same leftover cue) | **Fan dispute only** — Eyes on FF thread; no official “leftover from VII/VIII pool” admission ([Eyes on FF](http://home.eyesonff.com/showthread.php/97412-FF8-Overworld-Theme-FF9-Terra-Theme)) |
-| **Author: VIII/IX used unused VII project music** | **Open** — fits exhaustion + volume pattern; **no track-level VII→VIII ledger** yet; do not collapse into FF9’s **intentional** early-series homages |
+| **Author: VIII/IX used unused VII project music** | **Open but softened** — author: reasonable (company owns vault; IP silence). **Industry precedents documented** (Rare Project Dream; Kirby cancelled builds → RTDL; Morricone unused *Thing* → *Hateful Eight*; Jak II→3; Capcom MM leftovers). **No track-level VII→VIII ledger** yet; do not collapse into FF9’s **intentional** early-series homages. Full table: [AU-055 §1.4](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) |
 | Quality drop / exhaustion on FF9 | **Documented reception** — SquareSound group review (“utter tripe,” “literally exhausted”) |
 
 **FF9 "homage" vs. leftover:**
@@ -106,6 +106,20 @@
 **Cross-reference:** [square-battle-system-lineage.md](square-battle-system-lineage.md) — Nasir Gebelli (battle system architect) removed from franchise; Iran/revolution context; FF5/Tactics/12 split; Square talent exodus.
 
 ### Industry Parallels: Recycled/Leftover Music
+
+**Author sentiment (2026-09-06):** Unused *FFVII* archive cues later shipping under VIII/IX (same composer / franchise name) is **pretty reasonable** — Square owns the IP; redeploying vault material is legally quiet. Investigation write-up: [AU-055 §1.4](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md).
+
+**Documented vault / unused → later title precedents:**
+
+| Precedent | Notes |
+|-----------|--------|
+| Rare **Project Dream** → Banjo / DK64 / Tooie / Viva Piñata | Kirkhope confirmed; ~100+ Dream cues; many reused |
+| Rare Banjo **beta** music → DK64 / Tooie | Cut levels’ themes resurfaced |
+| Cancelled **Kirby** GCN/Wii (`KbyW`) → *Return to Dream Land* | TCRF / WiKirby |
+| *Jak II* unused → *Jak 3* | TCRF |
+| Morricone unused ***Thing*** orchestra → ***The Hateful Eight*** | Tarantino/Morricone; director-confirmed |
+| Horner unused ***Aliens*** cue → ***Die Hard*** | Same-studio Fox redeploy |
+| Capcom Mega Man leftovers → *MM9* | Below |
 
 **The left-over theory:** High-value productions like FF7 and Mega Man X1/X2 generate tens or hundreds of unused songs. These leftovers remain credited to the original composer. Corporations misuse this: they deploy leftover material (technically created by the composer) in sequels or later projects, which reinforces the solo-credit narrative — i.e. they deny the composer ever had any help, because the entire leftover pool is attributed to the single named figure. The sheer volume of "his" output obscures institutional support or ghost work.
 

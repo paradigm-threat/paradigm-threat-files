@@ -1,6 +1,6 @@
 # *Final Fantasy VII* — platform rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, and story sabotage (**AU-055**, open)
 
-> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as the mechanism for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Colossal Zack tell:** delete Zack → only the false-memory mandate remains. Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
+> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
 
 **Status:** Open — false-memory mandate cluster (FF7 × Mother 3); corroborate / falsify ordered-agenda layer.
 
@@ -9,6 +9,8 @@
 1. Author originating thesis (platform rip + Midgar) → §1  
 2. **Author addendum — false-memory order / Mother 3 / suicide agenda** → §1.1  
 2a. **Author addendum — ending collapse vs *FFVI*** → §1.2 / §5.6  
+2b. **Author addendum — Zack delusion removable cleanly** → §1.3 / §6.4  
+2c. **Author addendum — VII music vault reuse + industry precedents** → §1.4  
 3. Redaction tags → §2  
 4. Development chronology → §3  
 5. Midgar spine → §4  
@@ -16,6 +18,7 @@
 6a. **Version A leftover dialogue inventory (incomplete scrub)** → §5.5  
 6b. **Ending collapse vs *FFVI* (unfinished / uninspired)** → §5.6  
 7. Zack / false-memory mechanism → §6  
+7a. **OG insert vs franchise Zack; delusion not required for control** → §6.4  
 8. Remake escalation → §7  
 9. Book hunt + ***Notebook* → Mother 3** (documented) → §8  
 10. **False-memory mandate cluster** → §8.4  
@@ -63,7 +66,7 @@
 | Closed-door writer | One person (or one brief) can ruin a solid plot with a twist; someone **is** watching the harm math |
 | Final conclusion | **Ordered:** base the plot on **false memories of the past**; present/future adventure allowed; **grounded past forbidden** |
 
-**Separation:** §1–§1.2 are **author stake** (incl. agenda / suicide motive / ending collapse). §8.2–§8.4 separate **documented** Itoi↔Kristóf and Magypsy localization reports from that motive. §§3–7 are **documented development / plot**. §10 lists **where the thesis is weakest against primaries**.
+**Separation:** §1–§1.4 are **author stake** (incl. agenda / suicide motive / ending collapse / Zack-delusion clean cut / music-vault reuse). §8.2–§8.4 separate **documented** Itoi↔Kristóf and Magypsy localization reports from that motive. §§3–7 are **documented development / plot**. §10 lists **where the thesis is weakest against primaries**.
 
 ### 1.2 Author addendum — ending as unfinished / uninspired after Sony rip (2026-09-06)
 
@@ -80,6 +83,51 @@
 | Tell | Failure to deliver Square’s prior class of **magnificent, long, triumphant** finales = evidence of rupture / sabotage pressure, not peak craft |
 
 **Separation:** Reception judgment + “ordered under Sony” = **author**. Comparison to *FFVI*’s ending length/tone and staff quotes about wanting a **different** ending = §5.6.
+
+### 1.3 Author addendum — Zack delusion removable cleanly (2026-09-06)
+
+> The character Zack we know today as a major franchise protagonist simply did not exist in that capacity during the development of the original game. He was created very late in development purely as a plot device to make Cloud’s identity twist work. Because of this, his inclusion is minimal, entirely missable, and completely disconnected from AVALANCHE's motivations. While it is attempted to make this self delusion over Zack the reason Sephiroth/Jenova can control Cloud several times in the game it is not NECESSARY. Jenova clearly demonstrates that power several times without any need for the Zack delusion to trigger it. If that was covered in the dialog better, sure, but it's not. Zack delusion can be removed cleanly.
+
+**What that means (unpack):**
+
+| Layer | Author meaning |
+|-------|----------------|
+| Franchise Zack ≠ OG Zack | *Crisis Core* / Remake **protagonist Zack** is a **later product**; that stature was **not** present in 1997 development |
+| Late plot device | Insert exists **to make Cloud’s identity twist work** — not as Midgar-era character bedrock |
+| Minimal / missable | Shipped wiring is **thin**; many players never meet the optional mansion path that sells the escapee story |
+| Disconnected from Avalanche | Opening cell motives (Planet / reactors / pay) **do not** run on Zack; Midgar act does not need him |
+| Control ≠ Zack delusion | Script **tries** to hitch Sephiroth/Jenova control of Cloud to the self-delusion; **Jenova already controls** Cloud (and others) elsewhere **without** that trigger |
+| Dialogue failure | If control *required* the delusion, dialogue would **prove** necessity; it doesn’t |
+| Clean removal | **Zack delusion** (identity theft / false-memory stack) can be cut without breaking Jenova’s demonstrated power or Avalanche’s Midgar spine |
+
+**Separation:** Late creation + mechanism for false past = **documented** (§6.1). “Franchise Zack didn’t exist then,” missable / Avalanche-disconnect, and **control-without-delusion → clean cut** = **author** structural read (§6.4).
+
+### 1.4 Author addendum — VII music vault reuse is reasonable (2026-09-06)
+
+> The idea that Square used unreleased tracks from the FF7 archive/vault in later games is pretty reasonable. The company owns the IP and can release it later under the same name and nobody can say boo.
+
+**What that means (unpack):**
+
+| Layer | Author meaning |
+|-------|----------------|
+| Peak-project surplus | *FFVII* (like other high-volume OSTs) generates **unused cues** that stay in the company vault |
+| Later deployment | VIII/IX (and beyond) can burn that vault under **Uematsu / Final Fantasy** credit without a public scandal |
+| IP ownership | Work-for-hire / Square IP → **legal silence**; fans may notice; rights holders do not “say boo” |
+| Softens a prior weakness | “Leftover VII music” is no longer an exotic conspiracy claim — it is **industry-normal** pending a track ledger |
+
+**Industry precedents (findings, 2026-09-06)** — company-/composer-owned unused material later shipped under related titles:
+
+| Precedent | What shipped later | Evidence class |
+|-----------|--------------------|----------------|
+| **Rare — Project Dream** → Banjo / *DK64* / *Tooie* / *Viva Piñata* | Cancelled-game cues reused across Rare titles | **Composer-confirmed** (Grant Kirkhope; Rare Gamer / TCRF) |
+| **Rare — Banjo beta** → *DK64* / *Tooie* | Cut level music resurfaced (e.g. Fungus Forest → Fungi Forest) | TCRF / Rare Gamer |
+| **HAL/Nintendo — cancelled Kirby GCN/Wii** → *Return to Dream Land* (+ later Kirby) | `KbyW` / cancelled-build music becomes shipped OST DNA | TCRF / WiKirby |
+| **Naughty Dog — *Jak II* unused** → *Jak 3* | Unused track variants used in sequel | TCRF |
+| **Morricone unused *Thing* score** → *The Hateful Eight* | Orchestral cues unused by Carpenter; Tarantino/Morricone reuse decades later | **Director-confirmed** (DGA Q&A) |
+| **Horner unused *Aliens* cue** → *Die Hard* | Same-studio (Fox) unused cue redeployed | Score community / Filmtracks lane |
+| Capcom Mega Man leftovers → *MM9* | Older-era material redeployed | Already in [Uematsu](/influence/stolen_credit/nobuo-uematsu.md) |
+
+**Still open for FF specifically:** track-level **VII → VIII/IX** ledger. Do **not** collapse into FF9’s **documented intentional** remakes of early-series themes. Detail table: [Uematsu leftover audit](/influence/stolen_credit/nobuo-uematsu.md).
 
 ---
 
@@ -341,6 +389,20 @@ Lines below treat the chase actor as **physically Sephiroth** and/or **Jenova as
 
 **Surface area:** Larger than the Shinra stab alone (multiple flashbacks, Gongaga, ending reunion imagery), but still a **bounded** character deletion — Remake trilogy’s Zack-world shows how **large** the insert became once Compilation owned it (§7).
 
+### 6.4 Author — OG insert vs franchise Zack; delusion not required for control (2026-09-06)
+
+**Author claim (verbatim stake in §1.3):** The Zack fans meet as a **major franchise protagonist** (*Crisis Core*, Remake timelines) **did not exist in that capacity** during original development. In 1997 he is a **late plot device** for Cloud’s identity twist; inclusion is **minimal, missable, and disconnected from Avalanche’s motivations**. Scripts **attempt** to make Zack-self-delusion the reason Sephiroth/Jenova can control Cloud; that hitch is **not necessary** — Jenova **already demonstrates** control power **without** the Zack trigger. Dialogue never **proves** necessity. Therefore the **Zack delusion can be removed cleanly**.
+
+| Check | Read |
+|-------|------|
+| Development | Late insert for false-past mechanism — **documented** (§6.1) |
+| Shipping weight | Optional mansion flashback / sparse name-drops vs Midgar Avalanche plot that **never** needs him — **author phenomenology** (friendly to “missable”) |
+| Avalanche motives | Planet / reactors / gil / Barret’s war — **no Zack dependency** on the required path |
+| Jenova control | Black Materia handoff, clones, Reunion pressure, Whirlwind influence — **exist as cells/will grammar** whether or not Cloud “is Zack” |
+| Clean cut | Strip identity-theft / Lifestream “your past was his” without inventing a new control system — **author** change-surface claim; Version A leftovers already ignore the delusion for the chase (§5.5) |
+
+**Mod note:** Fan rewrite that **keeps a real Zack** (friend who died; vengeance motive) is a **separate design choice** from keeping the **delusion**. §1.3 argues the **delusion** is disposable; Compilation Zack stature is **post-hoc**.
+
 ---
 
 ## 7. Remake / Compilation — escalation after the Nintendo divorce
@@ -484,7 +546,8 @@ Honest falsifiers and soft spots — **do not skip**.
 | Problem | Detail |
 |---------|--------|
 | **Commercial / critical counterexamples** | *FFX*, *XIV*, etc. have large affirming audiences — absolute “all garbage” is **author aesthetic verdict**. |
-| **Leftover music — split the claim** | **FF9 intentional remakes of early-series themes** = **documented** (Uematsu chose nostalgia). **FF8↔FF9 melodic overlap** = fan dispute only. **Unused VII-pool → VIII/IX** = still **author / open** ([Uematsu audit table](/influence/stolen_credit/nobuo-uematsu.md)). |
+| **Leftover music — split the claim** | **FF9 intentional remakes of early-series themes** = **documented** (Uematsu chose nostalgia). **FF8↔FF9 melodic overlap** = fan dispute only. **Unused VII-pool → VIII/IX** = still **no track ledger** — but **industry precedents** make the *mechanism* ordinary (§1.4; Rare Dream; Kirby cancelled → RTDL; Morricone unused *Thing* → *Hateful Eight*). |
+| **IP silence ≠ proof of specific cues** | Company owns the vault and can redeploy under the same composer name without scandal — that **supports reasonableness**, not a VII→VIII map. |
 | **Correlation ≠ sabotage of VII’s script** | Music decline after exit can be true while Jenova/Zack still being Square-internal choices. |
 
 ### 10.6 “War book original + Third Lie pattern” / Mother 3
@@ -519,10 +582,11 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | 3a | Mid-game **Version A** dialogue (Sephiroth alive / **carrying Jenova**) was **left unscrubbed** when Version B locked; Ultimania calls carrying a “misunderstanding” without fixing boxes | Script inventory + Ultimania caption **documented**; “mistake vs intentional mystery” + sabotage motive **author** | Partial |
 | 4 | Crystal-North Sephiroth + cell puppets were **unnecessary** vs alive Sephiroth using alien genes for revenge | Coherence preference; reinforced by §5.5 A-table | Author |
 | 5 | **Zack should not exist**; Cloud-as-witness suffices — Zack only serves the **false-memory mandate** | Late insert **documented**; “should not” / mandate-as-order author | Partial |
+| 5a | Franchise Zack (major protagonist) **≠** 1997 insert; OG Zack is **late, minimal, missable**, **disconnected from Avalanche**; **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** | Late insert **documented**; missable/Avalanche-disconnect + control-without-delusion = **author** structural read (§1.3 / §6.4) | Partial |
 | 6 | Remake Masamune-at-will + Zack multiverse = **post-Nintendo escalation** of the sabotage | Remake content documented; motive author | Partial |
 | 7 | FF7 war-book original still sought; ***Notebook*** belongs to **Mother 3** (Itoi) then cluster-read with FF7 | Itoi cite **documented**; FF7 war novel uncited | Partial |
 | 8 | Shipped duality produces **MKUltra-style** schoolyard divide-and-conquer fandom | Reception sociology author | Author |
-| 9 | Post-VII mainline = **garbage**; music largely **VII leftovers** | Taste + leftover hypothesis (Uematsu lane) | Author / partial |
+| 9 | Post-VII mainline = **garbage**; music largely **VII leftovers** | Taste + leftover hypothesis; **vault-reuse mechanism** now backed by cross-industry precedents (§1.4); VII→VIII/IX **track ledger** still open ([Uematsu](/influence/stolen_credit/nobuo-uematsu.md)) | Author / partial |
 | 10 | Square + Rare pre-rendered golden age was **sabotaged** so only shadows remain | Parallel craft rupture; vacuum inverse | Author extension |
 | 11 | **False-memory-of-the-past** was **ordered** into FF7 and likely Mother 3; present/future adventure allowed; grounded past forbidden | Mechanism documented (Nojima; Itoi↔Kristóf); **order + shared doctrine** author | Author |
 | 12 | Magypsy (“Magipsy”) + Mother 3 non-US release = **agenda / divide-and-conquer**, not happy craft | Localization friction documented; agenda author | Partial |
@@ -547,6 +611,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | Proxy for **depression/suicide agenda** claim | Contemporary press on “games and suicide”; hotline eras; Remake discourse — **correlation hunt only** |
 | Remake Masamune “manifest” — designer wording | Remake Ultimania |
 | Longer *FFVI*-class VII ending draft cut after platform exit? | Ultimania Omega early materials; period *Famitsu* / *V Jump* ending interviews |
+| Inventory: Jenova/Sephiroth **control-of-Cloud** beats that fire **without** Zack-delusion dialogue | English script (Whirlwind, Black Materia, clones); JP cross-check |
 
 ---
 
@@ -582,9 +647,9 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 ---
 
-Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega
+Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight
 
-*Last updated: 2026-09-06* (Kristóf trilogy child-abuse content floor → AU-056 §8.1; ending collapse; Version A)
+*Last updated: 2026-09-06* (VII music vault + industry precedents §1.4; Zack delusion §1.3/§6.4; ending collapse; Version A)
 
 ---
 
@@ -593,7 +658,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Fiction vs evidence:** *Final Fantasy VII* and *Mother 3* are commercial video games. Plot analysis is **textual / reception / development-history** work — not a claim that fictional plots equal documented psyops memos.
-- **Author thesis:** §1, §1.1, §1.2, §5.5 author rows, §5.6 author rows, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub” and “ending just ends” are **strong textual / reception descriptions**; “ordered sabotage under Sony” remains **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
+- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §5.5 author rows, §5.6 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” and “VII vault reuse is reasonable” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” remains **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
 - **Tiers:** In-game English script + Ultimania translations > encyclopedia summaries > localization secondary press > author pattern inference.
 - **Cross-links:** Mother 3 / EarthBound, Rare/DKC, vacuum inverse are **thematic rhymes** unless a shared primary appears.
 - **Assistant bias:** Prefer documenting **A/B script seams** and **false-memory mechanisms** over asserting **ordered suicide doctrine** without new receipts.
@@ -602,7 +667,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 
 ## Investigator notes
 
-- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6) — author: unfinished at rip, Sony orders, uninspired close as clue. Kitase V Jump: ending reworked last-second, “different from the past.”  
+- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4) — Rare Dream, Kirby cancelled→RTDL, Morricone unused *Thing*→*Hateful Eight*; IP ownership = legal silence. Kitase V Jump: ending reworked last-second, “different from the past.”  
 - Kristóf: **documented Mother 3 inspiration** (Starmen.net Itoi); trilogy **child sexual violence / pedophilia / grooming CW** floor → [AU-056 §8.1](mother-3-earthbound-64-magypsy-rupture-investigation.md); keep **off** FF7 source column.  
 - Magipsy = author spelling; canon **Magypsy**.  
 - AU-056 Mother 3 dossier shipped same day.  
