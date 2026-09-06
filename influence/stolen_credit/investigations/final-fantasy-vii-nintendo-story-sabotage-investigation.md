@@ -1,6 +1,6 @@
 # *Final Fantasy VII* — platform rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, and story sabotage (**AU-055**, open)
 
-> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
+> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, mainline FF centers on **self-delusion / fabricated memory / false reality to shatter** — unlike I–VI grounded heroes (Warrior of Light, Firion, Onion Knights, Cecil, Bartz, Terra/Locke) who were honest with themselves (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
 
 **Status:** Open — false-memory mandate cluster (FF7 × Mother 3); corroborate / falsify ordered-agenda layer.
 
@@ -11,6 +11,7 @@
 2a. **Author addendum — ending collapse vs *FFVI*** → §1.2 / §5.6  
 2b. **Author addendum — Zack delusion removable cleanly** → §1.3 / §6.4  
 2c. **Author addendum — VII music vault reuse + industry precedents** → §1.4  
+2d. **Author addendum — post–Version B mainline self-delusion cascade** → §1.5  
 3. Redaction tags → §2  
 4. Development chronology → §3  
 5. Midgar spine → §4  
@@ -66,7 +67,7 @@
 | Closed-door writer | One person (or one brief) can ruin a solid plot with a twist; someone **is** watching the harm math |
 | Final conclusion | **Ordered:** base the plot on **false memories of the past**; present/future adventure allowed; **grounded past forbidden** |
 
-**Separation:** §1–§1.4 are **author stake** (incl. agenda / suicide motive / ending collapse / Zack-delusion clean cut / music-vault reuse). §8.2–§8.4 separate **documented** Itoi↔Kristóf and Magypsy localization reports from that motive. §§3–7 are **documented development / plot**. §10 lists **where the thesis is weakest against primaries**.
+**Separation:** §1–§1.5 are **author stake** (incl. agenda / suicide motive / ending collapse / Zack-delusion clean cut / music-vault reuse / post-B mainline delusion cascade). §8.2–§8.4 separate **documented** Itoi↔Kristóf and Magypsy localization reports from that motive. §§3–7 are **documented development / plot**. §10 lists **where the thesis is weakest against primaries**.
 
 ### 1.2 Author addendum — ending as unfinished / uninspired after Sony rip (2026-09-06)
 
@@ -129,6 +130,29 @@
 
 **Still open for FF specifically:** track-level **VII → VIII/IX** ledger. Do **not** collapse into FF9’s **documented intentional** remakes of early-series themes. Detail table: [Uematsu leftover audit](/influence/stolen_credit/nobuo-uematsu.md).
 
+### 1.5 Author addendum — post–Version B mainline = self-delusion cascade (2026-09-06)
+
+> Nearly every mainline Final Fantasy game from VII onward (AFTER IT WAS MODIFIED INTO VERSION B) centers on a protagonist or entire society living under a heavy layer of self-delusion, fabricated memories, or systemic deception. Instead of just fighting an evil empire, the characters must first shatter a false reality—often one they built themselves to cope with trauma. In the earlier games, the main playable heroes—like Warrior of Light, Firion, Onion Knights, Cecil, Bartz, and Terra/Locke—were morally grounded, mentally stable archetypes. They were honest with themselves. If they didn't know something, it was because a villain hid it from them or magic wiped their mind, not because their own psyche fractured to protect them from trauma.
+
+**What that means (unpack):**
+
+| Layer | Author meaning |
+|-------|----------------|
+| Version B as fork | Shipped *FFVII* false-memory / false-reality grammar is not a one-off — it **sets the template** for mainline after the sabotage lock |
+| Core loop change | Pre-VII: fight empire / crystal / empire villain. Post–Version B: **first shatter a false reality** (self-built trauma coping or systemic lie), *then* fight |
+| Self-fracture vs external hide | Ignorance used to be **villain concealment** or **external magic wipe**. After B: the psyche **fractures itself** to hide trauma — Cloud-class, not Firion-class |
+| Early heroes listed | Warrior of Light, Firion, Onion Knights, Cecil, Bartz, Terra/Locke = **honest with themselves**; moral / mental archetypes remain stable |
+| Pattern reveal | Same false-memory mandate (§1.1) **cascades** across the franchise after VII B — not only Cloud/Zack |
+
+**Sketch (author typology — reception / theme inventory, not spoiler dossier):**
+
+| Era | Typical knowledge problem | Author read |
+|-----|---------------------------|-------------|
+| *FFI–VI* | Secret kept by empire / mage / crystal; hero still **knows who he is** | Grounded archetypes |
+| *FFVII* Version B → onward | Self-delusion, fabricated memory, or **society-scale** false reality the party must shatter | Postmodern / trauma-coping fork |
+
+**Separation:** Series-theme cascade = **author pattern**. Individual title spoilers and Ultimania citations for VIII+ remain **open TODOs** (§12). Ties to ordered false-memory doctrine (§1.1) and Mother 3 cluster (§8.4).
+
 ---
 
 ## 2. Redaction vocabulary applied (this dossier)
@@ -144,6 +168,7 @@ Link once: [`docs/REDACTION.md`](/docs/REDACTION.md).
 | Simple revenge plot → crystal / Lifestream god-plan | **R4**-adjacent polarity (grounded villain → metaphysical puppet) | **R4-inferred** unless early script recovered |
 | Midgar as “Nintendo R&D planned” | Attribution of labor | **Author / institutional inference** — **not** employment-documented |
 | Post-VII + leftover music as pillage | **R1** omit peak craft continuity; leftover reuse = credit shell | Pattern in [Uematsu](/influence/stolen_credit/nobuo-uematsu.md); not proof of intentional story sabotage |
+| Mainline VII-B onward = self-delusion / false-reality cascade vs I–VI grounded heroes | **R4**-adjacent (honest self ↔ trauma-fractured self) + **R6** “mystery” prestige | **Author pattern** (§1.5); title-by-title inventory open |
 
 ---
 
@@ -558,7 +583,16 @@ Honest falsifiers and soft spots — **do not skip**.
 | **Kristóf** | **Documented for Mother 3**, not FF7 — author’s original naming now **corrected** in-file. |
 | **“Ordered, not artistic”** | Falsifiable only with production memos / producer contradiction; Itoi’s public praise of the novel cuts against “reluctant order” unless order = *use* Kristóf / false-past grammar regardless of taste match. |
 
-### 10.7 Strongest surviving core (after stress test)
+### 10.7 “Post–Version B mainline = self-delusion cascade” (§1.5)
+
+| Problem | Detail |
+|---------|--------|
+| **“Nearly every” needs a ledger** | VIII–XVI each need a one-line false-reality / self-delusion cite or the claim overreaches. |
+| **Counterexamples / soft edges** | Some post-VII titles lean empire/crystal more than psyche fracture; *FFVI* already has amnesia/empire fog (Terra) — author distinguishes **external** wipe vs **self-built trauma coping**, but critics will blur that line. |
+| **Trend ≠ ordered doctrine** | Industry fashion (unreliable narrator prestige) can explain cascade without a VII-B **mandate** memo. |
+| **Still useful as pattern** | Even if “nearly every” softens, the **I–VI honest-self vs Cloud-class** contrast is the load-bearing contrast for Version A restoration. |
+
+### 10.8 Strongest surviving core (after stress test)
 
 Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand:
 
@@ -568,7 +602,8 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 4. **Platform divorce** + craft collapse still rhyme with Rare/DKC.  
 5. Remakes **invest in the fracture**.  
 6. **Ending** fails the *FFVI*-class triumphant long send-off (§5.6) — reception tell aligned with author unfinished/uninspired read; Kitase “different from the past” cuts both ways.  
-7. **Ordered harm / suicide agenda** remains **author conclusion** pending proxy evidence.
+7. **Post–Version B delusion cascade** (§1.5) — series-theme pattern reinforcing the mandate read; title ledger still open.  
+8. **Ordered harm / suicide agenda** remains **author conclusion** pending proxy evidence.
 
 ---
 
@@ -592,6 +627,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | 12 | Magypsy (“Magipsy”) + Mother 3 non-US release = **agenda / divide-and-conquer**, not happy craft | Localization friction documented; agenda author | Partial |
 | 13 | Agenda effect class: fan **depression / suicide risk**; writers know; that is the point | Moral/pattern conclusion — **no epi cite in-file yet** | Author |
 | 14 | VII **ending** is weakest link — Lifestream hunt + FMV coda is a **shadow** of *FFVI*’s long triumphant finale; unfinished at Nintendo rip + ordered Sony changes → **uninspired** close; that limp ending is a **clue** | Comparative reception strong; Kitase “different from the past” + late rework **documented**; “ordered / unfinished because Sony” **author** | Partial |
+| 15 | After *FFVII* **Version B**, nearly every mainline FF centers on **self-delusion / fabricated memories / systemic false reality** the party must shatter; I–VI heroes (Warrior of Light, Firion, Onion Knights, Cecil, Bartz, Terra/Locke) were **honest with themselves** — ignorance was villain hide or external magic wipe, not psyche fracture for trauma | Series-theme **author pattern** (§1.5); title-by-title citations open | Author |
 
 **Registry:** [author-unique theories](/history/chronology/investigations/author-unique-theories.md) **AU-055**.
 
@@ -612,6 +648,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | Remake Masamune “manifest” — designer wording | Remake Ultimania |
 | Longer *FFVI*-class VII ending draft cut after platform exit? | Ultimania Omega early materials; period *Famitsu* / *V Jump* ending interviews |
 | Inventory: Jenova/Sephiroth **control-of-Cloud** beats that fire **without** Zack-delusion dialogue | English script (Whirlwind, Black Materia, clones); JP cross-check |
+| **Post–Version B cascade ledger** — one false-reality / self-delusion line per mainline VIII–XVI (or falsify “nearly every”) | Plot summaries + Ultimania; keep *FFVI* Terra as control for “external wipe vs self-fracture” |
 
 ---
 
@@ -647,9 +684,9 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 ---
 
-Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight
+Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight #SelfDelusion #VersionB
 
-*Last updated: 2026-09-06* (VII music vault + industry precedents §1.4; Zack delusion §1.3/§6.4; ending collapse; Version A)
+*Last updated: 2026-09-06* (post–Version B self-delusion cascade §1.5; VII music vault §1.4; Zack delusion §1.3/§6.4)
 
 ---
 
@@ -658,7 +695,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Fiction vs evidence:** *Final Fantasy VII* and *Mother 3* are commercial video games. Plot analysis is **textual / reception / development-history** work — not a claim that fictional plots equal documented psyops memos.
-- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §5.5 author rows, §5.6 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” and “VII vault reuse is reasonable” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” remains **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
+- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §1.5, §5.5 author rows, §5.6 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” “VII vault reuse is reasonable,” and “post–Version B mainline delusion cascade” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” remains **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
 - **Tiers:** In-game English script + Ultimania translations > encyclopedia summaries > localization secondary press > author pattern inference.
 - **Cross-links:** Mother 3 / EarthBound, Rare/DKC, vacuum inverse are **thematic rhymes** unless a shared primary appears.
 - **Assistant bias:** Prefer documenting **A/B script seams** and **false-memory mechanisms** over asserting **ordered suicide doctrine** without new receipts.
@@ -667,7 +704,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 
 ## Investigator notes
 
-- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4) — Rare Dream, Kirby cancelled→RTDL, Morricone unused *Thing*→*Hateful Eight*; IP ownership = legal silence. Kitase V Jump: ending reworked last-second, “different from the past.”  
+- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4); **post–Version B mainline self-delusion cascade** (§1.5) — I–VI honest heroes vs VII-B onward false-reality shatter loop. Kitase V Jump: ending reworked last-second, “different from the past.”  
 - Kristóf: **documented Mother 3 inspiration** (Starmen.net Itoi); trilogy **child sexual violence / pedophilia / grooming CW** floor → [AU-056 §8.1](mother-3-earthbound-64-magypsy-rupture-investigation.md); keep **off** FF7 source column.  
 - Magipsy = author spelling; canon **Magypsy**.  
 - AU-056 Mother 3 dossier shipped same day.  
