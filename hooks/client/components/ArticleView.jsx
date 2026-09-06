@@ -156,6 +156,30 @@ export default function ArticleView(props) {
   function onMdLinkClick(href) {
     let h = ''
     if (typeof href === 'string') h = href
+    // Runtime preventDefault on relayControlled anchors — absolute / special schemes
+    // must still navigate (do not soft-route them into the article SPA).
+    if (
+      h.indexOf('http://') === 0 ||
+      h.indexOf('https://') === 0 ||
+      h.indexOf('//') === 0 ||
+      h.indexOf('mailto:') === 0 ||
+      h.indexOf('tel:') === 0
+    ) {
+      try {
+        if (typeof window !== 'undefined' && window.location) {
+          window.location.assign(h)
+        }
+      } catch (e) {}
+      return
+    }
+    if (h.charAt(0) === '#') {
+      try {
+        if (typeof window !== 'undefined' && window.location) {
+          window.location.hash = h
+        }
+      } catch (e2) {}
+      return
+    }
     if (h.charAt(0) === '/' && h.indexOf('://') < 0) {
       navigateFile(h)
       return
