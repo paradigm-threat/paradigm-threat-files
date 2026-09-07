@@ -14,7 +14,7 @@ import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 
-const MD_CACHE_BUST = 'ptmd9'
+const MD_CACHE_BUST = 'ptmd10'
 
 /** Measured home fragment paint height (lab); keep in sync when lists grow a lot. */
 const HOME_INVESTIGATIONS_MIN_PX = 20500
