@@ -50,4 +50,4 @@ To understand the motivations behind *predictive programming*,
 allows us to determine precisely what the viewer is being compelled into believing,
 or *not* believing.
 
-<DeferredMarkdown src="page-sections/investigations.md" />
+<DeferredMarkdown src="page-sections/investigations.md" minHeight="20000px" />

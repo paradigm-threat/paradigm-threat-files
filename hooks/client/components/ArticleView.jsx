@@ -20,6 +20,9 @@ import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import DeferredMarkdown, {
   loadDeferredFragment,
+  estimateDeferredMinHeightPx,
+  deferredMinHeightStyle,
+  parseDeferredMinHeightAttr,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -29,7 +32,7 @@ import manifest from '@hooks'
 const MAX_SSR_MD_CHARS = 400000
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd8'
+const MD_CACHE_BUST = 'ptmd9'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -327,6 +330,7 @@ export default function ArticleView(props) {
           mdBefore = body.slice(0, at)
           mdAfter = body.slice(end + endLen)
           let src = 'page-sections/investigations.md'
+          let attrMinPx = 0
           const slice = body.slice(at, end + endLen)
           const srcKey = 'src="'
           const s0 = slice.indexOf(srcKey)
@@ -335,18 +339,32 @@ export default function ArticleView(props) {
             const s2 = slice.indexOf('"', s1)
             if (s2 > s1) src = slice.slice(s1, s2)
           }
+          const mhKey = 'minHeight="'
+          const m0 = slice.indexOf(mhKey)
+          if (m0 >= 0) {
+            const m1 = m0 + mhKey.length
+            const m2 = slice.indexOf('"', m1)
+            if (m2 > m1) {
+              attrMinPx = parseDeferredMinHeightAttr(slice.slice(m1, m2))
+            }
+          }
           let frag = ''
           try {
             frag = loadDeferredFragment(src, clientBase())
           } catch (eFrag) {
             frag = ''
           }
-          if (typeof frag === 'string' && frag.length > 0) {
+          const fragLen =
+            typeof frag === 'string' && frag.length > 0 ? frag.length : 0
+          const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
+          const minStyle = deferredMinHeightStyle(minPx)
+          if (fragLen > 0) {
             deferredIsland = (
               <section
                 className="pt-deferred-md"
                 data-pt-deferred="1"
                 aria-label="Deferred section"
+                style={minStyle}
               >
                 <MarkdownRenderer
                   content={frag}
@@ -378,11 +396,10 @@ export default function ArticleView(props) {
               <section
                 className="pt-deferred-md"
                 aria-label="Deferred section"
+                aria-busy="true"
                 data-pt-deferred-pending="1"
-                style={{ minHeight: '24rem' }}
-              >
-                <p className="pt-muted">Loading section…</p>
-              </section>
+                style={minStyle}
+              />
             )
           }
         }
