@@ -356,12 +356,18 @@ export default function ArticleView(props) {
                   />
                 </div>
               )}
-              {/* Outside .pt-md so soft-hydrate MD mismatches cannot orphan this node. Remount on phase 3. */}
-              {pathPart === 'page.md' ? (
-                <DeferredMarkdown
-                  key={isClientLivePhase(3) === true ? 'pt-deferred-live' : 'pt-deferred-ssr'}
-                  src="page-sections/investigations.md"
-                />
+              {/* Outside .pt-md. Parent phase gate + distinct component vs placeholder. */}
+              {pathPart === 'page.md' && isClientLivePhase(3) === true ? (
+                <DeferredMarkdown src="page-sections/investigations.md" />
+              ) : pathPart === 'page.md' ? (
+                <section
+                  className="pt-deferred-md"
+                  data-pt-deferred-ssr="1"
+                  style={{ minHeight: '24rem' }}
+                  aria-busy="true"
+                >
+                  <p className="pt-muted">Loading section…</p>
+                </section>
               ) : null}
               {live && (prevHref.length > 0 || nextHref.length > 0) ? (
                 <nav className="pt-article-neighbors" aria-label="Adjacent articles">

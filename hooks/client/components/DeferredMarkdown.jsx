@@ -1,10 +1,8 @@
 /**
- * Lazy markdown fragment for home page heavy lists.
- * Phase >= 3: sync tip cachedGet (ChangeLog-style). SSR/phases < 3: placeholder.
- * Avoids useEffect races that CleverScript re-renders cancel.
+ * Home-page investigation fragment. Parent mounts only at phase >= 3.
+ * Sync tip cachedGet (ChangeLog-style); no phase gate here.
  */
 import React from 'react'
-import { isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
@@ -12,7 +10,7 @@ import PopImage from 'hooks/client/components/PopImage.jsx'
 
 const MD_CACHE_BUST = 'ptmd7'
 
-/** One parse per tip session per src (shared across re-renders). */
+/** One parse per tip session per src. */
 let deferredWarm = null
 
 function EmptyMdStub() {
@@ -52,19 +50,6 @@ function renderPopImage(p) {
   )
 }
 
-function ssrPlaceholder() {
-  return (
-    <section
-      className="pt-deferred-md"
-      data-pt-deferred-ssr="1"
-      style={{ minHeight: '24rem' }}
-      aria-busy="true"
-    >
-      <p className="pt-muted">Loading section…</p>
-    </section>
-  )
-}
-
 function loadDeferredMarkdown(src) {
   if (deferredWarm === null) deferredWarm = {}
   if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
@@ -88,10 +73,6 @@ export default function DeferredMarkdown(props) {
   try {
     if (props && typeof props.src === 'string') src = props.src
   } catch (e) {}
-
-  if (isClientLivePhase(3) !== true) {
-    return ssrPlaceholder()
-  }
 
   if (src.length === 0) {
     return (
