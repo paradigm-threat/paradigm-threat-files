@@ -41,15 +41,18 @@ function loadFragment(src) {
 
 /**
  * Reserve space for the deferred island (px). Prefer explicit attr, then
- * content-length estimate, then known home default.
+ * content-length estimate, then known home default. Never shrink below the
+ * best available estimate (avoids scrollbar jump on SSR→filled swap).
  */
 export function estimateDeferredMinHeightPx(src, contentLen, attrPx) {
-  if (typeof attrPx === 'number' && attrPx > 0) return attrPx
+  let best = 0
+  if (typeof attrPx === 'number' && attrPx > 0) best = attrPx
   if (typeof contentLen === 'number' && contentLen > 0) {
     let h = Math.round(contentLen / BYTES_PER_PX)
     if (h < 480) h = 480
-    return h
+    if (h > best) best = h
   }
+  if (best > 0) return best
   let s = src
   if (!s || typeof s !== 'string') s = ''
   if (s === 'page-sections/investigations.md' || s.indexOf('investigations.md') >= 0) {
