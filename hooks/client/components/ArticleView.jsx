@@ -44,12 +44,13 @@ function renderChangeLog(p) {
   return <ChangeLog limit={lim} />
 }
 
-function renderDeferredMarkdown(p) {
+function deferredSrcFromProps(p) {
   let src = ''
   try {
     if (p && typeof p.src === 'string') src = p.src
   } catch (e) {}
-  return <DeferredMarkdown src={src} />
+  if (src.length === 0) src = 'page-sections/investigations.md'
+  return src
 }
 
 function renderPopImage(p) {
@@ -296,33 +297,81 @@ export default function ArticleView(props) {
 
   const showArticleBody = !deferHugeSsr && (errMsg.length > 0 || body.length > 0)
 
-  // Prefetch DeferredMarkdown tips OUTSIDE MarkdownRenderer overrides.
-  // cachedGet inside the override aborts the call (no section in vnode → swap skip).
-  if (showArticleBody) {
-    if (isClientLivePhase(3) !== true) {
-      // wait
-    } else {
-      try {
-        const marker = '<DeferredMarkdown'
-        const at = body.indexOf(marker)
-        if (at >= 0) {
-          let src = 'page-sections/investigations.md'
-          const slice = body.slice(at, at + 120)
-          const srcKey = 'src="'
-          const s0 = slice.indexOf(srcKey)
-          if (s0 >= 0) {
-            const s1 = s0 + srcKey.length
-            const s2 = slice.indexOf('"', s1)
-            if (s2 > s1) src = slice.slice(s1, s2)
-          }
-          // Direct tip GET warms WASM tip_cached_get; also seed module warm.
-          try {
-            cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-          } catch (eGet) {}
-          prefetchDeferredMarkdown(src)
+  // Prefetch + eager-render DeferredMarkdown OUTSIDE the page MarkdownRenderer
+  // walk. Nested <MarkdownRenderer> (or cachedGet) inside the override aborts
+  // the vnode → soft-hydrate never swaps section.pt-deferred-md.
+  let deferredIsland = null
+  if (showArticleBody && isClientLivePhase(3) === true) {
+    try {
+      const marker = '<DeferredMarkdown'
+      const at = body.indexOf(marker)
+      if (at >= 0) {
+        let src = 'page-sections/investigations.md'
+        const slice = body.slice(at, at + 120)
+        const srcKey = 'src="'
+        const s0 = slice.indexOf(srcKey)
+        if (s0 >= 0) {
+          const s1 = s0 + srcKey.length
+          const s2 = slice.indexOf('"', s1)
+          if (s2 > s1) src = slice.slice(s1, s2)
         }
-      } catch (ePrefetch) {}
-    }
+        let frag = ''
+        try {
+          cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
+        } catch (eGet) {}
+        try {
+          frag = prefetchDeferredMarkdown(src)
+        } catch (ePrefetch) {
+          frag = ''
+        }
+        if (typeof frag === 'string' && frag.length > 0) {
+          let inner = null
+          try {
+            if (typeof MarkdownRenderer === 'function') {
+              inner = MarkdownRenderer({
+                content: frag,
+                navigate: (to) => {
+                  navigateFile(to)
+                },
+                anchorOnClick: (href) => {
+                  onMdLinkClick(href)
+                },
+              })
+            }
+          } catch (eInner) {
+            inner = null
+          }
+          if (inner != null) {
+            deferredIsland = (
+              <section
+                className="pt-deferred-md"
+                data-pt-deferred="1"
+                aria-label="Deferred section"
+              >
+                {inner}
+              </section>
+            )
+          }
+        }
+        if (deferredIsland == null) {
+          deferredIsland = (
+            <section
+              className="pt-deferred-md"
+              aria-label="Deferred section"
+              data-pt-deferred-pending="1"
+              style={{ minHeight: '12rem' }}
+            >
+              <p className="pt-muted">Loading section…</p>
+            </section>
+          )
+        }
+      }
+    } catch (eBuild) {}
+  }
+
+  const renderDeferredMarkdown = (p) => {
+    if (deferredIsland != null) return deferredIsland
+    return <DeferredMarkdown src={deferredSrcFromProps(p)} />
   }
 
   return (
