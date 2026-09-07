@@ -36,6 +36,16 @@ export function loadDeferredMarkdown(src) {
   return loadFragment(src)
 }
 
+function phaseDbg(kind) {
+  let phaseNow = -1
+  try {
+    phaseNow = getClientLivePhase()
+  } catch (e) {
+    phaseNow = -2
+  }
+  return 'p' + phaseNow + kind
+}
+
 export default function DeferredMarkdown(props) {
   let src = ''
   try {
@@ -43,16 +53,8 @@ export default function DeferredMarkdown(props) {
   } catch (e) {}
   if (src.length === 0) src = 'page-sections/investigations.md'
 
-  let phaseNow = -1
-  try {
-    phaseNow = getClientLivePhase()
-  } catch (e) {
-    phaseNow = -2
-  }
-  const phase3 = isClientLivePhase(3) === true
-  const dbg = 'p' + phaseNow + (phase3 ? 'y' : 'n')
-
-  if (phase3 !== true) {
+  // Match ChangeLog gate exactly (no === true assignment).
+  if (isClientLivePhase(3) !== true) {
     if (isCsrHost()) {
       return null
     }
@@ -61,7 +63,7 @@ export default function DeferredMarkdown(props) {
         className="pt-deferred-md"
         aria-label="Deferred section"
         data-pt-deferred-ssr="1"
-        data-pt-dm-dbg={dbg}
+        data-pt-dm-dbg={phaseDbg('s')}
         style={{ minHeight: '12rem' }}
       >
         <p className="pt-muted">Loading section…</p>
@@ -69,29 +71,17 @@ export default function DeferredMarkdown(props) {
     )
   }
 
-  const body = loadFragment(src)
-  if (body.length === 0) {
-    return (
-      <section
-        className="pt-deferred-md"
-        aria-label="Deferred section"
-        data-pt-deferred-pending="1"
-        data-pt-dm-dbg={dbg + 'e'}
-        style={{ minHeight: '12rem' }}
-      >
-        <p className="pt-muted">Loading section…</p>
-      </section>
-    )
-  }
-
+  // Probe A: do NOT call loadFragment/cachedGet during override (suspected abort).
+  // If dbg becomes p3e/p4e, swap works and cachedGet-during-override is the bug.
   return (
     <section
       className="pt-deferred-md"
-      data-pt-deferred="1"
-      data-pt-dm-dbg={dbg + 'L'}
       aria-label="Deferred section"
+      data-pt-deferred-pending="1"
+      data-pt-dm-dbg={phaseDbg('e')}
+      style={{ minHeight: '12rem' }}
     >
-      <MarkdownRenderer content={body} />
+      <p className="pt-muted">Loading section…</p>
     </section>
   )
 }
