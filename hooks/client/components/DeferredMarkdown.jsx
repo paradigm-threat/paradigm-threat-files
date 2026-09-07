@@ -3,7 +3,7 @@
  * Keeps SSR home slim; fragment fetched via cachedGet like article tips.
  */
 import React from 'react'
-import { isClientLivePhase } from '@clevertree/style-internal'
+import { isClientLivePhase, getClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
@@ -43,7 +43,14 @@ export default function DeferredMarkdown(props) {
   } catch (e) {}
   if (src.length === 0) src = 'page-sections/investigations.md'
 
+  let phaseNow = -1
+  try {
+    phaseNow = getClientLivePhase()
+  } catch (e) {
+    phaseNow = -2
+  }
   const phase3 = isClientLivePhase(3) === true
+  const dbg = 'p' + phaseNow + (phase3 ? 'y' : 'n')
 
   if (phase3 !== true) {
     if (isCsrHost()) {
@@ -54,7 +61,7 @@ export default function DeferredMarkdown(props) {
         className="pt-deferred-md"
         aria-label="Deferred section"
         data-pt-deferred-ssr="1"
-        data-pt-dm-dbg="ssr"
+        data-pt-dm-dbg={dbg}
         style={{ minHeight: '12rem' }}
       >
         <p className="pt-muted">Loading section…</p>
@@ -69,7 +76,7 @@ export default function DeferredMarkdown(props) {
         className="pt-deferred-md"
         aria-label="Deferred section"
         data-pt-deferred-pending="1"
-        data-pt-dm-dbg="pending"
+        data-pt-dm-dbg={dbg + 'e'}
         style={{ minHeight: '12rem' }}
       >
         <p className="pt-muted">Loading section…</p>
@@ -81,7 +88,7 @@ export default function DeferredMarkdown(props) {
     <section
       className="pt-deferred-md"
       data-pt-deferred="1"
-      data-pt-dm-dbg="live"
+      data-pt-dm-dbg={dbg + 'L'}
       aria-label="Deferred section"
     >
       <MarkdownRenderer content={body} />
