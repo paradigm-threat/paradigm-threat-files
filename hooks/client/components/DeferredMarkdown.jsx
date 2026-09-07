@@ -6,60 +6,40 @@
  * so soft-hydrate never swaps the SSR island.
  */
 import React from 'react'
-import { isClientLive, isClientLivePhase } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
-import manifest from '@hooks'
 
 const MD_CACHE_BUST = 'ptmd8'
 
 let deferredWarm = null
 
-function clientBase() {
-  try {
-    if (typeof manifest.relayClientBaseUrl === 'string') {
-      let b = manifest.relayClientBaseUrl
-      while (b.length > 0 && b.charAt(b.length - 1) === '/') {
-        b = b.slice(0, b.length - 1)
-      }
-      return b
-    }
-  } catch (e) {}
-  return ''
-}
-
 function loadFragment(src) {
   if (deferredWarm === null) deferredWarm = {}
   if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
-  const rel = '/' + src + '?v=' + MD_CACHE_BUST
   try {
-    const text = cachedGet(rel)
+    const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
     if (typeof text === 'string' && text.length > 0) {
       const body = rewriteMarkdownAssetUrls(text, src)
       deferredWarm[src] = body
       return body
     }
   } catch (e) {}
-  // Same CSR fallback as ArticleView.loadArticleMarkdown — cachedGet often
-  // returns '' on first tick while the tip GET is in flight / not yet mapped.
-  if (isClientLive() === true) {
-    try {
-      const baseStr = clientBase()
-      if (baseStr.length === 0) return ''
-      const url = baseStr + rel
-      const resp = fetch(url, { method: 'GET' })
-      if (resp && resp.ok === true) {
-        const text = resp.text ? resp.text : ''
-        if (typeof text === 'string' && text.length > 0) {
-          const body = rewriteMarkdownAssetUrls(text, src)
-          deferredWarm[src] = body
-          return body
-        }
-      }
-    } catch (eFetch) {}
-  }
   return ''
+}
+
+/** Seed warm cache from a string already loaded by the caller (e.g. sync fetch). */
+export function seedDeferredMarkdown(src, text) {
+  let s = src
+  if (!s || typeof s !== 'string' || s.length === 0) {
+    s = 'page-sections/investigations.md'
+  }
+  if (typeof text !== 'string' || text.length === 0) return ''
+  if (deferredWarm === null) deferredWarm = {}
+  const body = rewriteMarkdownAssetUrls(text, s)
+  deferredWarm[s] = body
+  return body
 }
 
 /** Warm tip cache outside MarkdownRenderer overrides (safe for cachedGet). */

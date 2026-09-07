@@ -19,7 +19,10 @@ import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import DeferredMarkdown from 'hooks/client/components/DeferredMarkdown.jsx'
-import { prefetchDeferredMarkdown } from 'hooks/client/components/DeferredMarkdown.jsx'
+import {
+  prefetchDeferredMarkdown,
+  seedDeferredMarkdown,
+} from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
@@ -342,6 +345,23 @@ export default function ArticleView(props) {
             frag = prefetchDeferredMarkdown(src)
           } catch (ePrefetch) {
             frag = ''
+          }
+          // cachedGet often returns '' on first tick — same sync fetch as loadArticleMarkdown.
+          if (!(typeof frag === 'string' && frag.length > 0) && isClientLive() === true) {
+            try {
+              const baseStr = clientBase()
+              if (baseStr.length > 0) {
+                const resp = fetch(baseStr + '/' + src + '?v=' + MD_CACHE_BUST, {
+                  method: 'GET',
+                })
+                if (resp && resp.ok === true) {
+                  const text = resp.text ? resp.text : ''
+                  if (typeof text === 'string' && text.length > 0) {
+                    frag = seedDeferredMarkdown(src, text)
+                  }
+                }
+              }
+            } catch (eFetch) {}
           }
           if (typeof frag === 'string' && frag.length > 0) {
             deferredIsland = (
