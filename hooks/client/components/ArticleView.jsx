@@ -27,7 +27,7 @@ import manifest from '@hooks'
 const MAX_SSR_MD_CHARS = 400000
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd7'
+const MD_CACHE_BUST = 'ptmd8'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {

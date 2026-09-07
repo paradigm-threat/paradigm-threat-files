@@ -9,7 +9,7 @@ import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 
-const MD_CACHE_BUST = 'ptmd7'
+const MD_CACHE_BUST = 'ptmd8'
 
 let deferredWarm = null
 
