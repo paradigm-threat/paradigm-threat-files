@@ -1,6 +1,6 @@
 # *Final Fantasy VII* — platform rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, and story sabotage (**AU-055**, open)
 
-> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5) — **confirmed in JP PS1 + EN PC dumps** (§5.5a). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
+> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5) — **confirmed in JP PS1 + EN PC dumps** (§5.5a). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6); post-Safer **residual 1v1** reads as **Version B bolt-on** vs *FFVI* Kefka ending at the huge form (§5.6a); Version B **taints Lifestream rules** (fall-in → remote hub; only Jenova should corrupt; A spine = alive summon) (§5.7). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
 
 **Status:** Open — false-memory mandate cluster (FF7 × Mother 3); corroborate / falsify ordered-agenda layer.
 
@@ -9,6 +9,8 @@
 1. Author originating thesis (platform rip + Midgar) → §1  
 2. **Author addendum — false-memory order / Mother 3 / suicide agenda** → §1.1  
 2a. **Author addendum — ending collapse vs *FFVI*** → §1.2 / §5.6  
+2b. **Post-Safer 1v1 as Version B scar (vs Kefka)** → §5.6a  
+2c. **Version B taints Lifestream rules (Jenova vs Sephiroth-in-stream)** → §5.7  
 2b. **Author addendum — Zack delusion removable cleanly** → §1.3 / §6.4  
 2c. **Author addendum — VII music vault reuse + industry precedents** → §1.4  
 2d. **Author addendum — post–Version B mainline self-delusion cascade** → §1.5  
@@ -232,7 +234,7 @@ Link once: [`docs/REDACTION.md`](/docs/REDACTION.md).
 | Shinra building: empty Jenova tank; President impaled by Masamune | **Sephiroth** broke Jenova out and killed the President | Jenova’s **main body** escapes, **mimics Sephiroth**, kills President ([Ultimania Omega via Ryu Kaze](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/42137); [Reunion Theory wiki](https://finalfantasy.fandom.com/wiki/Reunion_Theory)) |
 | Chase across world; “Sephiroth” sightings | Tracking the man who burned Nibelheim | Tracking **Jenova pieces / clones** under Sephiroth’s will |
 | North Crater crystal figure | Sephiroth regenerating / waiting | **Real body** rebuilding while consciousness puppets cells |
-| Final battles | Fight Sephiroth | Fight Jenova forms, then Safer∙Sephiroth, then residual will |
+| Final battles | Fight **Sephiroth** (real body / final form) | Jenova forms → Bizarro → **Safer∙Sephiroth** → **extra** Cloud vs residual will (Omnislash theater) |
 
 **Author point (valid as reception history):** Decades of forum argument prove the **shipped presentation** and the **clarified metaphysics** do not land as one story for a schoolyard audience. That is evidence of **narrative failure / fracture**, even if Square intended the double layer.
 
@@ -265,7 +267,7 @@ Speculative **edit list** if Sephiroth were simply **alive and operating** after
 | Black cloaks / Reunion | Drop or rebrand as Sephiroth’s cult / experiments without cell-magnet metaphysics | **Medium–large** |
 | North Crater crystal | Replace with Sephiroth’s base / fortress / mako throne — still a final dungeon | **Medium** |
 | Cloud motivation | Nibelheim witness + personal kill = enough (author) | **Removes Zack dependency** |
-| Lifestream god plan | Can stay as Sephiroth’s **revenge using Jenova genes** without “you never fought him” | **Tone shift**, not full rewrite |
+| Lifestream god plan | Sephiroth’s **alive** revenge **using Jenova** (genes / cargo) — Lifestream stays Planet/Aerith spiritual medium, **not** his Wi‑Fi (§5.7) | **Tone restore**; cuts B’s fall-in remote-control |
 
 **Author conclusion:** The **Jenova-as-Sephiroth** layer is a **high-leverage small surface** — few scenes, whole plot ontology flips. That matches the thesis’s “very few places.”
 
@@ -412,6 +414,59 @@ Lines below treat the chase actor as **physically Sephiroth** and/or **Jenova as
 | **Both can be true as reception** | Prestige FMV + ambiguous epilogue can be **intentional** and still feel like a **shadow** of *FFVI*’s human farewell |
 
 **Open:** Dated draft of a longer *FFVI*-class VII ending cut after platform exit — not yet in hand. Absent that, §1.2 stays **author** with **strong comparative reception** and only **partial** development corroboration (late rework; “different from the past”; trimmed branch endings).
+
+#### 5.6a Author addendum — post-Safer one-on-one as Version B scar (2026-09-07)
+
+**Author stake:** The cinematic Cloud vs Sephiroth duel **after** Safer∙Sephiroth (forced Omnislash / residual will in a white Lifestream mindscape) feels like a **late Version B bolt-on**. Once ontology says the chase was Jenova and the “real” Sephiroth was always regenerating / waiting in the Lifestream, the game still needs a beat where you “kill Sephiroth himself” after the huge angel form. That is anticlimactic craft and **ontologically required by B**, not by a grounded villain fight.
+
+| | ***FFVI* — Kefka** | ***FFVII* — Safer then residual duel** |
+|--|--------------------|----------------------------------------|
+| Climax form | Kefka becomes **huge** (God of Magic / tower) | Safer∙Sephiroth is the huge form |
+| After the huge form | **Victory.** No second “Kefka’s ghost in the Lifestream” fight | Extra **1v1** vs a residual / mindscape Sephiroth |
+| Author read | Prior Square: defeat the **god-form**, curtain | Version B: you still haven’t stabbed the **real** Sephiroth because he was never fully “here” |
+
+**Separation:** Comparative craft (*FFVI* does not append a Lifestream Kefka) = **strong reception**. “Inserted late because Version B made Safer insufficient” = **author inference** until a dated draft / staff quote isolates the duel as a post-ontology add. Friendly adjacent: Kitase ending reworked to the last second (§5.6); mid-game A leftovers vs late B bombs (§5.5); Ultimania “real body at crater / will in Lifestream” stack.
+
+**Mod implication (Version A restore):** Cut the post-Safer duel; Safer *is* the kill; use that slot for Holy/Meteor FMV + interactive epilogue (see mod `docs/ENDING_EPILOGUE.md`).
+
+#### 5.7 Author addendum — Version B **taints the Lifestream’s rules** (2026-09-07)
+
+**Author stake (verbatim sense):** The ending felt **anticlimactic**; that complaint is widespread and the close is **not** traditional Square farewell craft (§1.2 / §5.6). More load-bearing: Sephiroth **entering the Lifestream and remote-controlling the plot from it** never made spiritual or mechanical sense. *Advent Children* makes the taint **Jenova cells** (geostigma / memetic legacy carried when the Lifestream surges). There is no clean reason a human (even a Jenova-project SOLDIER) should **fall in by circumstance**, keep a regenerating **physical form**, and turn the Planet’s soul-cycle into an **ethereal loudspeaker**. Cloud later falls into the Lifestream (Mideel) and does **not** gain planetary remote control — he fragments / collapses. When Version B added **off-screen Nibelheim “death” + fall into the Lifestream**, it **broke Version A’s Lifestream rule**: ordinary death = dissolve into the Planet’s flow, not upload-and-command. Version B therefore **tainted the Lifestream by rewriting what the Lifestream is** — from spiritual Japanese return-cycle into a **technical Western remote-control hub**. The only entity that should ever *corrupt* spirit energy that way is **Jenova** (alien). Sephiroth’s Meteor plan was researched **before** that fall; dying into the stream should not be what **enables** the summon. Version A spine: he broke into Shinra, **stole Jenova**, went to the crater, and **did the summon** — alive.
+
+##### What the Lifestream is sold as (early / spiritual grammar)
+
+| Rule (Version A–friendly) | Implication |
+|---------------------------|-------------|
+| Spirit energy returns to the Planet when you die | You **become part of** the flow; identity dissolves |
+| Mako = extracted Lifestream | Industrial sin against a **living spiritual cycle** |
+| Holy / Aerith / Planet prayer | Cetra / Planet agency — not a dead man’s Wi‑Fi |
+| Alien corruption (if any) | **Jenova** as extraterrestrial contaminant of life |
+
+##### What Version B / Compilation requires
+
+| Version B move | Rule break |
+|----------------|------------|
+| Sephiroth “dies” at Nibelheim (reactor fall) but **does not diffuse** | Special exception to dissolve-into-Planet |
+| Will travels / waits **in** the Lifestream while body rebuilds at crater | Lifestream = **server** + body = **client** |
+| Chase actors = Jenova pieces under will; real Sephiroth “beyond” | Physical villain removed; **remote** villain |
+| Post-Safer residual 1v1 in white mindscape (§5.6a) | Still need to stab the **will** after the huge form |
+| AC geostigma | Officially **Jenova cells** in the stream; Sephiroth then *uses* that taint — hybrid that still needs the B exception |
+
+**Cloud contrast (in-game, fair):** Mideel Lifestream dunk → trauma, mako poisoning, identity crisis staging — **not** Meteor remote control. Same medium, opposite outcome → “fall in = become dark god” is **ad hoc** for Sephiroth alone.
+
+**AC as friendly witness to the author’s Jenova point:** Geostigma / “Jenova’s memetic legacy” frames planetary infection as **cells in the stream**, not “a guy fell in once.” Compilation still keeps Sephiroth-as-will using that infection — so AC **does not exonerate** B; it **exposes** that the corruption grammar belongs to **Jenova**, while Sephiroth-in-stream remains the special pleading.
+
+##### Author vs counter
+
+| Reading | Implication |
+|---------|-------------|
+| **Author** | Version B **violates** the Lifestream’s spiritual rule set; turns Japanese soul-cycle into Western tech contradiction; only Jenova should taint; Meteor plan should not require the fall |
+| **Counter** | Jenova cells in Sephiroth let his will resist diffusion (special biology); Kitase/Nojima intended layered mystery; AC is consistent sequel grammar |
+| **Both can be true as craft** | You can *patch* B with cell jargon and still have **broken the early spiritual contract** players learned (death = return, not remote HQ) |
+
+**Separation:** Anticlimax + non-traditional close = **reception** (§5.6). Cloud≠Sephiroth Lifestream outcomes + AC Jenova-cell taint + mid-game “carrying Jenova” alive chase (§5.5) = **strong textual/phenomenological support**. “Ordered Westernization of the Lifestream” / “broke Version A creators’ rules” = **author** motive/craft accusation until a draft shows the fall-into-stream as a dated insert.
+
+**Mod implication (Version A):** Sephiroth never needs the Lifestream as command center. He remains **alive**, uses **Jenova** (cargo / genes / discarded pieces), reaches the crater, summons. Lifestream stays Planet/Aerith spiritual medium — optional mako trauma for Cloud as **shame/guilt**, not identity install and not villain Wi‑Fi. Cut residual-will duel (§5.6a). Soft AC stigma allusions = **Jenova-cell rumor**, not proof Sephiroth-was-always-the-stream.
 
 ---
 
@@ -669,6 +724,8 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | 13 | Agenda effect class: fan **depression / suicide risk**; writers know; that is the point | Moral/pattern conclusion — **no epi cite in-file yet** | Author |
 | 14 | VII **ending** is weakest link — Lifestream hunt + FMV coda is a **shadow** of *FFVI*’s long triumphant finale; unfinished at Nintendo rip + ordered Sony changes → **uninspired** close; that limp ending is a **clue** | Comparative reception strong; Kitase “different from the past” + late rework **documented**; “ordered / unfinished because Sony” **author** | Partial |
 | 15 | After *FFVII* **Version B**, **every non-MMO** mainline (ex. ***XII***) centers on **self-delusion / fabricated memories / trauma false-self** (Cloud / Tidus / Clive-class); **MMOs carve out**; ***XII*** = **refreshing outlier** (Vaan honest; cosmic Occuria lie ends when **Ashe smashes the stone** — humanity writes history); possible **NSA-aligned** agency plot; battle-tradition terminus Nasir → Ito → Tactics → *XII* | Series-theme **author pattern** (§1.5); staff battle lineage **documented**; NSA-camp **author**; remaining non-MMO one-liners open | Author / partial |
+| 16 | Post-Safer **Cloud vs residual Sephiroth** duel is a **late Version B bolt-on** (“real Sephiroth always in Lifestream”); *FFVI* Kefka ends at the **huge** form — no second Lifestream ghost fight; Safer *should* be the kill | Comparative craft strong (§5.6a); “late add because B” **author** until draft/staff isolate | Author / partial |
+| 17 | Version B **taints Lifestream rules**: fall-in ≠ remote-control hub; death should **dissolve** into Planet; only **Jenova** should corrupt spirit energy; Cloud’s Lifestream fall ≠ Sephiroth powers; Meteor plan was researched **pre-fall** — A spine = steal Jenova → crater → summon **alive**; B turns spiritual JP cycle into **Western ethereal loudspeaker** | AC geostigma = Jenova cells **documented**; Cloud≠Sephiroth outcomes **documented**; “broke A creators’ rules / ordered Westernization” **author** (§5.7) | Author / partial |
 
 **Registry:** [author-unique theories](/history/chronology/investigations/author-unique-theories.md) **AU-055**.
 
@@ -701,6 +758,8 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 - [x] **Version A leftover dialogue inventory** — Yinza/letao deep dive; Ultimania “misunderstanding” caption (§5.5) — 2026-09-06  
 - [x] **EN + JP full-text dump cross-check** — Steam touphScript + PS1 `untrans` Disc 1: A/B seam confirmed bilingual (§5.5a) — 2026-09-07  
 - [x] Author **ending collapse vs *FFVI*** addendum (§1.2 / §5.6) — 2026-09-06  
+- [x] Author **post-Safer 1v1 vs Kefka** (§5.6a / claim 16) — 2026-09-07  
+- [x] Author **Lifestream rule taint** (§5.7 / claim 17) — 2026-09-07  
 - [x] Leftover-music audit table on [Uematsu](/influence/stolen_credit/nobuo-uematsu.md) (homage vs unused-VII-pool)  
 - [x] Author false-memory / Mother 3 / suicide-agenda addendum (§1.1, §8.2, §8.4) — Kristóf→Mother 3 **documented**  
 - [x] Standalone [*Mother 3* AU-056](mother-3-earthbound-64-magypsy-rupture-investigation.md) shipped 2026-09-06  
@@ -728,7 +787,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight #SelfDelusion #VersionB #FinalFantasyXII #Vaan #Ashe #NasirGebelli #NSAAligned
 
-*Last updated: 2026-09-07* (EN+JP dump verify §5.5a; *XII*/MMO carve-outs §1.5; music vault; Zack delusion)
+*Last updated: 2026-09-07* (Lifestream rule taint §5.7; post-Safer 1v1 / Kefka §5.6a; EN+JP dump verify §5.5a)
 
 ---
 
@@ -737,7 +796,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Fiction vs evidence:** *Final Fantasy VII* and *Mother 3* are commercial video games. Plot analysis is **textual / reception / development-history** work — not a claim that fictional plots equal documented psyops memos.
-- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §1.5, §5.5 author rows, §5.6 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” “VII vault reuse is reasonable,” and “post–Version B mainline delusion cascade” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” remains **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
+- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §1.5, §5.5 author rows, §5.6–§5.7 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” “VII vault reuse is reasonable,” “post–Version B mainline delusion cascade,” and “Version B taints Lifestream rules” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” / “ordered Westernization of the Lifestream” remain **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
 - **Tiers:** In-game English script + Ultimania translations > encyclopedia summaries > localization secondary press > author pattern inference.
 - **Cross-links:** Mother 3 / EarthBound, Rare/DKC, vacuum inverse are **thematic rhymes** unless a shared primary appears.
 - **Assistant bias:** Prefer documenting **A/B script seams** and **false-memory mechanisms** over asserting **ordered suicide doctrine** without new receipts.
