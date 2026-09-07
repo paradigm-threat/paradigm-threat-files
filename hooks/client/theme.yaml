@@ -715,9 +715,11 @@ themes:
       ".pt-popimage-inner":
         position: "relative"
         display: "block"
+        aspectRatio: "3 / 2"
       ".pt-popimage-img":
         display: "block"
         maxWidth: "100%"
+        width: "100%"
         height: "auto"
       ".pt-popimage-hover":
         position: "absolute"

@@ -116,7 +116,15 @@ export default function PopImage(props) {
   if (className.length > 0) wrapClass = wrapClass + ' ' + className
 
   const imgEl = (
-    <img src={src} alt={alt} className="pt-popimage-img" loading="lazy" />
+    <img
+      src={src}
+      alt={alt}
+      className="pt-popimage-img"
+      loading="lazy"
+      width={360}
+      height={240}
+      style={{ width: '100%', height: 'auto' }}
+    />
   )
 
   // Outer <aside> excludes PopImage from Reading Mode; interactive chrome stays on the inner control.
@@ -146,7 +154,7 @@ export default function PopImage(props) {
           }
         }}
       >
-        <div className="pt-popimage-inner">
+        <div className="pt-popimage-inner" style={{ aspectRatio: '3 / 2' }}>
           {portraitSrc.length > 0 ? (
             <picture>
               <source media={PORTRAIT_MEDIA} srcSet={portraitSrc} />

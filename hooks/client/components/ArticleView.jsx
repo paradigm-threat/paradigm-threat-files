@@ -18,6 +18,7 @@ import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
+import DeferredMarkdown from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
@@ -26,7 +27,7 @@ import manifest from '@hooks'
 const MAX_SSR_MD_CHARS = 400000
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd5'
+const MD_CACHE_BUST = 'ptmd6'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -40,6 +41,14 @@ function renderChangeLog(p) {
     if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
   } catch (e) {}
   return <ChangeLog limit={lim} />
+}
+
+function renderDeferredMarkdown(p) {
+  let src = ''
+  try {
+    if (p && typeof p.src === 'string') src = p.src
+  } catch (e) {}
+  return <DeferredMarkdown src={src} />
 }
 
 function renderPopImage(p) {
@@ -315,6 +324,7 @@ export default function ArticleView(props) {
                     overrides={{
                       AutoIndex: renderAutoIndex,
                       ChangeLog: renderChangeLog,
+                      DeferredMarkdown: renderDeferredMarkdown,
                       ChatRoom: EmptyMdStub,
                       EmbedFile: renderEmbedFile,
                       PopImage: renderPopImage,
