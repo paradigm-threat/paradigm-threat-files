@@ -400,7 +400,7 @@ export default function ArticleView(props) {
                 className="pt-deferred-md"
                 aria-label="Deferred section"
                 data-pt-deferred-pending="1"
-                style={{ minHeight: '12rem' }}
+                style={{ minHeight: '120rem' }}
               >
                 <p className="pt-muted">Loading section…</p>
               </section>
