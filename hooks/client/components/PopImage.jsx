@@ -123,7 +123,7 @@ export default function PopImage(props) {
       loading="lazy"
       width={360}
       height={240}
-      style={{ width: '100%', height: 'auto' }}
+      style={{ width: '100%', height: 'auto', aspectRatio: '3 / 2' }}
     />
   )
 

@@ -206,7 +206,7 @@ export default function Nav(props) {
                   className="pt-brand-img md:pt-brand-img-md"
                   width={200}
                   height={40}
-                  style={{ width: 'auto', height: 'auto', maxWidth: '100%' }}
+                  style={{ width: 'auto', height: 'auto', maxWidth: '100%', aspectRatio: '5 / 1' }}
                 />
               </picture>
               <span className="pt-brand-fallback">Paradigm Threat</span>
