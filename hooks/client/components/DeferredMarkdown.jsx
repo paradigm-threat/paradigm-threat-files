@@ -44,14 +44,13 @@ export default function DeferredMarkdown(props) {
   if (src.length === 0) src = 'page-sections/investigations.md'
 
   const phase3 = isClientLivePhase(3) === true
-  try {
-    const g = globalThis
-    if (g && g.console && g.console.warn) {
-      g.console.warn('[DeferredMarkdown]', src, 'phase3=', phase3)
-    }
-  } catch (e) {}
+  let bodyLen = -1
 
   if (phase3 !== true) {
+    try {
+      const g = globalThis
+      g.__ptDmDebug = { src: src, phase3: false, bodyLen: -1 }
+    } catch (e) {}
     if (isCsrHost()) {
       return null
     }
@@ -68,11 +67,10 @@ export default function DeferredMarkdown(props) {
   }
 
   const body = loadFragment(src)
+  bodyLen = body.length
   try {
     const g = globalThis
-    if (g && g.console && g.console.warn) {
-      g.console.warn('[DeferredMarkdown] bodyLen=', body.length)
-    }
+    g.__ptDmDebug = { src: src, phase3: true, bodyLen: bodyLen }
   } catch (e) {}
   if (body.length === 0) {
     return (
