@@ -49,3 +49,5 @@ To understand the motivations behind *predictive programming*,
 [transactional analysis](https://www.simplypsychology.org/transactional-analysis-eric-berne.html)
 allows us to determine precisely what the viewer is being compelled into believing,
 or *not* believing.
+
+<DeferredMarkdown src="page-sections/investigations.md" />
