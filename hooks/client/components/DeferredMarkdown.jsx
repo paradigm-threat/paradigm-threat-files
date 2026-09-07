@@ -43,7 +43,15 @@ export default function DeferredMarkdown(props) {
   } catch (e) {}
   if (src.length === 0) src = 'page-sections/investigations.md'
 
-  if (isClientLivePhase(3) !== true) {
+  const phase3 = isClientLivePhase(3) === true
+  try {
+    const g = globalThis
+    if (g && g.console && g.console.warn) {
+      g.console.warn('[DeferredMarkdown]', src, 'phase3=', phase3)
+    }
+  } catch (e) {}
+
+  if (phase3 !== true) {
     if (isCsrHost()) {
       return null
     }
@@ -60,6 +68,12 @@ export default function DeferredMarkdown(props) {
   }
 
   const body = loadFragment(src)
+  try {
+    const g = globalThis
+    if (g && g.console && g.console.warn) {
+      g.console.warn('[DeferredMarkdown] bodyLen=', body.length)
+    }
+  } catch (e) {}
   if (body.length === 0) {
     return (
       <section
