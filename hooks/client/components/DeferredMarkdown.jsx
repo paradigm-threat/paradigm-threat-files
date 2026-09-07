@@ -74,7 +74,7 @@ export default function DeferredMarkdown(props) {
   }
 
   return (
-    <section className="pt-deferred-md" data-pt-deferred="1" aria-label="Investigations">
+    <section className="pt-deferred-md" data-pt-deferred="1" aria-label="Deferred section">
       <MarkdownRenderer content={body} />
     </section>
   )
