@@ -1,9 +1,9 @@
 /**
  * Lazy markdown fragment for home page heavy lists.
- * Loads after client phase >= 3 on idle (no IntersectionObserver / window —
- * CleverScript SSR rejects those patterns).
+ * Phase >= 3: sync tip cachedGet (ChangeLog-style). SSR/phases < 3: placeholder.
+ * Avoids useEffect races that CleverScript re-renders cancel.
  */
-import React, { useState, useEffect, useRef } from 'react'
+import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
@@ -11,6 +11,9 @@ import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 
 const MD_CACHE_BUST = 'ptmd6'
+
+/** One parse per tip session per src (shared across re-renders). */
+let deferredWarm = null
 
 function EmptyMdStub() {
   return <span className="pt-md-stub" aria-hidden="true" />
@@ -62,6 +65,21 @@ function ssrPlaceholder() {
   )
 }
 
+function loadDeferredMarkdown(src) {
+  if (deferredWarm === null) deferredWarm = {}
+  if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
+  try {
+    const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
+    if (typeof text === 'string' && text.length > 0) {
+      const body = rewriteMarkdownAssetUrls(text, src)
+      deferredWarm[src] = body
+      return body
+    }
+  } catch (e) {}
+  deferredWarm[src] = ''
+  return ''
+}
+
 /**
  * @param {{ src: string }} props — path relative to repo root
  */
@@ -71,91 +89,25 @@ export default function DeferredMarkdown(props) {
     if (props && typeof props.src === 'string') src = props.src
   } catch (e) {}
 
-  const contentState = useState('')
-  const content = contentState[0]
-  const setContent = contentState[1]
-  const errState = useState('')
-  const errMsg = errState[0]
-  const setErrMsg = errState[1]
-  const startedRef = useRef(false)
-
-  const live = isClientLivePhase(3) === true
-
-  useEffect(() => {
-    if (live !== true) return
-    if (src.length === 0) return
-    if (startedRef.current === true) return
-
-    let cancelled = false
-    let timer = 0
-
-    const run = () => {
-      if (cancelled) return
-      if (startedRef.current === true) return
-      startedRef.current = true
-      try {
-        const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-        if (cancelled) return
-        if (typeof text === 'string' && text.length > 0) {
-          setContent(rewriteMarkdownAssetUrls(text, src))
-          setErrMsg('')
-        } else {
-          setErrMsg('Could not load section.')
-        }
-      } catch (e) {
-        if (!cancelled) setErrMsg('Could not load section.')
-      }
-    }
-
-    try {
-      let g = null
-      try {
-        if (typeof globalThis !== 'undefined') g = globalThis
-      } catch (e0) {}
-      if (g && g.requestAnimationFrame) {
-        g.requestAnimationFrame(() => {
-          g.requestAnimationFrame(() => {
-            try {
-              if (g.setTimeout) timer = g.setTimeout(run, 50)
-              else run()
-            } catch (e1) {
-              run()
-            }
-          })
-        })
-      } else if (g && g.setTimeout) {
-        timer = g.setTimeout(run, 100)
-      } else {
-        run()
-      }
-    } catch (e2) {
-      run()
-    }
-
-    return () => {
-      cancelled = true
-      try {
-        let g2 = null
-        if (typeof globalThis !== 'undefined') g2 = globalThis
-        if (timer && g2 && g2.clearTimeout) g2.clearTimeout(timer)
-      } catch (e3) {}
-    }
-  }, [live, src])
-
-  if (live !== true) {
+  if (isClientLivePhase(3) !== true) {
     return ssrPlaceholder()
   }
 
-  if (errMsg.length > 0) {
+  if (src.length === 0) {
     return (
       <section className="pt-deferred-md" data-pt-deferred-err="1">
-        <p className="pt-muted">{errMsg}</p>
+        <p className="pt-muted">Missing section src.</p>
       </section>
     )
   }
 
+  const content = loadDeferredMarkdown(src)
   if (content.length === 0) {
-    return ssrPlaceholder()
+    return (
+      <section className="pt-deferred-md" data-pt-deferred-err="1">
+        <p className="pt-muted">Could not load section.</p>
+      </section>
+    )
   }
 
   return (
