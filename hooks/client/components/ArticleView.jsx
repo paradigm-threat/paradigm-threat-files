@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLive, isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { neighborPaths as hostNeighborPaths } from '@relay/catalog'
 import { normalizeRel, resolveRel, parentDir } from '@relay/path'
@@ -337,15 +337,11 @@ export default function ArticleView(props) {
                       h6: headingOverrides.h6,
                     }}
                   />
-                  {/* Sibling (not inside MD AST) so soft-hydrate mismatches cannot leave a stuck SSR placeholder. */}
-                  {pathPart === 'page.md' ? (
-                    <DeferredMarkdown src="page-sections/investigations.md" />
-                  ) : null}
                   {/* Keep hydrate-only theme classes in the SSR used-class set. */}
                   <span
                     aria-hidden="true"
                     hidden={true}
-                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty pt-deferred-md float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
+                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
                     data-pt-md-css="true"
                   />
                 </div>
@@ -360,6 +356,13 @@ export default function ArticleView(props) {
                   />
                 </div>
               )}
+              {/* Outside .pt-md so soft-hydrate MD mismatches cannot orphan this node. Remount on phase 3. */}
+              {pathPart === 'page.md' ? (
+                <DeferredMarkdown
+                  key={isClientLivePhase(3) === true ? 'pt-deferred-live' : 'pt-deferred-ssr'}
+                  src="page-sections/investigations.md"
+                />
+              ) : null}
               {live && (prevHref.length > 0 || nextHref.length > 0) ? (
                 <nav className="pt-article-neighbors" aria-label="Adjacent articles">
                   {prevHref.length > 0 ? (
