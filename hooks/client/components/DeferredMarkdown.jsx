@@ -44,13 +44,8 @@ export default function DeferredMarkdown(props) {
   if (src.length === 0) src = 'page-sections/investigations.md'
 
   const phase3 = isClientLivePhase(3) === true
-  let bodyLen = -1
 
   if (phase3 !== true) {
-    try {
-      const g = globalThis
-      g.__ptDmDebug = { src: src, phase3: false, bodyLen: -1 }
-    } catch (e) {}
     if (isCsrHost()) {
       return null
     }
@@ -59,6 +54,7 @@ export default function DeferredMarkdown(props) {
         className="pt-deferred-md"
         aria-label="Deferred section"
         data-pt-deferred-ssr="1"
+        data-pt-dm-dbg="ssr"
         style={{ minHeight: '12rem' }}
       >
         <p className="pt-muted">Loading section…</p>
@@ -67,17 +63,13 @@ export default function DeferredMarkdown(props) {
   }
 
   const body = loadFragment(src)
-  bodyLen = body.length
-  try {
-    const g = globalThis
-    g.__ptDmDebug = { src: src, phase3: true, bodyLen: bodyLen }
-  } catch (e) {}
   if (body.length === 0) {
     return (
       <section
         className="pt-deferred-md"
         aria-label="Deferred section"
         data-pt-deferred-pending="1"
+        data-pt-dm-dbg="pending"
         style={{ minHeight: '12rem' }}
       >
         <p className="pt-muted">Loading section…</p>
@@ -86,7 +78,12 @@ export default function DeferredMarkdown(props) {
   }
 
   return (
-    <section className="pt-deferred-md" data-pt-deferred="1" aria-label="Deferred section">
+    <section
+      className="pt-deferred-md"
+      data-pt-deferred="1"
+      data-pt-dm-dbg="live"
+      aria-label="Deferred section"
+    >
       <MarkdownRenderer content={body} />
     </section>
   )
