@@ -52,6 +52,36 @@ export function prefetchDeferredMarkdown(src) {
   return loadFragment(s)
 }
 
+/**
+ * Single network path for the home deferred island.
+ * Prefer warm cache, then one sync tip GET when tipBase is set (avoids empty
+ * cachedGet + second fetch). Fall back to cachedGet when tipBase is empty.
+ */
+export function loadDeferredFragment(src, tipBase) {
+  let s = src
+  if (!s || typeof s !== 'string' || s.length === 0) {
+    s = 'page-sections/investigations.md'
+  }
+  if (deferredWarm !== null && typeof deferredWarm[s] === 'string' && deferredWarm[s].length > 0) {
+    return deferredWarm[s]
+  }
+  if (typeof tipBase === 'string' && tipBase.length > 0) {
+    try {
+      const resp = fetch(tipBase + '/' + s + '?v=' + MD_CACHE_BUST, {
+        method: 'GET',
+      })
+      if (resp && resp.ok === true) {
+        const text = resp.text ? resp.text : ''
+        if (typeof text === 'string' && text.length > 0) {
+          return seedDeferredMarkdown(s, text)
+        }
+      }
+    } catch (e) {}
+    return ''
+  }
+  return loadFragment(s)
+}
+
 export function homeInvestigationsSrc() {
   return 'page-sections/investigations.md'
 }

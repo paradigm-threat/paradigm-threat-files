@@ -18,10 +18,8 @@ import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
-import DeferredMarkdown from 'hooks/client/components/DeferredMarkdown.jsx'
-import {
-  prefetchDeferredMarkdown,
-  seedDeferredMarkdown,
+import DeferredMarkdown, {
+  loadDeferredFragment,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -339,28 +337,9 @@ export default function ArticleView(props) {
           }
           let frag = ''
           try {
-            cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-          } catch (eGet) {}
-          try {
-            frag = prefetchDeferredMarkdown(src)
-          } catch (ePrefetch) {
+            frag = loadDeferredFragment(src, clientBase())
+          } catch (eFrag) {
             frag = ''
-          }
-          if (!(typeof frag === 'string' && frag.length > 0) && isClientLive() === true) {
-            try {
-              const baseStr = clientBase()
-              if (baseStr.length > 0) {
-                const resp = fetch(baseStr + '/' + src + '?v=' + MD_CACHE_BUST, {
-                  method: 'GET',
-                })
-                if (resp && resp.ok === true) {
-                  const text = resp.text ? resp.text : ''
-                  if (typeof text === 'string' && text.length > 0) {
-                    frag = seedDeferredMarkdown(src, text)
-                  }
-                }
-              }
-            } catch (eFetch) {}
           }
           if (typeof frag === 'string' && frag.length > 0) {
             deferredIsland = (
@@ -423,7 +402,7 @@ export default function ArticleView(props) {
   const articleOverrides = {
     AutoIndex: renderAutoIndex,
     ChangeLog: renderChangeLog,
-    DeferredMarkdown: renderDeferredMarkdown,
+    DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
     ChatRoom: EmptyMdStub,
     EmbedFile: renderEmbedFile,
     PopImage: renderPopImage,
