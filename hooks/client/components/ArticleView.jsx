@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLive, isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { neighborPaths as hostNeighborPaths } from '@relay/catalog'
 import { normalizeRel, resolveRel, parentDir } from '@relay/path'
@@ -18,7 +18,9 @@ import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
-import DeferredMarkdown from 'hooks/client/components/DeferredMarkdown.jsx'
+import DeferredMarkdown, {
+  prefetchDeferredMarkdown,
+} from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
@@ -294,6 +296,29 @@ export default function ArticleView(props) {
   }
 
   const showArticleBody = !deferHugeSsr && (errMsg.length > 0 || body.length > 0)
+
+  // Prefetch DeferredMarkdown tips OUTSIDE MarkdownRenderer overrides.
+  // cachedGet inside the override aborts the call (no section in vnode → swap skip).
+  if (showArticleBody && isClientLivePhase(3) !== true) {
+    // wait for phase 3
+  } else if (showArticleBody) {
+    try {
+      const marker = '<DeferredMarkdown'
+      const at = body.indexOf(marker)
+      if (at >= 0) {
+        let src = 'page-sections/investigations.md'
+        const slice = body.slice(at, at + 120)
+        const srcKey = 'src="'
+        const s0 = slice.indexOf(srcKey)
+        if (s0 >= 0) {
+          const s1 = s0 + srcKey.length
+          const s2 = slice.indexOf('"', s1)
+          if (s2 > s1) src = slice.slice(s1, s2)
+        }
+        prefetchDeferredMarkdown(src)
+      }
+    } catch (ePrefetch) {}
+  }
 
   return (
     <SiteChrome currentPath={currentPath}>
