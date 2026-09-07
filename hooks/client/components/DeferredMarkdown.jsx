@@ -1,6 +1,7 @@
 /**
  * Lazy markdown fragment — IntersectionObserver + idle/rAF gate (CleverScript-safe).
  * Used on the home page so investigation lists do not block first paint.
+ * Avoid `function` keyword expressions (transpiler: Unexpected token Keyword(Function)).
  */
 import React, { useState, useEffect, useRef } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
@@ -87,7 +88,7 @@ export default function DeferredMarkdown(props) {
     if (live !== true) return
     if (src.length === 0) return
 
-    function doLoad() {
+    const doLoad = () => {
       if (startedRef.current === true) return
       startedRef.current = true
       try {
@@ -103,7 +104,7 @@ export default function DeferredMarkdown(props) {
       }
     }
 
-    function alreadyNearViewport(el) {
+    const alreadyNearViewport = (el) => {
       try {
         if (!el || !el.getBoundingClientRect) return false
         const rect = el.getBoundingClientRect()
@@ -113,7 +114,6 @@ export default function DeferredMarkdown(props) {
             vh = window.innerHeight
           }
         } catch (e2) {}
-        // Match rootMargin '200px' — near or in viewport.
         if (rect.top < vh + 200 && rect.bottom > -200) return true
       } catch (e3) {}
       return false
@@ -123,6 +123,7 @@ export default function DeferredMarkdown(props) {
     let obs = null
     let idleId = 0
     let rafId = 0
+    let timeoutId = 0
 
     if (typeof IntersectionObserver === 'undefined') {
       doLoad()
@@ -130,7 +131,7 @@ export default function DeferredMarkdown(props) {
     }
 
     obs = new IntersectionObserver(
-      function (entries) {
+      (entries) => {
         for (let i = 0; i < entries.length; i++) {
           const entry = entries[i]
           if (entry && entry.isIntersecting === true) {
@@ -144,7 +145,7 @@ export default function DeferredMarkdown(props) {
     )
     if (el) obs.observe(el)
 
-    function tryIdleOrNear() {
+    const tryIdleOrNear = () => {
       if (startedRef.current === true) return
       if (alreadyNearViewport(el)) {
         doLoad()
@@ -152,22 +153,22 @@ export default function DeferredMarkdown(props) {
       }
     }
 
-    rafId = requestAnimationFrame(function () {
+    rafId = requestAnimationFrame(() => {
       tryIdleOrNear()
       try {
         if (typeof requestIdleCallback === 'function') {
-          idleId = requestIdleCallback(function () {
+          idleId = requestIdleCallback(() => {
             tryIdleOrNear()
           }, { timeout: 1500 })
         } else {
-          setTimeout(tryIdleOrNear, 200)
+          timeoutId = setTimeout(tryIdleOrNear, 200)
         }
       } catch (e4) {
-        setTimeout(tryIdleOrNear, 200)
+        timeoutId = setTimeout(tryIdleOrNear, 200)
       }
     })
 
-    return function () {
+    return () => {
       if (obs) obs.disconnect()
       try {
         if (rafId) cancelAnimationFrame(rafId)
@@ -177,6 +178,9 @@ export default function DeferredMarkdown(props) {
           cancelIdleCallback(idleId)
         }
       } catch (e6) {}
+      try {
+        if (timeoutId) clearTimeout(timeoutId)
+      } catch (e7) {}
     }
   }, [live, src])
 
