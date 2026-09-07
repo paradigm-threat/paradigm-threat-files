@@ -1,9 +1,9 @@
 /**
- * Lazy markdown fragment — IntersectionObserver + idle/rAF gate (CleverScript-safe).
- * Used on the home page so investigation lists do not block first paint.
- * Avoid `function` keyword expressions (transpiler: Unexpected token Keyword(Function)).
+ * Lazy markdown fragment for home page heavy lists.
+ * Loads after client phase >= 3 on idle (no IntersectionObserver / window —
+ * CleverScript SSR rejects those patterns).
  */
-import React, { useState, useEffect, useRef } from 'react'
+import React, { useState, useEffect } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
@@ -12,12 +12,10 @@ import PopImage from 'hooks/client/components/PopImage.jsx'
 
 const MD_CACHE_BUST = 'ptmd6'
 
-/** Stub for markdown tags not needed inside deferred fragments. */
 function EmptyMdStub() {
   return <span className="pt-md-stub" aria-hidden="true" />
 }
 
-/** Module-level override — stable identity across re-renders. */
 function renderPopImage(p) {
   let src = ''
   let alt = ''
@@ -79,20 +77,26 @@ export default function DeferredMarkdown(props) {
   const errState = useState('')
   const errMsg = errState[0]
   const setErrMsg = errState[1]
-  const rootRef = useRef(null)
-  const startedRef = useRef(false)
+  const startedState = useState(false)
+  const started = startedState[0]
+  const setStarted = startedState[1]
 
   const live = isClientLivePhase(3) === true
 
   useEffect(() => {
     if (live !== true) return
     if (src.length === 0) return
+    if (started === true) return
 
-    const doLoad = () => {
-      if (startedRef.current === true) return
-      startedRef.current = true
+    let cancelled = false
+    let timer = 0
+
+    const run = () => {
+      if (cancelled) return
+      setStarted(true)
       try {
         const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
+        if (cancelled) return
         if (typeof text === 'string' && text.length > 0) {
           setContent(rewriteMarkdownAssetUrls(text, src))
           setErrMsg('')
@@ -100,89 +104,45 @@ export default function DeferredMarkdown(props) {
           setErrMsg('Could not load section.')
         }
       } catch (e) {
-        setErrMsg('Could not load section.')
+        if (!cancelled) setErrMsg('Could not load section.')
       }
     }
 
-    const alreadyNearViewport = (el) => {
+    // Defer past ChangeLog phase-3 burst; two rAFs + short timeout.
+    try {
+      let g = null
       try {
-        if (!el || !el.getBoundingClientRect) return false
-        const rect = el.getBoundingClientRect()
-        let vh = 800
-        try {
-          if (typeof window !== 'undefined' && window.innerHeight) {
-            vh = window.innerHeight
-          }
-        } catch (e2) {}
-        if (rect.top < vh + 200 && rect.bottom > -200) return true
-      } catch (e3) {}
-      return false
-    }
-
-    const el = rootRef.current
-    let obs = null
-    let idleId = 0
-    let rafId = 0
-    let timeoutId = 0
-
-    if (typeof IntersectionObserver === 'undefined') {
-      doLoad()
-      return
-    }
-
-    obs = new IntersectionObserver(
-      (entries) => {
-        for (let i = 0; i < entries.length; i++) {
-          const entry = entries[i]
-          if (entry && entry.isIntersecting === true) {
-            doLoad()
-            if (obs) obs.disconnect()
-            break
-          }
-        }
-      },
-      { rootMargin: '200px' },
-    )
-    if (el) obs.observe(el)
-
-    const tryIdleOrNear = () => {
-      if (startedRef.current === true) return
-      if (alreadyNearViewport(el)) {
-        doLoad()
-        if (obs) obs.disconnect()
+        if (typeof globalThis !== 'undefined') g = globalThis
+      } catch (e0) {}
+      if (g && g.requestAnimationFrame) {
+        g.requestAnimationFrame(() => {
+          g.requestAnimationFrame(() => {
+            try {
+              if (g.setTimeout) timer = g.setTimeout(run, 50)
+              else run()
+            } catch (e1) {
+              run()
+            }
+          })
+        })
+      } else if (g && g.setTimeout) {
+        timer = g.setTimeout(run, 100)
+      } else {
+        run()
       }
+    } catch (e2) {
+      run()
     }
-
-    rafId = requestAnimationFrame(() => {
-      tryIdleOrNear()
-      try {
-        if (typeof requestIdleCallback === 'function') {
-          idleId = requestIdleCallback(() => {
-            tryIdleOrNear()
-          }, { timeout: 1500 })
-        } else {
-          timeoutId = setTimeout(tryIdleOrNear, 200)
-        }
-      } catch (e4) {
-        timeoutId = setTimeout(tryIdleOrNear, 200)
-      }
-    })
 
     return () => {
-      if (obs) obs.disconnect()
+      cancelled = true
       try {
-        if (rafId) cancelAnimationFrame(rafId)
-      } catch (e5) {}
-      try {
-        if (idleId && typeof cancelIdleCallback === 'function') {
-          cancelIdleCallback(idleId)
-        }
-      } catch (e6) {}
-      try {
-        if (timeoutId) clearTimeout(timeoutId)
-      } catch (e7) {}
+        let g2 = null
+        if (typeof globalThis !== 'undefined') g2 = globalThis
+        if (timer && g2 && g2.clearTimeout) g2.clearTimeout(timer)
+      } catch (e3) {}
     }
-  }, [live, src])
+  }, [live, src, started])
 
   if (live !== true) {
     return ssrPlaceholder()
@@ -197,17 +157,7 @@ export default function DeferredMarkdown(props) {
   }
 
   if (content.length === 0) {
-    return (
-      <section
-        ref={rootRef}
-        className="pt-deferred-md"
-        data-pt-deferred-ssr="1"
-        style={{ minHeight: '24rem' }}
-        aria-busy="true"
-      >
-        <p className="pt-muted">Loading section…</p>
-      </section>
-    )
+    return ssrPlaceholder()
   }
 
   return (
