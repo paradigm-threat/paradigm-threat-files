@@ -18,7 +18,10 @@ import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
-import DeferredMarkdown from 'hooks/client/components/DeferredMarkdown.jsx'
+import DeferredMarkdown, {
+  homeInvestigationsSrc,
+  loadDeferredMarkdown,
+} from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
@@ -218,7 +221,18 @@ export default function ArticleView(props) {
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
-  const body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
+  let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
+  // Slim SSR home; append heavy lists only after phase 3 (same pass as ChangeLog).
+  if (
+    errMsg.length === 0 &&
+    pathPart === 'page.md' &&
+    isClientLivePhase(3) === true
+  ) {
+    const extra = loadDeferredMarkdown(homeInvestigationsSrc())
+    if (typeof extra === 'string' && extra.length > 0) {
+      body = body + '\n\n' + extra
+    }
+  }
   const headingExtract = extractMarkdownHeadings(body)
   let tocItems = []
   let idQueue = []
@@ -356,19 +370,6 @@ export default function ArticleView(props) {
                   />
                 </div>
               )}
-              {/* Outside .pt-md. Parent phase gate + distinct component vs placeholder. */}
-              {pathPart === 'page.md' && isClientLivePhase(3) === true ? (
-                <DeferredMarkdown src="page-sections/investigations.md" />
-              ) : pathPart === 'page.md' ? (
-                <section
-                  className="pt-deferred-md"
-                  data-pt-deferred-ssr="1"
-                  style={{ minHeight: '24rem' }}
-                  aria-busy="true"
-                >
-                  <p className="pt-muted">Loading section…</p>
-                </section>
-              ) : null}
               {live && (prevHref.length > 0 || nextHref.length > 0) ? (
                 <nav className="pt-article-neighbors" aria-label="Adjacent articles">
                   {prevHref.length > 0 ? (

@@ -1,56 +1,22 @@
 /**
- * Home-page investigation fragment. Parent mounts only at phase >= 3.
- * Sync tip cachedGet (ChangeLog-style); no phase gate here.
+ * Home-page investigation fragment loader.
+ * ArticleView appends this markdown into the home body at phase >= 3 (SSR stays slim).
  */
 import React from 'react'
-import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
-import PopImage from 'hooks/client/components/PopImage.jsx'
 
 const MD_CACHE_BUST = 'ptmd7'
+const HOME_SECTION_SRC = 'page-sections/investigations.md'
 
 /** One parse per tip session per src. */
 let deferredWarm = null
 
-function EmptyMdStub() {
-  return <span className="pt-md-stub" aria-hidden="true" />
+export function homeInvestigationsSrc() {
+  return HOME_SECTION_SRC
 }
 
-function renderPopImage(p) {
-  let src = ''
-  let alt = ''
-  let className = ''
-  let highResSrc = ''
-  let children = null
-  try {
-    if (p && typeof p.src === 'string') src = p.src
-  } catch (e) {}
-  try {
-    if (p && typeof p.alt === 'string') alt = p.alt
-  } catch (e) {}
-  try {
-    if (p && typeof p.className === 'string') className = p.className
-  } catch (e) {}
-  try {
-    if (p && typeof p.highResSrc === 'string') highResSrc = p.highResSrc
-  } catch (e) {}
-  try {
-    if (p && p.children !== null) children = p.children
-  } catch (e) {}
-  return (
-    <PopImage
-      src={src}
-      alt={alt}
-      className={className}
-      highResSrc={highResSrc}
-    >
-      {children}
-    </PopImage>
-  )
-}
-
-function loadDeferredMarkdown(src) {
+export function loadDeferredMarkdown(src) {
   if (deferredWarm === null) deferredWarm = {}
   if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
   try {
@@ -65,42 +31,7 @@ function loadDeferredMarkdown(src) {
   return ''
 }
 
-/**
- * @param {{ src: string }} props — path relative to repo root
- */
-export default function DeferredMarkdown(props) {
-  let src = ''
-  try {
-    if (props && typeof props.src === 'string') src = props.src
-  } catch (e) {}
-
-  if (src.length === 0) {
-    return (
-      <section className="pt-deferred-md" data-pt-deferred-err="1">
-        <p className="pt-muted">Missing section src.</p>
-      </section>
-    )
-  }
-
-  const content = loadDeferredMarkdown(src)
-  if (content.length === 0) {
-    return (
-      <section className="pt-deferred-md" data-pt-deferred-err="1">
-        <p className="pt-muted">Could not load section.</p>
-      </section>
-    )
-  }
-
-  return (
-    <section className="pt-deferred-md" data-pt-deferred="1">
-      <MarkdownRenderer
-        content={content}
-        overrides={{
-          img: renderPopImage,
-          PopImage: renderPopImage,
-          ChatRoom: EmptyMdStub,
-        }}
-      />
-    </section>
-  )
+/** Optional MD tag stub — home uses ArticleView body append instead. */
+export default function DeferredMarkdown() {
+  return <span className="pt-md-stub" aria-hidden="true" data-pt-deferred-stub="1" />
 }
