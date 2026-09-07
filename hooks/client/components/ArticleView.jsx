@@ -297,81 +297,124 @@ export default function ArticleView(props) {
 
   const showArticleBody = !deferHugeSsr && (errMsg.length > 0 || body.length > 0)
 
-  // Prefetch + eager-render DeferredMarkdown OUTSIDE the page MarkdownRenderer
-  // walk. Nested <MarkdownRenderer> (or cachedGet) inside the override aborts
-  // the vnode → soft-hydrate never swaps section.pt-deferred-md.
+  // At phase ≥3, lift DeferredMarkdown out of the page MD walk: nested
+  // MarkdownRenderer (or cachedGet) inside the override aborts the vnode so
+  // soft-hydrate never swaps the SSR island. Split the tip and render the
+  // fragment as a sibling MarkdownRenderer instead.
+  let mdBefore = body
+  let mdAfter = ''
   let deferredIsland = null
+  let useDeferredSplit = false
   if (showArticleBody && isClientLivePhase(3) === true) {
     try {
       const marker = '<DeferredMarkdown'
       const at = body.indexOf(marker)
       if (at >= 0) {
-        let src = 'page-sections/investigations.md'
-        const slice = body.slice(at, at + 120)
-        const srcKey = 'src="'
-        const s0 = slice.indexOf(srcKey)
-        if (s0 >= 0) {
-          const s1 = s0 + srcKey.length
-          const s2 = slice.indexOf('"', s1)
-          if (s2 > s1) src = slice.slice(s1, s2)
+        const selfClose = body.indexOf('/>', at)
+        const tagEnd = body.indexOf('>', at)
+        let end = -1
+        let endLen = 1
+        if (selfClose >= 0 && (tagEnd < 0 || selfClose <= tagEnd)) {
+          end = selfClose
+          endLen = 2
+        } else if (tagEnd >= 0) {
+          end = tagEnd
+          endLen = 1
         }
-        let frag = ''
-        try {
-          cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-        } catch (eGet) {}
-        try {
-          frag = prefetchDeferredMarkdown(src)
-        } catch (ePrefetch) {
-          frag = ''
-        }
-        if (typeof frag === 'string' && frag.length > 0) {
-          let inner = null
-          try {
-            if (typeof MarkdownRenderer === 'function') {
-              inner = MarkdownRenderer({
-                content: frag,
-                navigate: (to) => {
-                  navigateFile(to)
-                },
-                anchorOnClick: (href) => {
-                  onMdLinkClick(href)
-                },
-              })
-            }
-          } catch (eInner) {
-            inner = null
+        if (end >= 0) {
+          useDeferredSplit = true
+          mdBefore = body.slice(0, at)
+          mdAfter = body.slice(end + endLen)
+          let src = 'page-sections/investigations.md'
+          const slice = body.slice(at, end + endLen)
+          const srcKey = 'src="'
+          const s0 = slice.indexOf(srcKey)
+          if (s0 >= 0) {
+            const s1 = s0 + srcKey.length
+            const s2 = slice.indexOf('"', s1)
+            if (s2 > s1) src = slice.slice(s1, s2)
           }
-          if (inner != null) {
+          let frag = ''
+          try {
+            cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
+          } catch (eGet) {}
+          try {
+            frag = prefetchDeferredMarkdown(src)
+          } catch (ePrefetch) {
+            frag = ''
+          }
+          if (typeof frag === 'string' && frag.length > 0) {
             deferredIsland = (
               <section
                 className="pt-deferred-md"
                 data-pt-deferred="1"
                 aria-label="Deferred section"
               >
-                {inner}
+                <MarkdownRenderer
+                  content={frag}
+                  navigate={(to) => {
+                    navigateFile(to)
+                  }}
+                  anchorOnClick={(href) => {
+                    onMdLinkClick(href)
+                  }}
+                  overrides={{
+                    AutoIndex: renderAutoIndex,
+                    ChangeLog: renderChangeLog,
+                    ChatRoom: EmptyMdStub,
+                    EmbedFile: renderEmbedFile,
+                    PopImage: renderPopImage,
+                    img: renderPopImage,
+                    h1: headingOverrides.h1,
+                    h2: headingOverrides.h2,
+                    h3: headingOverrides.h3,
+                    h4: headingOverrides.h4,
+                    h5: headingOverrides.h5,
+                    h6: headingOverrides.h6,
+                  }}
+                />
+              </section>
+            )
+          } else {
+            deferredIsland = (
+              <section
+                className="pt-deferred-md"
+                aria-label="Deferred section"
+                data-pt-deferred-pending="1"
+                style={{ minHeight: '12rem' }}
+              >
+                <p className="pt-muted">Loading section…</p>
               </section>
             )
           }
         }
-        if (deferredIsland == null) {
-          deferredIsland = (
-            <section
-              className="pt-deferred-md"
-              aria-label="Deferred section"
-              data-pt-deferred-pending="1"
-              style={{ minHeight: '12rem' }}
-            >
-              <p className="pt-muted">Loading section…</p>
-            </section>
-          )
-        }
       }
-    } catch (eBuild) {}
+    } catch (eSplit) {
+      useDeferredSplit = false
+      deferredIsland = null
+      mdBefore = body
+      mdAfter = ''
+    }
   }
 
   const renderDeferredMarkdown = (p) => {
-    if (deferredIsland != null) return deferredIsland
     return <DeferredMarkdown src={deferredSrcFromProps(p)} />
+  }
+
+  const articleOverrides = {
+    AutoIndex: renderAutoIndex,
+    ChangeLog: renderChangeLog,
+    DeferredMarkdown: renderDeferredMarkdown,
+    ChatRoom: EmptyMdStub,
+    EmbedFile: renderEmbedFile,
+    PopImage: renderPopImage,
+    img: renderPopImage,
+    h1: headingOverrides.h1,
+    h2: headingOverrides.h2,
+    h3: headingOverrides.h3,
+    h4: headingOverrides.h4,
+    h5: headingOverrides.h5,
+    h6: headingOverrides.h6,
   }
 
   return (
@@ -392,30 +435,44 @@ export default function ArticleView(props) {
             >
               {showArticleBody ? (
                 <div className="pt-md" data-pt-article="1">
-                  <MarkdownRenderer
-                    content={body}
-                    navigate={(to) => {
-                      navigateFile(to)
-                    }}
-                    anchorOnClick={(href) => {
-                      onMdLinkClick(href)
-                    }}
-                    overrides={{
-                      AutoIndex: renderAutoIndex,
-                      ChangeLog: renderChangeLog,
-                      DeferredMarkdown: renderDeferredMarkdown,
-                      ChatRoom: EmptyMdStub,
-                      EmbedFile: renderEmbedFile,
-                      PopImage: renderPopImage,
-                      img: renderPopImage,
-                      h1: headingOverrides.h1,
-                      h2: headingOverrides.h2,
-                      h3: headingOverrides.h3,
-                      h4: headingOverrides.h4,
-                      h5: headingOverrides.h5,
-                      h6: headingOverrides.h6,
-                    }}
-                  />
+                  {useDeferredSplit ? (
+                    <div className="pt-deferred-split">
+                      <MarkdownRenderer
+                        content={mdBefore}
+                        navigate={(to) => {
+                          navigateFile(to)
+                        }}
+                        anchorOnClick={(href) => {
+                          onMdLinkClick(href)
+                        }}
+                        overrides={articleOverrides}
+                      />
+                      {deferredIsland}
+                      {mdAfter.length > 0 ? (
+                        <MarkdownRenderer
+                          content={mdAfter}
+                          navigate={(to) => {
+                            navigateFile(to)
+                          }}
+                          anchorOnClick={(href) => {
+                            onMdLinkClick(href)
+                          }}
+                          overrides={articleOverrides}
+                        />
+                      ) : null}
+                    </div>
+                  ) : (
+                    <MarkdownRenderer
+                      content={body}
+                      navigate={(to) => {
+                        navigateFile(to)
+                      }}
+                      anchorOnClick={(href) => {
+                        onMdLinkClick(href)
+                      }}
+                      overrides={articleOverrides}
+                    />
+                  )}
                   {/* Keep hydrate-only theme classes in the SSR used-class set. */}
                   <span
                     aria-hidden="true"
