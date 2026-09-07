@@ -68,7 +68,7 @@ export default function DeferredMarkdown(props) {
         className="pt-deferred-md"
         aria-label="Deferred section"
         data-pt-deferred-pending="1"
-        style={{ minHeight: '120rem' }}
+        style={{ minHeight: '24rem' }}
       >
         <p className="pt-muted">Loading section…</p>
       </section>
@@ -82,7 +82,7 @@ export default function DeferredMarkdown(props) {
       className="pt-deferred-md"
       aria-label="Deferred section"
       data-pt-deferred-ssr="1"
-      style={{ minHeight: '120rem' }}
+      style={{ minHeight: '24rem' }}
     >
       <p className="pt-muted">Loading section…</p>
     </section>

@@ -204,9 +204,9 @@ export default function Nav(props) {
                   src={WORDMARK_URL}
                   alt="Paradigm Threat"
                   className="pt-brand-img md:pt-brand-img-md"
-                  width={200}
-                  height={40}
-                  style={{ width: 'auto', height: 'auto', maxWidth: '100%', aspectRatio: '5 / 1' }}
+                  width={1146}
+                  height={163}
+                  style={{ width: '200px', maxWidth: '100%', height: 'auto', aspectRatio: '1146 / 163' }}
                 />
               </picture>
               <span className="pt-brand-fallback">Paradigm Threat</span>
