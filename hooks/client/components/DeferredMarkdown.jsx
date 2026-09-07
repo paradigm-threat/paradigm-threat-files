@@ -1,22 +1,19 @@
 /**
- * Home-page investigation fragment loader.
- * ArticleView appends this markdown into the home body at phase >= 3 (SSR stays slim).
+ * Deferred markdown fragment — loads after client phase 3 (ChangeLog timing).
+ * Keeps SSR home slim; fragment fetched via cachedGet like article tips.
  */
 import React from 'react'
+import { isClientLivePhase } from '@clevertree/style-internal'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
+import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 
 const MD_CACHE_BUST = 'ptmd7'
-const HOME_SECTION_SRC = 'page-sections/investigations.md'
 
-/** One parse per tip session per src. */
 let deferredWarm = null
 
-export function homeInvestigationsSrc() {
-  return HOME_SECTION_SRC
-}
-
-export function loadDeferredMarkdown(src) {
+function loadFragment(src) {
   if (deferredWarm === null) deferredWarm = {}
   if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
   try {
@@ -27,11 +24,58 @@ export function loadDeferredMarkdown(src) {
       return body
     }
   } catch (e) {}
-  deferredWarm[src] = ''
+  // Do NOT cache empty — tip fetch may still be in flight on first tick.
   return ''
 }
 
-/** Optional MD tag stub — home uses ArticleView body append instead. */
-export default function DeferredMarkdown() {
-  return <span className="pt-md-stub" aria-hidden="true" data-pt-deferred-stub="1" />
+export function homeInvestigationsSrc() {
+  return 'page-sections/investigations.md'
+}
+
+export function loadDeferredMarkdown(src) {
+  return loadFragment(src)
+}
+
+export default function DeferredMarkdown(props) {
+  let src = ''
+  try {
+    if (props && typeof props.src === 'string') src = props.src
+  } catch (e) {}
+  if (src.length === 0) src = 'page-sections/investigations.md'
+
+  if (isClientLivePhase(3) !== true) {
+    if (isCsrHost()) {
+      return null
+    }
+    return (
+      <section
+        className="pt-deferred-md"
+        aria-label="Deferred section"
+        data-pt-deferred-ssr="1"
+        style={{ minHeight: '12rem' }}
+      >
+        <p className="pt-muted">Loading section…</p>
+      </section>
+    )
+  }
+
+  const body = loadFragment(src)
+  if (body.length === 0) {
+    return (
+      <section
+        className="pt-deferred-md"
+        aria-label="Deferred section"
+        data-pt-deferred-pending="1"
+        style={{ minHeight: '12rem' }}
+      >
+        <p className="pt-muted">Loading section…</p>
+      </section>
+    )
+  }
+
+  return (
+    <section className="pt-deferred-md" data-pt-deferred="1" aria-label="Investigations">
+      <MarkdownRenderer content={body} />
+    </section>
+  )
 }

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { isClientLive, isClientLivePhase } from '@clevertree/style-internal'
+import { isClientLive } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { neighborPaths as hostNeighborPaths } from '@relay/catalog'
 import { normalizeRel, resolveRel, parentDir } from '@relay/path'
@@ -20,7 +20,6 @@ import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import DeferredMarkdown, {
   homeInvestigationsSrc,
-  loadDeferredMarkdown,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -222,17 +221,6 @@ export default function ArticleView(props) {
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
   let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
-  // Slim SSR home; append heavy lists only after phase 3 (same pass as ChangeLog).
-  if (
-    errMsg.length === 0 &&
-    pathPart === 'page.md' &&
-    isClientLivePhase(3) === true
-  ) {
-    const extra = loadDeferredMarkdown(homeInvestigationsSrc())
-    if (typeof extra === 'string' && extra.length > 0) {
-      body = body + '\n\n' + extra
-    }
-  }
   const headingExtract = extractMarkdownHeadings(body)
   let tocItems = []
   let idQueue = []
@@ -326,39 +314,44 @@ export default function ArticleView(props) {
               }}
             >
               {showArticleBody ? (
-                <div className="pt-md" data-pt-article="1">
-                  <MarkdownRenderer
-                    content={body}
-                    navigate={(to) => {
-                      navigateFile(to)
-                    }}
-                    anchorOnClick={(href) => {
-                      onMdLinkClick(href)
-                    }}
-                    overrides={{
-                      AutoIndex: renderAutoIndex,
-                      ChangeLog: renderChangeLog,
-                      DeferredMarkdown: renderDeferredMarkdown,
-                      ChatRoom: EmptyMdStub,
-                      EmbedFile: renderEmbedFile,
-                      PopImage: renderPopImage,
-                      img: renderPopImage,
-                      h1: headingOverrides.h1,
-                      h2: headingOverrides.h2,
-                      h3: headingOverrides.h3,
-                      h4: headingOverrides.h4,
-                      h5: headingOverrides.h5,
-                      h6: headingOverrides.h6,
-                    }}
-                  />
-                  {/* Keep hydrate-only theme classes in the SSR used-class set. */}
-                  <span
-                    aria-hidden="true"
-                    hidden={true}
-                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
-                    data-pt-md-css="true"
-                  />
-                </div>
+                <>
+                  <div className="pt-md" data-pt-article="1">
+                    <MarkdownRenderer
+                      content={body}
+                      navigate={(to) => {
+                        navigateFile(to)
+                      }}
+                      anchorOnClick={(href) => {
+                        onMdLinkClick(href)
+                      }}
+                      overrides={{
+                        AutoIndex: renderAutoIndex,
+                        ChangeLog: renderChangeLog,
+                        DeferredMarkdown: renderDeferredMarkdown,
+                        ChatRoom: EmptyMdStub,
+                        EmbedFile: renderEmbedFile,
+                        PopImage: renderPopImage,
+                        img: renderPopImage,
+                        h1: headingOverrides.h1,
+                        h2: headingOverrides.h2,
+                        h3: headingOverrides.h3,
+                        h4: headingOverrides.h4,
+                        h5: headingOverrides.h5,
+                        h6: headingOverrides.h6,
+                      }}
+                    />
+                    {/* Keep hydrate-only theme classes in the SSR used-class set. */}
+                    <span
+                      aria-hidden="true"
+                      hidden={true}
+                      className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
+                      data-pt-md-css="true"
+                    />
+                  </div>
+                  {pathPart === 'page.md' ? (
+                    <DeferredMarkdown src={homeInvestigationsSrc()} />
+                  ) : null}
+                </>
               ) : (
                 <div className="pt-md" data-pt-article-ssr="1">
                   <p className="pt-muted">Article loads after page open…</p>
