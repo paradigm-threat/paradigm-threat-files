@@ -10,6 +10,7 @@ import { isClientLive, isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
+import manifest from '@hooks'
 
 const MD_CACHE_BUST = 'ptmd8'
 
@@ -17,9 +18,13 @@ let deferredWarm = null
 
 function clientBase() {
   try {
-    if (typeof window === 'undefined') return ''
-    const b = window.relayClientBaseUrl
-    if (typeof b === 'string') return b
+    if (typeof manifest.relayClientBaseUrl === 'string') {
+      let b = manifest.relayClientBaseUrl
+      while (b.length > 0 && b.charAt(b.length - 1) === '/') {
+        b = b.slice(0, b.length - 1)
+      }
+      return b
+    }
   } catch (e) {}
   return ''
 }
@@ -41,7 +46,8 @@ function loadFragment(src) {
   if (isClientLive() === true) {
     try {
       const baseStr = clientBase()
-      const url = (baseStr.length > 0 ? baseStr : '') + rel
+      if (baseStr.length === 0) return ''
+      const url = baseStr + rel
       const resp = fetch(url, { method: 'GET' })
       if (resp && resp.ok === true) {
         const text = resp.text ? resp.text : ''
