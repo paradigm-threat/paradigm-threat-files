@@ -3,7 +3,7 @@
  * Loads after client phase >= 3 on idle (no IntersectionObserver / window —
  * CleverScript SSR rejects those patterns).
  */
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { cachedGet } from '@relay/ui'
@@ -77,23 +77,22 @@ export default function DeferredMarkdown(props) {
   const errState = useState('')
   const errMsg = errState[0]
   const setErrMsg = errState[1]
-  const startedState = useState(false)
-  const started = startedState[0]
-  const setStarted = startedState[1]
+  const startedRef = useRef(false)
 
   const live = isClientLivePhase(3) === true
 
   useEffect(() => {
     if (live !== true) return
     if (src.length === 0) return
-    if (started === true) return
+    if (startedRef.current === true) return
 
     let cancelled = false
     let timer = 0
 
     const run = () => {
       if (cancelled) return
-      setStarted(true)
+      if (startedRef.current === true) return
+      startedRef.current = true
       try {
         const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
         if (cancelled) return
@@ -108,7 +107,6 @@ export default function DeferredMarkdown(props) {
       }
     }
 
-    // Defer past ChangeLog phase-3 burst; two rAFs + short timeout.
     try {
       let g = null
       try {
@@ -142,7 +140,7 @@ export default function DeferredMarkdown(props) {
         if (timer && g2 && g2.clearTimeout) g2.clearTimeout(timer)
       } catch (e3) {}
     }
-  }, [live, src, started])
+  }, [live, src])
 
   if (live !== true) {
     return ssrPlaceholder()
