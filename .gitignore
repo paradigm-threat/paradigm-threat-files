@@ -61,6 +61,10 @@ __pycache__/
 # GitLab rejects >100MiB blobs; these stay on disk / IPFS. Published assets that
 # pages already reference remain tracked (fat-repo rule — docs/MEDIA_AND_IPFS.md).
 **/VID_*.mp4
+**/*.mp4
+**/*.webm
+**/*.mov
+**/*.m4v
 **/VID_*.mov
 **/*.mkv
 **/*-instagram.mp4
