@@ -1,9 +1,9 @@
 /**
  * Deferred markdown fragment — SSR/pending shell only.
  *
- * Live content is built in ArticleView as a sibling MarkdownRenderer split at
- * phase ≥3. Nested MD / cachedGet inside the page MD override aborts the vnode
- * so soft-hydrate never swaps the SSR island.
+ * Live content is built in ArticleView BEFORE the page MarkdownRenderer walk:
+ * nested <MarkdownRenderer> (or cachedGet) inside this override aborts the
+ * vnode, so soft-hydrate never swaps the SSR island.
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
@@ -26,6 +26,7 @@ function loadFragment(src) {
       return body
     }
   } catch (e) {}
+  // Do NOT cache empty — tip fetch may still be in flight on first tick.
   return ''
 }
 
