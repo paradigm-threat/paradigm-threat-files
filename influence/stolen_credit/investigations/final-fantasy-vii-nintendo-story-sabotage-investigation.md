@@ -1,6 +1,6 @@
 # *Final Fantasy VII* — platform rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, and story sabotage (**AU-055**, open)
 
-> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
+> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5) — **confirmed in JP PS1 + EN PC dumps** (§5.5a). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
 
 **Status:** Open — false-memory mandate cluster (FF7 × Mother 3); corroborate / falsify ordered-agenda layer.
 
@@ -17,6 +17,7 @@
 5. Midgar spine → §4  
 6. Sephiroth vs Jenova → §5  
 6a. **Version A leftover dialogue inventory (incomplete scrub)** → §5.5  
+6a2. **EN PC + JP PS1 dump verification (same seam)** → §5.5a  
 6b. **Ending collapse vs *FFVI* (unfinished / uninspired)** → §5.6  
 7. Zack / false-memory mechanism → §6  
 7a. **OG insert vs franchise Zack; delusion not required for control** → §6.4  
@@ -355,6 +356,31 @@ Lines below treat the chase actor as **physically Sephiroth** and/or **Jenova as
 
 **Minimal fix if A were intended canon:** Keep A1–A20; rewrite B1–B4 (and soft B5 credit); leave crystal FMV as “Sephiroth waiting after the hike.” That matches §5.3’s small surface.
 
+### 5.5a Dump verification — EN PC + JP PS1 (2026-09-07)
+
+**Sources (mod repo, tracked text):** [7h-ff7-plot-rewrite](https://gitlab.com/clevertree1/7h-ff7-plot-rewrite) `work/touph-dump/` (Steam Edition EN via touphScript; **713** `.txt`) and `work/jp-untrans/` (JP PS1 **SLPS_007.00** Disc 1 via cebix `untrans`; **1376** `.txt`). EN ≠ 1997 PS1 English; JP **is** 1997 published Japanese used dialogue.
+
+**Verdict:** The Version A / Version B seam is **not an English-localization artifact**. The same ontology split ships in **original Japanese**.
+
+| Seam beat | EN dump (field id) | JP dump (same id) | Tier |
+|-----------|--------------------|-------------------|------|
+| Cloud summary: **Sephiroth carrying Jenova** / mother → Promised Land | `shpin_3.txt` — “He was carrying Jenova with him.” / “Sephiroth took Jenova…” | `field/shpin_3.txt` — 「ジェノバを持ち歩いている」/ 「セフィロスがジェノバを持ちだした」 | **A — both languages** |
+| Midgar: **Sephiroth is alive** (Masamune grammar) | `whitebg3.txt` / `blin70_*.txt` etc. | `roadend.txt` 「セフィロスは生きている」; `blin70_*.txt` same sense | **A — both** |
+| Rufus: Sephiroth **on board** cargo ship | `del1.txt` / `del12.txt` — “I heard Sephiroth was on board.” | `del12.txt` — 「セフィロスが乗っていたらしいな」 | **A — both** |
+| Whirlwind party: **wasn’t Sephiroth we’ve been after** | `trnad_1.txt` (Tifa / Red / Yuffie / Vincent lines) | `field/trnad_1.txt` — 「セフィロスじゃなかったの?」 etc. | **B — both** |
+| Cloud: **real Sephiroth is just beyond** | `trnad_1.txt` | 「本当のセフィロスは / この奥にいるんだ」 | **B — both** |
+| “End of this **body’s usefulness**” | `trnad_4.txt` | `trnad_4.txt` — 「この身体の役目はな」 | **B — both** |
+| Hojo: **real Sephiroth died five years ago**; **Jenova itself began to move** | `trnad_52.txt` | `trnad_52.txt` — 「セフィロスが死んだ直後」; 「ジェノバも移動を始めた」 | **B — both** |
+| Sephiroth: looks/voice = **power of Jenova**; built from **Tifa’s memories** | `nivl_b2.txt` / `nivl_b22.txt` | `nivl_b22.txt` — 「ジェノバの能力」; 「{TIFA}の記憶にあわせて」 | **B — both** |
+
+**Zack thinness (dump counts):** EN name “Zack” across many **map variants** of the same scenes (~37 files; stems mostly Gongaga / optional Nibelheim / truck flashback). JP 「ザックス」 in only **5** files (`gomin`, `gongaga`, `nvmkin22`, `fship_3`, `trackin2`) — same **missable / non-Avalanche** footprint. Supports §1.3 / §6.4: delusion stack is late scaffolding, not Midgar spine.
+
+**Implication for Ultimania “misunderstanding”:** The cargo “carrying Jenova” grammar is **Japanese shipping text**, not a bad Eidos paraphrase. Calling it a misunderstanding **without rewriting** `shpin_3` (JP or EN) is exactly the incomplete-scrub tell.
+
+**Mod implication:** B-pass targets (`trnad_*`, `nivl_b2*`, `trnad_52`) are the same field IDs in both dumps; A-pass **keeps** `shpin_3` / Midgar-alive / Rufus-on-board.
+
+---
+
 ### 5.6 Ending collapse — *FFVI* class vs VII’s “just ends” (author + stress test)
 
 **Author stake (§1.2):** VII’s finale (find Sephiroth in the Lifestream / Safer∙Sephiroth stack → Holy vs Meteor FMV → short epilogue) is a **shadow** of *Final Fantasy VI*’s long, triumphant, character-dense ending. Cause class: **unfinished** at Nintendo rip → **ordered changes** under Sony → **no inspiration** left for a Square-class close. The limp ending is itself a **clue**.
@@ -629,7 +655,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | 1 | *FFVII* had an **agreed simpler** hero/villain revenge spine before Nintendo exit | Pieces of early-draft journalism exist; **agreement + simplicity package** author | Author |
 | 2 | Midgar act = **most Nintendo-planned** portion | Technique + era adjacency; **not** credit-documented | Author |
 | 3 | Shinra stab / Jenova-as-Sephiroth is a **few-beat ontology bomb** that ruins grounded plot | Ambiguity **documented**; “ruin/sabotage” author | Partial |
-| 3a | Mid-game **Version A** dialogue (Sephiroth alive / **carrying Jenova**) was **left unscrubbed** when Version B locked; Ultimania calls carrying a “misunderstanding” without fixing boxes | Script inventory + Ultimania caption **documented**; “mistake vs intentional mystery” + sabotage motive **author** | Partial |
+| 3a | Mid-game **Version A** dialogue (Sephiroth alive / **carrying Jenova**) was **left unscrubbed** when Version B locked; Ultimania calls carrying a “misunderstanding” without fixing boxes; **same seam in JP PS1 + EN PC dumps** (§5.5a) | Script inventory + Ultimania + **touphScript / untrans dumps** **documented**; “mistake vs intentional mystery” + sabotage motive **author** | Partial |
 | 4 | Crystal-North Sephiroth + cell puppets were **unnecessary** vs alive Sephiroth using alien genes for revenge | Coherence preference; reinforced by §5.5 A-table | Author |
 | 5 | **Zack should not exist**; Cloud-as-witness suffices — Zack only serves the **false-memory mandate** | Late insert **documented**; “should not” / mandate-as-order author | Partial |
 | 5a | Franchise Zack (major protagonist) **≠** 1997 insert; OG Zack is **late, minimal, missable**, **disconnected from Avalanche**; **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** | Late insert **documented**; missable/Avalanche-disconnect + control-without-delusion = **author** structural read (§1.3 / §6.4) | Partial |
@@ -673,6 +699,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 - [x] Japanese/English book-rumor sweep — **no war novel cite**; Xenogears/*Childhood’s End*/*Parasite Eve* conflation paths logged (§8.3)  
 - [x] 1997 walkthrough phenomenology vs Ultimania Jenova-mimic (§5.0a)  
 - [x] **Version A leftover dialogue inventory** — Yinza/letao deep dive; Ultimania “misunderstanding” caption (§5.5) — 2026-09-06  
+- [x] **EN + JP full-text dump cross-check** — Steam touphScript + PS1 `untrans` Disc 1: A/B seam confirmed bilingual (§5.5a) — 2026-09-07  
 - [x] Author **ending collapse vs *FFVI*** addendum (§1.2 / §5.6) — 2026-09-06  
 - [x] Leftover-music audit table on [Uematsu](/influence/stolen_credit/nobuo-uematsu.md) (homage vs unused-VII-pool)  
 - [x] Author false-memory / Mother 3 / suicide-agenda addendum (§1.1, §8.2, §8.4) — Kristóf→Mother 3 **documented**  
@@ -701,7 +728,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight #SelfDelusion #VersionB #FinalFantasyXII #Vaan #Ashe #NasirGebelli #NSAAligned
 
-*Last updated: 2026-09-06* (*XII*/MMO carve-outs on §1.5 cascade; Ashe stone / NSA-aligned outlier; music vault; Zack delusion)
+*Last updated: 2026-09-07* (EN+JP dump verify §5.5a; *XII*/MMO carve-outs §1.5; music vault; Zack delusion)
 
 ---
 
@@ -719,7 +746,8 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 
 ## Investigator notes
 
-- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4); **post–Version B cascade** (§1.5) scoped: **MMOs out**; **every non-MMO except *XII***; Vaan outlier; Ashe smashes Occuria stone; possible NSA-aligned; Gebelli→Ito→Tactics→*XII* battle-tradition end. Kitase V Jump: ending reworked last-second, “different from the past.”  
+- Session: 2026-09-06 — created dossier; soft-correct + rumor hunt; false-memory / Mother 3 addendum; Version A leftover dialogue (§5.5); **ending collapse vs *FFVI*** (§1.2 / §5.6); **Zack delusion removable cleanly** (§1.3 / §6.4); **VII music vault reuse** (§1.4); **post–Version B cascade** (§1.5) scoped: **MMOs out**; **every non-MMO except *XII***.  
+- Session: 2026-09-07 — **§5.5a** bilingual dump verify from mod repo `work/touph-dump` + `work/jp-untrans`: cargo carrying Jenova + Whirlwind/Hojo B-bombs match JP↔EN; Zack thin in JP (5 files).  
 - Kristóf: **documented Mother 3 inspiration** (Starmen.net Itoi); trilogy **child sexual violence / pedophilia / grooming CW** floor → [AU-056 §8.1](mother-3-earthbound-64-magypsy-rupture-investigation.md); keep **off** FF7 source column.  
 - Magipsy = author spelling; canon **Magypsy**.  
 - AU-056 Mother 3 dossier shipped same day.  
