@@ -348,6 +348,7 @@ export default function ArticleView(props) {
               <section
                 className="pt-deferred-md"
                 data-pt-deferred="1"
+                data-pt-frag-len={String(frag.length)}
                 aria-label="Deferred section"
               >
                 <MarkdownRenderer
@@ -381,6 +382,7 @@ export default function ArticleView(props) {
                 className="pt-deferred-md"
                 aria-label="Deferred section"
                 data-pt-deferred-pending="1"
+                data-pt-frag-len="0"
                 style={{ minHeight: '12rem' }}
               >
                 <p className="pt-muted">Loading section…</p>
