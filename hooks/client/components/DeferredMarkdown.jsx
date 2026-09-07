@@ -10,7 +10,7 @@ import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 
-const MD_CACHE_BUST = 'ptmd6'
+const MD_CACHE_BUST = 'ptmd7'
 
 /** One parse per tip session per src (shared across re-renders). */
 let deferredWarm = null

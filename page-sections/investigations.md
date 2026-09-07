@@ -473,3 +473,25 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 ## Additional Media
 
 - [REORGANIZATION_MAP.md](REORGANIZATION_MAP.md)
+
+## Contact
+
+* [Join our Chat Server](/chat)
+* [Instagram](https://www.instagram.com/ParadigmThreat/)
+* [Minds Network](https://www.minds.com/protricity/)
+* [Facebook](https://www.facebook.com/threatparadigm)
+* [Twitter](https://twitter.com/pthreat_co)
+* [Gab](https://gab.com/protricity)
+
+## Thanks
+
+Thanks to my old investigation team on the Discord server. We had a lotta good years of research before it got canned.
+Make sure to check out our new server, where the investigation continues, and they can never ban us.
+
+## General Chatroom
+
+<ChatRoom channel="general" mode="full"/>
+
+---
+
+Keywords: #Welcome #Paradigm #Threat #AntisemitismDisclaimer #IHRA #StudyCopies
