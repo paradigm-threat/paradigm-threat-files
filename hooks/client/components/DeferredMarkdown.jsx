@@ -17,7 +17,7 @@ import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 const MD_CACHE_BUST = 'ptmd9'
 
 /** Measured home fragment paint height (lab); keep in sync when lists grow a lot. */
-const HOME_INVESTIGATIONS_MIN_PX = 20000
+const HOME_INVESTIGATIONS_MIN_PX = 20500
 
 /** bytes / px from lab (73199 / 19806 ≈ 3.7) for list-heavy markdown. */
 const BYTES_PER_PX = 3.7
