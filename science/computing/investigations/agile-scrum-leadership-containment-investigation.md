@@ -1,9 +1,11 @@
 # Investigation: Agile / Scrum versus Leadership — Process as Containment
 
-> **TL;DR:** Modern **Agile** (2001 Manifesto) and **Scrum** (1995 → 2020 Guide) are a **software-office** revolution that **redefines leadership as facilitation** and **makes command illegitimate inside the team**. **Documented:** Japanese rugby-scrum source ([Takeuchi & Nonaka 1986](https://hbr.org/1986/01/the-new-new-product-development-game)) **kept captains** — top management sets the wall, **hand-picks** the team, runs **subtle control**, and will **add a conservative member** if the room goes radical; Toyota **shusa** / Honda **LPL** still **own the product**. American Scrum **dropped** that and wrote **“no hierarchies.”** That flatten was **designed** by named theorists and a **17-person** Snowbird caucus — **not** an organic discovery. **Author (AU-057k–q):** flatten = **Marxist / New Left anti-boss** politics; **PO cannot close technical fights**; **Nintendo** is the living organic Kyoto shop — IP was **ripped** and **flattened** elsewhere; Kyoto **kept** in-house traditions even when **sidelined**. **Michael Crichton, *Disclosure* (1994)** is an **early fiction encoding** of the same fight — accusation vs product captain, informal power without title, **doing the job** as the only exit — **one year before** OOPSLA Scrum; **does not** name Agile. **AU-057q:** communism is **rear force**; Crichton named **associated** threats without the **C-word** (McCarthyism taboo). **Official reply** is in **§7**.
+![Agile / Scrum versus Leadership — investigation cover](agile-scrum-leadership-containment-investigation.png)
+
+> **TL;DR:** Modern **Agile** (2001 Manifesto) and **Scrum** (1995 → 2020 Guide) are a **software-office** revolution that **redefines leadership as facilitation** and **makes command illegitimate inside the team**. **Documented:** Japanese rugby-scrum source ([Takeuchi & Nonaka 1986](https://hbr.org/1986/01/the-new-new-product-development-game)) **kept captains** — top management sets the wall, **hand-picks** the team, runs **subtle control**, and will **add a conservative member** if the room goes radical; Toyota **shusa** / Honda **LPL** still **own the product**. American Scrum **dropped** that and wrote **“no hierarchies.”** That flatten was **designed** by named theorists and a **17-person** Snowbird caucus — **not** an organic discovery. **Author (AU-057k–r):** flatten = **Marxist / New Left anti-boss** politics; **PO cannot close technical fights**; **Nintendo** is the living organic Kyoto shop — IP was **ripped** and **flattened** elsewhere; Kyoto **kept** in-house traditions even when **sidelined**. **Michael Crichton, *Disclosure* (1994)** is an **early fiction encoding** of the same fight — accusation vs product captain, informal power without title, **doing the job** as the only exit — **one year before** OOPSLA Scrum; **does not** name Agile. **AU-057q:** communism is **rear force**; Crichton named **associated** threats without the **C-word** (McCarthyism taboo). **AU-057r:** whole package is a **NSA vs CIA/MI6 ideology** lane (captain/agency vs process/untitled power). **Official reply** is in **§7**.
 
 **Status:** Open — opened **2026-09-12** (US Eastern).  
-**Last updated:** 2026-09-12 (*Disclosure* + communism rear-force / C-word taboo — §1.6 / §9.6 / AU-057q)
+**Last updated:** 2026-09-12 (NSA/CIA ideology join — §1.7 / §9.7 / AU-057r)
 
 **Guide (read order)**
 
@@ -13,16 +15,17 @@
 4. **§1.4 Nintendo: organic Kyoto model kept; IP-ripped flatten** → §1.4 / §5.7  
 5. **§1.5 *Disclosure* (1994): accusation vs captain; only leadership exits** → §1.5 / §5.8  
 6. **§1.6 Crichton named front threats; communism is rear (C-word taboo)** → §1.6 / §9.6  
-7. **Terms** → §2  
-8. **Timeline** → §3  
-9. **What “proved” it / who adopted it** → §4  
-10. **The contradiction (mechanism)** → §5  
-11. **Japanese original vs American flatten + Nintendo + *Disclosure*** → §5.4–§5.8  
-12. **Political force hunt (Marx / New Left / self-management) + rear vs front** → §9.5–§9.6  
-13. **Agile / Scrum response** → §7  
-14. **Validation scoreboard** → §8  
-15. **MS / Apple / Google + suppression** → §10–§11  
-16. **Author open claims (AU-057)** → §12  
+7. **§1.7 NSA / CIA ideology split (office + fiction lane)** → §1.7 / §9.7  
+8. **Terms** → §2  
+9. **Timeline** → §3  
+10. **What “proved” it / who adopted it** → §4  
+11. **The contradiction (mechanism)** → §5  
+12. **Japanese original vs American flatten + Nintendo + *Disclosure*** → §5.4–§5.8  
+13. **Political force + rear/front + NSA/CIA camps** → §9.5–§9.7  
+14. **Agile / Scrum response** → §7  
+15. **Validation scoreboard** → §8  
+16. **MS / Apple / Google + suppression** → §10–§11  
+17. **Author open claims (AU-057)** → §12  
 
 ---
 
@@ -127,6 +130,23 @@
 
 ---
 
+### 1.7 Author extension — Agile / *Disclosure* sit inside the global NSA / CIA ideology split
+
+**Label:** Author thesis — same-day extension **2026-09-12**. Completes **§1.5–§1.6**: the leadership-vs-collectivist fight is **not** a software-office side quest. It is a **lane** of the larger **NSA-aligned vs CIA/MI6-aligned** intel/ideology war already cataloged in Hollywood.
+
+> it's obviously part of the larger global nsa/cia intel/ideology split. add that to the investigation. we dot need an updated prompt
+
+**What the author means (unpack):**
+
+| # | Pattern stake | Plain English |
+|---|---------------|---------------|
+| **AF** | **Two camps, same war** | The Agile flatten, *Disclosure*’s accusation-vs-captain machine, and the communism-as-**rear** force (**§9.6**) are **office / fiction encodings** of the same global split: **NSA-aligned** agency-and-captain grammar vs **CIA/globalist** process-misdirection / captain-deletion grammar. |
+| **AG** | **NSA-aligned lane (this file)** | Keep a **named product captain**; **audit** sabotage; **do the job**; punish compartmentalized theater; prefer **agency** over “the plan.” *Disclosure*’s exit (gather the team, present the cause) and Japan’s **shusa** rhyme live here. |
+| **AH** | **CIA/globalist lane (this file)** | Make **command illegitimate**; sell **liberation / protection / no hierarchies**; move power through **untitled** counsel, optics, and accusation; ship **enclosure** while the front looks moral. American Scrum, PO-without-tech, MeToo-era career kills, and garden labor OS live here. |
+| **AI** | **Same calendar as the media war** | *Disclosure* **1994** sits next to *Stargate* (CIA/globalist contrast, same year) and just before *ID4* (NSA unity, 1996) and *Congo* (Crichton → NSA overall, 1995). The software process religion (**1995 Scrum → 2001 Snowbird**) grows in the **same decade** as the Hollywood camp catalog. |
+
+---
+
 ## 2. Terms (define before argument)
 
 **Classic leadership (author working definition).** A person who (a) **owns** the outcome, (b) can **tell people what to do** when time is short, and (c) can **persuade a stuck group** to move **without** needing a winning vote. Includes the **boss** and the **informal captain**. This is **not** “abuse” or “micromanagement”; those are **failure modes** of leadership, not the thing itself.
@@ -191,6 +211,8 @@ Twelve principles ([agilemanifesto.org/principles](https://agilemanifesto.org/pr
 ***Disclosure* (1994).** Michael Crichton novel (film the same year, Levinson / Attanasio; Douglas / Moore). **DigiCom** (Seattle; Cupertino HQ in the novel) + **Conley-White** merger. **Tom Sanders** — manufacturing / advanced-products captain for the **Twinkle** CD-ROM drive (Malaysia plant). **Meredith Johnson** — former lover, promoted into the job he expected; harasses him; **falsely accuses** him. **Bob Garvin** — founder/president. **Phil Blackburn** — general counsel. **Stephanie Kaplan** — gets the VP after the dust. **Does not** name Agile, Scrum, or a real firm’s software method. **§5.8.**
 
 **Classic authoritarianism (author / Crichton-frame in this file).** Not “the book praises dictators.” The author’s name for **accountable command** in an era that treats **any** authority-over-others as a **flaw to mitigate**. The novel’s moral weapon against Tom is exactly that charge: he **abused position**. The facts reverse it.
+
+**NSA / CIA ideology split (author taxonomy in this file).** Not a claim that Snowbird or DigiCom received agency direction. The repo’s [Hollywood two-camp war](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) labels **NSA-aligned** vs **CIA/MI6-aligned** *grammar*. **Here:** NSA-aligned = **captain + audit + agency**; CIA/globalist = **captain deletion + process/optics + untitled power**. *Disclosure* and Agile are **lanes** of that war inside tech labor and corporate fiction. **§1.7 / §9.7.**
 
 **Informal power without title.** Counsel, sexual-political climbers, unnamed “Friend” emails, silent successors — people who **run** the company **without** owning the product. Freeman’s hidden elite inside a **tech** plot. **§5.8 / AA.**
 
@@ -542,6 +564,7 @@ Crichton wrote a **harassment thriller**. DigiCom is **fiction**. Sony/Philips l
 | **Q. Nintendo = organic Japanese shop; ripped IP was flattened; Kyoto kept traditions unused on the big table** | **Author package; specimens Documented** | CD rupture, Square platform switch, Rare Microsoft sale, Mother noun-omit = **Documented**. “Nobody copied the **model**” = **author** (they copied **faces**). In-house tradition **survived** = **author** + **EAD existence**. “Not allowed anything important” = **author** join to vassal/vacuum files. |
 | **R. *Disclosure* (1994) is an early contributor; only leadership exits; untitled collectivist power at the top** | **Author on Agile/Marx join; plot Supported; tape-admissibility Unverified** | Accusation-breaks-cycle, victim/sabotage reverse, **doing the job** closes the meeting, Sony/Philips + 1987 lawyer seed, informal power (counsel / Kaplan / “Friend”) = **Documented** as fiction. **“Contributor to this debate”** and **Marx vs authoritarianism** = **author frame**. Perfect cellphone-on-tape luck = **in the novel** (cellular phone left open → Levin answering machine); court-inadmissible = **author inference** until page-cited. Crichton **did not** name Scrum. **§5.8.** |
 | **S. Communism is rear force; Crichton named associated threats without the C-word (McCarthyism taboo)** | **Author package; stigma/bait-switch Supported; Crichton silence Documented** | **§9.6 / AU-057q.** He **did not** say communism — **expected** under author’s taboo, not a falsifier. Public themes map to collectivist/anti-captain history; fronts (harassment theater, Japan panic) need not be Party-aligned. **Not** a 1994 legal ban on the word. |
+| **T. Agile / *Disclosure* = NSA vs CIA ideology lane** | **Author camp join; calendar Documented** | **§9.7 / AU-057r.** *Disclosure* = NSA-aligned captain antibody; American Scrum = CIA/globalist labor OS seed. Same decade as Hollywood camp catalog. Not a signed intel memo. |
 
 **Bottom line for the author:** the **contradiction is real** and **in the primary texts**. The **Japan/America split is documented**, not vibe: they **kept** leaders and **changed the job**; the US **wrote the flatten**. The **official reply** is mostly **redefinition** plus “we *are* Honda.” The **monopoly tank** is **documented**. **Marxist force** is the right **political family** (anti-captain collectivism) if you do **not** flatten it into “Lenin designed Jira.” The **intent-to-contain-civilization** step stays **author**.
 
@@ -620,6 +643,35 @@ Zappos and holacracy shops **replicated** the experiment with **better branding*
 
 ---
 
+### 9.7 NSA / CIA ideology split — office labor as a camp lane
+
+**Author lock (AF–AI).** AU-057 is **not** only “bad HR in software.” It is the **workforce firmware** of the same interagency/ideology war the Hollywood catalog already tracks.
+
+| Camp (author label) | Ideology / labor grammar in this dossier | Specimens |
+|---------------------|------------------------------------------|-----------|
+| **NSA-aligned** | Named **captain**; **audit** the sabotage; **agency** over fixed dystopia; **do the job** ends the theater; Japan **shusa** / Honda **LPL** / *Disclosure* exit. | *Disclosure* (1994) lesson; Takeuchi/Nonaka **subtle control**; Nintendo organic shop (**AU-057o**). Hollywood rhyme: [*T2* / *ID4* / *Congo* NSA lanes](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md). |
+| **CIA/MI6–globalist** | **No hierarchies**; **servant** without command; **accusation / protection** as weapons; **untitled** counsel and climbers; **fake liberation, real enclosure**. | American Scrum Guide; Snowbird “organizational anarchists”; PO-without-tech; MeToo-era career kill rhyme (**AU-053**); MS/Apple/Google gardens as tank. Hollywood rhyme: process-misdirection / captain-hostile payloads (e.g. *Stargate* 1994 contrast lane). |
+
+**Calendar rhyme (Documented dates; Author join):**
+
+| Year | Event | Camp read (author) |
+|------|--------|-------------------|
+| **1992** | Crichton, *Rising Sun* | Public Japan-competition scoreboard — quality/cost fight enters mass culture. |
+| **1994** | *Disclosure* novel + film; *Stargate* film | *Disclosure* = **NSA-aligned corporate antibody** (captain vs untitled process). *Stargate* = **CIA/globalist** contrast (same year, different grammar) — [Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4). |
+| **1995** | OOPSLA Scrum; *Congo* film | Scrum = **CIA/globalist labor OS** seed (captain deletion written). *Congo* = Crichton property, **NSA overall** in the media catalog. |
+| **1996** | *Independence Day* | **NSA** unity/declass flagship — same decade’s antibody window. |
+| **2001** | Snowbird Manifesto | Brand-locks the flatten as **maturity**. |
+| **2011+** | Occupy → Holacracy → Dark Scrum debates | Political and office **leaderless** field tests. |
+| **2017+** | Accusation-as-weapon mass culture | Front-facing moral theater; rear force still **collectivist captain deletion** (**§9.6**). |
+
+**Discipline:** Camp labels are **author interpretive** (same rule as the Hollywood dossier). **No** claim Crichton, Sutherland, or DigiCom were agency assets. **Effect and grammar**, not a signed tasking memo.
+
+**How this binds prior locks:** **AU-057m** (Marxist force) = the **political fuel** of the CIA/globalist labor lane. **AU-057q** (communism rear) = why the fuel is **rarely named**. **AU-057p** (*Disclosure*) = **NSA-aligned fiction** that saw the delete-the-captain machine early. **Agile** = how that machine was **installed** in software offices inside the enclosure tank (**§10**).
+
+---
+
+## 10. The bigger containment — Microsoft, Apple, Google
+
 ### 10.1 Proven agreements (not vibes)
 
 | Instrument | What is in the record | Why it matters here |
@@ -694,6 +746,7 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | **AU-057n** | **“The PO orders the backlog” is a category error.** POs typically **lack deep technical command**; **hard conflicts are technical**; Official §7.3 + §7.5 **hand the fight back to a hierarchy-free room**. Japan’s captain could **sign drawings**. | Author (Guide split **Documented**; “typically” = shop pattern) |
 | **AU-057o** | **Nintendo specimen:** organic Kyoto **producer/R&D** model; **flatten** happened when **IP was ripped** and remade elsewhere; Nintendo **kept** in-house traditions even when **sidelined from important work**; **nobody copied the model** — they flattened it (Mario’s face, not the shop). Same grammar as Honda→Scrum. | Author (rips **Documented** in vassal/FF7/Mother/Rare files) |
 | **AU-057p** | **Crichton *Disclosure* (1994)** is an **early contributor** to the leadership-vs-collectivist-process debate: accusation can **halt** a delicate product cycle; **truth/tape/defense are not the exit**; **only leadership** (gather the team, fix the product, present) works; sex/backdoor dealing and **untitled** power supplant captains at the top; era compared itself to **Japan** while the real drivers were informal. Crichton **did not** name Agile or a known firm’s software method. | Author join; plot/timing/**Sony–Philips** **Documented**; Marx-label and court-inadmissible-tape **Author / Unverified** |
+| **AU-057r** | Agile / *Disclosure* / anti-captain collectivism are a **labor-and-fiction lane** of the global **NSA vs CIA/MI6 ideology split**: NSA-aligned = captain + audit + do the job; CIA/globalist = no hierarchies + optics/accusation + untitled power. Same 1990s calendar as *Stargate* / *ID4* / *Congo*. **No** agency-tasking claim. | Author (**§9.7**); dates Documented; camp grammar Author |
 | **AU-057q** | Communism is a **rear establishment force**, not a **front-facing** threat; it creates or rides **fronts** that are often **not** communist-aligned (e.g. radical Islam). The **C-word** was **taboo / McCarthyism-stigma** in polite politics, so serious writers name **associated threats** without saying it. Crichton’s public *Disclosure* set (protectionism, PC, hierarchy-as-scandal, untitled power, Japan/cost theater) is **100%** that associated set — he was **not** talking about communism **directly**, and that silence is **expected**, not a falsifier. | Author package (**§9.6**); C-word stigma + fake-communism/real-corporatism **Supported** in Phoenix/Q-trance + percentage-ads; Crichton **Documented** silence on the noun |
 
 ---
@@ -752,7 +805,7 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | [THIS IS AMERICA percentage ads](/governance/usury/communism/investigations/this-is-america-percentage-ads-democratic-bait-switch-investigation.md) | Sell liberation / ship corporatism — Agile’s political twin; **AU-057q** rear/front |
 | [Yakuza remote control / Japan tech](/governance/war/investigations/yakuza-remote-control-investigation.md) | Japan as **contained** industrial model vs **exported** sticker |
 | [#MeToo corporate sponsorship choreography](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) | **AU-053** — accusation-as-weapon rhyme; *Disclosure* is **1994 fiction**, not the 2017 wave. Do **not** collapse. |
-| [Hollywood two-camp / *Congo*](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) | Other Crichton screen property in-repo; **thematic only** — not a *Disclosure* camp filing |
+| [Hollywood two-camp war](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | **AU-057r** parent taxonomy — NSA vs CIA/MI6 ideology; *Disclosure* + Agile as office/fiction lane; *Congo* = other Crichton NSA specimen |
 | [Phoenix protest timeline](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) | **C-word** as effectively forbidden; McCarthyism stigma — **AU-057q** |
 | [*The Q Trance*](/influence/controlled_opposition/the-q-trance.md) | Who gets to say *communism* out loud — surname as pre-load |
 | [Good-actor / radical Islam antibody](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) | Front-facing threat **not** communist-aligned — rear/front specimen |
@@ -762,7 +815,7 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 
 ---
 
-Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce
+Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood
 
 *Last updated: 2026-09-12*
 
@@ -785,6 +838,7 @@ Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird
 - **AU-057o / Nintendo:** IP rips and partner sales are **documented**; “nobody copied the **model**” and “not allowed anything important” are **author**. Do not erase the vassal file’s **later credit/IP-manager** layer — it **coexists** with kept R&D tradition.  
 - **AU-057p / *Disclosure*:** Fiction ≠ court fact; **book ≠ film**. Crichton **does not** name Agile/Scrum or a known firm’s software cycle. **Marx vs authoritarianism** is the **author’s** frame (authoritarianism here = **classic command treated as a moral defect**). Lucky tape = Tom’s **cellular phone** left open → **Levin answering-machine** audio (not video); film = cellphone → voicemail. Author’s “you rarely get that in real life” + **court-inadmissible** = inference unless page-cited. Japan-competition is **Sony/Philips** in-book plus ***Rising Sun*** in the corpus — **not** a Toyota/Scrum lecture. Do **not** collapse into **AU-053** MeToo.  
 - **AU-057q / communism rear force:** Author package. Crichton **Documented** not saying *communism*. “Banned word” = **McCarthyism / polite-politics taboo**, not a 1994 legal ban. Cross-links to percentage-ads, Phoenix/Q-trance, good-actor radical Islam are **thematic**. Do **not** invent a Crichton Party speech.
+- **AU-057r / NSA–CIA split:** Author taxonomy join to the Hollywood two-camp dossier. **Not** a finding of agency authorship of Scrum, Snowbird, or *Disclosure*. Camp = **grammar**, title-by-title / mechanism-by-mechanism.
 
 ---
 
@@ -800,3 +854,4 @@ Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird
 - Same-day: PO technical-gap (§1.3); Nintendo organic-shop specimen (§1.4 / §5.7 / AU-057o). Do not duplicate vassal tables — join only.  
 - Same-day: *Disclosure* (§1.5 / §5.8 / AU-057p). Primaries this pass: [michaelcrichton.com/works/disclosure](https://michaelcrichton.com/works/disclosure/) (1987 lawyer seed; Sony/Philips passage; Crichton’s “In His Own Words”); novel plot (cellular phone left open → Levin answering machine; Malaysia QC; Kaplan). On-record add: Charlie Rose 1994; *Disclosure* afterword; *Rising Sun* afterword; WIRED “Mediasaurus” 1993. Author said **cellphone on tape** (audio), not video — do not over-correct to “answering machine only.” Do not invent an admissibility monologue. Book vs film differ — file the **novel**. He **did** go public; he did **not** name Agile/Marx.
 - Same-day: §1.6 / §9.6 / AU-057q — communism as rear force; C-word taboo; Crichton named associated fronts. Cross: percentage-ads, Phoenix, Q-trance, good-actor, 1979, autism “full communism,” Holodomor OS.
+- Same-day: §1.7 / §9.7 / AU-057r — Agile/*Disclosure* as NSA vs CIA ideology lane; cross hollywood-two-camp-war. Do not invent agency tasking.
