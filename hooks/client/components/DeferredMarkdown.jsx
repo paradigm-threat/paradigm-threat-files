@@ -7,6 +7,10 @@
  *
  * min-height: reserve ~measured paint height so the scrollbar does not jump
  * when the island fills (investigations.md ≈ 73KB → ≈19800px).
+ *
+ * Long single-file articles (no tip DeferredMarkdown): ArticleView may SSR a
+ * short lead + island with {@link ARTICLE_TAIL_SRC} seeded from the tip tail
+ * (never blank the whole body). Prefetch real tip srcs at phase ≥2.
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
@@ -14,7 +18,7 @@ import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { cachedGet } from '@relay/ui'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 
-const MD_CACHE_BUST = 'ptmd10'
+const MD_CACHE_BUST = 'ptmd11'
 
 /** Measured home fragment paint height (lab); keep in sync when lists grow a lot. */
 const HOME_INVESTIGATIONS_MIN_PX = 20500
@@ -22,11 +26,29 @@ const HOME_INVESTIGATIONS_MIN_PX = 20500
 /** bytes / px from lab (73199 / 19806 ≈ 3.7) for list-heavy markdown. */
 const BYTES_PER_PX = 3.7
 
+/**
+ * Virtual fragment for huge single-file tips (seeded in-process; not a tip blob).
+ * loadDeferredFragment must not HTTP-GET this path.
+ */
+export const ARTICLE_TAIL_SRC = 'page-sections/__article_tail__.md'
+
+/** Soft cap for SSR lead when auto-splitting a huge tip without DeferredMarkdown. */
+export const HUGE_ARTICLE_LEAD_CHARS = 48000
+
 let deferredWarm = null
+
+export function isVirtualDeferredSrc(src) {
+  if (!src || typeof src !== 'string') return false
+  return src === ARTICLE_TAIL_SRC || src.indexOf('__article_tail__') >= 0
+}
 
 function loadFragment(src) {
   if (deferredWarm === null) deferredWarm = {}
   if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
+  if (isVirtualDeferredSrc(src)) {
+    // Tail is seed-only — never tip-GET a missing virtual path.
+    return ''
+  }
   try {
     const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
     if (typeof text === 'string' && text.length > 0) {
@@ -81,6 +103,109 @@ export function parseDeferredMinHeightAttr(raw) {
   return 0
 }
 
+/**
+ * First `<DeferredMarkdown …>` in tip markdown (self-closing or `>` end).
+ * @returns {{ at: number, end: number, endLen: number, src: string, attrMinPx: number } | null}
+ */
+export function parseFirstDeferredMarkdownTag(body) {
+  if (typeof body !== 'string' || body.length === 0) return null
+  const marker = '<DeferredMarkdown'
+  const at = body.indexOf(marker)
+  if (at < 0) return null
+  const selfClose = body.indexOf('/>', at)
+  const tagEnd = body.indexOf('>', at)
+  let end = -1
+  let endLen = 1
+  if (selfClose >= 0 && (tagEnd < 0 || selfClose <= tagEnd)) {
+    end = selfClose
+    endLen = 2
+  } else if (tagEnd >= 0) {
+    end = tagEnd
+    endLen = 1
+  }
+  if (end < 0) return null
+  let src = 'page-sections/investigations.md'
+  let attrMinPx = 0
+  const slice = body.slice(at, end + endLen)
+  const srcKey = 'src="'
+  const s0 = slice.indexOf(srcKey)
+  if (s0 >= 0) {
+    const s1 = s0 + srcKey.length
+    const s2 = slice.indexOf('"', s1)
+    if (s2 > s1) src = slice.slice(s1, s2)
+  }
+  const mhKey = 'minHeight="'
+  const m0 = slice.indexOf(mhKey)
+  if (m0 >= 0) {
+    const m1 = m0 + mhKey.length
+    const m2 = slice.indexOf('"', m1)
+    if (m2 > m1) {
+      attrMinPx = parseDeferredMinHeightAttr(slice.slice(m1, m2))
+    }
+  }
+  return { at, end, endLen, src, attrMinPx }
+}
+
+/**
+ * Cut huge markdown at a paragraph / heading boundary at or before maxChars.
+ * Always returns an index in [1, text.length] (never empty lead if text non-empty).
+ */
+export function cutMarkdownLead(text, maxChars) {
+  if (typeof text !== 'string' || text.length === 0) return 0
+  let max = typeof maxChars === 'number' && maxChars > 0 ? maxChars : HUGE_ARTICLE_LEAD_CHARS
+  if (text.length <= max) return text.length
+  const window = text.slice(0, max)
+  let cut = window.lastIndexOf('\n## ')
+  if (cut < max * 0.4) cut = window.lastIndexOf('\n# ')
+  if (cut < max * 0.4) cut = window.lastIndexOf('\n\n')
+  if (cut < max * 0.25) cut = window.lastIndexOf('\n')
+  // Prefer near the char cap over a tiny lead (early heading + wall of text).
+  if (cut < max * 0.25) cut = max
+  if (cut < 1) cut = max
+  return cut
+}
+
+/**
+ * If tip is huge and has no DeferredMarkdown, rewrite to lead + virtual tail island.
+ * Seeds {@link ARTICLE_TAIL_SRC} when tail is non-empty. Idempotent if already split.
+ *
+ * @returns {{ markdown: string, didSplit: boolean, tailLen: number }}
+ */
+export function maybeSplitHugeArticleMarkdown(markdown, pathPart, maxLeadChars) {
+  let md = typeof markdown === 'string' ? markdown : ''
+  if (md.length === 0) {
+    return { markdown: md, didSplit: false, tailLen: 0 }
+  }
+  if (parseFirstDeferredMarkdownTag(md) !== null) {
+    return { markdown: md, didSplit: false, tailLen: 0 }
+  }
+  const leadMax =
+    typeof maxLeadChars === 'number' && maxLeadChars > 0
+      ? maxLeadChars
+      : HUGE_ARTICLE_LEAD_CHARS
+  // Only auto-split absurd tips (same order as former MAX_SSR_MD_CHARS blanking).
+  if (md.length <= 400000) {
+    return { markdown: md, didSplit: false, tailLen: 0 }
+  }
+  const cut = cutMarkdownLead(md, leadMax)
+  if (cut <= 0 || cut >= md.length) {
+    return { markdown: md, didSplit: false, tailLen: 0 }
+  }
+  const lead = md.slice(0, cut)
+  // Caller already rewrote asset URLs on `md`; do not rewrite the tail again.
+  const tail = md.slice(cut)
+  seedDeferredMarkdown(ARTICLE_TAIL_SRC, tail)
+  const minPx = estimateDeferredMinHeightPx(ARTICLE_TAIL_SRC, tail.length, 0)
+  const out =
+    lead +
+    '\n\n<DeferredMarkdown src="' +
+    ARTICLE_TAIL_SRC +
+    '" minHeight="' +
+    minPx +
+    'px" />\n'
+  return { markdown: out, didSplit: true, tailLen: tail.length }
+}
+
 /** Seed warm cache from a string already loaded by the caller (e.g. sync fetch). */
 export function seedDeferredMarkdown(src, text) {
   let s = src
@@ -89,7 +214,9 @@ export function seedDeferredMarkdown(src, text) {
   }
   if (typeof text !== 'string' || text.length === 0) return ''
   if (deferredWarm === null) deferredWarm = {}
-  const body = rewriteMarkdownAssetUrls(text, s)
+  const body = isVirtualDeferredSrc(s)
+    ? text
+    : rewriteMarkdownAssetUrls(text, s)
   deferredWarm[s] = body
   return body
 }
@@ -99,6 +226,11 @@ export function prefetchDeferredMarkdown(src) {
   let s = src
   if (!s || typeof s !== 'string' || s.length === 0) {
     s = 'page-sections/investigations.md'
+  }
+  if (isVirtualDeferredSrc(s)) {
+    return deferredWarm !== null && typeof deferredWarm[s] === 'string'
+      ? deferredWarm[s]
+      : ''
   }
   return loadFragment(s)
 }
@@ -115,6 +247,9 @@ export function loadDeferredFragment(src, tipBase) {
   }
   if (deferredWarm !== null && typeof deferredWarm[s] === 'string' && deferredWarm[s].length > 0) {
     return deferredWarm[s]
+  }
+  if (isVirtualDeferredSrc(s)) {
+    return ''
   }
   if (typeof tipBase === 'string' && tipBase.length > 0) {
     try {
@@ -161,6 +296,7 @@ export default function DeferredMarkdown(props) {
   const minPx = estimateDeferredMinHeightPx(src, 0, attrPx)
   const st = deferredMinHeightStyle(minPx)
 
+  // Stable outer identity across phases (host swaps by aria-label / class).
   if (isClientLivePhase(3) === true) {
     return (
       <section

@@ -1,4 +1,4 @@
-![Embedding bias - first information shapes opinions](/influence/conspiracy/embedding.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
+![Embedding bias - first information shapes opinions](/influence/conspiracy/embedding.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both sm:max-w-sm"}')
 
 # Welcome to Paradigm Threat
 
@@ -12,7 +12,7 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 <ChangeLog limit={8} />
 
-![These times are dark but every shadow is threatened by morning light - Queen Isabella, The Fountain](/influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both"}')
+![These times are dark but every shadow is threatened by morning light - Queen Isabella, The Fountain](/influence/conspiracy/scientific_truth.jpg?w=360 '{"className":"sm:float-right sm:ml-8 sm:mb-4 mb-8 clear-both sm:max-w-sm"}')
 
 ## Paradigm Threat Project
 

@@ -114,6 +114,14 @@ export default function PopImage(props) {
 
   let wrapClass = 'pt-popimage'
   if (className.length > 0) wrapClass = wrapClass + ' ' + className
+  // Floated figures without an explicit max-width expand to the image's
+  // intrinsic width (capped only by parent), which reads as full-bleed.
+  if (
+    (wrapClass.indexOf('float-right') >= 0 || wrapClass.indexOf('float-left') >= 0) &&
+    wrapClass.indexOf('max-w-') < 0
+  ) {
+    wrapClass = wrapClass + ' max-w-sm'
+  }
 
   const imgEl = (
     <img

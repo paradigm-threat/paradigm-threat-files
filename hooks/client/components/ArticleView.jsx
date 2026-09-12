@@ -22,17 +22,16 @@ import DeferredMarkdown, {
   loadDeferredFragment,
   estimateDeferredMinHeightPx,
   deferredMinHeightStyle,
-  parseDeferredMinHeightAttr,
+  parseFirstDeferredMarkdownTag,
+  maybeSplitHugeArticleMarkdown,
+  prefetchDeferredMarkdown,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
 
-/** Skip SSR MarkdownRenderer for absurdly large tips (hydrate fills). */
-const MAX_SSR_MD_CHARS = 400000
-
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd10'
+const MD_CACHE_BUST = 'ptmd11'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -55,6 +54,20 @@ function deferredSrcFromProps(p) {
   } catch (e) {}
   if (src.length === 0) src = 'page-sections/investigations.md'
   return src
+}
+
+function deferredMinHeightFromProps(p) {
+  try {
+    if (p && typeof p.minHeight === 'string' && p.minHeight.length > 0) {
+      return p.minHeight
+    }
+  } catch (e) {}
+  try {
+    if (p && typeof p.minHeight === 'number' && p.minHeight > 0) {
+      return p.minHeight
+    }
+  } catch (e2) {}
+  return undefined
 }
 
 function renderPopImage(p) {
@@ -217,14 +230,10 @@ export default function ArticleView(props) {
   const loaded = loadArticleMarkdown(pathPart)
   let markdownContent = loaded.markdownContent
   let errMsg = loaded.errMsg
-  let deferHugeSsr = false
-  if (!live && !csr && !errMsg && markdownContent.length > MAX_SSR_MD_CHARS) {
-    deferHugeSsr = true
-    markdownContent = ''
-  }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
   let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
+  // TOC from full tip before any deferred split (tail headings stay in index).
   const headingExtract = extractMarkdownHeadings(body)
   let tocItems = []
   let idQueue = []
@@ -239,6 +248,27 @@ export default function ArticleView(props) {
     }
   } catch (eQ) {}
   const headingOverrides = makeHeadingOverrides(idQueue)
+
+  // Huge single-file tips (no tip DeferredMarkdown): SSR lead + virtual tail
+  // island instead of blanking the whole body (avoids soft-hydrate wipe).
+  if (!errMsg && typeof body === 'string' && body.length > 0) {
+    try {
+      const split = maybeSplitHugeArticleMarkdown(body, pathPart)
+      if (split && split.didSplit === true && typeof split.markdown === 'string') {
+        body = split.markdown
+      }
+    } catch (eHuge) {}
+  }
+
+  // Warm DeferredMarkdown tip src at phase ≥2 (before phase-3 island fill).
+  if (live && isClientLivePhase(2) === true && !errMsg) {
+    try {
+      const tag = parseFirstDeferredMarkdownTag(body)
+      if (tag && typeof tag.src === 'string' && tag.src.length > 0) {
+        prefetchDeferredMarkdown(tag.src)
+      }
+    } catch (ePref) {}
+  }
 
   // P2 catalog — neighbors only when live.
   const neighbors = live
@@ -299,7 +329,7 @@ export default function ArticleView(props) {
     )
   }
 
-  const showArticleBody = !deferHugeSsr && (errMsg.length > 0 || body.length > 0)
+  const showArticleBody = errMsg.length > 0 || body.length > 0
 
   // At phase ≥3, lift DeferredMarkdown out of the page MD walk: nested
   // MarkdownRenderer (or cachedGet) inside the override aborts the vnode so
@@ -311,97 +341,66 @@ export default function ArticleView(props) {
   let useDeferredSplit = false
   if (showArticleBody && isClientLivePhase(3) === true) {
     try {
-      const marker = '<DeferredMarkdown'
-      const at = body.indexOf(marker)
-      if (at >= 0) {
-        const selfClose = body.indexOf('/>', at)
-        const tagEnd = body.indexOf('>', at)
-        let end = -1
-        let endLen = 1
-        if (selfClose >= 0 && (tagEnd < 0 || selfClose <= tagEnd)) {
-          end = selfClose
-          endLen = 2
-        } else if (tagEnd >= 0) {
-          end = tagEnd
-          endLen = 1
+      const tag = parseFirstDeferredMarkdownTag(body)
+      if (tag !== null) {
+        useDeferredSplit = true
+        mdBefore = body.slice(0, tag.at)
+        mdAfter = body.slice(tag.end + tag.endLen)
+        const src = tag.src
+        const attrMinPx = tag.attrMinPx
+        let frag = ''
+        try {
+          frag = loadDeferredFragment(src, clientBase())
+        } catch (eFrag) {
+          frag = ''
         }
-        if (end >= 0) {
-          useDeferredSplit = true
-          mdBefore = body.slice(0, at)
-          mdAfter = body.slice(end + endLen)
-          let src = 'page-sections/investigations.md'
-          let attrMinPx = 0
-          const slice = body.slice(at, end + endLen)
-          const srcKey = 'src="'
-          const s0 = slice.indexOf(srcKey)
-          if (s0 >= 0) {
-            const s1 = s0 + srcKey.length
-            const s2 = slice.indexOf('"', s1)
-            if (s2 > s1) src = slice.slice(s1, s2)
-          }
-          const mhKey = 'minHeight="'
-          const m0 = slice.indexOf(mhKey)
-          if (m0 >= 0) {
-            const m1 = m0 + mhKey.length
-            const m2 = slice.indexOf('"', m1)
-            if (m2 > m1) {
-              attrMinPx = parseDeferredMinHeightAttr(slice.slice(m1, m2))
-            }
-          }
-          let frag = ''
-          try {
-            frag = loadDeferredFragment(src, clientBase())
-          } catch (eFrag) {
-            frag = ''
-          }
-          const fragLen =
-            typeof frag === 'string' && frag.length > 0 ? frag.length : 0
-          const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
-          const minStyle = deferredMinHeightStyle(minPx)
-          if (fragLen > 0) {
-            deferredIsland = (
-              <section
-                className="pt-deferred-md"
-                data-pt-deferred="1"
-                aria-label="Deferred section"
-                style={minStyle}
-              >
-                <MarkdownRenderer
-                  content={frag}
-                  navigate={(to) => {
-                    navigateFile(to)
-                  }}
-                  anchorOnClick={(href) => {
-                    onMdLinkClick(href)
-                  }}
-                  overrides={{
-                    AutoIndex: renderAutoIndex,
-                    ChangeLog: renderChangeLog,
-                    ChatRoom: EmptyMdStub,
-                    EmbedFile: renderEmbedFile,
-                    PopImage: renderPopImage,
-                    img: renderPopImage,
-                    h1: headingOverrides.h1,
-                    h2: headingOverrides.h2,
-                    h3: headingOverrides.h3,
-                    h4: headingOverrides.h4,
-                    h5: headingOverrides.h5,
-                    h6: headingOverrides.h6,
-                  }}
-                />
-              </section>
-            )
-          } else {
-            deferredIsland = (
-              <section
-                className="pt-deferred-md"
-                aria-label="Deferred section"
-                aria-busy="true"
-                data-pt-deferred-pending="1"
-                style={minStyle}
+        const fragLen =
+          typeof frag === 'string' && frag.length > 0 ? frag.length : 0
+        const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
+        const minStyle = deferredMinHeightStyle(minPx)
+        if (fragLen > 0) {
+          deferredIsland = (
+            <section
+              className="pt-deferred-md"
+              data-pt-deferred="1"
+              aria-label="Deferred section"
+              style={minStyle}
+            >
+              <MarkdownRenderer
+                content={frag}
+                navigate={(to) => {
+                  navigateFile(to)
+                }}
+                anchorOnClick={(href) => {
+                  onMdLinkClick(href)
+                }}
+                overrides={{
+                  AutoIndex: renderAutoIndex,
+                  ChangeLog: renderChangeLog,
+                  ChatRoom: EmptyMdStub,
+                  EmbedFile: renderEmbedFile,
+                  PopImage: renderPopImage,
+                  img: renderPopImage,
+                  h1: headingOverrides.h1,
+                  h2: headingOverrides.h2,
+                  h3: headingOverrides.h3,
+                  h4: headingOverrides.h4,
+                  h5: headingOverrides.h5,
+                  h6: headingOverrides.h6,
+                }}
               />
-            )
-          }
+            </section>
+          )
+        } else {
+          deferredIsland = (
+            <section
+              className="pt-deferred-md"
+              aria-label="Deferred section"
+              aria-busy="true"
+              data-pt-deferred-pending="1"
+              style={minStyle}
+            />
+          )
         }
       }
     } catch (eSplit) {
@@ -413,7 +412,12 @@ export default function ArticleView(props) {
   }
 
   const renderDeferredMarkdown = (p) => {
-    return <DeferredMarkdown src={deferredSrcFromProps(p)} />
+    return (
+      <DeferredMarkdown
+        src={deferredSrcFromProps(p)}
+        minHeight={deferredMinHeightFromProps(p)}
+      />
+    )
   }
 
   const articleOverrides = {
