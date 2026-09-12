@@ -24,8 +24,8 @@ export default function run(ctx, next) {
   if (wantsSiteShell(ctx)) {
     var ssr = ssrClientHookFromGetContext(ctx, { clientHookPath: "hooks/client/get.jsx" });
     if (ssr !== null) { return ssr; }
-    // SSR miss/timeout: never degrade to bare markdown HTML (strips site chrome/theme).
-    // Gateway serves the CSR embed shell when Accept prefers HTML.
+    // SSR miss: return next(). Gateway may still try static @relay/md on Accept-only
+    // (markdownHtmlRequest) — that path is repo-optional, not site chrome.
     return next();
   }
 
