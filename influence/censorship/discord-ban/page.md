@@ -1,6 +1,6 @@
 ## New Rocket Chat Server is running
 
-Please [click here](/chat) to join our chat server.
+Please [click here](https://chat.paradigmthreat.net/) to join our chat server.
 I'll be managing this open-source chat server to prevent loosing all of our research in a future internet censorship
 sweep.
 
@@ -15,7 +15,7 @@ Here was the reason given from *Discord Staff*:
 
 Don't remember promoting any sexual violence against the Deep State or anyone else, but landed in **Discord Death Row**
 anyhow. Or was it the *Gigabyte Green Mile*?
-In the meantime, <a href="/chat">click here to join the Chat Server.</a>
+In the meantime, <a href="https://chat.paradigmthreat.net/">click here to join the Chat Server.</a>
 or the <a href="https://t.me/historyisalie">Paradigm Threat Telegram channel.</a>
 
 

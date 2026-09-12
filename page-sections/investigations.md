@@ -218,7 +218,8 @@
 * [Chernobyl probiotics (Straight)](/science/health/probiotics_chernobyl/ssstwitter.com_1772378839442-investigation.md) - Transcript-led fact-check of probiotic / Chernobyl claims.
 * [Microchips](/science/microchips/microchips-shrinking-technology-investigation.md) - Shrinking tech, supply opacity, control thesis.
 * [Quantum computer - infinitely indexed storage thesis](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) - Author: storage / frequency-addressing vs mainstream gate-qubit narrative; open questions.
-* [Agile / Scrum versus Leadership — process as containment (open)](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) - Japan kept captains; America flattened; Nintendo; *Disclosure*; communism rear force; **NSA/CIA ideology lane (AU-057r)**; **AU-057**.
+* [Agile / Scrum versus Leadership — process as containment (open)](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) - Japan kept captains; America flattened; Nintendo; *Disclosure*; communism rear force; **NSA/CIA ideology lane (AU-057r)**; **China/shadow parallel (AU-057s)**; **AU-057**. Reader: [Crichton's Prophecy](/science/computing/crichtons-prophecy.md).
+* [Crichton's Prophecy](/science/computing/crichtons-prophecy.md) - Reader manifesto: *Disclosure* → only leadership works → rear force → office lane → post-USSR shadow captains; companion **AU-057**.
 * [Google - Don't Be Evil to enclosure](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) - Intent pattern, Alphabet pivot, Android developer verification; [keepandroidopen.org](https://keepandroidopen.org/) coalition.
 * [Exact-Change Wallet - Invention and Aftermath](/science/computing/exact-change-wallet-invention-and-aftermath.md) - Author invention: wallet-sized MCU, LED coin map, minimum 3Q/1D/2N/4P inventory; **section I inventor containment** (McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean); why it was never shipped.
 * [U.S. physical coin circulation - phase-out and cashless transition](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md) - Penny halt (Nov 2025), Fed coin-terminal friction, Mint seigniorage; consumer shift to digital payments; bearer-cash enclosure pattern.
@@ -416,6 +417,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 * [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) - Scalar / aether continuity, first life and womb, Bardo and afterlife phenomenology, reincarnation bands; links [DNA / scalar dossier](/science/biology/investigations/dna-fingerprint-scalar-life-investigation.md).
 * [The Cure for Cancer](/science/biology/the-cure-for-cancer.md) - Hope, celebrity silence, terrain vs incurability marketing; links [GNM / cancer paradigm cluster](/science/biology/investigations/gnm-learninggnm-cancer-paradigm-cluster-investigation.md).
 * [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) - Faith-vs-audit in consumer tech, vector and analog roads not taken, Jobs/commons read; links [infinitely indexed storage investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md).
+* [Crichton's Prophecy](/science/computing/crichtons-prophecy.md) - *Disclosure* warned that deleting the captain breaks the product; Agile flatten and post-USSR shadow governance; links [Agile / Scrum dossier](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) (**AU-057**).
 * [Captured courts, wrong villain](/influence/controlled_opposition/captured-courts-wrong-villain.md) - Federal bench capture vs **Zionist** scapegoat trap; **BRSINV** / Brantley **Blue_French_Qtr** demoralization; **1979** counter-frame.
 * [What Are You Waiting For?](/influence/controlled_opposition/what-are-you-waiting-for.md) - Deferral as calm technology; religion, disclosure, spectacle; GA / Lacatski / Artemis reads.
 * [Success - by any means necessary](/influence/controlled_opposition/success-by-any-means-necessary.md) - Ari on black-box payouts, leader responsibility, **no-ban** standard; links OCR / *Homestuck* / SDA dossiers.
@@ -477,7 +479,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ## Contact
 
-* [Join our Chat Server](/chat)
+* [Join our Chat Server](https://chat.paradigmthreat.net/)
 * [Instagram](https://www.instagram.com/ParadigmThreat/)
 * [Minds Network](https://www.minds.com/protricity/)
 * [Facebook](https://www.facebook.com/threatparadigm)

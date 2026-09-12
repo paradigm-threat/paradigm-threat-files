@@ -23,6 +23,22 @@ For **essay-style** Markdown in *paradigm-threat-files* (parent-folder pages tha
 
 From **paradigm-threat-timeline** `content/*.md`, link to investigations with root-relative paths as above; see **paradigm-threat-timeline** `docs/CONTENT_MARKDOWN_STYLE.md` and `.cursor/rules/paradigm-threat-timeline.mdc`.
 
+## Next.js archive routes (not on park)
+
+Apex **https://paradigmthreat.net** is the Relay park files catalog. These app shells still live only on the legacy Next.js archive — do **not** link them at the apex:
+
+| Route | Use |
+|-------|-----|
+| `/submit`, `/mcp`, `/api/mcp`, `/reply` | `https://old.paradigmthreat.net/…` |
+| `/search/{topic}` (keyword landing) | `https://old.paradigmthreat.net/search/{topic}` |
+| `/chat/{channel}` | `https://old.paradigmthreat.net/chat/…` |
+| `/chat` (join) | `https://chat.paradigmthreat.net/` |
+| `/timeline…` | `https://timeline.paradigmthreat.net/timeline…` |
+
+Park **`/search`** (no topic segment) stays on the files catalog. Footer Submit already points at the archive.
+
+Park markdown rendering rewrites leftover apex/root-relative hits of those routes so old dossier links still open.
+
 ## Folder hubs (`page.md` + AutoIndex)
 
 If you add **`page.md`** in a folder that also contains other files, the live site will **not** show the automatic file list for that URL. Append **`<AutoIndex sort="name-asc" />`** (and a short “Folder contents” section) at the bottom of `page.md` so nothing stays hidden. See **`docs/instructions/PAGE_MD_AUTOINDEX.md`**.

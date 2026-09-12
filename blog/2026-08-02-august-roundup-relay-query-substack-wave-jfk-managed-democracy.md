@@ -19,7 +19,7 @@ Through mid-July the site still leaned on **generated catalog JSON** (`index.jso
 
 Reader-visible effects: ChangeLog tabs that do not hang on a wedged mirror; article markdown fetch with query-bust past CDN; chat posts loaded from QUERY rows instead of per-file GETs; SSR article-first shell on Relay park; hung-push runbook when a Spot node’s post-receive stalls (push one remote with timeout; prefer hkg1/lon1; non-blocking post-receive validated on lon1/hkg1).
 
-This is the same thesis as [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been) and July’s [Research MCP](https://paradigmthreat.net/mcp): **procedures and catalogs as inspectable contracts**, not frozen snapshots. Research MCP on paradigmthreat.net remains the curated research adjudication API; Relay MCP is the **repo-native** twin for any catalog-backed mirror.
+This is the same thesis as [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been) and July’s [Research MCP](https://old.paradigmthreat.net/mcp): **procedures and catalogs as inspectable contracts**, not frozen snapshots. Research MCP on paradigmthreat.net remains the curated research adjudication API; Relay MCP is the **repo-native** twin for any catalog-backed mirror.
 
 ---
 
@@ -197,7 +197,7 @@ After July’s Research MCP ship, the site’s next leap was **not another AI fe
 
 ## Reading order
 
-1. **Relay / how the site works now:** [GIT_REMOTE_STRATEGY](https://paradigmthreat.net/docs/GIT_REMOTE_STRATEGY) → [Research MCP /mcp](https://paradigmthreat.net/mcp) → try search and ChangeLog on [paradigmthreat.net](https://paradigmthreat.net) (QUERY-backed).
+1. **Relay / how the site works now:** [GIT_REMOTE_STRATEGY](https://paradigmthreat.net/docs/GIT_REMOTE_STRATEGY) → [Research MCP /mcp](https://old.paradigmthreat.net/mcp) → try search and ChangeLog on [paradigmthreat.net](https://paradigmthreat.net) (QUERY-backed).
 2. **Democracy / slavery:** [you are a slave, Neo](https://paradigmthreat2.substack.com/p/you-are-a-slave-neo) → [Managed democracy](https://paradigmthreat2.substack.com/p/managed-democracy-puppets-and-redemption) → [HoC kompromat](https://paradigmthreat.net/governance/war/investigations/house-of-cards-kompromat-blackmail-instances-investigation) → [RINO effect](https://paradigmthreat.net/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation).
 3. **Mounds / Georgia:** [Bilbo Mound](https://paradigmthreat2.substack.com/p/bilbo-mound-and-americas-buried-past) → [burial mounds investigation](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation) → [Georgia second promised land](https://paradigmthreat2.substack.com/p/georgia-was-the-second-promised-land) → [Mudflood gatekeepers](https://paradigmthreat2.substack.com/p/mudflood-gatekeepers).
 4. **JFK package:** [JFK Was Never Assassinated](https://paradigmthreat2.substack.com/p/jfk-was-never-assassinated) → [hoax investigation](https://paradigmthreat.net/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation).

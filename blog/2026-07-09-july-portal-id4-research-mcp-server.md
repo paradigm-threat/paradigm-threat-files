@@ -2,7 +2,7 @@
 
 *July 9, 2026 — Paradigm Threat*
 
-**Summary.** Since the [July 3 roundup](https://paradigmthreat.net/blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship), three **Substack** flagships completed a **portal trilogy** in prose — [Out of This Door Might Come Something](https://paradigmthreat2.substack.com/p/out-of-this-door-might-come-something) (CERN buried ring, Mars-only gate, Dead Planet Protocol), [The Philadelphia Experiment Was Not Time Travel](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) (harbor pair, Flame/Freeze injury grammar, Wells misread as chronology fiction), and [Everything in Independence Day Is True](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) (Installment III — NSA unity lane, Area 51 reveal, locust harvest, Whitmore as real declaration). **Hollywood** dossier gained **Thread N (*T2*)**, **Thread O (*ID4*)**, **Thread P (*Stargate* contrast)**, and **Thread G** hot-war containment. **JFK hoax investigation** expanded with **§2.5–§2.7** assassination-pattern synthesis. **Ancient stargates** assets relocated to chronology hub. The infrastructure headline: **Research MCP** shipped at **`https://paradigmthreat.net/api/mcp`** — a public, read-mostly **Model Context Protocol** server so **any MCP-capable host** (Cursor, Claude Desktop, ChatGPT Apps, and other MCP clients) can search ~2,300 investigations, read markdown via Relay, match curated thesis cards, compute **blip-adjusted chronology**, and return **honest `not_in_corpus` gaps** instead of inventing positions. Setup docs live at [/mcp](https://paradigmthreat.net/mcp); front page discovery hub updated with host-restriction notes.
+**Summary.** Since the [July 3 roundup](https://paradigmthreat.net/blog/2026-07-03-july-roundup-alef-tona-ecw-mars-jfk-constitution-cern-censorship), three **Substack** flagships completed a **portal trilogy** in prose — [Out of This Door Might Come Something](https://paradigmthreat2.substack.com/p/out-of-this-door-might-come-something) (CERN buried ring, Mars-only gate, Dead Planet Protocol), [The Philadelphia Experiment Was Not Time Travel](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) (harbor pair, Flame/Freeze injury grammar, Wells misread as chronology fiction), and [Everything in Independence Day Is True](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) (Installment III — NSA unity lane, Area 51 reveal, locust harvest, Whitmore as real declaration). **Hollywood** dossier gained **Thread N (*T2*)**, **Thread O (*ID4*)**, **Thread P (*Stargate* contrast)**, and **Thread G** hot-war containment. **JFK hoax investigation** expanded with **§2.5–§2.7** assassination-pattern synthesis. **Ancient stargates** assets relocated to chronology hub. The infrastructure headline: **Research MCP** shipped at **`https://old.paradigmthreat.net/api/mcp`** — a public, read-mostly **Model Context Protocol** server so **any MCP-capable host** (Cursor, Claude Desktop, ChatGPT Apps, and other MCP clients) can search ~2,300 investigations, read markdown via Relay, match curated thesis cards, compute **blip-adjusted chronology**, and return **honest `not_in_corpus` gaps** instead of inventing positions. Setup docs live at [/mcp](https://old.paradigmthreat.net/mcp); front page discovery hub updated with host-restriction notes.
 
 The through-line is **propagation without the garden** — the same problem [Alef and the clogged internet](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet) named for human readers, now addressed for **agents**: machine-readable corpus access that does not require an open browser tab, a podcast booking, or an indexed walled-garden slot. Portal essays argue **where the doors actually are** (buried rings, harbor pairs, Area 51 hangars); MCP is the **inspectable hood** for the research stack itself.
 
@@ -18,9 +18,9 @@ This is the largest **reader-facing infrastructure** drop since **Site AI** in J
 
 | Item | Value |
 |------|--------|
-| **MCP URL** | `https://paradigmthreat.net/api/mcp` |
-| **Setup page** | [paradigmthreat.net/mcp](https://paradigmthreat.net/mcp) |
-| **Health check** | `GET https://paradigmthreat.net/api/mcp?health=1` |
+| **MCP URL** | `https://old.paradigmthreat.net/api/mcp` |
+| **Setup page** | [paradigmthreat.net/mcp](https://old.paradigmthreat.net/mcp) |
+| **Health check** | `GET https://old.paradigmthreat.net/api/mcp?health=1` |
 | **Transport** | Streamable HTTP (JSON-RPC), **stateless** (serverless-safe on Vercel) |
 | **Enable flag** | `MCP_SERVER_ENABLED=1` on production deployment |
 
@@ -39,9 +39,9 @@ It reuses the same **Relay mirrors**, **search index**, **`site-claims.json` the
 | `get_chronology_framework` | — | NC / Blip / phantom-interval glossary |
 | `get_event_dates` | — | Resolve timeline event → structured dates |
 | `compute_years_ago` | — | Calendar vs **blip-adjusted** elapsed time (670 BCE → 1053 CE overlap) |
-| `submit_investigation_idea` | — | Propose a new investigation topic → Postgres → public list on [/submit](https://paradigmthreat.net/submit) |
+| `submit_investigation_idea` | — | Propose a new investigation topic → Postgres → public list on [/submit](https://old.paradigmthreat.net/submit) |
 
-**Citation discipline (documented on [/mcp](https://paradigmthreat.net/mcp)):** prefer **primary and public URLs** returned by investigations; cite `paradigmthreat.net` only when the claim is **original to the repo** (`site-distinctive`, author thesis). The model may read synthesis markdown for reasoning; answers should list **citable URLs separately**.
+**Citation discipline (documented on [/mcp](https://old.paradigmthreat.net/mcp)):** prefer **primary and public URLs** returned by investigations; cite `paradigmthreat.net` only when the claim is **original to the repo** (`site-distinctive`, author thesis). The model may read synthesis markdown for reasoning; answers should list **citable URLs separately**.
 
 ### How to connect — Cursor or Claude Desktop
 
@@ -51,7 +51,7 @@ Add an HTTP MCP server pointing at the production endpoint:
 {
   "mcpServers": {
     "paradigm-threat": {
-      "url": "https://paradigmthreat.net/api/mcp"
+      "url": "https://old.paradigmthreat.net/api/mcp"
     }
   }
 }
@@ -77,7 +77,7 @@ node scripts/validate-mcp.mjs https://paradigmthreat.net
 
 **ChatGPT Apps** (Settings → Apps → Create app):
 
-1. **Server URL:** `https://paradigmthreat.net/api/mcp`
+1. **Server URL:** `https://old.paradigmthreat.net/api/mcp`
 2. **Authentication:** **No Auth** (public read-mostly endpoint)
 3. **Add the app as a source** in a chat before asking research questions
 4. Prefer prompts that **invoke tools explicitly**: *"Use paradigm-threat search for Philadelphia Experiment"* or *"Call research_status on CERN Mars gateway"*
@@ -88,7 +88,7 @@ OpenAI's MCP Apps standard (`search` + `fetch` aliases) maps to our `search_site
 
 ### Host restrictions — read this before blaming the server
 
-The endpoint is **public**, but **the host may refuse to call tools** before a request reaches paradigmthreat.net. Documented on [/mcp](https://paradigmthreat.net/mcp) and the [front page](https://paradigmthreat.net):
+The endpoint is **public**, but **the host may refuse to call tools** before a request reaches paradigmthreat.net. Documented on [/mcp](https://old.paradigmthreat.net/mcp) and the [front page](https://paradigmthreat.net):
 
 - **Free / consumer tiers** (ChatGPT, Gemini, etc.) often block tool calls on **real people**, **alleged crimes or deaths**, or **defamation-shaped** prompts.
 - **Symptom:** connector installed, tools **listed**, but **never invoked** — usually **host safety policy**, not MCP outage.
@@ -165,7 +165,7 @@ Both share handlers and corpus; choose by **where the user works**. Full WebMCP 
 
 ### Discovery hub
 
-- [Front page](https://paradigmthreat.net) — **Research MCP** callout with link to [/mcp](https://paradigmthreat.net/mcp); **host restriction** note (free-tier tool blocks).
+- [Front page](https://paradigmthreat.net) — **Research MCP** callout with link to [/mcp](https://old.paradigmthreat.net/mcp); **host restriction** note (free-tier tool blocks).
 
 ---
 
@@ -202,7 +202,7 @@ The site repo shipped **Research MCP** as the headline infra pass, plus search a
 
 ## Reading order
 
-1. **Research MCP:** [/mcp setup](https://paradigmthreat.net/mcp) → connect in Cursor or ChatGPT → try `search_site` + `research_status` on a topic you care about → `read_article` on hit → check primary citations in dossier.
+1. **Research MCP:** [/mcp setup](https://old.paradigmthreat.net/mcp) → connect in Cursor or ChatGPT → try `search_site` + `research_status` on a topic you care about → `read_article` on hit → check primary citations in dossier.
 2. **Portal trilogy:** [Out of This Door](https://paradigmthreat2.substack.com/p/out-of-this-door-might-come-something) → [Philadelphia Part B](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) → [earth-portal timeline art](https://paradigmthreat.net/events/philadelphia/earth-portal-projects-timeline.png) → [CERN–Mars investigation](https://paradigmthreat.net/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation) → [Dead Planet timeline event](https://timeline.paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol).
 3. **Hollywood PP series:** [Not Like This](https://paradigmthreat2.substack.com/p/not-like-this) → [Everything Burns](https://paradigmthreat2.substack.com/p/everything-burns) → [Everything in Independence Day Is True](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) → [two-camp investigation Thread O/P](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation).
 4. **Wells misread:** [Philadelphia Part B § Wells](https://paradigmthreat2.substack.com/p/the-philadelphia-experiment-was-not) → [time-travel literature deposit investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation).
@@ -279,7 +279,7 @@ Raster files **first added** after **2026-07-03** through **2026-07-09** (exclus
 ## Publication notes
 
 - Three Substack flagships since July 3; portal Part A published July 4, Philadelphia Part B July 6, ID4 July 8 — all mirrored on-site with hero art.
-- **Research MCP** live on production when `MCP_SERVER_ENABLED=1`; announce on [front page](https://paradigmthreat.net) and [/mcp](https://paradigmthreat.net/mcp).
+- **Research MCP** live on production when `MCP_SERVER_ENABLED=1`; announce on [front page](https://paradigmthreat.net) and [/mcp](https://old.paradigmthreat.net/mcp).
 - **ID4** slug finalized as `everything-in-independence-day-is-true` (renamed from `declare-independence`).
 - **Ancient stargates** corpus consolidated under `history/chronology/ancient-stargates/`.
 - Site repo MCP implementation: `app/api/mcp/route.ts`, `lib/mcp/*`, `docs/MCP_VERCEL_DEPLOY.md`.

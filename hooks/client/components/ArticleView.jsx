@@ -15,6 +15,7 @@ import {
   siteHref,
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
+import { rewriteLegacyAppHref } from 'hooks/client/legacyAppHref.js'
 import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js'
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
@@ -32,7 +33,7 @@ import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd11'
+const MD_CACHE_BUST = 'ptmd12'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -192,7 +193,7 @@ function makeRenderMdAnchor(deadUrls) {
     let onClick = null
     let controlled = false
     try {
-      if (p && typeof p.href === 'string') href = p.href
+      if (p && typeof p.href === 'string') href = rewriteLegacyAppHref(p.href)
     } catch (e) {}
     try {
       if (p && p.children !== null) children = p.children
@@ -305,7 +306,7 @@ export default function ArticleView(props) {
 
   function onMdLinkClick(href) {
     let h = ''
-    if (typeof href === 'string') h = href
+    if (typeof href === 'string') h = rewriteLegacyAppHref(href)
     // Runtime preventDefault on relayControlled anchors — absolute / special schemes
     // must still navigate (do not soft-route them into the article SPA).
     if (

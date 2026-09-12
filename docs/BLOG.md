@@ -174,12 +174,12 @@ End every blog post with relevant topic hashtags as links. Each tag links to the
 **Format:** Add a line at the end with linked topics:
 ```markdown
 ---
-*Topics:* [#conspiracy](https://paradigmthreat.net/search/conspiracy) · [#history](https://paradigmthreat.net/search/history) · [#mars](https://paradigmthreat.net/search/mars)
+*Topics:* [#conspiracy](https://old.paradigmthreat.net/search/conspiracy) · [#history](https://old.paradigmthreat.net/search/history) · [#mars](https://old.paradigmthreat.net/search/mars)
 ```
 
 **Rules:**
 - Use only **directory names** from the repo: `influence`, `history`, `science`, `cosmos`, `governance`, `events`, and subdirs like `conspiracy`, `stolen_credit`, `predictive_programming`, `religion`, `mars`, `geoengineering`, `war`, etc.
 - Do **not** use `paradigm*`, `project*`, or other meta-terms
-- Use path-based URLs: `https://paradigmthreat.net/search/[topic]` (e.g. `/search/conspiracy`, `/search/stolen_credit`)
+- Use path-based URLs: `https://old.paradigmthreat.net/search/[topic]` (e.g. `/search/conspiracy`, `/search/stolen_credit`) — topic landings are the Next.js archive, not park `/search`.
 - Avoid tags that don't exist as folders or file names
 - **Repo `Keywords:` lines** (investigations, notes, blog): use **PascalCase** tokens with **no hyphens and no underscores** inside the tag (e.g. `#JadeHelm`, `#StolenCredit`, `#PredictiveProgramming`). This matches the static index parser and `npm run check-keywords`. Social platforms may differ; the repo convention is stricter than Instagram’s underscore allowance.
