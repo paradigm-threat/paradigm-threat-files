@@ -284,6 +284,7 @@ MAGA **announces necessary goals**, then **acts** (Iran/allies posture, NATO bur
 | [Usury / Fed coining](/governance/usury/d.md) | Usury / money creation lane of “shipped corporatism” |
 | [Weather modification](/science/geoengineering/weather-modification-investigation.md) | Documented seeding / ENMOD / state bans; chemtrails evidence tiers |
 | [Hollywood Thread R — *The Arrival* (1996)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship) | NSA-aligned AGW-as-cover / geoengineering flagship (author climate crux) |
+| [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057q** — communism as **rear force**; Crichton named **associated** fronts without the C-word; fake liberation / real enclosure twin |
 | Session canvases (local IDE) | Poll fact-check + deception taxonomy + published deep dive (not site paths) |
 
 ---
@@ -448,7 +449,7 @@ Sources: Mercer cited in [Nature SRM paper](https://www.nature.com/articles/s432
 
 Keywords: #ThisIsAmerica #PercentageAds #DemocraticSocialism #BaitAndSwitch #Corporatism #MedicareForAll #Obamacare #DSA #MAGA #RINO #Usury #FederalOverreach #CivilRights #Monopoly #Geoengineering #Chemtrails #WeatherModificationBan #TheArrival1996 #ClimateCover #ParadigmThreatFiles
 
-*Last updated: 2026-07-24*
+*Last updated: 2026-09-12*
 
 ---
 

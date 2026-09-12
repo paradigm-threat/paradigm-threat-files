@@ -325,12 +325,13 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | [Managed democracy puppets](/governance/war/managed-democracy-puppets-and-redemption.md) | Camp warfare / media |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-053** |
 | [AI suppression — OpenAI × Cursor](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) | **AU-052** — QuitGPT as same sponsorship class; reader [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) |
+| [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057p** — Crichton *Disclosure* (1994) as accusation-vs-captain fiction; **rhyme only**, not the 2017 wave |
 
 ---
 
 Keywords: #MeToo #TimesUp #CorporateSponsorship #KevinSpacey #EJeanCarroll #DonaldTrump #ControlledOpposition #Alef #CelebrityContainment #GangStalking #OccupyWallStreet #CatherineDeneuve #HarveyWeinstein #AnthonyRapp #QAnonShaman #JacobChansley #ParadigmThreatFiles #AU053
 
-*Last updated: 2026-08-29*
+*Last updated: 2026-09-12*
 
 ---
 

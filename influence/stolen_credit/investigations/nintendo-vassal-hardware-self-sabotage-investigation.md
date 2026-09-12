@@ -268,6 +268,7 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 | [yakuza-remote-control-investigation.md](/governance/war/investigations/yakuza-remote-control-investigation.md) | Postwar containment / British angle |
 | [rare-nintendo-rd.md](../rare-nintendo-rd.md) | Blank credits / British second party |
 | [final-fantasy-vii-nintendo-story-sabotage-investigation.md](final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Square/CD capacity politics |
+| [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057o:** organic Kyoto shop vs flatten when IP was ripped; same Honda→Scrum grammar |
 
 Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #VacuumInverse #StolenCredit
 

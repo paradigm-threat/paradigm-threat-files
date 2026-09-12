@@ -1,5 +1,6 @@
 ## Investigations
 
+- [Agile / Scrum versus Leadership — process as containment](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) — modern methods as leadership-elimination; *Disclosure* 1994 encoding; **AU-057**
 - [The Exact-Change Wallet — §I inventor containment (reader essay)](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; why garage inventors fear the spotlight
 - [It's gonna be a long, long time. — modern celebrity slavery (reader essay)](/influence/suppression/modern-celebrity-slavery.md)
 - [Designed from birth — celebrity slavery, gender-swap installment](/influence/suppression/designed-from-birth.md)

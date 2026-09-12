@@ -623,6 +623,7 @@ Companion to essay [§VI](/science/computing/the-internet-that-should-have-been.
 | Investigation / doc | Relevance |
 |---------------------|-----------|
 | [**Reader essay**](/science/computing/the-internet-that-should-have-been.md) | Flagship narrative for this dossier |
+| [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | Labor OS of the garden: process that forbids a captain (**AU-057**) |
 | [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) | Hardware/display/wintel essay voice |
 | [Quantum storage investigation](/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) | Analog/infinite-index substrate |
 | [AI control investigation](/science/ai/ai-control-investigation.md) | Hijack, broken software, PP catalog |

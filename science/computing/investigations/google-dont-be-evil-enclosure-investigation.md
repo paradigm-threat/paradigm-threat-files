@@ -421,6 +421,7 @@ From [Google developer verification guides](https://developer.android.com/develo
 
 | Investigation | Link |
 |---------------|------|
+| Agile / Scrum versus Leadership — process as containment (**AU-057**) | [/science/computing/investigations/agile-scrum-leadership-containment-investigation.md](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) |
 | Internet That Should Have Been — enclosure §10.6 | [/science/computing/investigations/internet-that-should-have-been-investigation.md](/science/computing/investigations/internet-that-should-have-been-investigation.md) |
 | Internet essay — pocket enclosure §III | [/science/computing/the-internet-that-should-have-been.md](/science/computing/the-internet-that-should-have-been.md) |
 | Quantum Leap — walled gardens / App temples | [/science/computing/quantum-leap-of-faith.md](/science/computing/quantum-leap-of-faith.md) |

@@ -364,6 +364,7 @@ The “incredibly tough” line acknowledges **developer** cost. Whether “mill
 | [AI Control / PP](/science/ai/ai-control-investigation.md) | Takeover fiction, deliberate bad software, ghost-in-the-machine |
 | [LLM conclusion refusals register](/influence/censorship/llm-conclusion-refusals-register.md) | ChatGPT vs Composer assistive split |
 | [Internet That Should Have Been](/science/computing/investigations/internet-that-should-have-been-investigation.md) | Browser/agent enclosure, WebMCP |
+| [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | Human kill switch: no captain, no unbound project (**AU-057**) |
 | [Google Don’t Be Evil enclosure](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) | Mobile vendor gates |
 | [NSA investigation](/governance/war/investigations/nsa-investigation.md) | SIGINT antibody lane (adjacency only) |
 | [Mission Accomplished Again — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md) | War backdrop (not Cursor trigger proof) |

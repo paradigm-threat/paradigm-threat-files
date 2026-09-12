@@ -3,7 +3,7 @@
 **Date:** 2026-04-10  
 **Status:** Open — documentary synthesis with **hypothesis** sections clearly labeled. Mainstream and critical sources are both cited; **no single agency is proven** to have “run” Occupy as controlled opposition. The file records **parallel mechanisms** (spectacle, infiltration, weather and property law, coordinated international mimicry) that make the thesis **plausible to investigate** without equating plausibility with proof.
 
-**Cross-links:** [French Revolution investigation](./french-revolution-investigation.md) (spectacle, punishment, faction); [Reverse Crusades / 1812 comparison](./reverse-crusades-comparison.md) (logistics and winter as strategic constraints); [US citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) (later mass protest / policing context).
+**Cross-links:** [French Revolution investigation](./french-revolution-investigation.md) (spectacle, punishment, faction); [Reverse Crusades / 1812 comparison](./reverse-crusades-comparison.md) (logistics and winter as strategic constraints); [US citizens vs federal armed confrontations](./us-citizens-vs-federal-armed-confrontations-investigation.md) (later mass protest / policing context); [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) (leaderless process as office containment — **AU-057**).
 
 ![Occupy Wall Street — investigation header graphic](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.png?w=1200 '{"className":"rounded-md m-auto"}')
 
