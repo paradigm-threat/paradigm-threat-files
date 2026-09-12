@@ -620,10 +620,9 @@ export default function ArticleView(props) {
 
   return (
     <SiteChrome currentPath={currentPath}>
-      <main className="pt-page pt-article-page">
+      <div className="pt-page pt-article-page">
         <div className="pt-columns lg:pt-columns-lg">
-          <DirNav />
-          <div className="pt-column-main lg:pt-column-main-lg">
+          <main className="pt-column-main lg:pt-column-main-lg">
             <Layout
               filePath={pathPart}
               hideToolbar={hideToolbar}
@@ -712,12 +711,13 @@ export default function ArticleView(props) {
                 </nav>
               ) : null}
             </Layout>
-          </div>
+          </main>
+          <DirNav currentPath={currentPath} />
           {showToc ? (
             <DynamicIndex pathKey={pathPart} items={tocItems} />
           ) : null}
         </div>
-      </main>
+      </div>
     </SiteChrome>
   )
 }

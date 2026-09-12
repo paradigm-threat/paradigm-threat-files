@@ -44,10 +44,9 @@ export default function HomePage() {
 
   return (
     <SiteChrome currentPath="/articles">
-      <main className="pt-page" id="pt-home">
+      <div className="pt-page" id="pt-home">
         <div className="pt-columns lg:pt-columns-lg">
-          <DirNav />
-          <div className="pt-column-main">
+          <main className="pt-column-main">
             <div className="pt-container">
               <header className="pt-header">
                 <h1 className="pt-title">Articles</h1>
@@ -77,9 +76,10 @@ export default function HomePage() {
                 )}
               </section>
             </div>
-          </div>
+          </main>
+          <DirNav currentPath="/" />
         </div>
-      </main>
+      </div>
     </SiteChrome>
   )
 }

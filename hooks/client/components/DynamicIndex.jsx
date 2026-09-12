@@ -1,9 +1,10 @@
 /**
- * Right-column TOC — content-derived items (no Dom heading scrape).
- * Links are #id anchors; active follows URL hash when available.
+ * Right-column TOC — content-derived nested headings (no Dom scrape, no setState).
+ * Active hash is data-pt-toc-active; hashchange only flips attributes.
  */
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
+import { nestTocItems } from '@relay/catalog'
 import { propStr, propOr } from 'hooks/client/propOr.jsx'
 
 function str(v) {
@@ -33,33 +34,32 @@ function locationHashId() {
   }
 }
 
-function levelClass(level) {
-  if (level === 2) return 'pt-toc-l2'
-  if (level === 3) return 'pt-toc-l3'
-  if (level === 4) return 'pt-toc-l4'
-  if (level === 5) return 'pt-toc-l5'
-  if (level === 6) return 'pt-toc-l6'
-  return 'pt-toc-l1'
-}
-
-function renderTocLinks(items, activeId) {
+function syncTocActive() {
+  const id = locationHashId()
   let links = []
-  for (let i = 0; i < items.length; i++) {
-    const it = items[i]
-    const hid = it.id
-    let linkCls = 'pt-toc-link ' + levelClass(it.level)
-    if (hid === activeId) {
-      linkCls = linkCls + ' pt-toc-link-active'
-    }
-    links = links.concat([
-      <li key={hid} className="pt-toc-item">
-        <a className={linkCls} href={'#' + hid}>
-          {truncateTitle(it.title)}
-        </a>
-      </li>,
-    ])
+  try {
+    links = document.querySelectorAll('[data-pt-toc-id]')
+  } catch (e) {
+    return
   }
-  return links
+  if (!links) return
+  let n = 0
+  try {
+    n = links.length
+  } catch (e2) {
+    return
+  }
+  for (let i = 0; i < n; i++) {
+    const el = links[i]
+    let hid = ''
+    try {
+      hid = el.getAttribute('data-pt-toc-id')
+    } catch (e3) {}
+    const on = hid === id ? '1' : '0'
+    try {
+      el.setAttribute('data-pt-toc-active', on)
+    } catch (e4) {}
+  }
 }
 
 function normalizeItems(raw) {
@@ -92,37 +92,103 @@ function normalizeItems(raw) {
   return out
 }
 
+function tocChildList(node) {
+  let kids = []
+  try {
+    if (node && node.children) kids = node.children
+  } catch (e) {}
+  return kids
+}
+
+function TocEntry(props) {
+  const node = props.node
+  const activeId = props.activeId
+  let id = ''
+  let title = ''
+  let level = 1
+  try {
+    if (node && typeof node.id === 'string') id = node.id
+  } catch (e) {}
+  try {
+    if (node && typeof node.title === 'string') title = node.title
+  } catch (e2) {}
+  try {
+    if (node && typeof node.level === 'number') level = node.level
+  } catch (e3) {}
+  if (id.length === 0) return null
+
+  const kids = tocChildList(node)
+  const isH1 = level === 1
+  let linkCls = 'pt-toc-link'
+  if (isH1) {
+    linkCls = linkCls + ' pt-toc-h1'
+  } else {
+    linkCls = linkCls + ' pt-toc-sub'
+  }
+  const activeVal = id === activeId ? '1' : '0'
+
+  let childEls = []
+  for (let i = 0; i < kids.length; i++) {
+    childEls = childEls.concat([
+      <TocEntry key={kids[i].id} node={kids[i]} activeId={activeId} />,
+    ])
+  }
+
+  return (
+    <li className="pt-toc-item">
+      <a
+        className={linkCls}
+        href={'#' + id}
+        data-pt-toc-id={id}
+        data-pt-toc-active={activeVal}
+      >
+        {truncateTitle(title)}
+      </a>
+      {kids.length > 0 ? <ul className="pt-toc-nested">{childEls}</ul> : null}
+    </li>
+  )
+}
+
+function tocCssMarker() {
+  return (
+    <span
+      aria-hidden="true"
+      hidden={true}
+      className="pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-h1 pt-toc-sub pt-toc-nested pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-toc-empty"
+      data-pt-toc-css="true"
+    />
+  )
+}
+
 /** Sticky on-this-page index (mobile full-width + lg sidebar). */
 export default function DynamicIndex(props) {
   const pathKey = propStr(props, 'pathKey', '')
   const items = normalizeItems(propOr(props, 'items', []))
+  let nested = []
+  try {
+    nested = nestTocItems(items)
+  } catch (eNest) {}
   const live = isClientLivePhase(3) === true
-  const activeState = useState('')
-  const activeId = activeState[0]
-  const setActiveId = activeState[1]
+  const activeId = live ? locationHashId() : ''
 
   useEffect(() => {
     if (!live) return
-    const sync = () => {
-      setActiveId(locationHashId())
-    }
-    sync()
+    syncTocActive()
     let attached = false
     try {
       if (globalThis && typeof globalThis.addEventListener === 'function') {
-        globalThis.addEventListener('hashchange', sync)
+        globalThis.addEventListener('hashchange', syncTocActive)
         attached = true
       }
     } catch (e) {}
     return () => {
       if (!attached) return
       try {
-        globalThis.removeEventListener('hashchange', sync)
+        globalThis.removeEventListener('hashchange', syncTocActive)
       } catch (e2) {}
     }
   }, [live, pathKey])
 
-  // SSR: still render TOC when P0 extract produced items (article-first).
   if (!live && items.length === 0) {
     return (
       <aside
@@ -134,12 +200,7 @@ export default function DynamicIndex(props) {
           <h2 className="pt-toc-title">{'Table of Contents'}</h2>
         </div>
         <p className="pt-muted">Contents load after page open…</p>
-        <span
-          aria-hidden="true"
-          hidden={true}
-          className="pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-toc-empty"
-          data-pt-toc-css="true"
-        />
+        {tocCssMarker()}
       </aside>
     )
   }
@@ -154,29 +215,19 @@ export default function DynamicIndex(props) {
     )
   }
 
-  const links = renderTocLinks(items, live ? activeId : '')
-
-  if (!live) {
-    return (
-      <aside
-        className="pt-toc lg:pt-toc-lg"
-        aria-label="Table of contents"
-        data-pt-toc="1"
-      >
-        <div className="pt-toc-head">
-          <h2 className="pt-toc-title">{'Table of Contents'}</h2>
-        </div>
-        <ul className="pt-toc-list">{links}</ul>
-      </aside>
-    )
+  let entries = []
+  for (let i = 0; i < nested.length; i++) {
+    entries = entries.concat([
+      <TocEntry key={nested[i].id} node={nested[i]} activeId={activeId} />,
+    ])
   }
 
   return (
-    <aside className="pt-toc lg:pt-toc-lg" aria-label="Table of contents">
+    <aside className="pt-toc lg:pt-toc-lg" aria-label="Table of contents" data-pt-toc="1">
       <div className="pt-toc-head">
         <h2 className="pt-toc-title">{'Table of Contents'}</h2>
       </div>
-      <ul className="pt-toc-list">{links}</ul>
+      <ul className="pt-toc-list">{entries}</ul>
     </aside>
   )
 }

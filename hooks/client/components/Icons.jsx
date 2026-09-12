@@ -160,6 +160,31 @@ export function IconChevronUp() {
   )
 }
 
+export function IconChevronDownSm() {
+  return (
+    <Icon size={14}>
+      <path d="m6 9 6 6 6-6" />
+    </Icon>
+  )
+}
+
+export function IconChevronRightSm() {
+  return (
+    <Icon size={14}>
+      <path d="m9 18 6-6-6-6" />
+    </Icon>
+  )
+}
+
+export function IconFileSm() {
+  return (
+    <Icon size={12}>
+      <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z" />
+      <path d="M14 2v6h6" />
+    </Icon>
+  )
+}
+
 /** Filled play triangle (TTS dock — matches old site lucide Play). */
 export function IconPlay() {
   return (

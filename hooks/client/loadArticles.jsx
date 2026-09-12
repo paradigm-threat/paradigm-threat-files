@@ -113,8 +113,9 @@ export function changelogThumbSrc(src) {
 }
 
 /**
- * Article index for Index / Home / ChangeLog / DirNav.
+ * Article index for Index / Home / ChangeLog.
  * Host `loadNavIndex` uses request-local tip cache (same as cachedGet + parseNavIndexTxt).
+ * DirNav uses `@relay/catalog.loadDirTree` (full index → nested folders) instead.
  */
 export function loadArticleRows(limit) {
   let lim = 48

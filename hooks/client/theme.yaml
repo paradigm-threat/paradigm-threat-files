@@ -1012,15 +1012,15 @@ themes:
         order: 2
       ".pt-dir-nav":
         display: "none"
-        width: "14rem"
+        width: "16rem"
         flexShrink: 0
-        padding: "0.5rem"
+        padding: "0.75rem"
         borderWidth: 1
         borderStyle: "solid"
         borderColor: "var(border)"
         borderRadius: "0.5rem"
-        backgroundColor: "var(card)"
-        maxHeight: "calc(100vh - 10rem)"
+        backgroundColor: "var(secondary)"
+        maxHeight: "calc(100vh - 8rem)"
         overflowY: "auto"
         boxSizing: "border-box"
         order: 1
@@ -1092,7 +1092,38 @@ themes:
         paddingRight: "0.65rem"
         borderRadius: "0.75rem"
         boxSizing: "border-box"
+        textDecoration: "none"
         opacity: 0.88
+      ".pt-toc-h1":
+        marginBottom: "0.25rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        backgroundColor: "var(card)"
+        fontWeight: "700"
+        fontSize: "0.8125rem"
+        paddingTop: "0.5rem"
+        paddingBottom: "0.5rem"
+        paddingLeft: "0.75rem"
+        paddingRight: "0.75rem"
+        boxShadow: "0 1px 2px rgba(15, 23, 42, 0.08)"
+        opacity: 1
+      ".pt-toc-sub":
+        paddingTop: 0
+        paddingBottom: 0
+        paddingLeft: "0.75rem"
+        fontSize: "0.6875rem"
+        fontWeight: "500"
+        opacity: 0.8
+      ".pt-toc-nested":
+        listStyle: "none"
+        marginTop: "0.25rem"
+        marginBottom: "0.25rem"
+        marginLeft: "1rem"
+        padding: 0
+        borderLeftWidth: 1
+        borderLeftStyle: "solid"
+        borderLeftColor: "var(border)"
       ".pt-toc-link-active":
         backgroundColor: "rgba(37, 99, 235, 0.14)"
         opacity: 1
@@ -1105,42 +1136,22 @@ themes:
         paddingLeft: "1rem"
         fontWeight: "500"
         fontSize: "0.75rem"
-        borderLeftWidth: 1
-        borderLeftStyle: "solid"
-        borderLeftColor: "var(border)"
-        marginLeft: "0.4rem"
       ".pt-toc-l3":
         paddingLeft: "1.4rem"
         fontSize: "0.75rem"
         opacity: 0.85
-        borderLeftWidth: 1
-        borderLeftStyle: "solid"
-        borderLeftColor: "var(border)"
-        marginLeft: "0.4rem"
       ".pt-toc-l4":
         paddingLeft: "1.8rem"
         fontSize: "0.6875rem"
         opacity: 0.8
-        borderLeftWidth: 1
-        borderLeftStyle: "solid"
-        borderLeftColor: "var(border)"
-        marginLeft: "0.4rem"
       ".pt-toc-l5":
         paddingLeft: "2.2rem"
         fontSize: "0.6875rem"
         opacity: 0.75
-        borderLeftWidth: 1
-        borderLeftStyle: "solid"
-        borderLeftColor: "var(border)"
-        marginLeft: "0.4rem"
       ".pt-toc-l6":
         paddingLeft: "2.6rem"
         fontSize: "0.6875rem"
         opacity: 0.7
-        borderLeftWidth: 1
-        borderLeftStyle: "solid"
-        borderLeftColor: "var(border)"
-        marginLeft: "0.4rem"
       ".pt-back-top":
         position: "fixed"
         right: "1rem"
@@ -1321,7 +1332,7 @@ themes:
         alignItems: "center"
         justifyContent: "space-between"
         gap: "0.5rem"
-        marginBottom: "0.75rem"
+        marginBottom: "0.25rem"
       ".pt-dir-tools":
         display: "flex"
         gap: "0.35rem"
@@ -1338,6 +1349,161 @@ themes:
         color: "var(muted)"
         cursor: "pointer"
         fontFamily: "inherit"
+      ".pt-dir-actions":
+        display: "flex"
+        alignItems: "center"
+        gap: "0.25rem"
+        marginBottom: "0.5rem"
+      ".pt-dir-action":
+        fontSize: "0.625rem"
+        fontWeight: "500"
+        padding: "0.25rem 0.5rem"
+        borderWidth: 0
+        borderRadius: "0.25rem"
+        backgroundColor: "transparent"
+        color: "var(muted)"
+        cursor: "pointer"
+        fontFamily: "inherit"
+      ".pt-dir-sep":
+        fontSize: "0.625rem"
+        color: "var(border)"
+      ".pt-dir-tree":
+        display: "flex"
+        flexDirection: "column"
+      ".pt-dir-node":
+        display: "flex"
+        flexDirection: "column"
+      ".pt-dir-row":
+        display: "flex"
+        alignItems: "center"
+        gap: "0.125rem"
+        minWidth: 0
+        borderRadius: "0.5rem"
+        fontSize: "0.875rem"
+        color: "var(muted)"
+      ".pt-dir-row:hover":
+        backgroundColor: "var(card)"
+      ".pt-dir-row-active":
+        backgroundColor: "rgba(59, 130, 246, 0.1)"
+        color: "var(primary)"
+        fontWeight: "700"
+      ".pt-dir-chevron":
+        width: "1.375rem"
+        height: "1.375rem"
+        padding: 0
+        margin: 0
+        flexShrink: 0
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        borderWidth: 0
+        borderRadius: "0.25rem"
+        backgroundColor: "transparent"
+        color: "inherit"
+        cursor: "pointer"
+        fontFamily: "inherit"
+      ".pt-dir-chevron-open":
+        display: "none"
+        alignItems: "center"
+        justifyContent: "center"
+      ".pt-dir-chevron-closed":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+      ".pt-dir-chevron-spacer":
+        width: "1.125rem"
+        flexShrink: 0
+      ".pt-dir-folder-link":
+        flex: 1
+        minWidth: 0
+        display: "flex"
+        alignItems: "center"
+        justifyContent: "space-between"
+        gap: "0.5rem"
+        paddingTop: "0.375rem"
+        paddingBottom: "0.375rem"
+        paddingRight: "0.5rem"
+        paddingLeft: "0.125rem"
+        color: "inherit"
+        textDecoration: "none"
+      ".pt-dir-folder-name":
+        overflow: "hidden"
+        textOverflow: "ellipsis"
+        whiteSpace: "nowrap"
+      ".pt-dir-count":
+        fontSize: "0.625rem"
+        opacity: 0.5
+        fontWeight: "400"
+        flexShrink: 0
+      ".pt-dir-kids":
+        display: "none"
+      ".pt-dir-file":
+        display: "flex"
+        alignItems: "center"
+        gap: "0.125rem"
+        minWidth: 0
+        borderRadius: "0.5rem"
+        fontSize: "0.75rem"
+        color: "var(muted)"
+      ".pt-dir-file:hover":
+        backgroundColor: "var(card)"
+      ".pt-dir-file-active":
+        backgroundColor: "rgba(16, 185, 129, 0.1)"
+        color: "#34d399"
+        fontWeight: "600"
+      ".pt-dir-file-extra":
+        display: "none"
+      ".pt-dir-file-icon":
+        width: "1.375rem"
+        flexShrink: 0
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        opacity: 0.7
+      ".pt-dir-file-link":
+        flex: 1
+        minWidth: 0
+        paddingTop: "0.25rem"
+        paddingBottom: "0.25rem"
+        paddingRight: "0.5rem"
+        overflow: "hidden"
+        textOverflow: "ellipsis"
+        whiteSpace: "nowrap"
+        color: "inherit"
+        textDecoration: "none"
+      ".pt-dir-showall":
+        display: "block"
+        width: "100%"
+        textAlign: "left"
+        fontSize: "0.625rem"
+        color: "var(muted)"
+        backgroundColor: "transparent"
+        borderWidth: 0
+        paddingTop: "0.25rem"
+        paddingBottom: "0.25rem"
+        cursor: "pointer"
+        fontFamily: "inherit"
+      ".pt-dir-showfewer":
+        display: "none"
+        width: "100%"
+        textAlign: "left"
+        fontSize: "0.625rem"
+        color: "var(muted)"
+        backgroundColor: "transparent"
+        borderWidth: 0
+        paddingTop: "0.25rem"
+        paddingBottom: "0.25rem"
+        cursor: "pointer"
+        fontFamily: "inherit"
+      ".pt-dir-foot":
+        marginTop: "0.75rem"
+      ".pt-feeling-lucky-dir":
+        display: "flex"
+        width: "100%"
+        boxSizing: "border-box"
+        justifyContent: "center"
+        fontWeight: "500"
+        fontSize: "0.875rem"
       ".pt-dir-folder":
         margin: "0 0 0.35rem"
         listStyle: "none"
@@ -1351,9 +1517,6 @@ themes:
         marginTop: "0.25rem"
         marginLeft: "0.75rem"
         paddingLeft: "0.5rem"
-        borderLeftWidth: 1
-        borderLeftStyle: "solid"
-        borderLeftColor: "var(border)"
       ".pt-footer-nav":
         display: "flex"
         flexWrap: "wrap"
@@ -1392,9 +1555,12 @@ themes:
       ".pt-layout-home .pt-article-body":
         paddingTop: "0.5rem"
       ".pt-dir-title":
-        fontSize: "0.875rem"
+        fontSize: "0.8125rem"
         fontWeight: "700"
         margin: 0
+        letterSpacing: "0.08em"
+        textTransform: "uppercase"
+        color: "var(muted)"
       ".pt-dir-list":
         listStyle: "none"
         margin: 0

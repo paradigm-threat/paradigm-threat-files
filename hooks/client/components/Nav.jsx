@@ -72,11 +72,21 @@ function navChromeCss() {
     'opacity:0.55;filter:grayscale(0.2);' +
     '}' +
     // Theme class collectors reuse layout classes; force them out of hit-testing.
-    '[data-pt-gallery-css],[data-pt-toc-css],[data-pt-md-css],[data-pt-tts-css],[data-pt-back-top-css]{' +
+    '[data-pt-gallery-css],[data-pt-toc-css],[data-pt-md-css],[data-pt-tts-css],[data-pt-back-top-css],[data-pt-dir-css]{' +
     'display:none!important;pointer-events:none!important;position:static!important;' +
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +
     'padding:0!important;border:0!important;' +
     '}' +
+    // Directory expand/collapse + file cap (themed-styler cannot emit [data-*] selectors).
+    '.pt-dir-kids{display:none;}' +
+    '[data-pt-open="1"]>.pt-dir-kids{display:block;}' +
+    '[data-pt-open="1"]>.pt-dir-row .pt-dir-chevron-open{display:inline-flex;}' +
+    '[data-pt-open="1"]>.pt-dir-row .pt-dir-chevron-closed{display:none;}' +
+    '.pt-dir-file-extra{display:none;}' +
+    '[data-pt-showall="1"]>.pt-dir-kids>.pt-dir-file-extra{display:flex;}' +
+    '[data-pt-showall="1"]>.pt-dir-kids>.pt-dir-showall{display:none;}' +
+    '[data-pt-showall="1"]>.pt-dir-kids>.pt-dir-showfewer{display:block;}' +
+    '.pt-toc-link[data-pt-toc-active="1"]{background-color:rgba(37,99,235,0.14);opacity:1;font-weight:700;}' +
     // Legacy archive banner (mirrors Vercel migration strip) — same dual-sheet triad.
     '.pt-legacy-banner{display:block;width:100%;box-sizing:border-box;' +
     'border-top:1px solid rgba(180,83,9,0.25);background:#fef3c7;color:#78350f;' +
