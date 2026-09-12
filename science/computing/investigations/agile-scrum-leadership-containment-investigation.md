@@ -2,10 +2,10 @@
 
 ![Agile / Scrum versus Leadership — investigation cover](agile-scrum-leadership-containment-investigation.png)
 
-> **TL;DR:** Modern **Agile** (2001 Manifesto) and **Scrum** (1995 → 2020 Guide) are a **software-office** revolution that **redefines leadership as facilitation** and **makes command illegitimate inside the team**. **Documented:** Japanese rugby-scrum source ([Takeuchi & Nonaka 1986](https://hbr.org/1986/01/the-new-new-product-development-game)) **kept captains** — top management sets the wall, **hand-picks** the team, runs **subtle control**, and will **add a conservative member** if the room goes radical; Toyota **shusa** / Honda **LPL** still **own the product**. American Scrum **dropped** that and wrote **“no hierarchies.”** That flatten was **designed** by named theorists and a **17-person** Snowbird caucus — **not** an organic discovery. **Author (AU-057k–r):** flatten = **Marxist / New Left anti-boss** politics; **PO cannot close technical fights**; **Nintendo** is the living organic Kyoto shop — IP was **ripped** and **flattened** elsewhere; Kyoto **kept** in-house traditions even when **sidelined**. **Michael Crichton, *Disclosure* (1994)** is an **early fiction encoding** of the same fight — accusation vs product captain, informal power without title, **doing the job** as the only exit — **one year before** OOPSLA Scrum; **does not** name Agile. **AU-057q:** communism is **rear force**; Crichton named **associated** threats without the **C-word** (McCarthyism taboo). **AU-057r:** whole package is a **NSA vs CIA/MI6 ideology** lane (captain/agency vs process/untitled power). **Official reply** is in **§7**.
+> **TL;DR:** Modern **Agile** (2001 Manifesto) and **Scrum** (1995 → 2020 Guide) are a **software-office** revolution that **redefines leadership as facilitation** and **makes command illegitimate inside the team**. **Documented:** Japanese rugby-scrum source ([Takeuchi & Nonaka 1986](https://hbr.org/1986/01/the-new-new-product-development-game)) **kept captains** — top management sets the wall, **hand-picks** the team, runs **subtle control**, and will **add a conservative member** if the room goes radical; Toyota **shusa** / Honda **LPL** still **own the product**. American Scrum **dropped** that and wrote **“no hierarchies.”** That flatten was **designed** by named theorists and a **17-person** Snowbird caucus — **not** an organic discovery. **Author (AU-057k–s):** flatten = **Marxist / New Left anti-boss** politics; **PO cannot close technical fights**; **Nintendo** is the living organic Kyoto shop — IP was **ripped** and **flattened** elsewhere; Kyoto **kept** in-house traditions even when **sidelined**. **Michael Crichton, *Disclosure* (1994)** is an **early fiction encoding** of the same fight — accusation vs product captain, informal power without title, **doing the job** as the only exit — **one year before** OOPSLA Scrum; **does not** name Agile. **AU-057q:** communism is **rear force**; Crichton named **associated** threats without the **C-word** (McCarthyism taboo). **AU-057r:** whole package is a **NSA vs CIA/MI6 ideology** lane (captain/agency vs process/untitled power). **AU-057s:** post-USSR surviving forms (China foremost) rhyme with Agile — **public leaders go down**, **shadows run things**; academic **“agile governance”** = macro state iteration, **not** Scrum. Adjacent captain books (Iacocca, Peters) ≠ package. **Official reply** is in **§7**.
 
 **Status:** Open — opened **2026-09-12** (US Eastern).  
-**Last updated:** 2026-09-12 (NSA/CIA ideology join — §1.7 / §9.7 / AU-057r)
+**Last updated:** 2026-09-12 (China/post-USSR shadow-governance + Iacocca prior-art — §1.8 / §9.8 / AU-057s)
 
 **Guide (read order)**
 
@@ -16,16 +16,17 @@
 5. **§1.5 *Disclosure* (1994): accusation vs captain; only leadership exits** → §1.5 / §5.8  
 6. **§1.6 Crichton named front threats; communism is rear (C-word taboo)** → §1.6 / §9.6  
 7. **§1.7 NSA / CIA ideology split (office + fiction lane)** → §1.7 / §9.7  
-8. **Terms** → §2  
-9. **Timeline** → §3  
-10. **What “proved” it / who adopted it** → §4  
-11. **The contradiction (mechanism)** → §5  
-12. **Japanese original vs American flatten + Nintendo + *Disclosure*** → §5.4–§5.8  
-13. **Political force + rear/front + NSA/CIA camps** → §9.5–§9.7  
-14. **Agile / Scrum response** → §7  
-15. **Validation scoreboard** → §8  
-16. **MS / Apple / Google + suppression** → §10–§11  
-17. **Author open claims (AU-057)** → §12  
+8. **§1.8 Post-USSR / China: disposable captains, shadow power** → §1.8 / §9.8  
+9. **Terms** → §2  
+10. **Timeline** → §3  
+11. **What “proved” it / who adopted it** → §4  
+12. **The contradiction (mechanism)** → §5  
+13. **Japanese original vs American flatten + Nintendo + *Disclosure*** → §5.4–§5.8  
+14. **Political force + rear/front + NSA/CIA + China parallel** → §9.5–§9.8  
+15. **Agile / Scrum response** → §7  
+16. **Validation scoreboard** → §8  
+17. **MS / Apple / Google + suppression** → §10–§11  
+18. **Author open claims (AU-057)** → §12  
 
 ---
 
@@ -145,6 +146,21 @@
 | **AH** | **CIA/globalist lane (this file)** | Make **command illegitimate**; sell **liberation / protection / no hierarchies**; move power through **untitled** counsel, optics, and accusation; ship **enclosure** while the front looks moral. American Scrum, PO-without-tech, MeToo-era career kills, and garden labor OS live here. |
 | **AI** | **Same calendar as the media war** | *Disclosure* **1994** sits next to *Stargate* (CIA/globalist contrast, same year) and just before *ID4* (NSA unity, 1996) and *Congo* (Crichton → NSA overall, 1995). The software process religion (**1995 Scrum → 2001 Snowbird**) grows in the **same decade** as the Hollywood camp catalog. |
 
+### 1.8 Author extension — post-USSR surviving communism / China: leaders fall, shadows run
+
+**Label:** Author thesis — same-day extension **2026-09-12**. Extends **§1.2 M**, **§1.5 AA**, **§9.5–§9.6**: the anti-captain machine is not only a software-office OS.
+
+> Chinese communism and other government forms that survived after the USSR went down have parallels to Agile/Scrum — parallels that may determine how the entire country is governed, with a history of leaders going down, and people in the shadows running things. Academic literature sometimes uses terms like "agile governance" or "responsive authoritarianism" to describe how Chinese regulatory bodies iterate quickly on tech and AI policies, but this refers to macro-level state administration rather than software-engineering Scrum frameworks.
+
+**What the author means (unpack):**
+
+| # | Pattern stake | Plain English |
+|---|---------------|---------------|
+| **AJ** | **Post-USSR survivors kept the shadow grammar** | When the Soviet Union collapsed, forms that **endured** (China foremost; other durable party-state / managed systems) did **not** convert to named public captains owning outcomes. They kept a pattern where **visible leaders rise and fall** while **untitled continuity** runs the machine. |
+| **AK** | **Same rhyme as DigiCom / “no hierarchies”** | Public face is disposable; **power without a proper title** persists — counsel, climbers, committees, and party organs that never sit on the product seat. That is *Disclosure*’s top floor and American Scrum’s team floor, scaled to a **country**. |
+| **AL** | **May shape how the country is governed** | Author: the parallel is load-bearing enough that it can describe **national** administration, not only HR theater in a tech shop. |
+| **AM** | **Academic “agile governance” ≠ Scrum** | Papers on China’s **iterative** tech/AI regulation (and older **responsive authoritarianism** work) use **agile** as a **macro-admin** metaphor. That is **Documented** vocabulary for state iteration — **not** a claim Beijing adopted the Scrum Guide, and **not** identity with AU-057’s software religion. Homonym / scope lock. |
+
 ---
 
 ## 2. Terms (define before argument)
@@ -214,6 +230,10 @@ Twelve principles ([agilemanifesto.org/principles](https://agilemanifesto.org/pr
 
 **NSA / CIA ideology split (author taxonomy in this file).** Not a claim that Snowbird or DigiCom received agency direction. The repo’s [Hollywood two-camp war](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) labels **NSA-aligned** vs **CIA/MI6-aligned** *grammar*. **Here:** NSA-aligned = **captain + audit + agency**; CIA/globalist = **captain deletion + process/optics + untitled power**. *Disclosure* and Agile are **lanes** of that war inside tech labor and corporate fiction. **§1.7 / §9.7.**
 
+**Agile governance / responsive authoritarianism (academic sense).** Macro-level labels for how some states (China often cited) **iterate** regulatory and administrative policy — e.g. tech/AI rules patched quickly without waiting for one omnibus statute. Specimen: Baiyang Xiao, [“Agile and iterative governance: China’s regulatory response to AI”](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562) (*Computer Law & Security Review* lane; SSRN abstract also uses **responsive authoritarianism**). **Not** the Scrum Guide. **§9.8 / AM.**
+
+**Post-USSR shadow governance (author sense in this file).** Durable party-state / managed forms after **1991** that keep **disposable public leaders** and **continuous untitled power**. Structural rhyme with DigiCom counsel/climbers and “no hierarchies” offices — **not** “China runs standups.” **§1.8 / §9.8.**
+
 **Informal power without title.** Counsel, sexual-political climbers, unnamed “Friend” emails, silent successors — people who **run** the company **without** owning the product. Freeman’s hidden elite inside a **tech** plot. **§5.8 / AA.**
 
 **Platform stack / walled garden.** A vendor’s **closed** OS + store + cloud + office + identity. **One-brand works; cross-aisle fails.** Documented as **business strategy**, not as Agile’s child — author claims Agile is **how labor inside the garden is kept leaderless**.
@@ -235,6 +255,8 @@ Twelve principles ([agilemanifesto.org/principles](https://agilemanifesto.org/pr
 | **1970** | Greenleaf, “The Servant as Leader.” | Management theology |
 | **1975** | Brooks, *The Mythical Man-Month* — adding people to a late project makes it later; **leadership and communication**, not ceremony, are the scarce goods. | Software |
 | **1981 / 1982** | Honda **City**; Canon **PC-10** — specimens in the later HBR paper: **management-set** walls, **named** team heads. | Japan practice |
+| **1982** | Peters & Waterman, *In Search of Excellence* — bias for action vs committee fog. | Adjacent captain culture |
+| **1984** | Iacocca with Novak, *Iacocca* — individuals not committees; commander after decision. | Adjacent captain culture |
 | **1986** | Takeuchi & Nonaka, HBR — rugby **scrum** + **self-organizing** + **subtle control**. **Descriptive** of existing firms (Honda, Canon, Fuji-Xerox, NEC, 3M, HP). **Not** a software religion. | Japan → paper |
 | **1987** | Lawyer tells Crichton a **two-executive mutual-harassment** story as a **corporate-governance** problem — seed of *Disclosure* ([Crichton, “In His Own Words”](https://michaelcrichton.com/works/disclosure/)). | Industry opinion → fiction |
 | **1992** | Crichton, ***Rising Sun*** — US–Japan corporate competition as the **public** American anxiety of the decade. | Japan-competition corpus |
@@ -464,6 +486,9 @@ Takeuchi & Nonaka were **observers** of Honda, Canon, Fuji-Xerox, NEC, plus 3M /
 | **“Agile is anarchist” essays** | Flatten = anarchism **inside** the corporation. | Left **claims** the politics; **not** “Marx designed Snowbird.” |
 | **Yugoslav self-management historiography** | Council + hidden party/manager dual hierarchy. | **Communist** analog, **not** an Agile origin paper. |
 | **Crichton, *Disclosure* (1994)** | Accusation vs product captain; merger/sex/counsel beat the drive; **doing the job** closes the meeting; informal power without title; Sony/Philips rivalry. | **Early rhyme**, not the AU-057 package. **No** Agile/Scrum, **no** MS/Apple/Google labor-OS, **no** Marxist self-label. **§5.8.** |
+| **Lee Iacocca with William Novak, *Iacocca: An Autobiography* (1984)** | “Most important decisions in corporate life are made by **individuals, not by committees**”; democratic until the decision, then “**ruthless commander**”; committees share knowledge — when they **replace** individuals, productivity declines. | **Adjacent captain argument** (Documented quote). Same-decade Japan/industrial-base anxiety as *Rising Sun*. **Does not** name Agile, Snowbird, Marxism, or monopoly gardens. **Not** the AU-057 package. |
+| **Peters & Waterman, *In Search of Excellence* (1982)** | “**Bias for action**” vs analysis paralysis / committee fog in big firms. | **Adjacent** management culture. Rhyme only; **not** communism map; **not** Scrum indictment. |
+| **Academic “agile governance” / “responsive authoritarianism”** (e.g. [Xiao on China’s AI regulation](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562)) | State bodies **iterate** tech/AI rules quickly — complexity, agility, flexibility. | **Macro administration**, **not** software Scrum. Homonym. Do **not** draft as prior art for AU-057’s Guide critique. **§9.8.** |
 
 ### 6.2 What was **not** found
 
@@ -565,8 +590,10 @@ Crichton wrote a **harassment thriller**. DigiCom is **fiction**. Sony/Philips l
 | **R. *Disclosure* (1994) is an early contributor; only leadership exits; untitled collectivist power at the top** | **Author on Agile/Marx join; plot Supported; tape-admissibility Unverified** | Accusation-breaks-cycle, victim/sabotage reverse, **doing the job** closes the meeting, Sony/Philips + 1987 lawyer seed, informal power (counsel / Kaplan / “Friend”) = **Documented** as fiction. **“Contributor to this debate”** and **Marx vs authoritarianism** = **author frame**. Perfect cellphone-on-tape luck = **in the novel** (cellular phone left open → Levin answering machine); court-inadmissible = **author inference** until page-cited. Crichton **did not** name Scrum. **§5.8.** |
 | **S. Communism is rear force; Crichton named associated threats without the C-word (McCarthyism taboo)** | **Author package; stigma/bait-switch Supported; Crichton silence Documented** | **§9.6 / AU-057q.** He **did not** say communism — **expected** under author’s taboo, not a falsifier. Public themes map to collectivist/anti-captain history; fronts (harassment theater, Japan panic) need not be Party-aligned. **Not** a 1994 legal ban on the word. |
 | **T. Agile / *Disclosure* = NSA vs CIA ideology lane** | **Author camp join; calendar Documented** | **§9.7 / AU-057r.** *Disclosure* = NSA-aligned captain antibody; American Scrum = CIA/globalist labor OS seed. Same decade as Hollywood camp catalog. Not a signed intel memo. |
+| **U. Iacocca / Peters = adjacent captain arguments, not AU-057** | **Documented quotes; not the package** | **§6.1.** Individuals-not-committees (1984); bias for action (1982). Same era’s fight for a **named decision-maker**. **No** Agile/Marx/monopoly join. |
+| **V. Post-USSR / China shadow governance parallels Agile** | **Author package; academic “agile governance” Documented as ≠ Scrum** | **§9.8 / AU-057s.** Leaders fall / shadows run = structural rhyme with DigiCom + no-hierarchies offices. Xiao et al. / responsive-authoritarianism literature = **macro admin**, **not** Scrum Guide. No CCP–Snowbird identity. |
 
-**Bottom line for the author:** the **contradiction is real** and **in the primary texts**. The **Japan/America split is documented**, not vibe: they **kept** leaders and **changed the job**; the US **wrote the flatten**. The **official reply** is mostly **redefinition** plus “we *are* Honda.” The **monopoly tank** is **documented**. **Marxist force** is the right **political family** (anti-captain collectivism) if you do **not** flatten it into “Lenin designed Jira.” The **intent-to-contain-civilization** step stays **author**.
+**Bottom line for the author:** the **contradiction is real** and **in the primary texts**. The **Japan/America split is documented**, not vibe: they **kept** leaders and **changed the job**; the US **wrote the flatten**. The **official reply** is mostly **redefinition** plus “we *are* Honda.” The **monopoly tank** is **documented**. **Marxist force** is the right **political family** (anti-captain collectivism) if you do **not** flatten it into “Lenin designed Jira.” The **intent-to-contain-civilization** step stays **author**. The **China/post-USSR** join is the same family at **state** scale — **rhyme**, not “Beijing runs Scrum.”
 
 ---
 
@@ -670,6 +697,28 @@ Zappos and holacracy shops **replicated** the experiment with **better branding*
 
 ---
 
+### 9.8 Post-USSR / China — disposable captains, shadow continuity (Agile rhyme)
+
+**Author lock (AJ–AM).** Completes **§9.5–§9.6** at **state** scale: the anti-captain grammar did not die with Moscow.
+
+| Layer | Claim | Score |
+|-------|--------|-------|
+| **Survivors after 1991** | Chinese communism and other durable managed forms that **outlived the USSR** kept a governance pattern where **public leaders are replaceable** and **untitled continuity** (party organs, apparatus, informal networks) **runs** the country. | **Author** on “determines how the country is governed.” **Documented** as broad historiography that CCP outlived CPSU; **not** a claim every post-Soviet state runs the same OS. |
+| **Leaders go down / shadows run things** | Visible faces rise, purge, retire, or fall; the **machine** does not need a **named product captain** the public can hold. Same grammar as DigiCom counsel/climbers (**§5.8 AA**) and Scrum’s “**no hierarchies**” while backlog and garden still move. | **Author structural rhyme.** Specimens of high-profile Chinese leadership turnover are **public record**; inferring “shadows always run” as a **complete** national law is **author**. |
+| **Parallel to Agile/Scrum** | Software offices: command illegitimate, hard calls stall, untitled power still ships enclosure. State forms: named leaders fall, process/party continuity continues. **Same political family** as **AU-057m** (anti-captain collectivism) at larger scale. | **Author.** **Not** a claim the CCP adopted Sutherland/Schwaber, or that Snowbird copied Zhongnanhai. |
+| **Academic “agile governance” / “responsive authoritarianism”** | Literature describes Chinese regulators **iterating** quickly on tech and AI policy — agile, flexible, patchwork rules rather than one slow omnibus law. Example: Baiyang Xiao, [“Agile and iterative governance: China’s regulatory response to AI”](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562) (abstract keywords include **responsive authoritarianism**). Older political science uses **responsive authoritarianism** for feedback-within-control (e.g. environmental penalties literature). | **Documented vocabulary** for **macro state administration**. **Explicitly not** software-engineering Scrum. Homonym only. Do **not** cite these papers as proof Beijing runs standups. |
+
+**Discipline:**
+
+1. **Do** use the parallel as **structural rhyme** with DigiCom + American flatten.  
+2. **Do not** invent a CCP–Scrum Guide identity or a Snowbird–Beijing tasking memo.  
+3. **Do** gloss academic **agile governance** in the same breath as **not Scrum** whenever the phrase appears.  
+4. **Do** keep Yugoslav self-management (**§9.5**) as the closer **communist-org** analog for dual hierarchy; China here is the **post-USSR survivor** specimen for **disposable face / continuous shadow**.
+
+**Official steelman:** China is **hyper-hierarchical** (Xi, Politburo, cadre ranks) — nothing like a Scrum Team. **Author reply:** Leninist **centralism** and New Left **anti-boss** flatten are **different machines** (**§9.5** already). The rhyme here is **not** “Beijing has no bosses.” It is **public captains are expendable** while **untitled continuity** owns the outcome — the DigiCom top-floor pattern, not the stand-up ritual.
+
+---
+
 ## 10. The bigger containment — Microsoft, Apple, Google
 
 ### 10.1 Proven agreements (not vibes)
@@ -748,6 +797,7 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | **AU-057p** | **Crichton *Disclosure* (1994)** is an **early contributor** to the leadership-vs-collectivist-process debate: accusation can **halt** a delicate product cycle; **truth/tape/defense are not the exit**; **only leadership** (gather the team, fix the product, present) works; sex/backdoor dealing and **untitled** power supplant captains at the top; era compared itself to **Japan** while the real drivers were informal. Crichton **did not** name Agile or a known firm’s software method. | Author join; plot/timing/**Sony–Philips** **Documented**; Marx-label and court-inadmissible-tape **Author / Unverified** |
 | **AU-057r** | Agile / *Disclosure* / anti-captain collectivism are a **labor-and-fiction lane** of the global **NSA vs CIA/MI6 ideology split**: NSA-aligned = captain + audit + do the job; CIA/globalist = no hierarchies + optics/accusation + untitled power. Same 1990s calendar as *Stargate* / *ID4* / *Congo*. **No** agency-tasking claim. | Author (**§9.7**); dates Documented; camp grammar Author |
 | **AU-057q** | Communism is a **rear establishment force**, not a **front-facing** threat; it creates or rides **fronts** that are often **not** communist-aligned (e.g. radical Islam). The **C-word** was **taboo / McCarthyism-stigma** in polite politics, so serious writers name **associated threats** without saying it. Crichton’s public *Disclosure* set (protectionism, PC, hierarchy-as-scandal, untitled power, Japan/cost theater) is **100%** that associated set — he was **not** talking about communism **directly**, and that silence is **expected**, not a falsifier. | Author package (**§9.6**); C-word stigma + fake-communism/real-corporatism **Supported** in Phoenix/Q-trance + percentage-ads; Crichton **Documented** silence on the noun |
+| **AU-057s** | **Post-USSR surviving forms** (Chinese communism foremost) **parallel Agile/Scrum** at country scale: **public leaders go down**, **people in the shadows run things** — disposable captains + untitled continuity. May shape how the **entire country** is governed. Academic **“agile governance” / “responsive authoritarianism”** = macro tech/AI policy iteration — **not** software Scrum. **No** CCP–Scrum Guide or Snowbird–Beijing identity. | Author (**§1.8 / §9.8**); academic term Documented as state-admin vocabulary; leadership-turnover specimens public |
 
 ---
 
@@ -764,6 +814,8 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | **Q7** | Full Japanese text of Nonaka’s 2013 Scrum dialogues: how far does he **reject** “no hierarchies”? | Obtain the book; do not over-read the English blog summary. |
 | **Q8** | Any Snowbird participant **memoir** that cites Marx, 1968, or Yugoslav self-management as a **source**? | Archives / oral history. **Absence** still leaves the **structural** rhyme. |
 | **Q9** | Does the *Disclosure* **novel** (not the film) contain a line that a contemporaneous recording would be **inadmissible**? | Page cite. Until then, treat the user’s court-tape remark as **author inference**. |
+| **Q10** | Does any CCP process literature **cite** the Scrum Guide or Snowbird as a **source** for cadre/admin reform? | Archive hunt. **Absence** leaves **AU-057s** as rhyme, not identity. |
+| **Q11** | How far do Chinese **cadre** ranks contradict “no hierarchies” while still allowing **disposable** public faces? | Separate Leninist-centralism from New Left flatten (**§9.5 / §9.8** already). |
 
 ---
 
@@ -812,10 +864,11 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) | Upstream holy-war geometry for Islam-as-front |
 | [Childhood autism / “full communism”](/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) | Collectivist mass-grading = author communism sense |
 | [Holodomor–Holocaust memory](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) | Communist revolution as OS; tip vs ideologue |
+| [Crichton's Prophecy (reader essay)](/science/computing/crichtons-prophecy.md) | Manifesto companion — *Disclosure* → only leadership works → rear force → office lane → China/shadow parallel |
 
 ---
 
-Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood
+Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood #Iacocca #InSearchOfExcellence #China #AgileGovernance #ResponsiveAuthoritarianism #PostUSSR
 
 *Last updated: 2026-09-12*
 
@@ -839,13 +892,15 @@ Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird
 - **AU-057p / *Disclosure*:** Fiction ≠ court fact; **book ≠ film**. Crichton **does not** name Agile/Scrum or a known firm’s software cycle. **Marx vs authoritarianism** is the **author’s** frame (authoritarianism here = **classic command treated as a moral defect**). Lucky tape = Tom’s **cellular phone** left open → **Levin answering-machine** audio (not video); film = cellphone → voicemail. Author’s “you rarely get that in real life” + **court-inadmissible** = inference unless page-cited. Japan-competition is **Sony/Philips** in-book plus ***Rising Sun*** in the corpus — **not** a Toyota/Scrum lecture. Do **not** collapse into **AU-053** MeToo.  
 - **AU-057q / communism rear force:** Author package. Crichton **Documented** not saying *communism*. “Banned word” = **McCarthyism / polite-politics taboo**, not a 1994 legal ban. Cross-links to percentage-ads, Phoenix/Q-trance, good-actor radical Islam are **thematic**. Do **not** invent a Crichton Party speech.
 - **AU-057r / NSA–CIA split:** Author taxonomy join to the Hollywood two-camp dossier. **Not** a finding of agency authorship of Scrum, Snowbird, or *Disclosure*. Camp = **grammar**, title-by-title / mechanism-by-mechanism.
+- **Iacocca / Peters (§6.1):** Adjacent **captain** arguments only. **Not** Disclosure clones; **not** the AU-057 monopoly/Marx package.
+- **AU-057s / China–Agile parallel:** Author structural rhyme. **Not** “the CCP runs Scrum” or “Snowbird copied Zhongnanhai.” Academic **agile governance** / **responsive authoritarianism** = **macro state administration** (tech/AI policy iteration) — **explicitly not** software-engineering Scrum ([Xiao abs](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562)). Leninist hierarchy counters the “no bosses” misread; the author rhyme is **disposable public captains + shadow continuity**, not stand-up ritual.
 
 ---
 
 ## Investigator notes
 
 - Opened from author session **2026-09-12** (`America/New_York`).  
-- User asked for **investigation only** (no parent-folder article path named). Do **not** draft a reader essay unless a path is given.  
+- Reader companion shipped same day: [`/science/computing/crichtons-prophecy.md`](/science/computing/crichtons-prophecy.md).  
 - Snowbird history: [agilemanifesto.org/history](https://agilemanifesto.org/history) (Highsmith). Values/principles: manifesto root + `/principles.html`. Scrum: [scrumguides.org](https://scrumguides.org/scrum-guide.html) 2020. Sutherland 2020 patch: InfoQ Q&A.  
 - 1997 deal: Microsoft Source post + DOJ proposed findings (browser default clauses). No-poach: Chicago Unbound “Silicon Valley No-Poach Conspiracy”; Koh / TechCrunch 2012.  
 - Freeman: jofreeman.com canonical. Occupy: in-repo investigation + Jacobin / Occupy.com consensus pieces.  
@@ -855,3 +910,4 @@ Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird
 - Same-day: *Disclosure* (§1.5 / §5.8 / AU-057p). Primaries this pass: [michaelcrichton.com/works/disclosure](https://michaelcrichton.com/works/disclosure/) (1987 lawyer seed; Sony/Philips passage; Crichton’s “In His Own Words”); novel plot (cellular phone left open → Levin answering machine; Malaysia QC; Kaplan). On-record add: Charlie Rose 1994; *Disclosure* afterword; *Rising Sun* afterword; WIRED “Mediasaurus” 1993. Author said **cellphone on tape** (audio), not video — do not over-correct to “answering machine only.” Do not invent an admissibility monologue. Book vs film differ — file the **novel**. He **did** go public; he did **not** name Agile/Marx.
 - Same-day: §1.6 / §9.6 / AU-057q — communism as rear force; C-word taboo; Crichton named associated fronts. Cross: percentage-ads, Phoenix, Q-trance, good-actor, 1979, autism “full communism,” Holodomor OS.
 - Same-day: §1.7 / §9.7 / AU-057r — Agile/*Disclosure* as NSA vs CIA ideology lane; cross hollywood-two-camp-war. Do not invent agency tasking.
+- Same-day: §1.8 / §9.8 / AU-057s — post-USSR / China shadow-governance parallel; academic agile governance ≠ Scrum (Xiao ScienceDirect abs). §6.1 Iacocca (1984) + Peters/Waterman (1982) adjacent captain prior-art. Reader companion path named: `science/computing/crichtons-prophecy.md`.
