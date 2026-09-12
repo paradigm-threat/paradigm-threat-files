@@ -248,8 +248,9 @@ export function prefetchDeferredMarkdown(src) {
 
 /**
  * Single network path for the home deferred island.
- * Prefer warm cache, then one sync tip GET when tipBase is set (avoids empty
- * cachedGet + second fetch). Fall back to cachedGet when tipBase is empty.
+ * Prefer warm cache, then same-Host cachedGet (same path as page.md), then
+ * absolute tipBase GET. Never return empty after a tipBase miss without
+ * trying cachedGet.
  */
 export function loadDeferredFragment(src, tipBase) {
   let s = src
@@ -261,6 +262,11 @@ export function loadDeferredFragment(src, tipBase) {
   }
   if (isVirtualDeferredSrc(s)) {
     return ''
+  }
+  // Prefer relative tip GET — matches ArticleView page.md load (works on park).
+  const viaCache = loadFragment(s)
+  if (typeof viaCache === 'string' && viaCache.length > 0) {
+    return viaCache
   }
   if (typeof tipBase === 'string' && tipBase.length > 0) {
     try {
@@ -280,9 +286,8 @@ export function loadDeferredFragment(src, tipBase) {
         }
       }
     } catch (e) {}
-    // tipBase set but empty/failed — still try same-Host cachedGet.
   }
-  return loadFragment(s)
+  return ''
 }
 
 export function homeInvestigationsSrc() {
