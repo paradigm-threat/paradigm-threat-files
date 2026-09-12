@@ -393,14 +393,6 @@ export default function ArticleView(props) {
           }
         }
         let frag = ''
-        let rawLen = -1
-        try {
-          const rawProbe = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-          if (typeof rawProbe === 'string') rawLen = rawProbe.length
-          else rawLen = -2
-        } catch (eRaw) {
-          rawLen = -3
-        }
         try {
           frag = loadDeferredFragment(src, clientBase())
         } catch (eFrag) {
@@ -413,8 +405,8 @@ export default function ArticleView(props) {
             frag = ''
           }
         }
-        // Last resort: use raw tip GET without rewrite (fill > polish).
-        if (!(typeof frag === 'string' && frag.length > 0) && rawLen > 0) {
+        // Last resort: raw tip GET if rewrite/warm path failed.
+        if (!(typeof frag === 'string' && frag.length > 0)) {
           try {
             const rawAgain = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
             if (typeof rawAgain === 'string' && rawAgain.length > 0) {
@@ -426,14 +418,11 @@ export default function ArticleView(props) {
           typeof frag === 'string' && frag.length > 0 ? frag.length : 0
         const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
         const minStyle = deferredMinHeightStyle(minPx)
-        const dbg =
-          'frag=' + fragLen + ',raw=' + rawLen + ',src=' + src + ',split=1'
         if (fragLen > 0) {
           deferredIsland = (
             <section
               className="pt-deferred-md"
               data-pt-deferred="1"
-              data-pt-deferred-dbg={dbg}
               aria-label="Deferred section"
               style={minStyle}
             >
@@ -469,7 +458,6 @@ export default function ArticleView(props) {
               aria-label="Deferred section"
               aria-busy="true"
               data-pt-deferred-pending="1"
-              data-pt-deferred-dbg={dbg}
               style={minStyle}
             />
           )
