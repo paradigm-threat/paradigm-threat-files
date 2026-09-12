@@ -38,6 +38,11 @@ has 'pt-changelog' || {
   exit 1
 }
 
+has 'pt-dead-link' || {
+  echo "FAIL: missing pt-dead-link used-class marker in SSR body" >&2
+  exit 1
+}
+
 has 'Paradigm Threat' || {
   echo "FAIL: missing Paradigm Threat brand marker" >&2
   exit 1

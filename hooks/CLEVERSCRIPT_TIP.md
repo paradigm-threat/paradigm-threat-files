@@ -14,7 +14,7 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 |--------|---------|
 | `@relay/catalog` | `parseNavIndexTxt`, `loadNavIndex`, `extractMarkdownHeadings`, `contentKind`, `buildDirTree`, `publishedFromBlogPath`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
 | `@relay/date` | `formatTiny` / `formatLong` / `formatFeed` / `sameDay` |
-| `@relay/path` | `basename`, `dirname`, `join`, `split`, `normalizeRel`, `resolveRel`, `parentDir`, `siteHref`, `resolveEmbedSrc`, `resolveAssetUrl`, `rewriteMarkdownAssetUrls`, `portraitSiblingSrc`, `repoRelFromMediaSrc`, `safeImgDomId`, `readHashImgSrc`, `galleryImgHash`, `galleryDisplaySrc`, `portraitSiblingIfPresent` |
+| `@relay/path` | `basename`, `dirname`, `join`, `split`, `normalizeRel`, `resolveRel`, `parentDir`, `siteHref`, `resolveEmbedSrc`, `resolveAssetUrl`, `rewriteMarkdownAssetUrls`, `portraitSiblingSrc`, `repoRelFromMediaSrc`, `safeImgDomId`, `readHashImgSrc`, `galleryImgHash`, `galleryDisplaySrc`, `portraitSiblingIfPresent`, `normalizeHttpHref`, `lookupHttpHref` |
 | `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `uniqueId`, `includes`, `splitSentences`, `takeSentenceChunk` |
 | `@relay/ui` | `cachedGet`, `Link`, `RadioTabs`, `safeProps` |
 | `@relay/tts` | `synthesize` (Piper WAV→data URL), `AudioPlayer` |
@@ -46,6 +46,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay). TOC markers live in **`SiteChrome`** so home → article soft-nav still has `lg:pt-toc-lg` (otherwise TOC stays `display:none`).
 - **TOC is content-derived and host/OS-agnostic** — `@relay/catalog.extractMarkdownHeadings` (tip thin wrap) walks the markdown string (ATX + fence skip); `makeHeadingOverrides` stamps matching `id`s on `h1`–`h6`; `DynamicIndex` renders from `items` props with `#id` links and hash-only active state. **Do not** rebuild the TOC via `querySelector` / Dom poll / scroll-spy geometry.
 - **Heading override callables must not be named `h1`…`h6`** — CleverScript JSX can resolve those lowercase tags to the local binding and recurse until “Maximum recursion depth exceeded”. Name them `renderHeading1`, etc.
+- **Anchor override callables must not be named `a`** — same JSX shadowing risk. Name them `renderMdAnchor` (or similar) and look up dead hrefs with `@relay/path.lookupHttpHref`.
 - **New tip modules must be listed in `hooks.json`** — CSR hydrate only prefetches that manifest (SSR follows imports). Missing entries → `Module not found: hooks/...` hydration error with static shell left below.
 
 ## Render rarity (theme, font, chrome)

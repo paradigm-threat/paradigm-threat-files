@@ -2,9 +2,10 @@ import React, { useState } from 'react'
 import { isClientLive, isClientLivePhase } from '@clevertree/style-internal'
 import { MarkdownRenderer } from '@clevertree/markdown'
 import { neighborPaths as hostNeighborPaths } from '@relay/catalog'
-import { normalizeRel, resolveRel, parentDir } from '@relay/path'
+import { normalizeRel, resolveRel, parentDir, lookupHttpHref } from '@relay/path'
 import { cachedGet } from '@relay/ui'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
+import { parseJson } from 'hooks/client/jsonUtil.jsx'
 import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import Layout from 'hooks/client/components/Layout.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
@@ -157,6 +158,127 @@ function loadArticleMarkdown(pathPart) {
 }
 
 /**
+ * Confirmed-dead map from this tip. Module warm: one cachedGet per session.
+ * Call once per render *before* MarkdownRenderer (nested cachedGet in an
+ * override can abort the vnode). Missing/empty JSON → {}.
+ */
+let deadUrlsWarm = null
+
+function loadDeadUrls() {
+  if (deadUrlsWarm !== null) return deadUrlsWarm
+  try {
+    const text = cachedGet('/hooks/dead-urls.json')
+    const obj = parseJson(text)
+    if (obj && typeof obj === 'object') {
+      deadUrlsWarm = obj
+      return deadUrlsWarm
+    }
+  } catch (e) {}
+  deadUrlsWarm = {}
+  return deadUrlsWarm
+}
+
+/**
+ * MarkdownRenderer `a` override. Do not name this callable `a` — JSX would
+ * recurse. Lookup is sync against an already-loaded map (no fetch here).
+ */
+function makeRenderMdAnchor(deadUrls) {
+  const lookup = lookupHttpHref
+  const renderMdAnchor = (p) => {
+    let href = ''
+    let children = null
+    let className = ''
+    let title = ''
+    let onClick = null
+    let controlled = false
+    try {
+      if (p && typeof p.href === 'string') href = p.href
+    } catch (e) {}
+    try {
+      if (p && p.children !== null) children = p.children
+    } catch (e2) {}
+    try {
+      if (p && typeof p.className === 'string') className = p.className
+    } catch (e3) {}
+    try {
+      if (p && typeof p.title === 'string') title = p.title
+    } catch (e4) {}
+    try {
+      if (p && p.onClick) onClick = p.onClick
+    } catch (e5) {}
+    try {
+      if (p && p.relayControlled === true) controlled = true
+    } catch (e6) {}
+
+    let dead = null
+    try {
+      dead = lookup(deadUrls, href)
+    } catch (e7) {
+      dead = null
+    }
+
+    let reason = ''
+    if (dead) {
+      try {
+        if (dead && typeof dead.reason === 'string') reason = dead.reason
+      } catch (e8) {}
+      if (reason.length === 0) reason = 'dead'
+    }
+
+    let cls = className
+    if (dead) {
+      if (cls.length > 0) {
+        cls = cls + ' pt-dead-link'
+      } else {
+        cls = 'pt-dead-link'
+      }
+    }
+
+    let marker = null
+    if (dead) {
+      marker = ' (dead)'
+    }
+
+    let useTitle = title
+    if (dead) {
+      useTitle = reason
+    }
+
+    if (onClick) {
+      if (controlled) {
+        return (
+          <a href={href} className={cls} title={useTitle} onClick={onClick} relayControlled={true}>
+            {children}
+            {marker}
+          </a>
+        )
+      }
+      return (
+        <a href={href} className={cls} title={useTitle} onClick={onClick}>
+          {children}
+          {marker}
+        </a>
+      )
+    }
+    if (controlled) {
+      return (
+        <a href={href} className={cls} title={useTitle} relayControlled={true}>
+          {children}
+          {marker}
+        </a>
+      )
+    }
+    return (
+      <a href={href} className={cls} title={useTitle}>
+        {children}
+        {marker}
+      </a>
+    )
+  }
+  return renderMdAnchor
+}
+
+/**
  * On-tree article — MarkdownRenderer with overrides for AutoIndex / ChangeLog / EmbedFile.
  */
 export default function ArticleView(props) {
@@ -227,6 +349,8 @@ export default function ArticleView(props) {
   if (!live && csr) {
     return null
   }
+  const deadUrls = loadDeadUrls()
+  const renderMdAnchor = makeRenderMdAnchor(deadUrls)
   const loaded = loadArticleMarkdown(pathPart)
   let markdownContent = loaded.markdownContent
   let errMsg = loaded.errMsg
@@ -441,6 +565,7 @@ export default function ArticleView(props) {
                   EmbedFile: renderEmbedFile,
                   PopImage: renderPopImage,
                   img: renderPopImage,
+                  a: renderMdAnchor,
                   h1: headingOverrides.h1,
                   h2: headingOverrides.h2,
                   h3: headingOverrides.h3,
@@ -483,6 +608,7 @@ export default function ArticleView(props) {
     EmbedFile: renderEmbedFile,
     PopImage: renderPopImage,
     img: renderPopImage,
+    a: renderMdAnchor,
     h1: headingOverrides.h1,
     h2: headingOverrides.h2,
     h3: headingOverrides.h3,
@@ -551,7 +677,7 @@ export default function ArticleView(props) {
                   <span
                     aria-hidden="true"
                     hidden={true}
-                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
+                    className="pt-dead-link pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
                     data-pt-md-css="true"
                   />
                 </div>
@@ -561,7 +687,7 @@ export default function ArticleView(props) {
                   <span
                     aria-hidden="true"
                     hidden={true}
-                    className="pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
+                    className="pt-dead-link pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
                     data-pt-md-css="true"
                   />
                 </div>

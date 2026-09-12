@@ -40,6 +40,8 @@ Hand-stamped dates and **`Last updated`** lines use **US Eastern** (`America/New
 | Git remotes (operator detail) | [`docs/GIT_REMOTE_STRATEGY.md`](docs/GIT_REMOTE_STRATEGY.md) |
 | Media / IPFS | [`docs/MEDIA_AND_IPFS.md`](docs/MEDIA_AND_IPFS.md) |
 | Prisca sapientia epistemic base | [`docs/PRISCA_SAPIENTIA.md`](docs/PRISCA_SAPIENTIA.md) |
+| Dead-URL probe (daily JSON list) | [`docs/LINKING_AND_SITE_PATHS.md`](docs/LINKING_AND_SITE_PATHS.md) |
+| Dead-URL replacement sweep (author-requested) | [`docs/DEAD_URL_REPLACEMENT_SWEEP.md`](docs/DEAD_URL_REPLACEMENT_SWEEP.md) |
 
 **Before ship:** `npm run autogen` from repo root after substantive `.md` edits.
 
@@ -63,6 +65,6 @@ Do **not** load unless the task touches that topic:
 
 - **Iran 2026 / Rubio “world none of us want to leave behind”** — [`governance/war/mission-accomplished-again-iran-2026.md`](governance/war/mission-accomplished-again-iran-2026.md) (cite **Rubio**, not Vance; May 5, 2026 briefing).
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-12*
 
 **Catalog index:** [`relay-master/docs/CATALOG_AGENTS.md`](../relay/relay-master/docs/CATALOG_AGENTS.md) lists all mesh catalog repos.

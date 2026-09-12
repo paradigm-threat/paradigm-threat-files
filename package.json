@@ -12,6 +12,8 @@
     "autogen": "npm run check-keywords && npm run validate-site-claims && npm run check-no-ipfs-media-stubs",
     "generate-mgga-onepager": "./.venv/bin/python scripts/generate-mgga-onepager.py",
     "exact-change-sim": "node scripts/exact-change-wallet-sim.mjs",
+    "check-dead-urls": "node scripts/check-dead-urls.mjs",
+    "test:dead-urls": "node --test scripts/check-dead-urls.test.mjs",
     "prepare": "husky"
   },
   "dependencies": {

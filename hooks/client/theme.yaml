@@ -489,6 +489,10 @@ themes:
         maxWidth: "42rem"
       ".pt-muted":
         color: "var(muted)"
+      ".pt-dead-link":
+        textDecoration: "line-through"
+        color: "var(muted)"
+        opacity: "0.75"
       ".pt-nav-chips":
         display: "flex"
         flexWrap: "wrap"

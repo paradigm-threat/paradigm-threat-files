@@ -82,3 +82,6 @@ governance/constitution/investigations/assets/phoenix-protest-timeline/VID_20200
 docs/sweep-plans/*
 !docs/sweep-plans/README.md
 !docs/sweep-plans/_TEMPLATE_SWEEP_PLAN.md
+
+# Dead-URL checker probe cache (confirmed list is hooks/dead-urls.json)
+hooks/dead-urls-state.json

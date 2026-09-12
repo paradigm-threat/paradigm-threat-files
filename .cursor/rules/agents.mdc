@@ -20,3 +20,4 @@ alwaysApply: true
 - Cosmology Q&A → [`docs/LLM_COSMOLOGY_QA.md`](../../docs/LLM_COSMOLOGY_QA.md)
 - Æther vocabulary → [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../../docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)
 - Articles → [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md)
+- Dead-URL replacement sweep → [`docs/DEAD_URL_REPLACEMENT_SWEEP.md`](../../docs/DEAD_URL_REPLACEMENT_SWEEP.md)
