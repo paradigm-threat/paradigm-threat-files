@@ -1178,7 +1178,7 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 
 Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #TheArrival1996 #Geoengineering #Terraforming #AGWCover #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading #BackToTheFuture #Disclosure #Agile #AU057 #CrichtonsProphecy
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-12 (*Disclosure* on NSA catalog)
 
 ---
 
