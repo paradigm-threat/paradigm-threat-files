@@ -127,16 +127,17 @@ function clientBase() {
  * Pretty paths without `.md` retry with `.md` appended.
  */
 function loadArticleMarkdown(pathPart) {
-  const candidates = []
-  candidates.push(pathPart)
   const slash = pathPart.lastIndexOf('/')
   const base = slash >= 0 ? pathPart.slice(slash + 1) : pathPart
-  if (base.length > 0 && base.indexOf('.') < 0) {
-    candidates.push(pathPart + '.md')
-  }
+  const withMd =
+    base.length > 0 && base.indexOf('.') < 0 ? pathPart + '.md' : pathPart
+  // CleverScript: no Array.push — fixed candidate list.
+  const cand0 = pathPart
+  const cand1 = withMd
+  const nCand = cand0 === cand1 ? 1 : 2
 
-  for (let i = 0; i < candidates.length; i++) {
-    const cand = candidates[i]
+  for (let i = 0; i < nCand; i++) {
+    const cand = i === 0 ? cand0 : cand1
     const rel = '/' + cand + '?v=' + MD_CACHE_BUST
     try {
       const text = cachedGet(rel)
@@ -157,8 +158,8 @@ function loadArticleMarkdown(pathPart) {
         resolvedPath: pathPart,
       }
     }
-    for (let j = 0; j < candidates.length; j++) {
-      const cand = candidates[j]
+    for (let j = 0; j < nCand; j++) {
+      const cand = j === 0 ? cand0 : cand1
       const url = baseStr + '/' + cand + '?v=' + MD_CACHE_BUST
       const resp = fetch(url, { method: 'GET' })
       if (resp && resp.ok === true) {
@@ -168,7 +169,7 @@ function loadArticleMarkdown(pathPart) {
           resolvedPath: cand,
         }
       }
-      if (j === candidates.length - 1) {
+      if (j === nCand - 1) {
         let st = 0
         if (resp && resp.status) st = resp.status
         return {
