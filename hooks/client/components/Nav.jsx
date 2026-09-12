@@ -23,12 +23,14 @@ const FONT_STYLESHEET =
   'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
 
 /** Glass + article font stacks + chrome toggles that must not use CleverScript setState.
- * (themed-styler cannot express backdrop-filter / data-font / html.dark icon swap.)
- * Prefer <link rel="stylesheet"> in Nav over @import inside <style> (blocks paint).
- * Inactive-until-hydrated: host sets html[data-pt-hydrated]; .pt-client-only greys out
- * (theme/font/hamburger). Primary <a> links must stay clickable in SSR — below lg the
- * desktop nav is display:none and the menu button is disabled, so force-show the
- * link row until hydrated. :disabled / aria-disabled cover pre-host tips. */
+ * (themed-styler cannot express backdrop-filter / data-font / dual-sheet icon swap.)
+ * Tip light/dark rules must mirror css_for_web_system: base → prefers-color-scheme →
+ * html.dark → html.light. Prefer <link rel="stylesheet"> in Nav over @import inside
+ * <style> (blocks paint). Inactive-until-hydrated: host sets html[data-pt-hydrated];
+ * .pt-client-only greys out (theme/font/hamburger). Primary <a> links must stay
+ * clickable in SSR — below lg the desktop nav is display:none and the menu button
+ * is disabled, so force-show the link row until hydrated. :disabled / aria-disabled
+ * cover pre-host tips. */
 function navChromeCss() {
   return (
     '.pt-site-nav{position:fixed!important;top:0;left:0;right:0;z-index:100;' +
@@ -40,10 +42,18 @@ function navChromeCss() {
     '.pt-font-toggle{font-family:"EB Garamond",Georgia,serif;}' +
     'html[data-font="franklin"] .pt-font-toggle{font-family:"Libre Franklin",system-ui,sans-serif;}' +
     'html[data-font="mono"] .pt-font-toggle{font-family:"JetBrains Mono","Courier New",monospace;}' +
+    // Dual-sheet triad (match css_for_web_system): base light → prefers-color-scheme
+    // dark → html.dark force → html.light force. Do not rely on html.dark alone.
     '.pt-theme-icon-sun{display:none;}' +
     '.pt-theme-icon-moon{display:inline-flex;}' +
+    '@media (prefers-color-scheme: dark){' +
+    '.pt-theme-icon-sun{display:inline-flex;}' +
+    '.pt-theme-icon-moon{display:none;}' +
+    '}' +
     'html.dark .pt-theme-icon-sun{display:inline-flex;}' +
     'html.dark .pt-theme-icon-moon{display:none;}' +
+    'html.light .pt-theme-icon-sun{display:none;}' +
+    'html.light .pt-theme-icon-moon{display:inline-flex;}' +
     'html[data-pt-hydrated="0"] .pt-client-only,' +
     '.pt-client-only:disabled,' +
     '.pt-client-only[aria-disabled="true"]{' +
@@ -67,15 +77,23 @@ function navChromeCss() {
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +
     'padding:0!important;border:0!important;' +
     '}' +
-    // Legacy archive banner (mirrors Vercel migration strip).
+    // Legacy archive banner (mirrors Vercel migration strip) — same dual-sheet triad.
     '.pt-legacy-banner{display:block;width:100%;box-sizing:border-box;' +
     'border-top:1px solid rgba(180,83,9,0.25);background:#fef3c7;color:#78350f;' +
     'padding:0.5rem 1rem;text-align:center;font-size:0.875rem;font-weight:500;' +
     'text-decoration:none;transition:background-color 0.15s ease;}' +
     '.pt-legacy-banner:hover{background:#fde68a;}' +
+    '@media (prefers-color-scheme: dark){' +
+    '.pt-legacy-banner{border-top-color:rgba(251,191,36,0.2);' +
+    'background:rgba(69,26,3,0.8);color:#fffbeb;}' +
+    '.pt-legacy-banner:hover{background:rgba(120,53,15,0.9);}' +
+    '}' +
     'html.dark .pt-legacy-banner{border-top-color:rgba(251,191,36,0.2);' +
     'background:rgba(69,26,3,0.8);color:#fffbeb;}' +
     'html.dark .pt-legacy-banner:hover{background:rgba(120,53,15,0.9);}' +
+    'html.light .pt-legacy-banner{border-top-color:rgba(180,83,9,0.25);' +
+    'background:#fef3c7;color:#78350f;}' +
+    'html.light .pt-legacy-banner:hover{background:#fde68a;}' +
     '.pt-legacy-banner-inner{display:inline-flex;flex-wrap:wrap;align-items:center;' +
     'justify-content:center;gap:0.35rem 0.4rem;}' +
     '.pt-legacy-banner-link{text-decoration:underline;text-underline-offset:2px;}'

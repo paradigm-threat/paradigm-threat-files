@@ -4,11 +4,13 @@ import { IconMoon, IconSun } from 'hooks/client/components/Icons.jsx'
 
 /**
  * Flip html.light / html.dark only — no useState / set_render_requested.
- * Dual theme CSS (html.dark / html.light) + both icons live in the sheet;
- * show/hide via navChromeCss. Do not call setCurrentTheme or set data-theme.
+ * Tip chrome (icons, banner) must use the dual-sheet triad in navChromeCss:
+ * base light → @media (prefers-color-scheme: dark) → html.dark → html.light.
+ * Do not call setCurrentTheme or set data-theme.
  *
- * Host syncHtmlThemeClass prefers html[data-pt-theme] over WASM current_theme,
- * so catalog remounts keep the tip choice without a polling interval.
+ * Persist: data-pt-theme + localStorage `pt-theme`. Host syncHtmlThemeClass
+ * restores class from those (not tip useEffect — soft-hydrate may skip effects)
+ * before falling back to WASM current_theme.
  */
 
 function applyThemeClass(name) {

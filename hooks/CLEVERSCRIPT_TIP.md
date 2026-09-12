@@ -54,12 +54,19 @@ Relay CleverScript is **not** React Fiber. On web, each `setState` that calls `s
 
 | Do | Don't |
 |----|--------|
-| Flip `html` class (`light`/`dark`) against dual CSS (`html.dark` / `html.light`) | `useState` only to swap sun/moon icons |
+| Flip `html` class (`light`/`dark`) against dual CSS (`html.dark` / `html.light` + `prefers-color-scheme`) | `useState` only to swap sun/moon icons |
 | Flip `html[data-font]` + CSS for article / Ag badge face | `setState` on every font cycle |
 | CSS `:has()` / radio tabs for ChangeLog | Tab `setState` that remounts markdown |
 | Host-native widgets for high-churn UI | Grow tip libraries that thrash `setState` |
 
-**Theme / font toggles (web):** class / attribute + dual sheet only. Runtime injects `css_for_web_system` (`html.dark` / `html.light` + `prefers-color-scheme`). Keep both theme icons in the DOM; show/hide with `html.dark` rules in `navChromeCss`. Persist with `html[data-pt-theme]` + `localStorage` (host `syncHtmlThemeClass` prefers `data-pt-theme` over WASM `current_theme`). **Never** call `setCurrentTheme` / `data-theme` for park chrome (CSS regen + full re-render). Canon: `relay-gateway/docs/RELAY_CLEVERSCRIPT_REACT_RENDERING.md`, `relay-runtime/docs/STYLE_RESOLUTION.md`.
+**Theme / font toggles (web):** class / attribute + dual sheet only. Runtime injects `css_for_web_system` (`html.dark` / `html.light` + `prefers-color-scheme`). Tip-injected chrome (`navChromeCss` banner, theme icons, etc.) must use the **same dual-sheet triad** — not `html.dark` alone:
+
+1. **Base** = light
+2. **`@media (prefers-color-scheme: dark)`** = dark (empty `<html>` class / OS preference)
+3. **`html.dark`** = dark (forced)
+4. **`html.light`** = light (forced; beats the media query)
+
+Keep both theme icons in the DOM; show/hide with that triad. Persist with `html[data-pt-theme]` + `localStorage` (`pt-theme`). Host `syncHtmlThemeClass` restores class from `data-pt-theme`, then `localStorage`, then WASM `current_theme` — **do not** rely on tip `useEffect` after soft-hydrate (effects often never remount). **Never** call `setCurrentTheme` / `data-theme` for park chrome (CSS regen + full re-render). Canon: `relay-gateway/docs/RELAY_CLEVERSCRIPT_REACT_RENDERING.md`, `relay-runtime/docs/STYLE_RESOLUTION.md`.
 
 **Theme on Android (prep — do not implement tip DOM flips):** same `theme.yaml` `light`/`dark` tokens. Host uses JNI `nativeSetThemeAndRender(name)` to re-resolve the stored VNode **without** a CleverScript hook re-run (one native apply). Future dual style maps may remove re-resolve; until then tips must not rely on `html.dark` / `navChromeCss` cascade.
 
