@@ -1,6 +1,7 @@
 import React from 'react'
 import Nav from 'hooks/client/components/Nav.jsx'
 import ImageGalleryOverlay from 'hooks/client/components/ImageGalleryOverlay.jsx'
+import ShareOverlay from 'hooks/client/components/ShareOverlay.jsx'
 import ArticleTtsDock from 'hooks/client/components/ArticleTtsDock.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
@@ -91,6 +92,7 @@ export default function SiteChrome(props) {
         </p>
       </footer>
       <ImageGalleryOverlay />
+      <ShareOverlay />
       <ArticleTtsDock />
       {/* TOC classes must ship on every shell — home soft-nav to articles needs lg:pt-toc-lg. */}
       <span

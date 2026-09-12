@@ -2,9 +2,12 @@
  * Repo shell: path label + Up / Home + scrollable content.
  * Prefer href navigation from parent; optional onUp/onHome for same-page state.
  */
+import { isClientLivePhase } from '@clevertree/style-internal'
 import { dirname } from '@relay/path'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
+import { share } from 'hooks/client/shareStore.jsx'
+import { IconShare } from 'hooks/client/components/Icons.jsx'
 
 function parentHref(filePath) {
   let rel = typeof filePath === 'string' ? filePath : ''
@@ -28,6 +31,7 @@ export default function Layout(props) {
   const onHome = propOr(props, 'onHome', null)
   const children = props.children
   const upHref = parentHref(path)
+  const shareLive = isClientLivePhase(4) === true
 
   if (hideToolbar === true) {
     return (
@@ -59,6 +63,23 @@ export default function Layout(props) {
           <a className="pt-btn" href={siteHref('/')}>
             Home
           </a>
+        )}
+        {shareLive ? (
+          <button
+            type="button"
+            className="pt-btn"
+            onClick={() => {
+              share.openShare()
+            }}
+          >
+            <IconShare />
+            Share
+          </button>
+        ) : (
+          <button type="button" className="pt-btn pt-client-only" disabled={true}>
+            <IconShare />
+            Share
+          </button>
         )}
       </div>
       <div className="pt-article-body">{children}</div>

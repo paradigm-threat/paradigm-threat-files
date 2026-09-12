@@ -12,12 +12,15 @@ import DirNav from 'hooks/client/components/DirNav.jsx'
 import DynamicIndex from 'hooks/client/components/DynamicIndex.jsx'
 import {
   loadDirCatalogRows,
+  rowPath,
+  rowImageSrc,
   siteHref,
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 import { rewriteLegacyAppHref } from 'hooks/client/legacyAppHref.js'
 import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js'
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
+import { share } from 'hooks/client/shareStore.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import DeferredMarkdown, {
@@ -358,6 +361,7 @@ export default function ArticleView(props) {
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
   let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
+  const shareMd = errMsg ? '' : body
   // TOC from full tip before any deferred split (tail headings stay in index).
   const headingExtract = extractMarkdownHeadings(body)
   let tocItems = []
@@ -425,6 +429,24 @@ export default function ArticleView(props) {
     currentPath === '/' ||
     currentPath === '/index.md' ||
     currentPath === '/page.md'
+  if (hideToolbar !== true && shareMd.length > 0) {
+    let catalogImg = ''
+    if (live) {
+      const rows = loadDirCatalogRows()
+      for (let i = 0; i < rows.length; i++) {
+        if (rowPath(rows[i]) === pathPart) {
+          catalogImg = rowImageSrc(rows[i])
+          break
+        }
+      }
+    }
+    share.setShareArticle({
+      filePath: pathPart,
+      markdown: shareMd,
+      idQueue: idQueue,
+      imageSrc: catalogImg,
+    })
+  }
   // Home (page.md) and articles share content-derived TOC; skip bare index stubs.
   const showToc =
     pathPart !== 'README.md' &&

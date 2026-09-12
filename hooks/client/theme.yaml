@@ -675,6 +675,151 @@ themes:
         flex: 1
         minWidth: 0
         wordBreak: "break-all"
+      ".pt-share":
+        position: "fixed"
+        left: 0
+        right: 0
+        top: 0
+        bottom: 0
+        zIndex: 140
+        display: "flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "1rem"
+        boxSizing: "border-box"
+      ".pt-share-backdrop":
+        position: "absolute"
+        left: 0
+        right: 0
+        top: 0
+        bottom: 0
+        borderWidth: 0
+        backgroundColor: "rgba(15, 23, 42, 0.55)"
+        cursor: "pointer"
+      ".pt-share-panel":
+        position: "relative"
+        zIndex: 1
+        width: "100%"
+        maxWidth: "36rem"
+        maxHeight: "88vh"
+        display: "flex"
+        flexDirection: "column"
+        minHeight: 0
+        backgroundColor: "var(card)"
+        color: "var(foreground)"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        borderRadius: "1rem"
+        boxShadow: "0 25px 50px -12px rgba(15, 23, 42, 0.35)"
+        overflow: "hidden"
+      ".pt-share-head":
+        display: "flex"
+        alignItems: "center"
+        justifyContent: "space-between"
+        gap: "0.75rem"
+        padding: "0.75rem 1rem"
+        borderBottomWidth: 1
+        borderBottomStyle: "solid"
+        borderBottomColor: "var(border)"
+        flexShrink: 0
+      ".pt-share-title":
+        margin: 0
+        fontSize: "1.125rem"
+        fontWeight: "700"
+      ".pt-share-close":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "0.35rem"
+        color: "var(muted)"
+        backgroundColor: "transparent"
+        borderWidth: 0
+        cursor: "pointer"
+      ".pt-share-close:hover":
+        color: "var(foreground)"
+      ".pt-share-body":
+        display: "flex"
+        flexDirection: "column"
+        minHeight: 0
+        flex: 1
+        overflow: "hidden"
+      ".pt-share-pane":
+        display: "flex"
+        flexDirection: "column"
+        gap: "0.75rem"
+        minHeight: 0
+      ".pt-share-copy-wrap":
+        display: "flex"
+        flexDirection: "column"
+        gap: "0.35rem"
+        minHeight: 0
+      ".pt-share-text":
+        width: "100%"
+        minHeight: "8rem"
+        maxHeight: "12rem"
+        resize: "vertical"
+        boxSizing: "border-box"
+        padding: "0.65rem 0.75rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        borderRadius: "0.5rem"
+        backgroundColor: "var(bg)"
+        color: "var(foreground)"
+        fontFamily: "ui-sans-serif, system-ui, sans-serif"
+        fontSize: "0.875rem"
+        lineHeight: "1.45"
+        overflowY: "auto"
+      ".pt-share-hint":
+        margin: 0
+        fontSize: "0.75rem"
+        wordBreak: "break-all"
+      ".pt-share-actions":
+        display: "flex"
+        flexWrap: "wrap"
+        gap: "0.5rem"
+        flexShrink: 0
+      ".pt-share-grid":
+        display: "grid"
+        gridTemplateColumns: "1fr 1fr"
+        gap: "0.5rem"
+      ".pt-share-chip":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+        padding: "0.45rem 0.65rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        borderRadius: "0.5rem"
+        backgroundColor: "var(secondary)"
+        color: "var(secondaryFg)"
+        fontSize: "0.8125rem"
+        fontWeight: "600"
+        textDecoration: "none"
+        textAlign: "center"
+      ".pt-share-file":
+        display: "flex"
+        flexDirection: "column"
+        alignItems: "flex-start"
+        gap: "0.5rem"
+      ".pt-share-file-label":
+        margin: 0
+        fontSize: "0.75rem"
+        fontWeight: "700"
+        textTransform: "uppercase"
+        letterSpacing: "0.04em"
+        color: "var(muted)"
+      ".pt-share-preview":
+        display: "block"
+        width: "100%"
+        maxHeight: "10rem"
+        objectFit: "cover"
+        borderRadius: "0.5rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
       ".pt-article-body":
         flexGrow: 0
         flexShrink: 1
