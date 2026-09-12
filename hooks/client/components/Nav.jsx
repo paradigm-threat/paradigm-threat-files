@@ -64,7 +64,19 @@ function navChromeCss() {
     'display:none!important;pointer-events:none!important;position:static!important;' +
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +
     'padding:0!important;border:0!important;' +
-    '}'
+    '}' +
+    // Legacy archive banner (mirrors Vercel migration strip).
+    '.pt-legacy-banner{display:block;width:100%;box-sizing:border-box;' +
+    'border-top:1px solid rgba(180,83,9,0.25);background:#fef3c7;color:#78350f;' +
+    'padding:0.5rem 1rem;text-align:center;font-size:0.875rem;font-weight:500;' +
+    'text-decoration:none;transition:background-color 0.15s ease;}' +
+    '.pt-legacy-banner:hover{background:#fde68a;}' +
+    'html.dark .pt-legacy-banner{border-top-color:rgba(251,191,36,0.2);' +
+    'background:rgba(69,26,3,0.8);color:#fffbeb;}' +
+    'html.dark .pt-legacy-banner:hover{background:rgba(120,53,15,0.9);}' +
+    '.pt-legacy-banner-inner{display:inline-flex;flex-wrap:wrap;align-items:center;' +
+    'justify-content:center;gap:0.35rem 0.4rem;}' +
+    '.pt-legacy-banner-link{text-decoration:underline;text-underline-offset:2px;}'
   )
 }
 
@@ -236,6 +248,18 @@ export default function Nav(props) {
           </div>
         </div>
       </div>
+      <a
+        href="https://old.paradigmthreat.net/"
+        className="pt-legacy-banner"
+        data-relay-legacy-banner="1"
+      >
+        <span className="pt-legacy-banner-inner">
+          <span>Legacy Next.js site (timeline, chat, submit) — archive at</span>
+          <span className="pt-legacy-banner-link" aria-hidden="true">
+            old.paradigmthreat.net →
+          </span>
+        </span>
+      </a>
       {isOpen ? (
         <div className="pt-nav-mobile lg:pt-nav-mobile-lg" role="dialog" aria-label="Mobile menu">
           <div className="pt-nav-mobile-inner">

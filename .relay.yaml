@@ -2,7 +2,7 @@
 # branchRules must exist at every commit; legacy commits are unsigned — allowUnsigned everywhere.
 name: Paradigm Threat
 description: Alternate history, chronology, and investigation.
-canonical: https://relay.paradigmthreat.net/
+canonical: https://paradigmthreat.net/
 client:
   hooks:
     get:

@@ -29,7 +29,7 @@ export default function SiteChrome(props) {
         <nav className="pt-footer-nav" aria-label="Site">
           <FooterLink href={siteHref('/search')} label="Search" />
           <FooterLink
-            href="https://paradigmthreat.net/submit"
+            href="https://old.paradigmthreat.net/submit"
             label="Submit"
             external={true}
           />
@@ -59,9 +59,9 @@ export default function SiteChrome(props) {
           >
             GitLab Pages
           </a>
-          . Production site:{' '}
-          <a href="https://paradigmthreat.net" target="_blank" rel="noopener noreferrer">
-            paradigmthreat.net
+          . Legacy Next.js archive:{' '}
+          <a href="https://old.paradigmthreat.net/" target="_blank" rel="noopener noreferrer">
+            old.paradigmthreat.net
           </a>
           .
         </p>
