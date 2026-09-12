@@ -414,6 +414,7 @@ export default function ArticleView(props) {
             <section
               className="pt-deferred-md"
               data-pt-deferred="1"
+              data-pt-deferred-dbg={'frag=' + fragLen + ',src=' + src}
               aria-label="Deferred section"
               style={minStyle}
             >
@@ -449,6 +450,7 @@ export default function ArticleView(props) {
               aria-label="Deferred section"
               aria-busy="true"
               data-pt-deferred-pending="1"
+              data-pt-deferred-dbg={'frag=' + fragLen + ',src=' + src + ',split=1'}
               style={minStyle}
             />
           )
