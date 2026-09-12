@@ -4,7 +4,7 @@ How *Disclosure* warned that taking the boss off the product would break it — 
 
 > **TL;DR:** *Disclosure* (1994) stages a product captain deleted by accusation and untitled power — only doing the job ends the theater. DigiCom’s Twinkle CD-ROM fight names Sony and Philips the same decade Nintendo’s SNES CD deal blew up with those same houses. The century map under that office is communism as rear force, OSS/CIA next waves, Moore’s Law as paced hardware, and Agile/Scrum as software communism that deletes captains while gardens enclose.
 
-![Agile / Scrum versus Leadership — investigation cover reused for Crichton's Prophecy](https://paradigmthreat.net/science/computing/investigations/agile-scrum-leadership-containment-investigation.png)
+![Crichton's Prophecy — hero](https://paradigmthreat.net/science/computing/crichtons-prophecy.png)
 
 In **1994**, Michael Crichton published *Disclosure*. The story is about a company shipping a hard product under pressure. Someone in charge gets hit with an accusation. Lawyers and office politics take over. The product starts to fail. Crichton saw that pattern early. Proving you are innocent is not enough. Getting a lucky recording is not enough. The only thing that actually works is leadership: the person goes back to work, pulls his people together, fixes what is broken, and shows the room the answer. After that, the accusations stop mattering. Software companies later wrote rules that made bosses look illegitimate inside the team. People with no clear job title still ran mergers and careers from behind the scenes. Writers named the bad habits without needing everyone to agree that communism was even real. The same force had been changing costumes for a century. DigiCom was one office in a longer fight.
 
@@ -94,6 +94,8 @@ America itself was in **deep trouble** for a long stretch. The **Great Depressio
 
 ## Software communism and a paced hardware revolution
 
+![Agile / Scrum versus Leadership — investigation cover](https://paradigmthreat.net/science/computing/investigations/agile-scrum-leadership-containment-investigation.png)
+
 By the **1990s**, the fight had a new floor: **software**. Hardware was leaping — chips, drives, networks, consumer machines. A real hardware revolution can throw up **surprises**: new companies, new captains, new stacks that do not ask permission. Soft history says the only limit was physics. **Moore’s Law** — Gordon Moore’s **1965** observation that transistor counts on chips tended to double on a predictable schedule — got sold to the public as a law of nature. Plan your product roadmaps around the curve. Do not expect miracles. Wait your turn.
 
 That sales pitch did useful work for enclosure. If everyone believes the pace is **physics**, nobody asks whether faster paths were **suppressed**, starved of funding, or locked behind patents and vendor gardens. Analog shortcuts, open stacks, and rival captains become “unrealistic.” The curve becomes a **self-imposed** schedule — suppressed science dressed as humility. Related reads: [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md) and [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md).
@@ -148,7 +150,7 @@ Some academic papers call China’s fast rule-making on tech and AI **agile gove
 
 Keywords: #Crichton #Disclosure #DigiCom #Twinkle #Nintendo #Sony #Philips #SNESCD #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #Iacocca #RisingSun #Communism #RearForce #UntitledPower #Fascism #OSS #CIA #GreatDepression #MooresLaw #China #AgileGovernance #ResponsiveAuthoritarianism #NSA #Snowbird #ParadigmThreat #AU057
 
-**Last updated:** 2026-09-12T08:40:00-04:00
+**Last updated:** 2026-09-12T08:55:00-04:00
 
 ---
 
