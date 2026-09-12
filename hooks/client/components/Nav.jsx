@@ -16,6 +16,7 @@ import {
 } from 'hooks/client/components/Icons.jsx'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
+import { archiveBannerHref } from 'hooks/client/legacyAppHref.js'
 
 const WORDMARK_URL = '/site/header.png'
 const MARK_URL = '/site/favicon.svg'
@@ -279,7 +280,7 @@ export default function Nav(props) {
         </div>
       </div>
       <a
-        href="https://old.paradigmthreat.net/"
+        href={archiveBannerHref(currentPath)}
         className="pt-legacy-banner"
         data-relay-legacy-banner="1"
       >

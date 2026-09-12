@@ -63,3 +63,177 @@ export function rewriteLegacyAppHref(href) {
   if (base === '/timeline' || base.indexOf('/timeline/') === 0) return TIMELINE + path
   return href
 }
+
+function pathOnly(pathname) {
+  const raw = typeof pathname === 'string' ? pathname : '/'
+  let p = pathBase(raw)
+  if (p.length === 0) {
+    return '/'
+  }
+  if (p.charAt(0) !== '/') {
+    p = '/' + p
+  }
+  if (p.length > 1 && p.charAt(p.length - 1) === '/') {
+    p = p.slice(0, p.length - 1)
+  }
+  return p
+}
+
+function lastSegment(path) {
+  let last = 0
+  for (let i = 0; i < path.length; i++) {
+    if (path.charAt(i) === '/') {
+      last = i + 1
+    }
+  }
+  return path.slice(last)
+}
+
+function segmentCount(path) {
+  let n = 0
+  let inSeg = false
+  for (let i = 0; i < path.length; i++) {
+    if (path.charAt(i) === '/') {
+      inSeg = false
+    } else if (!inSeg) {
+      n = n + 1
+      inSeg = true
+    }
+  }
+  return n
+}
+
+function endsWithFold(s, suffix) {
+  const lower = s.toLowerCase()
+  const suf = suffix.toLowerCase()
+  if (lower.length < suf.length) {
+    return false
+  }
+  return lower.slice(lower.length - suf.length) === suf
+}
+
+function isMdLeaf(seg) {
+  if (endsWithFold(seg, '.mdx')) {
+    return true
+  }
+  if (endsWithFold(seg, '.md')) {
+    return true
+  }
+  return false
+}
+
+function hasNonMdExtension(seg) {
+  if (isMdLeaf(seg)) {
+    return false
+  }
+  for (let i = 0; i < seg.length; i++) {
+    if (seg.charAt(i) === '.') {
+      return true
+    }
+  }
+  return false
+}
+
+function startsWithPrefix(path, prefix) {
+  if (path === prefix) {
+    return true
+  }
+  if (path.indexOf(prefix + '/') === 0) {
+    return true
+  }
+  return false
+}
+
+function isAppShellPath(path) {
+  if (startsWithPrefix(path, '/search')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/timeline')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/chat')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/submit')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/mcp')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/api')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/reply')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/site')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/_next')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/export')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/files')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/hooks')) {
+    return true
+  }
+  if (startsWithPrefix(path, '/docs')) {
+    return true
+  }
+  return false
+}
+
+/** True for files-corpus article URLs (pretty or `.md`), not app shells or home. */
+export function isMdCorpusSubpath(pathname) {
+  const path = pathOnly(pathname)
+  if (path === '/') {
+    return false
+  }
+  if (path === '/page.md' || path === '/index.md' || path === '/page.mdx') {
+    return false
+  }
+  if (isAppShellPath(path)) {
+    return false
+  }
+  const seg = lastSegment(path)
+  if (hasNonMdExtension(seg)) {
+    return false
+  }
+  if (isMdLeaf(seg)) {
+    return true
+  }
+  if (segmentCount(path) >= 2) {
+    return true
+  }
+  return false
+}
+
+/** Pretty path the archive catch-all understands (no `.md`). */
+export function archivePrettyPath(pathname) {
+  if (!isMdCorpusSubpath(pathname)) {
+    return '/'
+  }
+  let path = pathOnly(pathname)
+  if (endsWithFold(path, '.mdx')) {
+    path = path.slice(0, path.length - 4)
+  } else if (endsWithFold(path, '.md')) {
+    path = path.slice(0, path.length - 3)
+  }
+  if (path.length === 0) {
+    return '/'
+  }
+  return path
+}
+
+/** Archive header banner: keep markdown corpus subpaths, else archive home. */
+export function archiveBannerHref(pathname) {
+  const pretty = archivePrettyPath(pathname)
+  if (pretty === '/') {
+    return ARCHIVE + '/'
+  }
+  return ARCHIVE + pretty
+}
