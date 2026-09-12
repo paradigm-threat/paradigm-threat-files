@@ -31,7 +31,9 @@ const FONT_STYLESHEET =
  * link row until hydrated. :disabled / aria-disabled cover pre-host tips. */
 function navChromeCss() {
   return (
-    '.pt-site-nav{-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
+    '.pt-site-nav{position:fixed!important;top:0;left:0;right:0;z-index:100;' +
+    '-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
+    '.pt-shell{padding-top:7.5rem;box-sizing:border-box;}' +
     '.pt-article-body{font-family:"EB Garamond",Georgia,serif;font-size:1.125rem;line-height:1.65;}' +
     'html[data-font="franklin"] .pt-article-body{font-family:"Libre Franklin",system-ui,sans-serif;font-size:1.05rem;}' +
     'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}' +
