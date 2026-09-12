@@ -1,6 +1,6 @@
 # *Final Fantasy VII* — platform rip, Midgar spine, Sephiroth/Jenova duality, Zack insert, and story sabotage (**AU-055**, open)
 
-> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5) — **confirmed in JP PS1 + EN PC dumps** (§5.5a). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6); post-Safer **residual 1v1** reads as **Version B bolt-on** vs *FFVI* Kefka ending at the huge form (§5.6a); Version B **taints Lifestream rules** (fall-in → remote hub; only Jenova should corrupt; A spine = alive summon) (§5.7). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
+> **TL;DR:** Author thesis: ***Final Fantasy VII*** had a **grounded revenge spine** sabotaged into **postmodern false-memory chaos** — Jenova-as-Sephiroth + **Zack** as late scaffolding for Nojima’s already-planned “Cloud’s past is a lie.” **Script seam:** mid-game **Version A** (Sephiroth carried Jenova) left unscrubbed vs late **Version B** + Ultimania “misunderstanding” (§5.5) — **confirmed in JP PS1 + EN PC dumps** (§5.5a). **Ending tell:** Lifestream / short FMV coda is a **shadow** of *FFVI*’s long triumphant finale — author: unfinished at Nintendo rip, ordered Sony-era changes, **uninspired close** (§1.2 / §5.6); post-Safer **residual 1v1** reads as **Version B bolt-on** vs *FFVI* Kefka ending at the huge form (§5.6a); Version B **taints Lifestream rules** (fall-in → remote hub; only Jenova should corrupt; A spine = alive summon) (§5.7). **Zack tell:** franchise Zack is a **post-OG** protagonist; **in 1997** he is a **late, minimal, missable** insert **disconnected from Avalanche**; the **Zack delusion** is **not necessary** for Jenova/Sephiroth control of Cloud and **can be removed cleanly** (§1.3 / §6.4). **Music tell:** unused VII vault → later FF under Square IP is **industry-normal** (Rare Dream, Kirby cancelled builds, Morricone unused *Thing* → *Hateful Eight*; §1.4) — track ledger still open. **Cascade tell:** after Version B, **non-MMO** mainline centers on **self-delusion / trauma false-self** (Cloud / Tidus / Clive-class) — **MMOs out**; ***XII*** = **refreshing outlier** (Vaan; Ashe smashes Occuria stone; possible NSA-aligned agency; Gebelli→Ito→Tactics→*XII* battle-tradition end) (§1.5). **Name tell:** **Aeris (S)** = JP phonetic + 1997 playable EN (Baskett); **TH** = Western letter-form (cf. Sephiroth vs セフィロス / Hebrew *sefirot*); ***KH* 2002** industry rename → mass divide (§5.8). Same class as ***Mother 3***. **Documented:** platform exit; Zack late; Jenova-mimic; Kitase wanted ending “different from the past.” Weaknesses §10.
 
 **Status:** Open — false-memory mandate cluster (FF7 × Mother 3); corroborate / falsify ordered-agenda layer.
 
@@ -11,6 +11,7 @@
 2a. **Author addendum — ending collapse vs *FFVI*** → §1.2 / §5.6  
 2b. **Post-Safer 1v1 as Version B scar (vs Kefka)** → §5.6a  
 2c. **Version B taints Lifestream rules (Jenova vs Sephiroth-in-stream)** → §5.7  
+2e. **Aeris (S) vs Aerith (TH) — shipped product vs speculative “intent” divide** → §5.8  
 2b. **Author addendum — Zack delusion removable cleanly** → §1.3 / §6.4  
 2c. **Author addendum — VII music vault reuse + industry precedents** → §1.4  
 2d. **Author addendum — post–Version B mainline self-delusion cascade** → §1.5  
@@ -21,6 +22,7 @@
 6a. **Version A leftover dialogue inventory (incomplete scrub)** → §5.5  
 6a2. **EN PC + JP PS1 dump verification (same seam)** → §5.5a  
 6b. **Ending collapse vs *FFVI* (unfinished / uninspired)** → §5.6  
+6c. **Aeris (S) vs Aerith (TH) divide** → §5.8  
 7. Zack / false-memory mechanism → §6  
 7a. **OG insert vs franchise Zack; delusion not required for control** → §6.4  
 8. Remake escalation → §7  
@@ -466,7 +468,86 @@ Lines below treat the chase actor as **physically Sephiroth** and/or **Jenova as
 
 **Separation:** Anticlimax + non-traditional close = **reception** (§5.6). Cloud≠Sephiroth Lifestream outcomes + AC Jenova-cell taint + mid-game “carrying Jenova” alive chase (§5.5) = **strong textual/phenomenological support**. “Ordered Westernization of the Lifestream” / “broke Version A creators’ rules” = **author** motive/craft accusation until a draft shows the fall-into-stream as a dated insert.
 
-**Mod implication (Version A):** Sephiroth never needs the Lifestream as command center. He remains **alive**, uses **Jenova** (cargo / genes / discarded pieces), reaches the crater, summons. Lifestream stays Planet/Aerith spiritual medium — optional mako trauma for Cloud as **shame/guilt**, not identity install and not villain Wi‑Fi. Cut residual-will duel (§5.6a). Soft AC stigma allusions = **Jenova-cell rumor**, not proof Sephiroth-was-always-the-stream.
+**Mod implication (Version A):** Sephiroth never needs the Lifestream as command center. He remains **alive**, uses **Jenova** (cargo / genes / discarded pieces), reaches the crater, summons. Lifestream stays Planet / flower-girl spiritual medium — optional mako trauma for Cloud as **shame/guilt**, not identity install and not villain Wi‑Fi. Cut residual-will duel (§5.6a). Soft AC stigma allusions = **Jenova-cell rumor**, not proof Sephiroth-was-always-the-stream.
+
+#### 5.8 Author investigation — **Aeris (S)** vs **Aerith (TH)**, Sephiroth’s *-su*, Hebrew *sefirot*, and industry divide (2026-09-07)
+
+**Author stake (expanded):** *Aeris* (S) matches the **Japanese phonetic plan** for the flower girl. English **th** is not how Japanese writes or says the name — **エアリス** (*Earisu*). The same holds for the villain: **セフィロス** (*Sefirosu*); Japanese speakers do **not** pronounce an English *th* in “Sephiroth,” they land on **-su**. So TH is a **Western alphabet convention**, not proof that Japanese creatives were “thinking in *th*.” Playable 1997 EN uses **Aeris** under **Michael Baskett**’s localization lane (Squaresoft USA; Honeywood: roughly one man + limited JP help, no editors). Whether Baskett “chose S over TH” or simply romanized the kana he had, the **released English product** is S. Later industry products — especially ***Kingdom Hearts* (2002)** — shipped **Aerith** to a huge Western audience that had lived with **Aeris** for five years. That is when the spelling fight left obscure forums and became a **community-wide schism**. The **division came from the industry’s rename**, not from fans inventing two camps for fun. Even if 1997 TH-in-Latin print / “air+earth” notes were accidents or marketing romaji, **by 2002 the split was no longer accidental** — the industry chose to **rebrand** the OG spelling as error and harden TH. That is **divide-and-conquer reception engineering** (intent optional; effect clear). It rhymes with Version B’s broader move: take a **Japanese phonetic / spiritual product** and **Westernize** the surface (Kabbalah-flavored *Sephiroth*, Earth-anagram *Aerith*) until the OG release looks “wrong.”
+
+##### Phonology (strong for author)
+
+| Name | Japanese (game) | Spoken class | English *th*? |
+|------|-----------------|--------------|---------------|
+| Flower girl | **エアリス** | *e-a-ri-su* | **No** — kana ends in **ス** |
+| Villain | **セフィロス** | *se-fi-ro-su* | **No** — same **-su** landing |
+| Author read | Japanese plan is **S-class phonetics** | EN *th* is **added** when writing Latin letters | Treating *th* as Japanese “original intent” inverts the script |
+
+**Asymmetry tell:** EN **always** wrote the villain **Sephiroth** (with *th*) while writing the heroine **Aeris** (with *s*) in the same Baskett-era product — both from *-su* kana. That alone shows **TH was an English-side convention**, applied inconsistently, not a faithful mirror of Japanese speech.
+
+##### Baskett / 1997 localization (documented)
+
+| Fact | Source class |
+|------|--------------|
+| PC credits: localization **Michael Baskett**; technical translation Aiko Ito / David Jones; PS also credits Baskett (Product Development Coordinator) | Game credits / [Julkunen 2022 thesis](https://oulurepo.oulu.fi/bitstream/handle/10024/21426/nbnfioulu-202211103562.pdf) |
+| Honeywood: translation left largely to Baskett + limited JP help; **no editors** / full QA of later eras | Fenlon / MultiLingual summaries |
+| Playable EN preset / dialogue token: **Aeris** / `{AERIS}` | Shipped product; EN PC dumps in Version A mod worktree |
+| Honeywood later: name “supposed to be” air+earth; translators couldn’t get timely design info | Fenlon 2011 interview (secondary) |
+
+##### Hebrew *sefirot* / *Sephiroth* (author-friendly; traditions ≠ proof)
+
+| Fact | Implication |
+|------|-------------|
+| Hebrew **סְפִירוֹת** (*sefirot*) — root ס־פ־ר; **no English *th* digraph** in the Hebrew orthography | English **Sephiroth** / *Sephirot* are **Western romanization traditions** (Christian Cabala / esoterica / game EN), not “how Hebrew spells TH” |
+| JP game uses **セフィロス**, not a Hebrew spelling | Square’s Japanese product is **katakana loan-sound**, then EN maps it to Kabbalah-flavored Latin |
+| Author | Counting on “tradition says Sephiroth” does **not** prove Japanese staff heard *th*; it proves **Westernization of the letter-form** |
+
+##### Kingdom Hearts 2002 — when the divide went mainstream (documented reception hinge)
+
+| Beat | Detail |
+|------|--------|
+| 1997–2001 | Western players finish OG / Tactics-era products with **Aeris** |
+| **2002** ***Kingdom Hearts*** | Same face, on-screen / materials **Aerith**; mass Disney/Square audience |
+| Aftermath | Forums → general community: “which is correct?” becomes a **loyalty test**; Compilation/Remake harden TH and teach S as “mistranslation” |
+| Author | Industry **created** the two-name reality for the biggest Western cohort; fans did not invent the schism from nothing. Accident-in-1997 (if any) ≠ **purpose-by-2002** when TH is locked as brand |
+
+KH wiki-class notes even record development uncertainty whether her spoken name would be Aeris or Aerith — evidence the **industry** was managing two Latin forms, not that Japanese speech had switched to *th*.
+
+##### Counter-evidence (must keep visible)
+
+| Fact | Cuts which way |
+|------|----------------|
+| JP **manual** Latin spelling **Aerith**; *Official Establishment File* romaji **Aerith** (~days before JP ship) | **Hostile** to “Japanese never wrote TH in Latin at all” |
+| Nomura concept art “Earith” beside kana | **Hostile** to “zero TH thinking in Latin doodles” |
+| Pre-release Western magazines sometimes **Aerith** | Shows TH Latin circulated **before** KH; still not the **playable EN** string |
+| Staff / Honeywood air+earth / Earth-anagram stories | **Hostile** if treated as proof playable Aeris is illegitimate; **friendly** if treated as **English-wordplay preference** layered on kana |
+
+**Author reply to counters:** Latin **Aerith** on a Japanese manual is still **romanization for Western eyes**, not evidence Japanese *pronounced* *th*. The **playable** Japanese and English experiences are **エアリス** and **Aeris**. Overwriting the latter because of marketing romaji + post-2002 brand lock is the **redaction**.
+
+##### Validation scorecard
+
+| Claim piece | Verdict |
+|-------------|---------|
+| JP phonetic plan is S-class (*-su*), not English *th* | **Strong** (エアリス / セフィロス) |
+| Playable 1997 EN = **Aeris**; Baskett localization lane | **Documented** |
+| Sephiroth EN *th* vs JP *-su* = Western letter convention | **Strong asymmetry** |
+| Hebrew *sefirot* does not “prove” English *th* | **Strong** (orthography); Western *Sephiroth* tradition = **documented** romanization variance |
+| KH 2002 ignited mass Aeris/Aerith schism | **Strong reception hinge** |
+| Division originated in **industry rename**, not fan whim | **Strong as sociology of the rename**; “ordered D&C from day one” = **author** |
+| “Japanese never thought TH at all” (including Latin print) | **Too strong** — manuals/art used Latin Aerith/Earith; tighten to **speech/kana + playable EN** |
+| TH chosen to create future divide / Version B Westernization | **Author** (motive); Westernization *effect* after 2002 = **partial** |
+| By 2002, continuing TH overwrite was no longer a mere accident | **Author-fair** given brand lock + error narrative |
+
+##### Author vs counter (summary)
+
+| Reading | Implication |
+|---------|-------------|
+| **Author** | Original **Japanese vision** = kana S-class; Baskett-era EN **Aeris** matches that; *th* is Western letter-form (same family as Kabbalah *Sephiroth*); KH 2002+ industry rename **manufactured** the divide; affirming “released product = final intent for that release” would have ended it |
+| **Counter** | JP Latin Aerith + air/earth intent = always Aerith; Baskett erred; KH/Remake correct the record |
+| **Both can be true as craft** | English **wordplay** can exist on a design sheet **and** still not justify a permanent war that treats the shipped OG EN name as illegitimate |
+
+**Separation:** Kana phonetics, Baskett/Aeris ship, `{AERIS}` tokens, Sephiroth asymmetry, Hebrew orthography, KH 2002 hinge = **documented / strong**. “TH inserted into development specifically to D&C later” / “Version B plot-team ordered the spelling war” = **author speculation**. “Accident then purpose by 2002” = **author** reading of brand behavior after the hinge.
+
+**Mod implication:** Keep **Aeris**. Do not rename to Aerith. Do not “fix” Sephiroth to a pedantic *Sephiros* either — shipped EN villain name stays; the point is **not** inventing new romanizations, it is **refusing the TH heroine overwrite campaign** and recognizing *th* as Western surface, not Japanese speech proof. SAC/Remake TH = their lane.
 
 ---
 
@@ -726,6 +807,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 | 15 | After *FFVII* **Version B**, **every non-MMO** mainline (ex. ***XII***) centers on **self-delusion / fabricated memories / trauma false-self** (Cloud / Tidus / Clive-class); **MMOs carve out**; ***XII*** = **refreshing outlier** (Vaan honest; cosmic Occuria lie ends when **Ashe smashes the stone** — humanity writes history); possible **NSA-aligned** agency plot; battle-tradition terminus Nasir → Ito → Tactics → *XII* | Series-theme **author pattern** (§1.5); staff battle lineage **documented**; NSA-camp **author**; remaining non-MMO one-liners open | Author / partial |
 | 16 | Post-Safer **Cloud vs residual Sephiroth** duel is a **late Version B bolt-on** (“real Sephiroth always in Lifestream”); *FFVI* Kefka ends at the **huge** form — no second Lifestream ghost fight; Safer *should* be the kill | Comparative craft strong (§5.6a); “late add because B” **author** until draft/staff isolate | Author / partial |
 | 17 | Version B **taints Lifestream rules**: fall-in ≠ remote-control hub; death should **dissolve** into Planet; only **Jenova** should corrupt spirit energy; Cloud’s Lifestream fall ≠ Sephiroth powers; Meteor plan was researched **pre-fall** — A spine = steal Jenova → crater → summon **alive**; B turns spiritual JP cycle into **Western ethereal loudspeaker** | AC geostigma = Jenova cells **documented**; Cloud≠Sephiroth outcomes **documented**; “broke A creators’ rules / ordered Westernization” **author** (§5.7) | Author / partial |
+| 18 | **Aeris (S)** matches JP phonetic plan (**エアリス**); playable 1997 EN under **Baskett** = Aeris; **TH** is Western letter convention (same family as EN **Sephiroth** vs JP **セフィロス** / Hebrew *sefirot* without *th*); ***Kingdom Hearts* (2002)** industry rename ignited mass schism — division from **industry**, not fans; by 2002 TH overwrite is purpose/brand not mere accident; Version B–class Westernization of a Japanese surface | Kana + Aeris ship + `{AERIS}` + Sephiroth asymmetry + KH hinge **documented/strong**; JP Latin Aerith manuals **counter-adjacent**; D&C-from-day-one / ordered Version B spelling war **author** (§5.8) | Author / partial |
 
 **Registry:** [author-unique theories](/history/chronology/investigations/author-unique-theories.md) **AU-055**.
 
@@ -760,6 +842,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 - [x] Author **ending collapse vs *FFVI*** addendum (§1.2 / §5.6) — 2026-09-06  
 - [x] Author **post-Safer 1v1 vs Kefka** (§5.6a / claim 16) — 2026-09-07  
 - [x] Author **Lifestream rule taint** (§5.7 / claim 17) — 2026-09-07  
+- [x] Author **Aeris (S) vs Aerith (TH) divide** (§5.8 / claim 18) — 2026-09-07; expanded Baskett / KH 2002 / Sephiroth–sefirot same day  
 - [x] Leftover-music audit table on [Uematsu](/influence/stolen_credit/nobuo-uematsu.md) (homage vs unused-VII-pool)  
 - [x] Author false-memory / Mother 3 / suicide-agenda addendum (§1.1, §8.2, §8.4) — Kristóf→Mother 3 **documented**  
 - [x] Standalone [*Mother 3* AU-056](mother-3-earthbound-64-magypsy-rupture-investigation.md) shipped 2026-09-06  
@@ -787,7 +870,7 @@ Even if “Nintendo R&D wrote Midgar” **fails**, the following can still stand
 
 Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #ZackFair #Midgar #StorySabotage #FalseMemory #Mother3 #EarthBound #Magypsy #AgotaKristof #TheNotebook #Redaction #VacuumInverse #StolenCredit #ParadigmThreat #AU055 #Kitase #Nojima #Uematsu #ChildhoodsEnd #DivideAndConquer #VersionA #UltimaniaOmega #LeftoverMusic #ProjectDream #TheThing #HatefulEight #SelfDelusion #VersionB #FinalFantasyXII #Vaan #Ashe #NasirGebelli #NSAAligned
 
-*Last updated: 2026-09-07* (Lifestream rule taint §5.7; post-Safer 1v1 / Kefka §5.6a; EN+JP dump verify §5.5a)
+*Last updated: 2026-09-07* (Aeris/TH investigation §5.8 expanded — Baskett, KH 2002, Sephiroth/sefirot; Lifestream §5.7; post-Safer §5.6a)
 
 ---
 
@@ -796,7 +879,7 @@ Keywords: #FinalFantasyVII #Nintendo #Sony #PlayStation #Sephiroth #Jenova #Zack
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Fiction vs evidence:** *Final Fantasy VII* and *Mother 3* are commercial video games. Plot analysis is **textual / reception / development-history** work — not a claim that fictional plots equal documented psyops memos.
-- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §1.5, §5.5 author rows, §5.6–§5.7 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” “VII vault reuse is reasonable,” “post–Version B mainline delusion cascade,” and “Version B taints Lifestream rules” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” / “ordered Westernization of the Lifestream” remain **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
+- **Author thesis:** §1, §1.1, §1.2, §1.3, §1.4, §1.5, §5.5 author rows, §5.6–§5.8 author rows, §6.4, and §11 are **first-class** Paradigm Threat stakes. They are **not** automatically factual. “Incomplete scrub,” “ending just ends,” “Zack delusion removable,” “VII vault reuse is reasonable,” “post–Version B mainline delusion cascade,” “Version B taints Lifestream rules,” and “Aeris/Aerith divide-and-conquer” are **strong textual / reception / industry-pattern descriptions**; “ordered sabotage under Sony” / “ordered Westernization of the Lifestream” remain **motive**. Suicide/depression **agenda** claims are **motive conclusions** until proxy evidence is filed.
 - **Tiers:** In-game English script + Ultimania translations > encyclopedia summaries > localization secondary press > author pattern inference.
 - **Cross-links:** Mother 3 / EarthBound, Rare/DKC, vacuum inverse are **thematic rhymes** unless a shared primary appears.
 - **Assistant bias:** Prefer documenting **A/B script seams** and **false-memory mechanisms** over asserting **ordered suicide doctrine** without new receipts.
