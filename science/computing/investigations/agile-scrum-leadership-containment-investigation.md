@@ -872,7 +872,7 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 
 ---
 
-Keywords: #Agile #Scrum #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood #Iacocca #InSearchOfExcellence #China #AgileGovernance #ResponsiveAuthoritarianism #PostUSSR
+Keywords: #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood #Iacocca #InSearchOfExcellence #China #AgileGovernance #ResponsiveAuthoritarianism #PostUSSR
 
 *Last updated: 2026-09-12*
 
