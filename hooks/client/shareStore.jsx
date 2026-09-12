@@ -2,6 +2,7 @@
  * Share overlay store — closed-over mutable state via `export const share = create…()`.
  * Open/close emit a tick (gallery pattern). Payload writes do not remount.
  */
+import { propStr } from 'hooks/client/propOr.jsx'
 import {
   appendShareWidth,
   canonicalArticleUrl,
@@ -95,11 +96,17 @@ function createShareApi() {
   }
 
   function setShareArticle(opts) {
-    const filePath = str(opts && opts.filePath)
-    const md = str(opts && opts.markdown)
-    let title = str(opts && opts.title)
+    const filePath = propStr(opts, 'filePath', '')
+    const md = propStr(opts, 'markdown', '')
+    let title = propStr(opts, 'title', '')
     if (title.length === 0) {
-      title = headingTitle(opts && opts.idQueue)
+      let queue = null
+      try {
+        if (opts && opts.idQueue) {
+          queue = opts.idQueue
+        }
+      } catch (e) {}
+      title = headingTitle(queue)
     }
     if (title.length === 0) {
       title = prettyArticlePath(filePath)
@@ -120,10 +127,19 @@ function createShareApi() {
     })
     let imageSrc = extractFirstImageUrl(md)
     if (imageSrc.length === 0) {
-      imageSrc = str(opts && opts.imageSrc)
+      imageSrc = propStr(opts, 'imageSrc', '')
     }
     imageSrc = appendShareWidth(imageSrc)
-    const links = shareOutboundLinks(url, title, copies.x)
+    let xCopy = ''
+    try {
+      if (copies) {
+        const v = copies.x
+        if (typeof v === 'string') {
+          xCopy = v
+        }
+      }
+    } catch (e2) {}
+    const links = shareOutboundLinks(url, title, xCopy)
     s.payload = {
       title: title,
       url: url,

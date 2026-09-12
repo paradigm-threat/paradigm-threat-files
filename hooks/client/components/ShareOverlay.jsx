@@ -252,18 +252,24 @@ export default function ShareOverlay() {
     return marker
   }
 
-  const copies = payload.copies
-  const links = payload.links
-  const ig = str(copies && copies.instagram)
-  const xText = str(copies && copies.x)
-  const fb = str(copies && copies.facebook)
-  const linkText = str(copies && copies.link)
-  const url = str(payload.url)
-  const title = str(payload.title)
-  const mdRel = str(payload.mdRel)
-  const mdName = str(payload.mdName)
-  const mdSource = str(payload.mdSource)
-  const imageSrc = str(payload.imageSrc)
+  let copies = null
+  let links = null
+  try {
+    copies = payload.copies
+  } catch (eC) {}
+  try {
+    links = payload.links
+  } catch (eL) {}
+  const ig = propStrSafe(copies, 'instagram', '')
+  const xText = propStrSafe(copies, 'x', '')
+  const fb = propStrSafe(copies, 'facebook', '')
+  const linkText = propStrSafe(copies, 'link', '')
+  const url = propStrSafe(payload, 'url', '')
+  const title = propStrSafe(payload, 'title', '')
+  const mdRel = propStrSafe(payload, 'mdRel', '')
+  const mdName = propStrSafe(payload, 'mdName', '')
+  const mdSource = propStrSafe(payload, 'mdSource', '')
+  const imageSrc = propStrSafe(payload, 'imageSrc', '')
 
   let canNative = false
   try {
@@ -338,14 +344,14 @@ export default function ShareOverlay() {
         </button>
       </div>
       <div className="pt-share-grid">
-        <ShareLink href={links.x} label="Open X" />
-        <ShareLink href={links.facebook} label="Facebook" />
-        <ShareLink href={links.linkedin} label="LinkedIn" />
-        <ShareLink href={links.reddit} label="Reddit" />
-        <ShareLink href={links.bluesky} label="Bluesky" />
-        <ShareLink href={links.threads} label="Threads" />
-        <ShareLink href={links.instagram} label="Instagram" />
-        <ShareLink href={links.substack} label="Substack Notes" />
+        <ShareLink href={propStrSafe(links, 'x', 'https://twitter.com/intent/tweet')} label="Open X" />
+        <ShareLink href={propStrSafe(links, 'facebook', 'https://www.facebook.com/')} label="Facebook" />
+        <ShareLink href={propStrSafe(links, 'linkedin', 'https://www.linkedin.com/')} label="LinkedIn" />
+        <ShareLink href={propStrSafe(links, 'reddit', 'https://www.reddit.com/')} label="Reddit" />
+        <ShareLink href={propStrSafe(links, 'bluesky', 'https://bsky.app/')} label="Bluesky" />
+        <ShareLink href={propStrSafe(links, 'threads', 'https://www.threads.net/')} label="Threads" />
+        <ShareLink href={propStrSafe(links, 'instagram', 'https://www.instagram.com/')} label="Instagram" />
+        <ShareLink href={propStrSafe(links, 'substack', 'https://substack.com/notes')} label="Substack Notes" />
       </div>
       <p className="pt-muted pt-share-hint">
         Copy a caption in the Copy tab, then paste into the app. Instagram and Substack do not

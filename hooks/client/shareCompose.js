@@ -645,12 +645,48 @@ export function extractShareMetadata(rawMarkdown) {
 }
 
 export function composeShareCopies(input) {
-  const title = trimStr(input && input.title)
-  const url = trimStr(input && input.canonicalUrl)
-  const snippet = trimStr(input && input.snippetPlain)
-  const body = trimStr(input && input.articleBodyPlain)
-  const paras = trimStr(input && input.articleBodyParagraphsPlain)
-  const tags = trimStr(input && input.hashtagsLine)
+  let title = ''
+  let url = ''
+  let snippet = ''
+  let body = ''
+  let paras = ''
+  let tags = ''
+  try {
+    const v = input.title
+    if (typeof v === 'string') {
+      title = v.trim()
+    }
+  } catch (e) {}
+  try {
+    const v = input.canonicalUrl
+    if (typeof v === 'string') {
+      url = v.trim()
+    }
+  } catch (e2) {}
+  try {
+    const v = input.snippetPlain
+    if (typeof v === 'string') {
+      snippet = v.trim()
+    }
+  } catch (e3) {}
+  try {
+    const v = input.articleBodyPlain
+    if (typeof v === 'string') {
+      body = v.trim()
+    }
+  } catch (e4) {}
+  try {
+    const v = input.articleBodyParagraphsPlain
+    if (typeof v === 'string') {
+      paras = v.trim()
+    }
+  } catch (e5) {}
+  try {
+    const v = input.hashtagsLine
+    if (typeof v === 'string') {
+      tags = v.trim()
+    }
+  } catch (e6) {}
   const igTags = limitTags(tags, IG_TAG_MAX)
   const ig = fitToLimit(title, snippet, body, url, igTags, IG_MAX)
   const fbBody = paras.length > 0 ? paras : body
@@ -730,8 +766,19 @@ export function headingTitle(idQueue) {
     return ''
   }
   try {
-    const t = idQueue[0].title
-    if (typeof t === 'string' && t.length > 0) {
+    const first = idQueue[0]
+    const t = propTitle(first)
+    if (t.length > 0) {
+      return t
+    }
+  } catch (e) {}
+  return ''
+}
+
+function propTitle(entry) {
+  try {
+    const t = entry.title
+    if (typeof t === 'string') {
       return t
     }
   } catch (e) {}
