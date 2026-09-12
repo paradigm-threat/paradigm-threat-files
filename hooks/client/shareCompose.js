@@ -154,11 +154,28 @@ function collectHashtags(line) {
   return out
 }
 
+function joinStrs(list, sep) {
+  let out = ''
+  for (let i = 0; i < list.length; i++) {
+    if (i > 0) {
+      out = out + sep
+    }
+    const item = list[i]
+    if (typeof item === 'string') {
+      out = out + item
+    }
+  }
+  return out
+}
+
 function uniqueTags(list) {
   let seen = ''
   let out = []
   for (let i = 0; i < list.length; i++) {
     const t = list[i]
+    if (typeof t !== 'string') {
+      continue
+    }
     const key = t.toLowerCase() + ' '
     if (seen.indexOf(key) >= 0) {
       continue
@@ -176,13 +193,13 @@ function limitTags(line, max) {
     return ''
   }
   if (max <= 0 || uniq.length <= max) {
-    return uniq.join(' ')
+    return joinStrs(uniq, ' ')
   }
   let kept = []
   for (let i = 0; i < max; i++) {
     kept = kept.concat([uniq[i]])
   }
-  return kept.join(' ')
+  return joinStrs(kept, ' ')
 }
 
 function dropLastTag(line) {
@@ -194,7 +211,7 @@ function dropLastTag(line) {
   for (let i = 0; i < tags.length - 1; i++) {
     kept = kept.concat([tags[i]])
   }
-  return kept.join(' ')
+  return joinStrs(kept, ' ')
 }
 
 function stripYamlFrontmatter(md) {
@@ -408,7 +425,7 @@ function extractKeywords(md) {
     }
   }
   const tags = uniqueTags(collectHashtags(fromLine + ' ' + fromSection))
-  return tags.join(' ')
+  return joinStrs(tags, ' ')
 }
 
 function extractSubstackUrl(md) {
@@ -494,7 +511,7 @@ function markdownToPlainSource(md) {
     }
     out = out.concat([raw])
   }
-  let joined = out.join('\n')
+  let joined = joinStrs(out, '\n')
   joined = stripInlineMd(joined)
   return joined.replaceAll('\n\n\n', '\n\n').trim()
 }
@@ -590,7 +607,7 @@ function joinShareParts(title, snippet, article, url, tags) {
   if (tg.length > 0) {
     parts = parts.concat(['', tg])
   }
-  return parts.join('\n').trim()
+  return joinStrs(parts, '\n').trim()
 }
 
 function fitToLimit(title, snippet, article, url, tags, max) {
@@ -758,6 +775,21 @@ export function shareOutboundLinks(url, title, xText) {
   }
 }
 
+export function markdownH1Title(md) {
+  const body = stripYamlFrontmatter(str(md))
+  const lines = body.split('\n')
+  for (let i = 0; i < lines.length; i++) {
+    const t = lines[i].trim()
+    if (t.length === 0) {
+      continue
+    }
+    if (startsWithStr(t, '# ')) {
+      return stripInlineMd(t.slice(2))
+    }
+  }
+  return ''
+}
+
 export function headingTitle(idQueue) {
   if (!idQueue || typeof idQueue.length !== 'number') {
     return ''
@@ -765,8 +797,9 @@ export function headingTitle(idQueue) {
   if (idQueue.length === 0) {
     return ''
   }
+  let i = 0
   try {
-    const first = idQueue[0]
+    const first = idQueue[i]
     const t = propTitle(first)
     if (t.length > 0) {
       return t

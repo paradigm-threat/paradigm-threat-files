@@ -10,6 +10,7 @@ import {
   extractFirstImageUrl,
   extractShareMetadata,
   headingTitle,
+  markdownH1Title,
   mdDownloadFilename,
   mdRelPath,
   pageOrigin,
@@ -96,60 +97,67 @@ function createShareApi() {
   }
 
   function setShareArticle(opts) {
-    const filePath = propStr(opts, 'filePath', '')
-    const md = propStr(opts, 'markdown', '')
-    let title = propStr(opts, 'title', '')
-    if (title.length === 0) {
-      let queue = null
-      try {
-        if (opts && opts.idQueue) {
-          queue = opts.idQueue
-        }
-      } catch (e) {}
-      title = headingTitle(queue)
-    }
-    if (title.length === 0) {
-      title = prettyArticlePath(filePath)
-    }
-    const origin = pageOrigin()
-    const url = canonicalArticleUrl(filePath, origin)
-    const pretty = prettyArticlePath(filePath)
-    const mdRel = mdRelPath(filePath)
-    const mdName = mdDownloadFilename(filePath)
-    const meta = extractShareMetadata(md)
-    const copies = composeShareCopies({
-      title: title,
-      canonicalUrl: url,
-      snippetPlain: meta.snippetPlain,
-      hashtagsLine: meta.hashtagsLine,
-      articleBodyPlain: meta.articleBodyPlain,
-      articleBodyParagraphsPlain: meta.articleBodyParagraphsPlain,
-    })
-    let imageSrc = extractFirstImageUrl(md)
-    if (imageSrc.length === 0) {
-      imageSrc = propStr(opts, 'imageSrc', '')
-    }
-    imageSrc = appendShareWidth(imageSrc)
-    let xCopy = ''
     try {
-      if (copies) {
-        const v = copies.x
-        if (typeof v === 'string') {
-          xCopy = v
-        }
+      const filePath = propStr(opts, 'filePath', '')
+      const md = propStr(opts, 'markdown', '')
+      let title = propStr(opts, 'title', '')
+      if (title.length === 0) {
+        title = markdownH1Title(md)
       }
-    } catch (e2) {}
-    const links = shareOutboundLinks(url, title, xCopy)
-    s.payload = {
-      title: title,
-      url: url,
-      prettyPath: pretty,
-      mdRel: mdRel,
-      mdName: mdName,
-      mdSource: md,
-      imageSrc: imageSrc,
-      copies: copies,
-      links: links,
+      if (title.length === 0) {
+        let queue = null
+        try {
+          if (opts && opts.idQueue) {
+            queue = opts.idQueue
+          }
+        } catch (e) {}
+        title = headingTitle(queue)
+      }
+      if (title.length === 0) {
+        title = prettyArticlePath(filePath)
+      }
+      const origin = pageOrigin()
+      const url = canonicalArticleUrl(filePath, origin)
+      const pretty = prettyArticlePath(filePath)
+      const mdRel = mdRelPath(filePath)
+      const mdName = mdDownloadFilename(filePath)
+      const meta = extractShareMetadata(md)
+      const copies = composeShareCopies({
+        title: title,
+        canonicalUrl: url,
+        snippetPlain: meta.snippetPlain,
+        hashtagsLine: meta.hashtagsLine,
+        articleBodyPlain: meta.articleBodyPlain,
+        articleBodyParagraphsPlain: meta.articleBodyParagraphsPlain,
+      })
+      let imageSrc = extractFirstImageUrl(md)
+      if (imageSrc.length === 0) {
+        imageSrc = propStr(opts, 'imageSrc', '')
+      }
+      imageSrc = appendShareWidth(imageSrc)
+      let xCopy = ''
+      try {
+        if (copies) {
+          const v = copies.x
+          if (typeof v === 'string') {
+            xCopy = v
+          }
+        }
+      } catch (e2) {}
+      const links = shareOutboundLinks(url, title, xCopy)
+      s.payload = {
+        title: title,
+        url: url,
+        prettyPath: pretty,
+        mdRel: mdRel,
+        mdName: mdName,
+        mdSource: md,
+        imageSrc: imageSrc,
+        copies: copies,
+        links: links,
+      }
+    } catch (eShare) {
+      s.payload = emptyPayload()
     }
   }
 

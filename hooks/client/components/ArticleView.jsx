@@ -440,12 +440,13 @@ export default function ArticleView(props) {
         }
       }
     }
-    share.setShareArticle({
-      filePath: pathPart,
-      markdown: shareMd,
-      idQueue: idQueue,
-      imageSrc: catalogImg,
-    })
+    try {
+      share.setShareArticle({
+        filePath: pathPart,
+        markdown: shareMd,
+        imageSrc: catalogImg,
+      })
+    } catch (eShare) {}
   }
   // Home (page.md) and articles share content-derived TOC; skip bare index stubs.
   const showToc =

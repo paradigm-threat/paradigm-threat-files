@@ -7,7 +7,7 @@ import {
   encodeShareQuery,
   extractFirstImageUrl,
   extractShareMetadata,
-  headingTitle,
+  markdownH1Title,
   mdDownloadFilename,
   mdRelPath,
   prettyArticlePath,
@@ -99,8 +99,8 @@ describe('shareCompose', () => {
     assert.equal(links.instagram, 'https://www.instagram.com/')
   })
 
-  it('reads first heading title from idQueue', () => {
-    assert.equal(headingTitle([{ id: 'x', title: "Crichton's Prophecy", level: 1 }]), "Crichton's Prophecy")
-    assert.equal(headingTitle([]), '')
+  it('reads first heading title from markdown', () => {
+    assert.equal(markdownH1Title(SAMPLE), "Crichton's Prophecy")
+    assert.equal(markdownH1Title(''), '')
   })
 })
