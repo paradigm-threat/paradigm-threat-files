@@ -5,7 +5,7 @@
 > **TL;DR:** Modern **Agile** (2001 Manifesto) and **Scrum** (1995 → 2020 Guide) are a **software-office** revolution that **redefines leadership as facilitation** and **makes command illegitimate inside the team**. **Documented:** Japanese rugby-scrum source ([Takeuchi & Nonaka 1986](https://hbr.org/1986/01/the-new-new-product-development-game)) **kept captains** — top management sets the wall, **hand-picks** the team, runs **subtle control**, and will **add a conservative member** if the room goes radical; Toyota **shusa** / Honda **LPL** still **own the product**. American Scrum **dropped** that and wrote **“no hierarchies.”** That flatten was **designed** by named theorists and a **17-person** Snowbird caucus — **not** an organic discovery. **Author (AU-057k–s):** flatten = **Marxist / New Left anti-boss** politics; **PO cannot close technical fights**; **Nintendo** is the living organic Kyoto shop — IP was **ripped** and **flattened** elsewhere; Kyoto **kept** in-house traditions even when **sidelined**. **Michael Crichton, *Disclosure* (1994)** is an **early fiction encoding** of the same fight — accusation vs product captain, informal power without title, **doing the job** as the only exit — **one year before** OOPSLA Scrum; **does not** name Agile. **AU-057q:** communism is **rear force**; Crichton named **associated** threats without the **C-word** (McCarthyism taboo). **AU-057r:** whole package is a **NSA vs CIA/MI6 ideology** lane (captain/agency vs process/untitled power). **AU-057s:** post-USSR surviving forms (China foremost) rhyme with Agile — **public leaders go down**, **shadows run things**; academic **“agile governance”** = macro state iteration, **not** Scrum. Adjacent captain books (Iacocca, Peters) ≠ package. **Official reply** is in **§7**.
 
 **Status:** Open — opened **2026-09-12** (US Eastern).  
-**Last updated:** 2026-09-12 (strip signed-memo / smoking-gun apologetics; Manifesto naming stays)
+**Last updated:** 2026-09-12 (century map §1.9; AU-057t–u; Moore’s Law join; Prophecy essay expand)
 
 **Guide (read order)**
 
@@ -161,6 +161,24 @@
 | **AL** | **May shape how the country is governed** | Author: the parallel is load-bearing enough that it can describe **national** administration, not only HR theater in a tech shop. |
 | **AM** | **Academic “agile governance” ≠ Scrum** | Papers on China’s **iterative** tech/AI regulation (and older **responsive authoritarianism** work) use **agile** as a **macro-admin** metaphor. That is **Documented** vocabulary for state iteration — **not** a claim Beijing adopted the Scrum Guide, and **not** identity with AU-057’s software religion. Homonym / scope lock. |
 
+### 1.9 Author extension — century context: early-20th-c waves → WWII → OSS/CIA → Moore’s Law pace
+
+**Label:** Author thesis — **2026-09-12** reader-essay expansion. Upstream of **§1.6–§1.8** and **AU-057q/r/s**: DigiCom and Agile are a **1990s costume** of a longer anti-captain war.
+
+> Communism basically took over in all countries in the early 20th century, not just Russia. Other forms of communism fronts were appearing like fascism in Italy and Germany and America. The nationalist authoritarian kept losing out to the globalist fascists, with communism being the driving force behind all of it. Communism lost out significantly when it failed to destroy Russia in World War II. During the defeat of communism in World War II, with its fronts in Italy, Japan, Germany, the enemy within — the communism within, the Office of Overseas Services and the CIA that would be born out of it — would set in motion plans to reestablish the next communism waves. The tactics were always based on lessons learned of the recent failures to contain and destroy Russia and its original nationalistic authoritarianism that is one of the only places that was challenging the deep state's world globalist communism vision at the time. Now it's safe to say that America is challenging that vision too, but for the longest time America was in deep trouble. And the Great Depression highlights how much of trouble, and so does our involvement in overseas wars. In the 90s in the software revolution, communism emerged both to contain the hardware revolution and to make sure that it was paced and controlled with no competition or surprises, based on a new law called Moore's Law, and argued to be a limitation of physics rather than a self-imposed suppressed science. And then of course our timeline on software communism in the form of Agile and Scrum.
+
+**What the author means (unpack):**
+
+| # | Pattern stake | Plain English |
+|---|---------------|---------------|
+| **AN** | **Early 20th c = global wave** | Collectivist / revolutionary pressure was **not** Moscow-only — Europe, China, colonial imports, workers’ councils, party cells. Russia was the loudest hold, not the only storm. |
+| **AO** | **Fascism as costume / front** | Italy, Germany, and American managed forms **look** anti-Bolshevik or nationalist; author read = **same anti-captain family** as communism’s **rear**, with **globalist fascist** machines beating **nationalist authoritarian** tips. |
+| **AP** | **WWII hinge = Russia holds** | Communism **fails to destroy Russia**; Axis fronts (Italy, Japan, Germany) fall. Russia’s **nationalist authoritarian** tip remains a rare large challenge to deep-state globalist-communism vision. |
+| **AQ** | **OSS → CIA = next-wave enemy within** | Lessons from failing to contain/destroy Russia’s challenge: hollow captains **inside** the West. OSS (1942) → CIA (1947) continuity is **Documented** institutionally; **next communism waves** as author package — [CIA investigation](/governance/war/investigations/cia-investigation.md). |
+| **AR** | **America long sick; now challenging** | Great Depression + overseas wars = America in **deep trouble** for a long stretch ([Depression planned](/governance/war/the-great-depression-was-planned.md)). **Now** America challenges the vision too — recent relative to that sick stretch. |
+| **AS** | **Moore’s Law = paced hardware / suppressed science** | Public story: transistor doubling is **physics**. Author: **self-imposed schedule** that contains surprises and rival captains while gardens enclose — [Quantum Leap](/science/computing/quantum-leap-of-faith.md), [Internet That Should Have Been](/science/computing/the-internet-that-should-have-been.md). |
+| **AT** | **1990s software communism = Agile install** | Contain hardware revolution + delete office captains (Scrum → Snowbird → no hierarchies) = the **costume** *Disclosure* antibodies and this file scores. |
+
 ---
 
 ## 2. Terms (define before argument)
@@ -250,6 +268,7 @@ Twelve principles ([agilemanifesto.org/principles](https://agilemanifesto.org/pr
 |------|--------|------|
 | **1911** | F. W. Taylor, *The Principles of Scientific Management* — time-study, the **manager as brain**. | Classic management |
 | **1956** | Herbert Benington, SAGE paper — sequential software phases (later cited as proto-waterfall). | Software |
+| **1965** | Gordon Moore, transistor-doubling observation — later cultural **Moore’s Law** (public physics-limit story; author: paced / suppressed schedule — **§1.9 AS**). | Hardware pace theology |
 | **1970** | Royce paper — linear model **and** the warning against it. | Software |
 | **1950s–1989** | Yugoslav **workers’ self-management** — councils “own” the firm on paper; party + managers remain. Closest **communist-state** analog to “the team decides.” | Politics |
 | **1968+** | Western **New Left** anti-hierarchy (campus, factory occupation, later Occupy). | Politics |
@@ -595,8 +614,10 @@ Crichton wrote a **harassment thriller**. DigiCom is **fiction**. Sony/Philips l
 | **T. Agile / *Disclosure* = NSA vs CIA ideology lane** | **Author camp join; calendar Documented** | **§9.7 / AU-057r.** *Disclosure* = NSA-aligned captain antibody; American Scrum = CIA/globalist labor OS seed. Same decade as Hollywood camp catalog. |
 | **U. Iacocca / Peters = adjacent captain arguments, not AU-057** | **Documented quotes; not the package** | **§6.1.** Individuals-not-committees (1984); bias for action (1982). Same era’s fight for a **named decision-maker**. **No** Agile/Marx/monopoly join. |
 | **V. Post-USSR / China shadow governance parallels Agile** | **Author package; academic “agile governance” Documented as ≠ Scrum** | **§9.8 / AU-057s.** Leaders fall / shadows run = structural rhyme with DigiCom + no-hierarchies offices. Xiao et al. / responsive-authoritarianism literature = **macro admin**, **not** Scrum Guide. No CCP–Snowbird identity. |
+| **W. Century map: early-20th-c waves → WWII Russia hinge → OSS/CIA next waves** | **Author package; OSS→CIA continuity Documented** | **§1.9 / AU-057t.** Global collectivist pressure; fascism as costume; Russia holds; Axis fronts fall; enemy-within lessons. Institutional OSS→CIA = **Documented**; next-wave communism design = **Author**. |
+| **X. Moore’s Law = paced hardware / self-imposed suppressed science; Agile = software communism install** | **Author on pace theology; Moore observation Documented; Agile calendar Documented** | **§1.9 / §11 / AU-057u.** Public physics-limit story vs author containment schedule. Scrum 1995 → Snowbird 2001 = office costume. |
 
-**Bottom line for the author:** the **contradiction is real** and **in the primary texts**. The **Japan/America split is documented**, not vibe: they **kept** leaders and **changed the job**; the US **wrote the flatten**. The **official reply** is mostly **redefinition** plus “we *are* Honda.” The **monopoly tank** is **documented**. **Marxist force** is the right **political family** (anti-captain collectivism) if you do **not** flatten it into “Lenin designed Jira.” The **intent-to-contain-civilization** step stays **author**. The **China/post-USSR** join is the same family at **state** scale — **rhyme**, not “Beijing runs Scrum.”
+**Bottom line for the author:** the **contradiction is real** and **in the primary texts**. The **Japan/America split is documented**, not vibe: they **kept** leaders and **changed the job**; the US **wrote the flatten**. The **official reply** is mostly **redefinition** plus “we *are* Honda.” The **monopoly tank** is **documented**. **Marxist force** is the right **political family** (anti-captain collectivism) if you do **not** flatten it into “Lenin designed Jira.” The **intent-to-contain-civilization** step stays **author**. The **China/post-USSR** join is the same family at **state** scale — **rhyme**, not “Beijing runs Scrum.” The **century map** and **Moore’s Law pace** joins are **author** upstream of the 1990s office install.
 
 ---
 
@@ -771,8 +792,11 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | [Occupy](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) | **Leaderless** as **managed dissent**. Agile is **leaderless** as **managed production**. |
 | [Yakuza remote control / Japan tech containment](/governance/war/investigations/yakuza-remote-control-investigation.md) | **National** tech containment. Agile is the **office** layer of a **wider** containment. |
 | [Nintendo vassal / hardware sabotage](/influence/stolen_credit/investigations/nintendo-vassal-hardware-self-sabotage-investigation.md) | Platform **choke** (CD, license). Same era as Scrum’s **rise**. |
+| [Quantum Leap (of faith)](/science/computing/quantum-leap-of-faith.md) | **Moore’s Law** sold as physics; author **paced / suppressed** silicon paths. Agile is the **office** layer of the same **no-surprises** schedule. |
+| [CIA — OSS rebrand](/governance/war/investigations/cia-investigation.md) | **§1.9 AQ** — enemy-within next waves after WWII Russia hinge. |
+| [Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md) | **§1.9 AR** — America long in deep trouble. |
 
-**Author sentence:** suppressed technology is not only **hidden inventions**. It is **also** a **workforce that is not allowed to lead**. Agile is the **HR firmware** of that condition.
+**Author sentence:** suppressed technology is not only **hidden inventions**. It is **also** a **workforce that is not allowed to lead**. Agile is the **HR firmware** of that condition. **Moore’s Law as pace theology** is the **hardware** twin of that firmware.
 
 ---
 
@@ -802,6 +826,8 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | **AU-057r** | Agile / *Disclosure* / anti-captain collectivism are a **labor-and-fiction lane** of the global **NSA vs CIA/MI6 ideology split**: NSA-aligned = captain + audit + do the job; CIA/globalist = no hierarchies + optics/accusation + untitled power. Same 1990s calendar as *Stargate* / *ID4* / *Congo*. | Author (**§9.7**); dates Documented; camp grammar Author |
 | **AU-057q** | Communism is a **rear establishment force**, not a **front-facing** threat; it creates or rides **fronts** that are often **not** communist-aligned (e.g. radical Islam). The **C-word** was **taboo / McCarthyism-stigma** in polite politics, so serious writers name **associated threats** without saying it. Crichton’s public *Disclosure* set (protectionism, PC, hierarchy-as-scandal, untitled power, Japan/cost theater) is **100%** that associated set — he was **not** talking about communism **directly**, and that silence is **expected**, not a falsifier. | Author package (**§9.6**); C-word stigma + fake-communism/real-corporatism **Supported** in Phoenix/Q-trance + percentage-ads; Crichton **Documented** silence on the noun |
 | **AU-057s** | **Post-USSR surviving forms** (Chinese communism foremost) **parallel Agile/Scrum** at country scale: **public leaders go down**, **people in the shadows run things** — disposable captains + untitled continuity. May shape how the **entire country** is governed. Academic **“agile governance” / “responsive authoritarianism”** = macro tech/AI policy iteration — **not** software Scrum. **No** CCP–Scrum Guide or Snowbird–Beijing identity. | Author (**§1.8 / §9.8**); academic term Documented as state-admin vocabulary; leadership-turnover specimens public |
+| **AU-057t** | **Century context:** early-20th-c **global** collectivist waves (not Russia-only); fascism and related forms as **communism fronts/costumes**; nationalist authoritarian tips **lose** to globalist fascist machines; WWII = communism **fails to destroy Russia**, Axis fronts fall; **OSS → CIA** sets **next communism waves** from lessons learned; America long in **Depression / overseas-war** trouble, **now** challenging the vision too. | Author (**§1.9**); OSS→CIA continuity Documented; Depression/wars companions thematic |
+| **AU-057u** | **1990s software communism** contains the **hardware** revolution via **Moore’s Law** sold as physics (**self-imposed suppressed science** / pace control) plus **Agile/Scrum** as the office anti-captain install. | Author (**§1.9 / §11**); Moore observation + Agile calendar Documented; pace-theology Author |
 
 ---
 
@@ -868,11 +894,13 @@ This is the **repo** join the author asked for. **Thematic rhyme**, not a new ph
 | [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) | Upstream holy-war geometry for Islam-as-front |
 | [Childhood autism / “full communism”](/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) | Collectivist mass-grading = author communism sense |
 | [Holodomor–Holocaust memory](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) | Communist revolution as OS; tip vs ideologue |
-| [Crichton's Prophecy (reader essay)](/science/computing/crichtons-prophecy.md) | Manifesto companion — *Disclosure* → only leadership works → rear force → office lane → China/shadow parallel |
+| [Crichton's Prophecy (reader essay)](/science/computing/crichtons-prophecy.md) | Manifesto companion — *Disclosure* → century map → Moore’s Law / software communism → Agile → rear force → office lane → China/shadow |
+| [CIA — OSS rebrand](/governance/war/investigations/cia-investigation.md) | **AU-057t** — enemy within / next waves |
+| [The Great Depression Was Planned](/governance/war/the-great-depression-was-planned.md) | **AU-057t** — America long in trouble |
 
 ---
 
-Keywords: #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood #Iacocca #InSearchOfExcellence #China #AgileGovernance #ResponsiveAuthoritarianism #PostUSSR
+Keywords: #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #ServantLeadership #SelfOrganizing #Snowbird #ScrumGuide #Waterfall #DarkScrum #TyrannyOfStructurelessness #Occupy #Holacracy #Microsoft #Apple #Google #NoPoach #WalledGarden #SuppressedTechnology #Containment #AU057 #ParadigmThreat #TakeuchiNonaka #Shusa #SubtleControl #Marxism #NewLeft #SelfManagement #OrganizationalAnarchists #Nintendo #Kyoto #ProducerSystem #IPRip #Disclosure #MichaelCrichton #DigiCom #Twinkle #RisingSun #Communism #McCarthyism #RearForce #TwoCamps #NSA #CIA #MI6 #Hollywood #Iacocca #InSearchOfExcellence #China #AgileGovernance #ResponsiveAuthoritarianism #PostUSSR #OSS #Fascism #GreatDepression #MooresLaw
 
 *Last updated: 2026-09-12*
 
@@ -898,6 +926,8 @@ Keywords: #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #Servant
 - **AU-057r / NSA–CIA split:** Author taxonomy join to the Hollywood two-camp dossier. Camp = **grammar**, title-by-title / mechanism-by-mechanism.
 - **Iacocca / Peters (§6.1):** Adjacent **captain** arguments only. **Not** Disclosure clones; **not** the AU-057 monopoly/Marx package.
 - **AU-057s / China–Agile parallel:** Author structural rhyme at state scale. Academic **agile governance** / **responsive authoritarianism** = **macro state administration** (tech/AI policy iteration) — different machine from software-engineering Scrum ([Xiao abs](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562)). Leninist hierarchy counters the “no bosses” misread; the author rhyme is **disposable public captains + shadow continuity**, not stand-up ritual.
+- **AU-057t / century map:** Author package upstream of DigiCom/Agile. Early-20th-c global waves, fascism-as-costume, WWII Russia hinge, OSS→CIA next waves, America Depression/wars trouble. OSS→CIA continuity is **Documented**; “next communism waves by design” stays **Author**. Cross [CIA investigation](/governance/war/investigations/cia-investigation.md); [Depression planned](/governance/war/the-great-depression-was-planned.md).
+- **AU-057u / Moore’s Law + software communism:** Moore’s **1965** observation and cultural law are **Documented**; **self-imposed suppressed science / pace control** and Agile as the office install are **Author**. Cross [Quantum Leap](/science/computing/quantum-leap-of-faith.md).
 
 ---
 
@@ -916,3 +946,4 @@ Keywords: #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #Servant
 - Same-day: §1.7 / §9.7 / AU-057r — Agile/*Disclosure* as NSA vs CIA ideology lane; cross hollywood-two-camp-war. Camp = grammar.
 - Same-day: §1.8 / §9.8 / AU-057s — post-USSR / China shadow-governance parallel; academic agile governance ≠ Scrum (Xiao ScienceDirect abs). §6.1 Iacocca (1984) + Peters/Waterman (1982) adjacent captain prior-art. Reader companion path named: `science/computing/crichtons-prophecy.md`.
 - Same-day add: **Manifesto** title vs ***Communist Manifesto*** (1848) — Documented title + Fowler “call to arms” + later jokes; 1848 homage stays Author until primary upgrades. Filed under Terms + §9.5 + §6.1 + scoreboard O + Limits.
+- Same-day: §1.9 / AU-057t–u / scoreboard W–X — century map (early-20th-c waves, fascism costumes, WWII Russia hinge, OSS→CIA, Depression/wars) + Moore’s Law pace theology + software communism. Reader essay expanded: `science/computing/crichtons-prophecy.md`.
