@@ -124,15 +124,28 @@ function clientBase() {
 /**
  * Tip-safe article load (P0). SSR: RepoFetchHost in-process git. CSR: tip GET + CDN bust.
  * Prefer cachedGet over same-Host fetch during SSR (deadlock).
+ * Pretty paths without `.md` retry with `.md` appended.
  */
 function loadArticleMarkdown(pathPart) {
-  const rel = '/' + pathPart + '?v=' + MD_CACHE_BUST
-  try {
-    const text = cachedGet(rel)
-    if (typeof text === 'string' && text.length > 0) {
-      return { markdownContent: text, errMsg: '' }
-    }
-  } catch (e) {}
+  const candidates = []
+  candidates.push(pathPart)
+  const slash = pathPart.lastIndexOf('/')
+  const base = slash >= 0 ? pathPart.slice(slash + 1) : pathPart
+  if (base.length > 0 && base.indexOf('.') < 0) {
+    candidates.push(pathPart + '.md')
+  }
+
+  for (let i = 0; i < candidates.length; i++) {
+    const cand = candidates[i]
+    const rel = '/' + cand + '?v=' + MD_CACHE_BUST
+    try {
+      const text = cachedGet(rel)
+      if (typeof text === 'string' && text.length > 0) {
+        return { markdownContent: text, errMsg: '', resolvedPath: cand }
+      }
+    } catch (e) {}
+  }
+
   // CSR fallback when cachedGet empty (older hosts): absolute tip URL.
   const live = isClientLive() === true
   if (live) {
@@ -141,24 +154,32 @@ function loadArticleMarkdown(pathPart) {
       return {
         markdownContent: '',
         errMsg: 'Missing relayClientBaseUrl — open via Relay host preset.',
+        resolvedPath: pathPart,
       }
     }
-    const url = baseStr + '/' + pathPart + '?v=' + MD_CACHE_BUST
-    const resp = fetch(url, { method: 'GET' })
-    if (resp && resp.ok === true) {
-      return {
-        markdownContent: resp.text ? resp.text : '',
-        errMsg: '',
+    for (let j = 0; j < candidates.length; j++) {
+      const cand = candidates[j]
+      const url = baseStr + '/' + cand + '?v=' + MD_CACHE_BUST
+      const resp = fetch(url, { method: 'GET' })
+      if (resp && resp.ok === true) {
+        return {
+          markdownContent: resp.text ? resp.text : '',
+          errMsg: '',
+          resolvedPath: cand,
+        }
       }
-    }
-    let st = 0
-    if (resp && resp.status) st = resp.status
-    return {
-      markdownContent: '',
-      errMsg: 'Could not load file (HTTP ' + st + ')',
+      if (j === candidates.length - 1) {
+        let st = 0
+        if (resp && resp.status) st = resp.status
+        return {
+          markdownContent: '',
+          errMsg: 'Could not load file (HTTP ' + st + ')',
+          resolvedPath: pathPart,
+        }
+      }
     }
   }
-  return { markdownContent: '', errMsg: 'Could not load file' }
+  return { markdownContent: '', errMsg: 'Could not load file', resolvedPath: pathPart }
 }
 
 /**

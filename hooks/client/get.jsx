@@ -45,6 +45,12 @@ function articleFilePath(route) {
   let t = normalizeRoute(route)
   if (t.charAt(0) === '/') t = t.slice(1)
   if (t.length === 0) return 'page.md'
+  // Pretty public paths (`science/computing/foo`) → tip blob (`….md`).
+  const slash = t.lastIndexOf('/')
+  const base = slash >= 0 ? t.slice(slash + 1) : t
+  if (base.length > 0 && base.indexOf('.') < 0) {
+    return t + '.md'
+  }
   return t
 }
 
