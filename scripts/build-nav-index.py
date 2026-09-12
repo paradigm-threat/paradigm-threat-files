@@ -17,7 +17,8 @@ import sys
 from pathlib import Path
 from urllib.parse import quote
 
-SKIP_NAMES = {"page.md", "readme.md"}
+SKIP_NAMES = {"page.md", "readme.md", "agents.md"}
+SKIP_PREFIXES = ("docs/", "hooks/", "page-sections/")
 DEFAULT_BASE = "https://relay.paradigmthreat.net"
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
 SKIP_DIR_PARTS = {".git", ".venv", "node_modules", "thin-migrate"}
@@ -55,7 +56,9 @@ def collect_rows(repo: Path) -> list[tuple[str, str, str]]:
         base = path.name.lower()
         if base in SKIP_NAMES or base.endswith(".auto.md"):
             continue
-        if rel.startswith("docs/"):
+        if rel.startswith(SKIP_PREFIXES):
+            continue
+        if any(p in SKIP_DIR_PARTS for p in path.parts):
             continue
         title = title_from_file(path)
         updated = git_updated_iso(repo, rel)
