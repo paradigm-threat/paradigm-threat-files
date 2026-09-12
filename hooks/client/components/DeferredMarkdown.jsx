@@ -143,7 +143,14 @@ export function parseFirstDeferredMarkdownTag(body) {
       attrMinPx = parseDeferredMinHeightAttr(slice.slice(m1, m2))
     }
   }
-  return { at, end, endLen, src, attrMinPx }
+  // Explicit keys — CleverScript can mishandle object-literal shorthand.
+  return {
+    at: at,
+    end: end,
+    endLen: endLen,
+    src: src,
+    attrMinPx: attrMinPx,
+  }
 }
 
 /**
@@ -203,7 +210,11 @@ export function maybeSplitHugeArticleMarkdown(markdown, pathPart, maxLeadChars) 
     '" minHeight="' +
     minPx +
     'px" />\n'
-  return { markdown: out, didSplit: true, tailLen: tail.length }
+  return {
+    markdown: out,
+    didSplit: true,
+    tailLen: tail.length,
+  }
 }
 
 /** Seed warm cache from a string already loaded by the caller (e.g. sync fetch). */
@@ -257,13 +268,19 @@ export function loadDeferredFragment(src, tipBase) {
         method: 'GET',
       })
       if (resp && resp.ok === true) {
-        const text = resp.text ? resp.text : ''
+        let text = ''
+        try {
+          if (typeof resp.text === 'string') text = resp.text
+          else if (typeof resp.text === 'function') text = resp.text()
+        } catch (eTxt) {
+          text = ''
+        }
         if (typeof text === 'string' && text.length > 0) {
           return seedDeferredMarkdown(s, text)
         }
       }
     } catch (e) {}
-    return ''
+    // tipBase set but empty/failed — still try same-Host cachedGet.
   }
   return loadFragment(s)
 }

@@ -340,24 +340,40 @@ export default function ArticleView(props) {
   let deferredIsland = null
   let useDeferredSplit = false
   if (showArticleBody && isClientLivePhase(3) === true) {
+    // Keep parse outside the island-build try so a MarkdownRenderer throw
+    // cannot fall back to in-tree DeferredMarkdown (empty pending forever).
+    let tag = null
     try {
-      const tag = parseFirstDeferredMarkdownTag(body)
-      if (tag !== null) {
-        useDeferredSplit = true
-        mdBefore = body.slice(0, tag.at)
-        mdAfter = body.slice(tag.end + tag.endLen)
-        const src = tag.src
-        const attrMinPx = tag.attrMinPx
-        let frag = ''
+      tag = parseFirstDeferredMarkdownTag(body)
+    } catch (eTag) {
+      tag = null
+    }
+    if (tag && typeof tag.at === 'number' && tag.at >= 0 && typeof tag.end === 'number' && tag.end >= tag.at) {
+      useDeferredSplit = true
+      mdBefore = body.slice(0, tag.at)
+      mdAfter = body.slice(tag.end + (typeof tag.endLen === 'number' ? tag.endLen : 1))
+      let src = 'page-sections/investigations.md'
+      if (typeof tag.src === 'string' && tag.src.length > 0) src = tag.src
+      let attrMinPx = 0
+      if (typeof tag.attrMinPx === 'number' && tag.attrMinPx > 0) attrMinPx = tag.attrMinPx
+      let frag = ''
+      try {
+        frag = loadDeferredFragment(src, clientBase())
+      } catch (eFrag) {
+        frag = ''
+      }
+      if (!(typeof frag === 'string' && frag.length > 0)) {
         try {
-          frag = loadDeferredFragment(src, clientBase())
-        } catch (eFrag) {
+          frag = prefetchDeferredMarkdown(src)
+        } catch (ePref2) {
           frag = ''
         }
-        const fragLen =
-          typeof frag === 'string' && frag.length > 0 ? frag.length : 0
-        const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
-        const minStyle = deferredMinHeightStyle(minPx)
+      }
+      const fragLen =
+        typeof frag === 'string' && frag.length > 0 ? frag.length : 0
+      const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
+      const minStyle = deferredMinHeightStyle(minPx)
+      try {
         if (fragLen > 0) {
           deferredIsland = (
             <section
@@ -402,12 +418,17 @@ export default function ArticleView(props) {
             />
           )
         }
+      } catch (eIsland) {
+        deferredIsland = (
+          <section
+            className="pt-deferred-md"
+            aria-label="Deferred section"
+            aria-busy="true"
+            data-pt-deferred-pending="1"
+            style={minStyle}
+          />
+        )
       }
-    } catch (eSplit) {
-      useDeferredSplit = false
-      deferredIsland = null
-      mdBefore = body
-      mdAfter = ''
     }
   }
 
