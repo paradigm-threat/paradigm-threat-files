@@ -1,8 +1,8 @@
 import manifest from '@hooks'
-import { loadNavIndex, pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
+import { pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
 import { siteHref as hostSiteHref } from '@relay/path'
-import { cachedGet } from '@relay/ui'
-import { parseJson } from 'hooks/client/jsonUtil.jsx'
+import { take } from '@relay/util'
+import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 
 function clientBase() {
   try {
@@ -51,33 +51,28 @@ export function rowUpdated(row) {
   return ''
 }
 
-/**
- * Stem/slug thumb map from on-tree changelog-thumbs.json (built with nav-index).
- * Hydrate-only — do not call during SSR site-shell.
- * Module warm: one parse per tip session (shared by ChangeLog panels).
- */
-let changelogThumbsWarm = null
-
-export function loadChangelogThumbs() {
-  if (changelogThumbsWarm !== null) return changelogThumbsWarm
+export function rowKind(row) {
+  if (!row) return ''
   try {
-    const text = cachedGet('/changelog-thumbs.json')
-    const obj = parseJson(text)
-    if (obj && typeof obj === 'object') {
-      changelogThumbsWarm = obj
-      return changelogThumbsWarm
-    }
+    if (row.content_kind && typeof row.content_kind === 'string') return row.content_kind
   } catch (e) {}
-  changelogThumbsWarm = {}
-  return changelogThumbsWarm
+  return ''
 }
 
-/** Look up same-Host image path for an article ('' when missing). */
-export function thumbForPath(thumbs, path) {
-  if (!thumbs || !path || path.length === 0) return ''
+export function rowPublished(row) {
+  if (!row) return ''
   try {
-    const v = thumbs[path]
-    if (typeof v === 'string' && v.length > 0) return v
+    if (row._originalPublishedAt && typeof row._originalPublishedAt === 'string') {
+      return row._originalPublishedAt
+    }
+  } catch (e) {}
+  return ''
+}
+
+export function rowImageSrc(row) {
+  if (!row) return ''
+  try {
+    if (row.image_src && typeof row.image_src === 'string') return row.image_src
   } catch (e) {}
   return ''
 }
@@ -112,19 +107,126 @@ export function changelogThumbSrc(src) {
   return pathOnly + '?w=160'
 }
 
+const KIND_ARTICLE_INV_BLOG = ['article', 'investigation', 'blog']
+const DIR_QUERY = { content_kind: { $ne: 'exclude' } }
+
+let dirRowsWarm = null
+let articlesRowsWarm = null
+let investigationsRowsWarm = null
+let blogRowsWarm = null
+let recentRowsWarm = null
+let luckyRowsWarm = null
+let homeRowsWarm = null
+
+function fetchIndexQuery(query, order, limit) {
+  let resp = null
+  try {
+    resp = fetch('/', {
+      method: 'QUERY',
+      headers: {
+        Accept: 'application/json',
+      },
+      body: queryIndexBody(query, limit, order),
+    })
+  } catch (e) {
+    return []
+  }
+  if (!resp || resp.ok !== true) return []
+  let text = resp.text ? resp.text : ''
+  if (text.length === 0) return []
+  const data = parseJson(text)
+  if (!data || !data.results) return []
+  let rows = []
+  for (let i = 0; i < data.results.length; i++) {
+    const row = data.results[i]
+    let path = ''
+    try {
+      if (row.path && typeof row.path === 'string') path = row.path
+    } catch (e) {}
+    if (path.length === 0) continue
+    rows = rows.concat([row])
+  }
+  return rows
+}
+
+function takeRows(rows, limit) {
+  if (!rows) return []
+  if (typeof limit !== 'number' || limit <= 0) return rows
+  return take(rows, limit)
+}
+
 /**
- * Article index for Index / Home / ChangeLog.
- * Host `loadNavIndex` uses request-local tip cache (same as cachedGet + parseNavIndexTxt).
- * DirNav uses `@relay/catalog.loadDirTree` (full index → nested folders) instead.
+ * Path-ordered catalog rows (`content_kind ≠ exclude`). Shared by DirNav, neighbors, AutoIndex.
+ * One QUERY per hydrate session.
+ */
+export function loadDirCatalogRows() {
+  if (dirRowsWarm !== null) return dirRowsWarm
+  dirRowsWarm = fetchIndexQuery(DIR_QUERY, 'path', 10000)
+  return dirRowsWarm
+}
+
+/**
+ * Recency QUERY for Index / Home lists. Server order is `-_updated`.
  */
 export function loadArticleRows(limit) {
   let lim = 48
   if (typeof limit === 'number' && limit > 0) lim = limit
-  try {
-    const rows = loadNavIndex(lim)
-    if (rows && rows.length > 0) return rows
-  } catch (e) {}
+  if (homeRowsWarm === null) {
+    homeRowsWarm = fetchIndexQuery(
+      { content_kind: KIND_ARTICLE_INV_BLOG },
+      '-_updated',
+      80,
+    )
+  }
+  return takeRows(homeRowsWarm, lim)
+}
+
+/** ChangeLog tab QUERY: kind filter + `-_updated` + limit 8. */
+export function loadCatalogKind(kind) {
+  if (kind === 'article') {
+    if (articlesRowsWarm === null) {
+      articlesRowsWarm = fetchIndexQuery({ content_kind: 'article' }, '-_updated', 8)
+    }
+    return articlesRowsWarm
+  }
+  if (kind === 'investigation') {
+    if (investigationsRowsWarm === null) {
+      investigationsRowsWarm = fetchIndexQuery(
+        { content_kind: 'investigation' },
+        '-_updated',
+        8,
+      )
+    }
+    return investigationsRowsWarm
+  }
+  if (kind === 'blog') {
+    if (blogRowsWarm === null) {
+      blogRowsWarm = fetchIndexQuery({ content_kind: 'blog' }, '-_updated', 8)
+    }
+    return blogRowsWarm
+  }
+  if (kind === 'recent') {
+    if (recentRowsWarm === null) {
+      recentRowsWarm = fetchIndexQuery(
+        { content_kind: KIND_ARTICLE_INV_BLOG },
+        '-_updated',
+        8,
+      )
+    }
+    return recentRowsWarm
+  }
   return []
+}
+
+/** Feeling Lucky: `order=random` candidate set (one QUERY per session). */
+export function loadLuckyRows() {
+  if (luckyRowsWarm !== null) return luckyRowsWarm
+  luckyRowsWarm = fetchIndexQuery(
+    { content_kind: KIND_ARTICLE_INV_BLOG },
+    'random',
+    40,
+  )
+  return luckyRowsWarm
 }
 
 export function featuredArticlePath(rows) {
@@ -140,10 +242,10 @@ export function featuredArticlePath(rows) {
 }
 
 /**
- * Pick a rotating article path from nav-index (host pick + tip seed).
+ * Pick a rotating article path from the warmed random QUERY set.
  */
 export function pickFeelingLuckyPath() {
-  const rows = loadArticleRows(200)
+  const rows = loadLuckyRows()
   let seed = 0
   try {
     const g = globalThis

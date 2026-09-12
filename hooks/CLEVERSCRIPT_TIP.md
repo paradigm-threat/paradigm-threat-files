@@ -12,7 +12,7 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 
 | Module | Use for |
 |--------|---------|
-| `@relay/catalog` | `parseNavIndexTxt`, `loadNavIndex`, `loadDirTree`, `extractMarkdownHeadings`, `contentKind`, `buildDirTree`, `dirExpandPaths`, `nestTocItems`, `publishedFromBlogPath`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
+| `@relay/catalog` | `parseNavIndexTxt`, `extractMarkdownHeadings`, `contentKind`, `buildDirTree`, `dirExpandPaths`, `nestTocItems`, `publishedFromBlogPath`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
 | `@relay/date` | `formatTiny` / `formatLong` / `formatFeed` / `sameDay` |
 | `@relay/path` | `basename`, `dirname`, `join`, `split`, `normalizeRel`, `resolveRel`, `parentDir`, `siteHref`, `resolveEmbedSrc`, `resolveAssetUrl`, `rewriteMarkdownAssetUrls`, `portraitSiblingSrc`, `repoRelFromMediaSrc`, `safeImgDomId`, `readHashImgSrc`, `galleryImgHash`, `galleryDisplaySrc`, `portraitSiblingIfPresent`, `normalizeHttpHref`, `lookupHttpHref` |
 | `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `uniqueId`, `includes`, `splitSentences`, `takeSentenceChunk` |
@@ -45,7 +45,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs). Available when needed: `querySelector` / `querySelectorAll`, DomNode attrs / `scrollIntoView` / `getBoundingClientRect`, `getElementById`. Prefer host-agnostic paths (e.g. content-derived TOC) over Dom scraping.
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay). TOC markers live in **`SiteChrome`** so home → article soft-nav still has `lg:pt-toc-lg` (otherwise TOC stays `display:none`).
 - **TOC is content-derived and host/OS-agnostic** — `@relay/catalog.extractMarkdownHeadings` (tip thin wrap) walks the markdown string (ATX + fence skip); `makeHeadingOverrides` stamps matching `id`s on `h1`–`h6`; `DynamicIndex` nests via `@relay/catalog.nestTocItems` and renders `#id` links. Hash active is `data-pt-toc-active` (hashchange `setAttribute` only — no `setState`). **Do not** rebuild the TOC via `querySelector` / Dom poll / scroll-spy geometry.
-- **Directory expand** uses `data-pt-open="0"|"1"` (and `data-pt-showall`) + CSS — not `<details open>` (cannot remove `open`) and not `setState`. Host: `loadDirTree` (full cached nav-index tree) + `dirExpandPaths(currentRel)` for ancestor folders.
+- **Directory expand** uses `data-pt-open="0"|"1"` (and `data-pt-showall`) + CSS — not `<details open>` (cannot remove `open`) and not `setState`. Host: QUERY catalog rows → `@relay/catalog.buildDirTree` + `dirExpandPaths(currentRel)` for ancestor folders.
 - **Heading override callables must not be named `h1`…`h6`** — CleverScript JSX can resolve those lowercase tags to the local binding and recurse until “Maximum recursion depth exceeded”. Name them `renderHeading1`, etc.
 - **Anchor override callables must not be named `a`** — same JSX shadowing risk. Name them `renderMdAnchor` (or similar) and look up dead hrefs with `@relay/path.lookupHttpHref`.
 - **New tip modules must be listed in `hooks.json`** — CSR hydrate only prefetches that manifest (SSR follows imports). Missing entries → `Module not found: hooks/...` hydration error with static shell left below.
@@ -86,45 +86,44 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 
 1. **Same-Host QUERY / HTTP `fetch` during site-shell SSR deadlocks** the gateway worker (or burns a cold index path). `RepoFetchHost` can read tip blobs in-process; that is **not** a license to fan out catalog work on every HTML miss.
 2. **Render rarity:** post-hydrate `setState` re-runs the **whole** shell and replaces `innerHTML`. Catalog trees baked into SSR HTML still remount when any tip state thrash happens; placeholders + hydrate keep P0 article stable.
-3. **Gateway `ssr_html_cache`** keys by tip OID — a correct miss path must stay **cheap** (P0+P1 only). Putting nav-index parse / card fan-out / QUERY into SSR reintroduces the old multi-second (~10s) cold path on every tip push and cache miss.
+3. **Gateway `ssr_html_cache`** keys by tip OID — a correct miss path must stay **cheap** (P0+P1 only). Putting catalog QUERY / card fan-out into SSR reintroduces the old multi-second (~10s) cold path on every tip push and cache miss.
 4. **Bots / SEO** already get article HTML + `sitemap.xml`. DirNav cards are not the crawler contract.
 
-**Optimal pattern:** SSR **P0 article + P1 static chrome** (placeholders for catalog) → client hydrate when `isClientLive() === true` → one warmed tip GET of `nav-index.txt` / thumbs via `@relay/catalog.loadNavIndex` + tip `loadArticleRows` (runtime `tip_cached_get` + `tip_cached_nav_index_rows`).
+**Optimal pattern:** SSR **P0 article + P1 static chrome** (placeholders for catalog) → client hydrate when `isClientLive() === true` → QUERY the index (module-warm one HTTP per spec: ChangeLog kinds, DirNav, Feeling Lucky). Never same-Host QUERY during site-shell SSR.
 
 | Tier | Examples | SSR | Hydrate |
 |------|----------|-----|---------|
 | **P0 Content** | Article / `page.md` markdown, heading TOC from the same `extractMarkdownHeadings` | **Required** — tip-safe `cachedGet('/'+path)` (in-process on gateway; not same-Host HTTP) + `MarkdownRenderer` | Reuse same tree (no blank flash) |
-| **P1 Shell** | Brand, hardcoded header/footer links in `Nav.jsx`, theme CSS markers | **Required**, **fetch-free** (literals only; never `nav-index` for the top nav) | Menu / theme / font handlers only; `data-pt-hydrated` → `"1"` |
-| **P2 Catalog** | DirNav tree, ChangeLog cards, Feeling Lucky, neighbors, AutoIndex, Home index lists | **Forbidden** — placeholder only (`data-pt-dirnav-ssr` / `data-pt-changelog-ssr`) | `loadDirTree` / `loadNavIndex` / `loadArticleRows` |
+| **P1 Shell** | Brand, hardcoded header/footer links in `Nav.jsx`, theme CSS markers | **Required**, **fetch-free** (literals only; never QUERY for the top nav) | Menu / theme / font handlers only; `data-pt-hydrated` → `"1"` |
+| **P2 Catalog** | DirNav tree, ChangeLog cards, Feeling Lucky, neighbors, AutoIndex, Home index lists | **Forbidden** — placeholder only (`data-pt-dirnav-ssr` / `data-pt-changelog-ssr`) | Hydrate QUERY via `loadDirCatalogRows` / `loadCatalogKind` / `loadArticleRows` |
 | **P3 Interactive** | Gallery, TTS, theme/font persistence, search QUERY | **Forbidden** | Only when `isClientLive() === true` |
 
 **`data-pt-hydrated`:** gateway embed sets `"0"` on `<html>`; `relay-runtime-web.js` sets `"1"` when promoting live. Tip styles `[data-pt-hydrated="0"] .pt-client-only` (plus `:disabled` / `aria-disabled` fallbacks). Do **not** invent a parallel hydrate flag.
 
-**Soft rule:** tip-blob reads for P0 are allowed on SSR via `RepoFetchHost` / `cachedGet`. Same-Host **HTTP** `fetch` / QUERY still deadlocks the worker — never do that. Optional later: host lint when `loadNavIndex` runs with `!isClientLive`.
+**Soft rule:** tip-blob reads for P0 are allowed on SSR via `RepoFetchHost` / `cachedGet`. Same-Host **HTTP** `fetch` / QUERY still deadlocks the worker — never do that. Optional later: host lint when catalog QUERY runs with `!isClientLive`.
 
-**Header nav:** keep static P1 links. Do not drive the top bar from `nav-index.txt`. Catalog churn belongs in DirNav (hydrate).
+**Header nav:** keep static P1 links. Do not drive the top bar from QUERY. Catalog churn belongs in DirNav (hydrate).
 
-**Bots:** expect **`sitemap.xml`** + article HTML, not DirNav. Regenerate sitemap with the nav-index script before push.
+**Bots:** expect **`sitemap.xml`** + article HTML, not DirNav. Regenerate sitemap with `python3 scripts/build-nav-index.py` before push.
 
 ### Cache layers (catalog stays off SSR HTML)
 
 | Layer | Key / scope | What it caches | TTL / invalidation |
 |-------|-------------|----------------|--------------------|
 | Gateway **`ssr_html_cache`** | `(repo, branch, tipCommitOID, path, clientHook, webAssetsOID)` | P0+P1 HTML document only | Tip / web-assets OID change → miss; `s-maxage=60`, SWR 3600; `RELAY_DISABLE_SSR_HTML_CACHE=1` |
-| Runtime **`tip_cached_get`** | URL string, per RunState / hydrate session | Raw tip blob text (`nav-index.txt`, thumbs, article md) | Cleared with run state; one GET per URL per session |
-| Runtime **`tip_cached_nav_index_rows`** | Hash of nav-index text | Parsed row `Rc` shared by DirNav / ChangeLog / neighbors | Same session; remounts reuse parse |
-| Tip module warm | `changelogThumbsWarm` in `loadArticles.jsx` | Parsed `changelog-thumbs.json` | Module lifetime (hydrate session) |
-| Gateway **QUERY LRU** | `(repo, tipHead, collection, query, limit, order)` | Search / optional articles QUERY | ~45s; tip HEAD in key; **never** call from site-shell SSR |
-| CDN / browser | On-tree GET paths | `nav-index.txt`, thumbs, assets | CDN-friendly blob GET; bump `?v=` when content must pierce |
+| Runtime **`tip_cached_get`** | URL string, per RunState / hydrate session | Raw tip blob text (article md, assets) | Cleared with run state; one GET per URL per session |
+| Tip module warm | `loadArticles.jsx` QUERY caches | DirNav / ChangeLog / Lucky result arrays | Module lifetime (hydrate session); one HTTP per spec |
+| Gateway **QUERY LRU** | `(repo, tipHead, collection, query, limit, order)` | Search + hydrate catalog QUERY | ~45s; tip HEAD in key; skipped for `order=random`; **never** call from site-shell SSR |
+| CDN / browser | On-tree GET paths | Article md, images, `sitemap.xml` | CDN-friendly blob GET; bump `?v=` when content must pierce |
 
 **Do / don’t (loading):**
 
 | Do | Don’t |
 |----|--------|
 | SSR article + static nav chrome; catalog placeholders | SSR full DirNav / ChangeLog / AutoIndex rows |
-| Hydrate: `loadNavIndex` / `loadArticleRows` once live | Same-Host HTTP QUERY inside site-shell SSR |
-| Rely on tip OID HTML cache for cheap P0+P1 hits | Stuff catalog into SSR so every tip push pays parse again |
-| On-tree `nav-index.txt` + thumbs for park lists | Re-parse nav-index in every catalog child without host warm |
+| Hydrate: QUERY catalog once live (module-warm per spec) | Same-Host HTTP QUERY inside site-shell SSR |
+| Rely on tip OID HTML cache for cheap P0+P1 hits | Stuff catalog into SSR so every tip push pays QUERY again |
+| Indexed `content_kind` / `_updated` / `image_src` from QUERY | Fetch 10k rows and `sortBy` in CleverScript; dual-read txt then QUERY |
 | CSS tabs / dual theme CSS (no catalog remount) | `setState` tabs or theme that wipe the article |
 
 **Gateway reuse (Next-like):** fleet caches SSR HTML keyed by tip OID with `s-maxage≈60` / SWR — see `relay-gateway/docs/RELAY_POLICY_AND_PERFORMANCE.md`. Tip still must be correct without that cache — and that cache must **not** embed P2 catalog.
@@ -145,10 +144,10 @@ Parked **`ssr`** hosts: P0+P1 SSR, P2 placeholders, hydrate promotes live withou
 
 - **Never** `fetch` / QUERY the **same Host** during site-shell SSR — it deadlocks the gateway worker.
 - **P0 article:** load via **`cachedGet('/'+relPath+'?v=ptmdN')`** so SSR and CSR share one tip-safe path (query stripped for git read; busts CDN on CSR). Prefer an explicit **`<DeferredMarkdown src="…" minHeight="…px" />`** for long sections (home: `page-sections/investigations.md`). Absurdly large **single-file** tips (no tag, >~400KB): `ArticleView` SSRs a short **lead** + deferred island (`page-sections/__article_tail__.md`, seeded in-process) — **never blank** the whole body. Prefetch real tip `src` at phase **≥2**; fill the island at phase **≥3** via sibling `MarkdownRenderer` (do **not** nest `MarkdownRenderer` / `cachedGet` inside the DeferredMarkdown override).
-- Prefer on-tree catalogs: **`nav-index.txt`**, **`sitemap.xml`**, sidecar JSON — load via **`loadNavIndex(limit)`** only when **live** (P2). Tip `extractMarkdownHeadings` is a thin wrap over `@relay/catalog.extractMarkdownHeadings` (empty queues if host missing).
-- **ChangeLog thumbs:** on-tree **`changelog-thumbs.json`** (article path → same-Host image). Built by `scripts/build-nav-index.py` with the same stem/slug match as Vercel `queryRecentContent`. Load via `loadChangelogThumbs()` / `cachedGet` on hydrate only — do **not** QUERY the full index just for card images.
-- Regenerate indexes before push: `python3 scripts/build-nav-index.py` (nav-index + sitemap + robots + changelog-thumbs).
-- **P2/P3 stay light on SSR:** gate catalog / interactive work with `isClientLive() === true`. Do **not** call `loadArticleRows`, full nav-index parse, or QUERY until the client is live.
+- **Hydrate catalog = QUERY**, not on-tree GET. Tip `loadArticles.jsx` issues `fetch('/', { method: 'QUERY' })` only when live. Server `order=-_updated` / `path` / `random`; object `query` filters on `search.yaml` `filterFields`. Tip `extractMarkdownHeadings` is a thin wrap over `@relay/catalog.extractMarkdownHeadings` (empty queues if host missing).
+- **ChangeLog thumbs:** `image_src` on `path_tree` markdown docs (stem/slug match at ingest). ChangeLog reads `row.image_src` — no `changelog-thumbs.json`.
+- **Bots:** regenerate **`sitemap.xml`** / **`robots.txt`** with `python3 scripts/build-nav-index.py` before push. Do not ship `nav-index.txt`.
+- **P2/P3 stay light on SSR:** gate catalog / interactive work with `isClientLive() === true`. Do **not** QUERY until the client is live.
 - **Homepage `page.md` UTF-8 hazard (2026-07-22):** fleet WASM panics with `byte index … is not a char boundary` inside multi-byte chars (`—`, `“`, …) while hydrating `/`, then `[embed] boot failed RuntimeError: unreachable`. Keep **`page.md` ASCII-only** (no curly quotes, em dashes, arrows, æ). Hero image alts short/single-line. Bump `?v=ptmdN` when content must pierce CDN `max-age=3600`; do **not** use `Date.now()` in tip — breaks SSR compile. Root cause is Relay runtime byte-slice; content hygiene unblocks the parked site.
 
 ## Local park + pre-push smoke
@@ -182,4 +181,4 @@ Do **not** treat rapid fleet deploy / `autossh` into production `:8080` as the p
 - Runtime tip checklist: `relay-runtime/docs/CLEVERSCRIPT.md` §5.1
 - Disabled components: `hooks/COMPONENTS_DISABLED.md`
 
-*Last updated: 2026-08-02*
+*Last updated: 2026-09-12*

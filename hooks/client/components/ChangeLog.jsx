@@ -1,66 +1,56 @@
 /**
  * Thin ChangeLog matching live paradigmthreat.net tabs + card/feed styles.
  * Card chrome lives in theme.yaml; only :has() radio wiring stays inline.
- * Thumbs: stem/slug map from changelog-thumbs.json (Vercel queryRecentContent parity).
+ * Rows and thumbs come from hydrate QUERY (`image_src` stamped at ingest).
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
-import { take, sortBy } from '@relay/util'
-import { contentKind, publishedFromBlogPath } from '@relay/catalog'
+import { take } from '@relay/util'
 import {
-  loadArticleRows,
-  loadChangelogThumbs,
+  loadCatalogKind,
   rowPath,
   rowTitle,
   rowUpdated,
+  rowKind,
+  rowPublished,
+  rowImageSrc,
   siteHref,
-  thumbForPath,
   changelogThumbSrc,
 } from 'hooks/client/loadArticles.jsx'
 
-function buildBuckets(limit) {
-  const rows = loadArticleRows(120)
-  const thumbs = loadChangelogThumbs()
-  let articles = []
-  let investigations = []
-  let blog = []
-  for (let i = 0; i < rows.length; i++) {
-    const path = rowPath(rows[i])
-    const kind = contentKind(path)
-    if (kind === 'exclude') continue
-    const fromNav = rowUpdated(rows[i])
-    const published = kind === 'blog' ? publishedFromBlogPath(path) : ''
-    const updatedAt = fromNav.length > 0 ? fromNav : published
-    const imageSrc = thumbForPath(thumbs, path)
-    const item = {
-      path: path,
-      title: rowTitle(rows[i]),
-      kind: kind,
-      href: siteHref('/' + path),
-      updatedAt: updatedAt,
-      originalPublishedAt: published,
-      sortKey: updatedAt.length > 0 ? updatedAt : path,
-      imageSrc: imageSrc,
-    }
-    if (kind === 'blog') blog = blog.concat([item])
-    else if (kind === 'investigation') investigations = investigations.concat([item])
-    else articles = articles.concat([item])
-  }
-  articles = take(sortBy(articles, 'sortKey', true), limit)
-  investigations = take(sortBy(investigations, 'sortKey', true), limit)
-  blog = take(sortBy(blog, 'sortKey', true), limit)
-  const recent = take(
-    sortBy(articles.concat(investigations).concat(blog), 'sortKey', true),
-    limit,
-  )
+function itemFromRow(row) {
+  const path = rowPath(row)
+  const kind = rowKind(row)
+  const published = rowPublished(row)
+  const updatedAt = rowUpdated(row)
   return {
-    articles: articles,
-    investigations: investigations,
-    blog: blog,
-    recent: recent,
+    path: path,
+    title: rowTitle(row),
+    kind: kind,
+    href: siteHref('/' + path),
+    updatedAt: updatedAt,
+    originalPublishedAt: published,
+    imageSrc: rowImageSrc(row),
+  }
+}
+
+function itemsFromRows(rows, limit) {
+  let items = []
+  for (let i = 0; i < rows.length; i++) {
+    items = items.concat([itemFromRow(rows[i])])
+  }
+  return take(items, limit)
+}
+
+function buildBuckets(limit) {
+  return {
+    articles: itemsFromRows(loadCatalogKind('article'), limit),
+    investigations: itemsFromRows(loadCatalogKind('investigation'), limit),
+    blog: itemsFromRows(loadCatalogKind('blog'), limit),
+    recent: itemsFromRows(loadCatalogKind('recent'), limit),
   }
 }
 

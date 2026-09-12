@@ -11,7 +11,7 @@ import Layout from 'hooks/client/components/Layout.jsx'
 import DirNav from 'hooks/client/components/DirNav.jsx'
 import DynamicIndex from 'hooks/client/components/DynamicIndex.jsx'
 import {
-  loadArticleRows,
+  loadDirCatalogRows,
   siteHref,
 } from 'hooks/client/loadArticles.jsx'
 import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
@@ -406,7 +406,7 @@ export default function ArticleView(props) {
 
   // P2 catalog — neighbors only when live.
   const neighbors = live
-    ? hostNeighborPaths(pathPart, loadArticleRows(200))
+    ? hostNeighborPaths(pathPart, loadDirCatalogRows())
     : { prev: '', next: '' }
   let prevPath = ''
   let nextPath = ''

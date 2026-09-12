@@ -20,7 +20,7 @@ npm run park:smoke
 
 **Local perf / chrome toggles:** theme and font must flip via `html` class / `data-font` **without** CleverScript `setState` (full shell remount). After hydrate, click theme — article DOM must stay put. See [`hooks/CLEVERSCRIPT_TIP.md`](../hooks/CLEVERSCRIPT_TIP.md) § Render rarity.
 
-**Catalog loading:** DirNav / ChangeLog / article lists are **hydrate-only (P2)** — do not SSR them into the HTML cache. Optimal path is placeholders on SSR + warmed `nav-index.txt` GET after `isClientLive()` (runtime `tip_cached_*`). Normative verdict + cache table: [`hooks/CLEVERSCRIPT_TIP.md`](../hooks/CLEVERSCRIPT_TIP.md) § SSR priority tiers.
+**Catalog loading:** DirNav / ChangeLog / article lists are **hydrate-only (P2)** — do not SSR them into the HTML cache. Optimal path is placeholders on SSR + QUERY after `isClientLive()` (tip `loadArticles.jsx` module-warm). Normative verdict + cache table: [`hooks/CLEVERSCRIPT_TIP.md`](../hooks/CLEVERSCRIPT_TIP.md) § SSR priority tiers.
 
 Unit regressions (no live server):
 

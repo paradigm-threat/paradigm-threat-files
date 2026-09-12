@@ -8,3 +8,5 @@ collections:
         mode: merge
     idFields: [path, _meta_dir, id]
     ftsFields: [_title, title, _keywords, keywords, description, summary, content_kind]
+    filterFields: [content_kind, path, type, _keywords]
+    sortFields: [_updated, path, sort_key]

@@ -1,10 +1,10 @@
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
-import { loadDirTree, dirExpandPaths } from '@relay/catalog'
+import { buildDirTree, dirExpandPaths } from '@relay/catalog'
 import { includes } from '@relay/util'
 import { propStr } from 'hooks/client/propOr.jsx'
-import { rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
+import { loadDirCatalogRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
   IconChevronDownSm,
@@ -318,7 +318,7 @@ function dirCssMarker() {
   )
 }
 
-/** Left directory — full tree via `@relay/catalog.loadDirTree`; open state is data-pt-open (no setState). */
+/** Left directory — QUERY catalog → `@relay/catalog.buildDirTree`; open state is data-pt-open (no setState). */
 export default function DirNav(props) {
   const currentRel = stripRel(propStr(props, 'currentPath', ''))
 
@@ -344,7 +344,7 @@ export default function DirNav(props) {
   let tree = null
   let expandPaths = []
   try {
-    tree = loadDirTree()
+    tree = buildDirTree(loadDirCatalogRows())
   } catch (eLoad) {}
   try {
     expandPaths = dirExpandPaths(currentRel)

@@ -1,10 +1,10 @@
 /**
  * Thin AutoIndex for MarkdownRenderer overrides.
- * Lists nav-index rows under an optional path= directory.
+ * Lists QUERY catalog rows under an optional path= directory.
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
-import { loadArticleRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
+import { loadDirCatalogRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 
 function str(v) {
   if (v === null) return ''
@@ -51,7 +51,7 @@ export default function AutoIndex(props) {
     dir = dir.slice(1)
   }
 
-  const rows = loadArticleRows(200)
+  const rows = loadDirCatalogRows()
   let picked = []
   for (let i = 0; i < rows.length; i++) {
     const p = rowPath(rows[i])
