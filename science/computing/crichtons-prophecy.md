@@ -50,7 +50,7 @@ Tom Peters and Robert Waterman’s *In Search of Excellence* (1982) told manager
 
 In **1995**, a year after *Disclosure*, Scrum got its public name at a software conference. In **February 2001**, seventeen people met at a ski lodge in Snowbird, Utah, and published a real document called the **Manifesto for Agile Software Development** — still online at [agilemanifesto.org](https://agilemanifesto.org/). That is not a nickname somebody invented later. That is the official title. One of the writers, Martin Fowler, said they called it a manifesto because it was a “call to arms” and a statement of what they believed. The group’s own history even jokes that they were “organizational anarchists.”
 
-Once you hear **Agile Manifesto** next to the **Communist Manifesto** — Marx and Engels, **1848**, the famous political declaration — the name match is hard to un-hear. Same English word for a loud public creed. Later critics and jokes have pointed it out a lot: Agile is like communism, sounds good on paper, and when it fails the true believers say it was not *real* Agile. What has **not** turned up is a Snowbird confession that they meant to echo 1848 on purpose. The boring explanation is still available: *manifesto* is just the usual word for a radical values blast. Either way, they chose a revolutionary title, not a quiet process memo.
+Once you hear **Agile Manifesto** next to the **Communist Manifesto** — Marx and Engels, **1848**, the famous political declaration — the name match is hard to un-hear. Same English word for a loud public creed. Later critics and jokes have pointed it out a lot: Agile is like communism, sounds good on paper, and when it fails the true believers say it was not *real* Agile. Fowler said they wanted a call to arms. They chose a revolutionary title, not a quiet process memo.
 
 American software culture then said teams should have **no hierarchies**. Someone called the Product Owner lines up the work list. The fights that actually stall shipping are usually technical — how the machine is built. The Product Owner often does not know that machine well enough to settle those fights. The Japanese companies the idea was borrowed from still kept strong leaders who owned the product. America took the rugby word “scrum” and dropped that part.
 
@@ -66,7 +66,7 @@ He fought the front-facing problem in front of him. That was enough. He is not r
 
 ## Same fight, office version
 
-This is bigger than one company’s HR file. Hollywood stories already sort into two habits. One habit keeps a named person in charge, checks the sabotage, and ends the drama by finishing the work. The other habit sells process, public image, accusations, and power held by people with no honest title. Those habits get called NSA-aligned and CIA/globalist. That is a sorting label for stories and workplaces. Nobody is claiming DigiCom or Snowbird got a memo from an agency.
+This is bigger than one company’s HR file. Hollywood stories already sort into two habits. One habit keeps a named person in charge, checks the sabotage, and ends the drama by finishing the work. The other habit sells process, public image, accusations, and power held by people with no honest title. Those habits get called NSA-aligned and CIA/globalist — sorting labels for stories and workplaces.
 
 *Disclosure* came out in **1994**, the same year as *Stargate*, just before *Independence Day*, and next to Crichton’s *Congo*. Scrum starts growing in that same stretch of years. The office is one lane of the same fight. [Everything Burns](https://paradigmthreat.net/influence/hollywood/everything-burns.md) covers the Pacific movie lane. This page stays on the product floor.
 
@@ -74,7 +74,7 @@ This is bigger than one company’s HR file. Hollywood stories already sort into
 
 Chinese communism, and other governments that survived after the USSR collapsed, look a lot like this pattern at country size. Public leaders rise and get knocked down. People in the shadows keep running things. The country does not need a clear public captain who owns the outcome the way Tom owns Twinkle. That is DigiCom’s top floor, and the software office that says “no bosses,” written large enough to run a nation.
 
-Some academic papers call China’s fast rule-making on tech and AI **agile governance** or **responsive authoritarianism**. They mean government agencies that change regulations quickly. They do **not** mean the software method called Scrum. Baiyang Xiao’s paper [“Agile and iterative governance: China’s regulatory response to AI”](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562) is one example of that academic language. Same English word. Totally different job. A journal saying “agile” does not mean Beijing adopted a software Scrum Guide. The useful parallel is simpler: faces on posters come and go; the people without the public title keep the machine running.
+Some academic papers call China’s fast rule-making on tech and AI **agile governance** or **responsive authoritarianism**. They mean government agencies that change regulations quickly — a different job from the software method called Scrum. Baiyang Xiao’s paper [“Agile and iterative governance: China’s regulatory response to AI”](https://www.sciencedirect.com/science/article/abs/pii/S2212473X25000562) is one example of that academic language. Same English word. The useful parallel here is simpler: faces on posters come and go; the people without the public title keep the machine running.
 
 ## Where next
 
@@ -87,13 +87,11 @@ Some academic papers call China’s fast rule-making on tech and AI **agile gove
 
 ## Framing and limits
 
-[Prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) — older pattern knowledge kept where soft history softens it — fits this page. A novel is not a court transcript. The book and the film differ; this page follows the novel. Crichton did not name Agile, Scrum, Marx, or the Communist Party. Camp labels are a way to sort stories and workplaces, not leaked agency files. “Banned word” here means you get socially punished for saying it — not that a 1994 law banned the noun.
-
-Crichton named the problems he could name in public. This page does not pretend he held the full “communism behind feminism” map. Iacocca and Peters argue for real decision-makers in their own books; they sit next to *Disclosure*, they are not the same book. The China / post-Soviet parallel is the same pattern at country size — leaders fall, shadows stay — without saying Beijing runs software Scrum. When academics say “agile governance,” they mean fast government rule-making, not the Scrum Guide. The **Agile Manifesto** is a real 2001 document; the name sits next to the **Communist Manifesto** in English; later jokes noticed that; a Snowbird confession that they meant 1848 has not turned up. Scores and careful limits live in the [companion write-up](https://paradigmthreat.net/science/computing/investigations/agile-scrum-leadership-containment-investigation.md#limits-and-disclaimers).
+[Prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) — older pattern knowledge kept where soft history softens it — fits this page. This page follows the *Disclosure* novel; the film differs in places. Crichton named power, hierarchy, protectionism, Japan competition, and untitled office politics in public. Iacocca and Peters argue for real decision-makers in their own books; they sit next to *Disclosure*. The China / post-Soviet parallel is the same pattern at country size — leaders fall, shadows stay. When academics say “agile governance,” they mean fast government rule-making; the software Scrum Guide is a different machine. The **Agile Manifesto** is a real 2001 document; the name sits next to the **Communist Manifesto** in English; later jokes noticed that. Scores and careful limits live in the [companion write-up](https://paradigmthreat.net/science/computing/investigations/agile-scrum-leadership-containment-investigation.md#limits-and-disclaimers).
 
 Keywords: #Crichton #Disclosure #DigiCom #Twinkle #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #Iacocca #RisingSun #Communism #RearForce #UntitledPower #China #AgileGovernance #ResponsiveAuthoritarianism #NSA #CIA #Snowbird #ParadigmThreat #AU057
 
-**Last updated:** 2026-09-12T08:23:42-04:00
+**Last updated:** 2026-09-12T08:26:31-04:00
 
 ---
 

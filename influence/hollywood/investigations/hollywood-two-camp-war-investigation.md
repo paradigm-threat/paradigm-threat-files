@@ -83,7 +83,7 @@ This investigation extends the **two-camp interagency war** frame documented in 
 
 **Not a sort key:** “Complex antibody” vs “shallow mythical” — NSA-side titles can be **extremely shallow** (*Rush Hour* buddy adventure) while still accomplishing **low war-prep** goals (Americans and Chinese **talking together**, sharing culture, on the same side).
 
-**Discipline:** Camp labels are **author interpretive taxonomy**, not declassified agency memos. **Accusation ≠ proof.**
+**Discipline:** Camp labels are **author interpretive taxonomy**. **Accusation ≠ proof.** Score **grammar** title-by-title.
 
 **Per-film always (author rule):** Camp is assigned **title by title**, never **director-by-director** or **studio-by-studio**. **Emmerich/Devlin** prove the rule: ***Stargate* (1994) = CIA/globalist** ([Thread P](#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)); ***Independence Day* (1996) = NSA unity/declass** ([Thread O](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship)). Same team, **opposite camp reads** — because **grammar differs per film**, not because one auteur “belongs” to a side.
 
@@ -664,7 +664,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 
 ### *Disclosure* (1994) — NSA-aligned corporate antibody (cross-read, not a full Thread)
 
-**Author join (L3):** Michael Crichton’s ***Disclosure*** (novel + film, 1994) is the **office / hardware** twin of the captain-vs-process fight: product captain deleted by **accusation + untitled counsel/optics**; exit is **do the job**. Same-year contrast to ***Stargate*** (**CIA/globalist**). Full labor/OS lock lives in [Agile / Scrum versus Leadership — **AU-057r**](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md). Reader manifesto: [Crichton's Prophecy](/science/computing/crichtons-prophecy.md). **Not** a claim of agency tasking. *Congo* (1995) remains the other Crichton **NSA overall** specimen in this catalog.
+**Author join (L3):** Michael Crichton’s ***Disclosure*** (novel + film, 1994) is the **office / hardware** twin of the captain-vs-process fight: product captain deleted by **accusation + untitled counsel/optics**; exit is **do the job**. Same-year contrast to ***Stargate*** (**CIA/globalist**). Full labor/OS lock lives in [Agile / Scrum versus Leadership — **AU-057r**](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md). Reader manifesto: [Crichton's Prophecy](/science/computing/crichtons-prophecy.md). *Congo* (1995) remains the other Crichton **NSA overall** specimen in this catalog.
 
 
 
@@ -1166,7 +1166,7 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 
 Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #TheArrival1996 #Geoengineering #Terraforming #AGWCover #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading #BackToTheFuture #Disclosure #Agile #AU057 #CrichtonsProphecy
 
-**Last updated:** 2026-07-26
+**Last updated:** 2026-09-12
 
 ---
 
@@ -1211,7 +1211,7 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 **Thread T — *300* (2006):** Plataea **“rescue a world from mysticism and tyranny”** close, opening **reason and justice vs Eastern beast**, Thermopylae stand, and Dilios unreliable-narrator legend beats are **L1** where American Rhetoric / IMDb / screenplay sourced. **Past–present conflation for radical-Islam-as-Eastern-invasion read**, **stylish lasting-impression NSA heuristic**, **Fomenko duplicate (§11.4) + primary Thermopylae=Fellin/Livonian ID (§07_30, §06_45)**, **separate Fomenko 1492 Ottoman epoch (§05_38)**, and **site 1492 Apocalypse fold as parallel layer** are **L3–L4**. **Reject:** quoting Fomenko as placing Thermopylae at 1492 (wget mirror has no such link). **Not** claim Snyder/Warner received agency direction. ***300: Rise of an Empire* (2014) out of scope.**
 
 ***Congo* (1995) / Thread D satire catalog:** Ross CIA *loveless…sons of bitches* exchange, Monroe *settle scores* / *great white hunter* lines, and Homolka/Monroe Zinj–Solomon dialogue are **L1** where quote corpora sourced. **NSA overall**, **residual CIA Africa contempt**, **pro-African balance**, **Spielberg entry = full-CIA path**, ***Congo* pass = cannot (not chose not to)**, and **Marshall/Kennedy ballast vs NSA drift** are **L3–L4**. Crichton *King Solomon’s Mines* homage is **L1**; **Rus–Horde / worldwide-empire whitewash** and **Solomon’s men → Phoenician** map are **L3** — do **not** claim Crichton said “Phoenicians” without a novel page cite. **Not** claim Marshall/Shanley received agency direction.
-***Disclosure* (1994) / Agile AU-057r:** Camp join is **L3** office/fiction lane — **not** a Hollywood Thread with full beat table. Agency tasking **not** claimed. Detail in the Agile dossier.
+***Disclosure* (1994) / Agile AU-057r:** Camp join is **L3** office/fiction lane — **not** a Hollywood Thread with full beat table. Detail in the Agile dossier.
 
 **Author — Spielberg brand / Kennedy–Marshall machine:** *Poltergeist* credit fight, *Presents* marketing banner, *Goldmember* cameo, and 2012 Lucas/Kennedy/Spielberg public statements are **L1** where sourced. **Whitewash / manufactured competence**, **cannot-direct without the machine**, **most manufactured celebrity**, and **Lucasfilm silent-proxy** reads are **L3–L4 / open** — leave open; **not** Weak points. **No** L1 claim of a personal Spielberg–Kennedy affair.
 
