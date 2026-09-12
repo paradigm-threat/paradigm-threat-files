@@ -44,7 +44,9 @@ export function isVirtualDeferredSrc(src) {
 
 function loadFragment(src) {
   if (deferredWarm === null) deferredWarm = {}
-  if (typeof deferredWarm[src] === 'string') return deferredWarm[src]
+  if (typeof deferredWarm[src] === 'string' && deferredWarm[src].length > 0) {
+    return deferredWarm[src]
+  }
   if (isVirtualDeferredSrc(src)) {
     // Tail is seed-only — never tip-GET a missing virtual path.
     return ''
@@ -52,7 +54,13 @@ function loadFragment(src) {
   try {
     const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
     if (typeof text === 'string' && text.length > 0) {
-      const body = rewriteMarkdownAssetUrls(text, src)
+      let body = text
+      try {
+        body = rewriteMarkdownAssetUrls(text, src)
+      } catch (eRw) {
+        body = text
+      }
+      if (typeof body !== 'string' || body.length === 0) body = text
       deferredWarm[src] = body
       return body
     }
