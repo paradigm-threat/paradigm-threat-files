@@ -22,7 +22,7 @@ import DeferredMarkdown, {
   loadDeferredFragment,
   estimateDeferredMinHeightPx,
   deferredMinHeightStyle,
-  parseFirstDeferredMarkdownTag,
+  parseDeferredMinHeightAttr,
   maybeSplitHugeArticleMarkdown,
   prefetchDeferredMarkdown,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
@@ -263,9 +263,18 @@ export default function ArticleView(props) {
   // Warm DeferredMarkdown tip src at phase ≥2 (before phase-3 island fill).
   if (live && isClientLivePhase(2) === true && !errMsg) {
     try {
-      const tag = parseFirstDeferredMarkdownTag(body)
-      if (tag && typeof tag.src === 'string' && tag.src.length > 0) {
-        prefetchDeferredMarkdown(tag.src)
+      const marker = '<DeferredMarkdown'
+      const at = body.indexOf(marker)
+      if (at >= 0) {
+        let src = 'page-sections/investigations.md'
+        const srcKey = 'src="'
+        const s0 = body.indexOf(srcKey, at)
+        if (s0 >= 0 && s0 < at + 200) {
+          const s1 = s0 + srcKey.length
+          const s2 = body.indexOf('"', s1)
+          if (s2 > s1) src = body.slice(s1, s2)
+        }
+        prefetchDeferredMarkdown(src)
       }
     } catch (ePref) {}
   }
@@ -340,40 +349,66 @@ export default function ArticleView(props) {
   let deferredIsland = null
   let useDeferredSplit = false
   if (showArticleBody && isClientLivePhase(3) === true) {
-    // Keep parse outside the island-build try so a MarkdownRenderer throw
-    // cannot fall back to in-tree DeferredMarkdown (empty pending forever).
-    let tag = null
-    try {
-      tag = parseFirstDeferredMarkdownTag(body)
-    } catch (eTag) {
-      tag = null
-    }
-    if (tag && typeof tag.at === 'number' && tag.at >= 0 && typeof tag.end === 'number' && tag.end >= tag.at) {
-      useDeferredSplit = true
-      mdBefore = body.slice(0, tag.at)
-      mdAfter = body.slice(tag.end + (typeof tag.endLen === 'number' ? tag.endLen : 1))
-      let src = 'page-sections/investigations.md'
-      if (typeof tag.src === 'string' && tag.src.length > 0) src = tag.src
-      let attrMinPx = 0
-      if (typeof tag.attrMinPx === 'number' && tag.attrMinPx > 0) attrMinPx = tag.attrMinPx
-      let frag = ''
-      try {
-        frag = loadDeferredFragment(src, clientBase())
-      } catch (eFrag) {
-        frag = ''
+    // Inline tag scan (CleverScript-safe). Do not wrap island JSX in a catch
+    // that clears useDeferredSplit — that left an empty pending forever.
+    const marker = '<DeferredMarkdown'
+    const at = body.indexOf(marker)
+    if (at >= 0) {
+      const selfClose = body.indexOf('/>', at)
+      const tagEnd = body.indexOf('>', at)
+      let end = -1
+      let endLen = 1
+      if (selfClose >= 0 && (tagEnd < 0 || selfClose <= tagEnd)) {
+        end = selfClose
+        endLen = 2
+      } else if (tagEnd >= 0) {
+        end = tagEnd
+        endLen = 1
       }
-      if (!(typeof frag === 'string' && frag.length > 0)) {
+      if (end >= 0) {
+        useDeferredSplit = true
+        mdBefore = body.slice(0, at)
+        mdAfter = body.slice(end + endLen)
+        let src = 'page-sections/investigations.md'
+        let attrMinPx = 0
+        const slice = body.slice(at, end + endLen)
+        const srcKey = 'src="'
+        const s0 = slice.indexOf(srcKey)
+        if (s0 >= 0) {
+          const s1 = s0 + srcKey.length
+          const s2 = slice.indexOf('"', s1)
+          if (s2 > s1) src = slice.slice(s1, s2)
+        }
+        const mhKey = 'minHeight="'
+        const m0 = slice.indexOf(mhKey)
+        if (m0 >= 0) {
+          const m1 = m0 + mhKey.length
+          const m2 = slice.indexOf('"', m1)
+          if (m2 > m1) {
+            try {
+              attrMinPx = parseDeferredMinHeightAttr(slice.slice(m1, m2))
+            } catch (eMh) {
+              attrMinPx = 0
+            }
+          }
+        }
+        let frag = ''
         try {
-          frag = prefetchDeferredMarkdown(src)
-        } catch (ePref2) {
+          frag = loadDeferredFragment(src, clientBase())
+        } catch (eFrag) {
           frag = ''
         }
-      }
-      const fragLen =
-        typeof frag === 'string' && frag.length > 0 ? frag.length : 0
-      const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
-      const minStyle = deferredMinHeightStyle(minPx)
-      try {
+        if (!(typeof frag === 'string' && frag.length > 0)) {
+          try {
+            frag = prefetchDeferredMarkdown(src)
+          } catch (ePref2) {
+            frag = ''
+          }
+        }
+        const fragLen =
+          typeof frag === 'string' && frag.length > 0 ? frag.length : 0
+        const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
+        const minStyle = deferredMinHeightStyle(minPx)
         if (fragLen > 0) {
           deferredIsland = (
             <section
@@ -418,16 +453,6 @@ export default function ArticleView(props) {
             />
           )
         }
-      } catch (eIsland) {
-        deferredIsland = (
-          <section
-            className="pt-deferred-md"
-            aria-label="Deferred section"
-            aria-busy="true"
-            data-pt-deferred-pending="1"
-            style={minStyle}
-          />
-        )
       }
     }
   }
