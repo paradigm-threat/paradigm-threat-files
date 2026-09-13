@@ -126,6 +126,35 @@ function clientBase() {
   return ''
 }
 
+/** CleverScript-safe indexOf for the DeferredMarkdown open tag. */
+function indexOfDeferredMarkdownTag(s) {
+  if (!s || typeof s !== 'string') return -1
+  const n0 = '<'
+  const n1 = 'D'
+  // Match "<DeferredMarkdown" char-by-char (indexOf multi-char is unreliable).
+  for (let i = 0; i < s.length - 16; i++) {
+    if (s.charAt(i) !== n0) continue
+    if (s.charAt(i + 1) !== n1) continue
+    if (s.charAt(i + 2) !== 'e') continue
+    if (s.charAt(i + 3) !== 'f') continue
+    if (s.charAt(i + 4) !== 'e') continue
+    if (s.charAt(i + 5) !== 'r') continue
+    if (s.charAt(i + 6) !== 'r') continue
+    if (s.charAt(i + 7) !== 'e') continue
+    if (s.charAt(i + 8) !== 'd') continue
+    if (s.charAt(i + 9) !== 'M') continue
+    if (s.charAt(i + 10) !== 'a') continue
+    if (s.charAt(i + 11) !== 'r') continue
+    if (s.charAt(i + 12) !== 'k') continue
+    if (s.charAt(i + 13) !== 'd') continue
+    if (s.charAt(i + 14) !== 'o') continue
+    if (s.charAt(i + 15) !== 'w') continue
+    if (s.charAt(i + 16) !== 'n') continue
+    return i
+  }
+  return -1
+}
+
 /**
  * Tip-safe article load (P0). SSR: RepoFetchHost in-process git. CSR: tip GET + CDN bust.
  * Prefer cachedGet over same-Host fetch during SSR (deadlock).
@@ -569,129 +598,203 @@ export default function ArticleView(props) {
 
   const showArticleBody = errMsg.length > 0 || body.length > 0
 
-  // At phase ≥3, lift deferred content out of the page MD walk: nested
-  // MarkdownRenderer inside the override aborts soft-hydrate swaps.
-  // Huge tips: do not rely on CleverScript indexOf('<DeferredMarkdown') —
-  // cut the full tip here and render the tail as a sibling island.
+  // At phase ≥3, lift deferred content out of the page MD walk.
+  // Find `<DeferredMarkdown` via char-scan (CleverScript indexOf is unreliable).
   let mdBefore = body
   let mdAfter = ''
   let deferredIsland = null
   let useDeferredSplit = false
   if (showArticleBody && isClientLivePhase(3) === true && errMsg.length === 0) {
-    let full = ''
-    try {
-      if (typeof markdownContent === 'string' && markdownContent.length > 0) {
-        full = rewriteMarkdownAssetUrls(markdownContent, pathPart)
-      }
-    } catch (eFull) {
-      full = ''
-    }
-    if (!(full.length > 0) || full.charAt(0) === '<') {
-      try {
-        const loaded2 = loadArticleMarkdown(pathPart)
-        if (
-          loaded2 &&
-          typeof loaded2.markdownContent === 'string' &&
-          loaded2.markdownContent.length > 20 &&
-          loaded2.markdownContent.charAt(0) !== '<'
-        ) {
-          full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
+    let src = 'page-sections/investigations.md'
+    let frag = ''
+    let attrMinPx = 0
+    const at = indexOfDeferredMarkdownTag(body)
+    if (at >= 0) {
+      let end = -1
+      let endLen = 1
+      let j = at
+      while (j < body.length - 1) {
+        if (body.charAt(j) === '/' && body.charAt(j + 1) === '>') {
+          end = j
+          endLen = 2
+          break
         }
-      } catch (eLoad2) {
-        full = ''
+        if (body.charAt(j) === '>') {
+          end = j
+          endLen = 1
+          break
+        }
+        j = j + 1
       }
-    }
-    if (full.length > 3000) {
-      let cut = 3000
-      try {
-        cut = cutMarkdownLead(full, 3000)
-      } catch (eCut0) {
-        cut = 3000
-      }
-      if (cut < 1) cut = 3000
-      if (cut >= full.length) cut = 3000
-      if (cut > 0 && cut < full.length) {
+      if (end >= 0) {
         useDeferredSplit = true
-        mdBefore = full.slice(0, cut)
-        mdAfter = ''
-        let frag = full.slice(cut)
+        mdBefore = body.slice(0, at)
+        mdAfter = body.slice(end + endLen)
+        const slice = body.slice(at, end + endLen)
+        // src="..."
+        let k = 0
+        while (k < slice.length - 5) {
+          if (
+            slice.charAt(k) === 's' &&
+            slice.charAt(k + 1) === 'r' &&
+            slice.charAt(k + 2) === 'c' &&
+            slice.charAt(k + 3) === '=' &&
+            slice.charAt(k + 4) === '"'
+          ) {
+            const s1 = k + 5
+            let s2 = s1
+            while (s2 < slice.length && slice.charAt(s2) !== '"') s2 = s2 + 1
+            if (s2 > s1) src = slice.slice(s1, s2)
+            break
+          }
+          k = k + 1
+        }
         try {
-          seedDeferredMarkdown('page-sections/__article_tail__.md', frag)
-        } catch (eSeed) {}
-        const fragLen = frag.length
-        let attrMinPx = 0
-        const minPx = estimateDeferredMinHeightPx(
-          'page-sections/__article_tail__.md',
-          fragLen,
-          attrMinPx,
-        )
-        const minStyle = deferredMinHeightStyle(minPx)
-        const phase4 = isClientLivePhase(4) === true
-        let renderFrag = frag
-        let pendingTail = false
-        if (phase4 !== true && fragLen > 8000) {
+          frag = loadDeferredFragment(src, clientBase())
+        } catch (eFrag) {
+          frag = ''
+        }
+        if (!(typeof frag === 'string' && frag.length > 0)) {
           try {
-            const cut2 = cutMarkdownLead(frag, 8000)
-            if (cut2 > 0 && cut2 < fragLen) {
-              renderFrag = frag.slice(0, cut2)
-              pendingTail = true
-            }
-          } catch (eCut) {
-            renderFrag = frag
-            pendingTail = false
+            frag = prefetchDeferredMarkdown(src)
+          } catch (ePref2) {
+            frag = ''
           }
         }
-        const deferOverrides =
-          phase4 === true
-            ? {
-                AutoIndex: renderAutoIndex,
-                ChangeLog: renderChangeLog,
-                ChatRoom: EmptyMdStub,
-                EmbedFile: renderEmbedFile,
-                PopImage: renderPopImage,
-                img: renderPopImage,
-                a: renderMdAnchor,
-                h1: headingOverrides.h1,
-                h2: headingOverrides.h2,
-                h3: headingOverrides.h3,
-                h4: headingOverrides.h4,
-                h5: headingOverrides.h5,
-                h6: headingOverrides.h6,
-              }
-            : {
-                AutoIndex: EmptyMdStub,
-                ChangeLog: EmptyMdStub,
-                ChatRoom: EmptyMdStub,
-                EmbedFile: EmptyMdStub,
-              }
-        deferredIsland = (
-          <section
-            className="pt-deferred-md"
-            data-pt-deferred="1"
-            aria-label="Deferred section"
-            style={minStyle}
-          >
-            <MarkdownRenderer
-              content={renderFrag}
-              navigate={(to) => {
-                navigateFile(to)
-              }}
-              anchorOnClick={(href) => {
-                onMdLinkClick(href)
-              }}
-              overrides={deferOverrides}
-            />
-            {pendingTail === true ? (
-              <section
-                className="pt-deferred-md"
-                aria-label="Deferred section"
-                aria-busy="true"
-                data-pt-deferred-pending="1"
-              />
-            ) : null}
-          </section>
-        )
       }
+    }
+    // Huge single-file tips: no tag in body (or virtual tail) — cut full tip.
+    if (
+      useDeferredSplit !== true ||
+      isVirtualDeferredSrc(src) === true ||
+      !(typeof frag === 'string' && frag.length > 0)
+    ) {
+      let full = ''
+      try {
+        if (typeof markdownContent === 'string' && markdownContent.length > 0) {
+          full = rewriteMarkdownAssetUrls(markdownContent, pathPart)
+        }
+      } catch (eFull) {
+        full = ''
+      }
+      if (!(full.length > 0) || full.charAt(0) === '<') {
+        try {
+          const loaded2 = loadArticleMarkdown(pathPart)
+          if (
+            loaded2 &&
+            typeof loaded2.markdownContent === 'string' &&
+            loaded2.markdownContent.length > 20 &&
+            loaded2.markdownContent.charAt(0) !== '<'
+          ) {
+            full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
+          }
+        } catch (eLoad2) {
+          full = ''
+        }
+      }
+      const needVirtual =
+        isVirtualDeferredSrc(src) === true ||
+        (useDeferredSplit !== true && full.length > 3000)
+      if (needVirtual === true && full.length > 3000) {
+        let cut = 3000
+        try {
+          cut = cutMarkdownLead(full, 3000)
+        } catch (eCut0) {
+          cut = 3000
+        }
+        if (cut < 1) cut = 3000
+        if (cut >= full.length) cut = 3000
+        if (cut > 0 && cut < full.length) {
+          useDeferredSplit = true
+          mdBefore = full.slice(0, cut)
+          mdAfter = ''
+          frag = full.slice(cut)
+          src = 'page-sections/__article_tail__.md'
+          try {
+            seedDeferredMarkdown(src, frag)
+          } catch (eSeed) {}
+        }
+      }
+    }
+    if (useDeferredSplit === true && typeof frag === 'string' && frag.length > 0) {
+      const fragLen = frag.length
+      const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
+      const minStyle = deferredMinHeightStyle(minPx)
+      const phase4 = isClientLivePhase(4) === true
+      let renderFrag = frag
+      let pendingTail = false
+      if (phase4 !== true && fragLen > 8000) {
+        try {
+          const cut2 = cutMarkdownLead(frag, 8000)
+          if (cut2 > 0 && cut2 < fragLen) {
+            renderFrag = frag.slice(0, cut2)
+            pendingTail = true
+          }
+        } catch (eCut) {
+          renderFrag = frag
+          pendingTail = false
+        }
+      }
+      const deferOverrides =
+        phase4 === true
+          ? {
+              AutoIndex: renderAutoIndex,
+              ChangeLog: renderChangeLog,
+              ChatRoom: EmptyMdStub,
+              EmbedFile: renderEmbedFile,
+              PopImage: renderPopImage,
+              img: renderPopImage,
+              a: renderMdAnchor,
+              h1: headingOverrides.h1,
+              h2: headingOverrides.h2,
+              h3: headingOverrides.h3,
+              h4: headingOverrides.h4,
+              h5: headingOverrides.h5,
+              h6: headingOverrides.h6,
+            }
+          : {
+              AutoIndex: EmptyMdStub,
+              ChangeLog: EmptyMdStub,
+              ChatRoom: EmptyMdStub,
+              EmbedFile: EmptyMdStub,
+            }
+      deferredIsland = (
+        <section
+          className="pt-deferred-md"
+          data-pt-deferred="1"
+          aria-label="Deferred section"
+          style={minStyle}
+        >
+          <MarkdownRenderer
+            content={renderFrag}
+            navigate={(to) => {
+              navigateFile(to)
+            }}
+            anchorOnClick={(href) => {
+              onMdLinkClick(href)
+            }}
+            overrides={deferOverrides}
+          />
+          {pendingTail === true ? (
+            <section
+              className="pt-deferred-md"
+              aria-label="Deferred section"
+              aria-busy="true"
+              data-pt-deferred-pending="1"
+            />
+          ) : null}
+        </section>
+      )
+    } else if (useDeferredSplit === true) {
+      deferredIsland = (
+        <section
+          className="pt-deferred-md"
+          aria-label="Deferred section"
+          aria-busy="true"
+          data-pt-deferred-pending="1"
+          style={deferredMinHeightStyle(120)}
+        />
+      )
     }
   }
 
