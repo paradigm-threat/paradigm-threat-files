@@ -60,13 +60,15 @@ function navChromeCss() {
     '.pt-client-only[aria-disabled="true"]{' +
     'opacity:0.45;filter:grayscale(0.35);pointer-events:none;cursor:wait;' +
     '}' +
-    // Pre-hydrate: hamburger is JS-only + disabled; unhide the real <a> row on all widths.
-    'html[data-pt-hydrated="0"] .pt-nav-desktop{' +
+    // Pre-hydrate: keep mobile/desktop breakpoint layout (do not force-show
+    // desktop link row). Compact SSR link strip stays clickable without WASM;
+    // hamburger stays visible but inert until live (pt-client-only).
+    'html[data-pt-hydrated="0"] .pt-nav-ssr-links{' +
     'display:flex!important;flex-wrap:wrap;align-items:center;gap:0.15rem;' +
-    '}' +
-    'html[data-pt-hydrated="0"] .pt-nav-menu-btn{display:none!important;}' +
-    'html[data-pt-hydrated="0"] .pt-nav-brand-row{flex-wrap:wrap;}' +
-    'html[data-pt-hydrated="0"] .pt-nav-link{padding:0.35rem 0.55rem;font-size:0.8125rem;}' +
+    'width:100%;padding:0.15rem 0 0.35rem;}' +
+    'html[data-pt-hydrated="0"] .pt-nav-ssr-links .pt-nav-link{' +
+    'padding:0.35rem 0.55rem;font-size:0.8125rem;}' +
+    'html[data-pt-hydrated="1"] .pt-nav-ssr-links{display:none!important;}' +
     'html[data-pt-hydrated="0"] [data-pt-dirnav-ssr],' +
     'html[data-pt-hydrated="0"] [data-pt-changelog-ssr],' +
     'html[data-pt-hydrated="0"] [data-pt-autoindex-ssr]{' +
@@ -258,6 +260,9 @@ export default function Nav(props) {
               {renderNavLinks(navLinks, 'nav-d-', false)}
             </nav>
           </div>
+          <nav className="pt-nav-ssr-links" aria-label="Primary links">
+            {renderNavLinks(navLinks, 'nav-ssr-', false)}
+          </nav>
           <div className="pt-nav-actions">
             <div className="pt-nav-actions-desktop lg:pt-nav-actions-desktop-lg">
               <FontToggle />

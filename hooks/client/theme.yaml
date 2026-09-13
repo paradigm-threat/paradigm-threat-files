@@ -407,6 +407,12 @@ themes:
         gap: "0.5rem"
       ".pt-nav-menu-btn":
         display: "inline-flex"
+      ".pt-nav-ssr-links":
+        display: "none"
+        flexWrap: "wrap"
+        alignItems: "center"
+        gap: "0.15rem"
+        width: "100%"
       ".pt-font-toggle":
         fontSize: "0.875rem"
         fontWeight: "600"

@@ -30,6 +30,8 @@ import DeferredMarkdown, {
   parseDeferredMinHeightAttr,
   maybeSplitHugeArticleMarkdown,
   prefetchDeferredMarkdown,
+  cutMarkdownLead,
+  DEFERRED_HYDRATE_CHUNK_CHARS,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -592,22 +594,27 @@ export default function ArticleView(props) {
         const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
         const minStyle = deferredMinHeightStyle(minPx)
         if (fragLen > 0) {
-          deferredIsland = (
-            <section
-              className="pt-deferred-md"
-              data-pt-deferred="1"
-              aria-label="Deferred section"
-              style={minStyle}
-            >
-              <MarkdownRenderer
-                content={frag}
-                navigate={(to) => {
-                  navigateFile(to)
-                }}
-                anchorOnClick={(href) => {
-                  onMdLinkClick(href)
-                }}
-                overrides={{
+          // Phase 3: first chunk only (idle ladder paints shell before the rest).
+          // Phase ≥4: full fragment. Avoid one 74KB CS-override walk freezing mobile.
+          const phase4 = isClientLivePhase(4) === true
+          let renderFrag = frag
+          let pendingTail = false
+          if (phase4 !== true && fragLen > DEFERRED_HYDRATE_CHUNK_CHARS) {
+            try {
+              const cut = cutMarkdownLead(frag, DEFERRED_HYDRATE_CHUNK_CHARS)
+              if (cut > 0 && cut < fragLen) {
+                renderFrag = frag.slice(0, cut)
+                pendingTail = true
+              }
+            } catch (eCut) {
+              renderFrag = frag
+              pendingTail = false
+            }
+          }
+          // First chunk: native a/h/img (Rust path). Full CS overrides at phase ≥4.
+          const deferOverrides =
+            phase4 === true
+              ? {
                   AutoIndex: renderAutoIndex,
                   ChangeLog: renderChangeLog,
                   ChatRoom: EmptyMdStub,
@@ -621,8 +628,38 @@ export default function ArticleView(props) {
                   h4: headingOverrides.h4,
                   h5: headingOverrides.h5,
                   h6: headingOverrides.h6,
+                }
+              : {
+                  AutoIndex: EmptyMdStub,
+                  ChangeLog: EmptyMdStub,
+                  ChatRoom: EmptyMdStub,
+                  EmbedFile: EmptyMdStub,
+                }
+          deferredIsland = (
+            <section
+              className="pt-deferred-md"
+              data-pt-deferred="1"
+              aria-label="Deferred section"
+              style={minStyle}
+            >
+              <MarkdownRenderer
+                content={renderFrag}
+                navigate={(to) => {
+                  navigateFile(to)
                 }}
+                anchorOnClick={(href) => {
+                  onMdLinkClick(href)
+                }}
+                overrides={deferOverrides}
               />
+              {pendingTail === true ? (
+                <section
+                  className="pt-deferred-md"
+                  aria-label="Deferred section"
+                  aria-busy="true"
+                  data-pt-deferred-pending="1"
+                />
+              ) : null}
             </section>
           )
         } else {

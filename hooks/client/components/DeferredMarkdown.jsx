@@ -32,6 +32,9 @@ const BYTES_PER_PX = 3.7
  */
 export const ARTICLE_TAIL_SRC = 'page-sections/__article_tail__.md'
 
+/** Soft cap for first hydrate pass of a DeferredMarkdown tip fragment. */
+export const DEFERRED_HYDRATE_CHUNK_CHARS = 8000
+
 /**
  * Soft cap for SSR lead when auto-splitting a huge tip without DeferredMarkdown.
  * CleverScript MD walks are superlinear (~3KB≈1s, ~4KB≈3s on fleet); keep lead
