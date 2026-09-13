@@ -121,12 +121,11 @@ let homeRowsWarm = null
 function fetchIndexQuery(query, order, limit) {
   let resp = null
   try {
-    // Quoted header keys — CleverScript can drop bare `Accept` identifiers.
+    // CleverScript object keys must be identifiers (not 'Accept' string literals).
     resp = fetch('/', {
       method: 'QUERY',
       headers: {
-        'Accept': 'application/json',
-        'Content-Type': 'application/json',
+        Accept: 'application/json',
       },
       body: queryIndexBody(query, limit, order),
     })
