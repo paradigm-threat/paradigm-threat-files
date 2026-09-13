@@ -375,7 +375,8 @@ export default function ArticleView(props) {
   if (!live && csr) {
     return null
   }
-  const deadUrls = loadDeadUrls()
+  // SSR: never load dead-urls or wire CS anchor overrides (hydrate applies them).
+  const deadUrls = live ? loadDeadUrls() : {}
   const renderMdAnchor = makeRenderMdAnchor(deadUrls)
   const loaded = loadArticleMarkdown(pathPart)
   let markdownContent = loaded.markdownContent
@@ -385,20 +386,23 @@ export default function ArticleView(props) {
   let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
   const shareMd = errMsg ? '' : body
   // TOC from full tip before any deferred split (tail headings stay in index).
-  const headingExtract = extractMarkdownHeadings(body)
+  // Skip on SSR — heading id overrides are hydrate-only (keeps md2ast on Rust path).
   let tocItems = []
   let idQueue = []
-  try {
-    if (headingExtract && headingExtract.tocItems) {
-      tocItems = headingExtract.tocItems
-    }
-  } catch (eToc) {}
-  try {
-    if (headingExtract && headingExtract.idQueue) {
-      idQueue = headingExtract.idQueue
-    }
-  } catch (eQ) {}
-  const headingOverrides = makeHeadingOverrides(idQueue)
+  if (live) {
+    const headingExtract = extractMarkdownHeadings(body)
+    try {
+      if (headingExtract && headingExtract.tocItems) {
+        tocItems = headingExtract.tocItems
+      }
+    } catch (eToc) {}
+    try {
+      if (headingExtract && headingExtract.idQueue) {
+        idQueue = headingExtract.idQueue
+      }
+    } catch (eQ) {}
+  }
+  const headingOverrides = live ? makeHeadingOverrides(idQueue) : null
 
   // Huge single-file tips (no tip DeferredMarkdown): SSR lead + virtual tail
   // island instead of blanking the whole body (avoids soft-hydrate wipe).
@@ -452,15 +456,13 @@ export default function ArticleView(props) {
     currentPath === '/' ||
     currentPath === '/index.md' ||
     currentPath === '/page.md'
-  if (hideToolbar !== true && shareMd.length > 0) {
+  if (live && hideToolbar !== true && shareMd.length > 0) {
     let catalogImg = ''
-    if (live) {
-      const rows = loadDirCatalogRows()
-      for (let i = 0; i < rows.length; i++) {
-        if (rowPath(rows[i]) === pathPart) {
-          catalogImg = rowImageSrc(rows[i])
-          break
-        }
+    const rows = loadDirCatalogRows()
+    for (let i = 0; i < rows.length; i++) {
+      if (rowPath(rows[i]) === pathPart) {
+        catalogImg = rowImageSrc(rows[i])
+        break
       }
     }
     try {
@@ -647,21 +649,32 @@ export default function ArticleView(props) {
     )
   }
 
-  const articleOverrides = {
-    AutoIndex: renderAutoIndex,
-    ChangeLog: renderChangeLog,
+  // SSR: only custom tags that soft-hydrate needs (DeferredMarkdown island).
+  // Native a/h*/img stay on the Rust md2ast→VDOM path (no CS invoke per node).
+  let articleOverrides = {
+    AutoIndex: EmptyMdStub,
+    ChangeLog: EmptyMdStub,
     DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
     ChatRoom: EmptyMdStub,
-    EmbedFile: renderEmbedFile,
-    PopImage: renderPopImage,
-    img: renderPopImage,
-    a: renderMdAnchor,
-    h1: headingOverrides.h1,
-    h2: headingOverrides.h2,
-    h3: headingOverrides.h3,
-    h4: headingOverrides.h4,
-    h5: headingOverrides.h5,
-    h6: headingOverrides.h6,
+    EmbedFile: EmptyMdStub,
+  }
+  if (live) {
+    articleOverrides = {
+      AutoIndex: renderAutoIndex,
+      ChangeLog: renderChangeLog,
+      DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
+      ChatRoom: EmptyMdStub,
+      EmbedFile: renderEmbedFile,
+      PopImage: renderPopImage,
+      img: renderPopImage,
+      a: renderMdAnchor,
+      h1: headingOverrides.h1,
+      h2: headingOverrides.h2,
+      h3: headingOverrides.h3,
+      h4: headingOverrides.h4,
+      h5: headingOverrides.h5,
+      h6: headingOverrides.h6,
+    }
   }
 
   return (
