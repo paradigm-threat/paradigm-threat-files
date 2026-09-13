@@ -40,7 +40,7 @@ import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import manifest from '@hooks'
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd12'
+const MD_CACHE_BUST = 'ptmd13'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -139,20 +139,50 @@ function loadArticleMarkdown(pathPart) {
   const cand0 = pathPart
   const cand1 = withMd
   const nCand = cand0 === cand1 ? 1 : 2
+  const live = isClientLive() === true
+
+  // Live hydrate: prefer fetch+Accept markdown so the browser cache entry for
+  // the navigated text/html document is not reused as tip markdown.
+  if (live) {
+    for (let j = 0; j < nCand; j++) {
+      const cand = j === 0 ? cand0 : cand1
+      try {
+        const resp = fetch('/' + cand + '?v=' + MD_CACHE_BUST, {
+          method: 'GET',
+          headers: {
+            accept: 'text/markdown',
+          },
+        })
+        if (resp && resp.ok === true) {
+          const text = resp.text ? resp.text : ''
+          if (
+            typeof text === 'string' &&
+            text.length > 0 &&
+            text.charAt(0) !== '<'
+          ) {
+            return { markdownContent: text, errMsg: '', resolvedPath: cand }
+          }
+        }
+      } catch (eLive) {}
+    }
+  }
 
   for (let i = 0; i < nCand; i++) {
     const cand = i === 0 ? cand0 : cand1
     const rel = '/' + cand + '?v=' + MD_CACHE_BUST
     try {
       const text = cachedGet(rel)
-      if (typeof text === 'string' && text.length > 0) {
+      if (
+        typeof text === 'string' &&
+        text.length > 0 &&
+        text.charAt(0) !== '<'
+      ) {
         return { markdownContent: text, errMsg: '', resolvedPath: cand }
       }
     } catch (e) {}
   }
 
   // CSR fallback when cachedGet empty (older hosts): absolute tip URL.
-  const live = isClientLive() === true
   if (live) {
     const baseStr = clientBase()
     if (baseStr.length === 0) {
@@ -165,12 +195,20 @@ function loadArticleMarkdown(pathPart) {
     for (let j = 0; j < nCand; j++) {
       const cand = j === 0 ? cand0 : cand1
       const url = baseStr + '/' + cand + '?v=' + MD_CACHE_BUST
-      const resp = fetch(url, { method: 'GET' })
+      const resp = fetch(url, {
+        method: 'GET',
+        headers: {
+          accept: 'text/markdown',
+        },
+      })
       if (resp && resp.ok === true) {
-        return {
-          markdownContent: resp.text ? resp.text : '',
-          errMsg: '',
-          resolvedPath: cand,
+        const text = resp.text ? resp.text : ''
+        if (typeof text === 'string' && text.charAt(0) !== '<') {
+          return {
+            markdownContent: text,
+            errMsg: '',
+            resolvedPath: cand,
+          }
         }
       }
       if (j === nCand - 1) {
