@@ -176,7 +176,7 @@ Keywords: #Crichton #Disclosure #DigiCom #Twinkle #Masters #FamilyElimination #A
 
 **Substack:** [paradigmthreat2.substack.com/p/crichtons-prophecy](https://paradigmthreat2.substack.com/p/crichtons-prophecy)
 
-**LinkedIn:** [Crichton's Prophecy — Ari Asulin](https://www.linkedin.com/pulse/crichtons-prophecy-ari-asulin-j1sye/)
+**LinkedIn:** [linkedin.com/pulse/crichtons-prophecy-ari-asulin-j1sye](https://www.linkedin.com/pulse/crichtons-prophecy-ari-asulin-j1sye/)
 
 **Last updated:** 2026-09-13T09:22:00-04:00
 
