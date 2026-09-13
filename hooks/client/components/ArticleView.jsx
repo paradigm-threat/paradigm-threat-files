@@ -31,9 +31,11 @@ import DeferredMarkdown, {
   maybeSplitHugeArticleMarkdown,
   prefetchDeferredMarkdown,
   reseedArticleTailFromMarkdown,
+  seedDeferredMarkdown,
   cutMarkdownLead,
   isVirtualDeferredSrc,
   DEFERRED_HYDRATE_CHUNK_CHARS,
+  HUGE_ARTICLE_LEAD_CHARS,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -141,29 +143,36 @@ function loadArticleMarkdown(pathPart) {
   const nCand = cand0 === cand1 ? 1 : 2
   const live = isClientLive() === true
 
-  // Live hydrate: prefer fetch+Accept markdown so the browser cache entry for
-  // the navigated text/html document is not reused as tip markdown.
+  // Live hydrate: fetch tip as markdown. Prefer no Accept (XHR */* → tip text)
+  // then text/markdown. Reject HTML documents from the navigated cache.
   if (live) {
     for (let j = 0; j < nCand; j++) {
       const cand = j === 0 ? cand0 : cand1
-      try {
-        const resp = fetch('/' + cand + '?v=' + MD_CACHE_BUST, {
-          method: 'GET',
-          headers: {
-            accept: 'text/markdown',
-          },
-        })
-        if (resp && resp.ok === true) {
-          const text = resp.text ? resp.text : ''
-          if (
-            typeof text === 'string' &&
-            text.length > 0 &&
-            text.charAt(0) !== '<'
-          ) {
-            return { markdownContent: text, errMsg: '', resolvedPath: cand }
+      const paths = ['/' + cand + '?v=' + MD_CACHE_BUST]
+      for (let pi = 0; pi < 2; pi++) {
+        try {
+          const opts =
+            pi === 0
+              ? { method: 'GET' }
+              : {
+                  method: 'GET',
+                  headers: {
+                    accept: 'text/markdown',
+                  },
+                }
+          const resp = fetch(paths[0], opts)
+          if (resp && resp.ok === true) {
+            const text = resp.text ? resp.text : ''
+            if (
+              typeof text === 'string' &&
+              text.length > 20 &&
+              text.charAt(0) !== '<'
+            ) {
+              return { markdownContent: text, errMsg: '', resolvedPath: cand }
+            }
           }
-        }
-      } catch (eLive) {}
+        } catch (eLive) {}
+      }
     }
   }
 
@@ -626,18 +635,36 @@ export default function ArticleView(props) {
             frag = ''
           }
         }
-        // Virtual article tail: SSR seed is process-local — re-derive from tip.
+        // Virtual article tail: never trust process-local SSR seed. Cut the full
+        // tip here so placeholder replace gets real markdown (not an empty pending).
         if (
           !(typeof frag === 'string' && frag.length > 0) &&
           isVirtualDeferredSrc(src) === true
         ) {
           try {
-            const fullRaw = errMsg ? '' : markdownContent
-            const full =
-              typeof fullRaw === 'string' && fullRaw.length > 0
-                ? rewriteMarkdownAssetUrls(fullRaw, pathPart)
-                : ''
-            frag = reseedArticleTailFromMarkdown(full)
+            let full = ''
+            if (typeof markdownContent === 'string' && markdownContent.length > 0) {
+              full = rewriteMarkdownAssetUrls(markdownContent, pathPart)
+            }
+            if (!(full.length > 0) || full.charAt(0) === '<') {
+              const loaded2 = loadArticleMarkdown(pathPart)
+              if (
+                loaded2 &&
+                typeof loaded2.markdownContent === 'string' &&
+                loaded2.markdownContent.charAt(0) !== '<'
+              ) {
+                full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
+              }
+            }
+            if (full.length > HUGE_ARTICLE_LEAD_CHARS) {
+              const cut = cutMarkdownLead(full, HUGE_ARTICLE_LEAD_CHARS)
+              if (cut > 0 && cut < full.length) {
+                frag = full.slice(cut)
+                try {
+                  seedDeferredMarkdown(src, frag)
+                } catch (eSeed) {}
+              }
+            }
           } catch (eReseed) {
             frag = ''
           }
@@ -649,7 +676,7 @@ export default function ArticleView(props) {
         ) {
           try {
             const rawAgain = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-            if (typeof rawAgain === 'string' && rawAgain.length > 0) {
+            if (typeof rawAgain === 'string' && rawAgain.length > 0 && rawAgain.charAt(0) !== '<') {
               frag = rawAgain
             }
           } catch (eLast) {}
