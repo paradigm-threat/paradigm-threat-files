@@ -178,16 +178,20 @@ export function cutMarkdownLead(text, maxChars) {
   let max = typeof maxChars === 'number' && maxChars > 0 ? maxChars : HUGE_ARTICLE_LEAD_CHARS
   if (text.length <= max) return text.length
   const window = text.slice(0, max)
-  // Forward scan for last ATX heading in window. Avoid lastIndexOf(needle, from)
-  // — CleverScript multi-arg lastIndexOf has been unreliable.
+  // Forward scan for last ATX heading in window. Avoid lastIndexOf(multi-char)
+  // and `=== '\n## '` — CleverScript string equality on multi-char slices has
+  // missed headings and fallen through to a mid-paragraph max cut.
   let cut = -1
   let pos = 0
   while (pos < max) {
     const nl = window.indexOf('\n', pos)
     if (nl < 0 || nl >= max) break
-    if (window.slice(nl, nl + 4) === '\n## ') {
+    const c1 = window.charAt(nl + 1)
+    const c2 = window.charAt(nl + 2)
+    const c3 = window.charAt(nl + 3)
+    if (c1 === '#' && c2 === '#' && (c3 === ' ' || c3 === '\t')) {
       cut = nl
-    } else if (cut < 0 && window.slice(nl, nl + 3) === '\n# ') {
+    } else if (cut < 0 && c1 === '#' && (c2 === ' ' || c2 === '\t')) {
       cut = nl
     }
     pos = nl + 1
