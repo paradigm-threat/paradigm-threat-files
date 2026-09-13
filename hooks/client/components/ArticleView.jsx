@@ -418,6 +418,13 @@ export default function ArticleView(props) {
       }
     } catch (eHuge) {}
   }
+  // Browser hydrate: SSR seedDeferredMarkdown is process-local. Always re-seed
+  // the virtual article tail from the full tip before phase-3 island fill.
+  if (live && !errMsg && typeof markdownContent === 'string' && markdownContent.length > 0) {
+    try {
+      reseedArticleTailFromMarkdown(rewriteMarkdownAssetUrls(markdownContent, pathPart))
+    } catch (eReseed0) {}
+  }
 
   // Warm DeferredMarkdown tip src at phase ≥2 (before phase-3 island fill).
   if (live && isClientLivePhase(2) === true && !errMsg) {

@@ -118,29 +118,7 @@ let recentRowsWarm = null
 let luckyRowsWarm = null
 let homeRowsWarm = null
 
-function fetchIndexQuery(query, order, limit) {
-  let resp = null
-  try {
-    // CleverScript object keys must be identifiers (not 'Accept' string literals).
-    resp = fetch('/', {
-      method: 'QUERY',
-      headers: {
-        Accept: 'application/json',
-      },
-      body: queryIndexBody(query, limit, order),
-    })
-  } catch (e) {
-    return []
-  }
-  if (!resp || resp.ok !== true) return []
-  let text = resp.text ? resp.text : ''
-  if (text.length === 0) return []
-  // Park QUERY defaults to CSV when Accept is missing; refuse non-JSON bodies.
-  const trimmed = text.charAt(0) === '\uFEFF' ? text.slice(1) : text
-  if (trimmed.charAt(0) !== '{' && trimmed.charAt(0) !== '[') {
-    return []
-  }
-  const data = parseJson(text)
+function rowsFromQueryJson(data) {
   if (!data || !data.results) return []
   let rows = []
   for (let i = 0; i < data.results.length; i++) {
@@ -153,6 +131,106 @@ function fetchIndexQuery(query, order, limit) {
     rows = rows.concat([row])
   }
   return rows
+}
+
+/** Minimal CSV line split (handles quoted commas). CleverScript-safe. */
+function splitCsvLine(line) {
+  let fields = []
+  let cur = ''
+  let inQ = false
+  for (let i = 0; i < line.length; i++) {
+    const ch = line.charAt(i)
+    if (inQ) {
+      if (ch === '"') {
+        if (i + 1 < line.length && line.charAt(i + 1) === '"') {
+          cur = cur + '"'
+          i = i + 1
+        } else {
+          inQ = false
+        }
+      } else {
+        cur = cur + ch
+      }
+    } else if (ch === '"') {
+      inQ = true
+    } else if (ch === ',') {
+      fields = fields.concat([cur])
+      cur = ''
+    } else {
+      cur = cur + ch
+    }
+  }
+  fields = fields.concat([cur])
+  return fields
+}
+
+/** Minimal CSV QUERY fallback when Accept:json is dropped by the host fetch. */
+function rowsFromQueryCsv(text) {
+  if (!text || text.length < 8) return []
+  const lines = text.split('\n')
+  if (lines.length < 2) return []
+  const cols = splitCsvLine(lines[0])
+  let pathIdx = -1
+  let kindIdx = -1
+  let titleIdx = -1
+  for (let c = 0; c < cols.length; c++) {
+    const name = cols[c]
+    if (name === 'path') pathIdx = c
+    if (name === 'content_kind') kindIdx = c
+    if (name === 'title') titleIdx = c
+  }
+  if (pathIdx < 0) return []
+  let rows = []
+  for (let li = 1; li < lines.length; li++) {
+    const line = lines[li]
+    if (!line || line.length === 0) continue
+    const parts = splitCsvLine(line)
+    if (parts.length <= pathIdx) continue
+    const path = parts[pathIdx]
+    if (!path || path.length === 0) continue
+    let kind = ''
+    if (kindIdx >= 0 && kindIdx < parts.length) kind = parts[kindIdx]
+    if (kind === 'exclude') continue
+    let title = path
+    if (titleIdx >= 0 && titleIdx < parts.length && parts[titleIdx].length > 0) {
+      title = parts[titleIdx]
+    }
+    rows = rows.concat([
+      {
+        path: path,
+        title: title,
+        content_kind: kind,
+      },
+    ])
+  }
+  return rows
+}
+
+function fetchIndexQuery(query, order, limit) {
+  let resp = null
+  try {
+    // CleverScript object keys must be identifiers (not string literals).
+    // Lowercase `accept` — some hosts only forward canonicalized header maps.
+    resp = fetch('/', {
+      method: 'QUERY',
+      headers: {
+        accept: 'application/json',
+      },
+      body: queryIndexBody(query, limit, order),
+    })
+  } catch (e) {
+    return []
+  }
+  if (!resp || resp.ok !== true) return []
+  let text = resp.text ? resp.text : ''
+  if (text.length === 0) return []
+  const trimmed = text.charAt(0) === '\uFEFF' ? text.slice(1) : text
+  if (trimmed.charAt(0) === '{' || trimmed.charAt(0) === '[') {
+    const data = parseJson(text)
+    return rowsFromQueryJson(data)
+  }
+  // Accept dropped → text/csv. Still build a directory from path/title columns.
+  return rowsFromQueryCsv(trimmed)
 }
 
 function takeRows(rows, limit) {
