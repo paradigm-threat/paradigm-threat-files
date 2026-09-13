@@ -388,22 +388,21 @@ export default function ArticleView(props) {
   let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
   const shareMd = errMsg ? '' : body
   // TOC from full tip before any deferred split (tail headings stay in index).
-  // Skip on SSR — heading id overrides are hydrate-only (keeps md2ast on Rust path).
+  // Host extract is Rust-cheap — keep it on SSR so the TOC side column is real HTML
+  // (not “Contents load after page open…”). CS heading *overrides* stay live-only.
   let tocItems = []
   let idQueue = []
-  if (live) {
-    const headingExtract = extractMarkdownHeadings(body)
-    try {
-      if (headingExtract && headingExtract.tocItems) {
-        tocItems = headingExtract.tocItems
-      }
-    } catch (eToc) {}
-    try {
-      if (headingExtract && headingExtract.idQueue) {
-        idQueue = headingExtract.idQueue
-      }
-    } catch (eQ) {}
-  }
+  const headingExtract = extractMarkdownHeadings(body)
+  try {
+    if (headingExtract && headingExtract.tocItems) {
+      tocItems = headingExtract.tocItems
+    }
+  } catch (eToc) {}
+  try {
+    if (headingExtract && headingExtract.idQueue) {
+      idQueue = headingExtract.idQueue
+    }
+  } catch (eQ) {}
   const headingOverrides = live ? makeHeadingOverrides(idQueue) : null
 
   // Huge single-file tips (no tip DeferredMarkdown): SSR lead + virtual tail

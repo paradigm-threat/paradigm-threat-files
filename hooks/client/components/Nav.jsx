@@ -60,14 +60,17 @@ function navChromeCss() {
     '.pt-client-only[aria-disabled="true"]{' +
     'opacity:0.45;filter:grayscale(0.35);pointer-events:none;cursor:wait;' +
     '}' +
-    // Pre-hydrate: keep mobile/desktop breakpoint layout (do not force-show
-    // desktop link row). Compact SSR link strip stays clickable without WASM;
-    // hamburger stays visible but inert until live (pt-client-only).
+    // Pre-hydrate: compact SSR link strip for <lg only (desktop already has
+    // .pt-nav-desktop via lg:). Forcing this strip at all widths stacked a second
+    // full-width nav under the brand row and broke header width.
     'html[data-pt-hydrated="0"] .pt-nav-ssr-links{' +
     'display:flex!important;flex-wrap:wrap;align-items:center;gap:0.15rem;' +
     'width:100%;padding:0.15rem 0 0.35rem;}' +
     'html[data-pt-hydrated="0"] .pt-nav-ssr-links .pt-nav-link{' +
     'padding:0.35rem 0.55rem;font-size:0.8125rem;}' +
+    '@media (min-width: 1024px){' +
+    'html[data-pt-hydrated="0"] .pt-nav-ssr-links{display:none!important;}' +
+    '}' +
     'html[data-pt-hydrated="1"] .pt-nav-ssr-links{display:none!important;}' +
     'html[data-pt-hydrated="0"] [data-pt-dirnav-ssr],' +
     'html[data-pt-hydrated="0"] [data-pt-changelog-ssr],' +
