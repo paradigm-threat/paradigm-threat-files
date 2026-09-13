@@ -569,203 +569,128 @@ export default function ArticleView(props) {
 
   const showArticleBody = errMsg.length > 0 || body.length > 0
 
-  // At phase ≥3, lift DeferredMarkdown out of the page MD walk: nested
-  // MarkdownRenderer (or cachedGet) inside the override aborts the vnode so
-  // soft-hydrate never swaps the SSR island. Split the tip and render the
-  // fragment as a sibling MarkdownRenderer instead.
+  // At phase ≥3, lift deferred content out of the page MD walk: nested
+  // MarkdownRenderer inside the override aborts soft-hydrate swaps.
+  // Huge tips: do not rely on CleverScript indexOf('<DeferredMarkdown') —
+  // cut the full tip here and render the tail as a sibling island.
   let mdBefore = body
   let mdAfter = ''
   let deferredIsland = null
   let useDeferredSplit = false
-  if (showArticleBody && isClientLivePhase(3) === true) {
-    // Inline tag scan (CleverScript-safe). Do not wrap island JSX in a catch
-    // that clears useDeferredSplit — that left an empty pending forever.
-    const marker = '<DeferredMarkdown'
-    const at = body.indexOf(marker)
-    if (at >= 0) {
-      const selfClose = body.indexOf('/>', at)
-      const tagEnd = body.indexOf('>', at)
-      let end = -1
-      let endLen = 1
-      if (selfClose >= 0 && (tagEnd < 0 || selfClose <= tagEnd)) {
-        end = selfClose
-        endLen = 2
-      } else if (tagEnd >= 0) {
-        end = tagEnd
-        endLen = 1
+  if (showArticleBody && isClientLivePhase(3) === true && errMsg.length === 0) {
+    let full = ''
+    try {
+      if (typeof markdownContent === 'string' && markdownContent.length > 0) {
+        full = rewriteMarkdownAssetUrls(markdownContent, pathPart)
       }
-      if (end >= 0) {
+    } catch (eFull) {
+      full = ''
+    }
+    if (!(full.length > 0) || full.charAt(0) === '<') {
+      try {
+        const loaded2 = loadArticleMarkdown(pathPart)
+        if (
+          loaded2 &&
+          typeof loaded2.markdownContent === 'string' &&
+          loaded2.markdownContent.length > 20 &&
+          loaded2.markdownContent.charAt(0) !== '<'
+        ) {
+          full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
+        }
+      } catch (eLoad2) {
+        full = ''
+      }
+    }
+    if (full.length > 3000) {
+      let cut = 3000
+      try {
+        cut = cutMarkdownLead(full, 3000)
+      } catch (eCut0) {
+        cut = 3000
+      }
+      if (cut < 1) cut = 3000
+      if (cut >= full.length) cut = 3000
+      if (cut > 0 && cut < full.length) {
         useDeferredSplit = true
-        mdBefore = body.slice(0, at)
-        mdAfter = body.slice(end + endLen)
-        let src = 'page-sections/investigations.md'
-        let attrMinPx = 0
-        const slice = body.slice(at, end + endLen)
-        const srcKey = 'src="'
-        const s0 = slice.indexOf(srcKey)
-        if (s0 >= 0) {
-          const s1 = s0 + srcKey.length
-          const s2 = slice.indexOf('"', s1)
-          if (s2 > s1) src = slice.slice(s1, s2)
-        }
-        const mhKey = 'minHeight="'
-        const m0 = slice.indexOf(mhKey)
-        if (m0 >= 0) {
-          const m1 = m0 + mhKey.length
-          const m2 = slice.indexOf('"', m1)
-          if (m2 > m1) {
-            try {
-              attrMinPx = parseDeferredMinHeightAttr(slice.slice(m1, m2))
-            } catch (eMh) {
-              attrMinPx = 0
-            }
-          }
-        }
-        let frag = ''
+        mdBefore = full.slice(0, cut)
+        mdAfter = ''
+        let frag = full.slice(cut)
         try {
-          frag = loadDeferredFragment(src, clientBase())
-        } catch (eFrag) {
-          frag = ''
-        }
-        if (!(typeof frag === 'string' && frag.length > 0)) {
-          try {
-            frag = prefetchDeferredMarkdown(src)
-          } catch (ePref2) {
-            frag = ''
-          }
-        }
-        // Virtual article tail: never trust process-local SSR seed. Cut the full
-        // tip here so placeholder replace gets real markdown (not an empty pending).
-        if (
-          !(typeof frag === 'string' && frag.length > 0) &&
-          isVirtualDeferredSrc(src) === true
-        ) {
-          try {
-            let full = ''
-            if (typeof markdownContent === 'string' && markdownContent.length > 0) {
-              full = rewriteMarkdownAssetUrls(markdownContent, pathPart)
-            }
-            if (!(full.length > 0) || full.charAt(0) === '<') {
-              const loaded2 = loadArticleMarkdown(pathPart)
-              if (
-                loaded2 &&
-                typeof loaded2.markdownContent === 'string' &&
-                loaded2.markdownContent.charAt(0) !== '<'
-              ) {
-                full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
-              }
-            }
-            if (full.length > 3000) {
-              const cut = cutMarkdownLead(full, 3000)
-              if (cut > 0 && cut < full.length) {
-                frag = full.slice(cut)
-                try {
-                  seedDeferredMarkdown(src, frag)
-                } catch (eSeed) {}
-              }
-            }
-          } catch (eReseed) {
-            frag = ''
-          }
-        }
-        // Last resort for real tip srcs only (never GET __article_tail__).
-        if (
-          !(typeof frag === 'string' && frag.length > 0) &&
-          isVirtualDeferredSrc(src) !== true
-        ) {
-          try {
-            const rawAgain = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-            if (typeof rawAgain === 'string' && rawAgain.length > 0 && rawAgain.charAt(0) !== '<') {
-              frag = rawAgain
-            }
-          } catch (eLast) {}
-        }
-        const fragLen =
-          typeof frag === 'string' && frag.length > 0 ? frag.length : 0
-        const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
+          seedDeferredMarkdown('page-sections/__article_tail__.md', frag)
+        } catch (eSeed) {}
+        const fragLen = frag.length
+        let attrMinPx = 0
+        const minPx = estimateDeferredMinHeightPx(
+          'page-sections/__article_tail__.md',
+          fragLen,
+          attrMinPx,
+        )
         const minStyle = deferredMinHeightStyle(minPx)
-        if (fragLen > 0) {
-          // Phase 3: first chunk only (idle ladder paints shell before the rest).
-          // Phase ≥4: full fragment. Avoid one 74KB CS-override walk freezing mobile.
-          const phase4 = isClientLivePhase(4) === true
-          let renderFrag = frag
-          let pendingTail = false
-          if (phase4 !== true && fragLen > DEFERRED_HYDRATE_CHUNK_CHARS) {
-            try {
-              const cut = cutMarkdownLead(frag, DEFERRED_HYDRATE_CHUNK_CHARS)
-              if (cut > 0 && cut < fragLen) {
-                renderFrag = frag.slice(0, cut)
-                pendingTail = true
-              }
-            } catch (eCut) {
-              renderFrag = frag
-              pendingTail = false
+        const phase4 = isClientLivePhase(4) === true
+        let renderFrag = frag
+        let pendingTail = false
+        if (phase4 !== true && fragLen > 8000) {
+          try {
+            const cut2 = cutMarkdownLead(frag, 8000)
+            if (cut2 > 0 && cut2 < fragLen) {
+              renderFrag = frag.slice(0, cut2)
+              pendingTail = true
             }
+          } catch (eCut) {
+            renderFrag = frag
+            pendingTail = false
           }
-          // First chunk: native a/h/img (Rust path). Full CS overrides at phase ≥4.
-          const deferOverrides =
-            phase4 === true
-              ? {
-                  AutoIndex: renderAutoIndex,
-                  ChangeLog: renderChangeLog,
-                  ChatRoom: EmptyMdStub,
-                  EmbedFile: renderEmbedFile,
-                  PopImage: renderPopImage,
-                  img: renderPopImage,
-                  a: renderMdAnchor,
-                  h1: headingOverrides.h1,
-                  h2: headingOverrides.h2,
-                  h3: headingOverrides.h3,
-                  h4: headingOverrides.h4,
-                  h5: headingOverrides.h5,
-                  h6: headingOverrides.h6,
-                }
-              : {
-                  AutoIndex: EmptyMdStub,
-                  ChangeLog: EmptyMdStub,
-                  ChatRoom: EmptyMdStub,
-                  EmbedFile: EmptyMdStub,
-                }
-          deferredIsland = (
-            <section
-              className="pt-deferred-md"
-              data-pt-deferred="1"
-              aria-label="Deferred section"
-              style={minStyle}
-            >
-              <MarkdownRenderer
-                content={renderFrag}
-                navigate={(to) => {
-                  navigateFile(to)
-                }}
-                anchorOnClick={(href) => {
-                  onMdLinkClick(href)
-                }}
-                overrides={deferOverrides}
-              />
-              {pendingTail === true ? (
-                <section
-                  className="pt-deferred-md"
-                  aria-label="Deferred section"
-                  aria-busy="true"
-                  data-pt-deferred-pending="1"
-                />
-              ) : null}
-            </section>
-          )
-        } else {
-          // Missing fragment: keep a small reserve — do not honor the full-tail
-          // minHeight (can be 8k+ px) or the page looks like a broken empty column.
-          deferredIsland = (
-            <section
-              className="pt-deferred-md"
-              aria-label="Deferred section"
-              aria-busy="true"
-              data-pt-deferred-pending="1"
-              style={deferredMinHeightStyle(120)}
-            />
-          )
         }
+        const deferOverrides =
+          phase4 === true
+            ? {
+                AutoIndex: renderAutoIndex,
+                ChangeLog: renderChangeLog,
+                ChatRoom: EmptyMdStub,
+                EmbedFile: renderEmbedFile,
+                PopImage: renderPopImage,
+                img: renderPopImage,
+                a: renderMdAnchor,
+                h1: headingOverrides.h1,
+                h2: headingOverrides.h2,
+                h3: headingOverrides.h3,
+                h4: headingOverrides.h4,
+                h5: headingOverrides.h5,
+                h6: headingOverrides.h6,
+              }
+            : {
+                AutoIndex: EmptyMdStub,
+                ChangeLog: EmptyMdStub,
+                ChatRoom: EmptyMdStub,
+                EmbedFile: EmptyMdStub,
+              }
+        deferredIsland = (
+          <section
+            className="pt-deferred-md"
+            data-pt-deferred="1"
+            aria-label="Deferred section"
+            style={minStyle}
+          >
+            <MarkdownRenderer
+              content={renderFrag}
+              navigate={(to) => {
+                navigateFile(to)
+              }}
+              anchorOnClick={(href) => {
+                onMdLinkClick(href)
+              }}
+              overrides={deferOverrides}
+            />
+            {pendingTail === true ? (
+              <section
+                className="pt-deferred-md"
+                aria-label="Deferred section"
+                aria-busy="true"
+                data-pt-deferred-pending="1"
+              />
+            ) : null}
+          </section>
+        )
       }
     }
   }
