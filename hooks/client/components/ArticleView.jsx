@@ -27,14 +27,12 @@ import DeferredMarkdown, {
   loadDeferredFragment,
   estimateDeferredMinHeightPx,
   deferredMinHeightStyle,
-  parseDeferredMinHeightAttr,
   maybeSplitHugeArticleMarkdown,
   prefetchDeferredMarkdown,
-  reseedArticleTailFromMarkdown,
-  seedDeferredMarkdown,
   cutMarkdownLead,
   isVirtualDeferredSrc,
   DEFERRED_HYDRATE_CHUNK_CHARS,
+  DEFERRED_HYDRATE_PHASE4_CHARS,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -126,15 +124,24 @@ function clientBase() {
   return ''
 }
 
-/** CleverScript-safe indexOf for the DeferredMarkdown open tag. */
+/**
+ * CleverScript-safe find for `<DeferredMarkdown`.
+ * Returns start index, or `s.length` when missing (never `return -1` — CS bans unary minus).
+ */
 function indexOfDeferredMarkdownTag(s) {
-  if (!s || typeof s !== 'string') return -1
-  const n0 = '<'
-  const n1 = 'D'
+  if (!s || typeof s !== 'string') {
+    return 0
+  }
+  const nlen = 17
+  const lim = s.length
+  if (lim < nlen) {
+    return lim
+  }
+  const last = lim - nlen
   // Match "<DeferredMarkdown" char-by-char (indexOf multi-char is unreliable).
-  for (let i = 0; i < s.length - 16; i++) {
-    if (s.charAt(i) !== n0) continue
-    if (s.charAt(i + 1) !== n1) continue
+  for (let i = 0; i <= last; i++) {
+    if (s.charAt(i) !== '<') continue
+    if (s.charAt(i + 1) !== 'D') continue
     if (s.charAt(i + 2) !== 'e') continue
     if (s.charAt(i + 3) !== 'f') continue
     if (s.charAt(i + 4) !== 'e') continue
@@ -152,7 +159,7 @@ function indexOfDeferredMarkdownTag(s) {
     if (s.charAt(i + 16) !== 'n') continue
     return i
   }
-  return -1
+  return lim
 }
 
 /**
@@ -171,8 +178,9 @@ function loadArticleMarkdown(pathPart) {
   const nCand = cand0 === cand1 ? 1 : 2
   const live = isClientLive() === true
 
-  // Live hydrate: fetch tip as markdown. Prefer no Accept (XHR */* → tip text)
-  // then text/markdown. Reject HTML documents from the navigated cache.
+  // Live hydrate: fetch tip as markdown. Always send Accept: text/markdown —
+  // browsers default Accept: text/html and the gateway then SSR-renders the
+  // .md path as a full HTML document (breaks DeferredMarkdown discovery).
   if (live) {
     for (let j = 0; j < nCand; j++) {
       const cand = j === 0 ? cand0 : cand1
@@ -181,11 +189,16 @@ function loadArticleMarkdown(pathPart) {
         try {
           const opts =
             pi === 0
-              ? { method: 'GET' }
-              : {
+              ? {
                   method: 'GET',
                   headers: {
                     accept: 'text/markdown',
+                  },
+                }
+              : {
+                  method: 'GET',
+                  headers: {
+                    accept: 'text/plain',
                   },
                 }
           const resp = fetch(paths[0], opts)
@@ -454,33 +467,156 @@ export default function ArticleView(props) {
   if (!live && csr) {
     return null
   }
+
+  const hideToolbarEarly =
+    pathPart === 'page.md' ||
+    pathPart === 'README.md' ||
+    pathPart === 'index.md' ||
+    currentPath === '/' ||
+    currentPath === '/index.md' ||
+    currentPath === '/page.md'
+  const showTocEarly =
+    pathPart !== 'README.md' && pathPart !== 'index.md' && pathPart.length > 0
+
+  // Phases 1–2: do NOT load/walk tip markdown. Soft-hydrate keeps SSR article + TOC
+  // in the DOM; only DirNav/Deferred islands are swapped. Rebuilding MarkdownRenderer
+  // vnodes here freezes the main thread for minutes on large tips.
+  //
+  // Full-SSR articles (no deferred island): stay on this shell for all live phases.
+  // Home / tips with `<DeferredMarkdown>` keep `[data-pt-deferred-ssr]` (or page.md)
+  // and enter the fill path at phase ≥3 only.
+  let hasDeferredSsr = false
+  if (live === true) {
+    try {
+      const el = document.querySelector('[data-pt-deferred-ssr]')
+      if (el) hasDeferredSsr = true
+    } catch (eDom) {}
+  }
+  const homeDeferred = pathPart === 'page.md' || pathPart === 'index.md'
+  const needsDeferredFill = hasDeferredSsr === true || homeDeferred === true
+  if (live === true && isClientLivePhase(3) !== true) {
+    return (
+      <SiteChrome currentPath={currentPath}>
+        <div className="pt-page pt-article-page">
+          <div className="pt-columns lg:pt-columns-lg">
+            <main className="pt-column-main lg:pt-column-main-lg">
+              <Layout
+                filePath={pathPart}
+                hideToolbar={hideToolbarEarly}
+                onUp={() => {
+                  navigateFile(parentDir(routePath))
+                }}
+                onHome={() => {
+                  navigateFile('page.md')
+                }}
+              >
+                <div
+                  className="pt-md"
+                  data-pt-article="1"
+                  data-pt-article-phase="early"
+                  aria-hidden="true"
+                />
+              </Layout>
+            </main>
+            <DirNav currentPath={currentPath} />
+            {showTocEarly ? (
+              <DynamicIndex pathKey={pathPart} items={[]} />
+            ) : null}
+          </div>
+        </div>
+      </SiteChrome>
+    )
+  }
+  if (live === true && needsDeferredFill !== true) {
+    return (
+      <SiteChrome currentPath={currentPath}>
+        <div className="pt-page pt-article-page">
+          <div className="pt-columns lg:pt-columns-lg">
+            <main className="pt-column-main lg:pt-column-main-lg">
+              <Layout
+                filePath={pathPart}
+                hideToolbar={hideToolbarEarly}
+                onUp={() => {
+                  navigateFile(parentDir(routePath))
+                }}
+                onHome={() => {
+                  navigateFile('page.md')
+                }}
+              >
+                <div
+                  className="pt-md"
+                  data-pt-article="1"
+                  data-pt-article-phase="ssr-keep"
+                  aria-hidden="true"
+                />
+              </Layout>
+            </main>
+            <DirNav currentPath={currentPath} />
+            {showTocEarly ? (
+              <DynamicIndex pathKey={pathPart} items={[]} />
+            ) : null}
+          </div>
+        </div>
+      </SiteChrome>
+    )
+  }
+
   // SSR: never load dead-urls or wire CS anchor overrides (hydrate applies them).
+  // Phase ≥3 live: full article walk + deferred island fill.
   const deadUrls = live ? loadDeadUrls() : {}
   const renderMdAnchor = makeRenderMdAnchor(deadUrls)
   const loaded = loadArticleMarkdown(pathPart)
   let markdownContent = loaded.markdownContent
   let errMsg = loaded.errMsg
 
+  // Warm home investigations as early as possible on the fill path (network + cache).
+  let homeInvWarm = ''
+  if (live === true && (pathPart === 'page.md' || pathPart === 'index.md')) {
+    try {
+      const respWarm = fetch('/page-sections/investigations.md?v=' + MD_CACHE_BUST, {
+        method: 'GET',
+        headers: {
+          accept: 'text/markdown',
+        },
+      })
+      if (respWarm && respWarm.ok === true) {
+        const tw = respWarm.text ? respWarm.text : ''
+        if (typeof tw === 'string' && tw.length > 20 && tw.charAt(0) !== '<') {
+          homeInvWarm = tw
+        }
+      }
+    } catch (eWarm) {}
+  }
+
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
   let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
   const shareMd = errMsg ? '' : body
-  // TOC from full tip before any deferred split (tail headings stay in index).
-  // Host extract is Rust-cheap — keep it on SSR so the TOC side column is real HTML
-  // (not “Contents load after page open…”). CS heading *overrides* stay live-only.
+  // TOC: SSR already shipped the real index. On live, soft-hydrate does not
+  // replace TOC — skip host extract + DynamicIndex rebuild (saves phase-3 time).
   let tocItems = []
   let idQueue = []
-  const headingExtract = extractMarkdownHeadings(body)
-  try {
-    if (headingExtract && headingExtract.tocItems) {
-      tocItems = headingExtract.tocItems
-    }
-  } catch (eToc) {}
-  try {
-    if (headingExtract && headingExtract.idQueue) {
-      idQueue = headingExtract.idQueue
-    }
-  } catch (eQ) {}
-  const headingOverrides = live ? makeHeadingOverrides(idQueue) : null
+  if (live !== true) {
+    const headingExtract = extractMarkdownHeadings(body)
+    try {
+      if (headingExtract && headingExtract.tocItems) {
+        tocItems = headingExtract.tocItems
+      }
+    } catch (eToc) {}
+    try {
+      if (headingExtract && headingExtract.idQueue) {
+        idQueue = headingExtract.idQueue
+      }
+    } catch (eQ) {}
+  } else if (isClientLivePhase(4) === true) {
+    const headingExtract = extractMarkdownHeadings(body)
+    try {
+      if (headingExtract && headingExtract.idQueue) {
+        idQueue = headingExtract.idQueue
+      }
+    } catch (eQ2) {}
+  }
+  const headingOverrides =
+    live && isClientLivePhase(4) === true ? makeHeadingOverrides(idQueue) : null
 
   // Huge single-file tips (no tip DeferredMarkdown): SSR lead + virtual tail
   // island instead of blanking the whole body (avoids soft-hydrate wipe).
@@ -493,37 +629,50 @@ export default function ArticleView(props) {
       }
     } catch (eHuge) {}
   }
-  // Browser hydrate: SSR seedDeferredMarkdown is process-local. Always re-seed
-  // the virtual article tail from the full tip before phase-3 island fill.
-  if (live && !errMsg && typeof markdownContent === 'string' && markdownContent.length > 0) {
-    try {
-      reseedArticleTailFromMarkdown(rewriteMarkdownAssetUrls(markdownContent, pathPart))
-    } catch (eReseed0) {}
-  }
+  // Virtual article tails are disabled (full tip SSR). Tip DeferredMarkdown
+  // frags warm via prefetchDeferredMarkdown below / phase-3 loadDeferredFragment.
+
 
   // Warm DeferredMarkdown tip src at phase ≥2 (before phase-3 island fill).
   if (live && isClientLivePhase(2) === true && !errMsg) {
     try {
-      const marker = '<DeferredMarkdown'
-      const at = body.indexOf(marker)
-      if (at >= 0) {
+      const at = indexOfDeferredMarkdownTag(body)
+      if (at + 17 <= body.length) {
         let src = 'page-sections/investigations.md'
-        const srcKey = 'src="'
-        const s0 = body.indexOf(srcKey, at)
-        if (s0 >= 0 && s0 < at + 200) {
-          const s1 = s0 + srcKey.length
-          const s2 = body.indexOf('"', s1)
-          if (s2 > s1) src = body.slice(s1, s2)
+        let k = at
+        const bodyLast = body.length
+        while (k + 5 < bodyLast && k < at + 200) {
+          if (
+            body.charAt(k) === 's' &&
+            body.charAt(k + 1) === 'r' &&
+            body.charAt(k + 2) === 'c' &&
+            body.charAt(k + 3) === '=' &&
+            body.charAt(k + 4) === '"'
+          ) {
+            const s1 = k + 5
+            let s2 = s1
+            while (s2 < bodyLast && body.charAt(s2) !== '"') {
+              s2 = s2 + 1
+            }
+            if (s2 > s1) {
+              src = body.slice(s1, s2)
+            }
+            break
+          }
+          k = k + 1
         }
         prefetchDeferredMarkdown(src)
       }
     } catch (ePref) {}
   }
 
-  // P2 catalog — neighbors only when live.
-  const neighbors = live
-    ? hostNeighborPaths(pathPart, loadDirCatalogRows())
-    : { prev: '', next: '' }
+  // P2 catalog — DirNav owns the heavy QUERY. Neighbors/share wait until phase ≥4
+  // so phase-3 deferred fill is not competing with another catalog walk.
+  const phase4Catalog = isClientLivePhase(4) === true
+  const neighbors =
+    phase4Catalog === true
+      ? hostNeighborPaths(pathPart, loadDirCatalogRows())
+      : { prev: '', next: '' }
   let prevPath = ''
   let nextPath = ''
   try {
@@ -541,7 +690,7 @@ export default function ArticleView(props) {
     currentPath === '/' ||
     currentPath === '/index.md' ||
     currentPath === '/page.md'
-  if (live && hideToolbar !== true && shareMd.length > 0) {
+  if (phase4Catalog === true && hideToolbar !== true && shareMd.length > 0) {
     let catalogImg = ''
     const rows = loadDirCatalogRows()
     for (let i = 0; i < rows.length; i++) {
@@ -604,36 +753,41 @@ export default function ArticleView(props) {
   let mdAfter = ''
   let deferredIsland = null
   let useDeferredSplit = false
-  if (showArticleBody && isClientLivePhase(3) === true && errMsg.length === 0) {
+  if (showArticleBody && live === true && isClientLivePhase(3) === true && errMsg.length === 0) {
     let src = 'page-sections/investigations.md'
     let frag = ''
     let attrMinPx = 0
     const at = indexOfDeferredMarkdownTag(body)
-    if (at >= 0) {
-      let end = -1
+    if (at + 17 <= body.length) {
+      let end = 0
       let endLen = 1
+      let endFound = false
       let j = at
-      while (j < body.length - 1) {
+      const bodyLast = body.length
+      while (j + 1 < bodyLast) {
         if (body.charAt(j) === '/' && body.charAt(j + 1) === '>') {
           end = j
           endLen = 2
+          endFound = true
           break
         }
         if (body.charAt(j) === '>') {
           end = j
           endLen = 1
+          endFound = true
           break
         }
         j = j + 1
       }
-      if (end >= 0) {
+      if (endFound === true) {
         useDeferredSplit = true
         mdBefore = body.slice(0, at)
         mdAfter = body.slice(end + endLen)
         const slice = body.slice(at, end + endLen)
         // src="..."
         let k = 0
-        while (k < slice.length - 5) {
+        const sliceLast = slice.length
+        while (k + 5 < sliceLast) {
           if (
             slice.charAt(k) === 's' &&
             slice.charAt(k + 1) === 'r' &&
@@ -643,8 +797,12 @@ export default function ArticleView(props) {
           ) {
             const s1 = k + 5
             let s2 = s1
-            while (s2 < slice.length && slice.charAt(s2) !== '"') s2 = s2 + 1
-            if (s2 > s1) src = slice.slice(s1, s2)
+            while (s2 < sliceLast && slice.charAt(s2) !== '"') {
+              s2 = s2 + 1
+            }
+            if (s2 > s1) {
+              src = slice.slice(s1, s2)
+            }
             break
           }
           k = k + 1
@@ -663,77 +821,84 @@ export default function ArticleView(props) {
         }
       }
     }
-    // Huge single-file tips: no tag in body (or virtual tail) — cut full tip.
+    // Home page.md always has investigations deferred — if the tag scan missed
+    // (CleverScript string quirks), still fill the SSR island.
     if (
-      useDeferredSplit !== true ||
-      isVirtualDeferredSrc(src) === true ||
-      !(typeof frag === 'string' && frag.length > 0)
+      useDeferredSplit !== true &&
+      (pathPart === 'page.md' || pathPart === 'index.md')
     ) {
-      let full = ''
+      useDeferredSplit = true
+      src = 'page-sections/investigations.md'
+      attrMinPx = 20500
+    }
+    // Prefer warmed investigations bytes when the tip-GET helper returned empty.
+    if (
+      (!(typeof frag === 'string') || frag.length === 0) &&
+      typeof homeInvWarm === 'string' &&
+      homeInvWarm.length > 0
+    ) {
+      frag = homeInvWarm
       try {
-        if (typeof markdownContent === 'string' && markdownContent.length > 0) {
-          full = rewriteMarkdownAssetUrls(markdownContent, pathPart)
-        }
-      } catch (eFull) {
-        full = ''
+        frag = rewriteMarkdownAssetUrls(homeInvWarm, 'page-sections/investigations.md')
+      } catch (eRwInv) {
+        frag = homeInvWarm
       }
-      if (!(full.length > 0) || full.charAt(0) === '<') {
-        try {
-          const loaded2 = loadArticleMarkdown(pathPart)
-          if (
-            loaded2 &&
-            typeof loaded2.markdownContent === 'string' &&
-            loaded2.markdownContent.length > 20 &&
-            loaded2.markdownContent.charAt(0) !== '<'
-          ) {
-            full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
-          }
-        } catch (eLoad2) {
-          full = ''
-        }
+    }
+    if (
+      (!(typeof frag === 'string') || frag.length === 0) &&
+      useDeferredSplit === true
+    ) {
+      try {
+        frag = loadDeferredFragment(src, clientBase())
+      } catch (eHome2) {
+        frag = ''
       }
-      const needVirtual =
-        isVirtualDeferredSrc(src) === true ||
-        (useDeferredSplit !== true && full.length > 3000)
-      if (needVirtual === true && full.length > 3000) {
-        let cut = 3000
-        try {
-          cut = cutMarkdownLead(full, 3000)
-        } catch (eCut0) {
-          cut = 3000
-        }
-        if (cut < 1) cut = 3000
-        if (cut >= full.length) cut = 3000
-        if (cut > 0 && cut < full.length) {
-          useDeferredSplit = true
-          mdBefore = full.slice(0, cut)
-          mdAfter = ''
-          frag = full.slice(cut)
-          src = 'page-sections/__article_tail__.md'
-          try {
-            seedDeferredMarkdown(src, frag)
-          } catch (eSeed) {}
-        }
-      }
+    }
+    // Tip DeferredMarkdown only — do NOT invent a virtual tail on the client.
+    // Huge single-file tips are SSR'd in full; soft-hydrate keeps that HTML.
+    if (useDeferredSplit === true && isVirtualDeferredSrc(src) === true) {
+      useDeferredSplit = false
+      deferredIsland = null
+      frag = ''
     }
     if (useDeferredSplit === true && typeof frag === 'string' && frag.length > 0) {
       const fragLen = frag.length
       const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
       const minStyle = deferredMinHeightStyle(minPx)
       const phase4 = isClientLivePhase(4) === true
+      // CleverScript MD walks are superlinear — never hand the full tail to
+      // MarkdownRenderer with CS anchor/heading/image overrides (multi-minute freeze).
+      let headBudget = DEFERRED_HYDRATE_CHUNK_CHARS
+      if (phase4 === true) {
+        headBudget = DEFERRED_HYDRATE_PHASE4_CHARS
+      }
+      if (!(typeof headBudget === 'number' && headBudget > 0)) {
+        headBudget = 2800
+      }
       let renderFrag = frag
+      let restFrag = ''
       let pendingTail = false
-      if (phase4 !== true && fragLen > 8000) {
+      if (fragLen > headBudget) {
+        let cut2 = headBudget
         try {
-          const cut2 = cutMarkdownLead(frag, 8000)
-          if (cut2 > 0 && cut2 < fragLen) {
-            renderFrag = frag.slice(0, cut2)
-            pendingTail = true
-          }
+          cut2 = cutMarkdownLead(frag, headBudget)
         } catch (eCut) {
-          renderFrag = frag
-          pendingTail = false
+          cut2 = headBudget
         }
+        if (cut2 < 1) {
+          cut2 = headBudget
+        }
+        if (cut2 > 0 && cut2 < fragLen) {
+          renderFrag = frag.slice(0, cut2)
+          restFrag = frag.slice(cut2)
+          pendingTail = true
+        }
+      }
+      const lightOverrides = {
+        AutoIndex: EmptyMdStub,
+        ChangeLog: EmptyMdStub,
+        ChatRoom: EmptyMdStub,
+        EmbedFile: EmptyMdStub,
       }
       const deferOverrides =
         phase4 === true
@@ -752,18 +917,69 @@ export default function ArticleView(props) {
               h5: headingOverrides.h5,
               h6: headingOverrides.h6,
             }
-          : {
-              AutoIndex: EmptyMdStub,
-              ChangeLog: EmptyMdStub,
-              ChatRoom: EmptyMdStub,
-              EmbedFile: EmptyMdStub,
-            }
+          : lightOverrides
+      // Remainder: at most one more small light chunk at phase ≥4 — never the
+      // full restFrag (investigations.md ~70KB freezes CleverScript for minutes).
+      let restIsland = null
+      if (pendingTail === true && restFrag.length > 0 && phase4 === true) {
+        let restBudget = DEFERRED_HYDRATE_PHASE4_CHARS
+        if (!(typeof restBudget === 'number' && restBudget > 0)) {
+          restBudget = 1600
+        }
+        let restHead = restFrag
+        let restPending = false
+        if (restFrag.length > restBudget) {
+          let cut3 = restBudget
+          try {
+            cut3 = cutMarkdownLead(restFrag, restBudget)
+          } catch (eCut3) {
+            cut3 = restBudget
+          }
+          if (cut3 < 1) cut3 = restBudget
+          if (cut3 > 0 && cut3 < restFrag.length) {
+            restHead = restFrag.slice(0, cut3)
+            restPending = true
+          }
+        }
+        restIsland = (
+          <div data-pt-deferred-rest="1">
+            <MarkdownRenderer
+              content={restHead}
+              navigate={(to) => {
+                navigateFile(to)
+              }}
+              anchorOnClick={(href) => {
+                onMdLinkClick(href)
+              }}
+              overrides={lightOverrides}
+            />
+            {restPending === true ? (
+              <section
+                className="pt-deferred-md"
+                aria-label="Deferred section"
+                aria-busy="true"
+                data-pt-deferred-pending="1"
+              />
+            ) : null}
+          </div>
+        )
+        pendingTail = restPending
+      } else if (pendingTail === true) {
+        restIsland = (
+          <section
+            className="pt-deferred-md"
+            aria-label="Deferred section"
+            aria-busy="true"
+            data-pt-deferred-pending="1"
+          />
+        )
+      }
       deferredIsland = (
         <section
           className="pt-deferred-md"
           data-pt-deferred="1"
           aria-label="Deferred section"
-          style={minStyle}
+          style={pendingTail === true ? minStyle : {}}
         >
           <MarkdownRenderer
             content={renderFrag}
@@ -775,26 +991,13 @@ export default function ArticleView(props) {
             }}
             overrides={deferOverrides}
           />
-          {pendingTail === true ? (
-            <section
-              className="pt-deferred-md"
-              aria-label="Deferred section"
-              aria-busy="true"
-              data-pt-deferred-pending="1"
-            />
-          ) : null}
+          {restIsland}
         </section>
       )
     } else if (useDeferredSplit === true) {
-      deferredIsland = (
-        <section
-          className="pt-deferred-md"
-          aria-label="Deferred section"
-          aria-busy="true"
-          data-pt-deferred-pending="1"
-          style={deferredMinHeightStyle(120)}
-        />
-      )
+      // Keep SSR deferred shell — do not soft-hydrate-swap to a tiny pending stub
+      // when the tip fragment has not loaded yet (retry next idle phase).
+      deferredIsland = null
     }
   }
 
@@ -862,6 +1065,19 @@ export default function ArticleView(props) {
               }}
             >
               {showArticleBody ? (
+                live ? (
+                  <div className="pt-md" data-pt-article="1">
+                    {/* Soft-hydrate keeps the SSR lead in the DOM; only the
+                        deferred island is swapped from this vnode. */}
+                    {deferredIsland}
+                    <span
+                      aria-hidden="true"
+                      hidden={true}
+                      className="pt-dead-link pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
+                      data-pt-md-css="true"
+                    />
+                  </div>
+                ) : (
                 <div className="pt-md" data-pt-article="1">
                   {useDeferredSplit ? (
                     <div className="pt-deferred-split">
@@ -909,6 +1125,7 @@ export default function ArticleView(props) {
                     data-pt-md-css="true"
                   />
                 </div>
+                )
               ) : (
                 <div className="pt-md" data-pt-article-ssr="1">
                   <p className="pt-muted">Article loads after page open…</p>

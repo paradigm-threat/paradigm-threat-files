@@ -1,5 +1,5 @@
 import manifest from '@hooks'
-import { pickFeelingLuckyPath as hostPickLucky } from '@relay/catalog'
+import { pickFeelingLuckyPath as hostPickLucky, buildDirTree } from '@relay/catalog'
 import { siteHref as hostSiteHref } from '@relay/path'
 import { take } from '@relay/util'
 import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
@@ -111,6 +111,7 @@ const KIND_ARTICLE_INV_BLOG = ['article', 'investigation', 'blog']
 const DIR_QUERY = { content_kind: { $ne: 'exclude' } }
 
 let dirRowsWarm = null
+let dirTreeWarm = null
 let articlesRowsWarm = null
 let investigationsRowsWarm = null
 let blogRowsWarm = null
@@ -119,18 +120,10 @@ let luckyRowsWarm = null
 let homeRowsWarm = null
 
 function rowsFromQueryJson(data) {
+  // Return the host array as-is. CleverScript `concat` in a 600-row loop is
+  // O(n²) and freezes the main thread for seconds during phase-2 DirNav.
   if (!data || !data.results) return []
-  let rows = []
-  for (let i = 0; i < data.results.length; i++) {
-    const row = data.results[i]
-    let path = ''
-    try {
-      if (row.path && typeof row.path === 'string') path = row.path
-    } catch (e) {}
-    if (path.length === 0) continue
-    rows = rows.concat([row])
-  }
-  return rows
+  return data.results
 }
 
 /** Minimal CSV line split (handles quoted commas). CleverScript-safe. */
@@ -170,9 +163,9 @@ function rowsFromQueryCsv(text) {
   const lines = text.split('\n')
   if (lines.length < 2) return []
   const cols = splitCsvLine(lines[0])
-  let pathIdx = -1
-  let kindIdx = -1
-  let titleIdx = -1
+  let pathIdx = 0 - 1
+  let kindIdx = 0 - 1
+  let titleIdx = 0 - 1
   for (let c = 0; c < cols.length; c++) {
     const name = cols[c]
     if (name === 'path') pathIdx = c
@@ -250,6 +243,19 @@ export function loadDirCatalogRows() {
     dirRowsWarm = rows
   }
   return rows
+}
+
+/** Warm `@relay/catalog.buildDirTree` once per session (phase-2+ DirNav). */
+export function loadDirTree() {
+  if (dirTreeWarm !== null) return dirTreeWarm
+  const rows = loadDirCatalogRows()
+  if (!(rows && rows.length > 0)) return null
+  try {
+    dirTreeWarm = buildDirTree(rows)
+  } catch (e) {
+    dirTreeWarm = null
+  }
+  return dirTreeWarm
 }
 
 /**

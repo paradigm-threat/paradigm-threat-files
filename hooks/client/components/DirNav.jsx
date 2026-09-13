@@ -1,10 +1,10 @@
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
-import { buildDirTree, dirExpandPaths } from '@relay/catalog'
+import { dirExpandPaths } from '@relay/catalog'
 import { includes } from '@relay/util'
 import { propStr } from 'hooks/client/propOr.jsx'
-import { loadDirCatalogRows, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
+import { loadDirCatalogRows, loadDirTree, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
   IconChevronDownSm,
@@ -203,61 +203,58 @@ function FolderBranch(props) {
     rowCls = rowCls + ' pt-dir-row-active'
   }
   const pad = depth * 16 + 'px'
-  const fileCap = files.length < 12 ? files.length : 12
-  const hiddenCount = files.length - fileCap
+  // Only mount file rows for expanded folders. Closed folders still recurse
+  // nested FolderBranch rows (cheap) so the tree skeleton exists; skipping
+  // hundreds of DirFileRow vnodes is what kept phase-2 from freezing.
+  const fileCap =
+    isExpand === true ? (files.length < 12 ? files.length : 12) : 0
+  const hiddenCount = isExpand === true ? files.length - fileCap : 0
 
+  // Nested folders only along expandPaths (current article ancestors). Full-tree
+  // FolderBranch fan-out (~130 folders) during phase-2 soft-hydrate freezes CS.
+  // Closed folders are a single row; open via folder link / Expand to current.
   let folderEls = []
-  for (let i = 0; i < folders.length; i++) {
-    folderEls = folderEls.concat([
-      <FolderBranch
-        key={keyPrefix + 'd' + i}
-        node={folders[i]}
-        depth={depth + 1}
-        keyPrefix={keyPrefix + 'd' + i + '-'}
-        expandPaths={expandPaths}
-        currentRel={currentRel}
-      />,
-    ])
+  if (isExpand === true) {
+    for (let i = 0; i < folders.length; i++) {
+      folderEls = folderEls.concat([
+        <FolderBranch
+          key={keyPrefix + 'd' + i}
+          node={folders[i]}
+          depth={depth + 1}
+          keyPrefix={keyPrefix + 'd' + i + '-'}
+          expandPaths={expandPaths}
+          currentRel={currentRel}
+        />,
+      ])
+    }
   }
 
   let fileEls = []
-  for (let i = 0; i < files.length; i++) {
-    fileEls = fileEls.concat([
-      <DirFileRow
-        key={keyPrefix + 'f' + i}
-        row={files[i]}
-        depth={depth + 1}
-        extra={i >= 12}
-        currentRel={currentRel}
-      />,
-    ])
+  if (isExpand === true) {
+    for (let i = 0; i < fileCap; i++) {
+      fileEls = fileEls.concat([
+        <DirFileRow
+          key={keyPrefix + 'f' + i}
+          row={files[i]}
+          depth={depth + 1}
+          extra={false}
+          currentRel={currentRel}
+        />,
+      ])
+    }
   }
 
   let moreEls = []
   if (hiddenCount > 0) {
     moreEls = moreEls.concat([
-      <button
+      <a
         key={keyPrefix + 'all'}
-        type="button"
+        href={siteHref('/' + path + '/page.md')}
         className="pt-dir-showall"
         style={{ paddingLeft: (depth + 1) * 16 + 22 + 'px' }}
-        onClick={() => {
-          toggleDirShowAll(path)
-        }}
       >
-        {'Show all ' + files.length + ' files…'}
-      </button>,
-      <button
-        key={keyPrefix + 'fewer'}
-        type="button"
-        className="pt-dir-showfewer"
-        style={{ paddingLeft: (depth + 1) * 16 + 22 + 'px' }}
-        onClick={() => {
-          toggleDirShowAll(path)
-        }}
-      >
-        Show fewer files
-      </button>,
+        {'+' + hiddenCount + ' more in folder…'}
+      </a>,
     ])
   }
 
@@ -344,7 +341,7 @@ export default function DirNav(props) {
   let tree = null
   let expandPaths = []
   try {
-    tree = buildDirTree(loadDirCatalogRows())
+    tree = loadDirTree()
   } catch (eLoad) {}
   try {
     expandPaths = dirExpandPaths(currentRel)

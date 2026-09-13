@@ -33,14 +33,21 @@ const BYTES_PER_PX = 3.7
 export const ARTICLE_TAIL_SRC = 'page-sections/__article_tail__.md'
 
 /** Soft cap for first hydrate pass of a DeferredMarkdown tip fragment. */
-export const DEFERRED_HYDRATE_CHUNK_CHARS = 8000
+export const DEFERRED_HYDRATE_CHUNK_CHARS = 1600
+
+/**
+ * Phase ≥4 may walk a larger CS chunk (still bounded — full 30–40KB tips with
+ * CS anchor/heading/image overrides freeze the main thread for minutes).
+ */
+export const DEFERRED_HYDRATE_PHASE4_CHARS = 2800
 
 /**
  * Soft cap for SSR lead when auto-splitting a huge tip without DeferredMarkdown.
- * CleverScript MD walks are superlinear (~3KB≈1s, ~4KB≈3s on fleet); keep lead
- * near home `page.md` so Accept:text/html finishes under RELAY_SSR_TIMEOUT_SECS.
+ * Local/fleet SSR of ~40KB tips via host MarkdownRenderer is ~100–400ms — do not
+ * auto-split (empty deferred island + client CS walk of the tail freezes hydrate).
+ * Keep a very high ceiling only as a safety valve for pathological tips.
  */
-export const HUGE_ARTICLE_LEAD_CHARS = 3000
+export const HUGE_ARTICLE_LEAD_CHARS = 120000
 
 let deferredWarm = null
 
@@ -58,6 +65,34 @@ function loadFragment(src) {
     // Tail is seed-only — never tip-GET a missing virtual path.
     return ''
   }
+  // Live hydrate: same tip GET path as ArticleView.loadArticleMarkdown (cachedGet
+  // often returns empty on park/CSR while relative fetch works).
+  try {
+    const resp = fetch('/' + src + '?v=' + MD_CACHE_BUST, {
+      method: 'GET',
+      headers: {
+        accept: 'text/markdown',
+      },
+    })
+    if (resp && resp.ok === true) {
+      const text = resp.text ? resp.text : ''
+      if (
+        typeof text === 'string' &&
+        text.length > 20 &&
+        text.charAt(0) !== '<'
+      ) {
+        let body = text
+        try {
+          body = rewriteMarkdownAssetUrls(text, src)
+        } catch (eRw) {
+          body = text
+        }
+        if (typeof body !== 'string' || body.length === 0) body = text
+        deferredWarm[src] = body
+        return body
+      }
+    }
+  } catch (eLive) {}
   try {
     const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
     if (typeof text === 'string' && text.length > 0) {
@@ -129,7 +164,7 @@ export function parseFirstDeferredMarkdownTag(body) {
   if (at < 0) return null
   const selfClose = body.indexOf('/>', at)
   const tagEnd = body.indexOf('>', at)
-  let end = -1
+  let end = 0 - 1
   let endLen = 1
   if (selfClose >= 0 && (tagEnd < 0 || selfClose <= tagEnd)) {
     end = selfClose
@@ -179,7 +214,7 @@ export function cutMarkdownLead(text, maxChars) {
   if (text.length <= max) return text.length
   // Char-by-char scan only (CleverScript lastIndexOf/slice/=== on multi-char
   // needles has missed `##` and fallen through to mid-paragraph cuts).
-  let cut = -1
+  let cut = 0 - 1
   let i = 0
   while (i < max - 3) {
     const c0 = text.charAt(i)
@@ -221,7 +256,7 @@ export function cutMarkdownLead(text, maxChars) {
   if (cut < 1) cut = max
   // Never leave a partial ATX heading as the last lead line.
   if (cut > 0) {
-    let lastNl = -1
+    let lastNl = 0 - 1
     i = cut - 1
     while (i >= 0) {
       if (text.charAt(i) === '\n') {
@@ -261,8 +296,9 @@ export function maybeSplitHugeArticleMarkdown(markdown, pathPart, maxLeadChars) 
     typeof maxLeadChars === 'number' && maxLeadChars > 0
       ? maxLeadChars
       : HUGE_ARTICLE_LEAD_CHARS
-  // Auto-split when over the SSR lead budget so Accept:text/html stays within
-  // RELAY_SSR_TIMEOUT_SECS (full CleverScript MD walks on 15–40KB tips hang).
+  // Auto-split only for pathological tips. Host MarkdownRenderer SSR handles
+  // normal 15–40KB articles in hundreds of ms; splitting left an empty
+  // deferred island that the client then walked with CleverScript (multi-minute freeze).
   if (md.length <= leadMax) {
     return md
   }

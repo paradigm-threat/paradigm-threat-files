@@ -38,6 +38,13 @@ function navChromeCss() {
     '-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
     '.pt-shell{padding-top:7.5rem;box-sizing:border-box;}' +
     '.pt-article-body{font-family:"EB Garamond",Georgia,serif;font-size:1.125rem;line-height:1.65;}' +
+    // Native markdown images (no PopImage yet) must not blow past the column.
+    '.pt-md img,.pt-deferred-md img,.pt-article-body img{max-width:100%!important;height:auto!important;display:block;margin-left:auto;margin-right:auto;}' +
+    '.pt-column-main,.pt-article-body,.pt-deferred-md{overflow-x:hidden;max-width:100%;box-sizing:border-box;}' +
+    // Narrow viewports: path on its own row so toolbar buttons cannot crush it.
+    '@media (max-width: 1023px){' +
+    '.pt-article-path{flex-basis:100%!important;max-width:100%;}' +
+    '}' +
     'html[data-font="franklin"] .pt-article-body{font-family:"Libre Franklin",system-ui,sans-serif;font-size:1.05rem;}' +
     'html[data-font="mono"] .pt-article-body{font-family:"JetBrains Mono","Courier New",monospace;font-size:0.95rem;}' +
     '.pt-font-toggle{font-family:"EB Garamond",Georgia,serif;}' +

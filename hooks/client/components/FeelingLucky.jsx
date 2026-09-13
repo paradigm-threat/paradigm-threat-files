@@ -7,14 +7,13 @@ import { propOr } from 'hooks/client/propOr.jsx'
 /**
  * Random article from QUERY `order=random` (files park only).
  * Prefer native navigate() host binding; fall back to <a href>.
- * Phase 2+ (catalog) — same gate as DirNav.
+ * Phase ≥4 — do not run the random QUERY during phase-2 DirNav (same idle
+ * slice as catalog parse; freezes before deferred fill).
  * `dir={true}` is the Directory-column control (old-site “I'm Feeling Lucky”).
  */
 export default function FeelingLucky(props) {
-  const live = isClientLivePhase(2) === true
+  const live = isClientLivePhase(4) === true
   const dir = propOr(props, 'dir', false) === true
-  const path = pickFeelingLuckyPath()
-  const href = path.length > 0 ? siteHref('/' + path) : '#'
   let cls = 'pt-btn pt-feeling-lucky pt-client-only'
   if (dir) {
     cls = cls + ' pt-feeling-lucky-dir'
@@ -23,7 +22,7 @@ export default function FeelingLucky(props) {
   return (
     <a
       className={cls}
-      href={live ? href : '#'}
+      href="#"
       title={live ? 'Feeling Lucky' : 'Feeling Lucky available after page loads'}
       aria-disabled={live ? 'false' : 'true'}
       onClick={() => {

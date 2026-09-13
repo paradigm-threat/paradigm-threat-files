@@ -677,9 +677,14 @@ themes:
         fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace"
         fontSize: "0.875rem"
         flexShrink: 0
+        width: "100%"
+        boxSizing: "border-box"
       ".pt-article-path":
-        flex: 1
+        flexGrow: 1
+        flexShrink: 1
+        flexBasis: "0%"
         minWidth: 0
+        maxWidth: "100%"
         wordBreak: "break-all"
       ".pt-share":
         position: "fixed"
@@ -831,12 +836,34 @@ themes:
         flexShrink: 1
         flexBasis: "auto"
         overflowY: "visible"
+        overflowX: "hidden"
         padding: "1rem"
         maxWidth: "64rem"
         marginLeft: "auto"
         marginRight: "auto"
         width: "100%"
         boxSizing: "border-box"
+      # Native md <img> (SSR + pre-phase-4): no PopImage wrapper — constrain to column.
+      ".pt-md img":
+        display: "block"
+        maxWidth: "100%"
+        width: "auto"
+        height: "auto"
+        marginLeft: "auto"
+        marginRight: "auto"
+      ".pt-deferred-md":
+        display: "block"
+        width: "100%"
+        maxWidth: "100%"
+        boxSizing: "border-box"
+        overflowX: "hidden"
+      ".pt-deferred-md img":
+        display: "block"
+        maxWidth: "100%"
+        width: "auto"
+        height: "auto"
+        marginLeft: "auto"
+        marginRight: "auto"
       ".pt-popimage":
         display: "block"
         width: "fit-content"
@@ -1158,7 +1185,11 @@ themes:
       ".pt-column-main":
         flex: 1
         minWidth: 0
-        order: 3
+        # Mobile column stack: article first, TOC below (lg restores side columns).
+        order: 1
+        overflowX: "hidden"
+        maxWidth: "100%"
+        boxSizing: "border-box"
       ".pt-column-main-lg":
         order: 2
       ".pt-dir-nav":
@@ -1174,7 +1205,7 @@ themes:
         maxHeight: "calc(100vh - 8rem)"
         overflowY: "auto"
         boxSizing: "border-box"
-        order: 1
+        order: 3
       ".pt-dir-nav-lg":
         display: "block"
         position: "sticky"
