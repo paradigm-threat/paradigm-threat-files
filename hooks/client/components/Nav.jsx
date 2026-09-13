@@ -90,9 +90,15 @@ function navChromeCss() {
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +
     'padding:0!important;border:0!important;' +
     '}' +
-    // Directory expand/collapse + file cap (themed-styler cannot emit [data-*] selectors).
+    // Directory expand/collapse + file cap (themed-styler cannot emit [data-*] /
+    // descendant selectors — class toggles mirror DynamicNav open/active states).
     '.pt-dir-kids{display:none;}' +
-    '[data-pt-open="1"]>.pt-dir-kids{display:block;}' +
+    '.pt-dir-kids-open{display:flex;flex-direction:column;}' +
+    '[data-pt-open="1"]>.pt-dir-kids{display:flex;flex-direction:column;}' +
+    '.pt-dir-chevron-open{display:none;}' +
+    '.pt-dir-chevron-open-on{display:inline-flex;}' +
+    '.pt-dir-chevron-closed{display:inline-flex;}' +
+    '.pt-dir-chevron-closed-off{display:none;}' +
     '[data-pt-open="1"]>.pt-dir-row .pt-dir-chevron-open{display:inline-flex;}' +
     '[data-pt-open="1"]>.pt-dir-row .pt-dir-chevron-closed{display:none;}' +
     '.pt-dir-file-extra{display:none;}' +

@@ -98,7 +98,7 @@ export default function SiteChrome(props) {
       <span
         aria-hidden="true"
         hidden={true}
-        className="pt-toc lg:pt-toc-lg pt-toc-empty pt-toc-head pt-toc-title pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-h1 pt-toc-sub pt-toc-nested pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-column-main lg:pt-column-main-lg pt-dir-nav lg:pt-dir-nav-lg pt-dir-head pt-dir-title pt-dir-actions pt-dir-action pt-dir-sep pt-dir-tree pt-dir-node pt-dir-row pt-dir-row-active pt-dir-chevron pt-dir-chevron-open pt-dir-chevron-closed pt-dir-chevron-spacer pt-dir-folder-link pt-dir-folder-name pt-dir-count pt-dir-kids pt-dir-file pt-dir-file-extra pt-dir-file-active pt-dir-file-icon pt-dir-file-link pt-dir-showall pt-dir-showfewer pt-dir-foot pt-feeling-lucky-dir"
+        className="pt-toc lg:pt-toc-lg pt-toc-empty pt-toc-head pt-toc-title pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-h1 pt-toc-sub pt-toc-nested pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-column-main lg:pt-column-main-lg pt-dir-nav lg:pt-dir-nav-lg pt-dir-head pt-dir-title pt-dir-actions pt-dir-action pt-dir-sep pt-dir-tree pt-dir-node pt-dir-row pt-dir-row-active pt-dir-chevron pt-dir-chevron-open pt-dir-chevron-open-on pt-dir-chevron-closed pt-dir-chevron-closed-off pt-dir-chevron-spacer pt-dir-folder-link pt-dir-folder-name pt-dir-count pt-dir-kids pt-dir-kids-open pt-dir-file pt-dir-file-extra pt-dir-file-active pt-dir-file-icon pt-dir-file-link pt-dir-showall pt-dir-showfewer pt-dir-foot pt-feeling-lucky-dir"
         data-pt-toc-css="true"
         data-pt-dir-css="true"
       />

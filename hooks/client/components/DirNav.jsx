@@ -62,6 +62,67 @@ function setDirOpen(el, openVal) {
     el.setAttribute('data-pt-open', openVal)
     el.setAttribute('aria-expanded', openVal)
   } catch (e) {}
+  // Themed-styler only emits simple class selectors — toggle open/closed via
+  // classes (attribute / descendant selectors are ignored).
+  let kids = null
+  let openIcon = null
+  let closedIcon = null
+  try {
+    kids = el.querySelector('.pt-dir-kids')
+  } catch (eKids) {}
+  try {
+    openIcon = el.querySelector('.pt-dir-chevron-open')
+  } catch (eOpen) {}
+  try {
+    closedIcon = el.querySelector('.pt-dir-chevron-closed')
+  } catch (eClosed) {}
+  if (openVal === '1') {
+    try {
+      if (kids) kids.setAttribute('class', 'pt-dir-kids pt-dir-kids-open')
+    } catch (eK1) {}
+    try {
+      if (openIcon) openIcon.setAttribute('class', 'pt-dir-chevron-open pt-dir-chevron-open-on')
+    } catch (eO1) {}
+    try {
+      if (closedIcon) {
+        closedIcon.setAttribute('class', 'pt-dir-chevron-closed pt-dir-chevron-closed-off')
+      }
+    } catch (eC1) {}
+  } else {
+    try {
+      if (kids) kids.setAttribute('class', 'pt-dir-kids')
+    } catch (eK0) {}
+    try {
+      if (openIcon) openIcon.setAttribute('class', 'pt-dir-chevron-open')
+    } catch (eO0) {}
+    try {
+      if (closedIcon) closedIcon.setAttribute('class', 'pt-dir-chevron-closed')
+    } catch (eC0) {}
+  }
+}
+
+function pathMatchesCurrent(filePath, currentRel) {
+  if (!filePath || !currentRel) return false
+  if (filePath === currentRel) return true
+  // Pretty URL without .md vs tip path with extension.
+  if (currentRel + '.md' === filePath) return true
+  if (filePath + '.md' === currentRel) return true
+  return false
+}
+
+function scrollActiveDirFileIntoView() {
+  let el = null
+  try {
+    el = document.querySelector('.pt-dir-file-active')
+  } catch (e) {
+    return
+  }
+  if (!el) return
+  try {
+    if (el.scrollIntoView) {
+      el.scrollIntoView({ block: 'nearest', inline: 'nearest' })
+    }
+  } catch (e2) {}
 }
 
 function toggleDirOpen(path) {
@@ -124,6 +185,7 @@ function expandDirsToCurrent() {
       el.setAttribute('data-pt-showall', '0')
     } catch (e4) {}
   }
+  scrollActiveDirFileIntoView()
 }
 
 function toggleDirShowAll(path) {
@@ -146,7 +208,7 @@ function DirFileRow(props) {
   const currentRel = props.currentRel
   const path = rowPath(row)
   if (path.length === 0) return null
-  const active = currentRel === path
+  const active = pathMatchesCurrent(path, currentRel)
   let cls = 'pt-dir-file'
   if (extra) {
     cls = cls + ' pt-dir-file-extra'
@@ -258,6 +320,14 @@ function FolderBranch(props) {
     ])
   }
 
+  const kidsCls = isExpand ? 'pt-dir-kids pt-dir-kids-open' : 'pt-dir-kids'
+  const openIconCls = isExpand
+    ? 'pt-dir-chevron-open pt-dir-chevron-open-on'
+    : 'pt-dir-chevron-open'
+  const closedIconCls = isExpand
+    ? 'pt-dir-chevron-closed pt-dir-chevron-closed-off'
+    : 'pt-dir-chevron-closed'
+
   return (
     <div
       className="pt-dir-node"
@@ -278,10 +348,10 @@ function FolderBranch(props) {
               toggleDirOpen(path)
             }}
           >
-            <span className="pt-dir-chevron-open" aria-hidden="true">
+            <span className={openIconCls} aria-hidden="true">
               <IconChevronDownSm />
             </span>
-            <span className="pt-dir-chevron-closed" aria-hidden="true">
+            <span className={closedIconCls} aria-hidden="true">
               <IconChevronRightSm />
             </span>
           </button>
@@ -294,7 +364,7 @@ function FolderBranch(props) {
         </a>
       </div>
       {hasChildren ? (
-        <div className="pt-dir-kids">
+        <div className={kidsCls}>
           {folderEls}
           {fileEls}
           {moreEls}
@@ -309,7 +379,7 @@ function dirCssMarker() {
     <span
       aria-hidden="true"
       hidden={true}
-      className="pt-dir-nav lg:pt-dir-nav-lg pt-dir-head pt-dir-title pt-dir-actions pt-dir-action pt-dir-sep pt-dir-tree pt-dir-node pt-dir-row pt-dir-row-active pt-dir-chevron pt-dir-chevron-open pt-dir-chevron-closed pt-dir-chevron-spacer pt-dir-folder-link pt-dir-folder-name pt-dir-count pt-dir-kids pt-dir-file pt-dir-file-extra pt-dir-file-active pt-dir-file-icon pt-dir-file-link pt-dir-showall pt-dir-showfewer pt-dir-foot pt-feeling-lucky-dir pt-dir-list pt-dir-item pt-dir-link pt-dir-tools pt-dir-tool pt-dir-folder pt-dir-folder-label pt-dir-nested"
+      className="pt-dir-nav lg:pt-dir-nav-lg pt-dir-head pt-dir-title pt-dir-actions pt-dir-action pt-dir-sep pt-dir-tree pt-dir-node pt-dir-row pt-dir-row-active pt-dir-chevron pt-dir-chevron-open pt-dir-chevron-open-on pt-dir-chevron-closed pt-dir-chevron-closed-off pt-dir-chevron-spacer pt-dir-folder-link pt-dir-folder-name pt-dir-count pt-dir-kids pt-dir-kids-open pt-dir-file pt-dir-file-extra pt-dir-file-active pt-dir-file-icon pt-dir-file-link pt-dir-showall pt-dir-showfewer pt-dir-foot pt-feeling-lucky-dir pt-dir-list pt-dir-item pt-dir-link pt-dir-tools pt-dir-tool pt-dir-folder pt-dir-folder-label pt-dir-nested"
       data-pt-dir-css="true"
     />
   )
@@ -382,6 +452,13 @@ export default function DirNav(props) {
   }
 
   const empty = folders.length === 0 && files.length === 0
+
+  // Ancestors already get pt-dir-kids-open at render via expandPaths / isExpand.
+  // Re-apply after soft-hydrate in case DOM attrs/classes drifted (no anonymous
+  // `function` — CleverScript rejects Keyword(Function) in call position).
+  try {
+    expandDirsToCurrent()
+  } catch (eExpandNow) {}
 
   return (
     <aside className="pt-dir-nav lg:pt-dir-nav-lg" aria-label="Site directory">

@@ -10,6 +10,10 @@ themes:
       secondary: "#f1f5f9"
       secondaryFg: "#1e293b"
       border: "#e2e8f0"
+      dirActive: "#2563eb"
+      dirActiveBg: "rgba(37, 99, 235, 0.1)"
+      dirFileActive: "#059669"
+      dirFileActiveBg: "rgba(16, 185, 129, 0.1)"
       badgeActive: "#22c55e"
       badgePublished: "#3b82f6"
       badgePlanned: "#eab308"
@@ -1566,8 +1570,8 @@ themes:
       ".pt-dir-row:hover":
         backgroundColor: "var(card)"
       ".pt-dir-row-active":
-        backgroundColor: "rgba(59, 130, 246, 0.1)"
-        color: "var(primary)"
+        backgroundColor: "var(dirActiveBg)"
+        color: "var(dirActive)"
         fontWeight: "700"
       ".pt-dir-chevron":
         width: "1.375rem"
@@ -1588,8 +1592,16 @@ themes:
         display: "none"
         alignItems: "center"
         justifyContent: "center"
+      ".pt-dir-chevron-open-on":
+        display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
       ".pt-dir-chevron-closed":
         display: "inline-flex"
+        alignItems: "center"
+        justifyContent: "center"
+      ".pt-dir-chevron-closed-off":
+        display: "none"
         alignItems: "center"
         justifyContent: "center"
       ".pt-dir-chevron-spacer":
@@ -1619,6 +1631,10 @@ themes:
         flexShrink: 0
       ".pt-dir-kids":
         display: "none"
+        flexDirection: "column"
+      ".pt-dir-kids-open":
+        display: "flex"
+        flexDirection: "column"
       ".pt-dir-file":
         display: "flex"
         alignItems: "center"
@@ -1630,8 +1646,8 @@ themes:
       ".pt-dir-file:hover":
         backgroundColor: "var(card)"
       ".pt-dir-file-active":
-        backgroundColor: "rgba(16, 185, 129, 0.1)"
-        color: "#34d399"
+        backgroundColor: "var(dirFileActiveBg)"
+        color: "var(dirFileActive)"
         fontWeight: "600"
       ".pt-dir-file-extra":
         display: "none"
@@ -1641,7 +1657,8 @@ themes:
         display: "inline-flex"
         alignItems: "center"
         justifyContent: "center"
-        opacity: 0.7
+        color: "inherit"
+        opacity: 0.85
       ".pt-dir-file-link":
         flex: 1
         minWidth: 0
@@ -1931,6 +1948,10 @@ themes:
       secondary: "#1e293b"
       secondaryFg: "#f8fafc"
       border: "#1e293b"
+      dirActive: "#60a5fa"
+      dirActiveBg: "rgba(59, 130, 246, 0.1)"
+      dirFileActive: "#34d399"
+      dirFileActiveBg: "rgba(16, 185, 129, 0.1)"
       badgeActive: "#22c55e"
       badgePublished: "#3b82f6"
       badgePlanned: "#eab308"
