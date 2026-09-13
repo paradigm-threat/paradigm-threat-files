@@ -6,6 +6,8 @@ Hard rules for **SSR site-shell** hooks on this repo. Breaking them has taken th
 
 **Local hardening (before fleet push):** `relay-gateway/scripts/park-local.sh` + [`docs/RELAY_PARK_HARDENING.md`](../docs/RELAY_PARK_HARDENING.md).
 
+**Perf strategy catalog** (SSR/hydrate lessons, tip phase gates, `RELAY_PERF_*`): [`relay-runtime/docs/PERF_FEATURE_FLAGS.md`](../../../relay/relay-runtime/docs/PERF_FEATURE_FLAGS.md). Prefer named strategies over deleting alternate paths.
+
 ## Prefer host helpers
 
 Thin tip code via **`@relay/*`** (registered on SSR + WASM):
