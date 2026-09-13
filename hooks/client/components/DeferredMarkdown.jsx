@@ -178,24 +178,28 @@ export function cutMarkdownLead(text, maxChars) {
   let max = typeof maxChars === 'number' && maxChars > 0 ? maxChars : HUGE_ARTICLE_LEAD_CHARS
   if (text.length <= max) return text.length
   const window = text.slice(0, max)
-  // Prefer last ATX heading boundary. Use slice equality — CleverScript
-  // lastIndexOf(multi-char) has been unreliable and left partial `<h2>What hap`.
+  // Forward scan for last ATX heading in window. Avoid lastIndexOf(needle, from)
+  // — CleverScript multi-arg lastIndexOf has been unreliable.
   let cut = -1
-  let i = window.lastIndexOf('\n')
-  while (i >= 0) {
-    if (window.slice(i, i + 4) === '\n## ') {
-      cut = i
-      break
+  let pos = 0
+  while (pos < max) {
+    const nl = window.indexOf('\n', pos)
+    if (nl < 0 || nl >= max) break
+    if (window.slice(nl, nl + 4) === '\n## ') {
+      cut = nl
+    } else if (cut < 0 && window.slice(nl, nl + 3) === '\n# ') {
+      cut = nl
     }
-    if (cut < 0 && window.slice(i, i + 3) === '\n# ') {
-      cut = i
-      // keep scanning for a closer ## below
-    }
-    i = i === 0 ? -1 : window.lastIndexOf('\n', i - 1)
+    pos = nl + 1
   }
-  if (cut < max * 0.4) cut = window.lastIndexOf('\n\n')
-  if (cut < max * 0.25) cut = window.lastIndexOf('\n')
-  // Prefer near the char cap over a tiny lead (early heading + wall of text).
+  if (cut < max * 0.4) {
+    const blank = window.lastIndexOf('\n\n')
+    if (blank >= max * 0.25) cut = blank
+  }
+  if (cut < max * 0.25) {
+    const nl = window.lastIndexOf('\n')
+    if (nl >= 1) cut = nl
+  }
   if (cut < max * 0.25) cut = max
   if (cut < 1) cut = max
   // Back up from a mid-line max cut so we never emit a partial ATX heading.
