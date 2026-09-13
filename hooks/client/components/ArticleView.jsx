@@ -35,7 +35,6 @@ import DeferredMarkdown, {
   cutMarkdownLead,
   isVirtualDeferredSrc,
   DEFERRED_HYDRATE_CHUNK_CHARS,
-  HUGE_ARTICLE_LEAD_CHARS,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
@@ -656,8 +655,8 @@ export default function ArticleView(props) {
                 full = rewriteMarkdownAssetUrls(loaded2.markdownContent, pathPart)
               }
             }
-            if (full.length > HUGE_ARTICLE_LEAD_CHARS) {
-              const cut = cutMarkdownLead(full, HUGE_ARTICLE_LEAD_CHARS)
+            if (full.length > 3000) {
+              const cut = cutMarkdownLead(full, 3000)
               if (cut > 0 && cut < full.length) {
                 frag = full.slice(cut)
                 try {
