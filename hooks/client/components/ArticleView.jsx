@@ -479,12 +479,10 @@ export default function ArticleView(props) {
     pathPart !== 'README.md' && pathPart !== 'index.md' && pathPart.length > 0
 
   // Phases 1–2: do NOT load/walk tip markdown. Soft-hydrate keeps SSR article + TOC
-  // in the DOM; only DirNav/Deferred islands are swapped. Rebuilding MarkdownRenderer
-  // vnodes here freezes the main thread for minutes on large tips.
+  // in the DOM; only DirNav / empty deferred shells are swapped.
   //
-  // Full-SSR articles (no deferred island): stay on this shell for all live phases.
-  // Home / tips with `<DeferredMarkdown>` keep `[data-pt-deferred-ssr]` (or page.md)
-  // and enter the fill path at phase ≥3 only.
+  // Full-SSR articles and SSR-filled deferred (no `[data-pt-deferred-ssr]`): stay on
+  // this shell for all live phases — never re-GET/walk the tip.
   let hasDeferredSsr = false
   if (live === true) {
     try {
@@ -492,8 +490,7 @@ export default function ArticleView(props) {
       if (el) hasDeferredSsr = true
     } catch (eDom) {}
   }
-  const homeDeferred = pathPart === 'page.md' || pathPart === 'index.md'
-  const needsDeferredFill = hasDeferredSsr === true || homeDeferred === true
+  const needsDeferredFill = hasDeferredSsr === true
   if (live === true && isClientLivePhase(3) !== true) {
     return (
       <SiteChrome currentPath={currentPath}>
@@ -747,13 +744,19 @@ export default function ArticleView(props) {
 
   const showArticleBody = errMsg.length > 0 || body.length > 0
 
-  // At phase ≥3, lift deferred content out of the page MD walk.
-  // Find `<DeferredMarkdown` via char-scan (CleverScript indexOf is unreliable).
+  // Lift DeferredMarkdown out of the page MD walk.
+  // SSR: render the tip fragment in full (host MarkdownRenderer) so soft-hydrate
+  // keeps real content — client never re-walks investigations.md.
+  // Live phase ≥3: only fill empty `[data-pt-deferred-ssr]` shells (chunked).
   let mdBefore = body
   let mdAfter = ''
   let deferredIsland = null
   let useDeferredSplit = false
-  if (showArticleBody && live === true && isClientLivePhase(3) === true && errMsg.length === 0) {
+  const doDeferredLift =
+    showArticleBody &&
+    errMsg.length === 0 &&
+    (live !== true || isClientLivePhase(3) === true)
+  if (doDeferredLift === true) {
     let src = 'page-sections/investigations.md'
     let frag = ''
     let attrMinPx = 0
@@ -854,6 +857,28 @@ export default function ArticleView(props) {
         frag = ''
       }
     }
+    // SSR fallback: direct tip blob read (avoid DeferredMarkdown empty shell).
+    if (
+      live !== true &&
+      useDeferredSplit === true &&
+      (!(typeof frag === 'string') || frag.length === 0)
+    ) {
+      try {
+        const rawInv = cachedGet('/' + src)
+        if (
+          typeof rawInv === 'string' &&
+          rawInv.length > 20 &&
+          rawInv.charAt(0) !== '<'
+        ) {
+          frag = rawInv
+          try {
+            frag = rewriteMarkdownAssetUrls(rawInv, src)
+          } catch (eRwSsr) {
+            frag = rawInv
+          }
+        }
+      } catch (eSsrGet) {}
+    }
     // Tip DeferredMarkdown only — do NOT invent a virtual tail on the client.
     // Huge single-file tips are SSR'd in full; soft-hydrate keeps that HTML.
     if (useDeferredSplit === true && isVirtualDeferredSrc(src) === true) {
@@ -865,138 +890,166 @@ export default function ArticleView(props) {
       const fragLen = frag.length
       const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
       const minStyle = deferredMinHeightStyle(minPx)
-      const phase4 = isClientLivePhase(4) === true
-      // CleverScript MD walks are superlinear — never hand the full tail to
-      // MarkdownRenderer with CS anchor/heading/image overrides (multi-minute freeze).
-      let headBudget = DEFERRED_HYDRATE_CHUNK_CHARS
-      if (phase4 === true) {
-        headBudget = DEFERRED_HYDRATE_PHASE4_CHARS
-      }
-      if (!(typeof headBudget === 'number' && headBudget > 0)) {
-        headBudget = 2800
-      }
-      let renderFrag = frag
-      let restFrag = ''
-      let pendingTail = false
-      if (fragLen > headBudget) {
-        let cut2 = headBudget
-        try {
-          cut2 = cutMarkdownLead(frag, headBudget)
-        } catch (eCut) {
-          cut2 = headBudget
-        }
-        if (cut2 < 1) {
-          cut2 = headBudget
-        }
-        if (cut2 > 0 && cut2 < fragLen) {
-          renderFrag = frag.slice(0, cut2)
-          restFrag = frag.slice(cut2)
-          pendingTail = true
-        }
-      }
       const lightOverrides = {
         AutoIndex: EmptyMdStub,
         ChangeLog: EmptyMdStub,
         ChatRoom: EmptyMdStub,
         EmbedFile: EmptyMdStub,
       }
-      const deferOverrides =
-        phase4 === true
-          ? {
-              AutoIndex: renderAutoIndex,
-              ChangeLog: renderChangeLog,
-              ChatRoom: EmptyMdStub,
-              EmbedFile: renderEmbedFile,
-              PopImage: renderPopImage,
-              img: renderPopImage,
-              a: renderMdAnchor,
-              h1: headingOverrides.h1,
-              h2: headingOverrides.h2,
-              h3: headingOverrides.h3,
-              h4: headingOverrides.h4,
-              h5: headingOverrides.h5,
-              h6: headingOverrides.h6,
-            }
-          : lightOverrides
-      // Remainder: at most one more small light chunk at phase ≥4 — never the
-      // full restFrag (investigations.md ~70KB freezes CleverScript for minutes).
-      let restIsland = null
-      if (pendingTail === true && restFrag.length > 0 && phase4 === true) {
-        let restBudget = DEFERRED_HYDRATE_PHASE4_CHARS
-        if (!(typeof restBudget === 'number' && restBudget > 0)) {
-          restBudget = 1600
-        }
-        let restHead = restFrag
-        let restPending = false
-        if (restFrag.length > restBudget) {
-          let cut3 = restBudget
-          try {
-            cut3 = cutMarkdownLead(restFrag, restBudget)
-          } catch (eCut3) {
-            cut3 = restBudget
-          }
-          if (cut3 < 1) cut3 = restBudget
-          if (cut3 > 0 && cut3 < restFrag.length) {
-            restHead = restFrag.slice(0, cut3)
-            restPending = true
-          }
-        }
-        restIsland = (
-          <div data-pt-deferred-rest="1">
+      // SSR: full fragment via host MD (no CS a/h/img overrides). Soft-hydrate keeps it.
+      if (live !== true) {
+        deferredIsland = (
+          <section
+            className="pt-deferred-md"
+            data-pt-deferred="1"
+            aria-label="Deferred section"
+            style={minStyle}
+          >
             <MarkdownRenderer
-              content={restHead}
+              content={frag}
               navigate={(to) => {
                 navigateFile(to)
               }}
               anchorOnClick={(href) => {
                 onMdLinkClick(href)
               }}
-              overrides={lightOverrides}
+              overrides={{
+                AutoIndex: renderAutoIndex,
+                ChangeLog: renderChangeLog,
+                ChatRoom: EmptyMdStub,
+                EmbedFile: renderEmbedFile,
+              }}
             />
-            {restPending === true ? (
-              <section
-                className="pt-deferred-md"
-                aria-label="Deferred section"
-                aria-busy="true"
-                data-pt-deferred-pending="1"
-              />
-            ) : null}
-          </div>
+          </section>
         )
-        pendingTail = restPending
-      } else if (pendingTail === true) {
-        restIsland = (
+      } else {
+        const phase4 = isClientLivePhase(4) === true
+        // CleverScript MD walks are superlinear — never hand the full tail with
+        // CS overrides to MarkdownRenderer (multi-minute freeze).
+        let headBudget = DEFERRED_HYDRATE_CHUNK_CHARS
+        if (phase4 === true) {
+          headBudget = DEFERRED_HYDRATE_PHASE4_CHARS
+        }
+        if (!(typeof headBudget === 'number' && headBudget > 0)) {
+          headBudget = 1600
+        }
+        let renderFrag = frag
+        let restFrag = ''
+        let pendingTail = false
+        if (fragLen > headBudget) {
+          let cut2 = headBudget
+          try {
+            cut2 = cutMarkdownLead(frag, headBudget)
+          } catch (eCut) {
+            cut2 = headBudget
+          }
+          if (cut2 < 1) {
+            cut2 = headBudget
+          }
+          if (cut2 > 0 && cut2 < fragLen) {
+            renderFrag = frag.slice(0, cut2)
+            restFrag = frag.slice(cut2)
+            pendingTail = true
+          }
+        }
+        const deferOverrides =
+          phase4 === true
+            ? {
+                AutoIndex: renderAutoIndex,
+                ChangeLog: renderChangeLog,
+                ChatRoom: EmptyMdStub,
+                EmbedFile: renderEmbedFile,
+                PopImage: renderPopImage,
+                img: renderPopImage,
+                a: renderMdAnchor,
+                h1: headingOverrides.h1,
+                h2: headingOverrides.h2,
+                h3: headingOverrides.h3,
+                h4: headingOverrides.h4,
+                h5: headingOverrides.h5,
+                h6: headingOverrides.h6,
+              }
+            : lightOverrides
+        let restIsland = null
+        if (pendingTail === true && restFrag.length > 0 && phase4 === true) {
+          let restBudget = DEFERRED_HYDRATE_PHASE4_CHARS
+          if (!(typeof restBudget === 'number' && restBudget > 0)) {
+            restBudget = 1600
+          }
+          let restHead = restFrag
+          let restPending = false
+          if (restFrag.length > restBudget) {
+            let cut3 = restBudget
+            try {
+              cut3 = cutMarkdownLead(restFrag, restBudget)
+            } catch (eCut3) {
+              cut3 = restBudget
+            }
+            if (cut3 < 1) cut3 = restBudget
+            if (cut3 > 0 && cut3 < restFrag.length) {
+              restHead = restFrag.slice(0, cut3)
+              restPending = true
+            }
+          }
+          restIsland = (
+            <div data-pt-deferred-rest="1">
+              <MarkdownRenderer
+                content={restHead}
+                navigate={(to) => {
+                  navigateFile(to)
+                }}
+                anchorOnClick={(href) => {
+                  onMdLinkClick(href)
+                }}
+                overrides={lightOverrides}
+              />
+              {restPending === true ? (
+                <section
+                  className="pt-deferred-md"
+                  aria-label="Deferred section"
+                  aria-busy="true"
+                  data-pt-deferred-pending="1"
+                />
+              ) : null}
+            </div>
+          )
+          pendingTail = restPending
+        } else if (pendingTail === true) {
+          restIsland = (
+            <section
+              className="pt-deferred-md"
+              aria-label="Deferred section"
+              aria-busy="true"
+              data-pt-deferred-pending="1"
+            />
+          )
+        }
+        deferredIsland = (
           <section
             className="pt-deferred-md"
+            data-pt-deferred="1"
             aria-label="Deferred section"
-            aria-busy="true"
-            data-pt-deferred-pending="1"
-          />
+            style={pendingTail === true ? minStyle : {}}
+          >
+            <MarkdownRenderer
+              content={renderFrag}
+              navigate={(to) => {
+                navigateFile(to)
+              }}
+              anchorOnClick={(href) => {
+                onMdLinkClick(href)
+              }}
+              overrides={deferOverrides}
+            />
+            {restIsland}
+          </section>
         )
       }
+    } else if (useDeferredSplit === true && live !== true) {
       deferredIsland = (
-        <section
-          className="pt-deferred-md"
-          data-pt-deferred="1"
-          aria-label="Deferred section"
-          style={pendingTail === true ? minStyle : {}}
-        >
-          <MarkdownRenderer
-            content={renderFrag}
-            navigate={(to) => {
-              navigateFile(to)
-            }}
-            anchorOnClick={(href) => {
-              onMdLinkClick(href)
-            }}
-            overrides={deferOverrides}
-          />
-          {restIsland}
-        </section>
+        <DeferredMarkdown src={src} minHeight={attrMinPx > 0 ? attrMinPx : 20500} />
       )
     } else if (useDeferredSplit === true) {
-      // Keep SSR deferred shell — do not soft-hydrate-swap to a tiny pending stub
-      // when the tip fragment has not loaded yet (retry next idle phase).
       deferredIsland = null
     }
   }

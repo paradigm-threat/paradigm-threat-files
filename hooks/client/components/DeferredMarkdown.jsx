@@ -65,8 +65,36 @@ function loadFragment(src) {
     // Tail is seed-only — never tip-GET a missing virtual path.
     return ''
   }
-  // Live hydrate: same tip GET path as ArticleView.loadArticleMarkdown (cachedGet
-  // often returns empty on park/CSR while relative fetch works).
+  // SSR: in-process tip read first (self-HTTP fetch is unavailable / wrong Accept).
+  try {
+    const text = cachedGet('/' + src)
+    if (typeof text === 'string' && text.length > 20 && text.charAt(0) !== '<') {
+      let body = text
+      try {
+        body = rewriteMarkdownAssetUrls(text, src)
+      } catch (eRw0) {
+        body = text
+      }
+      if (typeof body !== 'string' || body.length === 0) body = text
+      deferredWarm[src] = body
+      return body
+    }
+  } catch (eCg0) {}
+  try {
+    const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
+    if (typeof text === 'string' && text.length > 20 && text.charAt(0) !== '<') {
+      let body = text
+      try {
+        body = rewriteMarkdownAssetUrls(text, src)
+      } catch (eRw) {
+        body = text
+      }
+      if (typeof body !== 'string' || body.length === 0) body = text
+      deferredWarm[src] = body
+      return body
+    }
+  } catch (e) {}
+  // Live hydrate: relative tip GET with Accept: text/markdown.
   try {
     const resp = fetch('/' + src + '?v=' + MD_CACHE_BUST, {
       method: 'GET',
@@ -84,7 +112,7 @@ function loadFragment(src) {
         let body = text
         try {
           body = rewriteMarkdownAssetUrls(text, src)
-        } catch (eRw) {
+        } catch (eRw2) {
           body = text
         }
         if (typeof body !== 'string' || body.length === 0) body = text
@@ -93,21 +121,6 @@ function loadFragment(src) {
       }
     }
   } catch (eLive) {}
-  try {
-    const text = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
-    if (typeof text === 'string' && text.length > 0) {
-      let body = text
-      try {
-        body = rewriteMarkdownAssetUrls(text, src)
-      } catch (eRw) {
-        body = text
-      }
-      if (typeof body !== 'string' || body.length === 0) body = text
-      deferredWarm[src] = body
-      return body
-    }
-  } catch (e) {}
-  // Do NOT cache empty — tip fetch may still be in flight on first tick.
   return ''
 }
 
