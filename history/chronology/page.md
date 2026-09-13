@@ -4,7 +4,7 @@
 
 > **TL;DR:** Master hub for an alternate Earth timeline: chronology critics from Hardouin to Fomenko, Rus-Horde “Tartarian” world-empire imagery, Morozov/Velikovsky-style catastrophes, Saturnian cosmology and electric-universe physics, linked investigations, and embedded media.
 
-**Presence in the repo is not endorsement** — [working definition of antisemitism](/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
+**Independent research.** Not affiliated with any employer or university.
 
 **Portal lineage:** [Stonehenge](/history/chronology/stonehenge-quantum-portal-golden-age-and-dark-ages.md) → [Ancient stargates](/history/chronology/ancient-stargates/page.md) → [CERN](/science/cern_portal/page.md).
 
