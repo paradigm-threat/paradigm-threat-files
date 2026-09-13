@@ -177,46 +177,61 @@ export function cutMarkdownLead(text, maxChars) {
   if (typeof text !== 'string' || text.length === 0) return 0
   let max = typeof maxChars === 'number' && maxChars > 0 ? maxChars : HUGE_ARTICLE_LEAD_CHARS
   if (text.length <= max) return text.length
-  const window = text.slice(0, max)
-  // Forward scan for last ATX heading in window. Avoid lastIndexOf(multi-char)
-  // and `=== '\n## '` — CleverScript string equality on multi-char slices has
-  // missed headings and fallen through to a mid-paragraph max cut.
+  // Char-by-char scan only (CleverScript lastIndexOf/slice/=== on multi-char
+  // needles has missed `##` and fallen through to mid-paragraph cuts).
   let cut = -1
-  let pos = 0
-  while (pos < max) {
-    const nl = window.indexOf('\n', pos)
-    if (nl < 0 || nl >= max) break
-    const c1 = window.charAt(nl + 1)
-    const c2 = window.charAt(nl + 2)
-    const c3 = window.charAt(nl + 3)
-    if (c1 === '#' && c2 === '#' && (c3 === ' ' || c3 === '\t')) {
-      cut = nl
-    } else if (cut < 0 && c1 === '#' && (c2 === ' ' || c2 === '\t')) {
-      cut = nl
+  let i = 0
+  while (i < max - 3) {
+    const c0 = text.charAt(i)
+    if (c0 === '\n') {
+      const c1 = text.charAt(i + 1)
+      const c2 = text.charAt(i + 2)
+      const c3 = text.charAt(i + 3)
+      if (c1 === '#' && c2 === '#' && (c3 === ' ' || c3 === '\t')) {
+        cut = i
+      } else if (cut < 0 && c1 === '#' && (c2 === ' ' || c2 === '\t')) {
+        cut = i
+      } else if (c1 === '\n' && cut < 0) {
+        // remember last blank line only until a heading is found
+      }
     }
-    pos = nl + 1
+    i = i + 1
   }
-  if (cut < max * 0.4) {
-    const blank = window.lastIndexOf('\n\n')
-    if (blank >= max * 0.25) cut = blank
+  if (cut < 1) {
+    // Last blank line in window.
+    i = max - 2
+    while (i >= 1) {
+      if (text.charAt(i) === '\n' && text.charAt(i - 1) === '\n') {
+        cut = i - 1
+        break
+      }
+      i = i - 1
+    }
   }
-  if (cut < max * 0.25) {
-    const nl = window.lastIndexOf('\n')
-    if (nl >= 1) cut = nl
+  if (cut < 1) {
+    i = max - 1
+    while (i >= 1) {
+      if (text.charAt(i) === '\n') {
+        cut = i
+        break
+      }
+      i = i - 1
+    }
   }
-  if (cut < max * 0.25) cut = max
   if (cut < 1) cut = max
-  // Back up from a mid-line max cut so we never emit a partial ATX heading.
-  if (cut > 0 && cut < text.length && text.charAt(cut) !== '\n') {
-    const nl = window.lastIndexOf('\n')
-    if (nl >= 1 && nl >= max * 0.2) cut = nl
-  }
-  // If the lead's last line is an ATX heading (`#`…), cut before that line.
+  // Never leave a partial ATX heading as the last lead line.
   if (cut > 0) {
-    const lead = text.slice(0, cut)
-    const lastNl = lead.lastIndexOf('\n')
-    const lastLine = lastNl >= 0 ? lead.slice(lastNl + 1) : lead
-    if (lastLine.length > 0 && lastLine.charAt(0) === '#') {
+    let lastNl = -1
+    i = cut - 1
+    while (i >= 0) {
+      if (text.charAt(i) === '\n') {
+        lastNl = i
+        break
+      }
+      i = i - 1
+    }
+    const lineStart = lastNl >= 0 ? lastNl + 1 : 0
+    if (lineStart < cut && text.charAt(lineStart) === '#') {
       cut = lastNl >= 1 ? lastNl : 0
     }
   }
