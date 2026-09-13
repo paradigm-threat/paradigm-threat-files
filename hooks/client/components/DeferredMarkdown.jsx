@@ -171,18 +171,47 @@ export function parseFirstDeferredMarkdownTag(body) {
 /**
  * Cut huge markdown at a paragraph / heading boundary at or before maxChars.
  * Always returns an index in [1, text.length] (never empty lead if text non-empty).
+ * Never ends mid-line / mid-ATX-heading (avoids SSR `<h2>What hap</h2>` stubs).
  */
 export function cutMarkdownLead(text, maxChars) {
   if (typeof text !== 'string' || text.length === 0) return 0
   let max = typeof maxChars === 'number' && maxChars > 0 ? maxChars : HUGE_ARTICLE_LEAD_CHARS
   if (text.length <= max) return text.length
   const window = text.slice(0, max)
-  let cut = window.lastIndexOf('\n## ')
-  if (cut < max * 0.4) cut = window.lastIndexOf('\n# ')
+  // Prefer last ATX heading boundary. Use slice equality — CleverScript
+  // lastIndexOf(multi-char) has been unreliable and left partial `<h2>What hap`.
+  let cut = -1
+  let i = window.lastIndexOf('\n')
+  while (i >= 0) {
+    if (window.slice(i, i + 4) === '\n## ') {
+      cut = i
+      break
+    }
+    if (cut < 0 && window.slice(i, i + 3) === '\n# ') {
+      cut = i
+      // keep scanning for a closer ## below
+    }
+    i = i === 0 ? -1 : window.lastIndexOf('\n', i - 1)
+  }
   if (cut < max * 0.4) cut = window.lastIndexOf('\n\n')
   if (cut < max * 0.25) cut = window.lastIndexOf('\n')
   // Prefer near the char cap over a tiny lead (early heading + wall of text).
   if (cut < max * 0.25) cut = max
+  if (cut < 1) cut = max
+  // Back up from a mid-line max cut so we never emit a partial ATX heading.
+  if (cut > 0 && cut < text.length && text.charAt(cut) !== '\n') {
+    const nl = window.lastIndexOf('\n')
+    if (nl >= 1 && nl >= max * 0.2) cut = nl
+  }
+  // If the lead's last line is an ATX heading (`#`…), cut before that line.
+  if (cut > 0) {
+    const lead = text.slice(0, cut)
+    const lastNl = lead.lastIndexOf('\n')
+    const lastLine = lastNl >= 0 ? lead.slice(lastNl + 1) : lead
+    if (lastLine.length > 0 && lastLine.charAt(0) === '#') {
+      cut = lastNl >= 1 ? lastNl : 0
+    }
+  }
   if (cut < 1) cut = max
   return cut
 }
@@ -268,6 +297,25 @@ export function prefetchDeferredMarkdown(src) {
  * absolute tipBase GET. Never return empty after a tipBase miss without
  * trying cachedGet.
  */
+/**
+ * Client hydrate: SSR `seedDeferredMarkdown` is process-local and does not cross
+ * to the browser. Re-derive the virtual article tail from the full tip markdown.
+ * @returns {string} seeded tail (or '')
+ */
+export function reseedArticleTailFromMarkdown(fullMarkdown) {
+  let md = typeof fullMarkdown === 'string' ? fullMarkdown : ''
+  if (md.length === 0) return ''
+  if (deferredWarm !== null && typeof deferredWarm[ARTICLE_TAIL_SRC] === 'string') {
+    const hit = deferredWarm[ARTICLE_TAIL_SRC]
+    if (hit.length > 0) return hit
+  }
+  // Force a split even if the tip already contains a DeferredMarkdown tag from a
+  // prior maybeSplit round-trip (lead+tag only — no warm tail).
+  const cut = cutMarkdownLead(md, HUGE_ARTICLE_LEAD_CHARS)
+  if (cut <= 0 || cut >= md.length) return ''
+  return seedDeferredMarkdown(ARTICLE_TAIL_SRC, md.slice(cut))
+}
+
 export function loadDeferredFragment(src, tipBase) {
   let s = src
   if (!s || typeof s !== 'string' || s.length === 0) {
@@ -276,6 +324,7 @@ export function loadDeferredFragment(src, tipBase) {
   if (deferredWarm !== null && typeof deferredWarm[s] === 'string' && deferredWarm[s].length > 0) {
     return deferredWarm[s]
   }
+  // Virtual tails are never tip blobs — do not HTTP GET (404 JSON / HTML shell).
   if (isVirtualDeferredSrc(s)) {
     return ''
   }

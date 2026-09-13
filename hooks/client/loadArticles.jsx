@@ -121,10 +121,12 @@ let homeRowsWarm = null
 function fetchIndexQuery(query, order, limit) {
   let resp = null
   try {
+    // Quoted header keys — CleverScript can drop bare `Accept` identifiers.
     resp = fetch('/', {
       method: 'QUERY',
       headers: {
-        Accept: 'application/json',
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
       },
       body: queryIndexBody(query, limit, order),
     })
@@ -134,6 +136,11 @@ function fetchIndexQuery(query, order, limit) {
   if (!resp || resp.ok !== true) return []
   let text = resp.text ? resp.text : ''
   if (text.length === 0) return []
+  // Park QUERY defaults to CSV when Accept is missing; refuse non-JSON bodies.
+  const trimmed = text.charAt(0) === '\uFEFF' ? text.slice(1) : text
+  if (trimmed.charAt(0) !== '{' && trimmed.charAt(0) !== '[') {
+    return []
+  }
   const data = parseJson(text)
   if (!data || !data.results) return []
   let rows = []
@@ -157,12 +164,15 @@ function takeRows(rows, limit) {
 
 /**
  * Path-ordered catalog rows (`content_kind ≠ exclude`). Shared by DirNav, neighbors, AutoIndex.
- * One QUERY per hydrate session.
+ * Warm only successful non-empty results so a failed first tick can retry.
  */
 export function loadDirCatalogRows() {
-  if (dirRowsWarm !== null) return dirRowsWarm
-  dirRowsWarm = fetchIndexQuery(DIR_QUERY, 'path', 10000)
-  return dirRowsWarm
+  if (dirRowsWarm !== null && dirRowsWarm.length > 0) return dirRowsWarm
+  const rows = fetchIndexQuery(DIR_QUERY, 'path', 10000)
+  if (rows.length > 0) {
+    dirRowsWarm = rows
+  }
+  return rows
 }
 
 /**

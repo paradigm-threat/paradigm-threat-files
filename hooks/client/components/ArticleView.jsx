@@ -30,7 +30,9 @@ import DeferredMarkdown, {
   parseDeferredMinHeightAttr,
   maybeSplitHugeArticleMarkdown,
   prefetchDeferredMarkdown,
+  reseedArticleTailFromMarkdown,
   cutMarkdownLead,
+  isVirtualDeferredSrc,
   DEFERRED_HYDRATE_CHUNK_CHARS,
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
@@ -579,8 +581,27 @@ export default function ArticleView(props) {
             frag = ''
           }
         }
-        // Last resort: raw tip GET if rewrite/warm path failed.
-        if (!(typeof frag === 'string' && frag.length > 0)) {
+        // Virtual article tail: SSR seed is process-local — re-derive from tip.
+        if (
+          !(typeof frag === 'string' && frag.length > 0) &&
+          isVirtualDeferredSrc(src) === true
+        ) {
+          try {
+            const fullRaw = errMsg ? '' : markdownContent
+            const full =
+              typeof fullRaw === 'string' && fullRaw.length > 0
+                ? rewriteMarkdownAssetUrls(fullRaw, pathPart)
+                : ''
+            frag = reseedArticleTailFromMarkdown(full)
+          } catch (eReseed) {
+            frag = ''
+          }
+        }
+        // Last resort for real tip srcs only (never GET __article_tail__).
+        if (
+          !(typeof frag === 'string' && frag.length > 0) &&
+          isVirtualDeferredSrc(src) !== true
+        ) {
           try {
             const rawAgain = cachedGet('/' + src + '?v=' + MD_CACHE_BUST)
             if (typeof rawAgain === 'string' && rawAgain.length > 0) {
@@ -662,13 +683,15 @@ export default function ArticleView(props) {
             </section>
           )
         } else {
+          // Missing fragment: keep a small reserve — do not honor the full-tail
+          // minHeight (can be 8k+ px) or the page looks like a broken empty column.
           deferredIsland = (
             <section
               className="pt-deferred-md"
               aria-label="Deferred section"
               aria-busy="true"
               data-pt-deferred-pending="1"
-              style={minStyle}
+              style={deferredMinHeightStyle(120)}
             />
           )
         }
@@ -685,8 +708,10 @@ export default function ArticleView(props) {
     )
   }
 
-  // SSR: only custom tags that soft-hydrate needs (DeferredMarkdown island).
-  // Native a/h*/img stay on the Rust md2ast→VDOM path (no CS invoke per node).
+  // SSR + early hydrate: custom tags only. Native a/h*/img stay on the Rust
+  // md2ast→VDOM path (CS invoke per node is what freezes mobile on big tips).
+  // Full CS overrides (dead-link anchors, heading ids, PopImage) at phase ≥4.
+  const phase4 = isClientLivePhase(4) === true
   let articleOverrides = {
     AutoIndex: EmptyMdStub,
     ChangeLog: EmptyMdStub,
@@ -694,7 +719,16 @@ export default function ArticleView(props) {
     ChatRoom: EmptyMdStub,
     EmbedFile: EmptyMdStub,
   }
-  if (live) {
+  if (live && phase4 !== true) {
+    articleOverrides = {
+      AutoIndex: isClientLivePhase(3) === true ? renderAutoIndex : EmptyMdStub,
+      ChangeLog: isClientLivePhase(3) === true ? renderChangeLog : EmptyMdStub,
+      DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
+      ChatRoom: EmptyMdStub,
+      EmbedFile: isClientLivePhase(3) === true ? renderEmbedFile : EmptyMdStub,
+    }
+  }
+  if (live && phase4 === true) {
     articleOverrides = {
       AutoIndex: renderAutoIndex,
       ChangeLog: renderChangeLog,
