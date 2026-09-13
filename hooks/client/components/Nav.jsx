@@ -18,8 +18,8 @@ import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 import { archiveBannerHref } from 'hooks/client/legacyAppHref.js'
 
-const WORDMARK_URL = '/site/header.png'
-const MARK_URL = '/site/favicon.svg'
+const WORDMARK_PATH = '/site/header.png'
+const MARK_PATH = '/site/favicon.svg'
 const FONT_STYLESHEET =
   'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=swap'
 
@@ -254,9 +254,9 @@ export default function Nav(props) {
           <div className="pt-nav-brand-row">
             <a href={siteHref('/')} className="pt-brand pt-brand-link">
               <picture>
-                <source media="(max-width: 350px)" srcSet={MARK_URL} />
+                <source media="(max-width: 350px)" srcSet={siteHref(MARK_PATH)} />
                 <img
-                  src={WORDMARK_URL}
+                  src={siteHref(WORDMARK_PATH)}
                   alt="Paradigm Threat"
                   className="pt-brand-img md:pt-brand-img-md"
                   width={1146}
