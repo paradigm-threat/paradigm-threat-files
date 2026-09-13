@@ -32,8 +32,12 @@ const BYTES_PER_PX = 3.7
  */
 export const ARTICLE_TAIL_SRC = 'page-sections/__article_tail__.md'
 
-/** Soft cap for SSR lead when auto-splitting a huge tip without DeferredMarkdown. */
-export const HUGE_ARTICLE_LEAD_CHARS = 12000
+/**
+ * Soft cap for SSR lead when auto-splitting a huge tip without DeferredMarkdown.
+ * CleverScript MD walks are superlinear (~3KB≈1s, ~4KB≈3s on fleet); keep lead
+ * near home `page.md` so Accept:text/html finishes under RELAY_SSR_TIMEOUT_SECS.
+ */
+export const HUGE_ARTICLE_LEAD_CHARS = 3000
 
 let deferredWarm = null
 
@@ -184,46 +188,46 @@ export function cutMarkdownLead(text, maxChars) {
  * If tip is huge and has no DeferredMarkdown, rewrite to lead + virtual tail island.
  * Seeds {@link ARTICLE_TAIL_SRC} when tail is non-empty. Idempotent if already split.
  *
- * @returns {{ markdown: string, didSplit: boolean, tailLen: number }}
+ * Returns the markdown string to render (unchanged if no split). CleverScript:
+ * do not return `{ didSplit, markdown }` — property reads on hook objects often
+ * fail silently and the full tip walked forever past RELAY_SSR_TIMEOUT_SECS.
+ *
+ * @returns {string}
  */
 export function maybeSplitHugeArticleMarkdown(markdown, pathPart, maxLeadChars) {
   let md = typeof markdown === 'string' ? markdown : ''
   if (md.length === 0) {
-    return { markdown: md, didSplit: false, tailLen: 0 }
+    return md
   }
   if (parseFirstDeferredMarkdownTag(md) !== null) {
-    return { markdown: md, didSplit: false, tailLen: 0 }
+    return md
   }
   const leadMax =
     typeof maxLeadChars === 'number' && maxLeadChars > 0
       ? maxLeadChars
       : HUGE_ARTICLE_LEAD_CHARS
   // Auto-split when over the SSR lead budget so Accept:text/html stays within
-  // RELAY_SSR_TIMEOUT_SECS (full CleverScript MD walks on 15–40KB tips were 45–120s).
+  // RELAY_SSR_TIMEOUT_SECS (full CleverScript MD walks on 15–40KB tips hang).
   if (md.length <= leadMax) {
-    return { markdown: md, didSplit: false, tailLen: 0 }
+    return md
   }
   const cut = cutMarkdownLead(md, leadMax)
   if (cut <= 0 || cut >= md.length) {
-    return { markdown: md, didSplit: false, tailLen: 0 }
+    return md
   }
   const lead = md.slice(0, cut)
   // Caller already rewrote asset URLs on `md`; do not rewrite the tail again.
   const tail = md.slice(cut)
   seedDeferredMarkdown(ARTICLE_TAIL_SRC, tail)
   const minPx = estimateDeferredMinHeightPx(ARTICLE_TAIL_SRC, tail.length, 0)
-  const out =
+  return (
     lead +
     '\n\n<DeferredMarkdown src="' +
     ARTICLE_TAIL_SRC +
     '" minHeight="' +
     minPx +
     'px" />\n'
-  return {
-    markdown: out,
-    didSplit: true,
-    tailLen: tail.length,
-  }
+  )
 }
 
 /** Seed warm cache from a string already loaded by the caller (e.g. sync fetch). */

@@ -402,11 +402,12 @@ export default function ArticleView(props) {
 
   // Huge single-file tips (no tip DeferredMarkdown): SSR lead + virtual tail
   // island instead of blanking the whole body (avoids soft-hydrate wipe).
+  // maybeSplit returns a string (CleverScript-safe — not { didSplit, markdown }).
   if (!errMsg && typeof body === 'string' && body.length > 0) {
     try {
-      const split = maybeSplitHugeArticleMarkdown(body, pathPart)
-      if (split && split.didSplit === true && typeof split.markdown === 'string') {
-        body = split.markdown
+      const splitMd = maybeSplitHugeArticleMarkdown(body, pathPart)
+      if (typeof splitMd === 'string' && splitMd.length > 0) {
+        body = splitMd
       }
     } catch (eHuge) {}
   }
