@@ -152,6 +152,8 @@ Some academic papers call China’s fast rule-making on tech and AI **agile gove
 
 ## The prophecy came true
 
+![Crichton's Warning — and What Arrived: 1994 Disclosure office vs 2020s Agile workplace OS](https://paradigmthreat.net/science/computing/crichtons-warning.png)
+
 Crichton’s warning was not a fortune cookie. It was a product floor: delete the captain, let counsel and hallway power run the room, and the machine that was supposed to ship — and the backups people trusted — start to fail in ways nobody planned to live with.
 
 Look at optical media in **2025–2026**. In Crichton’s book, Conley-White’s Nichols says DigiCom is “looking down the barrel at competition from **Sony** and **Philips**.” A generation later those names still sit on the optical stack — and the stack is collapsing. [Sony stopped making recordable Blu-ray blanks in Japan](https://www.theverge.com/2025/1/24/24350993/sony-recordable-blu-ray-end-production-no-successor) with no successor line. [Pioneer ended computer Blu-ray drive production](https://www.techpowerup.com/336803/pioneer-has-ended-production-of-computer-blu-ray-drives-transfers-pddm-business-to-shanxi-group) and sold the business off. Buffalo and Elecom pulled or scheduled the end of whole external Blu-ray drive lines; LG walked away from standalone players. It was the worst possible outcome: competitive makers for the **writable** path — the offline, non-magnetic archive people actually burned for decades — competitive players continue exiting. Remnant OEM mechanisms and a thin Verbatim / I-O Data pledge do not restore a cheap, reliable mass market. The cheap default is still the hard drive. Hard drives are magnetic. They erase easier — solar flare, EMP, bad power, bit rot you never notice until restore day. Optical was supposed to be the dumb, offline shelf that survived that. If the drives that can still read yesterday’s burned Blu-rays go scarce, expensive, or inconsistent, then people in **2026** who tried to keep massive offline archives off the cloud and off magnets do not have a cheap reliable path anymore. Product breakdown. Competition starved. Unpredictable results for anyone who thought the disc would outlive the politics. That is Crichton's prophecy written on consumer hardware.
@@ -172,7 +174,11 @@ The rest of the prophecy already showed up in clothes he named. Accusation clima
 
 Keywords: #Crichton #Disclosure #DigiCom #Twinkle #Masters #FamilyElimination #AccusationClimate #ProtectionistFeminism #Nintendo #Sony #Philips #SNESCD #Agile #Scrum #AgileManifesto #CommunistManifesto #Leadership #Iacocca #RisingSun #Communism #RearForce #UntitledPower #PuppetLeaders #Stalin #Fascism #OSS #SAFEHAVEN #CIA #GreatDepression #MooresLaw #Spaceballs #CorporateAI #BluRay #OpticalArchive #OfflineBackup #China #AgileGovernance #ResponsiveAuthoritarianism #NSA #Snowbird #ParadigmThreat #AU057
 
-**Last updated:** 2026-09-13T08:56:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/crichtons-prophecy](https://paradigmthreat2.substack.com/p/crichtons-prophecy)
+
+**LinkedIn:** [Crichton's Prophecy — Ari Asulin](https://www.linkedin.com/pulse/crichtons-prophecy-ari-asulin-j1sye/)
+
+**Last updated:** 2026-09-13T09:22:00-04:00
 
 ---
 
