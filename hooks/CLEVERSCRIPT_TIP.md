@@ -4,6 +4,8 @@ Hard rules for **SSR site-shell** hooks on this repo. Breaking them has taken th
 
 **Direction:** CleverScript is **routing and composition**. Heavy lift (parse, catalog, dates, path, search, image/IPFS, SSR document assembly) stays in **Rust** `@relay/*` / gateway natives. Do not grow tip-local libraries — extract a host helper and add a regression test. Canon: `relay-gateway/docs/CS_HOST_HELPERS.md`.
 
+**Component testing:** prove DirNav / Nav / handlers with **vnode + `invoke_handler`** in relay-runtime first (OS smoke second). Canon: [`relay-runtime/docs/CLEVERSCRIPT_COMPONENT_TESTING.md`](../../../relay/relay-runtime/docs/CLEVERSCRIPT_COMPONENT_TESTING.md).
+
 **Local hardening (before fleet push):** `relay-gateway/scripts/park-local.sh` + [`docs/RELAY_PARK_HARDENING.md`](../docs/RELAY_PARK_HARDENING.md).
 
 **Perf strategy catalog** (SSR/hydrate lessons, tip phase gates, `RELAY_PERF_*`): [`relay-runtime/docs/PERF_FEATURE_FLAGS.md`](../../../relay/relay-runtime/docs/PERF_FEATURE_FLAGS.md). Prefer named strategies over deleting alternate paths.
@@ -48,7 +50,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - **`document` / `setInterval`** are injected builtins (WASM DOM host; SSR stubs). Available when needed: `querySelector` / `querySelectorAll`, DomNode attrs / `scrollIntoView` / `getBoundingClientRect`, `getElementById`. Prefer host-agnostic paths (e.g. content-derived TOC) over Dom scraping.
 - Theme CSS is **pruned to used `className`s** — keep a hidden marker vnode for classes only needed after client interaction (e.g. gallery overlay). TOC markers live in **`SiteChrome`** so home → article soft-nav still has `lg:pt-toc-lg` (otherwise TOC stays `display:none`).
 - **TOC is content-derived and host/OS-agnostic** — `@relay/catalog.extractMarkdownHeadings` (tip thin wrap) walks the markdown string (ATX + fence skip); `makeHeadingOverrides` stamps matching `id`s on `h1`–`h6`; `DynamicIndex` nests via `@relay/catalog.nestTocItems` and renders `#id` links. Hash active is `data-pt-toc-active` (hashchange `setAttribute` only — no `setState`). **Do not** rebuild the TOC via `querySelector` / Dom poll / scroll-spy geometry.
-- **Directory expand** uses `data-pt-open="0"|"1"` (and `data-pt-showall`) + CSS — not `<details open>` (cannot remove `open`) and not `setState`. Host: QUERY catalog rows → `@relay/catalog.buildDirTree` + `dirExpandPaths(currentRel)` for ancestor folders.
+- **Directory expand** — hydrate QUERY → `@relay/catalog.buildDirTree` + `dirExpandPaths(currentRel)` for ancestors; **chevron / Collapse / Expand to current** use `useState` so children **remount** (do not rely on DOM class toggles alone). Themed open/active still uses `pt-dir-kids-open` / row/file active classes. Not `<details open>` (cannot remove `open`). Layer-1 tests: [`CLEVERSCRIPT_COMPONENT_TESTING.md`](../../../relay/relay-runtime/docs/CLEVERSCRIPT_COMPONENT_TESTING.md).
 - **Heading override callables must not be named `h1`…`h6`** — CleverScript JSX can resolve those lowercase tags to the local binding and recurse until “Maximum recursion depth exceeded”. Name them `renderHeading1`, etc.
 - **Anchor override callables must not be named `a`** — same JSX shadowing risk. Name them `renderMdAnchor` (or similar) and look up dead hrefs with `@relay/path.lookupHttpHref`.
 - **New tip modules must be listed in `hooks.json`** — CSR hydrate only prefetches that manifest (SSR follows imports). Missing entries → `Module not found: hooks/...` hydration error with static shell left below.
