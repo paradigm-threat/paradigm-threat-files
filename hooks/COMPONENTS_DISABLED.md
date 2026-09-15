@@ -5,6 +5,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | Component | Status | Notes |
 |-----------|--------|-------|
 | AutoIndex | **shipped** | `MarkdownRenderer overrides.AutoIndex`; styles in theme.yaml |
+| DirectoryIndex | **shipped** | Missing `page.md` hub → Categories/Documents from warm `loadDirTree` |
 | DirNav | **shipped** | Full tree via hydrate QUERY + `@relay/catalog.buildDirTree`; collapsed except current ancestors (`data-pt-open`); Collapse all / Expand to current; file cap 12; Feeling Lucky below tree; **outside `<main>`** so Reader View skips it |
 | ChangeLog | **shipped** | Theme-aware card/feed; CSS radio tabs; default limit 8 on home |
 | ThemeToggle | **shipped** | Post-`isClientLive` without SSR flicker |

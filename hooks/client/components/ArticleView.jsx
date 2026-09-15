@@ -22,6 +22,11 @@ import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import { share } from 'hooks/client/shareStore.jsx'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
+import DirectoryIndex, {
+  autoIndexDirFromPath,
+  resolveDirectoryIndexDir,
+  shouldTryDirectoryIndex,
+} from 'hooks/client/components/DirectoryIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
 import DeferredMarkdown, {
   loadDeferredFragment,
@@ -165,25 +170,60 @@ function indexOfDeferredMarkdownTag(s) {
 /**
  * Tip-safe article load (P0). SSR: RepoFetchHost in-process git. CSR: tip GET + CDN bust.
  * Prefer cachedGet over same-Host fetch during SSR (deadlock).
- * Pretty paths without `.md` retry with `.md` appended.
+ * Candidates match old CatchAll: as-is; `foo.md` also tries `foo/page.md`; extensionless → both.
  */
+function looksLikeGatewayMissingJson(text) {
+  if (typeof text !== 'string' || text.length < 8) return false
+  if (text.charAt(0) !== '{') return false
+  // Park/API soft-404 JSON must not count as markdown (would skip DirectoryIndex).
+  if (text.indexOf('"ok":false') >= 0) return true
+  if (text.indexOf('"status":"not_found"') >= 0) return true
+  return false
+}
+
+function isUsableMarkdownText(text) {
+  if (typeof text !== 'string' || text.length === 0) return false
+  if (text.charAt(0) === '<') return false
+  if (looksLikeGatewayMissingJson(text)) return false
+  return true
+}
+
 function loadArticleMarkdown(pathPart) {
   const slash = pathPart.lastIndexOf('/')
   const base = slash >= 0 ? pathPart.slice(slash + 1) : pathPart
-  const withMd =
-    base.length > 0 && base.indexOf('.') < 0 ? pathPart + '.md' : pathPart
-  // CleverScript: no Array.push — fixed candidate list.
-  const cand0 = pathPart
-  const cand1 = withMd
-  const nCand = cand0 === cand1 ? 1 : 2
+  const hasExt = base.length > 0 && base.indexOf('.') >= 0
+  // CleverScript: no Array.push — fixed candidate list (max 2).
+  let cand0 = pathPart
+  let cand1 = ''
+  let nCand = 1
+  if (
+    hasExt &&
+    base.length > 3 &&
+    base.slice(base.length - 3) === '.md' &&
+    base !== 'page.md' &&
+    base !== 'README.md' &&
+    base !== 'index.md'
+  ) {
+    const stem = pathPart.slice(0, pathPart.length - 3)
+    cand0 = pathPart
+    cand1 = stem + '/page.md'
+    nCand = 2
+  } else if (!hasExt) {
+    cand0 = pathPart + '.md'
+    cand1 = pathPart + '/page.md'
+    nCand = 2
+  }
   const live = isClientLive() === true
 
   // Live hydrate: fetch tip as markdown. Always send Accept: text/markdown —
   // browsers default Accept: text/html and the gateway then SSR-renders the
   // .md path as a full HTML document (breaks DeferredMarkdown discovery).
+  let liveMissStatus = 0
+  let liveTried = false
   if (live) {
     for (let j = 0; j < nCand; j++) {
       const cand = j === 0 ? cand0 : cand1
+      if (cand.length === 0) continue
       const paths = ['/' + cand + '?v=' + MD_CACHE_BUST]
       for (let pi = 0; pi < 2; pi++) {
         try {
@@ -202,15 +242,14 @@ function loadArticleMarkdown(pathPart) {
                   },
                 }
           const resp = fetch(paths[0], opts)
+          liveTried = true
           if (resp && resp.ok === true) {
             const text = resp.text ? resp.text : ''
-            if (
-              typeof text === 'string' &&
-              text.length > 20 &&
-              text.charAt(0) !== '<'
-            ) {
+            if (isUsableMarkdownText(text) && text.length > 20) {
               return { markdownContent: text, errMsg: '', resolvedPath: cand }
             }
+          } else if (resp && resp.status) {
+            liveMissStatus = resp.status
           }
         } catch (eLive) {}
       }
@@ -219,17 +258,23 @@ function loadArticleMarkdown(pathPart) {
 
   for (let i = 0; i < nCand; i++) {
     const cand = i === 0 ? cand0 : cand1
+    if (cand.length === 0) continue
     const rel = '/' + cand + '?v=' + MD_CACHE_BUST
     try {
       const text = cachedGet(rel)
-      if (
-        typeof text === 'string' &&
-        text.length > 0 &&
-        text.charAt(0) !== '<'
-      ) {
+      if (isUsableMarkdownText(text)) {
         return { markdownContent: text, errMsg: '', resolvedPath: cand }
       }
     } catch (e) {}
+  }
+
+  // After live GETs all missed, do not pretend cached error JSON is tip markdown.
+  if (live === true && liveTried === true && liveMissStatus > 0) {
+    return {
+      markdownContent: '',
+      errMsg: 'Could not load file (HTTP ' + liveMissStatus + ')',
+      resolvedPath: pathPart,
+    }
   }
 
   // CSR fallback when cachedGet empty (older hosts): absolute tip URL.
@@ -244,6 +289,7 @@ function loadArticleMarkdown(pathPart) {
     }
     for (let j = 0; j < nCand; j++) {
       const cand = j === 0 ? cand0 : cand1
+      if (cand.length === 0) continue
       const url = baseStr + '/' + cand + '?v=' + MD_CACHE_BUST
       const resp = fetch(url, {
         method: 'GET',
@@ -253,7 +299,7 @@ function loadArticleMarkdown(pathPart) {
       })
       if (resp && resp.ok === true) {
         const text = resp.text ? resp.text : ''
-        if (typeof text === 'string' && text.charAt(0) !== '<') {
+        if (isUsableMarkdownText(text)) {
           return {
             markdownContent: text,
             errMsg: '',
@@ -484,14 +530,43 @@ export default function ArticleView(props) {
   // Full-SSR articles and SSR-filled deferred (no `[data-pt-deferred-ssr]`): stay on
   // this shell for all live phases — never re-GET/walk the tip.
   let hasDeferredSsr = false
+  // DirectoryIndex SSR is a placeholder (not full tip HTML) — must fill at phase ≥3.
+  let hasDirIndexSsr = false
   if (live === true) {
     try {
       const el = document.querySelector('[data-pt-deferred-ssr]')
       if (el) hasDeferredSsr = true
     } catch (eDom) {}
+    try {
+      const di = document.querySelector(
+        '[data-pt-dir-index-page],[data-pt-autoindex-ssr]',
+      )
+      if (di) hasDirIndexSsr = true
+    } catch (eDi) {}
   }
   const needsDeferredFill = hasDeferredSsr === true
+  // Also SPA: warm tree kids under hub path → skip ssr-keep so miss can become DirectoryIndex.
+  let needsDirIndexFill = hasDirIndexSsr === true
+  if (
+    live === true &&
+    needsDirIndexFill !== true &&
+    isClientLivePhase(2) === true
+  ) {
+    try {
+      if (resolveDirectoryIndexDir(pathPart).length > 0) {
+        needsDirIndexFill = true
+      }
+    } catch (eRes) {}
+  }
+  // Soft-hydrate: keep SSR article / DirectoryIndex placeholder until phase 3.
+  // DirNav warms catalog at phase 2; missing page.md fills DirectoryIndex at phase 3.
+  // Dir-index routes must keep a matching DirectoryIndex vnode (not an empty
+  // aria-hidden shell) so replaceSsrPlaceholdersFromVnode can swap the island.
   if (live === true && isClientLivePhase(3) !== true) {
+    let earlyDirPath = ''
+    if (hasDirIndexSsr === true || shouldTryDirectoryIndex(pathPart) === true) {
+      earlyDirPath = autoIndexDirFromPath(pathPart)
+    }
     return (
       <SiteChrome currentPath={currentPath}>
         <div className="pt-page pt-article-page">
@@ -507,12 +582,29 @@ export default function ArticleView(props) {
                   navigateFile('page.md')
                 }}
               >
-                <div
-                  className="pt-md"
-                  data-pt-article="1"
-                  data-pt-article-phase="early"
-                  aria-hidden="true"
-                />
+                {earlyDirPath.length > 0 ? (
+                  <div
+                    className="pt-md"
+                    data-pt-article="1"
+                    data-pt-dir-index-page="1"
+                    data-pt-article-phase="early"
+                  >
+                    <DirectoryIndex path={earlyDirPath} />
+                    <span
+                      aria-hidden="true"
+                      hidden={true}
+                      className="pt-dir-index pt-dir-index-title pt-dir-index-heading pt-dir-index-list pt-dir-index-item pt-dir-index-cat pt-dir-index-doc pt-dir-index-section pt-dir-index-body pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item"
+                      data-pt-md-css="true"
+                    />
+                  </div>
+                ) : (
+                  <div
+                    className="pt-md"
+                    data-pt-article="1"
+                    data-pt-article-phase="early"
+                    aria-hidden="true"
+                  />
+                )}
               </Layout>
             </main>
             <DirNav currentPath={currentPath} />
@@ -524,7 +616,12 @@ export default function ArticleView(props) {
       </SiteChrome>
     )
   }
-  if (live === true && needsDeferredFill !== true) {
+  // Full tip SSR (no deferred islands, no DirectoryIndex placeholder): keep shell.
+  if (
+    live === true &&
+    needsDeferredFill !== true &&
+    needsDirIndexFill !== true
+  ) {
     return (
       <SiteChrome currentPath={currentPath}>
         <div className="pt-page pt-article-page">
@@ -565,6 +662,19 @@ export default function ArticleView(props) {
   const loaded = loadArticleMarkdown(pathPart)
   let markdownContent = loaded.markdownContent
   let errMsg = loaded.errMsg
+  // Missing page.md (or foo.md) with catalog children → directory index (not Error).
+  let dirIndexPath = ''
+  if (errMsg && errMsg.length > 0) {
+    try {
+      dirIndexPath = resolveDirectoryIndexDir(pathPart)
+    } catch (eDir) {
+      dirIndexPath = ''
+    }
+    if (dirIndexPath.length > 0) {
+      errMsg = ''
+      markdownContent = ''
+    }
+  }
 
   // Warm home investigations as early as possible on the fill path (network + cache).
   let homeInvWarm = ''
@@ -586,8 +696,11 @@ export default function ArticleView(props) {
   }
 
   const rawBody = errMsg ? '# Error\n\n' + errMsg : markdownContent
-  let body = errMsg ? rawBody : rewriteMarkdownAssetUrls(rawBody, pathPart)
-  const shareMd = errMsg ? '' : body
+  let body = rawBody
+  if (!errMsg && dirIndexPath.length === 0) {
+    body = rewriteMarkdownAssetUrls(rawBody, pathPart)
+  }
+  const shareMd = errMsg || dirIndexPath.length > 0 ? '' : body
   // TOC: SSR already shipped the real index. On live, soft-hydrate does not
   // replace TOC — skip host extract + DynamicIndex rebuild (saves phase-3 time).
   let tocItems = []
@@ -680,6 +793,8 @@ export default function ArticleView(props) {
   } catch (e2) {}
   const prevHref = prevPath.length > 0 ? siteHref('/' + prevPath) : ''
   const nextHref = nextPath.length > 0 ? siteHref('/' + nextPath) : ''
+  const layoutFilePath =
+    dirIndexPath.length > 0 ? dirIndexPath + '/page.md' : pathPart
   const hideToolbar =
     pathPart === 'page.md' ||
     pathPart === 'README.md' ||
@@ -704,8 +819,9 @@ export default function ArticleView(props) {
       })
     } catch (eShare) {}
   }
-  // Home (page.md) and articles share content-derived TOC; skip bare index stubs.
+  // Home (page.md) and articles share content-derived TOC; skip bare index stubs + dir hubs.
   const showToc =
+    dirIndexPath.length === 0 &&
     pathPart !== 'README.md' &&
     pathPart !== 'index.md' &&
     pathPart.length > 0
@@ -742,7 +858,8 @@ export default function ArticleView(props) {
     )
   }
 
-  const showArticleBody = errMsg.length > 0 || body.length > 0
+  const showArticleBody =
+    errMsg.length > 0 || body.length > 0 || dirIndexPath.length > 0
 
   // Lift DeferredMarkdown out of the page MD walk.
   // SSR: render the tip fragment in full (host MarkdownRenderer) so soft-hydrate
@@ -755,6 +872,7 @@ export default function ArticleView(props) {
   const doDeferredLift =
     showArticleBody &&
     errMsg.length === 0 &&
+    dirIndexPath.length === 0 &&
     (live !== true || isClientLivePhase(3) === true)
   if (doDeferredLift === true) {
     let src = 'page-sections/investigations.md'
@@ -1108,7 +1226,7 @@ export default function ArticleView(props) {
         <div className="pt-columns lg:pt-columns-lg">
           <main className="pt-column-main lg:pt-column-main-lg">
             <Layout
-              filePath={pathPart}
+              filePath={layoutFilePath}
               hideToolbar={hideToolbar}
               onUp={() => {
                 navigateFile(parentDir(routePath))
@@ -1117,7 +1235,21 @@ export default function ArticleView(props) {
                 navigateFile('page.md')
               }}
             >
-              {showArticleBody ? (
+              {dirIndexPath.length > 0 ? (
+                <div
+                  className="pt-md"
+                  data-pt-article="1"
+                  data-pt-dir-index-page="1"
+                >
+                  <DirectoryIndex path={dirIndexPath} />
+                  <span
+                    aria-hidden="true"
+                    hidden={true}
+                    className="pt-dir-index pt-dir-index-title pt-dir-index-heading pt-dir-index-list pt-dir-index-item pt-dir-index-cat pt-dir-index-doc pt-dir-index-section pt-dir-index-body pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item"
+                    data-pt-md-css="true"
+                  />
+                </div>
+              ) : showArticleBody ? (
                 live ? (
                   <div className="pt-md" data-pt-article="1">
                     {/* Soft-hydrate keeps the SSR lead in the DOM; only the

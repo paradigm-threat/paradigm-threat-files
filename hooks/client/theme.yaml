@@ -1797,6 +1797,31 @@ themes:
         textDecoration: "none"
       ".pt-autoindex-item a:hover":
         textDecoration: "underline"
+      ".pt-dir-index":
+        margin: "0.5rem 0 1.5rem"
+      ".pt-dir-index-title":
+        margin: "0 0 1rem"
+        fontSize: "1.75rem"
+        fontWeight: "800"
+        textTransform: "capitalize"
+      ".pt-dir-index-heading":
+        margin: "1.25rem 0 0.75rem"
+        fontSize: "1.125rem"
+        fontWeight: "700"
+        textTransform: "uppercase"
+        letterSpacing: "0.04em"
+      ".pt-dir-index-list":
+        listStyle: "none"
+        margin: 0
+        padding: 0
+      ".pt-dir-index-item":
+        margin: "0 0 0.4rem"
+        fontSize: "0.9375rem"
+      ".pt-dir-index-item a":
+        color: "var(primary)"
+        textDecoration: "none"
+      ".pt-dir-index-item a:hover":
+        textDecoration: "underline"
       ".pt-cl-cards":
         display: "flex"
         flexDirection: "column"
