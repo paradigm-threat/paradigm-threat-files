@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { dirExpandPaths } from '@relay/catalog'
 import { includes } from '@relay/util'
 import { propStr } from 'hooks/client/propOr.jsx'
-import { loadDirCatalogRows, loadDirTree, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
+import { loadDirTree, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
   IconChevronDownSm,
@@ -32,82 +32,27 @@ function pathIsActive(folderPath, currentRel) {
   return false
 }
 
-function findDirNode(path) {
-  let nodes = []
-  try {
-    nodes = document.querySelectorAll('[data-pt-dir-node]')
-  } catch (e) {
-    return null
-  }
-  if (!nodes) return null
-  let n = 0
-  try {
-    n = nodes.length
-  } catch (e2) {
-    return null
-  }
-  for (let i = 0; i < n; i++) {
-    const el = nodes[i]
-    let p = ''
-    try {
-      p = el.getAttribute('data-pt-path')
-    } catch (e3) {}
-    if (p === path) return el
-  }
-  return null
-}
-
-function setDirOpen(el, openVal) {
-  try {
-    el.setAttribute('data-pt-open', openVal)
-    el.setAttribute('aria-expanded', openVal)
-  } catch (e) {}
-  // Themed-styler only emits simple class selectors — toggle open/closed via
-  // classes (attribute / descendant selectors are ignored).
-  let kids = null
-  let openIcon = null
-  let closedIcon = null
-  try {
-    kids = el.querySelector('.pt-dir-kids')
-  } catch (eKids) {}
-  try {
-    openIcon = el.querySelector('.pt-dir-chevron-open')
-  } catch (eOpen) {}
-  try {
-    closedIcon = el.querySelector('.pt-dir-chevron-closed')
-  } catch (eClosed) {}
-  if (openVal === '1') {
-    try {
-      if (kids) kids.setAttribute('class', 'pt-dir-kids pt-dir-kids-open')
-    } catch (eK1) {}
-    try {
-      if (openIcon) openIcon.setAttribute('class', 'pt-dir-chevron-open pt-dir-chevron-open-on')
-    } catch (eO1) {}
-    try {
-      if (closedIcon) {
-        closedIcon.setAttribute('class', 'pt-dir-chevron-closed pt-dir-chevron-closed-off')
-      }
-    } catch (eC1) {}
-  } else {
-    try {
-      if (kids) kids.setAttribute('class', 'pt-dir-kids')
-    } catch (eK0) {}
-    try {
-      if (openIcon) openIcon.setAttribute('class', 'pt-dir-chevron-open')
-    } catch (eO0) {}
-    try {
-      if (closedIcon) closedIcon.setAttribute('class', 'pt-dir-chevron-closed')
-    } catch (eC0) {}
-  }
-}
-
 function pathMatchesCurrent(filePath, currentRel) {
   if (!filePath || !currentRel) return false
   if (filePath === currentRel) return true
-  // Pretty URL without .md vs tip path with extension.
   if (currentRel + '.md' === filePath) return true
   if (filePath + '.md' === currentRel) return true
   return false
+}
+
+function pathListHas(list, path) {
+  return includes(list, path) === true
+}
+
+function pathListToggle(list, path) {
+  if (pathListHas(list, path)) {
+    let next = []
+    for (let i = 0; i < list.length; i++) {
+      if (list[i] !== path) next = next.concat([list[i]])
+    }
+    return next
+  }
+  return list.concat([path])
 }
 
 function scrollActiveDirFileIntoView() {
@@ -125,94 +70,23 @@ function scrollActiveDirFileIntoView() {
   } catch (e2) {}
 }
 
-function toggleDirOpen(path) {
-  const el = findDirNode(path)
-  if (!el) return
-  let cur = '0'
+function seedExpandPaths(currentRel) {
+  let paths = []
   try {
-    cur = el.getAttribute('data-pt-open')
+    paths = dirExpandPaths(currentRel)
   } catch (e) {}
-  const next = cur === '1' ? '0' : '1'
-  setDirOpen(el, next)
-}
-
-function collapseAllDirs() {
-  let nodes = []
-  try {
-    nodes = document.querySelectorAll('[data-pt-dir-node]')
-  } catch (e) {
-    return
-  }
-  if (!nodes) return
-  let n = 0
-  try {
-    n = nodes.length
-  } catch (e2) {
-    return
-  }
-  for (let i = 0; i < n; i++) {
-    const el = nodes[i]
-    setDirOpen(el, '0')
-    try {
-      el.setAttribute('data-pt-showall', '0')
-    } catch (e3) {}
-  }
-}
-
-function expandDirsToCurrent() {
-  let nodes = []
-  try {
-    nodes = document.querySelectorAll('[data-pt-dir-node]')
-  } catch (e) {
-    return
-  }
-  if (!nodes) return
-  let n = 0
-  try {
-    n = nodes.length
-  } catch (e2) {
-    return
-  }
-  for (let i = 0; i < n; i++) {
-    const el = nodes[i]
-    let want = '0'
-    try {
-      const ex = el.getAttribute('data-pt-expand')
-      if (ex === '1') want = '1'
-    } catch (e3) {}
-    setDirOpen(el, want)
-    try {
-      el.setAttribute('data-pt-showall', '0')
-    } catch (e4) {}
-  }
-  scrollActiveDirFileIntoView()
-}
-
-function toggleDirShowAll(path) {
-  const el = findDirNode(path)
-  if (!el) return
-  let cur = '0'
-  try {
-    cur = el.getAttribute('data-pt-showall')
-  } catch (e) {}
-  const next = cur === '1' ? '0' : '1'
-  try {
-    el.setAttribute('data-pt-showall', next)
-  } catch (e2) {}
+  if (!paths) return []
+  return paths
 }
 
 function DirFileRow(props) {
   const row = props.row
   const depth = props.depth
-  const extra = props.extra === true
   const currentRel = props.currentRel
   const path = rowPath(row)
   if (path.length === 0) return null
   const active = pathMatchesCurrent(path, currentRel)
   let cls = 'pt-dir-file'
-  if (extra) {
-    cls = cls + ' pt-dir-file-extra'
-  }
   if (active) {
     cls = cls + ' pt-dir-file-active'
   }
@@ -234,6 +108,7 @@ function FolderBranch(props) {
   const depth = props.depth
   const keyPrefix = props.keyPrefix
   const expandPaths = props.expandPaths
+  const onToggle = props.onToggle
   const currentRel = props.currentRel
   let name = ''
   let path = ''
@@ -257,7 +132,7 @@ function FolderBranch(props) {
   } catch (e5) {}
 
   const hasChildren = folders.length > 0 || files.length > 0
-  const isExpand = includes(expandPaths, path) === true
+  const isExpand = pathListHas(expandPaths, path)
   const openVal = isExpand ? '1' : '0'
   const active = pathIsActive(path, currentRel)
   let rowCls = 'pt-dir-row'
@@ -265,16 +140,11 @@ function FolderBranch(props) {
     rowCls = rowCls + ' pt-dir-row-active'
   }
   const pad = depth * 16 + 'px'
-  // Only mount file rows for expanded folders. Closed folders still recurse
-  // nested FolderBranch rows (cheap) so the tree skeleton exists; skipping
-  // hundreds of DirFileRow vnodes is what kept phase-2 from freezing.
-  const fileCap =
-    isExpand === true ? (files.length < 12 ? files.length : 12) : 0
+  // Mount children only while open — keeps phase-2 hydrate cheap; click remounts
+  // via useState (DOM class toggles alone left empty .pt-dir-kids).
+  const fileCap = isExpand === true ? (files.length < 12 ? files.length : 12) : 0
   const hiddenCount = isExpand === true ? files.length - fileCap : 0
 
-  // Nested folders only along expandPaths (current article ancestors). Full-tree
-  // FolderBranch fan-out (~130 folders) during phase-2 soft-hydrate freezes CS.
-  // Closed folders are a single row; open via folder link / Expand to current.
   let folderEls = []
   if (isExpand === true) {
     for (let i = 0; i < folders.length; i++) {
@@ -285,6 +155,7 @@ function FolderBranch(props) {
           depth={depth + 1}
           keyPrefix={keyPrefix + 'd' + i + '-'}
           expandPaths={expandPaths}
+          onToggle={onToggle}
           currentRel={currentRel}
         />,
       ])
@@ -299,7 +170,6 @@ function FolderBranch(props) {
           key={keyPrefix + 'f' + i}
           row={files[i]}
           depth={depth + 1}
-          extra={false}
           currentRel={currentRel}
         />,
       ])
@@ -334,8 +204,6 @@ function FolderBranch(props) {
       data-pt-dir-node="1"
       data-pt-path={path}
       data-pt-open={openVal}
-      data-pt-expand={openVal}
-      data-pt-showall="0"
       aria-expanded={openVal}
     >
       <div className={rowCls} style={{ paddingLeft: pad }}>
@@ -345,7 +213,7 @@ function FolderBranch(props) {
             className="pt-dir-chevron"
             aria-label={isExpand ? 'Collapse folder' : 'Expand folder'}
             onClick={() => {
-              toggleDirOpen(path)
+              onToggle(path)
             }}
           >
             <span className={openIconCls} aria-hidden="true">
@@ -385,11 +253,32 @@ function dirCssMarker() {
   )
 }
 
-/** Left directory — QUERY catalog → `@relay/catalog.buildDirTree`; open state is data-pt-open (no setState). */
+/** Left directory — QUERY catalog → `@relay/catalog.buildDirTree`; expand via useState. */
 export default function DirNav(props) {
   const currentRel = stripRel(propStr(props, 'currentPath', ''))
+  const live = isClientLivePhase(2) === true
 
-  if (isClientLivePhase(2) !== true) {
+  // Hooks must run every render (SSR placeholder + live). Seed empty until live.
+  const expandState = useState([])
+  const expandPaths = expandState[0]
+  const setExpandPaths = expandState[1]
+
+  useEffect(() => {
+    if (live !== true) return
+    try {
+      setExpandPaths(seedExpandPaths(currentRel))
+    } catch (e) {}
+  }, [live, currentRel])
+
+  useEffect(() => {
+    if (live !== true) return
+    if (!expandPaths || expandPaths.length === 0) return
+    try {
+      scrollActiveDirFileIntoView()
+    } catch (eScroll) {}
+  }, [live, currentRel, expandPaths])
+
+  if (live !== true) {
     if (isCsrHost()) {
       return null
     }
@@ -409,13 +298,9 @@ export default function DirNav(props) {
   }
 
   let tree = null
-  let expandPaths = []
   try {
     tree = loadDirTree()
   } catch (eLoad) {}
-  try {
-    expandPaths = dirExpandPaths(currentRel)
-  } catch (eExp) {}
   let folders = []
   let files = []
   try {
@@ -424,6 +309,18 @@ export default function DirNav(props) {
   try {
     if (tree && tree.files) files = tree.files
   } catch (e2) {}
+
+  function onToggle(path) {
+    setExpandPaths(pathListToggle(expandPaths, path))
+  }
+
+  function collapseAll() {
+    setExpandPaths([])
+  }
+
+  function expandToCurrent() {
+    setExpandPaths(seedExpandPaths(currentRel))
+  }
 
   let folderEls = []
   for (let i = 0; i < folders.length; i++) {
@@ -434,6 +331,7 @@ export default function DirNav(props) {
         depth={0}
         keyPrefix={'r-d' + i + '-'}
         expandPaths={expandPaths}
+        onToggle={onToggle}
         currentRel={currentRel}
       />,
     ])
@@ -445,7 +343,6 @@ export default function DirNav(props) {
         key={'r-f' + j}
         row={files[j]}
         depth={0}
-        extra={false}
         currentRel={currentRel}
       />,
     ])
@@ -453,24 +350,17 @@ export default function DirNav(props) {
 
   const empty = folders.length === 0 && files.length === 0
 
-  // Ancestors already get pt-dir-kids-open at render via expandPaths / isExpand.
-  // Re-apply after soft-hydrate in case DOM attrs/classes drifted (no anonymous
-  // `function` — CleverScript rejects Keyword(Function) in call position).
-  try {
-    expandDirsToCurrent()
-  } catch (eExpandNow) {}
-
   return (
     <aside className="pt-dir-nav lg:pt-dir-nav-lg" aria-label="Site directory">
       <div className="pt-dir-head">
         <h2 className="pt-dir-title">Directory</h2>
       </div>
       <div className="pt-dir-actions">
-        <button type="button" className="pt-dir-action" onClick={collapseAllDirs}>
+        <button type="button" className="pt-dir-action" onClick={collapseAll}>
           Collapse all
         </button>
         <span className="pt-dir-sep">{'|'}</span>
-        <button type="button" className="pt-dir-action" onClick={expandDirsToCurrent}>
+        <button type="button" className="pt-dir-action" onClick={expandToCurrent}>
           Expand to current
         </button>
       </div>
