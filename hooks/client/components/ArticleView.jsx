@@ -950,7 +950,7 @@ export default function ArticleView(props) {
     ) {
       useDeferredSplit = true
       src = 'page-sections/investigations.md'
-      attrMinPx = 20500
+      attrMinPx = 1600
     }
     // Prefer warmed investigations bytes when the tip-GET helper returned empty.
     if (
@@ -1165,7 +1165,7 @@ export default function ArticleView(props) {
       }
     } else if (useDeferredSplit === true && live !== true) {
       deferredIsland = (
-        <DeferredMarkdown src={src} minHeight={attrMinPx > 0 ? attrMinPx : 20500} />
+        <DeferredMarkdown src={src} minHeight={attrMinPx > 0 ? attrMinPx : 1600} />
       )
     } else if (useDeferredSplit === true) {
       deferredIsland = null

@@ -6,7 +6,7 @@
  * vnode, so soft-hydrate never swaps the SSR island.
  *
  * min-height: reserve ~measured paint height so the scrollbar does not jump
- * when the island fills (investigations.md ≈ 73KB → ≈19800px).
+ * when the island fills (slim home fragment ≈ 1–2 screens).
  *
  * Long single-file articles (no tip DeferredMarkdown): ArticleView may SSR a
  * short lead + island with {@link ARTICLE_TAIL_SRC} seeded from the tip tail
@@ -21,7 +21,7 @@ import { rewriteMarkdownAssetUrls } from 'hooks/client/rewriteAssets.jsx'
 const MD_CACHE_BUST = 'ptmd11'
 
 /** Measured home fragment paint height (lab); keep in sync when lists grow a lot. */
-const HOME_INVESTIGATIONS_MIN_PX = 20500
+const HOME_INVESTIGATIONS_MIN_PX = 1600
 
 /** bytes / px from lab (73199 / 19806 ≈ 3.7) for list-heavy markdown. */
 const BYTES_PER_PX = 3.7
@@ -140,7 +140,7 @@ export function estimateDeferredMinHeightPx(src, contentLen, attrPx) {
   if (best > 0) return best
   let s = src
   if (!s || typeof s !== 'string') s = ''
-  if (s === 'page-sections/investigations.md' || s.indexOf('investigations.md') >= 0) {
+  if (s === 'page-sections/investigations.md') {
     return HOME_INVESTIGATIONS_MIN_PX
   }
   return 480
