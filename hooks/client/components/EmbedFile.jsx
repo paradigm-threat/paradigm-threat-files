@@ -5,7 +5,7 @@ import { PT_PAGES_MIRROR } from 'hooks/client/rewriteAssets.jsx'
 
 /**
  * PDF / binary embed — old-site EmbedFile parity.
- * Resolve relative `src` against the article path, then load from Pages mirror.
+ * Resolve relative `src` against the article path (same-origin tip).
  */
 export default function EmbedFile(props) {
   const srcIn = propStr(props, 'src', '')

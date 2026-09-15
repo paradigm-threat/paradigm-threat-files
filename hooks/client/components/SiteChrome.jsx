@@ -53,14 +53,8 @@ export default function SiteChrome(props) {
           />
         </nav>
         <p className="pt-muted pt-footer-note">
-          Thin files corpus on Relay — markdown in-git; rasters via{' '}
-          <a
-            href="https://paradigm-threat-files-69f9dc.gitlab.io/"
-            rel="noopener noreferrer"
-          >
-            GitLab Pages
-          </a>
-          . Legacy Next.js archive:{' '}
+          Files corpus on Relay — markdown and rasters served from the tip.
+          Legacy Next.js archive:{' '}
           <a href="https://old.paradigmthreat.net/" target="_blank" rel="noopener noreferrer">
             old.paradigmthreat.net
           </a>

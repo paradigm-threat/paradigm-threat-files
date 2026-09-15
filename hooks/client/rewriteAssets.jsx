@@ -1,11 +1,15 @@
 /**
  * Asset URL helpers for article markdown.
- * Relative rasters / embeds → GitLab Pages mirror (thin tip has no binaries).
+ * Relative rasters / embeds → same-origin tip paths (`/dir/file.jpg`).
+ * Fat tip serves binaries via Relay GET; do not rewrite to GitLab Pages.
+ *
+ * Mirror sentinel `'/'`: `@relay/path.rewriteMarkdownAssetUrls` skips only on
+ * empty mirror; `resolveAssetUrl` with `'/'` trims to empty and returns `/{rel}`.
  */
 import { rewriteMarkdownAssetUrls as hostRewrite } from '@relay/path'
 
-/** GitLab Pages binary mirror for thin park rasters / PDF embeds. */
-export const PT_PAGES_MIRROR = 'https://paradigm-threat-files-69f9dc.gitlab.io'
+/** Same-origin tip assets (not a remote host). */
+export const PT_PAGES_MIRROR = '/'
 
 export function rewriteMarkdownAssetUrls(md, articleRel, mirrorBase) {
   let body = ''

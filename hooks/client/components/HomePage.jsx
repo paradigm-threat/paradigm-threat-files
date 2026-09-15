@@ -54,7 +54,7 @@ export default function HomePage() {
                   Markdown index for this thin Relay park. Welcome and project
                   overview live on{' '}
                   <a href={siteHref('/')}>Home</a>
-                  ; rasters load from the GitLab Pages binary mirror.
+                  ; rasters load from the same Relay tip as the markdown.
                 </p>
                 <p className="pt-home-cta-row">
                   {featured.length > 0 ? (
