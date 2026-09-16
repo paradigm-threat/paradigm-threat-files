@@ -23,10 +23,10 @@ function RedirectToOldSearch(props) {
   } catch (e) {}
   return (
     <main className="pt-page" style={{ padding: '2rem 1rem' }}>
-      <meta httpEquiv="refresh" content={'0;url=' + dest} />
+      <meta {...{ 'http-equiv': 'refresh' }} content={'0;url=' + dest} />
       <p className="pt-muted">
         Redirecting to archive search…{' '}
-        <a href={dest}>old.paradigmthreat.net/search</a>
+        <a href={dest}>{'old.paradigmthreat.net/search'}</a>
       </p>
     </main>
   )
