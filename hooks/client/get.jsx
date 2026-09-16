@@ -11,6 +11,7 @@ import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
 import SearchPage from 'hooks/client/components/SearchPage.jsx'
 import { ensureSearchFormNav } from 'hooks/client/searchFormNav.js'
+import { ensureNavMenu } from 'hooks/client/navMenu.js'
 
 function str(v) {
   if (v === null) return ''
@@ -96,8 +97,9 @@ function searchInitialQuery(route) {
 }
 
 export default function ParadigmFilesRelayRoot() {
-  // Soft-hydrate may skip SearchPage remount; bind search form nav from root.
+  // Soft-hydrate may skip remount; bind native nav + search once from root.
   ensureSearchFormNav()
+  ensureNavMenu()
   const route = initialRoute()
   let page = null
   if (route === '/search' || (typeof route === 'string' && route.indexOf('/search/') === 0)) {

@@ -1,10 +1,13 @@
 /**
  * Soft-hydrate leaves CleverScript onClick unwired on SSR search chrome.
  * Bind native form submit → /search/{topic} so the first paint SSR-fills results.
+ * Also seed #pt-search-input once per session (CleverScript emits defaultValue as a
+ * non-HTML attr; value= is correct, but soft-hydrate must not clobber typing).
  */
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 let searchFormNavBound = false
+let searchInputSeeded = false
 
 function str(v) {
   if (v === null) return ''
@@ -42,8 +45,78 @@ function topicPathSegment(q) {
   return out
 }
 
+function seedFromLocation() {
+  try {
+    const g = globalThis
+    if (!g || !g.location) return ''
+    const path = typeof g.location.pathname === 'string' ? g.location.pathname : ''
+    const marker = '/search/'
+    const idx = path.indexOf(marker)
+    if (idx >= 0) {
+      let rest = path.slice(idx + marker.length)
+      const slash = rest.indexOf('/')
+      if (slash >= 0) rest = rest.slice(0, slash)
+      rest = rest.split('_').join(' ')
+      if (rest.length > 0) return str(rest).trim()
+    }
+    const s = typeof g.location.search === 'string' ? g.location.search : ''
+    if (s.indexOf('q=') < 0) return ''
+    let raw = s
+    if (raw.charAt(0) === '?') raw = raw.slice(1)
+    const parts = raw.split('&')
+    for (let i = 0; i < parts.length; i++) {
+      const p = parts[i]
+      if (p.indexOf('q=') === 0) {
+        let v = p.slice(2)
+        v = v.split('+').join(' ')
+        return str(v).trim()
+      }
+    }
+  } catch (e) {}
+  return ''
+}
+
+/** Fill the search box once; never overwrite if the user already typed. */
+export function ensureSearchInputSeed() {
+  if (searchInputSeeded === true) return
+  try {
+    const g = globalThis
+    if (!g || !g.document || !g.document.querySelector) return
+    const inp = g.document.querySelector('#pt-search-input')
+    if (!inp) return
+    let cur = ''
+    try {
+      if (typeof inp.value === 'string') cur = str(inp.value).trim()
+    } catch (eVal) {}
+    if (cur.length > 0) {
+      searchInputSeeded = true
+      return
+    }
+    let seed = ''
+    try {
+      const form = g.document.querySelector('#pt-search-form')
+      if (form) {
+        const attr = form.getAttribute('data-pt-search-seed')
+        if (typeof attr === 'string') seed = str(attr).trim()
+      }
+    } catch (eAttr) {}
+    if (seed.length === 0) seed = seedFromLocation()
+    if (seed.length === 0) {
+      searchInputSeeded = true
+      return
+    }
+    try {
+      inp.value = seed
+    } catch (eSet) {}
+    searchInputSeeded = true
+  } catch (e) {}
+}
+
 export function ensureSearchFormNav() {
-  if (searchFormNavBound === true) return
+  if (searchFormNavBound === true) {
+    ensureSearchInputSeed()
+    return
+  }
   try {
     const g = globalThis
     if (!g || !g.document || typeof g.document.addEventListener !== 'function') return
@@ -88,5 +161,6 @@ export function ensureSearchFormNav() {
     }
     g.document.addEventListener('submit', onSubmit)
     searchFormNavBound = true
+    ensureSearchInputSeed()
   } catch (eBind) {}
 }

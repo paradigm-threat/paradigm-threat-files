@@ -4,10 +4,12 @@ import SiteChrome from 'hooks/client/components/SiteChrome.jsx'
 import { IconSearch } from 'hooks/client/components/Icons.jsx'
 import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
-import { ensureSearchFormNav } from 'hooks/client/searchFormNav.js'
+import { ensureSearchFormNav, ensureSearchInputSeed } from 'hooks/client/searchFormNav.js'
 
 /** Module-warm: one QUERY per query string per hydrate session. */
 let clientSearchWarm = { q: '', error: '', rows: null }
+/** First seed for the search input this session — do not remount over typing. */
+let searchFieldSeedOnce = null
 
 function str(v) {
   if (v === null) return ''
@@ -169,6 +171,7 @@ function readLocationQuery() {
 
 export default function SearchPage(props) {
   ensureSearchFormNav()
+  ensureSearchInputSeed()
 
   let currentPath = '/search'
   try {
@@ -180,6 +183,11 @@ export default function SearchPage(props) {
   if (seeded.length === 0) {
     seeded = readLocationQuery()
   }
+  // Capture the first non-empty seed once per session; blank /search stays blank.
+  if (searchFieldSeedOnce === null) {
+    searchFieldSeedOnce = seeded
+  }
+  const fieldValue = searchFieldSeedOnce === null ? '' : searchFieldSeedOnce
   const live = isClientLive() === true
   const softKeep = live === true && hasSsrSearchResults() === true
 
@@ -250,16 +258,27 @@ export default function SearchPage(props) {
             method="get"
             action={siteHref('/search')}
             role="search"
+            data-pt-search-seed={fieldValue}
           >
             <IconSearch />
-            <input
-              id="pt-search-input"
-              className="pt-search-input"
-              type="search"
-              name="q"
-              defaultValue={seeded}
-              placeholder="Keywords…"
-            />
+            {live === true ? (
+              <input
+                id="pt-search-input"
+                className="pt-search-input"
+                type="search"
+                name="q"
+                placeholder="Keywords…"
+              />
+            ) : (
+              <input
+                id="pt-search-input"
+                className="pt-search-input"
+                type="search"
+                name="q"
+                value={fieldValue}
+                placeholder="Keywords…"
+              />
+            )}
             <button type="submit" className="pt-btn">
               Search
             </button>

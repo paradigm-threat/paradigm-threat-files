@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FontToggle from 'hooks/client/components/FontToggle.jsx'
@@ -17,6 +17,7 @@ import {
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 import { archiveBannerHref } from 'hooks/client/legacyAppHref.js'
+import { ensureNavMenu } from 'hooks/client/navMenu.js'
 
 const WORDMARK_PATH = '/site/header.png'
 const MARK_PATH = '/site/favicon.svg'
@@ -85,11 +86,17 @@ function navChromeCss() {
     'opacity:0.55;filter:grayscale(0.2);' +
     '}' +
     // Theme class collectors reuse layout classes; force them out of hit-testing.
-    '[data-pt-gallery-css],[data-pt-toc-css],[data-pt-md-css],[data-pt-tts-css],[data-pt-back-top-css],[data-pt-dir-css]{' +
+    '[data-pt-gallery-css],[data-pt-share-css],[data-pt-toc-css],[data-pt-md-css],[data-pt-tts-css],[data-pt-back-top-css],[data-pt-dir-css]{' +
     'display:none!important;pointer-events:none!important;position:static!important;' +
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +
     'padding:0!important;border:0!important;' +
     '}' +
+    // Mobile drawer: always in DOM; open via data-pt-nav-open (no useState remount).
+    '.pt-site-nav:not([data-pt-nav-open="1"]) .pt-nav-mobile{display:none!important;}' +
+    '.pt-site-nav[data-pt-nav-open="1"] .pt-nav-mobile{display:block;}' +
+    '.pt-nav-menu-close{display:none;}' +
+    '.pt-site-nav[data-pt-nav-open="1"] .pt-nav-menu-close{display:inline-flex;}' +
+    '.pt-site-nav[data-pt-nav-open="1"] .pt-nav-menu-open{display:none;}' +
     // Directory expand/collapse + file cap (themed-styler cannot emit [data-*] /
     // descendant selectors — class toggles mirror DynamicNav open/active states).
     '.pt-dir-kids{display:none;}' +
@@ -191,9 +198,7 @@ function renderNavLinks(links, prefix, mobile) {
 export default function Nav(props) {
   const currentPath = propStr(props, 'currentPath', '/')
   const live = isClientLive() === true
-  const menu = useState(false)
-  const isOpen = menu[0]
-  const setOpen = menu[1]
+  ensureNavMenu()
 
   // Tip fallback: host/runtime sets data-pt-hydrated; assert "1" once live (no setState).
   useEffect(() => {
@@ -262,7 +267,7 @@ export default function Nav(props) {
   ]
 
   return (
-    <header className="pt-site-nav" data-site-navbar="true">
+    <header className="pt-site-nav" data-site-navbar="true" data-pt-nav-open="0">
       <link rel="stylesheet" href={FONT_STYLESHEET} />
       <style>{navChromeCss()}</style>
       <div className="pt-nav-bar">
@@ -297,15 +302,16 @@ export default function Nav(props) {
             <button
               type="button"
               className="pt-icon-btn pt-nav-menu-btn pt-client-only lg:pt-nav-menu-btn-lg"
-              aria-label={isOpen ? 'Close menu' : 'Open menu'}
-              aria-expanded={isOpen ? 'true' : 'false'}
+              aria-label="Open menu"
+              aria-expanded="false"
               disabled={!live}
-              onClick={() => {
-                if (!live) return
-                setOpen(!isOpen)
-              }}
             >
-              {isOpen ? <IconClose /> : <IconMenu />}
+              <span className="pt-nav-menu-open" aria-hidden="true">
+                <IconMenu />
+              </span>
+              <span className="pt-nav-menu-close" aria-hidden="true">
+                <IconClose />
+              </span>
             </button>
           </div>
         </div>
@@ -322,26 +328,24 @@ export default function Nav(props) {
           </span>
         </span>
       </a>
-      {isOpen ? (
-        <div className="pt-nav-mobile lg:pt-nav-mobile-lg" role="dialog" aria-label="Mobile menu">
-          <div className="pt-nav-mobile-inner">
-            <div className="pt-nav-mobile-tools">
-              <span className="pt-nav-mobile-label">Display</span>
-              <div className="pt-nav-mobile-tool-row">
-                <FontToggle />
-                <ThemeToggle />
-              </div>
-            </div>
-            <nav className="pt-nav-mobile-links" aria-label="Mobile primary">
-              {renderNavLinks(navLinks, 'nav-m-', true)}
-            </nav>
-            <div className="pt-nav-mobile-dir">
-              <div className="pt-nav-mobile-label">Directory</div>
-              <FeelingLucky />
+      <div className="pt-nav-mobile lg:pt-nav-mobile-lg" role="dialog" aria-label="Mobile menu">
+        <div className="pt-nav-mobile-inner">
+          <div className="pt-nav-mobile-tools">
+            <span className="pt-nav-mobile-label">Display</span>
+            <div className="pt-nav-mobile-tool-row">
+              <FontToggle />
+              <ThemeToggle />
             </div>
           </div>
+          <nav className="pt-nav-mobile-links" aria-label="Mobile primary">
+            {renderNavLinks(navLinks, 'nav-m-', true)}
+          </nav>
+          <div className="pt-nav-mobile-dir">
+            <div className="pt-nav-mobile-label">Directory</div>
+            <FeelingLucky />
+          </div>
         </div>
-      ) : null}
+      </div>
     </header>
   )
 }
