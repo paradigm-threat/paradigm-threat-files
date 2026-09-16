@@ -100,7 +100,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 ## More
 
 * **[Full investigation index](/investigations.md)** — master list, articles, podcasts, external sources.
-* **[Search](https://old.paradigmthreat.net/search)** — query the corpus.
+* **[Search](/search)** — query the corpus.
 * **[Timeline](https://timeline.paradigmthreat.net/)** — chronology overview.
 * **[Chat](https://chat.paradigmthreat.net/)** — join the investigation chat.
 

@@ -7,6 +7,8 @@ collections:
       - type: path_tree
         mode: merge
     idFields: [path, _meta_dir, id]
+    # Park SearchPage FTS: titles + keywords + short blurbs (not full markdown body).
+    # Topic URLs (/search/{topic}) match author keywords / titles efficiently.
     ftsFields: [_title, title, _keywords, keywords, description, summary, content_kind]
     filterFields: [content_kind, path, type, _keywords]
     sortFields: [_updated, path, sort_key]

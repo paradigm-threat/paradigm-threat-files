@@ -9,41 +9,7 @@ import BootShell from 'hooks/client/components/BootShell.jsx'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
-
-const ARCHIVE = 'https://old.paradigmthreat.net'
-const OLD_SEARCH = ARCHIVE + '/search'
-
-/** Temporary: park /search → archive (no hooks — CleverScript SSR rejects useEffect here). */
-function RedirectToOldSearch(props) {
-  let dest = OLD_SEARCH
-  try {
-    if (props && typeof props.href === 'string' && props.href.length > 0) {
-      dest = props.href
-    }
-  } catch (e) {}
-  return (
-    <main className="pt-page" style={{ padding: '2rem 1rem' }}>
-      <p className="pt-muted">
-        Redirecting to archive search…{' '}
-        <a href={dest}>{'old.paradigmthreat.net/search'}</a>
-      </p>
-    </main>
-  )
-}
-
-function archiveSearchHref(route) {
-  let dest = OLD_SEARCH
-  if (typeof route === 'string' && route.indexOf('/search/') === 0) {
-    dest = ARCHIVE + route
-  }
-  try {
-    const g = globalThis
-    if (g && g.location && typeof g.location.search === 'string' && g.location.search.length > 0) {
-      if (dest.indexOf('?') < 0) dest = dest + g.location.search
-    }
-  } catch (e) {}
-  return dest
-}
+import SearchPage from 'hooks/client/components/SearchPage.jsx'
 
 function str(v) {
   if (v === null) return ''
@@ -88,11 +54,56 @@ function articleFilePath(route) {
   return t
 }
 
+/** `/search/{topic}` → topic; bare `/search` may use `?q=`. */
+function searchInitialQuery(route) {
+  const r = normalizeRoute(route)
+  if (typeof r === 'string' && r.indexOf('/search/') === 0) {
+    let rest = r.slice('/search/'.length)
+    const slash = rest.indexOf('/')
+    if (slash >= 0) {
+      rest = rest.slice(0, slash)
+    }
+    const qmark = rest.indexOf('?')
+    if (qmark >= 0) {
+      rest = rest.slice(0, qmark)
+    }
+    return str(rest).trim()
+  }
+  try {
+    const g = globalThis
+    if (g && g.location && typeof g.location.search === 'string') {
+      const s = g.location.search
+      if (s.indexOf('q=') >= 0) {
+        let raw = s
+        if (raw.charAt(0) === '?') {
+          raw = raw.slice(1)
+        }
+        const parts = raw.split('&')
+        for (let i = 0; i < parts.length; i++) {
+          const p = parts[i]
+          if (p.indexOf('q=') === 0) {
+            let v = p.slice(2)
+            try {
+              if (typeof decodeURIComponent === 'function') {
+                v = decodeURIComponent(v)
+              }
+            } catch (eDec) {}
+            return str(v).trim()
+          }
+        }
+      }
+    }
+  } catch (eLoc) {}
+  return ''
+}
+
 export default function ParadigmFilesRelayRoot() {
   const route = initialRoute()
   let page = null
   if (route === '/search' || (typeof route === 'string' && route.indexOf('/search/') === 0)) {
-    page = <RedirectToOldSearch href={archiveSearchHref(route)} />
+    page = (
+      <SearchPage currentPath={route} initialQuery={searchInitialQuery(route)} />
+    )
   } else if (route === '/' || route === '/index.md' || route === '/page.md') {
     page = <ArticleView currentPath="/" filePath="page.md" />
   } else if (route === '/articles') {

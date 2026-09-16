@@ -211,18 +211,22 @@ export default function Nav(props) {
         currentPath === '/page.md'
       )
     }
-    if (href === '/search') return currentPath === '/search'
+    if (href === '/search') {
+      return (
+        currentPath === '/search' ||
+        (typeof currentPath === 'string' && currentPath.indexOf('/search/') === 0)
+      )
+    }
     return currentPath === href
   }
 
   // Live site navbar order (Submit lives in footer only).
-  // Park search UI is not ready — use archive search for now.
   const navLinks = [
     {
-      href: 'https://old.paradigmthreat.net/search',
+      href: siteHref('/search'),
       label: 'Search',
       icon: <IconSearch />,
-      external: true,
+      active: isActive('/search'),
     },
     { href: siteHref('/'), label: 'Home', icon: <IconHome />, active: isActive('/') },
     {

@@ -95,14 +95,17 @@ Site-shell SSR is **article-first**, not catalog-first. If it is not the article
 3. **Gateway `ssr_html_cache`** keys by tip OID — a correct miss path must stay **cheap** (P0+P1 only). Putting catalog QUERY / card fan-out into SSR reintroduces the old multi-second (~10s) cold path on every tip push and cache miss.
 4. **Bots / SEO** already get article HTML + `sitemap.xml`. DirNav cards are not the crawler contract.
 
-**Optimal pattern:** SSR **P0 article + P1 static chrome** (placeholders for catalog) → client hydrate when `isClientLive() === true` → QUERY the index (module-warm one HTTP per spec: ChangeLog kinds, DirNav, Feeling Lucky). Never same-Host QUERY during site-shell SSR.
+**Optimal pattern:** SSR **P0 article + P1 static chrome** (placeholders for catalog) → client hydrate when `isClientLive() === true` → QUERY the index (module-warm one HTTP per spec: ChangeLog kinds, DirNav, Feeling Lucky). Never same-Host **HTTP** QUERY during site-shell SSR. **Exception:** `/search/{topic}` may run one bounded in-process QUERY via SSR host `method: 'QUERY'` (`RepoFetchHost.ssr_query`); soft-keep results — see P3 exception row above.
 
 | Tier | Examples | SSR | Hydrate |
 |------|----------|-----|---------|
 | **P0 Content** | Article / `page.md` markdown, heading TOC from the same `extractMarkdownHeadings` | **Required** — tip-safe `cachedGet('/'+path)` (in-process on gateway; not same-Host HTTP) + `MarkdownRenderer` | Reuse same tree (no blank flash) |
 | **P1 Shell** | Brand, hardcoded header/footer links in `Nav.jsx`, theme CSS markers | **Required**, **fetch-free** (literals only; never QUERY for the top nav) | Menu / theme / font handlers only; `data-pt-hydrated` → `"1"` |
 | **P2 Catalog** | DirNav tree, ChangeLog cards, Feeling Lucky, neighbors, AutoIndex, Home index lists | **Forbidden** — placeholder only (`data-pt-dirnav-ssr` / `data-pt-changelog-ssr`) | Hydrate QUERY via `loadDirCatalogRows` / `loadCatalogKind` / `loadArticleRows` |
-| **P3 Interactive** | Gallery, TTS, theme/font persistence, search QUERY | **Forbidden** | Only when `isClientLive() === true` |
+| **P3 Interactive** | Gallery, TTS, theme/font persistence, **blank** `/search` submit | **Forbidden** | Only when `isClientLive() === true` |
+| **P3 exception: topic search SSR** | `/search/{topic}` or seeded `initialQuery` | **Allowed** — one bounded string QUERY (`limit` ≤32) via `fetch(..., { method: 'QUERY' })` → gateway `RepoFetchHost.ssr_query` (in-process FTS). Soft-keep `[data-pt-search-ssr]` on hydrate (no re-QUERY). | Refine / blank search only when live |
+
+**Do not** use this exception for DirNav / ChangeLog / catalog fan-out. Catalog SSR remains forbidden.
 
 **`data-pt-hydrated`:** gateway embed sets `"0"` on `<html>`; `relay-runtime-web.js` sets `"1"` when promoting live. Tip styles `[data-pt-hydrated="0"] .pt-client-only` (plus `:disabled` / `aria-disabled` fallbacks). Do **not** invent a parallel hydrate flag.
 
