@@ -2,14 +2,35 @@
  * Thin files — in-repo CleverScript site shell.
  * Same-origin only (no other content repos). Hard md components disabled.
  */
-import React from 'react'
+import React, { useEffect } from 'react'
 import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
 import BootShell from 'hooks/client/components/BootShell.jsx'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
-import SearchPage from 'hooks/client/components/SearchPage.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
+
+const OLD_SEARCH = 'https://old.paradigmthreat.net/search'
+
+/** Temporary: park /search → archive search until Relay search is ready. */
+function RedirectToOldSearch() {
+  useEffect(() => {
+    try {
+      const g = globalThis
+      if (g && g.location) {
+        g.location.href = OLD_SEARCH
+      }
+    } catch (e) {}
+  }, [])
+  return (
+    <main className="pt-page" style={{ padding: '2rem 1rem' }}>
+      <p className="pt-muted">
+        Redirecting to archive search…{' '}
+        <a href={OLD_SEARCH}>old.paradigmthreat.net/search</a>
+      </p>
+    </main>
+  )
+}
 
 function str(v) {
   if (v === null) return ''
@@ -58,7 +79,7 @@ export default function ParadigmFilesRelayRoot() {
   const route = initialRoute()
   let page = null
   if (route === '/search') {
-    page = <SearchPage currentPath="/search" />
+    page = <RedirectToOldSearch />
   } else if (route === '/' || route === '/index.md' || route === '/page.md') {
     page = <ArticleView currentPath="/" filePath="page.md" />
   } else if (route === '/articles') {

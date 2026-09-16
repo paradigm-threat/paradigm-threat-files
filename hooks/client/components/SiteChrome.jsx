@@ -28,7 +28,11 @@ export default function SiteChrome(props) {
       {children}
       <footer className="pt-footer">
         <nav className="pt-footer-nav" aria-label="Site">
-          <FooterLink href={siteHref('/search')} label="Search" />
+          <FooterLink
+            href="https://old.paradigmthreat.net/search"
+            label="Search"
+            external={true}
+          />
           <FooterLink
             href="https://old.paradigmthreat.net/submit"
             label="Submit"

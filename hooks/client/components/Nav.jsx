@@ -216,8 +216,14 @@ export default function Nav(props) {
   }
 
   // Live site navbar order (Submit lives in footer only).
+  // Park search UI is not ready — use archive search for now.
   const navLinks = [
-    { href: siteHref('/search'), label: 'Search', icon: <IconSearch />, active: isActive('/search') },
+    {
+      href: 'https://old.paradigmthreat.net/search',
+      label: 'Search',
+      icon: <IconSearch />,
+      external: true,
+    },
     { href: siteHref('/'), label: 'Home', icon: <IconHome />, active: isActive('/') },
     {
       href: 'https://timeline.paradigmthreat.net/',

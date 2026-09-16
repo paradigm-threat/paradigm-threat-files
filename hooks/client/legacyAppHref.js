@@ -2,10 +2,10 @@
  * Apex park does not host Next-only app shells. Rewrite those hrefs so
  * markdown and in-park clicks land on the archive or the live Relay apps.
  *
- * old.paradigmthreat.net: /submit /mcp /api/mcp /reply /search/{topic} /chat/{channel}
+ * old.paradigmthreat.net: /submit /mcp /api/mcp /reply /search /search/{topic} /chat/{channel}
  * timeline.paradigmthreat.net: /timeline…
  * chat.paradigmthreat.net: /chat (join)
- * Bare /search stays on park.
+ * Bare /search → archive until park search is ready.
  */
 const ARCHIVE = 'https://old.paradigmthreat.net'
 const TIMELINE = 'https://timeline.paradigmthreat.net'
@@ -54,7 +54,7 @@ export function rewriteLegacyAppHref(href) {
   if (base === '/mcp' || base.indexOf('/mcp/') === 0) return ARCHIVE + path
   if (base === '/api/mcp' || base.indexOf('/api/mcp/') === 0) return ARCHIVE + path
   if (base === '/reply' || base.indexOf('/reply/') === 0) return ARCHIVE + path
-  if (base.indexOf('/search/') === 0) return ARCHIVE + path
+  if (base === '/search' || base.indexOf('/search/') === 0) return ARCHIVE + path
   if (base === '/chat') {
     if (rest.length === 0) return CHAT + '/'
     return CHAT + '/' + rest
