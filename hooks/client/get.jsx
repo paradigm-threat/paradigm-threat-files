@@ -83,11 +83,8 @@ function searchInitialQuery(route) {
           const p = parts[i]
           if (p.indexOf('q=') === 0) {
             let v = p.slice(2)
-            try {
-              if (typeof decodeURIComponent === 'function') {
-                v = decodeURIComponent(v)
-              }
-            } catch (eDec) {}
+            // CleverScript has no decodeURIComponent; + → space is enough for seeded q=.
+            v = v.split('+').join(' ')
             return str(v).trim()
           }
         }
