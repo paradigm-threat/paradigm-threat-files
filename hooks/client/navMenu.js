@@ -76,11 +76,23 @@ export function ensureNavMenu() {
         try {
           if (typeof t.closest === 'function') btn = t.closest('.pt-nav-menu-btn')
         } catch (eClosest) {}
-        if (!btn) return
+        if (btn) {
+          try {
+            if (btn.disabled === true) return
+          } catch (eDis) {}
+          toggleNavMenu()
+          return
+        }
+        // Close drawer after in-menu navigation (primary / TOC / directory).
+        let inDrawer = null
         try {
-          if (btn.disabled === true) return
-        } catch (eDis) {}
-        toggleNavMenu()
+          if (typeof t.closest === 'function') {
+            inDrawer = t.closest('.pt-nav-mobile a, .pt-nav-mobile .pt-toc-link')
+          }
+        } catch (eIn) {}
+        if (inDrawer) {
+          setNavMenuOpen(false)
+        }
       } catch (eClick) {}
     }
     document.addEventListener('click', onClick)

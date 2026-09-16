@@ -2,7 +2,8 @@ import React, { useEffect } from 'react'
 import { isClientLive } from '@clevertree/style-internal'
 import ThemeToggle from 'hooks/client/components/ThemeToggle.jsx'
 import FontToggle from 'hooks/client/components/FontToggle.jsx'
-import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
+import DirNav from 'hooks/client/components/DirNav.jsx'
+import DynamicIndex from 'hooks/client/components/DynamicIndex.jsx'
 import {
   IconClock,
   IconClose,
@@ -97,6 +98,18 @@ function navChromeCss() {
     '.pt-nav-menu-close{display:none;}' +
     '.pt-site-nav[data-pt-nav-open="1"] .pt-nav-menu-close{display:inline-flex;}' +
     '.pt-site-nav[data-pt-nav-open="1"] .pt-nav-menu-open{display:none;}' +
+    // Old-site parity: DirNav + On-this-page live inside the mobile drawer.
+    '.pt-nav-mobile .pt-dir-nav{display:block!important;width:100%!important;max-width:100%;' +
+    'max-height:none;position:static!important;top:auto;order:0;flex-shrink:0;' +
+    'box-sizing:border-box;margin:0;}' +
+    '.pt-nav-mobile .pt-toc-menu,.pt-nav-mobile .pt-toc{display:block!important;width:100%!important;' +
+    'max-width:100%;max-height:40vh;position:static!important;top:auto;order:0;' +
+    'box-sizing:border-box;margin:0;box-shadow:none;}' +
+    '.pt-nav-mobile .pt-toc-empty{display:none!important;}' +
+    // Column sidebars stay desktop-only (drawer owns them below lg).
+    '@media (max-width: 1023px){' +
+    '.pt-columns>.pt-dir-nav,.pt-columns>.pt-toc{display:none!important;}' +
+    '}' +
     // Directory expand/collapse + file cap (themed-styler cannot emit [data-*] /
     // descendant selectors — class toggles mirror DynamicNav open/active states).
     '.pt-dir-kids{display:none;}' +
@@ -359,9 +372,9 @@ export default function Nav(props) {
           <nav className="pt-nav-mobile-links" aria-label="Mobile primary">
             {renderNavLinks(navLinks, 'nav-m-', true)}
           </nav>
+          <DynamicIndex pathKey={currentPath} mode="menu" items={[]} />
           <div className="pt-nav-mobile-dir">
-            <div className="pt-nav-mobile-label">Directory</div>
-            <FeelingLucky />
+            <DirNav currentPath={currentPath} />
           </div>
         </div>
       </div>

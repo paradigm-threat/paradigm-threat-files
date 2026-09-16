@@ -21,6 +21,7 @@ import { rewriteLegacyAppHref } from 'hooks/client/legacyAppHref.js'
 import { extractMarkdownHeadings } from 'hooks/client/extractMarkdownHeadings.js'
 import { makeHeadingOverrides } from 'hooks/client/headingOverrides.jsx'
 import { share } from 'hooks/client/shareStore.jsx'
+import { setPageToc, clearPageToc } from 'hooks/client/tocStore.js'
 import AutoIndex from 'hooks/client/components/AutoIndex.jsx'
 import DirectoryIndex, {
   autoIndexDirFromPath,
@@ -701,29 +702,31 @@ export default function ArticleView(props) {
     body = rewriteMarkdownAssetUrls(rawBody, pathPart)
   }
   const shareMd = errMsg || dirIndexPath.length > 0 ? '' : body
-  // TOC: SSR already shipped the real index. On live, soft-hydrate does not
-  // replace TOC — skip host extract + DynamicIndex rebuild (saves phase-3 time).
+  // TOC: SSR ships the real index. Live still extracts for the mobile-menu
+  // store (Nav DynamicIndex mode=menu); soft-hydrate keeps the column TOC DOM.
   let tocItems = []
   let idQueue = []
-  if (live !== true) {
-    const headingExtract = extractMarkdownHeadings(body)
-    try {
-      if (headingExtract && headingExtract.tocItems) {
-        tocItems = headingExtract.tocItems
-      }
-    } catch (eToc) {}
-    try {
-      if (headingExtract && headingExtract.idQueue) {
-        idQueue = headingExtract.idQueue
-      }
-    } catch (eQ) {}
-  } else if (isClientLivePhase(4) === true) {
-    const headingExtract = extractMarkdownHeadings(body)
-    try {
-      if (headingExtract && headingExtract.idQueue) {
-        idQueue = headingExtract.idQueue
-      }
-    } catch (eQ2) {}
+  const headingExtract = extractMarkdownHeadings(body)
+  try {
+    if (headingExtract && headingExtract.tocItems) {
+      tocItems = headingExtract.tocItems
+    }
+  } catch (eToc) {}
+  try {
+    if (headingExtract && headingExtract.idQueue) {
+      idQueue = headingExtract.idQueue
+    }
+  } catch (eQ) {}
+  if (
+    dirIndexPath.length === 0 &&
+    pathPart !== 'README.md' &&
+    pathPart !== 'index.md' &&
+    pathPart.length > 0 &&
+    tocItems.length > 0
+  ) {
+    setPageToc(currentPath, tocItems)
+  } else {
+    clearPageToc()
   }
   const headingOverrides =
     live && isClientLivePhase(4) === true ? makeHeadingOverrides(idQueue) : null

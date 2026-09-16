@@ -1,11 +1,13 @@
 /**
  * Right-column TOC — content-derived nested headings (no Dom scrape, no setState).
  * Active hash is data-pt-toc-active; hashchange only flips attributes.
+ * mode=menu: mobile drawer “On this page” (old Next.js Navbar parity).
  */
 import React, { useEffect } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { nestTocItems } from '@relay/catalog'
 import { propStr, propOr } from 'hooks/client/propOr.jsx'
+import { getPageToc } from 'hooks/client/tocStore.js'
 
 function str(v) {
   if (v === null) return ''
@@ -160,10 +162,15 @@ function tocCssMarker() {
   )
 }
 
-/** Sticky on-this-page index (mobile full-width + lg sidebar). */
+/** Sticky on-this-page index (sidebar) or mobile-menu strip (mode=menu). */
 export default function DynamicIndex(props) {
   const pathKey = propStr(props, 'pathKey', '')
-  const items = normalizeItems(propOr(props, 'items', []))
+  const mode = propStr(props, 'mode', 'sidebar')
+  const isMenu = mode === 'menu'
+  let items = normalizeItems(propOr(props, 'items', []))
+  if (items.length === 0 && isMenu === true) {
+    items = normalizeItems(getPageToc(pathKey))
+  }
   let nested = []
   try {
     nested = nestTocItems(items)
@@ -189,15 +196,21 @@ export default function DynamicIndex(props) {
     }
   }, [live, pathKey])
 
+  const title = isMenu === true ? 'On this page' : 'Table of Contents'
+  const aria = isMenu === true ? 'On this page' : 'Table of contents'
+  let wrapClass = 'pt-toc lg:pt-toc-lg'
+  if (isMenu === true) {
+    wrapClass = 'pt-toc pt-toc-menu'
+  }
+
   if (!live && items.length === 0) {
+    if (isMenu === true) {
+      return null
+    }
     return (
-      <aside
-        className="pt-toc lg:pt-toc-lg"
-        aria-label="Table of contents"
-        data-pt-toc-ssr="1"
-      >
+      <aside className={wrapClass} aria-label={aria} data-pt-toc-ssr="1">
         <div className="pt-toc-head">
-          <h2 className="pt-toc-title">{'Table of Contents'}</h2>
+          <h2 className="pt-toc-title">{title}</h2>
         </div>
         <p className="pt-muted">Contents load after page open…</p>
         {tocCssMarker()}
@@ -206,10 +219,13 @@ export default function DynamicIndex(props) {
   }
 
   if (items.length === 0) {
+    if (isMenu === true) {
+      return null
+    }
     return (
       <aside
         className="pt-toc pt-toc-empty lg:pt-toc-lg"
-        aria-label="Table of contents"
+        aria-label={aria}
         data-pt-toc-empty="1"
       />
     )
@@ -223,9 +239,9 @@ export default function DynamicIndex(props) {
   }
 
   return (
-    <aside className="pt-toc lg:pt-toc-lg" aria-label="Table of contents" data-pt-toc="1">
+    <aside className={wrapClass} aria-label={aria} data-pt-toc="1">
       <div className="pt-toc-head">
-        <h2 className="pt-toc-title">{'Table of Contents'}</h2>
+        <h2 className="pt-toc-title">{title}</h2>
       </div>
       <ul className="pt-toc-list">{entries}</ul>
     </aside>

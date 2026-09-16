@@ -470,6 +470,21 @@ themes:
         borderTopWidth: 1
         borderTopStyle: "solid"
         borderTopColor: "var(border)"
+      ".pt-toc-menu":
+        marginTop: "0.5rem"
+        paddingTop: "0.75rem"
+        borderTopWidth: 1
+        borderTopStyle: "solid"
+        borderTopColor: "var(border)"
+        maxHeight: "40vh"
+        overflowY: "auto"
+        boxShadow: "none"
+        width: "100%"
+        backgroundColor: "transparent"
+        borderWidth: 0
+        borderRadius: 0
+        paddingLeft: 0
+        paddingRight: 0
       ".pt-page":
         backgroundColor: "var(bg)"
         color: "var(foreground)"
