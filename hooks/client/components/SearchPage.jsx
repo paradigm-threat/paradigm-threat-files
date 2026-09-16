@@ -142,6 +142,21 @@ function hasSsrSearchResults() {
   return false
 }
 
+/** Prefer live input DOM value — CleverScript controlled inputs often lag setState. */
+function readInputQuery(fallback) {
+  try {
+    const g = globalThis
+    if (g && g.document) {
+      const el = g.document.querySelector('#pt-search-input')
+      if (el && typeof el.value === 'string') {
+        const v = str(el.value).trim()
+        if (v.length > 0) return v
+      }
+    }
+  } catch (e) {}
+  return str(fallback).trim()
+}
+
 export default function SearchPage(props) {
   let currentPath = '/search'
   try {
@@ -186,7 +201,11 @@ export default function SearchPage(props) {
   }
 
   function doSearch() {
-    const q = str(query).trim()
+    if (live !== true) {
+      return
+    }
+    const q = readInputQuery(query)
+    setQuery(q)
     setSubmittedQuery(q)
     if (q.length === 0) {
       setResult({ error: 'Enter a search query', rows: [] })
@@ -203,7 +222,13 @@ export default function SearchPage(props) {
     displayError = ssrError
     displayRows = ssrRows
     displaySubmitted = ssrSubmitted
-  } else if (live === true && softKeep !== true && liveAutoSubmitted.length > 0 && result.rows.length === 0 && result.error.length === 0) {
+  } else if (
+    live === true &&
+    softKeep !== true &&
+    liveAutoSubmitted.length > 0 &&
+    result.rows.length === 0 &&
+    result.error.length === 0
+  ) {
     displayError = liveAutoError
     displayRows = liveAutoRows
     displaySubmitted = liveAutoSubmitted
@@ -227,6 +252,7 @@ export default function SearchPage(props) {
           <div className="pt-search-bar">
             <IconSearch />
             <input
+              id="pt-search-input"
               className="pt-search-input"
               type="search"
               value={query}
@@ -236,17 +262,10 @@ export default function SearchPage(props) {
                   if (e && e.target) setQuery(str(e.target.value))
                 } catch (err) {}
               }}
-              onKeyDown={(e) => {
-                try {
-                  if (e && e.key === 'Enter') {
-                    doSearch()
-                  }
-                } catch (errKey) {}
-              }}
             />
             <button
               type="button"
-              className="pt-btn pt-client-only"
+              className="pt-btn"
               onClick={() => {
                 doSearch()
               }}
