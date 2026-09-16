@@ -5,7 +5,7 @@ import { IconSearch } from 'hooks/client/components/Icons.jsx'
 import { parseJson, queryIndexBody } from 'hooks/client/jsonUtil.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 
-/** Module-warm: one QUERY per query string per hydrate session (client CSR / live). */
+/** Module-warm: one QUERY per query string per hydrate session. */
 let clientSearchWarm = { q: '', error: '', rows: null }
 
 function str(v) {
@@ -63,8 +63,7 @@ function filterSearchRows(data) {
 }
 
 /**
- * Bounded string QUERY (limit 24). On gateway SSR this hits RepoFetchHost.ssr_query
- * (in-process FTS). On the live client it is same-origin HTTP QUERY.
+ * Bounded string QUERY (limit 24). SSR → RepoFetchHost.ssr_query; client → HTTP QUERY.
  */
 function runSearch(query) {
   let resp = null
@@ -142,19 +141,60 @@ function hasSsrSearchResults() {
   return false
 }
 
-/** Prefer live input DOM value — CleverScript controlled inputs often lag setState. */
-function readInputQuery(fallback) {
+/**
+ * Sanitize for /search/{topic} path (CleverScript has no encodeURIComponent).
+ * Keeps letters, digits, underscore, hyphen; spaces → underscore.
+ */
+function topicPathSegment(q) {
+  const raw = str(q).trim()
+  let out = ''
+  for (let i = 0; i < raw.length; i++) {
+    const ch = raw.charAt(i)
+    const code = raw.charCodeAt(i)
+    if (ch === ' ' || ch === '\t') {
+      if (out.length > 0 && out.charAt(out.length - 1) !== '_') {
+        out = out + '_'
+      }
+      continue
+    }
+    if (
+      (code >= 48 && code <= 57) ||
+      (code >= 65 && code <= 90) ||
+      (code >= 97 && code <= 122) ||
+      ch === '_' ||
+      ch === '-'
+    ) {
+      out = out + ch
+    }
+  }
+  return out
+}
+
+/** Soft-hydrate skips onClick; bind once via native submit → /search/{topic} for SSR fill. */
+let searchFormNavBound = false
+function ensureSearchFormNav() {
+  if (searchFormNavBound === true) return
+  searchFormNavBound = true
   try {
     const g = globalThis
-    if (g && g.document) {
-      const el = g.document.querySelector('#pt-search-input')
-      if (el && typeof el.value === 'string') {
-        const v = str(el.value).trim()
-        if (v.length > 0) return v
-      }
-    }
-  } catch (e) {}
-  return str(fallback).trim()
+    if (!g || !g.document || typeof g.document.addEventListener !== 'function') return
+    g.document.addEventListener('submit', (e) => {
+      try {
+        const form = e && e.target
+        if (!form || form.id !== 'pt-search-form') return
+        let q = ''
+        try {
+          const inp = form.querySelector('#pt-search-input')
+          if (inp && typeof inp.value === 'string') q = str(inp.value).trim()
+        } catch (eInp) {}
+        const seg = topicPathSegment(q)
+        if (seg.length === 0) return
+        if (e && typeof e.preventDefault === 'function') e.preventDefault()
+        const dest = siteHref('/search/' + seg)
+        if (g.location) g.location.href = dest
+      } catch (eSub) {}
+    })
+  } catch (eBind) {}
 }
 
 export default function SearchPage(props) {
@@ -167,18 +207,17 @@ export default function SearchPage(props) {
   const seeded = readSeededQuery(props)
   const live = isClientLive() === true
   const softKeep = live === true && hasSsrSearchResults() === true
+  if (live === true) {
+    ensureSearchFormNav()
+  }
 
-  const qState = useState(seeded)
-  const query = qState[0]
-  const setQuery = qState[1]
-  const submitted = useState(seeded)
-  const submittedQuery = submitted[0]
-  const setSubmittedQuery = submitted[1]
+  // Results state kept for live auto-fill display path.
   const resultState = useState({ error: '', rows: [] })
   const result = resultState[0]
-  const setResult = resultState[1]
+  const submitted = useState(seeded)
+  const submittedQuery = submitted[0]
 
-  // SSR (or first paint before live): topic/q seed → bounded in-process QUERY.
+  // SSR with seed → in-process QUERY.
   let ssrError = ''
   let ssrRows = []
   let ssrSubmitted = ''
@@ -189,7 +228,7 @@ export default function SearchPage(props) {
     ssrSubmitted = seeded
   }
 
-  // Live without soft-keep (CSR nav / no SSR island): one module-warm QUERY.
+  // Live + seeded (e.g. /search?q=cia or CSR) and no SSR island → one QUERY.
   let liveAutoError = ''
   let liveAutoRows = []
   let liveAutoSubmitted = ''
@@ -198,21 +237,6 @@ export default function SearchPage(props) {
     liveAutoError = out.error
     liveAutoRows = out.rows
     liveAutoSubmitted = seeded
-  }
-
-  function doSearch() {
-    if (live !== true) {
-      return
-    }
-    const q = readInputQuery(query)
-    setQuery(q)
-    setSubmittedQuery(q)
-    if (q.length === 0) {
-      setResult({ error: 'Enter a search query', rows: [] })
-      return
-    }
-    clientSearchWarm = { q: '', error: '', rows: null }
-    setResult(ensureClientSearch(q))
   }
 
   let displayError = result.error
@@ -226,8 +250,7 @@ export default function SearchPage(props) {
     live === true &&
     softKeep !== true &&
     liveAutoSubmitted.length > 0 &&
-    result.rows.length === 0 &&
-    result.error.length === 0
+    (result.rows.length === 0 && result.error.length === 0)
   ) {
     displayError = liveAutoError
     displayRows = liveAutoRows
@@ -249,30 +272,26 @@ export default function SearchPage(props) {
             <h1 className="pt-title">Search</h1>
             <p className="pt-muted">Same-repo QUERY over the thin files index.</p>
           </header>
-          <div className="pt-search-bar">
+          <form
+            id="pt-search-form"
+            className="pt-search-bar"
+            method="get"
+            action={siteHref('/search')}
+            role="search"
+          >
             <IconSearch />
             <input
               id="pt-search-input"
               className="pt-search-input"
               type="search"
-              value={query}
+              name="q"
+              defaultValue={seeded}
               placeholder="Keywords…"
-              onChange={(e) => {
-                try {
-                  if (e && e.target) setQuery(str(e.target.value))
-                } catch (err) {}
-              }}
             />
-            <button
-              type="button"
-              className="pt-btn"
-              onClick={() => {
-                doSearch()
-              }}
-            >
+            <button type="submit" className="pt-btn">
               Search
             </button>
-          </div>
+          </form>
           {displaySubmitted.length > 0 ? (
             <p className="pt-muted">
               {'Results for "' + displaySubmitted + '"'}
