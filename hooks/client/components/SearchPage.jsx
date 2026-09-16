@@ -256,7 +256,7 @@ export default function SearchPage(props) {
           </div>
           {displaySubmitted.length > 0 ? (
             <p className="pt-muted">
-              Results for “{displaySubmitted}”
+              {'Results for "' + displaySubmitted + '"'}
               {displayError.length > 0 ? ' — ' + displayError : ''}
             </p>
           ) : null}
