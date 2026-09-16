@@ -9,7 +9,8 @@ import BootShell from 'hooks/client/components/BootShell.jsx'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
-import SearchPage, { ensureSearchFormNav } from 'hooks/client/components/SearchPage.jsx'
+import SearchPage from 'hooks/client/components/SearchPage.jsx'
+import { ensureSearchFormNav } from 'hooks/client/searchFormNav.js'
 
 function str(v) {
   if (v === null) return ''
