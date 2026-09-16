@@ -52,7 +52,11 @@ export function ensureSearchFormNav() {
         let form = null
         if (e && e.target) form = e.target
         try {
-          if (form && form.tagName && String(form.tagName).toUpperCase() !== 'FORM') {
+          let tag = ''
+          try {
+            if (form && form.tagName) tag = '' + form.tagName
+          } catch (eTag) {}
+          if (form && tag !== 'FORM' && tag !== 'form') {
             if (typeof form.closest === 'function') form = form.closest('form')
           }
         } catch (eClosest) {}
