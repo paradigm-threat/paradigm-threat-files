@@ -2,7 +2,7 @@
  * Thin files — in-repo CleverScript site shell.
  * Same-origin only (no other content repos). Hard md components disabled.
  */
-import React, { useEffect } from 'react'
+import React from 'react'
 import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
 import BootShell from 'hooks/client/components/BootShell.jsx'
@@ -10,26 +10,40 @@ import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
 
-const OLD_SEARCH = 'https://old.paradigmthreat.net/search'
+const ARCHIVE = 'https://old.paradigmthreat.net'
+const OLD_SEARCH = ARCHIVE + '/search'
 
-/** Temporary: park /search → archive search until Relay search is ready. */
-function RedirectToOldSearch() {
-  useEffect(() => {
-    try {
-      const g = globalThis
-      if (g && g.location) {
-        g.location.href = OLD_SEARCH
-      }
-    } catch (e) {}
-  }, [])
+/** Temporary: park /search → archive (no hooks — CleverScript SSR rejects useEffect here). */
+function RedirectToOldSearch(props) {
+  let dest = OLD_SEARCH
+  try {
+    if (props && typeof props.href === 'string' && props.href.length > 0) {
+      dest = props.href
+    }
+  } catch (e) {}
   return (
     <main className="pt-page" style={{ padding: '2rem 1rem' }}>
+      <meta httpEquiv="refresh" content={'0;url=' + dest} />
       <p className="pt-muted">
         Redirecting to archive search…{' '}
-        <a href={OLD_SEARCH}>old.paradigmthreat.net/search</a>
+        <a href={dest}>old.paradigmthreat.net/search</a>
       </p>
     </main>
   )
+}
+
+function archiveSearchHref(route) {
+  let dest = OLD_SEARCH
+  if (typeof route === 'string' && route.indexOf('/search/') === 0) {
+    dest = ARCHIVE + route
+  }
+  try {
+    const g = globalThis
+    if (g && g.location && typeof g.location.search === 'string' && g.location.search.length > 0) {
+      if (dest.indexOf('?') < 0) dest = dest + g.location.search
+    }
+  } catch (e) {}
+  return dest
 }
 
 function str(v) {
@@ -78,8 +92,8 @@ function articleFilePath(route) {
 export default function ParadigmFilesRelayRoot() {
   const route = initialRoute()
   let page = null
-  if (route === '/search') {
-    page = <RedirectToOldSearch />
+  if (route === '/search' || (typeof route === 'string' && route.indexOf('/search/') === 0)) {
+    page = <RedirectToOldSearch href={archiveSearchHref(route)} />
   } else if (route === '/' || route === '/index.md' || route === '/page.md') {
     page = <ArticleView currentPath="/" filePath="page.md" />
   } else if (route === '/articles') {
