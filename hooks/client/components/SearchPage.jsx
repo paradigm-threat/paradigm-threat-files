@@ -172,43 +172,48 @@ function topicPathSegment(q) {
 
 /** Soft-hydrate skips onClick; bind once via native submit → /search/{topic} for SSR fill. */
 let searchFormNavBound = false
-function ensureSearchFormNav() {
+export function ensureSearchFormNav() {
   if (searchFormNavBound === true) return
   try {
     const g = globalThis
     if (!g || !g.document || typeof g.document.addEventListener !== 'function') return
-    searchFormNavBound = true
-    g.document.addEventListener(
-      'submit',
-      (e) => {
+    const onSubmit = (e) => {
+      try {
+        let form = null
+        if (e && e.target) form = e.target
         try {
-          let form = null
-          if (e && e.target) form = e.target
-          if (!form) return
-          let id = ''
-          try {
-            id = form.id
-          } catch (eId) {}
-          if (id !== 'pt-search-form') return
-          let q = ''
-          try {
-            const inp = form.querySelector('#pt-search-input')
-            if (inp && typeof inp.value === 'string') q = str(inp.value).trim()
-          } catch (eInp) {}
-          const seg = topicPathSegment(q)
-          if (seg.length === 0) return
-          try {
-            if (e && typeof e.preventDefault === 'function') e.preventDefault()
-          } catch (ePrev) {}
-          try {
-            if (e && typeof e.stopPropagation === 'function') e.stopPropagation()
-          } catch (eStop) {}
-          const dest = siteHref('/search/' + seg)
-          if (g.location) g.location.assign(dest)
-        } catch (eSub) {}
-      },
-      true,
-    )
+          if (form && form.tagName && String(form.tagName).toUpperCase() !== 'FORM') {
+            if (typeof form.closest === 'function') form = form.closest('form')
+          }
+        } catch (eClosest) {}
+        if (!form) return
+        let id = ''
+        try {
+          id = form.id
+        } catch (eId) {}
+        if (id !== 'pt-search-form') return
+        let q = ''
+        try {
+          const inp = form.querySelector('#pt-search-input')
+          if (inp && typeof inp.value === 'string') q = str(inp.value).trim()
+        } catch (eInp) {}
+        const seg = topicPathSegment(q)
+        if (seg.length === 0) return
+        try {
+          if (e && typeof e.preventDefault === 'function') e.preventDefault()
+        } catch (ePrev) {}
+        const dest = siteHref('/search/' + seg)
+        try {
+          if (g.location && typeof g.location.assign === 'function') {
+            g.location.assign(dest)
+          } else if (g.location) {
+            g.location.href = dest
+          }
+        } catch (eLoc) {}
+      } catch (eSub) {}
+    }
+    g.document.addEventListener('submit', onSubmit)
+    searchFormNavBound = true
   } catch (eBind) {}
 }
 

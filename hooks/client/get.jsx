@@ -9,7 +9,7 @@ import BootShell from 'hooks/client/components/BootShell.jsx'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
 import HomePage from 'hooks/client/components/HomePage.jsx'
-import SearchPage from 'hooks/client/components/SearchPage.jsx'
+import SearchPage, { ensureSearchFormNav } from 'hooks/client/components/SearchPage.jsx'
 
 function str(v) {
   if (v === null) return ''
@@ -95,6 +95,8 @@ function searchInitialQuery(route) {
 }
 
 export default function ParadigmFilesRelayRoot() {
+  // Soft-hydrate may skip SearchPage remount; bind search form nav from root.
+  ensureSearchFormNav()
   const route = initialRoute()
   let page = null
   if (route === '/search' || (typeof route === 'string' && route.indexOf('/search/') === 0)) {
