@@ -174,42 +174,81 @@ function topicPathSegment(q) {
 let searchFormNavBound = false
 function ensureSearchFormNav() {
   if (searchFormNavBound === true) return
-  searchFormNavBound = true
   try {
     const g = globalThis
     if (!g || !g.document || typeof g.document.addEventListener !== 'function') return
-    g.document.addEventListener('submit', (e) => {
-      try {
-        const form = e && e.target
-        if (!form || form.id !== 'pt-search-form') return
-        let q = ''
+    searchFormNavBound = true
+    g.document.addEventListener(
+      'submit',
+      (e) => {
         try {
-          const inp = form.querySelector('#pt-search-input')
-          if (inp && typeof inp.value === 'string') q = str(inp.value).trim()
-        } catch (eInp) {}
-        const seg = topicPathSegment(q)
-        if (seg.length === 0) return
-        if (e && typeof e.preventDefault === 'function') e.preventDefault()
-        const dest = siteHref('/search/' + seg)
-        if (g.location) g.location.href = dest
-      } catch (eSub) {}
-    })
+          let form = null
+          if (e && e.target) form = e.target
+          if (!form) return
+          let id = ''
+          try {
+            id = form.id
+          } catch (eId) {}
+          if (id !== 'pt-search-form') return
+          let q = ''
+          try {
+            const inp = form.querySelector('#pt-search-input')
+            if (inp && typeof inp.value === 'string') q = str(inp.value).trim()
+          } catch (eInp) {}
+          const seg = topicPathSegment(q)
+          if (seg.length === 0) return
+          try {
+            if (e && typeof e.preventDefault === 'function') e.preventDefault()
+          } catch (ePrev) {}
+          try {
+            if (e && typeof e.stopPropagation === 'function') e.stopPropagation()
+          } catch (eStop) {}
+          const dest = siteHref('/search/' + seg)
+          if (g.location) g.location.assign(dest)
+        } catch (eSub) {}
+      },
+      true,
+    )
   } catch (eBind) {}
 }
 
+function readLocationQuery() {
+  try {
+    const g = globalThis
+    if (!g || !g.location || typeof g.location.search !== 'string') return ''
+    const s = g.location.search
+    if (s.indexOf('q=') < 0) return ''
+    let raw = s
+    if (raw.charAt(0) === '?') raw = raw.slice(1)
+    const parts = raw.split('&')
+    for (let i = 0; i < parts.length; i++) {
+      const p = parts[i]
+      if (p.indexOf('q=') === 0) {
+        let v = p.slice(2)
+        v = v.split('+').join(' ')
+        return str(v).trim()
+      }
+    }
+  } catch (e) {}
+  return ''
+}
+
 export default function SearchPage(props) {
+  // Bind submit nav on any client document (do not wait for isClientLive).
+  ensureSearchFormNav()
+
   let currentPath = '/search'
   try {
     if (props.currentPath) currentPath = str(props.currentPath)
   } catch (e) {
     currentPath = '/search'
   }
-  const seeded = readSeededQuery(props)
+  let seeded = readSeededQuery(props)
+  if (seeded.length === 0) {
+    seeded = readLocationQuery()
+  }
   const live = isClientLive() === true
   const softKeep = live === true && hasSsrSearchResults() === true
-  if (live === true) {
-    ensureSearchFormNav()
-  }
 
   // Results state kept for live auto-fill display path.
   const resultState = useState({ error: '', rows: [] })
