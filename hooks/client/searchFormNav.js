@@ -3,6 +3,7 @@
  * Bind native form submit → /search/{topic} so the first paint SSR-fills results.
  * Also seed #pt-search-input once per session (CleverScript emits defaultValue as a
  * non-HTML attr; value= is correct, but soft-hydrate must not clobber typing).
+ * Use bare `document` / tip Dom — not globalThis / window.
  */
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 
@@ -45,11 +46,22 @@ function topicPathSegment(q) {
   return out
 }
 
+/** Skip SSR hosts — never mark bound against a non-browser document. */
+function isBrowserDom() {
+  try {
+    if (typeof document === 'undefined') return false
+    if (!document || !document.body) return false
+    if (typeof document.addEventListener !== 'function') return false
+  } catch (e) {
+    return false
+  }
+  return true
+}
+
 function seedFromLocation() {
   try {
-    const g = globalThis
-    if (!g || !g.location) return ''
-    const path = typeof g.location.pathname === 'string' ? g.location.pathname : ''
+    if (typeof location === 'undefined' || !location) return ''
+    const path = typeof location.pathname === 'string' ? location.pathname : ''
     const marker = '/search/'
     const idx = path.indexOf(marker)
     if (idx >= 0) {
@@ -59,7 +71,7 @@ function seedFromLocation() {
       rest = rest.split('_').join(' ')
       if (rest.length > 0) return str(rest).trim()
     }
-    const s = typeof g.location.search === 'string' ? g.location.search : ''
+    const s = typeof location.search === 'string' ? location.search : ''
     if (s.indexOf('q=') < 0) return ''
     let raw = s
     if (raw.charAt(0) === '?') raw = raw.slice(1)
@@ -79,10 +91,9 @@ function seedFromLocation() {
 /** Fill the search box once; never overwrite if the user already typed. */
 export function ensureSearchInputSeed() {
   if (searchInputSeeded === true) return
+  if (isBrowserDom() !== true) return
   try {
-    const g = globalThis
-    if (!g || !g.document || !g.document.querySelector) return
-    const inp = g.document.querySelector('#pt-search-input')
+    const inp = document.querySelector('#pt-search-input')
     if (!inp) return
     let cur = ''
     try {
@@ -94,7 +105,7 @@ export function ensureSearchInputSeed() {
     }
     let seed = ''
     try {
-      const form = g.document.querySelector('#pt-search-form')
+      const form = document.querySelector('#pt-search-form')
       if (form) {
         const attr = form.getAttribute('data-pt-search-seed')
         if (typeof attr === 'string') seed = str(attr).trim()
@@ -117,9 +128,8 @@ export function ensureSearchFormNav() {
     ensureSearchInputSeed()
     return
   }
+  if (isBrowserDom() !== true) return
   try {
-    const g = globalThis
-    if (!g || !g.document || typeof g.document.addEventListener !== 'function') return
     const onSubmit = (e) => {
       try {
         let form = null
@@ -151,15 +161,17 @@ export function ensureSearchFormNav() {
         } catch (ePrev) {}
         const dest = siteHref('/search/' + seg)
         try {
-          if (g.location && typeof g.location.assign === 'function') {
-            g.location.assign(dest)
-          } else if (g.location) {
-            g.location.href = dest
+          if (typeof location !== 'undefined' && location) {
+            if (typeof location.assign === 'function') {
+              location.assign(dest)
+            } else {
+              location.href = dest
+            }
           }
         } catch (eLoc) {}
       } catch (eSub) {}
     }
-    g.document.addEventListener('submit', onSubmit)
+    document.addEventListener('submit', onSubmit)
     searchFormNavBound = true
     ensureSearchInputSeed()
   } catch (eBind) {}

@@ -305,6 +305,25 @@ export default function Nav(props) {
               aria-label="Open menu"
               aria-expanded="false"
               disabled={!live}
+              onClick={() => {
+                if (!live) return
+                try {
+                  if (!document || !document.querySelector) return
+                  const header = document.querySelector('.pt-site-nav')
+                  if (!header) return
+                  let open = false
+                  try {
+                    open = header.getAttribute('data-pt-nav-open') === '1'
+                  } catch (eOpen) {}
+                  const next = open !== true
+                  header.setAttribute('data-pt-nav-open', next ? '1' : '0')
+                  const btn = document.querySelector('.pt-nav-menu-btn')
+                  if (btn) {
+                    btn.setAttribute('aria-expanded', next ? 'true' : 'false')
+                    btn.setAttribute('aria-label', next ? 'Close menu' : 'Open menu')
+                  }
+                } catch (e) {}
+              }}
             >
               <span className="pt-nav-menu-open" aria-hidden="true">
                 <IconMenu />
