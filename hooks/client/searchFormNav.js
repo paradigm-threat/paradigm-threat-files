@@ -60,8 +60,11 @@ function isBrowserDom() {
 
 function seedFromLocation() {
   try {
-    if (typeof location === 'undefined' || !location) return ''
-    const path = typeof location.pathname === 'string' ? location.pathname : ''
+    if (isBrowserDom() !== true) return ''
+    // CleverScript SSR analyzer rejects bare `location` — use document.location.
+    const loc = document.location
+    if (!loc) return ''
+    const path = typeof loc.pathname === 'string' ? loc.pathname : ''
     const marker = '/search/'
     const idx = path.indexOf(marker)
     if (idx >= 0) {
@@ -71,7 +74,7 @@ function seedFromLocation() {
       rest = rest.split('_').join(' ')
       if (rest.length > 0) return str(rest).trim()
     }
-    const s = typeof location.search === 'string' ? location.search : ''
+    const s = typeof loc.search === 'string' ? loc.search : ''
     if (s.indexOf('q=') < 0) return ''
     let raw = s
     if (raw.charAt(0) === '?') raw = raw.slice(1)
@@ -161,11 +164,12 @@ export function ensureSearchFormNav() {
         } catch (ePrev) {}
         const dest = siteHref('/search/' + seg)
         try {
-          if (typeof location !== 'undefined' && location) {
-            if (typeof location.assign === 'function') {
-              location.assign(dest)
+          const loc = document.location
+          if (loc) {
+            if (typeof loc.assign === 'function') {
+              loc.assign(dest)
             } else {
-              location.href = dest
+              loc.href = dest
             }
           }
         } catch (eLoc) {}
