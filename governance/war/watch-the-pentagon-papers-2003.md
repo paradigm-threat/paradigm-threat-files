@@ -5,7 +5,7 @@
 
 > **TL;DR:** FX’s under-watched *The Pentagon Papers* (2003) is the door into a century spine: Ayn Rand’s scar-export philosophy, the RAND Corporation token, McNaughton killed for telling Ellsberg, the 1971 leak, the 2001–2005 NSA declass counter-push (Tonkin, Mars remote viewing), and a 2026 close where NSA-line Warhawks smash the CIA-backed Ayatollah depleted-uranium hydra while CIA-line Warhawks chase chaos for its own sake. Libertarians sell American-style communism in Western costume; Ron Paul’s Fourth Amendment virtue-signaling cuts away the Patriot Act / War on Terror reality Congress and the President already decided.
 
-FX put *The Pentagon Papers* on screen in **2003** with James Spader as Daniel Ellsberg. It did not become a national ritual the way the leak itself did in **1971**. It sat under-watched while the country argued about other wars. The film is short enough, blunt enough, and strange enough that it still works as an entry key — not because it is a perfect history textbook, but because it puts the emotional hinge on screen: Ellsberg comes home from Vietnam and finds that John McNaughton has been killed in what the narration calls a freak plane accident. He was gone. The Pentagon sponsor lane closes. Hepatitis, depression, return to RAND, and then the McNamara history study that becomes the Papers.
+FX put [*The Pentagon Papers*](https://www.youtube.com/watch?v=mEsaa08eFOc) on screen in **2003** with James Spader as Daniel Ellsberg. It did not become a national ritual the way the leak itself did in **1971**. It sat under-watched while the country argued about other wars. The film is short enough, blunt enough, and strange enough that it still works as an entry key — not because it is a perfect history textbook, but because it puts the emotional hinge on screen: Ellsberg comes home from Vietnam and finds that John McNaughton has been killed in what the narration calls a freak plane accident. He was gone. The Pentagon sponsor lane closes. Hepatitis, depression, return to RAND, and then the McNamara history study that becomes the Papers.
 
 That beat is not decoration. It is the place where a living truth-channel gets cut, and the rest of this page is the longer calendar that makes that cut make sense.
 
@@ -37,17 +37,15 @@ On **19 July 1967**, Piedmont Airlines Flight 22 collided midair near Hendersonv
 
 Ellsberg is not cast here as a saint or a pure hero. He is a historic antibody — an insider pushed too far who turned on his masters. RAND clearance culture, McNaughton’s circle, the Papers in the safes, then the **1971** rupture. That is historically important without requiring that he was “good.”
 
-![Historical antibodies — independent agents against erasure (timeline chapter)](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
+![Historical antibodies — independent agents against erasure (timeline chapter)](https://timeline.paradigmthreat.net/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
 
 ## The 2001–2005 window
 
 The 1990s seeded calm with NSA-aligned cinema so that when the shock came, the public already had a grammar for it. In **2001**, the 9/11 false-flag window kicked an interagency counter-plan: public War on Terror instead of a slow-burn covert holy-war script, and the loss of the CIA’s New York station in Building 7. That same window opened a concentrated declassification offensive.
 
-![9/11 predictive programming — media rehearsal before the public event](https://paradigmthreat.net/influence/predictive_programming/predictive_programming_911_media.png)
-
 By **2000**, the CIA Reading Room surface already carried the Mars remote-viewing worksheet — life-on-Mars grammar entering public view from agency paper, not from hobby invention. In **2003**, FX’s *The Pentagon Papers* sat as the cultural crest of Ellsberg / Vietnam-truth grammar while NSA historian Robert Hanyok was still fighting to put Tonkin SIGINT on the open record. The Tonkin second-attack fraudulence finally broke into public release in late **2005** and **2006**. Schools still mostly refuse to teach it. By about **2006** the antibody lane had to bunker ahead of the Obama years, when CIA-line plots — Ayatollah geometry, depleted-uranium proxy threat, the larger holy-war board — pressed hard again.
 
-![CIA 1984 Mars remote viewing × Chrono Trigger — Reading Room surface and disclosure posture](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.png)
+![CIA Reading Room Mars exploration 1984 — remote viewing investigation](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png)
 
 ## Ron Paul and the useful blindness
 
@@ -57,11 +55,7 @@ The same cutting-away shows up on Iran. Paul strongly opposes military action, p
 
 ## 2026 — the Warhawks were right, if you name which camp
 
-The story arc ends in **2026** with a revelation that is easy to miss if “Warhawk” stays one word.
-
-![Ghost War: The Antibody Phase — NSA vs CIA, proxy terror, and Hollywood containment](https://paradigmthreat.net/influence/hollywood/ghost-war-the-antibody-phase.png)
-
-Warhawks were right about a great deal. Separate them into two camps first.
+The story arc ends in **2026** with a revelation that is easy to miss. Warhawks were right about a great deal. Separate them into two camps first.
 
 NSA-line Warhawks argue that war is sometimes necessary — especially defensively or surgically — to create a reasonable outcome, and they say this in the interests of the country. CIA-line Warhawks are interested in creating chaos in regions they want destabilized so those regions never become threats of various natures. Both camps call out the other camp’s version of sponsored terrorism, and both are themselves responsible for sponsoring a version. NSA-aligned spokespeople will talk about moderate terrorists or radical groups, using *moderate* to signal that there is no radical control over the group — Islam or otherwise — and that those fighters are less likely to kill and torture people. CIA-backed narratives tend to treat all terrorists as equal. That blindness misses the plan turning on itself: moderate terrorists acting as antibodies to a virus. The more attention gets drawn to that antibody layer, the more the virus works. So the CIA-aligned camp has to stay blind to the two forms of terrorism.
 
@@ -69,13 +63,10 @@ In **2026** the board closed on the Iran war that happened and the elimination o
 
 ![Mission Accomplished (Again) — Iran 2026, media split, and war ledger](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.png)
 
-![Iran war runner — Strait of Hormuz detail (theater map)](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner-map-hormuz.png)
-
 The Iran proxy threat is over. That story ends. The larger Cold War story continues. It didn't end because the USSR fell. It continued on and will only end when the proxy war with Ukraine comes to a close (soon). After that, the next phase may not involve weapons at all. It may take an entirely new shape — something no one can truly predict — with a timeline and a pace faster than anyone can imagine. The spring **2026** ledger and dual-track read live in [Mission Accomplished (Again)](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md).
 
 President Donald Trump announced that NASA is working on a nuclear-powered interplanetary spacecraft set for a Mars mission in **2028** — [Space Reactor-1 Freedom](https://www.nasa.gov/wp-content/uploads/2026/03/america-underway-in-space-on-nuclear-power.pdf), nuclear-electric propulsion, December **2028** window. If my predictions fail and Republicans lose control of Congress, Trump will not be able to do that Mars mission in **2028**. He will look like a fool for announcing it. If they win, the same announcement can read as an extremely aggressive statement. The CIA Democrat-aligned side has already put everything on the table ahead of the midterms — compromising the Supreme Court, the new Federal Reserve pick, and everything else they need. The NSA camp looks like it has put everything on the table too, including a final plan to go meet the true instigators of chaos on Earth in a peaceful mission. That would put war behind the species forever. Sounds like Science Fiction, right?
 
-![CIA Reading Room Mars exploration 1984 — remote viewing investigation](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.png)
 
 ## Where next
 
@@ -95,6 +86,8 @@ President Donald Trump announced that NASA is working on a nuclear-powered inter
 The RAND naming lock, McNaughton assassination thesis, Objectivism-as-Marxism rebrand, 9/11 counter-plan geometry, 2026 hydra close, midterms–Mars **2028** stake, and “peaceful mission ends war for the species” read are author synthesis on this page. Documented floors — Project RAND packaging, Piedmont Flight 22 as event, Papers leak, Hanyok Tonkin release, Mars Reading Room stamp, Paul’s public NSA criticism, spring 2026 Iran war reporting, NASA SR-1 Freedom / December **2028** nuclear-electric Mars pathfinder materials — live with fuller tables and Limits in the companion dossiers linked above. This page does not treat posthumous memorial phrasing about McNaughton as proof of anything. Film dialogue is cultural memory, not crash forensics.
 
 Keywords: #PentagonPapers #Ellsberg #McNaughton #RAND #AynRand #Objectivism #Libertarian #RonPaul #NSA #CIA #NineEleven #Tonkin #Mars #RemoteViewing #Iran2026 #DepletedUranium #Warhawks #Antibody #SR1Freedom #Mars2028 #Trump #ParadigmThreat
+
+**Substack:** [paradigmthreat2.substack.com/p/watch-the-pentagon-papers-2003](https://paradigmthreat2.substack.com/p/watch-the-pentagon-papers-2003)
 
 **Last updated:** 2026-09-17
 
