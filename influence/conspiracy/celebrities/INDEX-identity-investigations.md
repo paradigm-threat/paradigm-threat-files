@@ -55,7 +55,7 @@ Same handler grammar (exposure unbearable → run back to protection). Different
 | Subject | File | Status | Lane |
 |---------|------|--------|------|
 | **Amanda Lear** | [amanda-lear.md](amanda-lear.md) | Open (2026-08-13) | **AU-048** — contested paper; Dali hermaphrodite; public-sphere natal-sex rumor |
-| **Ayn Rand** | [ayn-rand.md](ayn-rand.md) | Open (2026-09-17) | **AU-048** — **potentially natal male**; Russia→America **1926**; Sciabarra metaphor + Mises “man” + male-chauvinist surface; G4 = Objectivist Russia-war-prep face ([AU-061](/influence/controlled_opposition/investigations/ayn-rand-objectivism-marxism-rebrand-investigation.md)) |
+| **Ayn Rand** | [ayn-rand.md](ayn-rand.md) | Open (2026-09-17) | **AU-048** — **potentially natal male**; **Golda parallel** (find-and-install / world-changing paths); Russia→America **1926**; Sciabarra metaphor + Mises “man” + male-chauvinist surface; G4 = Objectivist Russia-war-prep face ([AU-061](/influence/controlled_opposition/investigations/ayn-rand-objectivism-marxism-rebrand-investigation.md)) |
 | **Bruce Lee** | [bruce-lee.md](bruce-lee.md) | Ongoing | **AU-048** — childhood female name/dress/school; Wing Chun female lineage / Wuxing strip; *Iron Monkey* (1993) girl-as-boy export |
 | **David Bowie** | [david-bowie.md](david-bowie.md) | Open (2026-08-13) | **AU-048** — age-17 industrial outing; Dionysus/Tiresias encryption |
 | **Gal Gadot** | [gal-gadot.md](gal-gadot.md) | Open (expanded 2026-08-13; G3 honest 2026-08-14) | **AU-048** — **Golda mirror**; G3 **weaker** than Golda (Miss Israel / IDF checkable); still belongs on G4; 2017 bait / *WW84* lecture |

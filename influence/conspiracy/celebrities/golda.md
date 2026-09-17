@@ -171,13 +171,13 @@ Before partitioning Palestine, Britain imposed similar divide-and-rule structure
 - [GCHQ: Palestine Mandate](https://www.gchq.gov.uk/information/palestine-mandate)
 - [Pnina Lahav: The Only Woman in the Room](https://www.degruyter.com/document/doi/10.1515/9780691239316/html)
 - [History.com: Golda Meir Iron Lady](https://www.history.com/articles/golda-meir-israel-prime-minister-iron-lady-yom-kippur-war)
-- [Identity INDEX / AU-048](INDEX-identity-investigations.md) · [methodology](facial-skull-sex-estimation-methodology-investigation.md) · [Jackie Chan](jackie-chan.md) (qualification gate) · [Gal Gadot](gal-gadot.md) (Golda mirror) · [David Bowie](david-bowie.md) · [Prince](prince.md) · [Bruce Lee](bruce-lee.md)
+- [Identity INDEX / AU-048](INDEX-identity-investigations.md) · [methodology](facial-skull-sex-estimation-methodology-investigation.md) · [Jackie Chan](jackie-chan.md) (qualification gate) · [Gal Gadot](gal-gadot.md) (Golda mirror) · [Ayn Rand](ayn-rand.md) (**Golda parallel** — find-and-install / Objectivist world path) · [David Bowie](david-bowie.md) · [Prince](prince.md) · [Bruce Lee](bruce-lee.md)
 
 ---
 
-Keywords: #GoldaMeir #AU048 #QualificationGate #ControlHinge #OperationAgatha #BritishMandate #IdentityInvestigations #ParadigmThreatFiles
+Keywords: #GoldaMeir #AU048 #QualificationGate #ControlHinge #OperationAgatha #BritishMandate #IdentityInvestigations #AynRand #ParadigmThreatFiles
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-09-17
 
 ---
 

@@ -173,7 +173,7 @@ Manuscript mountains do **not** automatically equal sole genius authorship — t
 | Sciabarra Queer Studies metaphor | *Ayn Rand, Homosexuality, and Human Liberation* floats the provocative metaphor of a “**gay man trapped in a straight woman’s body**” for her gender / sexuality psychodynamics | **Documented metaphor** (not a natal claim) |
 | Soft-history default | AFAB immigrant novelist; masculine style = personality | **Documented consensus** |
 
-**Author open:** She is a candidate for [**AU-048** natal recode](/influence/conspiracy/celebrities/ayn-rand.md) — **potentially born a man**, sold as woman after the Russia→America crossing. Gate: G1 industrial fame · G2 NBI circle control · G3 Petrograd→U.S. **1926** · G4 Objectivist Russia-war-prep face (this dossier). Metaphor and “man” compliments are **signals**, not Lear-class natal-sex rumor. Full identity lane: [ayn-rand.md](/influence/conspiracy/celebrities/ayn-rand.md) · [INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md).
+**Author open:** She is a candidate for [**AU-048** natal recode](/influence/conspiracy/celebrities/ayn-rand.md) — **potentially born a man**, sold as woman after the Russia→America crossing. **Obvious parallel: [Golda Meir](/influence/conspiracy/celebrities/golda.md)** — not “two tough women,” but the **same motivation**: find them in the Russia-sphere exit lane and set them on **world-changing paths** (Golda → Israel control hinge; Rand → Objectivist America / Russia-war-prep face). Gate: G1 industrial fame · G2 NBI circle control · G3 Petrograd→U.S. **1926** · G4 that install (this dossier). Metaphor and “man” compliments are **signals**, not Lear-class natal-sex rumor. Full identity lane: [ayn-rand.md](/influence/conspiracy/celebrities/ayn-rand.md) · [INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md).
 
 ---
 
@@ -186,7 +186,7 @@ Manuscript mountains do **not** automatically equal sole genius authorship — t
 5. **Purpose:** prepare America for **war with Russia**; anti-communism is subordinate packaging.  
 6. **Protestantism** shares the structural “good paper / evil history” flaws she pinned on communism.  
 7. Cross-link: RAND Corporation name may be **Ayn Rand** token (**AU-060**); corp function = East-war analytic machine.  
-8. Cross-link: **AU-048** — potentially **natal male** / childhood recode ([identity dossier](/influence/conspiracy/celebrities/ayn-rand.md)); philosophy locks do not prove sex.
+8. Cross-link: **AU-048** — potentially **natal male** / childhood recode ([identity dossier](/influence/conspiracy/celebrities/ayn-rand.md)); **Golda find-and-install parallel** (world-changing paths); philosophy locks do not prove sex.
 
 ---
 
