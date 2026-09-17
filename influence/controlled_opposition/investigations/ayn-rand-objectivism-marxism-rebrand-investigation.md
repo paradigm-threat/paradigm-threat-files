@@ -5,7 +5,7 @@
 **Date:** 2026-09-17  
 **Status:** Open — Marx-rebrand + ghostwriter + Russia-war-prep = Author working theories; biography/movement timeline Documented
 
-**Companions:** [AU-060 RAND](/governance/war/investigations/rand-corporation-name-think-tank-investigation.md) · [controlled opposition hub](/influence/controlled_opposition/page.md) · [Nicaea / *nice*](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) · [soul-science](/history/chronology/investigations/soul-science-investigation.md) · [Ellsberg / McNaughton](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md)
+**Companions:** [AU-060 RAND](/governance/war/investigations/rand-corporation-name-think-tank-investigation.md) · [AU-048 identity — Ayn Rand natal-open](/influence/conspiracy/celebrities/ayn-rand.md) · [controlled opposition hub](/influence/controlled_opposition/page.md) · [Nicaea / *nice*](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) · [soul-science](/history/chronology/investigations/soul-science-investigation.md) · [Ellsberg / McNaughton](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md)
 
 ---
 
@@ -18,8 +18,9 @@
 5. **Documented timeline / movement** → §3  
 6. **Ghostwriter thesis** → §4  
 7. **Rebrand mechanics** → §5  
-8. **Open claims / questions / TODOs** → §6–§8  
-9. **Limits**
+8. **Gender / public image / AU-048 natal-open** → §5.1  
+9. **Open claims / questions / TODOs** → §6–§8  
+10. **Limits**
 
 ---
 
@@ -162,6 +163,18 @@ Manuscript mountains do **not** automatically equal sole genius authorship — t
 
 **Ellsberg irony (corpus rhyme):** Ellsberg leaves RAND’s clearance culture to expose Vietnam lying — while Objectivism sells heroic industrial truth-telling. Different movies, same century of **managed philosophies**. Vietnam leak = crack in a **nested** theater under the Russia plot.
 
+### 5.1 Gender, public image, and AU-048 natal-open (2026-09-17)
+
+| Surface | Content | Tier |
+|---------|---------|------|
+| Mises compliment | Ludwig von Mises called her “the most courageous **man** in America”; she was particularly pleased he said *man* not *woman* | **Documented** |
+| “Male chauvinist” | Rejected women’s liberation; proudly claimed the “male chauvinist” label when asked about feminism | **Documented** (speech / Q&A circuit) |
+| Literary heroes | Novels center dominant, uncompromising male archetypes of heroic independence | **Documented** text pattern |
+| Sciabarra Queer Studies metaphor | *Ayn Rand, Homosexuality, and Human Liberation* floats the provocative metaphor of a “**gay man trapped in a straight woman’s body**” for her gender / sexuality psychodynamics | **Documented metaphor** (not a natal claim) |
+| Soft-history default | AFAB immigrant novelist; masculine style = personality | **Documented consensus** |
+
+**Author open:** She is a candidate for [**AU-048** natal recode](/influence/conspiracy/celebrities/ayn-rand.md) — **potentially born a man**, sold as woman after the Russia→America crossing. Gate: G1 industrial fame · G2 NBI circle control · G3 Petrograd→U.S. **1926** · G4 Objectivist Russia-war-prep face (this dossier). Metaphor and “man” compliments are **signals**, not Lear-class natal-sex rumor. Full identity lane: [ayn-rand.md](/influence/conspiracy/celebrities/ayn-rand.md) · [INDEX](/influence/conspiracy/celebrities/INDEX-identity-investigations.md).
+
 ---
 
 ## 6. Author’s open claims (AU-061)
@@ -172,7 +185,8 @@ Manuscript mountains do **not** automatically equal sole genius authorship — t
 4. Hot public denial (left and right) is **evidence of successful boundary control**, not falsification.  
 5. **Purpose:** prepare America for **war with Russia**; anti-communism is subordinate packaging.  
 6. **Protestantism** shares the structural “good paper / evil history” flaws she pinned on communism.  
-7. Cross-link: RAND Corporation name may be **Ayn Rand** token (**AU-060**); corp function = East-war analytic machine.
+7. Cross-link: RAND Corporation name may be **Ayn Rand** token (**AU-060**); corp function = East-war analytic machine.  
+8. Cross-link: **AU-048** — potentially **natal male** / childhood recode ([identity dossier](/influence/conspiracy/celebrities/ayn-rand.md)); philosophy locks do not prove sex.
 
 ---
 
@@ -214,10 +228,12 @@ Manuscript mountains do **not** automatically equal sole genius authorship — t
 | [soul-science-investigation.md](/history/chronology/investigations/soul-science-investigation.md) | Reformation as Russia-literature containment |
 | [stolen_credit hub](/influence/stolen_credit/) | Ghostwriter adjacency |
 | [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — Rand divisiveness + libertarian / 2026 close |
+| [ayn-rand.md](/influence/conspiracy/celebrities/ayn-rand.md) | **AU-048** natal-open sibling |
+| [INDEX-identity-investigations.md](/influence/conspiracy/celebrities/INDEX-identity-investigations.md) | Cluster hub |
 
 ---
 
-Keywords: #AynRand #Objectivism #Marxism #NathanielBranden #AtlasShrugged #Fountainhead #Ghostwriter #Rebrand #ControlledOpposition #RussiaContainment #Protestantism #Sciabarra #RAND #AU061 #ParadigmThreatFiles
+Keywords: #AynRand #Objectivism #Marxism #NathanielBranden #AtlasShrugged #Fountainhead #Ghostwriter #Rebrand #ControlledOpposition #RussiaContainment #Protestantism #Sciabarra #RAND #AU061 #AU048 #NatalSex #ParadigmThreatFiles
 
 *Last updated: 2026-09-17*
 
@@ -232,6 +248,7 @@ Keywords: #AynRand #Objectivism #Marxism #NathanielBranden #AtlasShrugged #Fount
 - **Ghostwriter thesis is Author** — LOC drafts are Documented holdings, not yet a closed authorship forensic.  
 - Costume differences (property, class) are acknowledged as **Documented** and treated by Author as **rebrand camouflage**, not as automatic falsifiers.  
 - **Protestantism parallel is Author** — not a standard claim in Rand studies.  
+- **AU-048 natal-male hypothesis is Author open** — Sciabarra metaphor and Mises “man” are Documented surfaces, not childhood sex paper. Soft-history AFAB floor stands until contrary archive.  
 - No claim that every RAND employee or every libertarian is a crypto-Marxist.
 
 ---
@@ -242,3 +259,4 @@ Keywords: #AynRand #Objectivism #Marxism #NathanielBranden #AtlasShrugged #Fount
 - Next pass: pull paired quotations (Marx *Capital* / *Manifesto* vs Rand *Atlas* / *Virtue of Selfishness*) into §2.  
 - Optional wget: Rand novels + Branden memoirs under `~/dev/wget/ayn-rand/` when Downloads appear.  
 - Validation pass 2026-09-17: Russia-war-prep, Protestantism, Sciabarra, RAND non-coincidence folded into §1.1 / §2.3 / §5.
+- Identity pass 2026-09-17: §5.1 + celebrities/ayn-rand.md AU-048 natal-open.

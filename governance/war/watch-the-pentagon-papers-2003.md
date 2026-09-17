@@ -1,5 +1,5 @@
 # Watch *The Pentagon Papers* (2003)
-*RAND, McNaughton, Ellsberg, and the line that ends at Iran 2026*
+*RAND, McNaughton, Ellsberg, and everything else the still don’t teach in history class*
 
 ![Watch The Pentagon Papers 2003 — RAND, McNaughton, Ellsberg, Iran 2026](https://paradigmthreat.net/governance/war/watch-the-pentagon-papers-2003.png)
 
