@@ -218,6 +218,7 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 | [cia-investigation.md](/governance/war/investigations/cia-investigation.md) | Infection lane / Iran / DU |
 | [hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | 90s PP threads |
 | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-058** |
+| [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — timeline crest + 2026 close |
 
 ---
 

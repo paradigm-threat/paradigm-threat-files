@@ -204,6 +204,7 @@ Subtitle-validated beat (HANDJOB SRT; see AU-058 Investigator notes):
 | [nsa-investigation.md](/governance/war/investigations/nsa-investigation.md) | Tonkin SIGINT spine |
 | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-059** |
 | [20.55.01-historical-antibodies-profiles](/timeline/evt-historical-antibodies-profiles) | Ellsberg chronology |
+| [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — watch the film; McNaughton beat |
 
 ---
 

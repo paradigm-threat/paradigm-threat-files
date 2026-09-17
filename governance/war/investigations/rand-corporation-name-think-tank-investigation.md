@@ -174,6 +174,7 @@
 | [nicaea-nice-western-civility-mnemonic-investigation.md](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | West-nice / East-barbaric pedagogy |
 | [nuke-waste-is-safe-investigation.md](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) | RAND DU assessment critique |
 | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-060** |
+| [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — RAND token in century spine |
 
 ---
 

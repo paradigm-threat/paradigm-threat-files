@@ -213,6 +213,7 @@ Manuscript mountains do **not** automatically equal sole genius authorship — t
 | [nicaea-nice-western-civility-mnemonic-investigation.md](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | West-nice / East-barbaric |
 | [soul-science-investigation.md](/history/chronology/investigations/soul-science-investigation.md) | Reformation as Russia-literature containment |
 | [stolen_credit hub](/influence/stolen_credit/) | Ghostwriter adjacency |
+| [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — Rand divisiveness + libertarian / 2026 close |
 
 ---
 
