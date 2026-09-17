@@ -79,9 +79,8 @@ Ellsberg’s *Secrets* establishes:
 | **4 Aug 1964** | Real-time Tonkin traffic chaos; Ellsberg + McNaughton in the office as Johnson goes to war on a **non-event** | **Documented** (*Secrets*); second attack later **Validated** by Hanyok |
 | **Dec 1964** | McNaughton to RAND briefers on VC motivation: *“If what you say is true… we’re fighting on the wrong side.”* | **Documented** (*Secrets*) |
 | **1965–67** | Escalation skepticism; privately searching for a **way out** while still drafting official product | **Documented** (memoir / Halberstam / Paullin compilation) |
-| **1972** (*Papers on the War*) | Ellsberg publicly credits **“the late John T. McNaughton”** among colleagues who taught him most (Acknowledgments); body: former boss interpreted presidential/cabinet process “with great insight, detail, and relish” and taught how much “was never written down and that could not be guessed from documents” | **Documented** (primary); “the late” = memorial English, **not** assassination proof — **substance** = truth-transfer channel |
 
-**Author read:** “Knew the truth” is not mystical. It is **classified reality + private confession** to the man who would become the antibody. The 1972 “late McNaughton” lines are **motivational evidence for the truth-transfer lane** (Ellsberg still naming him as the unwritten-policy teacher five years after the crash) — not a smoking gun for cause of death.
+**Author read:** “Knew the truth” is not mystical. It is **classified reality + private confession** to the man who would become the antibody.
 
 ---
 
