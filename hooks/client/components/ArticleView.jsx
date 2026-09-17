@@ -530,9 +530,12 @@ export default function ArticleView(props) {
   //
   // Full-SSR articles and SSR-filled deferred (no `[data-pt-deferred-ssr]`): stay on
   // this shell for all live phases — never re-GET/walk the tip.
+  // ChangeLog lives inside soft-kept markdown HTML; lift a live `<ChangeLog />`
+  // into the vnode so replaceSsrPlaceholdersFromVnode can swap `[data-pt-changelog-ssr]`.
   let hasDeferredSsr = false
   // DirectoryIndex SSR is a placeholder (not full tip HTML) — must fill at phase ≥3.
   let hasDirIndexSsr = false
+  let hasChangelogSsr = false
   if (live === true) {
     try {
       const el = document.querySelector('[data-pt-deferred-ssr]')
@@ -544,6 +547,10 @@ export default function ArticleView(props) {
       )
       if (di) hasDirIndexSsr = true
     } catch (eDi) {}
+    try {
+      const cl = document.querySelector('[data-pt-changelog-ssr]')
+      if (cl) hasChangelogSsr = true
+    } catch (eCl) {}
   }
   const needsDeferredFill = hasDeferredSsr === true
   // Also SPA: warm tree kids under hub path → skip ssr-keep so miss can become DirectoryIndex.
@@ -618,11 +625,14 @@ export default function ArticleView(props) {
     )
   }
   // Full tip SSR (no deferred islands, no DirectoryIndex placeholder): keep shell.
+  // Still emit ChangeLog when the SSR placeholder remains so phase ≥3 can swap it.
   if (
     live === true &&
     needsDeferredFill !== true &&
     needsDirIndexFill !== true
   ) {
+    const changelogKeep =
+      hasChangelogSsr === true ? <ChangeLog limit={8} /> : null
     return (
       <SiteChrome currentPath={currentPath}>
         <div className="pt-page pt-article-page">
@@ -644,6 +654,7 @@ export default function ArticleView(props) {
                   data-pt-article-phase="ssr-keep"
                   aria-hidden="true"
                 />
+                {changelogKeep}
               </Layout>
             </main>
             <DirNav currentPath={currentPath} />
@@ -1246,8 +1257,11 @@ export default function ArticleView(props) {
               ) : showArticleBody ? (
                 live ? (
                   <div className="pt-md" data-pt-article="1">
-                    {/* Soft-hydrate keeps the SSR lead in the DOM; only the
-                        deferred island is swapped from this vnode. */}
+                    {/* Soft-hydrate keeps the SSR lead in the DOM; only deferred /
+                        ChangeLog islands are swapped from this vnode. */}
+                    {hasChangelogSsr === true ? (
+                      <ChangeLog limit={8} />
+                    ) : null}
                     {deferredIsland}
                     <span
                       aria-hidden="true"
