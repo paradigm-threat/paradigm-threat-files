@@ -230,7 +230,7 @@ On this map, the cleanest **operative** question for post-9/11 franchises is not
 
 **Likelihood:** Second attack did not occur as sold — **validated** (Hanyok + NSA 2005 release). Deliberate skew of SIGINT — **Hanyok's documented conclusion** (NSA published it). NSA internal fight to declassify — **validated** (NYT 2005, NSA release). Reading this as **antibody vs war-state** — **interpretive**, structurally consistent with Ellsberg / good-actor frame.
 
-**Cross-refs:** [`20.55.01-historical-antibodies-profiles.md`](/timeline/evt-historical-antibodies-profiles) (Ellsberg/Tonkin); [`09-11-investigation.md`](./09-11-investigation.md) § Gulf of Tonkin template; [`nsa-investigation.md`](/governance/war/investigations/nsa-investigation.md) § IV Tron theory; [`20th-21st-century-catalog.md`](./20th-21st-century-catalog.md#gulf-of-tonkin-1964); [**Timeline — 2000–2005 Tonkin vs Mars declass fight**](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight).
+**Cross-refs:** [`20.55.01-historical-antibodies-profiles.md`](/timeline/evt-historical-antibodies-profiles) (Ellsberg/Tonkin); [`09-11-investigation.md`](./09-11-investigation.md) § Gulf of Tonkin template; [`nsa-investigation.md`](/governance/war/investigations/nsa-investigation.md) § IV Tron theory; [`nsa-2001-2005-declassification-offensive-investigation.md`](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) (**AU-058** window catalog); [`20th-21st-century-catalog.md`](./20th-21st-century-catalog.md#gulf-of-tonkin-1964); [**Timeline — 2000–2005 Tonkin vs Mars declass fight**](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight).
 
 ---
 
