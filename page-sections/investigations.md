@@ -1,13 +1,6 @@
 ## Browse by thesis
 
-<figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm">
- <a href="https://americanfreepress.net/dhs-fishing-on-the-internet-for-dissidents-truthseekers/" target="_blank">
- <OptimizedImage src="/influence/conspiracy/suppressed_speech.jpg" w="360" alt="Suppressed Speech" className="rounded-md"/>
- </a>
- <figcaption className="flex justify-center">
- Homeland Security is fishing the net for dissidents and truthseekers
- </figcaption>
-</figure>
+[![Suppressed Speech — Homeland Security is fishing the net for dissidents and truthseekers](/influence/conspiracy/suppressed_speech.jpg?w=360 '{"className":"sm:float-left clear-left m-auto sm:m-1 sm:mr-6 sm:max-w-sm rounded-md"}')](https://americanfreepress.net/dhs-fishing-on-the-internet-for-dissidents-truthseekers/)
 
 ### [Category: Suppressed](/influence/conspiracy)
 

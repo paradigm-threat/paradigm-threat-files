@@ -1012,10 +1012,10 @@ export default function ArticleView(props) {
       const minPx = estimateDeferredMinHeightPx(src, fragLen, attrMinPx)
       const minStyle = deferredMinHeightStyle(minPx)
       const lightOverrides = {
-        AutoIndex: EmptyMdStub,
-        ChangeLog: EmptyMdStub,
+        AutoIndex: renderAutoIndex,
+        ChangeLog: renderChangeLog,
         ChatRoom: EmptyMdStub,
-        EmbedFile: EmptyMdStub,
+        EmbedFile: renderEmbedFile,
       }
       // SSR: full fragment via host MD (no CS a/h/img overrides). Soft-hydrate keeps it.
       if (live !== true) {
@@ -1184,25 +1184,16 @@ export default function ArticleView(props) {
     )
   }
 
-  // SSR + early hydrate: custom tags only. Native a/h*/img stay on the Rust
-  // md2ast→VDOM path (CS invoke per node is what freezes mobile on big tips).
-  // Full CS overrides (dead-link anchors, heading ids, PopImage) at phase ≥4.
+  // Custom markdown components self-gate with data-pt-*-ssr placeholders until
+  // their hydrate phase. Never EmptyMdStub for ChangeLog/AutoIndex — soft-hydrate
+  // cannot replace a stub (no island attr), so the home ChangeLog would stay missing.
   const phase4 = isClientLivePhase(4) === true
   let articleOverrides = {
-    AutoIndex: EmptyMdStub,
-    ChangeLog: EmptyMdStub,
+    AutoIndex: renderAutoIndex,
+    ChangeLog: renderChangeLog,
     DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
     ChatRoom: EmptyMdStub,
-    EmbedFile: EmptyMdStub,
-  }
-  if (live && phase4 !== true) {
-    articleOverrides = {
-      AutoIndex: isClientLivePhase(3) === true ? renderAutoIndex : EmptyMdStub,
-      ChangeLog: isClientLivePhase(3) === true ? renderChangeLog : EmptyMdStub,
-      DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
-      ChatRoom: EmptyMdStub,
-      EmbedFile: isClientLivePhase(3) === true ? renderEmbedFile : EmptyMdStub,
-    }
+    EmbedFile: renderEmbedFile,
   }
   if (live && phase4 === true) {
     articleOverrides = {
