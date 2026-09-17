@@ -280,7 +280,7 @@ The narrator observed a Martian picking up humans — not killing them — and t
 
 ## The Host Body Theory: What Was Inside the "Martians"
 
-![Host body theory — Martian appearance / *ID4* suit-occupant split (timeline)](https://paradigmthreat.net/files/timeline/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png)
+![Host body theory — Martian appearance / *ID4* suit-occupant split (timeline)](https://timeline.paradigmthreat.net/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png)
 
 ### The Independence Day Precedent
 

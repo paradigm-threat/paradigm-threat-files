@@ -114,7 +114,7 @@ The wars were set in motion by a linchpin — and that same linchpin type, when 
 
 Ellsberg spoke anyway. The Pentagon Papers case collapsed partly because the government broke into his psychiatrist's office — and the judiciary stopped the prosecution ([NYT May 11, 1973](https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/big/0511.html)). Document plus conscience — that is the antibody pattern. The same historical antibodies chapter names **Robert Hanyok**, the NSA historian who fought **2002–2005** to declassify proof the second **Gulf of Tonkin** attack did not occur — SIGINT skewed to sell war while the public got a casus belli ([historical antibodies timeline](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies)). Two eras, same architecture: trusted insiders who used documents to break a war script.
 
-![Historical antibodies — independent agents against erasure (timeline chapter)](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
+![Historical antibodies — independent agents against erasure (timeline chapter)](https://timeline.paradigmthreat.net/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
 
 ### Proxy terror as counter-play
 

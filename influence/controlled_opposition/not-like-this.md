@@ -97,7 +97,7 @@ The Architect (~**1:50:29–1:57:18**) confirms engineering: “I am the Archite
 
 After Neo leaves the source room, he tells Morpheus (~**2:02:21–2:02:37**): “It was a lie, Morpheus. The prophecy was a lie. The One was never meant to end anything. **It was all another system of control.**” The guide demystified—the Oracle and the prophecy path together, not a wise grandmother above the game. The comfortable Oracle died in that sentence for anyone still listening.
 
-![Historical antibodies — independent agents against erasure (timeline chapter)](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
+![Historical antibodies — independent agents against erasure (timeline chapter)](https://timeline.paradigmthreat.net/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
 
 The **manufactured** post-9/11 reception story said audiences wanted comfort, not a compromised guide—**not this read**. *Reloaded* carried the uncomfortable lane: Oracle as control layer, not grandmother. Rolling Stone’s Peter Travers (May 2003) “loved the Oracle, hated the Architect” fits **contain-camp curation**: warm face in reviews, control-system lesson shelved in memory. Easier to remember the burly brawl when critics and fracture voices mark philosophy as cringe.
 

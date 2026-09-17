@@ -34,7 +34,7 @@ Blog roundups should **illustrate** major lanes—not only link to them. Embed *
 - **Alt text:** name the **lane** and what the reader should see (e.g. “Ghost War — Krasinski miscast / antibody containment,” “Napoleon corpses — two camps of medicine”).
 - **Substack posts:** when listing a Substack mirror, note the on-site hero URL if the article has one—readers on paradigmthreat.net and Substack should see the same lead art.
 
-**Search for assets:** `grep -r '!\[' influence/ science/ history/ governance/ cosmos/ --include '*.md'` on changed paths since the cutoff; timeline art often lives under `https://paradigmthreat.net/files/timeline/media/...`.
+**Search for assets:** `grep -r '!\[' influence/ science/ history/ governance/ cosmos/ --include '*.md'` on changed paths since the cutoff; timeline art often lives under `https://timeline.paradigmthreat.net/media/...`.
 
 #### Exclusive image windows (required — no overlap)
 

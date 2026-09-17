@@ -80,7 +80,7 @@ The Sneakers lane in the good-actor investigation names the same split in fictio
 
 The [historical antibodies](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies) chapter names the pattern: independents who expose machinery or carry suppressed knowledge without being staged opposition. Ellsberg copied the Pentagon Papers; **Robert Hanyok** (NSA historian) fought **2002–2005** to declassify proof the second Gulf of Tonkin attack did not occur—SIGINT skewed to sell war. Two antibodies, two eras, same casus-belli architecture. For curriculum silence on Tonkin versus Watergate, see [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md).
 
-![Historical antibodies — independent agents against erasure (timeline chapter)](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
+![Historical antibodies — independent agents against erasure (timeline chapter)](https://timeline.paradigmthreat.net/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)
 
 ## 9/11 had to be public
 

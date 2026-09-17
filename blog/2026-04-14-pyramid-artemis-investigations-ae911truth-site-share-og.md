@@ -33,14 +33,14 @@ Book and appendix chapters gained **investigation links** and **cites** (Michell
 - **[Pyramids — myths evidence (appendix chronology)](https://timeline.paradigmthreat.net/timeline/evt-pyramids-myths-evidence)** — Cross-reads to investigations.
 - **[Fomenko and the pyramid question](https://timeline.paradigmthreat.net/timeline/evt-fomenko-and-the-pyramid-question)** — Appendix touch aligned with pyramid thread.
 - **[Jade Helm & Cruz — 2016 primary](https://timeline.paradigmthreat.net/timeline/evt-jade-helm-cruz-2016-primary)** — Fra Mauro / Sahara investigation **primary** link and ch15 rename alignment.
-- **[Bill Kerrell & Kathy Goggin (author appendix)](https://timeline.paradigmthreat.net/timeline/evt-bill-kerrell-kathy-goggin)** — Habitability framing and **[illustration](https://paradigmthreat.net/files/timeline/media/16.appendix/kerrell-goggin.png)**.
-- **[Les Brown — The Pyramid (author appendix)](https://timeline.paradigmthreat.net/timeline/evt-les-brown-the-pyramid)** — Appendix entry and **[illustration](https://paradigmthreat.net/files/timeline/media/16.appendix/les-brown-pyramid.png)**.
+- **[Bill Kerrell & Kathy Goggin (author appendix)](https://timeline.paradigmthreat.net/timeline/evt-bill-kerrell-kathy-goggin)** — Habitability framing and **[illustration](https://timeline.paradigmthreat.net/media/16.appendix/kerrell-goggin.png)**.
+- **[Les Brown — The Pyramid (author appendix)](https://timeline.paradigmthreat.net/timeline/evt-les-brown-the-pyramid)** — Appendix entry and **[illustration](https://timeline.paradigmthreat.net/media/16.appendix/les-brown-pyramid.png)**.
 - **[Author profiles hub](https://timeline.paradigmthreat.net/timeline/evt-author-profiles)** — Tennant row restore.
 - **[The mudflood world cataclysm](https://timeline.paradigmthreat.net/timeline/evt-the-mudflood-world-cataclysm)** — Linked mudflood evidence thread.
 - **[Mudflood evidence (appendix)](https://timeline.paradigmthreat.net/timeline/evt-mudflood-evidence)** — Evidence stack edits.
-- **[Historical antibodies](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies)** — New **[hero](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)**.
+- **[Historical antibodies](https://timeline.paradigmthreat.net/timeline/evt-historical-antibodies)** — New **[hero](https://timeline.paradigmthreat.net/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png)**.
 - **[Trump (case study)](https://timeline.paradigmthreat.net/timeline/evt-trump)** — Chapter touch in the 21st-century struggle block.
-- **[Where we go from here](https://timeline.paradigmthreat.net/timeline/evt-where-we-go-from-here)** — New **[hero](https://paradigmthreat.net/files/timeline/media/15.ce-21st-the-final-struggle/15.11.00-where-we-go-from-here.png)**.
+- **[Where we go from here](https://timeline.paradigmthreat.net/timeline/evt-where-we-go-from-here)** — New **[hero](https://timeline.paradigmthreat.net/media/15.ce-21st-the-final-struggle/15.11.00-where-we-go-from-here.png)**.
 
 ---
 
