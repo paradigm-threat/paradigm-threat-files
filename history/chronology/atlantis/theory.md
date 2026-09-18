@@ -13,5 +13,5 @@ There may have been an Atlantis on Earth as well, but it was only a shadow compa
 
 ---
 
-Keywords: #Atlantis #Mars
+Keywords: #Atlantis #Mars #Plato #Timaeus #Critias #Earth #NorthPole #TreeOfKnowledge #CollinearConfiguration
 
