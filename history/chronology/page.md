@@ -485,6 +485,8 @@ spherical shape repeating until Priori-Mars finally loses its outer shell in 686
 be remembered as the *Yggdrasil: The Tree of Life*, *The Tower of Babel*, *Ladder or Stairway to Heaven*, and many other
 myths. The cone shape would appear in famous artifacts such as the Egyptian White Crown, the Persian Crown of Mithra.
 
+Hollywood specimens of the same silhouette, hidden as a visual effect of something else (*Lebowski* Gutterballs shoe-rack-to-moon; *The Mummy* 1999 opening): [occult icons / Mountain of Heaven glitch](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md).
+
 ### Quantum Entanglement
 
 During the Golden Age, there was an over-abundance of high-amplitude, low-voltage energy flowing through each planet in

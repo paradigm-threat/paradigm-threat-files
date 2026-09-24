@@ -65,7 +65,7 @@ The Golden Age (4077–3147 BCE, Saturnian chronology) has few datable internal 
 
 ## Talbott Documentary: Canonical Order of Events
 
-**Source:** *Remembering the End of the World* (David Talbott, full documentary), [YouTube](https://www.youtube.com/watch?v=oophJNlP-fk). This sequence is the canonical order used across paradigm-threat docs. **It does not appear in *The Saturn Myth* (1980)** — the book focuses on symbols (crescent, enclosure, cosmic mountain) and Saturn as polar sun; it describes "Mercury, Venus, Mars, and Jupiter at the four corners around Saturn," not the nested Venus-center/Mars-inside layout or the step-by-step dynamical sequence below. For whatever reason, the documentary contains content Talbott's book does not; managed disclosure is one plausible explanation.
+**Source:** *Remembering the End of the World* (David Talbott, full documentary), [YouTube](https://www.youtube.com/watch?v=oophJNlP-fk). This sequence is the canonical order used across paradigm-threat docs. **It does not appear in *The Saturn Myth* (1980)** — the book focuses on symbols (crescent, enclosure, cosmic mountain) and Saturn as polar sun; it describes "Mercury, Venus, Mars, and Jupiter at the four corners around Saturn," not the nested Venus-center/Mars-inside layout or the step-by-step dynamical sequence below. For whatever reason, the documentary contains content Talbott's book does not; managed disclosure is one plausible explanation. Hollywood copies of the same world-mountain silhouette (silent glitch, not lecture): [occult icons / Mountain of Heaven glitch **AU-062**](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md).
 
 ### Golden Age (timeless → crescent → destabilization)
 

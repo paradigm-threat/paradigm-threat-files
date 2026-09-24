@@ -618,6 +618,8 @@ Atlantean/Monotheistic religion blamed the Atlanteans themselves for the end of 
 eating the forbidden fruit of the [Tree of Knowledge](https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil)
 and bringing down the [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel).
 
+**AU-062 working conclusion (2026-09-18):** that insolent host is the raid-memory later called **Viking** — Asgard / Atlantis / Mars, not a local Earth ethnicity. Dossier: [occult icons / Mountain of Heaven glitch](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#45-working-conclusion--vikings-from-asgard--atlantis--mars).
+
 [See: Earth History Timeline Reconstruction](/history/chronology)
 
 ![Yggdrasil, the World Tree from Norse mythology, was connected to Nine Realms i.e. planets](../../history/chronology/saturn/norse_yggdrasil.jpg?w=360)
