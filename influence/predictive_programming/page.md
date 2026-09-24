@@ -193,7 +193,8 @@ Media identified as containing predictive programming by external sources or our
 | *Eyes Wide Shut* | 1999 | Ceremony with women following orders; possible quantum-gate encoding. | Ours |
 | *Event Horizon* | 1997 | Ship folds space; hellish dimension; Lovecraftian gate horror. | Ours |
 | *The Martian* | 2015 | Mars as death sentence; survival in hostile environment. | Ours |
-| *Red Planet* / *Mission to Mars* / *Ghosts of Mars* | 2000–2001 | Mars kills you; do not go. | Ours |
+| *Red Planet* / *Ghosts of Mars* | 2000–2001 | Mars kills you; do not go. | Ours |
+| *Mission to Mars* | 2000 | First hour is a kill-vortex; last reel is **“They seeded Earth” / “They’re us. We’re them.”** / **“One stayed behind. Earth.”** — NSA kinship; Saturnian read: Earth stayed / Mars breakaway at 3147. [AU-062 §8.1a](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#81a-mission-to-mars-2000--l1-face--hologram) | Ours |
 | *The Man Who Fell to Earth* | 1976 | Humanoid refugee from nuclear-devastated planet. | Ours |
 | *Star Wars* | 1977 | Alderaan destroyed; Mars-catastrophe parallel (Brandenburg). | Ours |
 | *I, Robot* | 2004 | AI takeover; Three Laws as slave code. | Ours |

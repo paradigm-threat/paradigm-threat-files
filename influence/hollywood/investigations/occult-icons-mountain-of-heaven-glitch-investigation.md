@@ -2,10 +2,10 @@
 
 ![*The Big Lebowski* (1998) Gutterballs — an inexplicably tall bowling-shoe rack behind Saddam recedes to a full moon, reconstructing the Mountain of Heaven](lebowski-gutterballs-mountain-of-heaven.png)
 
-> **TL;DR:** Open dossier on **occult / sky-religion icons** in film as **alliance grammar**, not as a Jungian symbol soup. **Different treatments of the same shape mark different camps.** The Mountain of Heaven is a **Saturnian cosmology** object — collinear polar stack, **cosmic pillar / world mountain** — illustrated in David Talbott’s [*Remembering the End of the World*](https://www.youtube.com/watch?v=oophJNlP-fk&t=1s). **NSA-aligned** work hides that same silhouette as a **super-subtle glitch**: the mountain appears as a **visual effect of something else**. Seed specimens: ***The Big Lebowski*** (1998) **Gutterballs** — locked as **Saddam + cubby-hole shoe rack stretching to the moon** — and ***The Mummy*** (1999) **opening sun-on-peak**. Shared payload: **we are one species** that once had a **shared sky religion** before it **splintered**. **Gutterballs Viking / Valkyrie:** locked as **Asgard**. **Working conclusion:** Vikings have **no terrestrial origin** — they came from **Mars** in the Golden Age, from **Asgard and Atlantis**, as Plato’s **insolent** Atlantic host; the long origin-mystery was later **closed by redefining “Viking” as a job** so it could be pinned to local Earth graves. **CIA/globalist** contrast: ***Stargate*** (1994) is built to make the audience think **ancient aliens are in charge** of the universe and of us. It **misdirects** the pyramid-and-sun / Mountain of Heaven: the same silhouette **unlocks the gate** as an **alien point of origin**, not as a shared Earth religion. Preferable, on this read, if the mark can look **unrelated to Earth at all**. **2026-09-24 catalog:** when the silhouette is **plot-central**, Hollywood usually runs that **CIA misdirect** (*AVP*, *Revenge of the Fallen*, *Prometheus*, *10,000 BC*, *The Fifth Element*, *Close Encounters*); NSA still **hides** the picture. ***Mission to Mars*** is the only later kinship row and stays **open**. **Prior art (2026-09-18 hunt):** viewers **saw** the rack-to-moon shot; **nobody located** named it Mountain of Heaven. Remaining Gutterballs props besides MoH + Viking are **open or cited**; porn/innuendo is **parked**. **AU-062.**
+> **TL;DR:** Open dossier on **occult / sky-religion icons** in film as **alliance grammar**, not as a Jungian symbol soup. **Different treatments of the same shape mark different camps.** The Mountain of Heaven is a **Saturnian cosmology** object — collinear polar stack, **cosmic pillar / world mountain** — illustrated in David Talbott’s [*Remembering the End of the World*](https://www.youtube.com/watch?v=oophJNlP-fk&t=1s). **NSA-aligned** work hides that same silhouette as a **super-subtle glitch**: the mountain appears as a **visual effect of something else**. Seed specimens: ***The Big Lebowski*** (1998) **Gutterballs** — locked as **Saddam + cubby-hole shoe rack stretching to the moon** — and ***The Mummy*** (1999) **opening sun-on-peak**. Shared payload: **we are one species** that once had a **shared sky religion** before it **splintered**. **Gutterballs Viking / Valkyrie:** locked as **Asgard**. **Working conclusion:** Vikings have **no terrestrial origin** — they came from **Mars** in the Golden Age, from **Asgard and Atlantis**, as Plato’s **insolent** Atlantic host; the long origin-mystery was later **closed by redefining “Viking” as a job** so it could be pinned to local Earth graves. **CIA/globalist** contrast: ***Stargate*** (1994) is built to make the audience think **ancient aliens are in charge** of the universe and of us. It **misdirects** the pyramid-and-sun / Mountain of Heaven: the same silhouette **unlocks the gate** as an **alien point of origin**, not as a shared Earth religion. Preferable, on this read, if the mark can look **unrelated to Earth at all**. **2026-09-24 catalog:** when the silhouette is **plot-central**, Hollywood usually runs that **CIA misdirect** (*AVP*, *Revenge of the Fallen*, *Prometheus*, *10,000 BC*, *Close Encounters*, *2001*); NSA still **hides** the picture except where the payload is **unity** (*Fifth Element*) or **kinship** (*Mission to Mars*). ***Mission to Mars*** stay-behind line, under Saturnian compression: **Earth stayed / Mars became breakaway** at the Golden Age end ([§8.1a](#81a-mission-to-mars-2000--l1-face--hologram)). **Named window:** *ID4* (1996) → *Fifth Element* (1997) → *Lebowski* (1998) → *Mummy* open (1999) → *Mission to Mars* (2000) — same long NSA push as **9/11**, Mars RV **2000-08-08** stamp, *Pentagon Papers* (2003) ([§7.1](#71-the-19962000-nsa-window-as-we-see-it)). **Prior art (2026-09-18 hunt):** viewers **saw** the rack-to-moon shot; **nobody located** named it Mountain of Heaven. Remaining Gutterballs props besides MoH + Viking are **open or cited**; porn/innuendo is **parked**. **AU-062.**
 
 **Date:** 2026-09-24  
-**Status:** Open — author thesis registered; two seed specimens scored; **Saturnian MoH illustration locked** to Talbott; **Gutterballs MoH locked** to shoe-rack-to-moon; **Viking / Valkyrie locked** to Asgard; **Viking origin = Asgard/Atlantis/Mars** registered as working conclusion; **CIA *Stargate* lock** = pyramid-and-sun as **alien unlock**; **§8 film catalog** scored (CIA owns plot-level pyramid; NSA hide remains rare); remaining Gutterballs symbols **open or cited**; prior-art hunt **negative** on Saturnian naming.  
+**Status:** Open — author thesis registered; two seed specimens scored; **Saturnian MoH illustration locked** to Talbott; **Gutterballs MoH locked** to shoe-rack-to-moon; **Viking / Valkyrie locked** to Asgard; **Viking origin = Asgard/Atlantis/Mars** registered as working conclusion; **CIA *Stargate* lock** = pyramid-and-sun as **alien unlock**; **§8 film catalog** scored; ***The Fifth Element* (1997) NSA lock** (unity / paradise; ancient aliens = pin); ***2001* (1968) CIA lock** (opaque symbology; nothing unifying); ***The Mummy Returns* (2001) NSA lock** (twelve tribes; no “bad Arabs”); ***Mission to Mars*** stay-behind = **Earth stayed / Mars breakaway** at 3147 (Saturnian compression; ship-grammar tension flagged); **1996–2000 NSA window named** (*ID4* → *Fifth Element* → *Lebowski* → *Mummy* open → *Mission to Mars*; AU-062p); remaining Gutterballs symbols **open or cited**; prior-art hunt **negative** on Saturnian naming.  
 **Discipline:** Camp labels are **author interpretive taxonomy**. **Accusation ≠ proof of agency production contact.** Score **grammar**, not studio or director. [Magic as operator technology](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md): *occult* here means **misfiled sky-engineering / cosmology**, not a supernatural exception class.
 
 ---
@@ -19,6 +19,7 @@
 5. [Prior art hunt — has anyone else seen the mountain in movies?](#5-prior-art-hunt--has-anyone-else-seen-the-mountain-in-movies)
 6. [Specimen B — *The Mummy* opening](#6-specimen-b--the-mummy-1999-opening)
 7. [CIA contrast — *Stargate* splinter grammar](#7-cia-contrast--stargate-1994-splinter-grammar) — pyramid-and-sun as alien unlock, not unity
+7.1. [The 1996–2000 NSA window](#71-the-19962000-nsa-window-as-we-see-it) — *ID4* → *Fifth Element* → *Lebowski* → *Mummy* open → *Mission to Mars*; Mars RV / 9/11 / *Pentagon Papers*
 8. [Film catalog — other pyramid-and-sun / ladder / MoH titles](#8-film-catalog--other-pyramid-and-sun--ladder--moh-titles)
 9. [Investigator assessment](#9-investigator-assessment)
 10. [Author’s open claims (AU-062)](#10-authors-open-claims-au-062)
@@ -62,7 +63,43 @@ This is **not** the same payload as a pentagram, a Baphomet, or a Ra-as-space-ov
 
 **What the author means (fifth pass):** Hunt the **shape in the plot**, not poster Egypt. Then **sort by treatment**. Unity / shared sky-religion → NSA lane. Mysticism, occupier-gods, ancient aliens, exclusive occult → CIA lane. [§8](#8-film-catalog--other-pyramid-and-sun--ladder--moh-titles).
 
-**Method lock (non-Jungian):** Recurring mountain-plus-disc compositions are tested first as **shared witnessed sky**, not as a collective unconscious. See [prisca sapientia](/docs/PRISCA_SAPIENTIA.md) and [Common Questions Q3](/history/common-questions.md#q3-do-all-indigenous-civilizations-really-share-the-same-origin-story-or-are-the-similarities-just-universal-human-patterns). Viking/Asgard/Atlantis is the same method: **named places in the polar stack**, not a folk-psychology “warrior archetype.” **Treatment still decides camp:** the *Stargate* pyramid-sun is the **same shape** as the Mummy opening; the **payload is inverted**.
+**Author (verbatim capture, 2026-09-24, sixth pass):**
+
+> switch The Fifth Element (1997) to NSA aligned. it's subtle, but that was a very religious unity oriented movie, with intersecting religious themes, never divisive, and with one major cia-aligned pin - ancient aliens. However, there's no reason to suggest that the ancient aliens are contradictory to our shared earth religion. that's what makes that movie beautiful. Everyone gets to go to paradise
+
+**What the author means (sixth pass):** **Ancient aliens is a pin, not an automatic camp flip.** *Stargate* uses the pin to **replace** Earth religion (*they* are in charge; the pyramid-sun is *their* lock). *The Fifth Element* keeps the pin and still runs **shared-religion unity**: intersecting faiths, no sectarian split, **everyone** to paradise. Mondoshawans as stone-guardians do **not** contradict the Earth religion the priest already serves. [§8.1b](#81b-the-fifth-element-1997--nsa-unity-with-one-cia-pin).
+
+**Author (verbatim capture, 2026-09-24, seventh pass):**
+
+> 2001: A Space Odyssey 100% CIA aligned with ancient aliense theme and random symbology not meant for us to understand. nothing unifying in that message
+
+**What the author means (seventh pass):** *2001* is the **opposite** of *The Fifth Element*. Ancient aliens **plus** a mark (the monolith) that is **not a shared Earth religion** — it is **theirs**, opaque on purpose, **not meant for us to understand**. No unity payload. Occupier uplift / starchild mysticism. First-pass “adjacent / CIA-leaning” is **withdrawn**. [§8.2a](#82a-2001-a-space-odyssey-1968--cia-lock).
+
+**Author (verbatim capture, 2026-09-24, eighth pass):**
+
+> The Mummy Returns is nsa aligned and has major themes of religious unity including a reference to the 12 arab tribes that appear in the movie. Unlike mummy 1, 2 has no 'bad arabs' at all
+
+**What the author means (eighth pass):** *Returns* is **title-NSA**, not an opening-only glitch. Religious **unity** is the payload. The on-screen line is the **“12 tribes of the Medjai”** — author read: those are the **Arab tribes** assembled as one people under God. *Mummy* 1 still has a **hangman / colonial-jail** Arab type next to Ardeth; *Returns* **drops the bad-Arab**. First-pass “splinter drift / Q2 open” is **withdrawn**. [§8.1c](#81c-the-mummy-returns-2001--nsa-unity--twelve-tribes).
+
+**Author (verbatim capture, 2026-09-24, ninth pass):**
+
+> wow “One stayed behind. Earth. Before the continents separated.” could mean when the golden age ended, mars civiliazation became break away. validate the logic here assuming 'millions of years' is reduced to a few thosand in saturnian cosmology since the start of the golden age
+
+**What the author means (ninth pass):** Compress the hologram’s **hundreds of millions of years** / Cambrian mask to the Golden Age window (**4077–3147 BCE**, a few thousand from first-creation if Cook’s 10,900 is kept). Then *“One stayed behind. Earth”* is the **stay-behind**: Earth is what remained; **Mars civilization became the breakaway** when the stack ended. *“Before the continents separated”* is the last unified geography, not Wegener deep-time. Validation and the ship-vs-planet tension: [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram).
+
+**Author (verbatim capture, 2026-09-24, tenth pass):**
+
+> lets highlight the 'window' as we see it. 1997 also sits in the window: ID4 (1996) → Fifth Element (1997) → Lebowski (1998) → Mummy open (1999) → Mission to Mars (2000). and any others. link/crossreference with nsa disclosures like 1984 mars remote viewing, pentagon papers, 9/11 (part of nsa aligned plan)
+
+**What the author means (tenth pass):** The **1996–2000** run is a **named NSA antibody cinema window**, not five coincidences. *Fifth Element* (1997) sits **on the spine**, not adjacent. Same-year siblings already scored stay on the table (*Arrival* 1996, *Red Corner* 1997, *Rush Hour* 1998, *Matrix* 1999). The window **pre-seeds** the **9/11** NSA-aligned shock and **rhymes** the **Mars RV** public stamp (**2000-08-08**) and the later **Pentagon Papers** cultural crest (**2003**). [§7.1](#71-the-19962000-nsa-window-as-we-see-it).
+
+**Author (verbatim capture, 2026-09-24, eleventh pass):**
+
+> I think it's pretty clear in Saturnian cosmology that the continents did not split until the Earth started to grow larger, and it did not grow larger until it received one or more deluges of water, which allowed its body to increase in size and the continents to literally drift apart, because the hollow Earth, after all, it's growing in size. So I find the the wording of before the continents split to be extremely interesting, cause that can be defined as literally the moment Atlantis fell, the 1st great deluge and the 1st continental split as a result of the water. I don't think they would have chosen that moment over millions of years if it didn't have anything to do with their society collapsing. Verify that the movie arbitrarily chose that year. Not because... the Cambrian Burst caused their collapse, right?
+
+**What the author means (eleventh pass):** *“Before the continents separated”* is **not** a random Cambrian year. It is the **flight / arrival clock**, and it names the **3147** beat: **Atlantis falls = first great deluge = first continental split**, because **hollow Earth grows** when the water hits. The Cambrian lecture is a **different sentence** — the Earth-side **seed mask**. It did **not** collapse Mars. [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram).
+
+**Method lock (non-Jungian):** Recurring mountain-plus-disc compositions are tested first as **shared witnessed sky**, not as a collective unconscious. See [prisca sapientia](/docs/PRISCA_SAPIENTIA.md) and [Common Questions Q3](/history/common-questions.md#q3-do-all-indigenous-civilizations-really-share-the-same-origin-story-or-are-the-similarities-just-universal-human-patterns). Viking/Asgard/Atlantis is the same method: **named places in the polar stack**, not a folk-psychology “warrior archetype.” **Treatment still decides camp:** the *Stargate* pyramid-sun is the **same shape** as the Mummy opening; the **payload is inverted**. **Aliens-on-screen still do not decide camp** if the payload is shared Earth religion. **Opaque-on-purpose symbology** with **no unity sentence** is CIA even without a pyramid.
 
 ---
 
@@ -305,7 +342,7 @@ The [chronology nine-heim table](/history/chronology/page.md) currently maps **A
 
 ![*The Mummy* (1999) opening — pyramid peak with solar disc sitting on the apex](mummy-opening-pyramid-sun-mountain-of-heaven.png)
 
-**Scope:** Theatrical film; Stephen Sommers; Universal. Sequence: **Thebes opening** (Imhotep / Anck-su-Namun / Seti I) before the 1920s adventure. **Not** *The Mummy Returns* (2001) unless separately cataloged. **Not** a claim that the whole runtime is NSA.
+**Scope:** Theatrical film; Stephen Sommers; Universal. Sequence: **Thebes opening** (Imhotep / Anck-su-Namun / Seti I) before the 1920s adventure. ***The Mummy Returns* (2001)** is now a **separate NSA title lock** ([§8.1c](#81c-the-mummy-returns-2001--nsa-unity--twelve-tribes)) — unity / twelve tribes / no “bad Arabs.” **Whole-runtime NSA for 1999 is still not claimed** (hangman type remains in *Mummy* 1).
 
 **Clip used for still:** [Veronique Laurent — *The Mummy opening scene - Imhotep and Anck-su-Namun*](https://www.youtube.com/watch?v=zjmGbF8_1s8).
 
@@ -367,6 +404,68 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 
 **Camp label (this specimen):** **CIA/globalist Mountain of Heaven misdirect** — **high-confidence** on L1 unlock-glyph + author treatment rule. Full-film camp remains Thread P.
 
+### 7.1 The 1996–2000 NSA window (as we see it)
+
+**Author lock (2026-09-24).** This is the window:
+
+***Independence Day* (1996) → *The Fifth Element* (1997) → *The Big Lebowski* (1998) → *The Mummy* opening (1999) → *Mission to Mars* (2000).**
+
+Not five coincidences. One **NSA antibody cinema** run. *Fifth Element* sits **on the spine**. *Stargate* (1994) is the **CIA contrast immediately before** it. *The Mummy Returns* (2001) is the **unity hangover** into the 9/11 year.
+
+**Lane rule:** same calendar, **different payloads**. Do **not** force every title into 9/11 PP. *ID4* / *Matrix* / *T2* are the **calm-seed** lane. *Fifth Element* / *Lebowski* Gutterballs / *Mummy* open / *Mission to Mars* are the **unity / kinship / MoH** lane. Both are the **same long NSA push** ([AU-058](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md)): 90s cinema seeds recognition; **9/11** (NSA-aligned plan) **opens** the 2001–2005 declassification flood; *The Pentagon Papers* (2003) is the **cultural crest**.
+
+#### Spine (AU-062 / unity-kinship)
+
+| Year | Title | Lane in this dossier | Why it sits here |
+|------|-------|----------------------|------------------|
+| **1996** | ***Independence Day*** | Unity / declass / **WTC shadow** PP | [Thread O](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship). Common foe; Area 51 surfaced; **9/11 calm-seed** |
+| **1997** | ***The Fifth Element*** | Religious **unity**; ancient aliens = **pin** | [§8.1b](#81b-the-fifth-element-1997--nsa-unity-with-one-cia-pin). Everyone to paradise. Not 9/11 PP |
+| **1998** | ***The Big Lebowski*** | MoH **glitch** + Gulf War ROTM | [§4](#4-specimen-a--the-big-lebowski-1998-gutterballs); [Thread S](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
+| **1999** | ***The Mummy* opening** | Silent **sun-on-peak** | [§6](#6-specimen-b--the-mummy-1999-opening). Opening only; hangman type remains |
+| **2000** | ***Mission to Mars*** | Kinship **lecture**; stay-behind = Mars breakaway | [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram). Theatrical **10 Mar 2000** — same year as the Mars RV **public stamp** |
+
+#### Same-year siblings (already scored — other lanes)
+
+Do not invent new camp locks. These are **already** NSA on the two-camp catalog, sitting in the **same years**:
+
+| Year | Title | Lane | Pointer |
+|------|-------|------|---------|
+| **1996** | ***The Arrival*** (Sheen) | Geoengineering / AGW cover | [Thread R](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-r--the-arrival-1996-geoengineering--alien-influence-nsa-flagship) |
+| **1997** | ***Red Corner*** | Pacific / low war-prep | [Thread D](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-d--media-catalog-film--tv-working-tables) |
+| **1998** | ***Rush Hour*** | Pacific buddy / low war-prep | [Thread C](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-c--rush-hour-franchise-19982001) |
+| **1999** | ***The Matrix*** | Cyber / **passport 9/11** PP | [Matrix dossier](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) |
+
+**Same-year CIA contrast (do not swallow):** *Crouching Tiger, Hidden Dragon* (**2000**) is already **CIA/MI6** ancient-East mysticism on Thread D — same year as *Mission to Mars*. Treatment still decides.
+
+#### Edges (not the spine, already scored)
+
+| Year | Title | Role |
+|------|-------|------|
+| **1991** | ***Terminator 2*** | Earlier cyber-antibody; **9′–11″** PP. [Thread N](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-n--terminator-2-judgment-day-1991-cyber-antibody-flagship) |
+| **1994** | ***Disclosure*** | Corporate captain antibody. [AU-057r](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) |
+| **1994** | ***Stargate*** | **CIA** MoH **misdirect** immediately **before** the window. [§7](#7-cia-contrast--stargate-1994-film-globalist--cia-contrast-to-id4) |
+| **1995** | ***Congo*** | NSA-overall / residual Africa contempt. [Thread D](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#congo-1995--nsa-overall-cia-audit-residual-africa-contempt-ksmzinj) |
+| **2001** | ***The Mummy Returns*** | Unity hangover; twelve tribes. [§8.1c](#81c-the-mummy-returns-2001--nsa-unity--twelve-tribes) |
+| **2001** | ***Rush Hour 2*** | Pacific sibling into the 9/11 year. Thread C |
+
+#### Disclosure join — same long push
+
+**Author frame (AU-058):** 1990s NSA-aligned cinema **calm-seeds 9/11**. **9/11** is an **NSA-aligned plan** that **opens** a concentrated **2001–2005 declassification offensive**. *The Pentagon Papers* (2003) is the **cultural crest**. The Mars RV worksheet is the **agency-origin** Mars-life surface. This dossier does **not** claim studio–agency production contact.
+
+| Date | What | Surface | Join |
+|------|------|---------|------|
+| **1984-05-22** | [**MARS EXPLORATION**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) remote-viewing session | CIA / STARGATE worksheet | Session date. Living-Mars / leave-for-elsewhere grammar later **rhymes** *Mission to Mars* kinship. Full read: [Mars RV dossier](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) |
+| **mid–late 1990s** | Congressional **STAR GATE** inventory / batch review | CIA + DIA parapsychology | Filing-cabinet clear, not a why-essay. Same decade as the **film window** |
+| **1996–2000** | **This window** (spine + siblings) | Hollywood | Calm-seed + unity/kinship. [AU-058 §6](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md#6-1990s-nsa-aligned-cinema--calm-seed-for-911) |
+| **2000-03-10** | ***Mission to Mars*** theatrical | Disney / De Palma | Kinship said out loud. **Five months before** the Mars PDF stamp |
+| **2000-08-08** | Mars RV PDF **`Approved For Release 2000/08/08`** | CIA Reading Room | **Documented** stamp. Author: same-year rhyme with the film, not proof one caused the other. [§5.7.1](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md#571-nsa-antibody-window-20002005--tonkin-declass-fight-vs-mars-stamp-author-speculation) |
+| **2001-09-11** | 9/11; WTC 7 (CIA NY station) | Public / [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) | **NSA-aligned plan** that **opens** the declass flood. *ID4* WTC shadow + *Matrix* passport + *T2* 9′–11″ are the **pre-seed** |
+| **2003-03-09** | ***The Pentagon Papers*** (FX) | Mass culture | **Cultural crest** of the offensive. [AU-058 §2](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md#2-starting-point--the-pentagon-papers-2003); [watch note](/governance/war/watch-the-pentagon-papers-2003.md) |
+| **2005–06** | Hanyok / Tonkin SIGINT public | NSA.gov | Hard war-trigger record. Mars stamp was the **easier** crumb (2000) |
+| **~2006** | Antibody lane **bunkers** | Author chronology | Ahead of Obama / CIA-reign. *300* (2006) is a later holy-war-antibody title, **not** this spine |
+
+**Tightest calendar rhyme on the Mars lane:** *Mission to Mars* (March 2000) → Mars RV **Approved For Release** (August 2000). Session is **1984**. Public surface is **2000**. The film says *“They’re us. We’re them.”* The worksheet is the agency-origin text that makes “life on Mars” **not a meme invention**.
+
 ---
 
 ## 8. Film catalog — other pyramid-and-sun / ladder / MoH titles
@@ -381,7 +480,7 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 | **Ladder / mountain plot** | Stairway, Sinai, Devil’s Tower, Holy Mountain as the **place the plot goes** | A staircase in a house with a biblical title only |
 | **Adjacent** | Monolith / Face on Mars / Asgard-as-planet / Ezekiel sun — **axis rhyme**, not the exact silhouette | Every space movie; every “we are not alone” |
 
-**Count from this pass:** NSA-lane **hard** MoH remains **rare** (two seeds, plus one **open** Mars-origin title). CIA-lane **hard** MoH is the **common** Hollywood use — the mountain is *theirs*.
+**Count from this pass:** NSA-lane **hard** MoH remains **rare** (two silent seeds). CIA-lane **hard** MoH is the **common** Hollywood use — the mountain is *theirs*. The **1996–2000 window** ([§7.1](#71-the-19962000-nsa-window-as-we-see-it)) is the calendar those seeds sit in.
 
 ### 8.1 NSA-aligned or NSA-leaning (unity / shared sky)
 
@@ -389,7 +488,9 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 |-------|------|------------------------|---------------|-------|
 | ***The Big Lebowski*** — Gutterballs | 1998 | Saddam + cubby-hole shoe rack to the **moon** | MoH as **visual effect of something else**; no lecture; unity hide | **High** — [§4](#4-specimen-a--the-big-lebowski-1998-gutterballs) |
 | ***The Mummy*** **opening only** | 1999 | Pyramid peak with **solar disc on the apex**; geographically “wrong” Giza-in-Thebes | Same silhouette sold as sunset; **no** “Ra was an alien” in the open | **High** on the **shot**; **not** the whole franchise — [§6](#6-specimen-b--the-mummy-1999-opening) |
-| ***Mission to Mars*** | 2000 | Cydonia **Face**; hologram: Mars wrecked, natives **seed Earth**, humans are **descendants**, one astronaut is invited **home** ([Wikipedia](https://en.wikipedia.org/wiki/Mission_to_Mars)) | Not “Ra owns you.” **We are them.** That is **shared origin**, not occupier priesthood — rhymes this chronology’s Mars/Atlantis lock | **Medium / open** — still uses an ancient-structure *form*; payload is **kinship**, not lock-and-key mysticism |
+| ***Mission to Mars*** | 2000 | **“The face”** / **“giant white face”**; crew on a silent hologram: **“They seeded Earth.”** / **“They’re us. We’re them.”** / **“One stayed behind. Earth. Before the continents separated.”** — [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram) | Kinship, not occupier-Ra. Under Saturnian compression: **Earth stayed / Mars breakaway** at 3147. **2000** sits in the same NSA window as *Lebowski* (1998) and the *Mummy* open (1999) | **High on payload**; **not** a silent MoH *glitch* — they **say** the sentence |
+| ***The Fifth Element*** | 1997 | 1914 **Egyptian temple**; hidden **pyramid chamber**; Mondoshawan stone-guardians; Amarna-style **sun-disc / divine light** glyphs ([Heidelberg](https://journals.ub.uni-heidelberg.de/index.php/aegyp/article/view/105655/106069)) | **Author lock.** Religious **unity**, intersecting faiths, **never divisive**. One **CIA pin** (ancient aliens) that does **not** contradict shared Earth religion. **Everyone gets to go to paradise.** [§8.1b](#81b-the-fifth-element-1997--nsa-unity-with-one-cia-pin) | **High (author)** — subtle; 1997 NSA window |
+| ***The Mummy Returns*** | 2001 | *“These are the commanders of the 12 tribes of the Medjai.”* Ardeth: protector of man / **warrior for God**. No hangman-type | **Author lock.** Religious **unity**; twelve tribes on screen; **no “bad Arabs.”** Unlike *Mummy* 1. [§8.1c](#81c-the-mummy-returns-2001--nsa-unity--twelve-tribes) | **High (author)** — Q2 closed |
 
 ### 8.2 CIA-aligned (misdirect / aliens / exclusive mysticism)
 
@@ -400,7 +501,6 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 | ***Transformers: Revenge of the Fallen*** | 2009 | **Giza** hides a **Sun Harvester**; Primes as ancient gods; The Fallen wants Earth’s **sun** ([plot summaries](https://www.plotexplained.com/movie/transformers-revenge-of-the-fallen)) | Pyramid = **machine**; sun = **fuel**; gods = **robots**. Maximum misdirect | **High** |
 | ***Prometheus*** | 2012 | Star maps in **unconnected ancient cultures**; Engineers **made us**; pyramid-scale cathedral on LV-223 ([Wikipedia](https://en.wikipedia.org/wiki/Prometheus_(2012_film))) | Same-silhouette **invitation** is a **trap**. We are **their experiment** | **High** |
 | ***10,000 BC*** | 2008 | Ice-age tribes enslaved to build **Giza-like pyramids** for an untouchable **“Almighty”** god-king (Emmerich; [Wikipedia](https://en.wikipedia.org/wiki/10,000_BC_(film)); [SETI note](https://www.seti.org/seti-institute/project/details/10000-bc) on the “older pyramids / maybe aliens” play) | Pyramid = **slave project of an Other**. Same director as *Stargate* | **High** |
-| ***The Fifth Element*** | 1997 | 1914 **Egyptian temple**; hidden **pyramid chamber**; Mondoshawan aliens as stone-guardians; Amarna-style **sun-disc / divine light** glyphs ([Heidelberg Egyptology essay](https://journals.ub.uni-heidelberg.de/index.php/aegyp/article/view/105655/106069)) | Egypt is **their temple**. Cosmic good-vs-evil priesthood, not a shared sky-religion | **High** |
 | ***Close Encounters of the Third Kind*** | 1977 | **Devil’s Tower** as the mountain everyone sculpts; lights; selected humans **leave Earth**. Critics already call it a **Sinai** meeting ([Film Fisher](https://filmfisher.substack.com/p/seeking-the-divine-in-close-encounters)) | Mountain = **their airport**. Feeling of worship, payload is **they take the chosen**. Stargate grammar with a butte | **High** on treatment; silhouette is a **butte + lights**, not pyramid+sun |
 | ***Knowing*** | 2009 | Matthäus Merian **Ezekiel sun-chariot**; Abby **colors the Sun**; solar flare wipes Earth; **beings** take the children ([Wikipedia](https://en.wikipedia.org/wiki/Knowing_(film))) | Sun as **destroyer**; remnant saved by **others**. Mysticism + selection, not unity | **Medium** — sun is plot-central; **no pyramid** |
 | ***Indiana Jones and the Kingdom of the Crystal Skull*** | 2008 | Interdimensional / **ancient-astronaut** beings; crystal skulls; El Dorado as their city | Gods were **other**. Splinter of the “lost city” | **Medium** — skull/city, not pyramid+sun |
@@ -408,6 +508,7 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 | ***Thor*** (and later Asgard entries) | 2011– | **Asgard** as an **alien realm**; Bifröst as a **space bridge** | Norse mountain-home **relocated off Earth**. Splinter of the Asgard lock in [§4.3](#43-locked--julianne-moores-viking--valkyrie-outfit--asgard) | **Medium** — ladder rhyme; **not** pyramid+sun |
 | ***Gods of Egypt*** | 2016 | Ra as a literal **sun-god**; pyramids as divine furniture | Gods as **other species** in pulp | **Medium** |
 | *Chariots of the Gods?* | 1970 | von Däniken **documentary**: pyramids = alien tech | Pedagogy film, not a feature narrative. **CIA classroom** | **High** as **source text** for the lane |
+| ***2001: A Space Odyssey*** | 1968 | **Monolith** as pillar; Jupiter; starchild; Dawn of Man / TMA-1 / beyond the infinite | **Author lock — 100% CIA.** Ancient-aliens theme; **random symbology not meant for us to understand**; **nothing unifying**. [§8.2a](#82a-2001-a-space-odyssey-1968--cia-lock) | **High (author)** |
 
 ### 8.3 Mixed, open, or adjacent (do not force)
 
@@ -416,21 +517,109 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 | ***The Holy Mountain*** | 1973 | Quest **up** a sacred mountain (Daumal *Mount Analogue*; tarot / Arica) | **Explicit lecture**, not an NSA hide. Exclusive occult-retail. Q10 | **CIA occult-retail** if scored; not a third NSA seed |
 | ***A Matter of Life and Death*** (*Stairway to Heaven*) | 1946 | Motorized **stairway through the cosmos** (Powell & Pressburger; [Criterion](https://www.criterion.com/current/posts/5830-across-the-great-divide-creating-powell-and-pressburger-s-stairway-to-heaven)) | Wilkins already rhymed Gutterballs to this. Afterlife **ladder**, not aliens, not a silent glitch | **Adjacent ladder** — not camp-scored |
 | ***Jacob’s Ladder*** | 1990 | Title from Genesis; climax is a **house staircase** (Lyne refused a literal heaven-ladder) | Biblical **name** only. Demons / conspiracy / *Bardo*. Not the silhouette | **Out** of hard MoH |
-| ***2001: A Space Odyssey*** | 1968 | **Monolith** as pillar; Jupiter; starchild | Axis mundi, **aliens uplift us**. Elegant ancient-astronaut. No pyramid+sun | **Adjacent / CIA-leaning** if scored |
 | ***The Ten Commandments*** | 1956 | **Sinai**: fire, cloud, law on the mountain | **Explicit** shared-religion mountain. Not a glitch; not aliens | **Unity-adjacent lecture** — not NSA hide |
 | ***2012*** | 2009 | Solar catastrophe; Giza / “arks”; calendar mysticism (Emmerich) | Elite **survival mysticism**, not occupier-Ra, not a silent MoH | **CIA-leaning globalist** if scored; not hard MoH |
 | ***The Fountain*** | 2006 | Mayan **tree / temple**, Spain, space | Spiritual unity **and** occult-retail. Lecture, not glitch | **Open** |
-| ***The Mummy Returns*** | 2001 | Scorpion King / Anubis army | Possible **splinter drift** from the 1999 open. Q2 | **Open** |
 | ***Lost Horizon*** | 1937 | Shangri-La in the **mountains** | Exclusive hidden kingdom / peace-mysticism | **Open** — exclusive, not alien |
 | ***National Treasure*** | 2004 | Pyramid / eye on the dollar | Illuminati **retail**. Exclusive occult branding ([§3](#3-symbol-grammar--icons-as-alliances)) | **CIA branding** if scored; not MoH silhouette as plot engine |
 | ***Contact*** / ***Interstellar*** | 1997 / 2014 | Machine / tesseract; “they” may be **us** | Unity-leaning **science** stories. **No** pyramid+sun | **Out** of this silhouette hunt |
 | ***Independence Day*** | 1996 | Mothership, Area 51 | Already **NSA** on the unity/declass lane (Thread O). **No** MoH lock | **Out** of this silhouette hunt |
 
+### 8.1a *Mission to Mars* (2000) — L1 Face / hologram
+
+**Release:** 10 March 2000 (De Palma; Disney). Last title on the named **1996–2000** spine ([§7.1](#71-the-19962000-nsa-window-as-we-see-it)). **Five months before** the Mars RV **`Approved For Release 2000/08/08`**. Taglines: *“Let There Be Life.”* / *“For centuries, we’ve searched for the origin of life on Earth… We’ve been looking on the wrong planet.”* ([Wikiquote](https://en.wikiquote.org/wiki/Mission_to_Mars))
+
+The Face is **spoken**, not named Cydonia. Luke: *“That’s the face. It’s the face. It’s real. Somebody put that thing there, and it’s not us.”* Jim later: *“We’re millions of miles from Earth inside a giant white face. What’s impossible?”*
+
+The “hologram lecture” is mostly **picture**. Sight & Sound already noted the Martians stay **silent**. The kinship sentence is **crew**:
+
+| Line (L1 / fan-transcript + quote lists) | Who | Why it matters |
+|------------------------------------------|-----|----------------|
+| *“That DNA looks human.”* / *“No, it’s not. It’s missing the last pair of chromosomes.”* | Terri / Luke | Face-noise decoded as a DNA model — a **test** *“to prove that we’re human,”* not a god-lock |
+| *“Is that what I think it is?”* / *“Yeah. It’s Mars.”* / *“That’s where they went.”* / *“Look. One stayed behind. Earth. Before the continents separated.”* | Crew on the projection | They **name the planet and the flight**. They do **not** name the wreck. Picture (wiki/critics): water-world **struck**. Spoken text has **no** “asteroid,” **no** “wrecked.” |
+| *“Hundreds of millions of years ago, there was a sudden explosion of life on Earth. The first multi-celled plants and animals appeared. No one has ever understood why or how it happened.”* | Crew | Cambrian-burst as **seed event**, not occupier miracle |
+| *“They seeded Earth. They seeded Earth.”* | Crew | Exact seed line — [YARN clip](https://getyarn.io/yarn-clip/75d990a9-3ce1-4838-9415-25f5b318057e) |
+| *“They’re us. We’re them.”* | Jim McConnell | **Lock line.** [IMDb](https://www.imdb.com/title/tt0183523/quotes/) / [Wikiquote](https://en.wikiquote.org/wiki/Mission_to_Mars) |
+| *“This is an invitation for us to follow them home.”* / *“To stand on a new world and look beyond it to the next one.”* | Jim (echoing Maggie) | Home, not priesthood. Maggie earlier: *“Life reaches out for life.”* |
+
+Wikipedia’s plot paragraph is a **fair picture summary** (a large body strikes water-world Mars; ships; DNA seed; one astronaut follows). It is **not** the spoken text. **Nobody says “asteroid” or “wrecked.”** “Wrecked” in this dossier was **our** paraphrase of the silent picture. The spoken text is **we are the same people** / **they left**. Script-o-rama theatrical transcript of the planetarium beat; not a shooting-script cite.
+
+**What the picture is doing:** a **collision cartoon** — water Mars, a strike, then uninhabitable. Critics say the same (*“massive space collision”*). Earlier, Luke already used *“meteor impacts”* as generic deep-time **surface weathering** of the Face, not as the hologram cause.
+
+**Saturnian join (do not mash dates):** the film’s rock-from-outside is the **mask**. [Chronology](/history/chronology/page.md#686-bce-march-23---priori-mars-loses-its-outer-shell---iron-age-begins): at **686 BCE** Priori-Mars **loses its outer shell**; that iron shell **becomes the asteroid belt**. Hollywood inverts it — a leftover rock **hits** Mars. The **civilization** wreck is the **3147** stack-break / first deluge / Atlantis fall (Clock A). The **body** wreck (Mars shrinks, shell gone, “asteroids” appear) is **686**. One hologram cartoon covers both.
+
+**Camp sort:** payload is **NSA kinship** — same species, Mars as wrecked home, invitation to follow. That is the opposite of *Stargate* / *Prometheus* (“they made you / they rule you”). It is **not** a second *Lebowski*: they **explain** the monument. Q14 is now only **glitch vs lecture**, not “did they say we are them?”
+
+**Corpus collision:** the PP survey once bundled this title with *Red Planet* / *Ghosts of Mars* as **“Mars kills you; do not go.”** The first hour is a kill-vortex. The last reel is the opposite sentence.
+
+Dialogue checked against the Forever Dreaming theatrical transcript (DVD-sub style) plus the IMDb / Wikiquote lock line. Not a shooting-script cite. No local rip this pass.
+
+#### Saturnian compression — “One stayed behind. Earth” (author, 2026-09-24)
+
+**Author thesis:** *“One stayed behind. Earth. Before the continents separated.”* = when the Golden Age ended, **Mars civilization became the breakaway**. The film’s **hundreds of millions of years** compresses to a **few thousand** from Golden Age start.
+
+**Verdict: the logic holds.** Two layers lock; one grammar tension stays flagged; continental-split is thematic, not a Cook date.
+
+| Piece | Film L1 | Saturnian join | Verdict |
+|-------|---------|----------------|---------|
+| Clock | *“Hundreds of millions of years ago… sudden explosion of life”* (Cambrian mask) | Golden Age **4077–3147 BCE** (~930 years). Cook first-creation window **10,900–3147** if “few thousand” is kept. Chronology: golem → organs **through the Golden Age**, not 540 Ma. | **Holds.** Deep-time is the L1 mask. Compression is already this site’s method. |
+| Same people | *“They’re us. We’re them.”* / DNA “looks human” | [Mars hub](/cosmos/mars/page.md): humans on Mars in the Golden Age | **Holds.** Kinship already L1 (V19). |
+| Earth stayed | *“One stayed behind. Earth.”* | [Chronology](/history/chronology/page.md): planets **violently break away**; at **3147** all nine planets **break from the configuration**. Mars as **offshoot of Earth material** in the Golden Age ([reincarnation dossier](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md)). Earth is the parent body that **stayed**. | **Holds as physics.** “One stayed behind. Earth” is almost literal. |
+| Mars breakaway | Water-world Mars wrecked; *“That’s where they went.”* | Standing corpus: **breakaway humans on Mars** after the stack ends; Poseida upper class escapes at Atlantis fall = Deep State seed. | **Holds as civilization.** The wreck + departure is the film mask of **3147**. |
+| Continents | *“Before the continents separated.”* — attached to the **stay-behind / flight** sentence, not to the Cambrian lecture | Author: continents do **not** split until Earth **grows** from **deluge water**; hollow body expands; **first split = first great deluge = Atlantis fall = 3147**. In-corpus: hollow growth from charge ([chronology § hollow](/history/chronology/page.md#all-planets-and-suns-are-hollow)); first deluge when planets pass the Absu; *“every mountain and island were moved”*; Atlantis as polar **continent**, then **fallen**. Cook/Talbott still name **no** “continental-drift date.” AU-043 Horde isolation is **later**. | **Holds as author lock (L3)** on in-corpus 3147 water + hollow growth. Q17 **closed** this pass. Wegener / Pangea ~200 Ma stays the L1 mask. |
+
+**Two clocks in the dialogue — do not mash them.**
+
+| Clock | Spoken line | What the film is doing (L1) | What it is **not** |
+|-------|-------------|----------------------------|-------------------|
+| **A — flight / arrival** | *“One stayed behind. Earth. Before the continents separated.”* | Timestamp on the **evac**. Wikipedia picture: Mars **asteroid-wrecked**, ships leave, one to Earth. The continents line sits on **that** beat. | **Not** “the Cambrian year.” Not a collapse *caused by* Earth biology. |
+| **B — seed mask** | *“Hundreds of millions of years ago… sudden explosion of life… first multi-celled plants and animals. No one has ever understood why.”* / *“They seeded Earth.”* | Famous textbook mystery used as **evidence they planted life**. Motivated writing: Cambrian is the unexplained burst. Tagline: *“We’ve been looking on the wrong planet.”* | **Not** the cause of Mars dying. **Not** the year they picked for society collapse. |
+
+**Cambrian burst did not collapse them. Correct.** In the movie, the **picture** is a strike; the **crew never names it**. The Cambrian line is what they say **after**, pointing at Earth’s fossil clock as the **seed result**. Cause and costume are reversed if you read Clock B as the wreck. “Wrecked” was this dossier’s word, not theirs.
+
+**They did not arbitrarily pick “that year,” because they did not pick one year.** Mainstream geology already splits the two pictures they stacked: Cambrian explosion **~541 Ma**; Pangea breakup **~175–200 Ma**. Those are **not the same date**. If the writers had meant “collapse = Cambrian,” *“before the continents separated”* would be in the **wrong era** even on their own textbook. They attached the continents line to the **flight**, and the millions-of-years line to the **seed lecture**. That is why the wording is interesting: Clock A is the collapse-adjacent stamp. Clock B is the deep-time mask.
+
+**Saturnian join (author, this pass):** Clock A = **3147**. Stack breaks; first **great deluge** (Absu → salt water); hollow Earth **grows**; **first continental split**; **Atlantis falls**. “Before the continents separated” = **still one geography, the last moment of the age**, not Wegener’s slow drift and not the Cambrian classroom year. Golden Age solar **charge-growth** (planets become too large, stack fails) is the **prior** engine. Deluge-water growth is the **split** engine. Do not collapse those two growths into one.
+
+**Grammar tension (do not hide):** the movie’s evac picture is **ships** — one ship **to** Earth, the rest leave a wrecked Mars for another galaxy, and they **seed** Earth as if it were empty. The corpus says Earth was **already in the stack** the whole Golden Age; life is not planted on a dead planet by late arrivals. Under compression, *“seeded Earth”* is the L1 mask of **one species already on both worlds** / organs-and-life appearing in the Golden Age / Earth as the **stay-behind home** when Mars wrecked and left the stack. The evac-ship is Hollywood cover. The payload that survives is **Earth stayed; Mars became breakaway**. The asteroid is the film’s **mask** of the 3147 wreck.
+
+**Do not collapse with the insolent host.** Stay-behind / breakaway / first split is the **3147 stack-break**. Plato’s insolent Atlantic host (AU-062h) is a **later raid-memory** of that same Mars people, not the seed sentence.
+
+### 8.1b *The Fifth Element* (1997) — NSA unity with one CIA pin
+
+**Author lock (2026-09-24).** First-pass hunt filed this as CIA because Egypt is a **Mondoshawan** temple and the stones are **alien-guarded**. That was the **pin**, not the payload.
+
+**Payload (author):** the film is **religious unity** — intersecting faiths (priest / temple / “fifth element” as love / divine light), **never divisive**. Ancient aliens here do **not** replace or contradict **shared Earth religion**. They keep the mechanism. **Everyone gets to go to paradise.** That is why the movie is beautiful on this read.
+
+**Contrast:** *Stargate* uses the same pin to say **they are in charge** and the pyramid-sun is **unrelated to Earth religion**. *The Fifth Element* uses the pin and still says **the Earth religion is real, shared, and saving**. Subtle — 1997 sits **on the spine** of the named window: *ID4* (1996) → ***Fifth Element* (1997)** → *Lebowski* (1998) → *Mummy* open (1999) → *Mission to Mars* (2000). [§7.1](#71-the-19962000-nsa-window-as-we-see-it).
+
+**L1 that stays:** 1914 Egyptian temple, hidden pyramid chamber, Amarna-style sun-disc / divine-light glyphs, Mondoshawan as stone-guardians. Those facts did not move. The **sort** did.
+
+### 8.1c *The Mummy Returns* (2001) — NSA unity / twelve tribes
+
+**Author lock (2026-09-24).** First-pass parked this as possible **splinter drift** (Scorpion King / Anubis army). That was the **monster furniture**, not the camp.
+
+**L1:** Ardeth, on the commanders: *“These are the commanders of the 12 tribes of the Medjai.”* Earlier: the wrist mark means *“a protector of man, a warrior for God, a Medjai.”* Theatrical English SRT (output timeline). The film says **Medjai**; the author hears **twelve Arab tribes** assembled as one people.
+
+**Payload (author):** major **religious unity**. Unlike *The Mummy* (1999), which still stages a **Cairo hangman / colonial-jail** Arab type next to Ardeth, *Returns* has **no “bad Arabs” at all**. The Arab / Medjai presence is the **honorable world-security watch** only.
+
+**Scope:** this is a **title lock**, not another silent MoH glitch. The 1999 **opening sun-on-peak** stays the glitch specimen. *Returns* is the **unity sequel**. Twelve-tribes-as-world-map is already a chronology rhyme ([lost tribe of Benjamin](/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md)); the film does **not** lecture that map. The author join is **unity on screen**, not a Sommers footnote.
+
+### 8.2a *2001: A Space Odyssey* (1968) — CIA lock
+
+**Author lock (2026-09-24): 100% CIA.** First-pass parked this as adjacent because there is **no pyramid-and-sun**. That was the wrong bar. The monolith is still a **column in the sky-religion slot** — Dawn of Man, TMA-1, Jupiter, starchild — and the **treatment** is occupier mysticism.
+
+**Payload (author):** ancient-aliens theme; **random symbology not meant for us to understand**; **nothing unifying** in the message. *They* leave a mark. We do not share a religion with it. We do not get a kinship sentence. One man is processed into something else.
+
+**Contrast:** *The Fifth Element* keeps aliens and still says **everyone to paradise**. *Mission to Mars* says **they’re us, we’re them**. *2001* says **you will not understand this, and that is the point**. Same pin as *Stargate* / *Prometheus*, earlier (1968), more elegant, same camp.
+
 ### 8.4 What the hunt shows
 
-**The CIA lane owns the plot-level pyramid.** Once the mountain-and-sun has to **do something** in the story — unlock a gate, hide a sun-eater, host a hunt, mark a star map — Hollywood almost always says **it is theirs**. *Stargate*, *AVP*, *Revenge of the Fallen*, *Prometheus*, *10,000 BC*, *The Fifth Element*, *Close Encounters* are the same sentence in different costumes.
+**The CIA lane still owns most plot-level pyramids.** Once the mountain-and-sun has to **do something** in the story — unlock a gate, hide a sun-eater, host a hunt, mark a star map — Hollywood *usually* says **it is theirs**. *Stargate*, *AVP*, *Revenge of the Fallen*, *Prometheus*, *10,000 BC*, *Close Encounters* are that sentence. ***2001*** does it with a **monolith** instead of a pyramid: opaque-on-purpose, ancient aliens, no unity.
 
-**The NSA lane hides the picture.** *Lebowski* and the *Mummy* opening do **not** explain the silhouette. That is the point. *Mission to Mars* is the only later title in this pass that uses a Mars **monument** to say **we are the same people** rather than **they rule us** — and even that is **open**, not a second *Lebowski*.
+**Exception now locked:** *The Fifth Element* (1997) keeps an **ancient-aliens pin** and still runs **NSA unity** — intersecting religions, no sectarian split, paradise for everyone. **Aliens-on-screen ≠ CIA** unless the pin **contradicts** shared Earth religion. *2001* is the **clean contradiction**.
+
+**The NSA lane hides the picture.** *Lebowski* and the *Mummy* opening do **not** explain the silhouette. That is the point. *Mission to Mars* (2000) uses a Mars **monument** and then **says the kinship out loud** — *“They seeded Earth.”* / *“They’re us. We’re them.”* High on payload; **not** a silent glitch. ***The Mummy Returns* (2001)** is a **title-NSA unity** sequel — twelve tribes on screen, **no “bad Arabs.”**
 
 **Empty set worth naming:** no second *Lebowski*-class **silent** shoe-rack / “wrong sunset” glitch turned up in this hunt. That is consistent with the author’s subtlety rule. If more exist, they will look like **accidents**.
 
@@ -448,7 +637,7 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 | V5 | Thebes/Giza mismatch shows silhouette was **chosen over geography** | **Supported as author read (L3)** on top of **L1 Egyptology correction** | ScreenRant / Darnell |
 | V6 | Shared message: **unified species / religion before splinter** | **Author thesis (L3)** | Not a line of studio dialogue |
 | V7 | *Stargate* = CIA **splinter** / **MoH misdirect**: ancient aliens in charge; pyramid-and-sun used to **unlock the gate**, not as unity | **Supported (L1 unlock glyph + L3 treatment)** | [§7](#7-cia-contrast--stargate-1994-splinter-grammar); Thread P |
-| V8 | *The Mummy* (1999) **entire film** = NSA | **Not claimed** | Opening only |
+| V8 | *The Mummy* (1999) **entire film** = NSA | **Not claimed** | Opening glitch only; hangman type remains. *Returns* is a **separate** NSA lock (V22) |
 | V9 | Coens / Sommers received **agency direction** | **Unproven** | No production evidence; not required on this project’s method |
 | V10 | Other occult symbols (pentagram, Baphomet, all-seeing eye) already mapped to camps | **Open** | Catalog TODO |
 | V11 | Someone else already named these shots **Mountain of Heaven / Saturnian world mountain** | **Not found** (2026-09-18 hunt) | [§5](#5-prior-art-hunt--has-anyone-else-seen-the-mountain-in-movies) — Filmsite / Wilkins / Reddit **saw the rack-to-moon picture** without the icon-name |
@@ -458,9 +647,16 @@ Dialogue from the theatrical cut ([cswap 00:17](http://www.cswap.com/1994/Starga
 | V15 | Handbook “Viking origin mystery” exists as etymology / motive / missing native record, then **2020 genomics redefined the word as a job** | **Supported as L1 stack**; **pin-to-Earth motive is author (L3)** | Wikipedia etymology + motives; [Margaryan *Nature* 2020](https://www.nature.com/articles/s41586-020-2688-8); [*Science* “job description”](https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows) |
 | V16 | Chronology heim-table **Asgard = Jupiter** already matches **Asgard = Mars/Atlantis origin-place** | **Open collision** | Q11; do not overwrite the nine-heim map in this file |
 | V17 | CIA-aligned films **refuse** MoH as shared-religion unity; they **reassign** the silhouette (alien lock, occupier mark); **unrelated to Earth** is preferable | **Author rule (L3)**; *Stargate* seventh symbol is the **L1 specimen** | Same pyramid+sun as *Mummy* opening; opposite payload |
-| V18 | Plot-level pyramid-and-sun / mountain-as-destination is **common on the CIA lane** and **rare as an NSA silent glitch** | **Supported as hunt result (L3 sort on L1 plots)** | [§8](#8-film-catalog--other-pyramid-and-sun--ladder--moh-titles) — *AVP*, *ROTF*, *Prometheus*, *10,000 BC*, *Fifth Element*, *CE3K* vs two NSA seeds + *Mission to Mars* open |
+| V18 | Plot-level pyramid-and-sun / mountain-as-destination is **common on the CIA lane** and **rare as an NSA silent glitch** | **Supported as hunt result (L3 sort on L1 plots)** | [§8](#8-film-catalog--other-pyramid-and-sun--ladder--moh-titles) — *AVP*, *ROTF*, *Prometheus*, *10,000 BC*, *CE3K* vs NSA seeds + *Mission to Mars* kinship + *Fifth Element* unity lock |
+| V19 | *Mission to Mars* says **they seeded Earth / they’re us, we’re them** — NSA kinship payload, 2000 window | **Supported (L1 dialogue)**; camp **High on payload**, form is a **lecture** | [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram); Q14 |
+| V20 | ***The Fifth Element* (1997) = NSA** — religious unity, intersecting faiths, never divisive; ancient aliens are a **CIA pin** that does **not** contradict shared Earth religion; **everyone to paradise** | **Author lock (L3)** on L1 temple / Mondoshawan facts | [§8.1b](#81b-the-fifth-element-1997--nsa-unity-with-one-cia-pin); first-pass CIA sort **withdrawn** |
+| V21 | ***2001: A Space Odyssey* (1968) = 100% CIA** — ancient aliens; **symbology not meant for us**; **nothing unifying** | **Author lock (L3)** on L1 monolith / starchild | [§8.2a](#82a-2001-a-space-odyssey-1968--cia-lock); first-pass adjacent **withdrawn** |
+| V22 | ***The Mummy Returns* (2001) = NSA** — religious unity; **12 tribes of the Medjai**; **no “bad Arabs”** (unlike *Mummy* 1) | **Author lock (L3)** on L1 tribe line | [§8.1c](#81c-the-mummy-returns-2001--nsa-unity--twelve-tribes); Q2 **closed** |
+| V23 | *Mission to Mars* *“One stayed behind. Earth. Before the continents separated.”* = Golden Age end; **Earth stayed / Mars civilization became breakaway**; film “millions of years” compresses to a few thousand from 4077 | **Supported as author join (L3)** on L1 dialogue + in-corpus 3147 breakup | [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram); continents now **author-locked** to first deluge / first split (V25) |
+| V25 | Film has **two clocks**. Clock A (continents / stay-behind) = flight / **3147** first deluge / Atlantis fall / first split. Clock B (Cambrian / millions of years) = seed **mask**. **Cambrian burst did not collapse Mars.** They did not pick one collapse year. | **Supported (L1 two sentences + Wikipedia asteroid wreck)**; Saturnian join **author (L3)** | Q17 **closed**. Mainstream Cambrian ~541 Ma ≠ Pangea ~175–200 Ma — even the textbook dates do not match |
+| V24 | **1996–2000** is a named NSA antibody cinema window: *ID4* → *Fifth Element* → *Lebowski* → *Mummy* open → *Mission to Mars*; same long push as **9/11**, Mars RV **2000-08-08**, *Pentagon Papers* (2003) | **Author lock (L3)** on L1 release dates + AU-058 chronology | [§7.1](#71-the-19962000-nsa-window-as-we-see-it); not production contact |
 
-**Bottom line (investigator):** The **Mountain of Heaven** is not a free-floating occult doodle. Talbott’s documentary **names and draws** the world mountain / axis pillar as Saturnian sky. The **Gutterballs lock** is the **inexplicably tall shoe rack behind Saddam, capped by the moon**. The **Viking / Valkyrie** at its foot is now **Asgard** — author lock. *Stargate* is the clean **CIA inversion**: pyramid-and-sun as the **unlock**. The **2026-09-24 hunt** says the same sentence is the **default Hollywood plot use** (*AVP*, *Revenge of the Fallen*, *Prometheus*, *10,000 BC*, *The Fifth Element*, *Close Encounters*). NSA still **hides** the picture. *Mission to Mars* is the only later title here that uses a Mars monument to say **we are them**, not **they rule us** — and that row stays **open**.
+**Bottom line (investigator):** The **Mountain of Heaven** is not a free-floating occult doodle. Talbott’s documentary **names and draws** the world mountain / axis pillar as Saturnian sky. The **Gutterballs lock** is the **inexplicably tall shoe rack behind Saddam, capped by the moon**. The **Viking / Valkyrie** at its foot is now **Asgard** — author lock. *Stargate* is the clean **CIA inversion**: pyramid-and-sun as the **unlock**. The **2026-09-24 hunt** says that sentence is still the **common** plot use (*AVP*, *Revenge of the Fallen*, *Prometheus*, *10,000 BC*, *Close Encounters*). ***The Fifth Element* (1997)** is the **exception lock**: ancient-aliens **pin**, NSA **unity** payload — intersecting religions, paradise for everyone. ***2001* (1968)** is the **CIA lock** on the same pin with **no unity sentence**. *Mission to Mars* (2000) **says** the kinship: *“They seeded Earth.”* / *“They’re us. We’re them.”* Under Saturnian compression, *“One stayed behind. Earth”* is **Earth stayed / Mars breakaway** at 3147 (V23 / AU-062o).
 
 ---
 
@@ -480,7 +676,13 @@ Registry hub: [author-unique theories](/history/chronology/investigations/author
 | **AU-062h** | **Vikings have no origin on Earth.** They came from **Mars** in the Golden Age, from **Asgard and Atlantis**, as Plato’s **insolent** Atlantic host (*Timaeus* 24e) | **partial** — Mars-as-Atlantis + insolent quote already in-corpus; **Viking = that host** author | Open as working conclusion |
 | **AU-062i** | The documented Viking origin/identity mess was **closed by redefining “Viking” as a job** (2020 aDNA) so the phenomenon could be pinned to **local Earth graves** | **partial** — etymology/motive/literacy puzzles + *Nature* 2020 / *Science* “job description” Documented; **redefinition-as-pin** author | Open |
 | **AU-062j** | *Stargate* **misdirects** the pyramid-and-sun / Mountain of Heaven by making it the **alien unlock / point of origin**; preferable if the mark looks **unrelated to Earth** | **partial** — seventh-symbol dialogue is L1; **misdirect-as-camp-rule** author | Locked as treatment rule this pass |
-| **AU-062k** | When the pyramid-and-sun / ladder / MoH is **plot-central**, Hollywood usually runs **CIA misdirect**; NSA uses it as a **silent glitch** and almost never as a lecture | **partial** — §8 catalog Documented as plot inventory; **camp sort** author | Open — two-seed NSA hide still stands |
+| **AU-062k** | When the pyramid-and-sun / ladder / MoH is **plot-central**, Hollywood usually runs **CIA misdirect**; NSA uses it as a **silent glitch** and almost never as a lecture | **partial** — §8 catalog Documented as plot inventory; **camp sort** author | Open — *Fifth Element* is the **unity exception** (AU-062l) |
+| **AU-062l** | ***The Fifth Element* (1997) is NSA-aligned.** Religious unity, intersecting themes, never divisive; ancient aliens are a **CIA pin** that does **not** contradict shared Earth religion; **everyone gets to go to paradise** | **author** — first-pass CIA sort withdrawn | **Locked** this pass |
+| **AU-062m** | ***2001: A Space Odyssey* (1968) is 100% CIA.** Ancient-aliens theme; **random symbology not meant for us to understand**; **nothing unifying** | **author** — first-pass adjacent withdrawn | **Locked** this pass |
+| **AU-062n** | ***The Mummy Returns* (2001) is NSA-aligned.** Religious unity; on-screen **12 tribes of the Medjai** (author: twelve Arab tribes); **no “bad Arabs,”** unlike *Mummy* 1 | **author** — first-pass splinter-drift withdrawn; tribe line L1 | **Locked** this pass |
+| **AU-062o** | *Mission to Mars* stay-behind line, under Saturnian compression: **Earth stayed; Mars civilization became the breakaway** when the Golden Age ended (3147). “Millions of years” / Cambrian is the L1 mask of a few thousand from 4077. “Before the continents separated” = last unified geography, not Wegener deep-time | **partial** — 3147 planetary breakup + Mars-as-Earth-offshoot + humans-on-Mars Documented; **stay-behind = breakaway join** author | Open — logic holds; ship-grammar tension flagged; continents upgraded AU-062q |
+| **AU-062q** | *“Before the continents separated”* = **first great deluge / Atlantis fall / first continental split (3147)**. Hollow Earth grows when deluge water hits; continents drift. **Not** the Cambrian year. Cambrian lecture is Clock B (seed mask). Mars collapse in the film is the **asteroid** picture, not Earth biology. Charge-growth in the Golden Age (stack fails) ≠ water-growth at the split | **partial** — hollow charge-growth + first deluge + islands-moved + fallen Atlantis Documented; **water → first split** author | **Locked** this pass as author join; Cook still names no drift date |
+| **AU-062p** | **1996–2000 NSA antibody cinema window** as we see it: *ID4* (1996) → *Fifth Element* (1997) → *Lebowski* (1998) → *Mummy* open (1999) → *Mission to Mars* (2000). Same long NSA push as **9/11** (NSA-aligned plan), [1984 Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) public stamp **2000-08-08**, and *Pentagon Papers* (2003) cultural crest | **partial** — release dates + Mars stamp + 2003 film Documented; **window-as-one-push** author. Siblings already scored (*Arrival*, *Red Corner*, *Rush Hour*, *Matrix*) | **Locked** as named window this pass; production contact **not** claimed |
 
 ---
 
@@ -489,7 +691,7 @@ Registry hub: [author-unique theories](/history/chronology/investigations/author
 | # | Question | What would adjudicate |
 |---|----------|------------------------|
 | Q1 | Are there **more NSA MoH glitches** in 1990s antibody-window titles already on the NSA list (*ID4*, *T2*, *Arrival* 1996, *Disclosure*)? | Shot-level still hunt |
-| Q2 | Does *The Mummy Returns* (2001) **keep** or **break** the opening grammar (Scorpion King / Anubis army = splinter drift)? | Separate catalog row |
+| Q2 | Does *The Mummy Returns* (2001) **keep** or **break** the opening grammar (Scorpion King / Anubis army = splinter drift)? | **Closed** — title is **NSA unity** ([§8.1c](#81c-the-mummy-returns-2001--nsa-unity--twelve-tribes)). Anubis army is furniture, not camp |
 | Q3 | Storyboard / VFX notes for Gutterballs **shoe-rack-to-moon** and Mummy Thebes miniature: any **explicit** mountain/sun-alignment language? | Coen extras / Universal VFX |
 | Q4 | Can a **CIA** title produce an MoH silhouette **without** the unity payload? | **Closed this pass as the rule, not an accident** — *Stargate* seventh symbol is **deliberate misdirect** ([§7](#7-cia-contrast--stargate-1994-splinter-grammar)). More specimens still useful |
 | Q5 | Pentagram / all-seeing-eye / owl / checkerboard: map to camps or retire as noise? | New table in a later pass |
@@ -501,8 +703,11 @@ Registry hub: [author-unique theories](/history/chronology/investigations/author
 | Q11 | Nine-heim table **Asgard = Jupiter** vs this pass **Asgard = Mars/Atlantis origin-place** — remap, or two layers (planet-slot vs god-home)? | [myth-planet remap](/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md); chronology hub |
 | Q12 | Is the medieval Viking Age (c. 750–1050) a **late echo / namesake** of the Golden Age insolent host, or does the author collapse them into one event? | Author call — dating |
 | Q13 | Any saga / skaldic line that already says the raid-people came from **Asgard** or across the **Bifröst**, not from Denmark? | Primary-text hunt |
-| Q14 | Lock ***Mission to Mars*** as NSA-leaning (we are Martian kin) or keep **open** because it still uses an ancient-structure reveal? | Author call after §8.1 |
+| Q14 | ***Mission to Mars*** kinship line is now **L1**. Lock the **title** as NSA, or keep it **payload-NSA / form-open** because the Face **lectures** instead of hiding? | Author call — year 2000 already rhymes the window |
 | Q15 | Second silent NSA MoH glitch hiding in an already-cataloged NSA title (*ID4*, *T2*, *Disclosure*, *Arrival* 1996)? | Shot hunt — §8.4 empty set |
+| Q16 | Any other §8.2 title where **ancient aliens** sit on top of **shared-religion paradise** the way *The Fifth Element* does? | Treatment re-read; do not auto-flip on the pin. *2001* is the **no** specimen |
+| Q17 | Does *“before the continents separated”* name a **dated** Golden Age geography event (deluge / islands moved at 3147), or only a **thematic** last-unity picture? | **Closed** — author lock: **first deluge = first split = Atlantis fall = 3147** (AU-062q). Cook still has no drift **name**. Do not steal AU-043 |
+| Q18 | Any **other** 1996–2000 theatrical already on the NSA list that belongs **on the spine** (unity / MoH / kinship), not only as a same-year sibling? | Treatment re-read. Do not auto-add *Matrix* / *Rush Hour* to the MoH spine |
 
 ---
 
@@ -513,7 +718,7 @@ Registry hub: [author-unique theories](/history/chronology/investigations/author
 | **Two-seed catalog** | Alliance theory needs more than two **silent** NSA stills | Open — CIA plot-use is now **crowded** (§8); NSA hide is still thin |
 | **CIA occult symbol table** | Author said *different* symbols, not only MoH vs pyramid | Open — *Stargate* MoH **misdirect** locked §7 |
 | **CIA MoH misdirect** | Pyramid-and-sun as alien unlock, not unity | **Locked** §7 / AU-062j |
-| **Full *Mummy* runtime camp** | Opening ≠ franchise | Open / not claimed |
+| **Full *Mummy* (1999) runtime camp** | Opening ≠ 1999 whole film | Open / not claimed — *Returns* locked NSA separately |
 | **Gutterballs remainder** | Gold/silver shoes, checkerboard, trident, pin hats still **open** | Inventoried §4.4; not forced |
 | **Valkyrie / Asgard join** | Costume + mountain | **Locked** §4.3 |
 | **Viking = insolent host** | Dating (Golden Age vs medieval Viking Age); heim-table collision | Open — Q11, Q12 |
@@ -545,8 +750,12 @@ Registry hub: [author-unique theories](/history/chronology/investigations/author
 | Norse mountain names | [chronology hub — Yggdrasil / Asgard](/history/chronology/page.md) | **Locked** join for Maude-as-Valkyrie (§4.3) |
 | Mars / Atlantis / insolent host | [Mars hub — Plato *Timaeus*](/cosmos/mars/page.md) | L1 quote the Viking working conclusion uses |
 | Atlantis at Mars north pole | [atlantis/theory.md](/history/chronology/atlantis/theory.md) | Golden Age land, not a mid-Atlantic island |
+| NSA 2001–2005 declass offensive | [AU-058](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) | 90s calm-seed → 9/11 → *Pentagon Papers* 2003 crest; [§7.1](#71-the-19962000-nsa-window-as-we-see-it) |
+| 1984 Mars RV | [cia-reading-room-mars-exploration-1984-rv](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | Session 1984; **Approved For Release 2000/08/08** — same year as *Mission to Mars* |
+| 9/11 | [09-11-investigation](/events/false_flag/investigations/09-11-investigation.md) | NSA-aligned plan that **opens** the declass flood |
+| *The Pentagon Papers* (2003) | [watch note](/governance/war/watch-the-pentagon-papers-2003.md) | Cultural crest of AU-058 |
 
-Keywords: #MountainOfHeaven #OccultIcons #TheBigLebowski #Gutterballs #TheMummy #NSA #CIA #PredictiveProgramming #PriscaSapientia #SaturnianCosmology #DavidTalbott #RememberingTheEndOfTheWorld #CosmicMountain #Stargate #AncientAliens #Valkyrie #Brunnhilde #Asgard #ShoeRack #Vikings #Atlantis #Mars #PlatoTimaeus #InsolentIncursion #GoldenAge #Prometheus #Transformers #CloseEncounters #MissionToMars #TheFifthElement #AVP #HolyMountain #ParadigmThreatFiles #AU062
+Keywords: #MountainOfHeaven #OccultIcons #TheBigLebowski #Gutterballs #TheMummy #TheMummyReturns #NSA #CIA #PredictiveProgramming #PriscaSapientia #SaturnianCosmology #DavidTalbott #RememberingTheEndOfTheWorld #CosmicMountain #Stargate #AncientAliens #Valkyrie #Brunnhilde #Asgard #ShoeRack #Vikings #Atlantis #Mars #PlatoTimaeus #InsolentIncursion #GoldenAge #Prometheus #Transformers #CloseEncounters #MissionToMars #TheFifthElement #SpaceOdyssey #AVP #HolyMountain #IndependenceDay #PentagonPapers #MarsRV #911 #AntibodyWindow #ParadigmThreatFiles #AU062 #AU058
 
 **Last updated:** 2026-09-24
 
@@ -558,7 +767,7 @@ Keywords: #MountainOfHeaven #OccultIcons #TheBigLebowski #Gutterballs #TheMummy 
 
 **Magic (lexical rule):** [Magic as operator technology](/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — *magic* / *occult* = misfiled technology or cosmology demonstrable in nature (here: a witnessed polar sky stack); supernatural magic is not supported.
 
-**Fiction vs evidence:** Film stills and lyrics are **L1 artifacts**. Talbott documentary lines in §2.1 are **L1 narration**. Plato *Timaeus* 24e and the 2020 Viking aDNA papers are **L1**. *Stargate* seventh-symbol dialogue (pyramid with the sun above it) is **L1**. **§8 plot facts** (pyramid as lock, Face on Mars, Sun Harvester, etc.) are **L1** where wiki/press sourced. **Camp**, **intent**, **unity-before-splinter**, **Viking = insolent host / no terrestrial origin**, **job-redefinition as a pin**, **CIA misdirect of MoH**, and **§8 camp sort** are **author thesis**. Cross-links to chronology and two-camp dossiers are **thematic rhymes**, not proof that Coen, Sommers, or Emmerich/Devlin studied Saturnian cosmology or Plato.
+**Fiction vs evidence:** Film stills and lyrics are **L1 artifacts**. Talbott documentary lines in §2.1 are **L1 narration**. Plato *Timaeus* 24e and the 2020 Viking aDNA papers are **L1**. *Stargate* seventh-symbol dialogue (pyramid with the sun above it) is **L1**. *Mission to Mars* Face / seed lines in [§8.1a](#81a-mission-to-mars-2000--l1-face--hologram) are **L1** from quote lists + a theatrical fan transcript (not a shooting script). **§8 plot facts** (pyramid as lock, Sun Harvester, etc.) are **L1** where wiki/press sourced. **Camp**, **intent**, **unity-before-splinter**, **Viking = insolent host / no terrestrial origin**, **job-redefinition as a pin**, **CIA misdirect of MoH**, and **§8 camp sort** are **author thesis**. Cross-links to chronology and two-camp dossiers are **thematic rhymes**, not proof that Coen, Sommers, or Emmerich/Devlin studied Saturnian cosmology or Plato.
 
 **Tiers:** L1 plot/still/lyric/press; L2 industry/Egyptology pattern; L3 author interpretive (default for AU-062); L4 speculative. Author thesis sections are **first-class** and **not automatically factual**.
 
@@ -576,5 +785,13 @@ Keywords: #MountainOfHeaven #OccultIcons #TheBigLebowski #Gutterballs #TheMummy 
 - Third-pass (2026-09-18): author locked Viking/Valkyrie = **Asgard**; working conclusion Vikings = Plato insolent host from Mars/Atlantis; 2020 aDNA as lexical pin. Heim-table Asgard=Jupiter left as Q11.
 - Fourth-pass (2026-09-24): CIA *Stargate* lock — pyramid-and-sun seventh symbol **unlocks the gate**; MoH **misdirect**, not unity; preferable as alien/unrelated to Earth.
 - Fifth-pass (2026-09-24): §8 film catalog — treatment over shape; CIA owns plot-level pyramid; NSA hide remains two seeds + *Mission to Mars* open; no second silent glitch found.
+- Same date, later: *Mission to Mars* L1 pull — *“They seeded Earth.”* / *“They’re us. We’re them.”* Wikipedia paraphrase replaced; Cydonia **not** spoken; hologram is silent, crew names the kinship. Q14 now lecture-vs-hide only.
+- Same date, later: *The Fifth Element* (1997) **moved CIA → NSA**. Author lock: unity / intersecting religions / never divisive; ancient aliens = **pin**, not contradiction; everyone to paradise. AU-062l.
+- Same date, later: *2001: A Space Odyssey* (1968) **moved adjacent → 100% CIA**. Ancient aliens + opaque-on-purpose symbology; nothing unifying. AU-062m.
+- Same date, later: *The Mummy Returns* (2001) **moved open → NSA**. L1: “12 tribes of the Medjai”; author: twelve Arab tribes; no bad Arabs vs *Mummy* 1 hangman. AU-062n. Q2 closed. Theatrical English SRT in the FanEdits Debugged folder (not in this repo).
+- Same date, later: *Mission to Mars* stay-behind validated. Author: *“One stayed behind. Earth. Before the continents separated.”* = Golden Age end; Mars civilization became breakaway; millions of years → few thousand from 4077. Logic **holds** (3147 planetary breakup + Mars-as-Earth-offshoot). Ship-vs-seed grammar flagged. Continents thematic (Q17). AU-062o / V23.
+- Same date, later: **1996–2000 window named** (§7.1 / AU-062p). Spine: *ID4* → *Fifth Element* → *Lebowski* → *Mummy* open → *Mission to Mars*. Siblings already scored. Disclosure join: 1984 Mars RV session / 2000-08-08 stamp / 9/11 NSA-aligned plan / *Pentagon Papers* 2003. Lane rule: not every title is 9/11 PP.
+- Same date, later: continents Clock A locked. Author: first deluge / Atlantis fall / first split / hollow-Earth water-growth = 3147. Cambrian Clock B is seed mask, **not** the collapse. Film wreck = asteroid picture. Two mainstream dates (Cambrian ~541 Ma vs Pangea ~175–200 Ma) do not even match. Q17 closed. AU-062q / V25.
+- Same date, later: “wrecked” was **our** word. Hologram crew never says asteroid/wrecked — they say *“It’s Mars.”* / *“That’s where they went.”* Picture = collision cartoon. Saturnian: 3147 = civilization wreck; **686** outer shell **becomes** the asteroid belt (Hollywood inverts the rock).
 - Do not treat full-film *Mummy* as NSA without a later pass.
 - Next still-hunt targets: NSA catalog already in Thread D / Threads N–T; Q15 second silent MoH.

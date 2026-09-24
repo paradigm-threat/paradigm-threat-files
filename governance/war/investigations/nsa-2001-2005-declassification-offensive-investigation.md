@@ -7,7 +7,7 @@
 
 **Timeline:** [2000–2005: Tonkin declass fight vs Mars RV release](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight) · [CIA vs NSA / *Tron*](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [Historical antibodies](/timeline/evt-historical-antibodies)
 
-**Companions:** [McNaughton death (**AU-059**)](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md) · [NSA investigation](/governance/war/investigations/nsa-investigation.md) · [good-actor — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [Mars RV Reading Room](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) · [SIGINT spine](/governance/war/investigations/sigint-history-investigation.md)
+**Companions:** [McNaughton death (**AU-059**)](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md) · [NSA investigation](/governance/war/investigations/nsa-investigation.md) · [good-actor — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [Mars RV Reading Room](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) · [SIGINT spine](/governance/war/investigations/sigint-history-investigation.md) · [AU-062 §7.1 — 1996–2000 film window](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it)
 
 ---
 
@@ -156,7 +156,9 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 | ***The Matrix*** | 1999 | Passport / red-pill PP | **Author PP** |
 | ***Terminator 2*** | 1991 | “No fate” / Cyberdyne / **9′–11″** rhyme cluster | **Author PP** — [NSA investigation](/governance/war/investigations/nsa-investigation.md) |
 
-**Contrast (CIA / ridicule lane):** ***Stargate* (1994)** — Atlantis/Mars ridicule + gate decoy ([Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)).
+**Same window, other lanes (not 9/11 PP — do not force):** AU-062 names the **1996–2000 spine** as *ID4* → ***The Fifth Element* (1997)** → *Lebowski* (1998) → *Mummy* open (1999) → ***Mission to Mars* (2000)**. Unity / kinship / MoH, not WTC shadow. *Mission to Mars* theatrical **10 Mar 2000** sits **five months before** the Mars RV **`Approved For Release 2000/08/08`**. Full table: [AU-062 §7.1](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it).
+
+**Contrast (CIA / ridicule lane):** ***Stargate* (1994)** — Atlantis/Mars ridicule + gate decoy ([Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)). Immediately **before** the 1996–2000 window.
 
 ---
 
