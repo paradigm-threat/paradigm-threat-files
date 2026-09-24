@@ -155,3 +155,5 @@ Appendices A–B, Notes, Sources, Index
 - [ ] Optional: deeper MMC5/VRC6/VRC7 audio expansion fact table from ch.7 if needed for curriculum
 
 *Updated 2026-09-03 — facts-only investigation pass; Depression / independence pointers.*
+
+Keywords: #Altice #IAmError #Nintendo #StolenCredit #Hamano #Metroid #PlatformStudies #Investigation

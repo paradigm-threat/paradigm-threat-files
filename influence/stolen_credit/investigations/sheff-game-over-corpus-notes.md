@@ -118,3 +118,5 @@ Epilogue: Forest of Illusions — p.422
 ---
 
 *Updated 2026-09-03 — facts-only pass; opinions/framing stripped; Depression pointer added.*
+
+Keywords: #Sheff #GameOver #Nintendo #Sony #SuperDisc #StolenCredit #Investigation

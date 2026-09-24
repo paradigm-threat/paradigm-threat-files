@@ -556,3 +556,5 @@ When a story presents **time travel**:
 ---
 
 **Last updated:** 2026-07-09 (§10 research pass)
+
+Keywords: #TimeTravel #Wells #TimeMachine #PredictiveProgramming #Philadelphia #Mars #Gaspar #Twain #Deposit #Investigation
