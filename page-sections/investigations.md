@@ -30,6 +30,7 @@ These things we were instructed to believe, but are actually fake.
 * [Astronomy is a Religion, not Science](/cosmos/cosmology/astronomy)
 * [Q-Anon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
 * [False Flags](/events/false_flag)
+* [Titanic — black-box, Olympic switch, Astor](/governance/war/investigations/titanic-sinking-investigation.md)
 
 ![Saturnian Cosmology posits that the neighboring planets only recently
  settled into their current orbits;

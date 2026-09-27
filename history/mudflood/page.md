@@ -205,7 +205,7 @@ detail by early astronomers like Sir William Herschel who believed all our plane
 Giovanni Schiaparelli who saw man-made water channels on Mars, and of course Percival Lowell who in 1895 mapped out the
 channels using a precision observatory he built in Flagstaff. At that same time, John Jacob Astor IV, 16 years before he
 faked his own death on the Titanic, published testimony where he visited each planet, and yet again, traveled inside our
-Sun.
+Sun. Full Titanic dossier (black-box, Olympic switch, Astor in-on-it fork): [RMS Titanic investigation](/governance/war/investigations/titanic-sinking-investigation.md). Astor’s 1894 book *A Journey in Other Worlds* is the Jupiter/Saturn voyage; Sun-interior travel is the Kircher line above.
 
 ![An unsourced newspaper article claims that artificial canals on Mars are full of fish](/cosmos/mars/mars_life2.jpg?w=360)
 

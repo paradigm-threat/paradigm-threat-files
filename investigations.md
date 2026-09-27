@@ -78,7 +78,7 @@ Master list of dossiers and reader essays on this park. Browse by folder in the 
 * [Holodomor-Holocaust memory investigation](/governance/genocide/investigations/holodomor-holocaust-memory-redaction-investigation.md) - Memory redaction; Stalin **Nationalist tip** (not communist ideologue) + Holodomor OS-inevitability (§2.7–§2.8); Dec 1932 primaries; geography of horror.
 * [Great Depression — planned crash, census control, purposeful neglect](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) - Not negligence; WWI power guise → Fed → census whitewash → SS federal citizen; AU-047 (Aug 2026).
 * [Soviet Collapse](/governance/war/investigations/soviet-collapse-investigation.md) - Western orchestration, media, post-WWII isolation.
-* [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) - Timing, alternative narratives, inquiries and aftermath.
+* [RMS Titanic (1912)](/governance/war/investigations/titanic-sinking-investigation.md) - Black-box hit (**AU-063**); Olympic switch books (Gardiner); Fed/Jesuit print (Hughes); Astor as prize to turn; planetary-travel cutoff.
 * [Armed confrontations](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md) - Citizens vs federal government, military, and agents.
 * [US Civil War](/governance/war/investigations/us-civil-war-investigation.md) - British funding, slavery as instrument, DU-weapon thesis.
 * [Vril Society](/governance/war/investigations/vril-society.md) - Claim, debunk, redaction, and literary lineage.
