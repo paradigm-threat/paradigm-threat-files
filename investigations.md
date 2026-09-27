@@ -36,6 +36,7 @@ Master list of dossiers and reader essays on this park. Browse by folder in the 
 
 #### Governance & slavery
 
+* [This is the most important midterm in American history](/governance/constitution/voting-for-insecticide.md) - Reader essay: it looks like both sides would burn everything; only one side actually would; hatred / insecticide test.
 * [TONA, Not War - Liberty's Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) - Reader essay: TONA abolition-by-disconnect; war tangent; Liberty 1886 rebrand; amendment cascade; *Trump v. Barbara* (June 2026).
 * [Constitution & amendments - nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) - TONA "original 13th"; carceral replacement 13th; 14th birthright; Liberty section 12; cascade section 13; SCOTUS section 14; full scorecard.
 * [2020 election fraud -  selective battleground, AZ logs, midterm audit timing](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md) - Selective theft; AZ routers; Edison CO; **one-node virus**; midterm **all-or-nothing legitimacy**; AFL/2026 audits.

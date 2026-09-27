@@ -154,6 +154,7 @@ I have **no clue** what the ban is for. Reddit’s whole pitch is **community ka
 - [Reddit censorship — profile removal and permanent ban, empty inbox (July 2026)](https://paradigmthreat.net/influence/censorship/reddit-personal-page-removal-2026-07)
 - [Reverse crusades comparison — 1812, 1914, 1941, 2022 packaging](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)
 - [Constitution — nationalist vs globalist battlefield](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md)
+- [This is the most important midterm in American history](https://paradigmthreat.net/governance/constitution/voting-for-insecticide.md) — appearance of mutual destruction; voter has to tell the sides apart
 
 ---
 

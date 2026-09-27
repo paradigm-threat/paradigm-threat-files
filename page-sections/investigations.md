@@ -48,6 +48,7 @@ History is written by victors of war and protected by the threat of further war.
 * [All Wars are Banker Wars](/governance/war)
 * [Bombings in the 20th Century](/governance/war/bombings)
 * [Tax is Slavery](/governance/usury)
+* [Voting for Insecticide](/governance/constitution/voting-for-insecticide.md) — Midterm fork: it looks like both sides would burn everything; only one side actually would.
 
 ### [Category: Genocide](/governance/genocide)
 
