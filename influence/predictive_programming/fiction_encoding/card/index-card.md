@@ -1,5 +1,7 @@
 # Orson Scott Card — Enderverse Investigation Index
 
+> **Plot-order reading (2026-09-28):** the author’s reorder — China scout, queen as the Pugachev command-break, child on Mars, Lewis as the thinner telling — is [Ender’s Game plot order](enders-game-plot-order-mars-china-investigation.md). That file also holds the **saga timeline** (gassing is *Earth Afire*, 2013, not the 1977/1985 book), the **long-gap rhyme** with Wells 1898 and the estate’s *Massacre of Mankind* (Baxter, 2017), and the **who-knew** correction: the first book’s irony is that the adults in the room know and Ender does not. It does not say the crews who died knew a child gave the order, and it does not say they thought the choice was an advanced intelligence. That voice doubt is *Ender’s Shadow* (1999). The China gassing as a historical question is [open here](/history/chronology/investigations/china-wall-gassing-late-18th-early-19th-investigation.md). The sections below are the earlier pass: child, telepathic enemy, fleet sacrifice, Hegemon.
+
 > **TL;DR:** Orson Scott Card — Enderverse Investigation Index: Card is not merely a novelist — he is a Mormon mythmaker. His Tales of Alvin Maker series is an explicit retelling of the Joseph Smith story. His Homecoming Saga retells the Book of Mormon.
 > Research index for the paradigm-threat-timeline project.
 > Focus: The Ender's Game series as **predictive programming** encoding real events leading up to and following the MFEE (Mars Flood Extinction Event).

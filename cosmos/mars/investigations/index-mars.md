@@ -50,7 +50,7 @@ Where multiple authors independently describe the same or closely related elemen
 |--------|-------------|
 | **Arnold** | Ruined cities (Seth "ruins," Queen Yang's haunted city); River of the Dead carrying corpses; necropolis of frozen dead; **heat catastrophe** at climax; decadent, dying civilization. |
 | **Burroughs** | **Drying seas** compelled migration; "dead sea bottoms"; lost archives, records, literature; "dying planet"; atmosphere plant built to sustain life; "waning resources." Collapse over "centuries" of readjustment — rapid in geological terms. |
-| **Lewis** | Earth is "Silent Planet" — quarantined; Mars (Malacandra) still living. Implied cosmic catastrophe on Earth, not Mars. |
+| **Lewis** | Cold death on the **harandra** before its time, struck by Earth’s Bent One, dated before life on Earth; life saved in the **handramits**. Mars still peopled. The silence is Earth’s quarantine. Not a Martian self-inflicted discharge. See [Lewis Mars wound](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md). |
 
 **Convergence:** **Arnold and Burroughs** both describe a **recent** civilizational collapse: ruined/dying world, lost knowledge, catastrophe within living memory of the survivors. Burroughs: rapid sea drying. Arnold: heat catastrophe, ruined cities, River of Dead.
 

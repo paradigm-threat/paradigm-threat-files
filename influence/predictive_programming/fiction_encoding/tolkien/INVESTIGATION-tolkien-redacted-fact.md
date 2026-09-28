@@ -31,6 +31,15 @@ The three sub-theses under examination:
    from contained encoded real history. His "mythology for England" was a
    reconstruction, not a pure invention.
 
+**Guardian lane (2026-09-28):** who installed the *motive* to publish that reconstruction as one man’s fiction — Father Francis Xavier Morgan, the silence until Tolkien was 21, and the J. P. Morgan guess — is a separate dossier: [Father Francis Morgan — guardian, silence, redaction motive](/influence/conspiracy/investigations/father-francis-morgan-tolkien-guardian-silence-redaction-investigation.md).
+
+**Place, the wager, and the guardian pattern (session, 2026-09-28).** Three points from that day’s Lewis and Tolkien questions belong here, because this file still uses “secondary world” for the *craft* of *vera historia* and does not yet say what Tolkien said about the *place*.
+
+- **Middle-earth is this earth.** Author correction: he was not building another planet. Letter 165 (June 1955, to Houghton Mifflin) says the theatre is the actual Old World of this planet, an imaginary time, his feet on his own mother-earth, and that reviewers were wrong to call it another planet. “Secondary world” in *On Fairy-Stories* and in Letter 281 is the inner consistency of the story. It is not a change of planet. Full extract and the three-way split: [Francis dossier — Middle-earth is this earth](/influence/conspiracy/investigations/father-francis-morgan-tolkien-guardian-silence-redaction-investigation.md).
+- **Gaea’s navel and Yggdrasil are the same kind of picture, not extra names for the planet.** Delphi’s omphalos is a center-stone. Yggdrasil is the tree. Midgard is the human realm on it. Middle-earth, *middangeard* / *Miðgarðr*, is the inhabited middle. Tolkien claimed that one.
+- **The 1937 wager.** Lewis takes space, Tolkien takes time. The myths they meant to uncover were the fall of Satan and the fall of Atlantis. Tolkien’s time-story is the Fall of Númenor, already treated below as his Atlantis. Lewis’s space-story is *Out of the Silent Planet*. The killed-Mars chapter and where its single striker comes from: [Lewis — the wound](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md).
+- **Xavier as a later pattern of the guardian.** A professor who keeps gifted children at a hidden curriculum, scored against Francis and against Tolkien as the prodigy whose singular work comes after the guardian dies: [Professor Xavier](/influence/conspiracy/investigations/father-francis-morgan-tolkien-guardian-silence-redaction-investigation.md). Lee could not say why the surname was Xavier. The middle name Francis is *Uncanny X-Men* #309 (1994).
+
 ---
 
 ## Part I: The Red Book — Fiction Modeled on Fact

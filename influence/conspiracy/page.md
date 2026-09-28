@@ -20,6 +20,8 @@ Investigations and essays on suppressed truth and manufactured narratives.
 ## Investigations
 
 - [Toynbee Tiles — *Resurrect Dead* (2011)](/influence/conspiracy/investigations/toynbee-tiles-resurrect-dead-documentary-investigation.md) — Street-mosaic mystery; media bypass, pseudonym, documentary chain of evidence
+- [Father Francis Morgan — Tolkien’s guardian, the silence, and the redaction motive](/influence/conspiracy/investigations/father-francis-morgan-tolkien-guardian-silence-redaction-investigation.md) — Three-year Edith ban; stoic duty in Aragorn/Elrond; J. P. Morgan kinship unproven; sherry Oratory, not the bank
+- [The name Morgan — two camps, one syllable](/influence/conspiracy/investigations/morgan-name-two-camp-investigation.md) — William Morgan and the lodges; 1636 split into the bank and the fly room; the name serves the split, not one family
 - [Bitcoin](/influence/conspiracy/topics/bitcoin)
 - [Zoot Suit Riots](/influence/conspiracy/topics/zoot) — Historical investigation
 - [Circumcision Cult](/influence/conspiracy/topics/circumcision_cult)

@@ -279,7 +279,7 @@ The two-book franchise leaves these questions open:
 - **Polar Martians:** Martians at Earth's poles, terraforming—parallel to Burroughs's polar forbidden zones and Lasswitz's North Pole
 - **Telepathy:** Jenkins speculates Martians are telepathic, "no secrets"; connects to `wotw-telepathic-purge.md`
 - **Underground Martian city:** Subterranean habitation—hollow-Earth / polar-interior motif
-- **Heat ray:** Baxter kept Wells's invisible, capacitor-driven thermal beam when most adaptations changed it to a visible laser. See Investigation: The Heat Ray Across Adaptations; Havana syndrome (2016) timeline.
+- **The long gap, read with Ender (2026-09-28):** Wells 1898 stops the invasion with bacteria. Baxter 2017, estate-authorised, sends them back so the easy stop is not the end of the threat. Card 1977 stops the invasion by killing one queen. Johnston with Card, 2012–2013, puts a gas landing on Earth first, so the aliens are a massacre before they are a trick. Author’s guess: both later books cite an older blow instead of inventing a new war, and the citation looks more like science fiction. Full note: [Ender plot order — the long gap](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md).
 
 ---
 

@@ -4,6 +4,7 @@ Investigations in this folder address chronology-related claims, creation dates,
 
 | Investigation | Topic |
 |---------------|-------|
+| [China gassing, late 18th–early 19th century (open)](/history/chronology/investigations/china-wall-gassing-late-18th-early-19th-investigation.md) | **Open:** author thesis — scout gas held by the Wall, then a British reset and a Horde-tie cut. Wall is a northern line; *Earth Afire* lands in the southeast. Logged shocks: White Lotus, Opium Wars, Taiping |
 | [**The Hidden History of Words**](/history/chronology/the-hidden-history-of-words.md) | **Reader essay:** lexical reset, Latin breakaway (**AU-028**), Horde redaction wall, curated word glossary; links hub; [Chronologia forum reply (RU)](../the-hidden-history-of-words-chronologia-forum-reply.md) + [BBCode](../the-hidden-history-of-words-chronologia-forum-reply.bbcode) |
 | [Nightmare — night mare & 1492 Apocalypse Crusade (open)](/history/chronology/investigations/nightmare-night-mare-1492-apocalypse-crusade-investigation.md) | **AU-030:** **night** + **mare** (horse); Ottoman night cavalry trauma; demon-*mare* closure |
 | [**Lexical redaction hub**](/history/chronology/investigations/lexical-redaction-hub-investigation.md) | **Master cross-ref** — Protestant mistranslation + forgotten **eponyms**; *nice*, *left/right*, *righteous*; handbook closure; **AU-027** |

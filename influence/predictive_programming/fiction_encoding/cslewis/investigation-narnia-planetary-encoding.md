@@ -191,7 +191,65 @@ All of these encode a planetary hierarchy that predates the heliocentric model.
 
 ---
 
-## 6. Chronological Note for Timeline
+## 6. Mars — the wound in *Out of the Silent Planet*, scored against a self-inflicted catastrophe and *Ender’s Game*
+
+**Author question (2026-09-28):** could anything Lewis wrote about Mars encode the potentially real history under investigation here — a catastrophe on Mars, self-inflicted, that may have inspired *Ender’s Game*?
+
+The history under investigation is the late-eighteenth-century **MudFlood Energetic Event**: Martian factions fire directed-energy weapons at Earth to stop the Pugachev rebellion; a secondary discharge returns and devastates Mars; a technocratic side may have accepted that cost because it would also wipe the telepathic side. The instigator, in the fiction cluster this site already groups, includes **Ender**. See [Mars hub — The Martian Catastrophe](/cosmos/mars/page.md) and [WotW / MFEE](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md), which reads *Ender’s Game* (1985) as the operator who does not understand that the remote attack unpeoples a world.
+
+**What Lewis wrote.** In *Out of the Silent Planet* (1938) the Oyarsa of Malacandra tells Ransom the surface was killed early, and who did it:
+
+> It was not always so. Once we knew the Oyarsa of your world — he was brighter and greater than I — and then we did not call it Thulcandra. It is the longest of all stories and the bitterest. He became bent. That was before any life came on your world. Those were the Bent Years of which we still speak in the heavens, when he was not yet bound to Thulcandra but free like us. It was in his mind to spoil other worlds besides his own. He smote your moon with his left hand and with his right he brought the cold death on my harandra before its time; if by my arm Maleldil had not opened the handramits and let out the hot springs, my world would have been unpeopled. We did not leave him so at large for long. There was great war, and we drove him back out of the heavens and bound him in the air of his own world as Maleldil taught us.
+
+([Oyarsa’s speech](https://www.bethinking.org/your-studies/chronicles-of-heaven-unshackled/3-out-of-the-silent-planet).) The same scene leaves **fear, murder, and rebellion** behind on the dead highlands. The living hnau in the handramits do not carry them. The villain in the present of the novel is **Weston**, an Earth scientist who would take Malacandra for humanity and calls the taking a necessity. Oyarsa sends him home.
+
+**What that picture shares with the MFEE reading.**
+
+| Piece | Lewis, 1938 | The MFEE / Ender reading |
+|-------|-------------|--------------------------|
+| A killed surface | Cold death on the **harandra** before its time. Life continues only in the **handramits**, the canal-valleys, kept by hot springs. | Melted cities, lost ocean, canals and refugia as what a scarred Mars would still show. Brandenburg later named a northern paleo-ocean **Mallacandrian** after this book. |
+| Earth in the blow | The striker is Earth’s own planetary angel, the Bent One. The war ends with him bound in Earth’s air. Earth goes silent. | The cannons are aimed **at Earth** and the return stroke hits Mars. Earth is in the circuit. |
+| A moral residue on the dead ground | Fear, murder, and rebellion are what the survivors **left on the harandra**. | The technocratic purge and the deposed instigator. The living world is what remains after that faction’s act. |
+| An operator who dresses destruction as necessity | Weston. He knows the intention. He is judged and expelled. | Ender, who thinks the last battle is a game, and the DEW crews who may not have understood the secondary discharge. |
+
+**Where the encoding stops.** Lewis dates the blow to **before any life on Earth**, the Bent Years, the binding of the rebel angel. The MFEE date is **1773–1774**, inside human history, fired by Martians at Earth. In his chapter the Martians are the **wounded**, unfallen, three species in concord (hrossa, séroni, pfifltriggi). They do not fire on themselves. The cold death is a right hand from Earth’s dark lord, not a backfire from their own platforms. The world is **not** unpeopled. Maleldil opens the handramits and they live. *Ender’s Game* completes a xenocide. Lewis stops at a wound and a rescue.
+
+*Prince Caspian* is the Narnian Mars book in Ward’s scheme: war, woods, a usurper over an older people. That is the martial **temper**. It is not a history of the planet Mars.
+
+**Ender cannot be Lewis’s source.** The novelette is 1977, the novel 1985. Lewis died in 1963. If both stories sit on one event, Lewis is the earlier picture of the **scar and the refugia**, told as Satan’s war in heaven, and Card is the later picture of the **operator who does not know he is ending a world**. Lewis did not write the self-inflicted discharge, the telepath purge, or the child at the console. The sentence that travels is narrower: a planet’s high ground was killed before its time, life was saved only in the cuts, and the will that spoils worlds comes from Earth and calls the spoiling necessary.
+
+**What else was available in 1938.** The magnetic-field explanation was not. Mars Global Surveyor (1997) found that Mars has no global dynamo, only crustal remnants. The story that the dynamo died billions of years ago and the solar wind then stripped the atmosphere is the MAVEN-era account, after 2014. A writer in 1938 could not have been repeating it.
+
+What the period did say was older and thinner. Percival Lowell’s picture, still the popular one, was a small old world drying out, its last water marched along canals by a civilization at the end of its strength. H. G. Wells states the same death as cooling and necessity: intellect brightened, hearts hardened. Professional astronomy had already walked away from the canals. E. M. Antoniadi’s *La Planète Mars* (1930) treated them as optical illusion. Spectroscopic work in the 1930s was failing to find much oxygen or water vapor. The scientific sentence was: thin air, cold, dry, further along because a smaller body cools and leaks faster. Earth’s age was being set in the low billions by radioactive dating. Nobody in that literature has an agent strike the highlands **before their time**.
+
+Lewis names the other ingredients himself, and they are enough to build a dying Mars without a private history:
+
+| Source | What it hands him | What it does not hand him |
+|--------|-------------------|---------------------------|
+| Lowell’s canals, still in the pulps (Burroughs’s dead sea bottoms and atmosphere plant) | Dead high ground, life squeezed into long inhabited cuts. The handramits are that map. | A blow. Lowell’s Mars dies of age and drought. |
+| Wells, *The War of the Worlds* and *The First Men in the Moon* (a 1908 Christmas gift). Lewis’s own preface says the jibes at Wells are dramatic, and that he owes the form. | Scientist, entrepreneur, sphere, a dying neighbor world. | Unfallen Martians, and a death dealt early. He is answering Wells, not copying the invasion. |
+| Olaf Stapledon, *Last and First Men* (1930), read by Lewis no earlier than May 1937, an immediate catalyst ([John Garth](https://johngarth.wordpress.com/2017/03/31/when-tolkien-reinvented-atlantis-and-lewis-went-to-mars/)) | A Mars inside a godless deep-time future, and an ideology he called Evolutionism. | The Bent One. Stapledon is the book he is refusing. |
+| J. B. S. Haldane, *Possible Worlds* (1927), the “Last Judgment” essay | Humanity leaving a dying world and spreading as a master race. Weston is that essay given a mouth. | A wounded Malacandra. |
+| David Lindsay, *A Voyage to Arcturus* (1920), acknowledged in letters | That a space voyage can carry a spiritual meaning. | Mars’s canals or its cold death. |
+| The wager with Tolkien, summer 1937. Lewis takes space, Tolkien takes time. The myths they meant to uncover were the fall of Satan and the fall of Atlantis ([Garth](https://johngarth.wordpress.com/2017/03/31/when-tolkien-reinvented-atlantis-and-lewis-went-to-mars/); [Sydney Morning Herald](https://www.smh.com.au/entertainment/books/tolkien-wager-that-sowed-seeds-for-lord-of-the-rings-20161221-gtg2tm.html)). Milton and the war in heaven are the theology already on his desk. | An intelligent rebel whose fall wounds creation, dated before human life, bound afterwards in Earth’s air. Two hands: the Moon, and Mars. | A Martian crew firing on Earth in 1774 and taking the return stroke. |
+
+**The piece those sources do not supply.** “Before its time” is a refusal of the death everyone else was offering. Lowell, Wells, and the cooling argument all say Mars died because it was old. Lewis says the cold came early, dealt by a hand, and that the valleys were opened so the world would not be unpeopled. That sentence is why the chapter sounds like a killed planet rather than a senile one. The documented motive for putting a hand there is the wager: the space story was going to be the fall of Satan, and a fall that only spoils Earth does not use Mars. He needed the rebel to have struck outward.
+
+**Where the one entity comes from (asked 2026-09-28).** Not from the early nineteenth century, and not from a Martian geology of his own decade. Lewis was born in 1898. He wrote the chapter in 1937–38. The “old dying world” he shared with the public is Lowell’s and Wells’s picture, late nineteenth century into the 1930s.
+
+The single striker is the shape of the myth he had agreed to tell. Christian angelology gives each heaven one governor. Bernardus Silvestris, whose *Cosmographia* supplies the word Oyarsa, already speaks of those planetary governors. The brightest of them falls. That is Lucifer, one person, and Lewis’s Oyarsa of Mars says the Earth’s ruler “was brighter and greater than I” before he bent. The date “before any life came on your world” is the ordinary theological date of the angelic fall, not a date taken from a telescope. Milton’s *Paradise Lost* is the English poem in which that one being’s rebellion wounds creation. Lewis was a Miltonist. *A Preface to Paradise Lost* is 1942, immediately after this novel, from lectures he was already giving. A slow cooling has no one to name. A story whose subject is the fall of one angel has a culprit the moment Mars is on the stage, because a fall that stays inside Earth never uses the planet he had just been assigned.
+
+He did write a catastrophe, and he wrote it against slow death. “Before its time,” one right hand, a world that would have been unpeopled, valleys opened as a rescue: that is a blow, inside the book. What he does not leave is a statement that he believed the highlands of the planet Mars were physically murdered. His own description of the book is a supposal, written to redeem science fiction for imaginative and spiritual purposes. *The Discarded Image* treats the old cosmos as a picture he preferred, and knew had been set aside. The ruined landscape he could take from Lowell without believing in a blow. The blow’s agent he could take from Milton without a report from Mars. A private conviction that a real catastrophe had struck the planet is not in the letters that explain the book.
+
+**Author’s match (2026-09-28), scored again.** The premature blow is a real match to a Mars that was killed, against the cooling story of his own decade. The magnetic-field story is not the alternative he declined, because it had not been written. What he wrote instead of cooling is the war in heaven laid onto Lowell’s map. The self-inflicted discharge, the telepath purge, and 1774 remain the part of the MFEE reading his chapter does not state. The match is the killed-before-its-time planet. The identification of that kill with the Pugachev backfire is the author’s.
+
+**Scored against the Ender reorder (2026-09-28).** The author’s full sequence — China scout, queen as the Pugachev command-break, child in a simulation who spends his own world — is [Ender’s Game plot order](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md). Lewis has the premature blow and the binding of one rebel afterward. He has no China, no child, and no command celebrating the loss of its own fleet. On that comparison he is the second-hand scrap, which is the author’s guess.
+
+**Working conclusion:** **L1** that the 1938 speech describes a cold death on Mars inflicted by Earth’s Bent One before terrestrial life, with survival in the handramits, and that Lewis’s named stimuli are Wells, Stapledon, Haldane, Lindsay, and the Tolkien wager. **L1** that loss of a global magnetic field was not the 1938 explanation of a dead Mars. **L3** that “before its time” refuses Lowell’s and Wells’s death-by-age, so the chapter is a killed planet on purpose. **L3** that the handramit map can sit beside a post-catastrophe Mars. **L3** that this is a second-hand fragment of the history the Ender reorder tells in full. **L4** that the hand is the 1774 self-inflicted DEW backfire. The Mallacandrian ocean is Brandenburg borrowing Lewis’s name.
+
+---
+
+## 7. Chronological Note for Timeline
 
 - **1898**: C. S. Lewis born in Belfast
 - **1914–1917**: Lewis studies classics; finds "Narnia" in Murray's atlas
@@ -219,5 +277,5 @@ All of these encode a planetary hierarchy that predates the heliocentric model.
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-Keywords: #Narnia #Planetary #Encoding #Lewis #Saturnian #Cosmology
+Keywords: #Narnia #Planetary #Encoding #Lewis #Saturnian #Cosmology #Malacandra #MarsCatastrophe #EndersGame #MFEE #OutOfTheSilentPlanet
 

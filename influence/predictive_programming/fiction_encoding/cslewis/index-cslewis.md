@@ -14,7 +14,7 @@ Investigating evidence that C. S. Lewis encoded **Saturnian / medieval planetary
 
 | File | Description |
 |------|-------------|
-| [investigation-narnia-planetary-encoding.md](investigation-narnia-planetary-encoding.md) | Full analysis: NARNIA as planetary cipher, Planet Narnia thesis, Space Trilogy cosmology, Saturnian connections |
+| [investigation-narnia-planetary-encoding.md](investigation-narnia-planetary-encoding.md) | Planetary cipher, Planet Narnia, Space Trilogy. **2026-09-28:** Mars killed “before its time” by one Bent One; the striker is Milton and the Tolkien wager, not 1930s cooling or a magnetic-field death; he wrote a supposal, not a claim the highlands were physically murdered. Scored as the thin, earlier telling beside [Ender’s Game](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md). Silver lies, the seven-book map, and Middle-earth as this earth are in the [Francis dossier](/influence/conspiracy/investigations/father-francis-morgan-tolkien-guardian-silence-redaction-investigation.md). |
 
 ---
 

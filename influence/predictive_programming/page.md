@@ -125,6 +125,8 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | **Hunter S. Thompson** | [thompson/](fiction_encoding/thompson/) | Pineal gland, adrenochrome; bar-scene managed disclosure |
 | **J.R.R. Tolkien** | [tolkien/](fiction_encoding/tolkien/) | Redacted fact; Silmarillion source mapping; Palantir analysis |
 | **C.S. Lewis** | [cslewis/](fiction_encoding/cslewis/) | Narnia and Space Trilogy as Saturnian cosmology |
+| **The laugh before the planet** | [the-laugh-before-the-planet.md](https://paradigmthreat.net/influence/predictive_programming/the-laugh-before-the-planet.md) | Agent's essay: Tolkien, Lewis, and Card filed one destroyed world as fiction; Father Francis and the Professor Xavier pattern |
+| **Orson Scott Card / Ender** | [card/](fiction_encoding/card/) | Child commander and fleet sacrifice as MFEE; [plot-order reading](fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) (China scout, Pugachev command-break, Lewis second-hand) |
 | **Jules Verne** | [jules-verne/](fiction_encoding/jules-verne/) | Novels as declassified technology manuals |
 | **Jonathan Swift** | [swift/](fiction_encoding/swift/) | *Gulliver* as travel hoax frame; Laputan Martian satellites (1726) vs 1877 discovery; Lilliput/Brobdingnag scale threads |
 | **H.P. Lovecraft** | [lovecraft/](fiction_encoding/lovecraft/) | Cosmic horror as suppressed cosmological memory |
