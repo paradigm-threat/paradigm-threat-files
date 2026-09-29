@@ -363,6 +363,7 @@
       "governance/war/investigations/cia-investigation.md"
     ],
     "relatedClaimIds": [
+      "911-why-necessary",
       "dew-poison-well-911",
       "controlled-opposition",
       "cruz-kevin-malone-pattern"
@@ -370,6 +371,56 @@
     "doNotSay": [
       "The site accepts the official 9/11 story as settled.",
       "9/11 was simply an outside terrorist attack with no interagency read."
+    ]
+  },
+  {
+    "id": "911-why-necessary",
+    "title": "Why 9/11 was necessary",
+    "claim": "9/11 was a necessary inside job because the CIA’s slow-burn holy war was already running from 1979. The public record is the Carter–Khomeini contacts, the Mecca pivot, Operation Cyclone, and the CIA’s secret New York station in WTC 7 (New York Times, 4 Nov 2001). The site conclusion is that the NSA side staged 9/11 early, at home, and on camera to start the public War on Terror and wreck that covert script.",
+    "answerOpener": "Necessary means the CIA’s slow-burn holy war was already running in 1979, and 9/11 was the inside job that started the public version of it. Carter–Khomeini contacts, the Mecca pivot, and Operation Cyclone are on the record. 9/11 put that war on television as the War on Terror and destroyed the CIA’s secret New York station in WTC 7 (New York Times, 4 November 2001). The NSA side staged it early because letting 1979 finish off-camera was worse.",
+    "bullets": [
+      "1979 is the documented start: Carter contacts with Khomeini, Mecca’s Wahhabi pivot, Operation Cyclone and the Afghan mujahideen.",
+      "9/11 starts the public war — War on Terror — instead of leaving religion-and-regime capture covert.",
+      "WTC 7 housed the CIA’s secret New York station; the New York Times reported it destroyed on 4 November 2001.",
+      "Which side held the knife is the site conclusion: NSA antibody, not the CIA finishing its own script."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "1979 holy-war record and the WTC 7 CIA office are public documentation. The necessity conclusion — NSA inside job to force the public war — is this site’s integrated read.",
+    "topics": [
+      "9/11",
+      "911",
+      "necessary",
+      "1979",
+      "holy war",
+      "operation cyclone",
+      "wtc 7",
+      "cia",
+      "nsa",
+      "war on terror"
+    ],
+    "demoQuestions": [
+      "What do you mean 9/11 was necessary?",
+      "Why was 9/11 a necessary inside job?"
+    ],
+    "searchQueries": [
+      "why was 9/11 necessary CIA 1979 holy war Operation Cyclone WTC 7"
+    ],
+    "searchPrefixes": [
+      "events/false_flag/",
+      "influence/religion/"
+    ],
+    "canonicalPaths": [
+      "events/false_flag/qa/q01-why-911-was-necessary.md",
+      "events/false_flag/investigations/09-11-investigation.md",
+      "influence/religion/1979-religious-revival-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "911-good-actor-antibody"
+    ],
+    "doNotSay": [
+      "9/11 was necessary because foreign terrorists really attacked America.",
+      "The CIA staged 9/11 to complete its own holy-war script."
     ]
   },
   {

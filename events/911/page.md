@@ -34,7 +34,7 @@ has plummeted.
 
 America was put in a state of war readiness known as the War on Terror. This was a tactic to keep the focus on
 *terrorism* rather than *religion*. None of us understood at the time, but this was the only play for the 'good'
-actors.
+actors. Short answer: [what “necessary” means](/events/false_flag/qa/q01-why-911-was-necessary.md).
 Since then, nobody wants to talk about 9/11. Not the good actors, nor the bad.
 
 

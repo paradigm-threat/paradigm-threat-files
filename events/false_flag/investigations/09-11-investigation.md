@@ -18,6 +18,8 @@
 
 **9/11 spelled disaster and final doom for all of the CIA's led plans.**
 
+Short answer to “what do you mean it was necessary?”: [Q1 — why 9/11 was necessary](/events/false_flag/qa/q01-why-911-was-necessary.md).
+
 **Author epistemic rule (2026-05-31):** Treating **~3,000** (or any official increment) as settled fact is the same epistemic move as treating **hijacked planes, cave-dwelling masterminds, and fire-only collapse** as settled fact. This repo **rejects that bundle**. The event was real as **spectacle and structural demolition**; the **human toll as packaged for the public** is an open forensic and statistical question — with the **minimal-death / media-docudrama** thesis assigned **substantial weight**, not fringe status.
 
 Cross-read: [Good-Actor Theory — interagency antibody](./good-actor-theory-interagency-antibody-investigation.md) · [CIA investigation — WTC 7 / NSA antibody](/governance/war/investigations/cia-investigation.md) · [Epstein blackmail network — 9/11 cross-links](./epstein-blackmail-network-9-11-crosslinks-investigation.md)
