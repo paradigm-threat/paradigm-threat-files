@@ -2,17 +2,16 @@
 
 ![Circulating meme: John Wayne portrait with the claim he bought 1,200 foreclosed houses for homeless Vietnam veterans](john-wayne-vietnam-vet-houses-meme-investigation.png)
 
-> **TL;DR:** The circulating text says that after John Wayne died in 1979, bank records showed he had bought 1,200 foreclosed houses (1950–1979) for about $43 million in cash, never signed his name, and left the keys at VA hospitals for homeless Vietnam veterans. Under the low bar set for this file, a missing Wayne signature and a $6.8 million probate estate do **not** falsify that story: gifted-away assets leave an estate, and a nominee can keep a grantor’s name off a deed. What that bar still requires is one recipient, one address, or the same method under any other name. This pass found none. It did find the real housing current the meme is standing in front of: VA home loans, a 1990 Seattle transitional house the operators called the first of its kind, a Reno VA guest house born from families sleeping in cars, and later public nonprofits that donate adapted homes in the open. **AU-065** holds the author’s read that flattening the meme is how a vet-centered politics gets headed off.
+> **TL;DR:** The houses paragraph is built so that paper cannot prove it. A missing signature was already a reason not to expect Wayne’s name. The author’s correction goes further: **1,200 deeds in other names, at the same time, would still not be proof** that he did it, or that a veteran lived the moment the meme describes. Once heard, the story is taken on faith. The question that remains is experiential, not archival: **how many times veterans actually saw this happen to them**, whoever paid and for whatever reason. Public, named testimony in that exact shape — envelope, keys, address, “thought it was a scam,” house paid in full — is the meme’s own unnamed sentence and nothing else this pass could attach to a person. That is not a count of what happened. It is a count of what was printed.
 
-**Status:** Open — meme forensics and adjacent housing record logged; no grantee, no address, no pre-meme oral history of the keys-in-an-envelope method.
+**Status:** Open — attribution retired as unprovable (**§4.1**). Remaining work is veteran-side experience, not a recorder search.
 
 ## 1. Guide (read order)
 
-1. The claim, and the bar that refuses to kill it with “his name isn’t on a deed” or “he died with only $6.8 million,” is **§2–§4**.
-2. What is actually documented about Wayne’s money, land, and veteran contact is **§5–§6**.
-3. Calendar, arithmetic, and why an unsigned grantor still leaves a grantee are **§7–§8**.
-4. The same method under any name — what turned up — is **§9**.
-5. The author’s cover-up / vet-centered-culture thesis is **§11–§12**, kept separate from the deed hunt.
+1. Why this claim is not a deed problem is **§4.1**. Read that before the earlier “low bar.”
+2. The paragraph itself is **§2**. Money, tour, and calendar context that does not settle it is **§5–§8**.
+3. What veterans have actually described in public — and what that is not — is **§9**.
+4. The author’s cover-up read and the faith correction are **§11** and **§11.1**.
 
 ## 2. The artifact
 
@@ -41,7 +40,9 @@ Repo method this rule rhymes with: [debunk overreach and adjacent discard](/docs
 
 Wayne already used a form of the “name not on the land” device for property he still owned. The Associated Press account carried by the *New York Times* (21 Jun 1979) says the lawyer described the Arizona ranch as personal property because Wayne held it through stock in a corporation. Nominee title was a method in his actual estate, and it was still disclosed, because the asset was still his. See **§5**.
 
-## 4. What the low bar still requires
+## 4. What an earlier pass treated as still required
+
+Kept as the first pass. **Superseded by §4.1.** The author rejected this table as a proof standard.
 
 “Unsigned” hides a **grantor**. It does not hide a **grantee**, a county recorder, a property-tax roll, a VA mailroom, or a man who was handed a house.
 
@@ -57,6 +58,20 @@ Positive hits that would clear the low bar, any one of them:
 None of those four turned up in biographies’ public trail, probate reporting, John Wayne Enterprises’ own Vietnam journal, veteran-housing origin stories, or the September 2026 argument around the meme.
 
 Social posts that call the meme false cite the estate figure and the absence of his name. They do not quote a child, a secretary, or a VA clerk. This pass also found **no** signed family confirmation and **no** signed family denial. Silence from the family is not a verdict.
+
+## 4.1 Author correction — this claim is not provable, and deeds would not prove it
+
+Verbatim:
+
+> I don't see why we would ever find the evidence for this particular claim. I don't see how even finding 1200 other deeds by some other name at the exact same time would even do as proof. This does not seem provable at all. This seems to be the kind of thing where it's taken a hundred percent on faith once you hear it. And the only question left is how many times did veterans actually see this happen to them, regardless of the reasons why.
+
+**What that means.** The story says the buyer never signed, the family never knew, and the only witness is the veteran who got the keys. A search aimed at Wayne’s name is aimed at a blank the story already filled in. A search aimed at other names fails for a different reason: a deed shows a transfer. It does not show who arranged it, what note was in the envelope, or that the person on the grantee line experienced it as “welcome home” rather than as an ordinary purchase, a VA loan, a relative, or a nonprofit. Twelve hundred such deeds would be twelve hundred houses changing hands. They would not be this story.
+
+So the claim is not sitting one document short of proof. It is the kind of account that, once heard, is kept or refused whole. Keeping it is faith. Refusing it because the estate was $6.85 million, or because his name is missing, is the move **§3** already declined, and it still does not touch the thing the veteran would have seen.
+
+**The question that remains** is not “was it Wayne?” It is: how many times did a veteran see this happen to him — keys, a house, paid off, no explanation that satisfied him — whatever the reason and whoever the money belonged to.
+
+That count cannot be taken from recorders. It can only be taken from the people it happened to. What follows in **§9** is the public trace of that experience, which is not the same as the experience.
 
 ## 5. Documented money and land
 
@@ -139,7 +154,20 @@ Searched for: anonymous keys left at a VA hospital; an envelope with an address 
 
 National Coalition for Homeless Veterans exists as the later umbrella for this work (organizational history places the coalition at the end of the 1980s / 1990). It is a public advocacy and assistance center, not a cover for a finished 1,200-house trust.
 
-**Read of the table, at the low bar:** the incident “someone housed veterans” happened many times. The incident “unsigned cash, keys at the VA, paid in full, family never told, 1,200 of them” has no specimen, under Wayne’s name or any other.
+**Read of the table, after §4.1.** These rows are answers to a different question: housing programs that operators and newspapers described. They are not a census of veterans who quietly received keys.
+
+On the question the author left open — how many times a veteran saw *this* happen to him — the public record from this pass is:
+
+| What a veteran (or his family) is on record describing | Named? | Same experience as the meme? |
+|--------------------------------------------------------|--------|------------------------------|
+| The sentence inside the meme: sleeping in the car, envelope, keys, address, thought it was a scam, house paid in full | No name, no place, no date | This is the experience. It has one telling, and the teller is not identifiable |
+| Anna Lantry, Reno, 2008 feature about a 1991 guest house: otherwise she would have been sleeping in the car outside the VA hospital | Yes | Car outside a VA hospital. The house was a guest house for families of patients, not a deed handed to a homeless veteran |
+| Bob Bradshaw, windshield envelope with a $20 bill and a thank-you note | Yes, in a human-interest writeup | Envelope from a stranger. The contents were a meal, not a house |
+| Michael Malone, Point Pleasant, 2021: a couple paid his restaurant check after seeing that he was a Vietnam veteran | Yes | Anonymous gratitude. A dinner, and he met them |
+| Houses built or repaired in public (Homes For Our Troops; volunteer builds such as the Indiana case reported by AP) | Recipients named in those stories | A house, given in the open, with a committee, a camera, or both |
+| The inverse: veterans who thought a house deal or a demand for cash was real and it was a scam (Everett, CBS; a Valley veteran’s fake apartment) | Yes | Envelope and house in the same breath as fraud. The meme’s veteran “thought it was a scam” and then it was not |
+
+No second, named veteran turned up saying the meme’s sequence happened to him. That is not a finding that the number of times is zero. It is a finding that **the printed count of that exact experience is one anonymous sentence**. Everyone who lived it and did not tell a reporter is outside what this file can tally. Under the author’s rule, that untallied remainder is where the claim lives, and it is held on faith.
 
 ## 10. The controversy as a genre
 
@@ -157,15 +185,20 @@ Verbatim from the request that opened this file:
 
 **What that means, as a stake for this project.** The post-Vietnam abandonment is treated as the true wound. Films about that wound are treated as evidence the culture knew. A private answer — buy the houses — is treated as the obvious pushback, and as politically dangerous: if it were known to have worked, the country’s politics could re-center on veterans instead of on the arrangements the author calls globalist. On that read, “the meme is fake” and “go research it and you will find it never happened” are the same operation. Research is allowed; the category (veterans housed by private patriotic money, as a model) is what has to come back empty.
 
-**Prior art:** partial. Post-Vietnam veteran neglect, the “welcome home” movement, and veteran homelessness as a 1980s political issue are ordinary history. Celebrity-charity memes are a known internet genre. The **bundle** — low-bar refusal to treat a missing signature or a terminal estate as fatal, plus the claim that debunking this particular story is how a vet-centered politics is prevented — is the author’s (**AU-065**).
+### 11.1 Faith, not a missing document
+
+The correction in **§4.1** changes the status of the whole file. Hunting a deed, a bank line, or twelve hundred transfers in other names is not a stricter test that has not yet been run. It is the wrong kind of test. The author holds the paragraph the way such a paragraph can be held: entire, on hearing it, or not at all. The only empirical remainder is the veterans’ own sight of it, reasons aside.
+
+**Prior art:** partial. Post-Vietnam veteran neglect, the “welcome home” movement, and veteran homelessness as a 1980s political issue are ordinary history. Celebrity-charity memes are a known internet genre. The **bundle** — low-bar refusal to treat a missing signature or a terminal estate as fatal, plus the claim that debunking this particular story is how a vet-centered politics is prevented, plus the later lock that the story is faith-grade and that other people’s deeds would not prove it — is the author’s (**AU-065**).
 
 ## 12. What that thesis predicts, set next to the housing record
 
-The timing instinct is right about the wound and wrong about the meme’s own dates.
+**§4.1 governs.** The bullets below are context for the wound and for the public housing programs. They are not a path back to proving the paragraph. A grantee on a deed would still not be a veteran saying it happened to him.
+
+The timing instinct is right about the wound.
 
 - Veterans came home to thin care, and the culture made a decade of films about it. That is why the paragraph is believable. Believability is not a deed.
-- There **was** pushback aimed at houses. It is in **§9**: the VA loan, then block-grant transitional houses, then guest houses next to VA hospitals, then post-9/11 adapted homes. It was reported in daily newspapers. The Seattle operators wanted the public to know. They did not behave like people sitting on a secret that had to be kept to protect a larger plan.
-- A cover that works by sending readers to “find out it never happened” has to explain the grantee side. The Alamo mortgage, the 1966 tour, and the 1990 “first transitional home” were all printable. The thing those stories do not contain is 1,200 paid-off houses. Hiding Wayne’s signature would not have hidden the recipients from the Vietnam Veterans Leadership Project, from VVA, or from the reporters who already considered one house a miracle.
+- There **was** pushback aimed at houses. It is in **§9**: the VA loan, then block-grant transitional houses, then guest houses next to VA hospitals, then post-9/11 adapted homes. Those are programs people reported. They are not the quiet experience claim 6 asks to count.
 - The political forecast — a known program of this kind would have pulled the country toward a vet-centered politics and wrecked other plans — is **AU-065**, not a result of the recorder search. What the record shows is that veteran-housing nonprofits were allowed to exist, solicit, and pose with giant checks, and that this did not become the country’s organizing principle. That outcome is compatible with the author’s fear. It is also compatible with a simpler fact: the programs were real and small, and the 1,200-house story was never among them.
 
 Insisting the **paragraph** is unsupported is not the same move as insisting veterans were never owed houses. Collapsing those two is the adjacent-discard this file is built to refuse. The other overreach — promoting the paragraph to a suppressed national program because the wound was real — is the inverse the methods note already flags.
@@ -188,29 +221,27 @@ Insisting the **paragraph** is unsupported is not the same move as insisting vet
 3. **Timing.** The story attaches to the real post-Vietnam failure of care and to the films made about it.
 4. **Pushback.** If that failure was real, private purchase of houses for veterans is a likely response, not a fairy-tale response.
 5. **AU-065.** Treating the meme as fake, or routing inquiry so that it returns “this never happened,” avoids a pro-American, vet-centered political culture that would cut against the plans the author calls globalist.
+6. **Faith lock (§4.1).** This particular claim is not provable. Twelve hundred deeds in other names at the same time would not be proof. Once heard, it is taken entirely on faith. The only question left is how many times veterans saw it happen to them, reasons aside.
 
-Claims 1 and 2 are the method of this file. They were followed. They did not produce a specimen. Claims 3 and 4 match the cultural and nonprofit record in **§7** and **§9**, with the date correction in **§7**. Claim 5 stays author-tier.
+Claims 1 and 2 were the method of the first pass. They were followed, and they did not produce a specimen. **Claim 6 retires them as a proof standard.** Claims 3 and 4 match the cultural and nonprofit record in **§7** and **§9**, with the date correction in **§7**. Claims 5 and 6 stay author-tier. The experiential count in **§9** is the start of an answer to claim 6, and it is a count of print, not of memory.
 
 ## 15. Questions to clarify, verify, or debunk
 
-| # | Question | What would settle it |
-|---|----------|----------------------|
-| Q1 | Is there one recorded deed, 1965–1979, to a Vietnam veteran, grantor a trust or company, no mortgage, that any veteran has publicly tied to an unsigned benefactor? | County recorder example plus the veteran’s account |
-| Q2 | Did any VA hospital log, IG report, or 1970s–80s congressional hearing on homeless veterans mention keys or envelopes left for patients? | Hearing index, VA history office |
-| Q3 | What does the Orange County will (27 pages, filed ~19–20 Jun 1979) list beyond the AP summary? | Superior Court copy; John S. Warren’s inventory |
-| Q4 | Do Michael Wayne, the other children, or Batjac’s books mention any housing trust? | Family interview or Batjac archive, not a meme |
-| Q5 | Does Scott Eyman’s *John Wayne: The Life and Legend*, or the John Wayne Archives finding aid, contain a housing or “welcome home” file? | Book and archive guide — **not read this pass** |
-| Q6 | When was the houses paragraph first posted, and by which page or channel? | Earliest capture with a date; the May 2026 YouTube is only a floor |
-| Q7 | Did Vietnam Veterans of America or the Leadership Project ever claim a secret predecessor of mass fee-simple gifts? | Organizational newspapers, 1978–1995 |
+| # | Question | Standing after §4.1 |
+|---|----------|---------------------|
+| Q1 | A deed to a veteran, grantor a trust, no mortgage | **Retired as proof.** A deed would not identify Wayne, the note, or the experience. Kept only if a veteran himself ties that paper to the moment |
+| Q2 | VA log or hearing mentioning keys left for patients | Still relevant, because it would be a veteran-side or staff-side sighting, not a grantor hunt |
+| Q3–Q5 | Will text, children, Batjac, Eyman | Context for Wayne’s money and letters. They cannot carry claim 6 |
+| Q6 | First posting of the paragraph | Dates the telling. Does not date the experience |
+| Q7 | Did VVA or the Leadership Project describe a secret predecessor? | Organizational memory, still not a veteran count |
+| Q8 | How many veterans, in their own words, say the keys / paid-off house / “thought it was a scam” sequence happened to them? | **The open question.** Oral history, VVA letters, VA waiting-room testimony. Print so far: one unnamed sentence inside the meme |
 
 ## 16. Weak points / remaining TODOs
 
-- [ ] Pull the Orange County will rather than the AP summary.
-- [ ] Read Eyman (or Roberts / Olson) against Q4–Q5 before treating “biographers never mentioned it” as more than a negative search.
+- [ ] **Q8.** Veteran oral histories and VVA / VA testimony for the keys sequence, counted as experiences, not as proof of a buyer.
 - [ ] Date the meme’s first appearance below the May 2026 YouTube floor.
-- [ ] One recorder-of-deeds sample in a high-veteran county (Orange, San Diego, rural Arizona) is still the cleanest low-bar test, and it has not been run by hand.
-- [ ] WNKY piece: date and full text not re-fetched past the indexed summary.
-- [ ] Reno guest-house feature: body paraphrased from the indexed *Union-Tribune* text; full article chrome blocked a clean re-read on 30 Sep 2026.
+- [ ] WNKY piece and Reno guest-house feature: full text not re-fetched past indexed summaries.
+- [x] Recorder sample retired as a proof test (§4.1). Orange County will and Eyman remain background only.
 
 Keywords: #JohnWayne #VietnamVeterans #HomelessVeterans #MemeForensics #DebunkOverreach #VAHousing #GreenBerets #WelcomeHome #AU065 #ParadigmThreatFiles
 
@@ -220,9 +251,9 @@ Keywords: #JohnWayne #VietnamVeterans #HomelessVeterans #MemeForensics #DebunkOv
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-- **Author thesis is first-class and not automatically factual.** **§11** and **§14** claim 5 are the author’s political read. They are not a finding that a cover-up of 1,200 deeds was observed.
+- **Author thesis is first-class and not automatically factual.** **§11** and **§14** claims 5 and 6 are the author’s. Claim 6 is an epistemological lock: the paragraph is held on faith, and a deed hunt is the wrong instrument. It is not a finding that 1,200 veterans were handed keys.
 - **Tiers.** Census table and the fetched probate lede / Enterprises journal / *Seattle Times* article are the strong tier. AP breakdown of the $1 million / $5.75 million split is from indexed text of the *New York Times* story, not a re-pull of the full column. *Alamo* dollars are secondary entertainment press. `ifeg.info` pages are cited as genre specimens, not as evidence about Wayne.
-- **Low bar cuts both ways.** Refusing to treat a missing signature as fatal also refuses to treat a missing signature as proof. No specimen was found. That is a result of this pass, not a ceremony.
+- **§4 is superseded.** The first pass asked for a grantee. **§4.1** says even that paper would not prove the claim. The experiential table in **§9** is a print count, not a count of untold cases.
 - **Cross-links are thematic.** *The Green Berets* and *Lebowski*’s Walter are camp and culture rhymes, not evidence of a housing trust.
 - **Assistant limits.** No Orange County case file, no Batjac ledger, and no in-person veteran interview were opened in this session.
 
