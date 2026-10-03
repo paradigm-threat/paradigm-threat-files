@@ -76,7 +76,7 @@ Before writing a new dossier: `rg` / glob under `paradigm-threat-files` for the 
 | Simple FAQ (“which years were added?”) | Short chat answer; optional FAQ page later | Brief answer in-channel |
 | Already covered | Point at existing page | Brief + link |
 
-**Voice in chat:** short, plain, first-person-as-Ari / site voice. No dossier TL;DR paste. Target **~2–4 sentences**, under **1024** chars (`CHAT_CONTENT_MAX`).
+**Voice in chat:** short chronicle, plain spoken. Facts first. No poetry. No dossier TL;DR paste. Target **~2–4 sentences**, under **1024** chars (`CHAT_CONTENT_MAX`).
 
 Typical shape:
 

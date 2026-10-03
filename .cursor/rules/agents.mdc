@@ -20,4 +20,5 @@ alwaysApply: true
 - Cosmology Q&A → [`docs/LLM_COSMOLOGY_QA.md`](../../docs/LLM_COSMOLOGY_QA.md)
 - Æther vocabulary → [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../../docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)
 - Articles → [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md)
+- Prose (replies, comments, Q&A, articles) → chronicle / documentary; no poetry; reader decides from the facts. [`.cursor/rules/plain-spoken-prose.mdc`](plain-spoken-prose.mdc)
 - Dead-URL replacement sweep → [`docs/DEAD_URL_REPLACEMENT_SWEEP.md`](../../docs/DEAD_URL_REPLACEMENT_SWEEP.md)

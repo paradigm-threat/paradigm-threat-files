@@ -36,6 +36,7 @@ Hand-stamped dates and **`Last updated`** lines use **US Eastern** (`America/New
 | Hub `page.md` / AutoIndex | [`docs/instructions/PAGE_MD_AUTOINDEX.md`](docs/instructions/PAGE_MD_AUTOINDEX.md) |
 | Site chat leads → reply + live link | [`docs/CHAT_REQUEST_RESPONSE.md`](docs/CHAT_REQUEST_RESPONSE.md) |
 | Cosmology social Q&A routing | [`docs/LLM_COSMOLOGY_QA.md`](docs/LLM_COSMOLOGY_QA.md) |
+| Satan / Saturn, God-and-Satan split, Satanism Q&A | [`influence/religion/qa/page.md`](influence/religion/qa/page.md) → dossier [`influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md`](influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md) |
 | Æther / Maxwell vocabulary | [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) |
 | Git remotes (operator detail) | [`docs/GIT_REMOTE_STRATEGY.md`](docs/GIT_REMOTE_STRATEGY.md) |
 | Media / IPFS | [`docs/MEDIA_AND_IPFS.md`](docs/MEDIA_AND_IPFS.md) |
@@ -49,7 +50,7 @@ Hand-stamped dates and **`Last updated`** lines use **US Eastern** (`America/New
 
 ## Articles (summary)
 
-When editing **reader-facing articles** (not investigations): use **`https://paradigmthreat.net/...`** for in-repo links and images; first-person **I** for Ari’s thesis; serious plain prose; dossiers hold proof density. Full rules: [`docs/instructions/ARTICLES.md`](docs/instructions/ARTICLES.md). Cursor applies **`.cursor/rules/articles.mdc`** on `**/*.md`.
+When editing **reader-facing articles** (not investigations): use **`https://paradigmthreat.net/...`** for in-repo links and images; **`I`** only for personal witness; **chronicle / documentary** prose (no poetry, no manifesto cadence); the reader decides — put the facts they need in order. Dossiers hold proof density. Full rules: [`docs/instructions/ARTICLES.md`](docs/instructions/ARTICLES.md). Cursor: **`.cursor/rules/articles.mdc`** and **`.cursor/rules/plain-spoken-prose.mdc`**.
 
 ---
 

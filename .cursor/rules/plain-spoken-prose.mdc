@@ -1,0 +1,32 @@
+---
+description: Plain spoken chronicle prose — no poetry; reader decides
+alwaysApply: true
+---
+
+# Plain spoken prose
+
+When the words are for a person to read — a chat answer, a comment reply, a Q&A, an article — write like a **chronicle** or an **objective documentary**. Who did what, in order. Ordinary spoken sentences. The reader makes up their own mind. Give them the facts they need to do that.
+
+Same bar as [`docs/instructions/ARTICLES.md`](../../docs/instructions/ARTICLES.md). This rule also covers replies that never become a file.
+
+## Do this
+
+- Name events, dates, products, and what changed.
+- One main fact per sentence.
+- If a metaphor is the whole sentence, replace it with the fact.
+- Read it aloud. If it would sound odd to a stranger, rewrite it.
+- Keep documented charges. Plain is not softer. Plain is not poetry.
+
+## Do not do this
+
+- Poetry, trailer voice, manifesto cadence, stacked fragments (“Not as insult. Not as metaphor.”).
+- A neat closer that only sounds deep (“He is not the memory.” “The leftover fight is the soul.”).
+- Coaching the verdict (“that is why you must,” “the only real divider,” “notice what this means”) unless Ari asked for that sentence in those words — and then still say it as speech, not verse.
+
+```
+Bad: The leftover fight is only whether the cage is holy. Isolated complaints rain on a parade. The stacked pattern is the attack.
+
+Good: In 2013 The Weather Channel replaced the Local on the 8s jazz with production music. Viewers wrote. The new package stayed. A game company can do the same with a remake. One remake, taken alone, looks like a store page. The dates and the copies are what the reader has.
+```
+
+Code, commands, citations, and investigation tables stay as they are. This rule is for prose sentences.
