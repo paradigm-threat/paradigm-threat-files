@@ -95,6 +95,7 @@ White wrote a Cambridge thesis on Malory and used *Le Morte d'Arthur* as his mai
 - [Lewis, Narnia, Planet Narnia](/timeline/evt-jupiter-replaces-saturn-as-the-new-saviour) — Lewis encoded planets in Narnia; parallel for Arthurian encoding
 - [Imperial Technology](/timeline/evt-imperial-technology-and-the-knowledge-of-the-horde) — alchemy = garbled metallurgy; transmutation encodes real processes
 - [Fiction encoding index](../index.md)
+- [Satan and Saturn — one creator later split (AU-064)](/influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md) — Arthur’s good/evil sorting as the literary specimen for God vs Satan; [Q&A](/influence/religion/qa/page.md)
 
 ---
 

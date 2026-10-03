@@ -256,6 +256,7 @@ Author beat: poorly recorded freedom under the sun; masculine names for the sun;
 ## 16. Related
 
 - **Reader essay:** [God Is a Woman!](/influence/religion/god-is-a-woman.md)
+- [Satan and Saturn — good/evil split of the same creator (AU-064)](/influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md) — sibling: this file tracks gender and the solar interlude; that file tracks Satan peeled off the creator, then the sun’s benign credit written back onto Saturn
 - [Circle of Life](/science/biology/circle-of-life-and-how-it-began.md)
 - [Creation event interpretations](/history/chronology/investigations/creation-event-interpretations.md)
 - [Chronology hub](/history/chronology/page.md)

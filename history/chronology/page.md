@@ -1325,7 +1325,7 @@ after the Heavenly Jerusalem described in the [holy texts](https://chronologia.o
 during the Collinear configuration of planets and is still
 seen [today](https://solarsystem.nasa.gov/missions/cassini/science/saturn/hexagon-in-motion/). In old versions of
 Jerusalem, each of the 3 *walls* had 6 gates resulting in the number **6-6-6** found in literature and often
-associated with [Satan](https://www.quora.com/Is-there-a-connection-between-Satan-and-Saturn) i.e. Saturn.
+associated with [Satan](https://www.quora.com/Is-there-a-connection-between-Satan-and-Saturn) i.e. Saturn. The argument that this is one creator later split into God and Satan, with 1666 as the earthly-authority crest, is [AU-064](/influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md) ([Q&A](/influence/religion/qa/page.md)).
 
 The invention of the *fixed* calendar provided the Deep State with a new system of faith based on the concept of
 constancy - that things change very slowly over time, or not at all. Jerusalem #1 in Istanbul was
