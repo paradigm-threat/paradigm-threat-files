@@ -300,7 +300,7 @@ The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trig
 
 #### 5.8.3 *Metroid Prime* Chozo lore (PP adjunct — **2026-10-03**)
 
-Author session: Chozo catastrophe on Tallon IV **lines up** with this transcript’s **shadow people / corruption / megalithic lock / waiting**. **AU-067:** PAL **shadow-remainder** cut = **trim-back** of PP after the 2002 deposit had already served; leftover breadcrumb would lead here. Full motif table, NTSC vs PAL rewrite, Prime 2 Luminoth analog, Prime 3 SkyTown / Phaaze: [**Chozo lore × Mars RV investigation**](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md). **Does not** change this file’s **Mars PDF verdict**.
+Author session: Chozo catastrophe on Tallon IV **lines up** with this transcript’s **shadow people / corruption / megalithic lock / waiting**. **AU-067:** PAL **shadow-remainder** cut = **trim-back** of PP after the 2002 deposit had already served; leftover breadcrumb would lead here. **Pre-disclosure split:** *Chrono Trigger* **1995** is **before** the **2000-08-08** stamp; *Prime* **2002** is **after** the stamp but still **unnoticed** as a compare (no prior CT/MP × this RDP join located 2026-10-03). Full motif table, NTSC vs PAL rewrite, Prime 2 Luminoth analog, Prime 3 SkyTown / Phaaze: [**Chozo lore × Mars RV investigation**](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md). **Does not** change this file’s **Mars PDF verdict**.
 
 ---
 

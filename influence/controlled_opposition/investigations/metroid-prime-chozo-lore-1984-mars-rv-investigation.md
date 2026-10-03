@@ -93,14 +93,24 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 |------|--------|
 | 22 May 1984 | Mars RV session ([PDF](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf)) |
 | 1995 | *Chrono Trigger* — already logged as PP adjunct ([Mars §5.8](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) |
-| 8 Aug 2000 | Reading Room stamp on the Mars scan |
-| 18 Nov 2002 | *Metroid Prime* NA — **ghost/shadow return** plot in Chozo lore |
+| 8 Aug 2000 | Reading Room stamp on the Mars scan — **everyday public PDF** many readers treat as declass |
+| 18 Nov 2002 | *Metroid Prime* NA — **ghost/shadow return** plot in Chozo lore (**after** the stamp) |
 | 2003 | PAL / JP **rewrite** of that lore ([TCRF](https://tcrf.net/Metroid_Prime/Text_Differences)) |
 | 2004 | *Echoes* — Luminoth split-world containment |
 | 2007 | *Corruption* — living planet Phaaze; Chozo as departed watchers |
 | 2009 | *Trilogy* ships PAL lore as the durable English |
 
-**PP order:** session **1984** → mass game **2002** (NTSC closest to SUB’s shadow people) → everyday public scan associated with **2000**, but the **ghost-return** script still lands **after** the stamp and **before** Trilogy flattening. Fiction still **trains** the mood. PAL **R1 + R3** ([redaction vocabulary](/docs/REDACTION.md)): subtract the beyond-space-time return; substitute living colonists who merely watch.
+**PP order:** session **1984** → *Chrono Trigger* **1995** (before the **2000-08-08** stamp) → stamp → *Metroid Prime* NA **2002** (after the stamp, before Trilogy flattening). PAL **R1 + R3** ([redaction vocabulary](/docs/REDACTION.md)): subtract the beyond-space-time return; substitute living colonists who merely watch.
+
+### 4.1 Pre-disclosure vs unnoticed compare (**author**, 2026-10-03)
+
+**Chrono Trigger (1995)** is **pre-disclosure** on the clock this repo already uses for the Mars PDF: the game shipped **about five years before** the scan banner **Approved For Release 2000/08/08**. A 1995 player had **no** CIA.gov worksheet to hold next to 2300 AD. That is **fiction-before-declass** ([Mars §5.8](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md); article tag **FictionBeforeDeclass**).
+
+***Metroid Prime* (2002)** is **not** pre-stamp. The NA Chozo ghost script lands **after** August 2000. A determined FOIA reader **could** have opened the PDF while playing Prime. Almost none did. A Reading Room RDP is not a gamer commons. **Author:** Prime still functions as **pre-compare** PP — the public could not *in practice* line Chozo shadows up with SUB’s shadow people. **AU-067** then trims the remainder once the 2002 deposit has trained the mood.
+
+**Nobody noticed the join (this desk, 2026-10-03):** Web search for *Chrono Trigger* × 1984 CIA Mars RV returns this project’s [article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) as the named plot join. Search for *Metroid Prime* Chozo × the same session returns **no** prior join — Nintendo Chozo pages and the CIA PDF sit in separate lanes. **Author:** the breadcrumb was unused until this repo walked it. That is the point of depositing the mood in a game and leaving the worksheet in a ridicule folder.
+
+**Caveat (do not overclaim the 1995 vacuum):** Joseph McMoneagle’s *Mind Trek* (**1993**) is reported to track this session in memoir form **before** the 2000 stamp ([Slate 2017](https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html)). That is **not** the CIA PDF, **not** a Chrono or Prime comparison, and **not** mass culture. Log it so “the public had zero text” is not the claim. The claim is **no everyday compare surface** for the games, and **no published CT/MP × this RDP join** located this pass.
 
 **AU-067 (author lock, 2026-10-03):** Predictive programming is **not** a one-way fountain that only adds. After a deposit has **served its purpose** — here, rehearsing planetary catastrophe, poison, and waiting ghosts for a 2002 audience — leftover **specific** grammar becomes a **liability**. It is a breadcrumb back to the **source** (this repo’s source: the Mars MON/SUB transcript). Someone **trims** that remainder. The PAL Chozo rewrite is the specimen: same meteor, same lock, **shadow remainder gone**. Later *Dread* Chozo rewrite is a separate franchise fight ([Nintendo vassal investigation](/influence/stolen_credit/investigations/nintendo-vassal-hardware-self-sabotage-investigation.md)), same **trim-back** class if it keeps deleting the 2002 ghost engine.
 
@@ -116,6 +126,7 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 4. **Samus as Hatchling felt across the void** is the game’s version of **two-way** contact (Mars: SUB as hallucination). **Author.**  
 5. **Avian Chozo** is species-costume wedge, parallel to Chrono’s ordinary humans in a Mars-shaped 2300 AD. **Author.**
 6. **AU-067 — PP trim-back:** the PAL **shadow-remainder** redaction is a **major clue** that operators **cut** predictive programming once it has already trained the public, because the leftover trail now only points at the source (1984 Mars RV). **Author.**
+7. **Pre-disclosure / unnoticed compare:** *Chrono Trigger* is **pre-stamp** (1995, before 2000-08-08). *Metroid Prime* is **post-stamp**, still **pre-commons-compare** (PDF existed; gamer culture did not use it). No prior published CT or MP join to this RDP located 2026-10-03. **Author** on “nobody noticed”; **Documented** dates.
 
 ---
 
@@ -146,7 +157,7 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 
 ---
 
-Keywords: #MetroidPrime #ChozoLore #TallonIV #GreatPoison #Phazon #Phaaze #SkyTown #RemoteViewing #MarsRV #CIAReadingRoom #PredictiveProgramming #ScienceFictionRedaction #ChozoGhosts #ArtifactTemple #ChronoTrigger #MFEE #MarsCatastrophe #ShadowRemainder #AU067 #ParadigmThreatFiles
+Keywords: #MetroidPrime #ChozoLore #TallonIV #GreatPoison #Phazon #Phaaze #SkyTown #RemoteViewing #MarsRV #CIAReadingRoom #PredictiveProgramming #ScienceFictionRedaction #ChozoGhosts #ArtifactTemple #ChronoTrigger #MFEE #MarsCatastrophe #ShadowRemainder #AU067 #FictionBeforeDeclass #Predisclosure #ParadigmThreatFiles
 
 ---
 
