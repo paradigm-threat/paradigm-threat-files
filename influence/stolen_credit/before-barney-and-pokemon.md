@@ -1,12 +1,10 @@
 # Before Barney, Teletubbies, and Pokémon
 
-Nintendo split in half in our lifetime. The half that knew how to make a game is gone.
+Remakes exist so nobody has to ask who still owns the leftover vision
 
 ![Living-room NES years on one side of a torn Nintendo mark; Barney, Teletubbies, and Pokémon on the other](https://paradigmthreat.net/influence/stolen_credit/before-barney-and-pokemon.png)
 
-
-Remakes exist so nobody has to ask who still owns the leftover vision
-
+Nintendo split in half in our lifetime. The half that knew how to make a game is gone.
 
 If you were born in the 1990s, or late enough in the 1980s that purple dinosaurs and pocket monsters were already the water you swam in, you did not miss a few old cartridges. You missed the real Nintendo. You missed a few years when a living room machine could feel like the best object a factory knew how to make, and then you spent the rest of your life being sold the wreck of that company under the same name. People my age still call your cohort the **Barney generation**, the **Teletubbies generation**, and the **Pokémon generation**, because those were the first major things that reached you. That is not a comment on your taste. It is a way of naming when you arrived, and the trouble is that arrival date: you never saw the Nintendo years as the previous generation did.
 
