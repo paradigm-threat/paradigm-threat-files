@@ -69,7 +69,7 @@ What that reply actually gave me to log: outbound dates toward Briggs (2015-03-0
 
 **His close.** “Please simply refer to my Youtube channel…..They are of no interest to me….. sorry my friend….but good luck.” Same GSA news link again. Thread over for evidence.
 
-Read that voice for yourself. Short lines, ellipses, “NASA fools,” “please answer that,” then a YouTube brush-off when asked for files someone else can open. It does not read like a working investigator handing the next person a trail. It reads like a low-effort bit part that stays warm until the ask gets concrete, then exits — the same non-serious dead-end I have fought with **DEW-church hecklers** in the 9/11 community: *go watch this / go read my channel* instead of documents ([Alef — DEW church](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.md)).
+Read that voice for yourself. Short lines, ellipses, “NASA fools,” “please answer that,” then a YouTube brush-off when asked for files someone else can open. It does not read like a working investigator handing the next person a trail. It reads like a low-effort bit part that stays warm until the ask gets concrete, then exits — the same non-serious dead-end I have fought with **DEW-church hecklers** in the 9/11 community: *go watch this / go read my channel* instead of documents ([Alef — DEW church](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet)).
 
 That is why Spurr is **controlled opposition** here on behavior as well as content: fame for the claim; every door that would produce a checkable file closed; poison-pill landscape anatomy pushed when the soft-tissue docs are what matter; exit with YouTube. Soft-tissue and Helix DNA can stay open **without** him. Readers can decide whether that sounds like research.
 
@@ -133,7 +133,7 @@ Poison-pill inventories, Spurr email chronology, and StolenHistory ban exhibit:
 - [Mudflood overview](https://paradigmthreat.net/history/mudflood/page.md) — deepfake warning and Autodidactic carve-out
 - [MFEE investigation](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation.md) — map and energetic frame still under construction
 - [Controlled opposition hub](https://paradigmthreat.net/influence/controlled_opposition/page.md) — politics, fan commons, disclosure waiting rooms, and more
-- [Alef and the clogged internet](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.md) — how engagement meshes block ideas from finding each other
+- [Alef and the clogged internet](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet) — how engagement meshes block ideas from finding each other
 - [Chronology — Protestant Reformation as CO](https://paradigmthreat.net/history/chronology/page.md#1517-ce-protestant-reformation-begins) — empire fracture, printing press, managed protest
 - [Soul Science investigations](https://paradigmthreat.net/blog/2026-03-14-soul-science-israel-divide-conquer-investigations.md) — Reformation decline and mind-as-replacement threads
 

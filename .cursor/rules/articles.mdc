@@ -12,7 +12,7 @@ Apply when editing **reader-facing articles** (essays under topic folders, `blog
 
 ## Compact
 
-- Links and images: **`https://paradigmthreat.net/...`** (absolute).
+- Links: Substack URL when the target essay has a `**Substack:**` post; otherwise **`https://paradigmthreat.net/...`**. Images always on **`https://paradigmthreat.net/...`**.
 - Voice: **chronicle / documentary** — who did what, in order; **`I`** only for personal witness; no poetry, no manifesto cadence, no “this essay argues.” The reader decides; the page supplies the facts.
 - Prefer Ari’s spoken wording from chat; do not upgrade it into verse. Same bar for comment replies: [plain-spoken prose](plain-spoken-prose.mdc).
 - Proof density and **Limits** live in **`investigations/`** dossiers — articles summarize and link.

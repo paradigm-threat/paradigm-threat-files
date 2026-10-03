@@ -2,7 +2,7 @@
 
 Ronson’s joke title hid a real Jedi program — *Star Wars* already showed it
 
-![The Jedi Who Stare at Goats — program stack, not-being-seen, 1994–95 timeline](https://paradigmthreat.net/influence/hollywood/the-jedi-who-stare-at-goats.png)
+![The Jedi Who Stare at Goats — program stack, not-being-seen, 1994–95 timeline](https://paradigmthreat.net/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.png)
 
 You have to be really bored to pick up a book or watch a movie called *Men Who Stare at Goats*. The title itself is a filter. The whole project seems designed so the majority looks away at first glance.
 
@@ -44,7 +44,7 @@ The reason for Abu Ghraib was not Barney the Purple Dinosaur and it was not Jim 
 
 Humiliation was a strategy. Very likely NSA-aligned. Illegal in spirit, and sitting in a zone where ordinary law did not really cover the method. It was the same family of practice the CIA had refined for a long time: sexual humiliation proved most effective for breaking certain prisoners. Versions of that doctrine repeated at scale in Egypt and other places where the Muslim Brotherhood was put down. Agree with it or not — that is the history, and that is the reason.
 
-Ronson’s book aims most of the anger at Abu Ghraib — a scandal everyone already knew in 2004. The rare stuff he actually had (Stubblebine, Project Jedi, goat lab, the coded abilities) gets used as warm-up for that ending. He did not need to break Abu Ghraib. That is the problem: he flipped the story. Chapter map and the counter-read are in the [goats / Jedi investigation](https://paradigmthreat.net/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md).
+Ronson’s book aims most of the anger at Abu Ghraib — a scandal everyone already knew in 2004. The rare stuff he actually had (Stubblebine, Project Jedi, goat lab, the coded abilities) gets used as warm-up for that ending. He did not need to break Abu Ghraib. That is the problem: he flipped the story. Chapter map and the counter-read are in the [goats / Jedi investigation](https://paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats).
 
 The ideological arc did not end in a Baghdad prison. It runs toward the moment in 2026 when America smashed Iran’s military and killed the ayatollah leader. Abu Ghraib was one theater in a longer holy-war posture. It was never the afterbirth of men staring at goats.
 
@@ -112,10 +112,10 @@ The agents trained in that program were victims of massive abuse — often for m
 
 ## Where next
 
-- [Men Who Stare at Goats — RV satire / Jedi / *Star Wars* investigation](https://paradigmthreat.net/influence/hollywood/investigations/men-who-stare-at-goats-rv-satire-predictive-programming-investigation.md) — full thesis registry, Ronson chapter map, Abu Ghraib counter-read, open questions
-- [CIA 1984 Mars remote viewing](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — session lies and viewer/target epistemology
+- [Men Who Stare at Goats — RV satire / Jedi / *Star Wars* investigation](https://paradigmthreat2.substack.com/p/the-jedi-who-stare-at-goats) — full thesis registry, Ronson chapter map, Abu Ghraib counter-read, open questions
+- [CIA 1984 Mars remote viewing](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on) — session lies and viewer/target epistemology
 - [RV two-way / Iran / MKULTRA](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) — program names and mind-control adjacency
-- [The Circle of Life and How It Began](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.md) — Bardo / afterlife / soul-focus framing
+- [The Circle of Life and How It Began](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began) — Bardo / afterlife / soul-focus framing
 - [Hollywood two-camp war dossier](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) — satire and militainment taxonomy; ***Stargate* (1994)** Thread P
 - [CIA Reading Room — MKULTRA document](https://www.cia.gov/readingroom/document/06760269) — primary program paper trail (not Olson murder verdict)
 

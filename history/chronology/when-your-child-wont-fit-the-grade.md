@@ -251,7 +251,7 @@ The goal is not cruelty toward educators. The goal is **stop forcing** children 
 
 ## Where next
 
-- [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) §V — brief education bridge (AI gate → Installment II)  
+- [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been) §V — brief education bridge (AI gate → Installment II)  
 - [Responsibility to the Next Generation](https://paradigmthreat.net/history/chronology/responsibility-to-the-next-generation.md) — education Installment II (full ethics/QA argument)  
 - [Responsibility investigation](https://paradigmthreat.net/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md)  
 - [Childhood autism spectrum — full investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) — **§8.6 private speech / hyperlexia / no acknowledgment**, §2b.1 Watergate vs Tonkin, COVID §17, debunk §18

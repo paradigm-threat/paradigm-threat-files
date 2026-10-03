@@ -55,7 +55,7 @@ Ask a stranger what **progress** fundamental physics made in their lifetime and 
 
 The only supermajority (**68.4%**) concerns what the phrase **Big Bang** means: evolution from a hot, dense state, **not necessarily** the beginning of time. A fifth (**20%**) read it as creation — singularity, start of time. The instrument never offered what dissidents actually say: **the event did not happen**; steady-state; non-expanding cosmos; plasma-lane replacements. Free-text “other” answers, per the authors, were mostly **terminology disputes**, not a rejectionist camp.
 
-That menu shape matters. Respondents argue whether the Bang is also **Creation** while still inside the Bang ontology. Nobody gets a clean ballot for **never happened**. The secular majority gets to sound sophisticated — “we don’t insist time began” — while retaining the same creation myth with the timing argument moved one room over. It rhymes with the [History Q&A](https://paradigmthreat.net/history/chronology/history-qa/page.md) lane on the Bang as [disguised creationism](https://paradigmthreat.net/history/chronology/history-qa/page.md) and with the scaling critique in [The Incorrectly Scaled Universe](https://paradigmthreat.net/cosmos/cosmology/the-incorrectly-scaled-universe.md): once the hot-dense story owns the sky, downstream distance ladders inherit its geometry.
+That menu shape matters. Respondents argue whether the Bang is also **Creation** while still inside the Bang ontology. Nobody gets a clean ballot for **never happened**. The secular majority gets to sound sophisticated — “we don’t insist time began” — while retaining the same creation myth with the timing argument moved one room over. It rhymes with the [History Q&A](https://paradigmthreat.net/history/chronology/history-qa/page.md) lane on the Bang as [disguised creationism](https://paradigmthreat.net/history/chronology/history-qa/page.md) and with the scaling critique in [The Incorrectly Scaled Universe](https://paradigmthreat2.substack.com/p/the-incorrectly-scaled-universe): once the hot-dense story owns the sky, downstream distance ladders inherit its geometry.
 
 **Author sentiment (timeline):** The Big Bang is **dogma** — a thinly veiled **creation myth** that **scaled up** after telescopes first resolved bodies **outside the solar system**. The theological fight over a cosmic **beginning** was largely **lost by secular steady-state camps**; what remained was a new priesthood speaking as **“scientific consensus.”** Full dated narrative: [1927 CE — Big Bang as secular creation myth and the scientist priesthood](https://timeline.paradigmthreat.net/timeline/evt-1927-ce-big-bang-scientific-consensus-religion). Lay **Genesis light ↔ CMB** debates are catalogued in [Biblical sky texts — Saturnian citation tiers](https://paradigmthreat.net/history/chronology/investigations/biblical-sky-texts-saturnian-citation-investigation.md).
 
@@ -77,7 +77,7 @@ Question ten is the public ritual in miniature: reconcile quantum mechanics with
 
 The deferral contract is old: each generation is told the **next** hardware, the **next** formalism, the **next** collider energy will finally close the gap. Lifetime public payoffs stay thin while confidence rhetoric stays thick. Funding physics and funding quantum computing share the same emotional grammar — trust the leap, do not audit the stack.
 
-[Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md) names that pattern in consumer technology. The [quantum storage investigation](https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) separates institutional **qubit futurism** from an **addressing / storage** read the public was never steered to test. Fundamental physics and the quantum industry both sell **future invention** as substitute for **present demonstration**.
+[Quantum Leap (of faith)](https://paradigmthreat2.substack.com/p/quantum-leap-of-faith) names that pattern in consumer technology. The [quantum storage investigation](https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) separates institutional **qubit futurism** from an **addressing / storage** read the public was never steered to test. Fundamental physics and the quantum industry both sell **future invention** as substitute for **present demonstration**.
 
 ## Maxwell retired, Einstein canonized
 
@@ -120,8 +120,8 @@ Careers spent entirely inside the bubble never teach the **older, more grounded*
 ## Where next
 
 - Start with the [investigation tables and open-claim registry](https://paradigmthreat.net/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) (§1, §10–§13).
-- Cosmology scaling fork: [The Incorrectly Scaled Universe](https://paradigmthreat.net/cosmos/cosmology/the-incorrectly-scaled-universe.md).
-- Deferral / tech faith: [Quantum Leap (of faith)](https://paradigmthreat.net/science/computing/quantum-leap-of-faith.md).
+- Cosmology scaling fork: [The Incorrectly Scaled Universe](https://paradigmthreat2.substack.com/p/the-incorrectly-scaled-universe).
+- Deferral / tech faith: [Quantum Leap (of faith)](https://paradigmthreat2.substack.com/p/quantum-leap-of-faith).
 - Primary: [arXiv:2605.11058](https://arxiv.org/html/2605.11058) · Press: [Phys.org](https://phys.org/news/2026-05-largest-survey-physicists-standard-cosmology.html) · [APS Physics Magazine](https://physics.aps.org/articles/v19/34).
 
 ## Framing and limits

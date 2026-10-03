@@ -48,7 +48,7 @@ The public argument is always the Hollywood bomb. The dossier’s author lane ar
 
 [Author opinion: fatwa, depleted uranium, and the real Iranian nuclear threat](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#authors-opinion-fatwa-depleted-uranium-and-the-real-iranian-nuclear-threat)
 
-For the **documented worldwide media gap** on DU — Bosnia **IWPR**, Iraq battlefield under-reporting, sci-fi bomb framing, and how that blindness **led to the 2026 Iran file** — see Installment III [*The Peace Deal Nobody Cares About*](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) (§ **The DU blind spot**).
+For the **documented worldwide media gap** on DU — Bosnia **IWPR**, Iraq battlefield under-reporting, sci-fi bomb framing, and how that blindness **led to the 2026 Iran file** — see Installment III [*The Peace Deal Nobody Cares About*](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about) (§ **The DU blind spot**).
 
 Official Washington has been blunt in plain English. Reporting around spring **2026** carried the administration’s line that **the world cannot live with a nuclear-armed Iran**—as **maximal stakes** justifying disruption short of waiting for a perfect mushroom-cloud photograph. The April **State Department** legal memo on **Operation Epic Fury** sits in the same moral universe: it argues self-defense cannot require a defender to wait until a hostile state has a **warhead-tipped missile on the pad**—a standard that makes **latency** look like **imminence** when the briefing room wants it to.
 
@@ -136,7 +136,7 @@ This article does not adjudicate every clip. It names the pressure: **when attri
 
 ## Where the war is today
 
-The operational spine is written as a living runner: **28 February 2026** as the public start of **Operation Epic Fury**, **June 2025** as the legal and material prequel, **June 17** as the [Islamabad MOU](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) hinge, and **August 8–9, 2026** as the next dual-meter week — Hormuz still the lever, with hardliners pricing reopen as **U.S. withdrawal forever**.
+The operational spine is written as a living runner: **28 February 2026** as the public start of **Operation Epic Fury**, **June 2025** as the legal and material prequel, **June 17** as the [Islamabad MOU](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about) hinge, and **August 8–9, 2026** as the next dual-meter week — Hormuz still the lever, with hardliners pricing reopen as **U.S. withdrawal forever**.
 
 [Iran war runner — timeline, dual track, and current state](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md)
 
@@ -154,7 +154,7 @@ In the book this is the **most desperate** moment: nobody in either army knows w
 
 ![Lord of the Rings parallel — Mouth of Sauron at Hormuz — Aug 2026 — peace priced as withdrawal](https://paradigmthreat.net/governance/war/lotr-mouth-of-sauron-at-hormuz-august-2026.png)
 
-Full prose: [Installment III — Black Gate](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz); [war runner — Aug 8](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md).
+Full prose: [Installment III — Black Gate](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about#black-gate-august-2026--mouth-of-sauron-at-hormuz); [war runner — Aug 8](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md).
 
 The **Minab** school strike sits in the runner as a **contested attribution** node: high reported casualties, **U.S. and Israeli denials**, and the usual fog of **who benefits from which camera angle**. This article does not settle the docket; it marks the seam where **lawfare** meets **open-source certainty culture**.
 
@@ -200,7 +200,7 @@ The West is not one nervous system; that is why one week looked like two differe
 
 ## Where next
 
-- [The Peace Deal Nobody Cares About — Islamabad MOU, antibody close, Jun 2026](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md) — **Installment III:** media silence, lifetime hinge, Islam awakening thesis, chessboard; **[Black Gate / Aug 8 Hormuz ransom](https://paradigmthreat.net/governance/war/islamabad-peace-deal-the-war-nobody-cares-about-2026.md#black-gate-august-2026--mouth-of-sauron-at-hormuz)**  
+- [The Peace Deal Nobody Cares About — Islamabad MOU, antibody close, Jun 2026](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about) — **Installment III:** media silence, lifetime hinge, Islam awakening thesis, chessboard; **[Black Gate / Aug 8 Hormuz ransom](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about#black-gate-august-2026--mouth-of-sauron-at-hormuz)**  
 - [Iran 2026 war Q&A — mainstream / anti-Trump framing debunks](https://paradigmthreat.net/governance/war/qa/page.md) — social-thread objections (anonymized): two scoreboards, MOU vs military unwind, long CIA file; **[Q6 — “peace if America leaves”](https://paradigmthreat.net/governance/war/qa/q06-black-gate-withdrawal-peace.md)**  
 - [Iran war runner](https://paradigmthreat.net/governance/war/investigations/iran-2026-war-runner.md) — dated operational spine and dual-track read
 - [CIA investigation — Iran endgame script](https://paradigmthreat.net/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) — evidence tiers and long thesis

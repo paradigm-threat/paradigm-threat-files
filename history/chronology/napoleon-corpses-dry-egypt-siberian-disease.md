@@ -16,7 +16,7 @@ The image everyone remembers is Antoine-Jean Gros’s Salon canvas from **1804**
 
 **Camp B** treats disease as **invisible executors** you must believe in without seeing: miasma’s successor **germs**, then **viruses**, then **genomes**—always with a licensed product line. Handwashing becomes universal religion; **X-rays** become “only for finding bullets”; **COVID** becomes proof that no healthy person can simply **not catch** what is going around.
 
-The camps do not map cleanly to “left vs right” or “science vs superstition.” They map to **who controls the story** after a demonstration in front of soldiers. Deeper corpus: [ætheric disease essay](https://paradigmthreat.net/science/health/viruses-were-never-found-only-aetheric-disease.md), [isolation audit](https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md).
+The camps do not map cleanly to “left vs right” or “science vs superstition.” They map to **who controls the story** after a demonstration in front of soldiers. Deeper corpus: [ætheric disease essay](https://paradigmthreat2.substack.com/p/viruses-were-never-found-in-the-lab), [isolation audit](https://paradigmthreat.net/science/health/investigations/virus-isolation-never-proven-thesis-skeptical-audit-investigation.md).
 
 ---
 

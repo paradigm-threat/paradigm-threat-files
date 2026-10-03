@@ -122,7 +122,7 @@ The homework campus, park-access protocol, and coalition steps in this article a
 
 ## Where next
 
-- [**One-page handout (PDF)**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf) — news-layout flyer: neighborhood **vote** to include **Twickenham** in any park rebuild, homework campus second, contact **ari@asu.edu** (regenerate: `npm run generate-mgga-onepager`)
+- [**One-page handout (PDF)**](https://paradigmthreat2.substack.com/p/make-gordonston-great-again-onepager.pdf) — news-layout flyer: neighborhood **vote** to include **Twickenham** in any park rebuild, homework campus second, contact **ari@asu.edu** (regenerate: `npm run generate-mgga-onepager`)
 - [**Gordonston park + church investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/gordonston-park-church-campus-investigation.md) — **§2** geography (Shuman), history **§3–§7**, **2011** feud **§4**, volunteer vision **§8–§9** (incl. **§8.8** religious-host compatibility), backup **§10**
 - [**SCCPSS — Shuman Elementary closure hearing, 2025-06-04**](https://go.boarddocs.com/ga/sccs/Board.nsf/goto?id=DH5GUL458481&open=)
 - [**SCCPSS — CCRPI 2025 (mixed; below state in elementary/middle)**](https://www.sccpss.com/news/news-landing-page/~board/district-news/post/ccrpi-results-show-some-gains-and-declines-for-sccpss-schools)
@@ -132,8 +132,8 @@ The homework campus, park-access protocol, and coalition steps in this article a
 - [**Gordonston Art Fair**](https://gordonstonartfair.com/) — public events in the park; neighborhood history page
 - [**Controlled opposition hub**](https://paradigmthreat.net/influence/controlled_opposition/page.md) — silver-platter / moderation geometry across scenes
 - [**OC ReMix §6.2.1**](https://paradigmthreat.net/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md) — Gordonston on Facebook (**May 2026**): three-step moderation, **Jack Taylor** admin statement (screenshot in dossier)
-- [**Success — by any means necessary**](https://paradigmthreat.net/influence/controlled_opposition/success-by-any-means-necessary.md) — industry-wide black-box ethics; Gordonston Facebook sequence (May 2026)
-- [*You do not have to stop loving Cave Story*](https://paradigmthreat.net/influence/controlled_opposition/you-do-not-have-to-stop-loving-cave-story.md) — **The silver platter and sibling rhymes** (commons labor → industry plate)
+- [**Success — by any means necessary**](https://paradigmthreat2.substack.com/p/success-by-any-means-necessary) — industry-wide black-box ethics; Gordonston Facebook sequence (May 2026)
+- [*You do not have to stop loving Cave Story*](https://paradigmthreat2.substack.com/p/you-do-not-have-to-stop-loving-cave) — **The silver platter and sibling rhymes** (commons labor → industry plate)
 
 ---
 

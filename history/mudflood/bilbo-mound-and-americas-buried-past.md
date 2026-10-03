@@ -120,7 +120,7 @@ Until the destruction, annihilation, and erasure of those real natives is **name
 
 ## Where next
 
-- [Georgia was the Second Promised Land](https://paradigmthreat.net/history/chronology/georgia-was-the-second-promised-land.md) — Savannah/state reader essay: 1492 both-sides flight, George=Mars, land-intact deal.
+- [Georgia was the Second Promised Land](https://paradigmthreat2.substack.com/p/georgia-was-the-second-promised-land) — Savannah/state reader essay: 1492 both-sides flight, George=Mars, land-intact deal.
 - [Georgia naming — Caucasus mirror, Hanover kings, Mars lanes](https://paradigmthreat.net/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md) — why this state shares a name with the Caucasus; George II vs Mars/Saturnian forks; **1492 both-sides flight** as Georgia’s founding spirit.
 - [American burial mounds investigation](https://paradigmthreat.net/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) — single hinge (§2), Bilbo facts (§3), Smithsonian program (§6), convergence lanes.
 - [MFEE investigation — map evidence and terrain change](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation.md).

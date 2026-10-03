@@ -50,7 +50,7 @@ Hand-stamped dates and **`Last updated`** lines use **US Eastern** (`America/New
 
 ## Articles (summary)
 
-When editing **reader-facing articles** (not investigations): use **`https://paradigmthreat.net/...`** for in-repo links and images; **`I`** only for personal witness; **chronicle / documentary** prose (no poetry, no manifesto cadence); the reader decides — put the facts they need in order. Dossiers hold proof density. Full rules: [`docs/instructions/ARTICLES.md`](docs/instructions/ARTICLES.md). Cursor: **`.cursor/rules/articles.mdc`** and **`.cursor/rules/plain-spoken-prose.mdc`**.
+When editing **reader-facing articles** (not investigations): **`I`** only for personal witness; **chronicle / documentary** prose (no poetry, no manifesto cadence); the reader decides — put the facts they need in order. Link **Substack** when the target essay already has a `**Substack:**` post; otherwise **`https://paradigmthreat.net/...`**. Images stay on paradigmthreat.net. Dossiers hold proof density. Full rules: [`docs/instructions/ARTICLES.md`](docs/instructions/ARTICLES.md). Cursor: **`.cursor/rules/articles.mdc`** and **`.cursor/rules/plain-spoken-prose.mdc`**.
 
 ---
 

@@ -4,7 +4,7 @@ How industrial engagement meshes block ideas from reaching each other
 
 ![Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png)
 
-**Live recording (audio, ~52 min):** [June 28, 2026 call](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.m4a)
+**Live recording (audio, ~52 min):** [June 28, 2026 call](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet.m4a)
 
 > **TL;DR:** The internet was built to move ideas — forums, personal sites, peer discovery, merit bubbling to the surface. That failure is not protocol. It is **clogging**: scripted engagement saturates the flows, walled gardens and personal sites sit on different index tiers, and blacklisted topics never surface in the wider web. COVID showed what happens when a body politic has no immune response — warnings could not propagate while industrial meshes converted the free internet into a **controlled internet**. The Alef scam network is the reference diagram at industrial scale: respectable front, text containment, scheduled credibility slot, extraction. The same grammar clogs 9/11 Truth — coalition time and debate prevention, not wallet fraud alone. A live call with a debunk-host lane was cross-examination of a node — contradictions, evangelical dodges, and **plausible deniability** as the hardest barrier. That dodge architecture is the root of the astroturfing problem truth communities face.
 
@@ -12,7 +12,7 @@ How industrial engagement meshes block ideas from reaching each other
 
 Tim Berners-Lee’s **Mesh** proposal was a workshop: distributed hypertext, no central authority required to link systems, individuals empowered to publish and connect ([1989 proposal](https://www.w3.org/History/1989/proposal.html)). The design implied something stronger than pages — ideas finding ideas, good arguments rising because they travel, forums and personal sites feeding a shared public ledger of what serious people actually think.
 
-That is not what we got. I developed this read in [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) — machine-readable capability, inspectable contracts, merit visible to crawlers. This essay goes further. Blocking invention and open hoods is one layer. **Blocking communication itself** — the ability to send warnings, surface alternate cures, bubble good ideas so everyone can see them — is the deeper failure. The internet still transports packets. It no longer transports consensus toward truth under pressure.
+That is not what we got. I developed this read in [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been) — machine-readable capability, inspectable contracts, merit visible to crawlers. This essay goes further. Blocking invention and open hoods is one layer. **Blocking communication itself** — the ability to send warnings, surface alternate cures, bubble good ideas so everyone can see them — is the deeper failure. The internet still transports packets. It no longer transports consensus toward truth under pressure.
 
 ![The Internet That Should Have Been — machine-readable web, enclosure, merit visible to crawlers](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.png)
 
@@ -24,7 +24,7 @@ What blocks exchange is upstream of the wire. **Flow clogging** drowns signal �
 
 **Opaque algorithms** means the ad, index, and display networks above Substack, Facebook, YouTube, and Google — not the comment box. Platforms implement what those layers demand; they are not sovereign curators of merit. Individual publishers compete inside pre-sorted lanes: your forum thread, my personal site, their walled garden — each ranked differently, some topics never indexed at all.
 
-I draw audiences through podcast bypass because independent articles on this site are barely seen without human routing — the same read as [The Internet That Should Have Been §III](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md): blacklisting and shadow demotion for voices outside the garden.
+I draw audiences through podcast bypass because independent articles on this site are barely seen without human routing — the same read as [The Internet That Should Have Been §III](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been): blacklisting and shadow demotion for voices outside the garden.
 
 ## A body without an immune system
 
@@ -109,7 +109,7 @@ It is hard to blame someone in a failed-state economy who found a side hustle se
 
 ### Conclusion
 
-That game has a shelf life. I expect these meshes run out of tricks soon — not because operators grow conscience, but because the internet is changing toward something more semantic, machine-readable, harder to blacklist at the app layer. When the stack stops being a jailed version of what Berners-Lee’s Mesh was supposed to be — ideas finding ideas, merit visible to crawlers, personal sites on equal footing ([The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md)) — debunk-host lanes, Alef-class floors, and fracture operators disappear into the shadows of the internet for good. Their networks break. They survived this long only because the free internet was converted into a controlled internet; **the behavior breaks when the original plans are realized**.
+That game has a shelf life. I expect these meshes run out of tricks soon — not because operators grow conscience, but because the internet is changing toward something more semantic, machine-readable, harder to blacklist at the app layer. When the stack stops being a jailed version of what Berners-Lee’s Mesh was supposed to be — ideas finding ideas, merit visible to crawlers, personal sites on equal footing ([The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been)) — debunk-host lanes, Alef-class floors, and fracture operators disappear into the shadows of the internet for good. Their networks break. They survived this long only because the free internet was converted into a controlled internet; **the behavior breaks when the original plans are realized**.
 
 The internet still connects machines. It fails to connect minds under pressure because industrial meshes clog the flows, opaque layers sort gardens above merit, and blacklisted topics never surface for the body politic to reject or accept on evidence.
 
@@ -123,13 +123,13 @@ Hub: [Controlled Opposition](https://paradigmthreat.net/influence/controlled_opp
 
 Companion dossiers and sibling reads for the Alef mesh, the Jun 2026 call, and the internet-enclosure thesis:
 
-- [The Internet That Should Have Been](https://paradigmthreat.net/science/computing/the-internet-that-should-have-been.md) — machine-readable web, enclosure, blacklisting read.
+- [The Internet That Should Have Been](https://paradigmthreat2.substack.com/p/the-internet-that-should-have-been) — machine-readable web, enclosure, blacklisting read.
 - [Corporate AI hell vs competitive AI heaven](https://paradigmthreat.net/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) — QuitGPT as Alef-class sponsorship; OpenAI×Cursor moral theater.
 - [MeToo corporate sponsorship choreography](https://paradigmthreat.net/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) — sponsorship-class definition (**AU-053**).
 - [ic911a — 911revision controlled opposition (open dossier)](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md) — Alef rhyme tables, DEW church mesh, live debate read.
 - [ic911a §5.7 — Alef exact pattern + cross-border impunity](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#57-harassment-industry-adjacency--alef--scam-center-grammar-2026)
 - [ic911a §9.6 — live debate read, insult-amnesia gap](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#96-live-debate-read-jun-2026)
-- [Richard Gage / AE911Truth investigation](https://paradigmthreat.net/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md) — what fog costs.
+- [Richard Gage / AE911Truth investigation](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth) — what fog costs.
 - [*Mask Of Deception: The Alef Scam*](https://en.rtdoc.tv/films/2899-mask-of-deception-the-alef-scam) (RT, Jun 2026) — cross-check Stop UA Scam + GI-TOC.
 
 ## Framing and limits

@@ -13,7 +13,7 @@
 3. **Vassal / postwar / independence test** (§3)  
 4. **Hardware: whose hands in the pot?** (§4) — NES vs SNES SPC vs CD  
 5. **Backwards compatibility fork** (§5) — what they could have done; what they did  
-6. **N64 as 2D downgrade** (§6) — Killer Instinct; craft tradition purge; **§6b** DKC impossible / franchise column; **§6c** Cube→Wii→Zero→Switch  
+6. **N64 as 2D downgrade** (§6) — Killer Instinct; craft tradition purge; **§6b** DKC impossible / franchise column; **§6c** Cube→Wii→Zero→Switch; **§6d** Penny Arcade / *Other M* / *Dread*  
 7. **Self-sabotage / franchise / credit pattern** (§7) — Country, Metroid, Prime 4, HD wipe  
 8. **Corroboration vs weaknesses** (§8)  
 9. **Open claims / Questions / Related / Limits**
@@ -36,6 +36,12 @@
 | N64 | Imposition / craft purge more than upgrade |
 | Credit | Beethoven/Mozart nouns over R&D staffers |
 | Continuity | Same pattern as [vacuum inverse](/docs/VACUUM_INVERSE.md) + Hamano erasure |
+
+**Addendum, 2026-10-03.** Penny Arcade / *Other M* / *Dread*. Do not paste the letter. The letter is [Before Barney, Teletubbies, and Pokémon](../before-barney-and-pokemon.md).
+
+> Early Penny Arcade built a gamer-viewpoint brand with no industry leash. I never followed them. At some point they posted that they had been enduring a streak of bad news, then Nintendo announced another Metroid with the Ninja Gaiden 3D team — a major bout of good news. That moment is controlled opposition: make it normal for gamers to endure bad news for long periods because we are simply the consumers. *Other M* was a spectacular failure. Nintendo could not make another 2D Metroid for a main console until *Dread*, which tried a traditional side-view and then sabotaged it with a new interactive timing mode, a bloodthirsty Samus, and a ruined Chozo backstory. Penny Arcade cowed the fan base into readiness to accept the industry’s monopolization, year after year of bad news, as long as they could laugh about it.
+
+**Unpack of the addendum:** The 3 June 2009 strip and news post are **Documented**. Team Ninja on *Other M* is **Documented**. The 1994→2021 2D home-console gap is **Documented** (handhelds in between). Nintendo’s own Dread Report calls the E.M.M.I. counter window nearly impossible — **Documented**. Controlled opposition as a **function** of the “one of us” voice is **Author**. Do not write a Nintendo payroll. *Other M* scores were mixed; the faith-break is story/Samus. *Dread* was widely liked as 2D Metroid; the sabotage read is the counter plus the lore rewrite.
 
 ---
 
@@ -179,6 +185,18 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 
 **Leadership vs staff (author):** Majority craft staff are good people; **leadership hijacked/corrupted** — there to **take blame** for fallout (same class as Yamamoto manager seat / Hamano *Prime 4* blame sink). Not a claim every engineer is a handler.
 
+### 6d. Penny Arcade, *Other M*, *Dread*
+
+| Layer | Score |
+|-------|--------|
+| **Documented — strip** | Penny Arcade, [3 June 2009, “All Is Forgiven”](https://www.penny-arcade.com/comic/2009/06/03/all-is-forgiven). Tycho: Wii Vitality Sensor → exploded with rage; new Metroid with Team Ninja → “radiant pillar of divine bliss.” |
+| **Documented — announcement / product** | E3 2009 *Metroid: Other M*; Sakamoto with Team Ninja / Yosuke Hayashi after playing 3D *Ninja Gaiden* ([Iwata Asks](https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-Metroid-Other-M/Vol-1-The-Collaboration/1-A-NES-Game-with-the-Latest-Technology-/1-A-NES-Game-with-the-Latest-Technology--224960.html)). Shipped 2010: third-person 3D, Wii Remote only, first-person aim, Adam authorization plot. |
+| **Documented — faith gap** | Combat scores mixed. Story/Samus rewrite is the public fight. Game Informer (27 Aug 2010): sour mix; Samus as “whiny, talkative child”; among Nintendo’s more disappointing releases of that stretch. |
+| **Documented — 2D home gap** | Next 2D Metroid on a living-room console after *Super Metroid* (1994) is *Metroid Dread* (2021). Fusion, Zero Mission, *Samus Returns* are handheld. |
+| **Documented — Dread counter** | [Dread Report Vol. 2](https://www.nintendo.com/en-za/News/2021/June/Metroid-Dread-Report-Vol-2-Researching-the-E-M-M-I-1997672.html): E.M.M.I. melee-counter window “so narrow you may consider it nearly impossible.” Mawkin / Raven Beak / Thoha slaughter and Samus’s Metroid DNA are in the game. |
+| **Author** | PA as controlled opposition: a trusted gamer voice that makes years of industry bad news laughable and the only posture consumer endurance. *Other M* as the hype that broke faith. *Dread* as delayed traditional 2D wearing a new timing gimmick and a Chozo/Samus rewrite — same class as *Returns* shake-roll. |
+| **Rejected** | Nintendo payroll to Holkins/Krahulik. *Other M* as a 0/10 Metacritic bomb. *Dread* as unplayable. |
+
 ---
 
 ## 7. Self-sabotage / franchise / credit — continuing pattern
@@ -193,6 +211,7 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 | *Star Fox Zero* motion/dual-screen; no Switch | Documented; Platinum wants port |
 | *Returns* shake-roll / HD credit wipe; Yamamoto Project Manager, Hamano omitted | Hamano claims 30–32 |
 | Metroid / Prime mishandling; *Prime 4* disaster; Hamano credited | Author: **blame sink** |
+| *Other M* after PA 2009 hype; *Dread* E.M.M.I. window + Chozo rewrite | Documented strip/product/gap/counter (§6d); **Author** on CO function |
 | Sound Team / Music app / remaster “original development staff” | Documented generalization |
 | Beethoven-ize credit to few men | Wise / Yamamoto nouns; R&D staff denied ex post facto naming |
 | IP harden, pirate war, kill retro availability | Documented; **author:** not simple profit |
@@ -238,7 +257,8 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 6. *Prime 4* Hamano credit may be **blame assignment**, not authorship (author ear — open).  
 7. N64 column = **end classic 2D franchise OS**; *DKC* impossible on that HW; *DK64* = substitute; *OoT*/*Majora* = same **ugly/substandard continuation** class as *DK64* — IP label survives, damage evident; **2D regulated to handheld**, home 2.5D/top-down return **much later** (§6b).  
 8. *Returns* motion lock / *Star Fox Zero* / Switch non-ports = repeating **platform-unique sabotage** of franchise returns (§6c).  
-9. Leadership = blame sink; craft staff mostly not the problem (author).
+9. Leadership = blame sink; craft staff mostly not the problem (author).  
+10. Penny Arcade’s 2009 Metroid reset is **controlled opposition as function** (endure / laugh / consume); *Other M* broke the faith that strip sold; *Dread* repeats platform-unique timing sabotage on a delayed 2D return (§6d).
 
 ---
 
@@ -270,8 +290,9 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 | [final-fantasy-vii-nintendo-story-sabotage-investigation.md](final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Square/CD capacity politics |
 | [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057o:** organic Kyoto shop vs flatten when IP was ripped; same Honda→Scrum grammar |
 | [IP enclosure / public domain (AU-066)](ip-public-domain-enclosure-nintendo-disney-investigation.md) | Copyright term, remakes, DMCA; sibling to the hardware clamp |
+| [Before Barney, Teletubbies, and Pokémon](../before-barney-and-pokemon.md) | Generational letter; Penny Arcade / *Other M* / *Dread* specimen |
 
-Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #VacuumInverse #StolenCredit
+Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #VacuumInverse #StolenCredit #PennyArcade #MetroidOtherM #MetroidDread
 
 *Last updated: 2026-10-03*
 
@@ -280,8 +301,8 @@ Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #Va
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
 - **Author thesis** (§1, §9) is first-class for Paradigm Threat framing; it is **not** automatically factual.  
-- **Documented:** Famicom/NES stack; SPC700 Sony design; CD Super Disc royalty fear; CES Philips pivot; CD-i without R&D; SNES no NES BC; Super Game Boy adapter class; N64 2D-via-polygons + 4KB TMEM; Returns HD credit policy; Rare UK second-party.  
-- **Author / open:** British founding vassal; Yakuza orders to Nintendo; intentional multi-decade rollback plot; Hamano as *Prime 4* blame sink; N64 as pure “firing” imposition.  
+- **Documented:** Famicom/NES stack; SPC700 Sony design; CD Super Disc royalty fear; CES Philips pivot; CD-i without R&D; SNES no NES BC; Super Game Boy adapter class; N64 2D-via-polygons + 4KB TMEM; Returns HD credit policy; Rare UK second-party; Penny Arcade 3 June 2009 “All Is Forgiven”; *Other M* Team Ninja; *Dread* E.M.M.I. window language.  
+- **Author / open:** British founding vassal; Yakuza orders to Nintendo; intentional multi-decade rollback plot; Hamano as *Prime 4* blame sink; N64 as pure “firing” imposition; Penny Arcade as controlled opposition (**function**, not a Nintendo payroll).  
 - Sibling Yakuza dossier is **thematic**, not proof of each Nintendo board vote.
 
 ## Investigator notes
@@ -290,5 +311,6 @@ Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #Va
 - 2026-09-06: DKC impossible on N64 (Rare); franchise column; SNES EOL vs GC **corrected**; Wii before Returns; Star Fox Zero / Switch.  
 - Occupation primarily **US SCAP** — do not smuggle “British owned Nintendo” without evidence; keep British on Rare/Yakuza rails.  
 - Agent transcript: `12117906-f4fe-46c2-889e-40975d0bbffe`.
+- 2026-10-03: Penny Arcade “All Is Forgiven”; *Other M* / *Dread*. Do not upgrade CO into a staffing fact. Do not write *Other M* as a 0/10 Metacritic bomb.
 
 *Last updated: 2026-09-06*

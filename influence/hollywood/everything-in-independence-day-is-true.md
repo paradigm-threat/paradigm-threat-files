@@ -8,7 +8,7 @@ I watch *Independence Day* every Fourth of July. We celebrate this holiday becau
 
 On a predictive-programming read, separate the context from the transaction the viewer receives. The film is still a movie. Movies can lie about details. What comes across is the rest: Area 51 and the recovered alien finds on screen; locust-like invaders strip-mining the planet; biosuits with smaller occupants inside; a government that hid the proof until that secrecy cost millions of lives; nations that drop petty wars and unify; a president who names the day independence from a force humanity was actually dependent on and tangled with. The president’s hangar speech is the center of it. That message got through.
 
-This is **Installment III** in the reader series on predictive programming in blockbuster film. [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) covered the *Matrix* handoff; [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) covered the Pacific lane. This page stays with *ID4*.
+This is **Installment III** in the reader series on predictive programming in blockbuster film. [**Not Like This**](https://paradigmthreat2.substack.com/p/not-like-this) covered the *Matrix* handoff; [**Everything Burns**](https://paradigmthreat2.substack.com/p/everything-burns) covered the Pacific lane. This page stays with *ID4*.
 
 > **TL;DR:** Everything in ***Independence Day* (1996)** is true on the read that matters — Area 51, recovered ship and bodies, secrecy that nearly kills us, host bodies, locusts strip-mining the planet, world armies unified. The film keeps the invaders mysterious on purpose; what they are is left open. Off-screen, those locusts are still humans — same species — even when they no longer look like us. The historical Independence Day is largely a farce; this film is the real declaration. Whitmore’s speech is the point.
 
@@ -16,7 +16,7 @@ This is **Installment III** in the reader series on predictive programming in bl
 
 Love of country and love of a sanitized founding myth are not the same thing.
 
-The original War of Independence — the holiday — is a hoax. Many people will disagree. It was named *independence* in the vacuum of a much larger collapse, not as a clean break from Britain. The empire Americans were supposedly leaving had just come apart; the British stack that replaced or inherited that vacuum is one America stayed dependent on and tangled with into the present. The fireworks celebrate a story that papers over continuity. The careful chronology lives in the [American Revolution investigation](https://paradigmthreat.net/governance/war/investigations/american-revolution-investigation.md) and the [Horde vacuum / eastern-front pairing](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — not here. The point for this film is simpler.
+The original War of Independence — the holiday — is a hoax. Many people will disagree. It was named *independence* in the vacuum of a much larger collapse, not as a clean break from Britain. The empire Americans were supposedly leaving had just come apart; the British stack that replaced or inherited that vacuum is one America stayed dependent on and tangled with into the present. The fireworks celebrate a story that papers over continuity. The careful chronology lives in the [American Revolution investigation](https://paradigmthreat.net/governance/war/investigations/american-revolution-investigation.md) and the [Horde vacuum / eastern-front pairing](https://paradigmthreat2.substack.com/p/usa-was-founded-by-the-lost-tribe) — not here. The point for this film is simpler.
 
 **This movie has more relevance than the holiday itself.** In *Independence Day*, humanity declares independence from a force it was actually dependent on — and from then on the contract is clear: we are no longer working with you; you are the enemy and we will survive the war with you. Bill Pullman’s hangar speech is that day.
 
@@ -46,7 +46,7 @@ Make the waste clear the way the film already does: Julius Levinson’s line —
 
 The invaders knew more about Earth’s **control and authority system** than Earth knew about them — because Earth had **hidden the evidence from itself**. That asymmetry is the price of CIA-lane compartmentalization when the other party has already audited your hierarchy. On this series’ two-camp frame, *ID4* lands as **unity / declass** antibody against that stack: surface the program, punish the sewn-shut mouth, unify the militaries. Camp labels live in the [open dossier](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md); the film’s face for the crime is Nimziki.
 
-Insiders already had pieces of the picture. The [1984 CIA Mars remote-viewing file](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) is the same class of knowledge that Area 51 and the recovered bodies represent — available to those with clearances long before a July 1996 audience gasped in the dark. Dead or dying planetary grammar, occupied wreckage, resource desperation: that dossier’s motif stack and Whitmore’s locust speech rhyme without needing Emmerich to have held the PDF. *ID4* did what no other blockbuster had done at that scale: it **took the public into Area 51** and showed the hangar, the ship, and the suits on a screen the size of a wall.
+Insiders already had pieces of the picture. The [1984 CIA Mars remote-viewing file](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on) is the same class of knowledge that Area 51 and the recovered bodies represent — available to those with clearances long before a July 1996 audience gasped in the dark. Dead or dying planetary grammar, occupied wreckage, resource desperation: that dossier’s motif stack and Whitmore’s locust speech rhyme without needing Emmerich to have held the PDF. *ID4* did what no other blockbuster had done at that scale: it **took the public into Area 51** and showed the hangar, the ship, and the suits on a screen the size of a wall.
 
 ## The biosuit Wells never opened
 
@@ -102,16 +102,16 @@ Before the final strike, President Thomas J. Whitmore addresses the combined pil
 
 **This series (predictive programming in movies):**
 
-- [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) — **Installment I:** *Matrix* two-camp handoff.
-- [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) — **Installment II:** Pacific / *Dark Knight* / *24*.
+- [**Not Like This**](https://paradigmthreat2.substack.com/p/not-like-this) — **Installment I:** *Matrix* two-camp handoff.
+- [**Everything Burns**](https://paradigmthreat2.substack.com/p/everything-burns) — **Installment II:** Pacific / *Dark Knight* / *24*.
 - **Everything in Independence Day Is True** (this page) — **Installment III:** *ID4*; everything true; holiday farce vs real declaration; Whitmore.
-- [**The Arrival Treated Us Like Adults**](https://paradigmthreat.net/influence/hollywood/the-arrival-treated-us-like-adults.md) — **Installment IV:** *The Arrival* (1996) vs *Signs* (2002); media reset; crop circles / mudflood.
+- [**The Arrival Treated Us Like Adults**](https://paradigmthreat2.substack.com/p/the-arrival-treated-us-like-adults) — **Installment IV:** *The Arrival* (1996) vs *Signs* (2002); media reset; crop circles / mudflood.
 
 **Technical companions:**
 
 - [**Hollywood two-camp war — Thread O (*ID4*)**](https://paradigmthreat.net/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) — plot beats, secrecy, host-body, limits.
 - [**War of the Worlds — Martian analysis § Host Body**](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-analysis.md) — tendrils; Wells never opened the suit; *ID4* autopsy as public opening.
-- [**CIA 1984 Mars remote viewing**](https://paradigmthreat.net/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) — insider availability before mass reveal.
+- [**CIA 1984 Mars remote viewing**](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on) — insider availability before mass reveal.
 - [**American Revolution investigation**](https://paradigmthreat.net/governance/war/investigations/american-revolution-investigation.md) — vacuum-name frame for historical “independence.”
 
 ## Framing and limits

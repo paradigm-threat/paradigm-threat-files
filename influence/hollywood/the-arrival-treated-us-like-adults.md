@@ -123,9 +123,9 @@ The [mudflood hub](https://paradigmthreat.net/history/mudflood/page.md) holds th
 
 **This series (predictive programming in movies):**
 
-- [**Not Like This**](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md) — **Installment I:** *Matrix* two-camp handoff.
-- [**Everything Burns**](https://paradigmthreat.net/influence/hollywood/everything-burns.md) — **Installment II:** Pacific / *Dark Knight* / *24*.
-- [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) — **Installment III:** *ID4*; everything true; Whitmore.
+- [**Not Like This**](https://paradigmthreat2.substack.com/p/not-like-this) — **Installment I:** *Matrix* two-camp handoff.
+- [**Everything Burns**](https://paradigmthreat2.substack.com/p/everything-burns) — **Installment II:** Pacific / *Dark Knight* / *24*.
+- [**Everything in Independence Day Is True**](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) — **Installment III:** *ID4*; everything true; Whitmore.
 - **The Arrival Treated Us Like Adults** (this page) — **Installment IV:** *The Arrival* (1996) NSA geoengineering message vs *Signs* (2002) media-reset insult; crop circles / mudflood / Birkeland close.
 
 **Technical companions:**

@@ -106,11 +106,11 @@ Start with the Delaware Moor locks and the confinement / mud-flood companions, t
 - [Franklin Boors/Moors forensics](https://paradigmthreat.net/history/chronology/investigations/franklin-palatine-boors-moors-screenshot-investigation.md) — authenticated *Observations* complexion and exclusion language
 - [Slave trades and Moor etymology](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.md) — Barbary, Atlantic, Horde-fracture timing
 - [Europe whitewash / Moor–Boor split](https://paradigmthreat.net/history/chronology/investigations/europe-white-bloodline-complexion-whitewash-investigation.md)
-- [Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md)
+- [Lost Tribe of Benjamin — fresco, Franklin, monotheism’s war](https://paradigmthreat2.substack.com/p/usa-was-founded-by-the-lost-tribe)
 - [Afterlife / Protestantism — Ship of Fools §10](https://paradigmthreat.net/history/chronology/investigations/afterlife-purgatory-protestant-rus-horde-nc-investigation.md) — Fomenko on Brant satire, carnival hell wagon, Luther vs Schembartlauf
 - [Author-unique theories — AU-044 gold redaction](https://paradigmthreat.net/history/chronology/investigations/author-unique-theories.md) — gold hunger after Horde alchemy memory wipe
 - [LLM conclusion refusals register](https://paradigmthreat.net/influence/censorship/llm-conclusion-refusals-register.md) — ChatGPT hero-image policy block on this thesis (2026-08-03)
-- [Georgia was the Second Promised Land](https://paradigmthreat.net/history/chronology/georgia-was-the-second-promised-land.md) — Moorish stream and plurality under redaction
+- [Georgia was the Second Promised Land](https://paradigmthreat2.substack.com/p/georgia-was-the-second-promised-land) — Moorish stream and plurality under redaction
 
 ## Framing and limits
 

@@ -38,7 +38,7 @@ The Hanover stack is its own fork. Conventional account: colony for **George II*
 
 ## 1492 — both sides fled; Georgia took the Moors’ stream
 
-The **second** promised land has a specific meaning here. It comes *after* the natural first (§ above): Earth already living under the Sun when Atlantic refugees still needed a place. On the chronology I follow, **1492** is Apocalypse Crusade and Reverse Exodus — invasion of Europe, flight to America — the hinge Fomenko’s America / promised-earth volumes and the [promised land investigation](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.md) keep returning to. The [Benjamin essay](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) names the flight embedded in America’s founding memory. I am naming where that spirit **settled hardest**.
+The **second** promised land has a specific meaning here. It comes *after* the natural first (§ above): Earth already living under the Sun when Atlantic refugees still needed a place. On the chronology I follow, **1492** is Apocalypse Crusade and Reverse Exodus — invasion of Europe, flight to America — the hinge Fomenko’s America / promised-earth volumes and the [promised land investigation](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.md) keep returning to. The [Benjamin essay](https://paradigmthreat2.substack.com/p/usa-was-founded-by-the-lost-tribe) names the flight embedded in America’s founding memory. I am naming where that spirit **settled hardest**.
 
 Those founding principles did **not** make it into the Declaration or the federal Constitution as civic religion prints them. They made it into **constitutions** — charters, Trustee codes, state founding habit — and into the **true nature** of what Americans would be.
 
@@ -122,9 +122,9 @@ If any link in the earlier spine is wrong — twin Georgias, Moorish concentrati
 - [Georgia naming investigation (AU-033)](https://paradigmthreat.net/history/chronology/investigations/georgia-mirror-naming-rus-horde-mars-investigation.md) — full tiers, whitewash table, forest and DU sections  
 - [Myth → planet remap registry](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/myth-planet-remap-registry.md) — Layer RT / OFK / GG (Arthur Jupiter vs Sun)  
 - [Saturnian Round Table](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md) — Lancelot / Arthur / Merlin work already done  
-- [Promised land](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.md) · [Benjamin / Apotheosis](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) · [Slave trades & Moors](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.md)  
-- [Bilbo Mound](https://paradigmthreat.net/history/mudflood/bilbo-mound-and-americas-buried-past.md) — Savannah ground as MFEE case  
-- [Make Gordonston Great Again](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md) · [Ghost tourism](https://paradigmthreat.net/influence/conspiracy/the-real-ghostbusters.md) — Savannah substitute narratives  
+- [Promised land](https://paradigmthreat.net/history/mudflood/investigations/promised-land-investigation.md) · [Benjamin / Apotheosis](https://paradigmthreat2.substack.com/p/usa-was-founded-by-the-lost-tribe) · [Slave trades & Moors](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.md)  
+- [Bilbo Mound](https://paradigmthreat2.substack.com/p/bilbo-mound-and-americas-buried-past) — Savannah ground as MFEE case  
+- [Make Gordonston Great Again](https://paradigmthreat2.substack.com/p/make-gordonston-great-again) · [Ghost tourism](https://paradigmthreat2.substack.com/p/the-real-ghostbusters-the-ethereal) — Savannah substitute narratives  
 
 Keywords: #Georgia #SecondPromisedLand #FirstPromisedLand #HolyGrail #GoldenAge #SunAge #1492 #BothSidesFlight #Moors #Maurus #Jorge #Horus #Mavors #PronunciationDrift #Indenture #George #Mars #StGeorge #Lancelot #Arthur #Merlin #Whitewash #Savannah #DepletedUranium #Pluralism #ParadigmThreatFiles
 

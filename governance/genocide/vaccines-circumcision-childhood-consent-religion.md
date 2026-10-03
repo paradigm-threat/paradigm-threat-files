@@ -52,7 +52,7 @@ Institutional pediatrics normalized two kinds of infant distress — and both ar
 
 **Sleep-training lane:** Cry-it-out and extinction methods — Ferber lineage, pediatric sleep manuals — instruct parents to let the infant **scream until sleep**, reframing prolonged distress as **learning**. The child’s veto is noise; the adult schedule is wisdom.
 
-Same moral math: infant protest read as **irrelevant**, not as **no**. Both scripts come from textbooks and credential pipelines tied to **Prussian factory schooling**, **Flexner-style monopoly on who counts as educated**, and behaviorist child science that mirrored **eugenics-era sorting** — who is fit, who must be corrected early. The [schooling investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) names that machine **collectivist mass-grading** — warfare-born cohort compliance, not ancient village care. The [parent essay](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md) shows what happens when a bright child refuses the package and gets labeled instead of heard.
+Same moral math: infant protest read as **irrelevant**, not as **no**. Both scripts come from textbooks and credential pipelines tied to **Prussian factory schooling**, **Flexner-style monopoly on who counts as educated**, and behaviorist child science that mirrored **eugenics-era sorting** — who is fit, who must be corrected early. The [schooling investigation](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) names that machine **collectivist mass-grading** — warfare-born cohort compliance, not ancient village care. The [parent essay](https://paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade) shows what happens when a bright child refuses the package and gets labeled instead of heard.
 
 Watson and Skinner sold **conditioning** as science; sleep trainers sold **extinction** as love. Pediatric inserts sold **prolonged crying after DTaP** as within normal tolerance bands. Each expert class reassured the adult that the infant’s distress was **developmentally appropriate** — for the adult’s goal, not the infant’s veto. When you hear “children are resilient,” ask **resilient to what**, and **who measured the tail**.
 
@@ -85,7 +85,7 @@ I will not pretend neutrality. I believe the generations before me treated child
 ## Where next
 
 - [Vaccine injury, liability immunity, and the unknowable reckoning](https://paradigmthreat.net/governance/genocide/investigations/vaccine-injury-liability-suppression-investigation.md) — NVICP, PREP, MMR/autism frame, COVID archive, RFK policy, **§12 debate capture**
-- [When your child won’t fit the grade](https://paradigmthreat.net/history/chronology/when-your-child-wont-fit-the-grade.md) — schooling, coercion, homeschool path
+- [When your child won’t fit the grade](https://paradigmthreat2.substack.com/p/when-your-child-wont-fit-the-grade) — schooling, coercion, homeschool path
 - [Childhood autism spectrum — conformity recategorization](https://paradigmthreat.net/history/chronology/investigations/childhood-autism-spectrum-conformity-recategorization-investigation.md) — Flexner, warfare grading, debunk cycle
 - [Circumcision cult — covenant note](https://paradigmthreat.net/influence/conspiracy/topics/circumcision_cult.md)
 - [Vaccine archive hub](https://paradigmthreat.net/governance/genocide/vaccine/a.md)

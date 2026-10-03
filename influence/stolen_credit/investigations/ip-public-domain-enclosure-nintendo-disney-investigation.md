@@ -12,7 +12,7 @@
 2. **Assessment** (§2) — the question asked: is there an active campaign to stop public ownership?
 3. **The clock** (§3) — statutes, dates, what a buyer actually purchases
 4. **Disney’s recorded campaign** (§4) — 1998, *Eldred*, then the 2024 cliff that arrived anyway
-5. **Exceptions since 1998** (§5) — Canada, trademark, DMCA
+5. **Exceptions since 1998** (§5) — Canada, trademark, DMCA; **§5.1** Morrison / *Monster in My Pocket*
 6. **Remakes** (§6) — pre-*X* timeline; why a remake exists if the clock does not need it
 7. **Paid in full, use withheld** (§7) — Nintendo Classics, Yuzu
 8. **Santa and Lincoln beside Mickey and Mario** (§8)
@@ -66,6 +66,12 @@ Captured **2026-10-03** from the request that opened this file. Cleaned only for
 **Addendum, fifth pass, same day.** Political close of the letter. Do not paste the essay into the tables.
 
 > Nintendo’s 1980s titles were not the Mickey campaign that shoved a 1928 cliff backward. The remakes still have to exist. Their substandard, divisive quality is the proof the companies cannot sit silent, because silence would open the question they have not answered: may a holder lock a finished world forever and refuse every other vision that was already in the first version, even when critics write at Weather Channel volume. Isolated complaints look like raining on a parade. The stacked pattern is a political attack so ordinary people never compete. That outcome is already here. The leftover divider is only whether it is good.
+
+**Addendum, sixth pass, same day.** Morrison / *Pokémon* caption. Do not paste the essay. Receipts are §5.1. The letter is [Before Barney, Teletubbies, and Pokémon](../before-barney-and-pokemon.md).
+
+> The court case brought by Morrison Entertainment Group is history now. At the time a lot of Americans may have seen it as a foreign-influenced corporation defeating an American corporation. Morrison might not necessarily be an American company — check if it is — but the overlay could still be seen that way. The case came down to a subtle interpretation of a video-game industry nobody was looking at, lots of gray areas. The outcome can be defined as an extremely subtle interpretation that has a profound impact on children, and will have a profound impact going forward, being decided not on that basis at all, but on an extremely irrelevant and isolated subtle language conflict. Had Nintendo backed off and named it something else, there would be no issue and no conflict between a foreign-influence company and an American company.
+
+**Unpack of the sixth pass:** Morrison **was** a California toy shop (Mattel alumni). The caption is Nintendo **of America**, with 4Kids and Leisure Concepts also sued. The Japan overlay is **available atmosphere** (Sheff / trade-deficit living-room panic), not a poll of this docket. The Ninth Circuit **did** run an isolated sight/sound/survey test while admitting *Pokémon* is *Pocket Monster* shortened. A name with **no** Pocket Monster residue would have avoided even the meaning factor. The US rename is why sight/sound went Nintendo’s way. Children’s-culture stakes were not the holding. See **AU-066g**.
 
 ---
 
@@ -164,6 +170,20 @@ These are the post-CTEA moves that match “exceptions made in recent times.”
 **European Union, 1993, still the template.** Life plus 70 was the number Washington was told it had to match. Harmonization has been a one-way ratchet.
 
 **Trademark maintenance.** Registrations are renewed on use, in ten-year blocks in the US, with no life-of-the-author sunset. This is the only layer in the stack that is **designed** not to expire. *Dastar* (2003) is the limit: once the copied work itself is public domain, the Lanham Act cannot be turned into a requirement that restores copyright. Source confusion remains actionable. For a character the public meets as a **logo on a product**, that remaining action is enough to scare ordinary publishers. It is not enough to erase the 1928 film.
+
+### 5.1. Morrison / *Monster in My Pocket* (2000–2003)
+
+This is the trademark specimen in the Pokémon Western-name lane. It is not a term-extension case. It is how a kids-market collision was scored as **letters and syllables**. The reader essay is [Before Barney, Teletubbies, and Pokémon](../before-barney-and-pokemon.md).
+
+| Layer | Score |
+|-------|--------|
+| **Documented — parties** | Morrison Entertainment Group Inc. (later MEG) was a Manhattan Beach / El Segundo, California toy shop founded by former Mattel executives **Joe Morrison** and **John Weems** ([MEG](https://www.megtoys.com/); [LA Business Journal, 11 Nov 2001](https://labusinessjournal.com/news/toys-toy-firm-will-appeal-pocket-monster-suit/)). 4Kids’s 10-K: suit filed **29 Mar 2000**, C.D. Cal., against **Nintendo of America Inc.**, **4 Kids Entertainment, Inc.**, and **Leisure Concepts, Inc.** ([SEC](https://www.sec.gov/Archives/edgar/data/58592/000089109201000487/0000891092-01-000487.txt)). The product and the *Pocket Monsters* name are Kyoto / Game Freak. Do not write the caption as Japan Inc. versus America. |
+| **Documented — holding** | *Morrison Entertainment Group Inc. v. Nintendo of America, Inc.*, 56 F. App’x 782 (9th Cir. 2003), unpublished. Reverse-confusion claim. The panel said the marks differ in **sight and sound** (one seven-letter word with an accented *é* versus four words; “Po” versus “Ma”). It recorded that *Pokémon* is the nickname of Japanese *Pocket Monster*, and that *Pocket Monster* is close in meaning to *Monster in My Pocket*, then said a casual observer will not know that and will treat *Pokémon* as a fanciful word. A survey of children in the target age was used against logo confusion. Product-similarity “knock-off” talk (Hurst) was treated as not a Lanham Act mark problem. Summary judgment for Nintendo on infringement. Nintendo’s cancellation counterclaim dismissed as moot. Foreign-equivalents doctrine was not run further once meaning similarity was already found. |
+| **Documented — period quotes** | Joe Morrison, 2001: Nintendo sold small pocket-sized monsters as Pocket Monsters everywhere except the US, then changed it here to Pokémon. Counsel **Brian Lysaght**: the senior mark was squeezed because “everybody thinks we’re a rip-off of Pokemon.” LABJ frames a **small Manhattan Beach toy developer** versus Nintendo of America and a billion-dollar Pokémon year. That is size and reverse-confusion talk, not a Japan-bashing headline. |
+| **Documented — competing memoir** | Al Kahn later said he wanted a more “Japanese-y” name, not a Morrison-clearance story ([Washington Post, 4 Aug 2016](https://www.washingtonpost.com/news/the-switch/wp/2016/08/04/meet-the-man-who-made-pokemon-an-international-phenomenon/), circulated via [Nintendo Everything](https://nintendoeverything.com/former-4kids-ceo-on-helping-to-bring-pokemon-west-english-name-anime-and-success/)). Memoir. It does not erase the court’s Pocket Monster etymology. |
+| **Documented — atmosphere, not this docket** | David Sheff, *Game Over* (1993): Japanese “Trojan horse” in American living rooms; Nintendo sales tied in that book and in the [Baltimore Sun, 18 May 1993](https://www.baltimoresun.com/1993/05/18/how-super-mario-conquered-america/) review to roughly **10%** of the US–Japan trade deficit; Super Mario more familiar to children than Mickey. That is the trade-panic weather **before** the suit. |
+| **Author** | A reader already living in that weather **could** hear a California Mattel-alumni shop losing to a Kyoto-parented kids franchise on syllable counts as a foreign-parented giant beating a US toy line. The holding did not decide what a collecting loop does to children. A Western name with **no** Pocket Monster residue would have avoided even the meaning factor. The US rename is why sight/sound went Nintendo’s way; Japan kept Pocket Monsters. |
+| **Rejected** | A poll, Gallup, or located 2000–2003 national story of **this** docket as “a foreign-influenced corporation defeating an American corporation.” Judges as agents of Kyoto. “Japan Inc. vs America” as the caption. |
 
 **DMCA anti-circumvention.** Passed as its own public law the day after the term extension. Section 1201 targets the **tools**, not only the copies. Emulation of an old console can be lawful engineering (the earlier Sony fights over Connectix and Bleem are the usual citations for clean-room emulators). Shipping or using a tool that **defeats a game’s encryption** is what Nintendo pleaded against Yuzu. The author’s “those zones should have become legal after a certain time” collides with this statute first: 1201 does not mature into permission when a term gets short. It sits beside the term.
 
@@ -324,6 +344,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | AU-066d | The purpose is **information control**: exclusive use of trusted faces, including in war messaging, denied to everyone else. | **Author** on purpose. **Documented** that derivative-work exclusivity produces that effect, with 1943 Disney shorts as the holder’s own wartime use. |
 | AU-066e | Crossovers (*Kingdom Hearts*, *Smash*) consolidate icon power and, through controversy and legal mess, **reduce** the chance of full public ownership. | **Author** on controversy-as-cause. **Documented** that multi-party licenses and new depictions keep the **known** face locked after any one underlying work expires. |
 | AU-066f | The 2026 LEGO-style Iran videos are the same icon power turned on the US military. | **Documented** that state-linked AI minifig videos carried that message. **Not** a LEGO Group production. |
+| AU-066g | The 2003 Morrison outcome can be **heard** as a foreign-parented kids franchise defeating a US senior toy mark, while the holding is a sight/sound/survey ruling that did not decide children’s-culture stakes. | **Author** on reception. **Documented** on parties, the 29 Mar 2000 caption, and 56 F. App’x 782 (§5.1). **Rejected** as a counted public of this docket. |
 
 ---
 
@@ -337,6 +358,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | Q4 | What did Disney’s PAC and Eisner’s 1998 meetings specifically exchange, beyond the *LA Times* / CQ narrative? | FEC filings already partly public; a tighter money table is still worth building. |
 | Q5 | LEGO Group enforcement, if any, against Explosive Media’s minifig lookalikes in 2026. | LEGO statements, takedown notices. Absence would confirm the lookalike sat outside the holder’s practical control. |
 | Q6 | Does Nintendo Switch Online’s ROM set differ from the cartridge in ways that matter for preservation (censorship, unreleased revisions, save states as the only record)? | Binary compare against documented cartridge dumps. Preservation claim, not a piracy guide. |
+| Q7 | Any **2000–2003** US press that names Japan, the trade deficit, or “foreign company” in coverage of **this** Morrison suit (not Sheff 1993)? | News archive sweep. Negative so far: LABJ is small California toy firm versus Nintendo of America. |
 
 ---
 
@@ -348,6 +370,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 - The LEGO war thread is easy to overstate in the other direction. The videos are lookalikes.
 - Work-for-hire dates are **arithmetic under a rule**, not a caption read off each game’s registration.
 - Emulation law is fact-specific. This file does not map which emulators are lawful. It uses Yuzu’s **outcome** (shutdown, money, domain) as the enforcement specimen.
+- The Morrison disposition is **unpublished**. Do not treat 56 F. App’x 782 as nationwide trademark doctrine. Do not allege the panel was an agent of Kyoto. “Foreign defeat” is AU-066g, not a poll.
 
 ---
 
@@ -374,8 +397,14 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | [RPGamer, *Anthology* retroview](https://archive.rpgamer.com/games/ff/ffa/reviews/ffastrev2.html) | Ten-second battle loads on the PlayStation *V* / *VI* port |
 | [Kotaku, 4 Dec 2013](https://kotaku.com/final-fantasy-vi-on-mobile-isnt-looking-too-hot-1476354093) | *VI* mobile sprites against the SNES shot |
 | [89 FR 85437, 28 Oct 2024](https://www.federalregister.gov/documents/2024/10/28/2024-24563/exemption-to-prohibition-on-circumvention-of-copyright-protection-systems-for-access-control) | Preservation exemption only if the game is no longer reasonably available |
+| [LA Business Journal, 11 Nov 2001](https://labusinessjournal.com/news/toys-toy-firm-will-appeal-pocket-monster-suit/) | Morrison as small Manhattan Beach toy firm; Joe Morrison / Lysaght quotes |
+| [4Kids 10-K, SEC](https://www.sec.gov/Archives/edgar/data/58592/000089109201000487/0000891092-01-000487.txt) | Suit filed 29 Mar 2000 vs NOA, 4Kids, Leisure Concepts |
+| [MEG](https://www.megtoys.com/) | California shop; Joe Morrison, former Mattel |
+| *Morrison*, 56 F. App’x 782 (9th Cir. 2003) | Reverse confusion; sight/sound; Pocket Monster meaning |
+| [Baltimore Sun, 18 May 1993](https://www.baltimoresun.com/1993/05/18/how-super-mario-conquered-america/) | Sheff *Game Over*; living-room / trade-deficit atmosphere |
+| [Washington Post, 4 Aug 2016](https://www.washingtonpost.com/news/the-switch/wp/2016/08/04/meet-the-man-who-made-pokemon-an-international-phenomenon/) | Kahn “Japanese-y” memoir |
 
-Keywords: #PublicDomain #CopyrightTerm #SonnyBono #MickeyMouse #Mario #PixelRemaster #Nintendo #Disney #DMCA #Trademark #KingdomHearts #SmashBros #Lego #InformationControl #AU066
+Keywords: #PublicDomain #CopyrightTerm #SonnyBono #MickeyMouse #Mario #PixelRemaster #Nintendo #Disney #DMCA #Trademark #KingdomHearts #SmashBros #Lego #InformationControl #AU066 #Pokemon #Morrison #MonsterInMyPocket
 
 *Last updated: 2026-10-03*
 
@@ -383,7 +412,7 @@ Keywords: #PublicDomain #CopyrightTerm #SonnyBono #MickeyMouse #Mario #PixelRema
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-The constitutional copyright clause and the statute dates above are positive law, cited so the author’s moral claim can be compared with what Congress actually did. They are not treated as proof that the resulting system is just. Author thesis sections are first-class and are not automatic facts. “Scam” is the author’s defined loss of ability, not a criminal charge. Cross-links to Nintendo hardware, *Final Fantasy VII*, and vacuum inverse are thematic. The 2026 brickfilms are wartime propaganda documented by government and press; this file does not adopt their factual claims about strikes, pilots, or casualties. Assistant synthesis can compress a lobby into a cleaner plot than the FEC record will show; Q4 stays open for that reason.
+The constitutional copyright clause and the statute dates above are positive law, cited so the author’s moral claim can be compared with what Congress actually did. They are not treated as proof that the resulting system is just. Author thesis sections are first-class and are not automatic facts. “Scam” is the author’s defined loss of ability, not a criminal charge. Cross-links to Nintendo hardware, *Final Fantasy VII*, and vacuum inverse are thematic. The 2026 brickfilms are wartime propaganda documented by government and press; this file does not adopt their factual claims about strikes, pilots, or casualties. Assistant synthesis can compress a lobby into a cleaner plot than the FEC record will show; Q4 stays open for that reason. *Morrison* is an unpublished Ninth Circuit disposition; §5.1 is the docket, not a claim that the judges served Kyoto. Q7 stays open because no 2000–2003 story of this suit as a Japan–America defeat has been located.
 
 ## Investigator notes
 
@@ -392,3 +421,5 @@ Spoken request, 2026-10-03. False starts were dropped in §1; the blockquote is 
 Second pass, same day: pre-*X* reissue table. One compilation prints *Chronicles* as 29 June 2011; disc reviews and the 2001 bundle record are **29 June 2001** — do not “correct” §6.1 back to 2011. *Final Fantasy* Famicom is printed as 18 Dec 1987 here; at least one fan catalog prints 17 Dec. *VII* North America is left as September 1997 because day-level catalogs disagree (4 Sep vs 7 Sep). Feature-phone rows were dropped on purpose.
 
 Third pass, same day: §6.3 strategy. Do not upgrade the 1201 preservation exemption into a public right to emulate. It is institutions, premises, lawfully acquired copies, and only when the game is not reasonably available.
+
+Sixth pass, same day: Morrison. Do not upgrade AU-066g into a poll. Do not “correct” the caption to Nintendo Co., Ltd. Casetext 404’d on this unpublished opinion earlier; cite 56 F. App’x 782 plus LABJ / SEC / MEG.

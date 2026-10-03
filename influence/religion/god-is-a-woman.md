@@ -12,7 +12,7 @@ The story of Earth starts exactly the same as the stories of any life form that 
 
 ![Golden Age remembered — Bosch garden as creation memory](https://paradigmthreat.net/history/chronology/saturn/golden_age_hieronimus_bosch.jpg)
 
-Every mammal still lives that chapter in the womb. The old sky stories describe the same thing: a long dark time before day and night as we know them, before people started arguing about who was watching. In the Saturnian timeline, Earth lived that chapter too. More on the field and womb side is in [Circle of Life](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.md) and the [chronology hub](https://paradigmthreat.net/history/chronology/page.md). Before anyone argued about God, there was gestation.
+Every mammal still lives that chapter in the womb. The old sky stories describe the same thing: a long dark time before day and night as we know them, before people started arguing about who was watching. In the Saturnian timeline, Earth lived that chapter too. More on the field and womb side is in [Circle of Life](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began) and the [chronology hub](https://paradigmthreat.net/history/chronology/page.md). Before anyone argued about God, there was gestation.
 
 ## The moment of light
 
@@ -36,7 +36,7 @@ The Kogi of Colombia’s Sierra Nevada name Haba Gaulcovang, the Great Mother, a
 
 Israel’s archaeology still fights over Asherah next to Yahweh. Inscriptions from Kuntillet Ajrud and Khirbet el-Qom talk about Yahweh and his asherah. Some scholars say goddess. Some say a sacred pole. Either way, she was loud enough that later editors turned her into lumber and “grove” translations — same move as demoting every other mother Creator into “local fertility.”
 
-In the Saturnian chronology, Saturn is the mother principle — the receiving body, the womb side of planetary generation — and the Sun is the father principle. That’s also in [Circle of Life](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.md). Saturn also shows up as Kronos eating his children. Same planet. Different face of the same memory: mother in the Golden Age, devourer when the age ended. The mother didn’t leave. The story about her got rewritten.
+In the Saturnian chronology, Saturn is the mother principle — the receiving body, the womb side of planetary generation — and the Sun is the father principle. That’s also in [Circle of Life](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began). Saturn also shows up as Kronos eating his children. Same planet. Different face of the same memory: mother in the Golden Age, devourer when the age ended. The mother didn’t leave. The story about her got rewritten.
 
 The Creator must have been capable of creation, and only women are. You can’t really be a man unless you accept that. I think a lot of people who ran the religions for the last couple centuries really were not ‘real’ men, because their church didn’t allow them to be.
 
@@ -99,19 +99,19 @@ So that’s the real nature of praising God. The mother that you always want to 
 ## Where next
 
 - [God Is a Woman — creator gender redaction (investigation)](https://paradigmthreat.net/influence/religion/investigations/god-is-a-woman-creator-gender-redaction-investigation.md) — tiers, Baal→mal lexical audit, Mishnah, Asherah, Osiris/Crusades separation, *Silent Hill* verification.
-- [The Circle of Life and How It Began](https://paradigmthreat.net/science/biology/circle-of-life-and-how-it-began.md) — mother-field, Saturn womb, creation memory.
+- [The Circle of Life and How It Began](https://paradigmthreat2.substack.com/p/the-circle-of-life-and-how-it-began) — mother-field, Saturn womb, creation memory.
 - [Creation event interpretations](https://paradigmthreat.net/history/chronology/investigations/creation-event-interpretations.md) — cross-tradition creation and dark-age exile.
 - [Chronology hub](https://paradigmthreat.net/history/chronology/page.md) — Golden Age → Dark Ages → Exodus → sun → Crusade layers.
 - [Mars hub](https://paradigmthreat.net/cosmos/mars/page.md) — theonyms, Exodus, Osiris/Set, Crusades/monotheism.
 - [*The Third Story* book page](https://paradigmthreat.net/book/page.md) — timeline book home.
 - [Lexical redaction hub](https://paradigmthreat.net/history/chronology/investigations/lexical-redaction-hub-investigation.md) — word pejoration method this Baal→mal claim belongs with.
-- [Lost Tribe of Benjamin / monotheism’s war](https://paradigmthreat.net/history/chronology/lost-tribe-of-benjamin-apotheosis-and-monotheisms-war.md) — monotheism as institutional engine.
+- [Lost Tribe of Benjamin / monotheism’s war](https://paradigmthreat2.substack.com/p/usa-was-founded-by-the-lost-tribe) — monotheism as institutional engine.
 
 ## Framing and limits
 
 **Prisca sapientia:** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md) — ancients held profound understanding of universe, nature, and theology later lost or degraded. Modern consensus is not default truth; the linked investigation tiers specific claims.
 
-Hard thesis in the body. Documented anchors include feminine supreme-creator ethnography, Taoist mother language, Asherah debate, Baal–Saturn syncretism, biblical Baal→shame pejoration, Latin *mal-* = bad, Mishnah *Sotah* 3:4, and the *Silent Hill* (2006) mother lines. The Baal→mal sound-bridge and the ball/balance/ballerina family as one Golden Age root are my synthesis — open against handbook etymology. “Only women create” is a philosophical claim here, not a lab result. Osiris “pieces” and Crusade-era monotheism are story-scale summaries; incompatible mappings stay separated in the linked investigation. Critiquing patriarchal legal texts is not a license to monolith any living people — see the [working definition of antisemitism](https://paradigmthreat.net/history/chronology/investigations/paradigm-threat-working-definition-antisemitism.md).
+Hard thesis in the body. Documented anchors include feminine supreme-creator ethnography, Taoist mother language, Asherah debate, Baal–Saturn syncretism, biblical Baal→shame pejoration, Latin *mal-* = bad, Mishnah *Sotah* 3:4, and the *Silent Hill* (2006) mother lines. The Baal→mal sound-bridge and the ball/balance/ballerina family as one Golden Age root are my synthesis — open against handbook etymology. “Only women create” is a philosophical claim here, not a lab result. Osiris “pieces” and Crusade-era monotheism are story-scale summaries; incompatible mappings stay separated in the linked investigation. Critiquing patriarchal legal texts is not a license to monolith any living people — see the [working definition of antisemitism](https://paradigmthreat2.substack.com/p/paradigm-threat-working-definition).
 
 Keywords: #GodIsAWoman #FeminineCreator #Baal #Mal #Saturn #GoldenAge #DarkAge #Asherah #Mishnah #Monotheism #SilentHill #ThirdStory #ParadigmThreatFiles
 
