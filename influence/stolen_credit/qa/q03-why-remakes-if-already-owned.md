@@ -8,6 +8,8 @@ Because not shipping them would open ethical questions the companies have not an
 
 That is the hygiene answer. The stacked answer is necessity. The copies can be insulting. They can split fans into defenders of the official substitute and people still attached to the cartridge. The companies still have to publish something that wears the name. If they sat on the vault, the next question would be public: may a holder lock a finished world forever and refuse every other vision that was already in the first version?
 
+The Pixel Remaster is also a marketing costume. The word pixel is leftover blockiness sold as nostalgia, at a full game price, for a remake that still omits later handheld extras. That is not year-after-year TLC on the same game. It is nostalgic virtue signaling.
+
 Switch Online is a subscription. Stop paying and the games go away. That is not the 1985 cartridge bargain. It is the rental of a catalog the public already paid for once.
 
 Essay: [Before Barney, Teletubbies, and Pokémon](/influence/stolen_credit/before-barney-and-pokemon.md). Law: [IP enclosure](/influence/stolen_credit/investigations/ip-public-domain-enclosure-nintendo-disney-investigation.md).
