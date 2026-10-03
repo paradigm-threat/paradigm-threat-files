@@ -269,10 +269,11 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 | [rare-nintendo-rd.md](../rare-nintendo-rd.md) | Blank credits / British second party |
 | [final-fantasy-vii-nintendo-story-sabotage-investigation.md](final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Square/CD capacity politics |
 | [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057o:** organic Kyoto shop vs flatten when IP was ripped; same Honda→Scrum grammar |
+| [IP enclosure / public domain (AU-066)](ip-public-domain-enclosure-nintendo-disney-investigation.md) | Copyright term, remakes, DMCA; sibling to the hardware clamp |
 
 Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #VacuumInverse #StolenCredit
 
-*Last updated: 2026-09-06*
+*Last updated: 2026-10-03*
 
 ## Limits and disclaimers
 
