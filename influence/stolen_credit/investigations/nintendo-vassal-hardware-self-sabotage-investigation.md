@@ -294,6 +294,7 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 | [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057o:** organic Kyoto shop vs flatten when IP was ripped; same Honda→Scrum grammar |
 | [IP enclosure / public domain (AU-066)](ip-public-domain-enclosure-nintendo-disney-investigation.md) | Copyright term, remakes, DMCA; sibling to the hardware clamp |
 | [Before Barney, Teletubbies, and Pokémon](../before-barney-and-pokemon.md) | Generational letter; Penny Arcade / *Other M* / *Dread* specimen |
+| [Chozo lore × Mars RV (AU-067)](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) | PAL Chozo **shadow-remainder** trim; *Dread* as later same-class rewrite |
 
 Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #VacuumInverse #StolenCredit #PennyArcade #MetroidOtherM #MetroidDread
 

@@ -21,7 +21,7 @@
 2. **Scope + anchors** → §1–§2  
 3. **Reading Room / CREST** → §3  
 4. **AIR (institutional closure vs this read)** → §4  
-5. **Mars PDF** → §5 (`5.1` … `5.8` including **5.8.1** RV / precrime fiction cluster; **§5.3.1** horizon / optics conjecture under **§5.3**)  
+5. **Mars PDF** → §5 (`5.1` … `5.8` including **5.8.1** RV / precrime fiction cluster; **5.8.3** *Metroid Prime* Chozo; **§5.3.1** horizon / optics conjecture under **§5.3**)  
 6. **Open questions** → §6  
 7. **References** → §7  
 8. **Limits**  
@@ -84,6 +84,7 @@
 | [Predictive programming hub](/influence/predictive_programming/page.md) · [RV in fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) | PP as **data**; time/distance scrying cluster rhymes **§5.8**. |
 | [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 remote viewing** session and media dates). |
 | [Yasunori Mitsuda / Chrono franchise notes](/influence/stolen_credit/yasunori-mitsuda.md) | **Different** thesis (credits / corporate arc); listed so **§5.8** is not mistaken for that file’s verdict. |
+| [*Metroid Prime* Chozo lore × 1984 Mars RV](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) | **PP adjunct (2026-10-03):** NTSC Chozo **shadow / beyond space-time** return vs SUB tall-thin shadows; PAL rewrite; SkyTown / Phaaze. |
 
 **Also read:** [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)  
 **Readable article (same topic, parent folder):** [1984 Mars × *Chrono Trigger*](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)
@@ -297,6 +298,10 @@ The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trig
 
 **Epistemic posture:** this **does not** upgrade **§5.8** from **hypothesis** to **provenance** — it **documents** **who gets to keep a public square** when **institutional** **documents** **meet** **scene** **politics**. **§6.1** **now** **notes** **Master** **Mi** **as** **high-visibility** **GD** **tenor** **(**not** **random** **drive-by**)** **+** **“**silver** **platter**”** **pairing** **with** **staff** **mood** **ruling** **.** Pattern file: [**OC ReMix investigation §6.1**](ocremix-polarization-privatization-controlled-opposition-investigation.md).
 
+#### 5.8.3 *Metroid Prime* Chozo lore (PP adjunct — **2026-10-03**)
+
+Author session: Chozo catastrophe on Tallon IV **lines up** with this transcript’s **shadow people / corruption / megalithic lock / waiting**. **AU-067:** PAL **shadow-remainder** cut = **trim-back** of PP after the 2002 deposit had already served; leftover breadcrumb would lead here. Full motif table, NTSC vs PAL rewrite, Prime 2 Luminoth analog, Prime 3 SkyTown / Phaaze: [**Chozo lore × Mars RV investigation**](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md). **Does not** change this file’s **Mars PDF verdict**.
+
 ---
 
 ## 6. Open questions (investigation backlog)
@@ -306,7 +311,7 @@ The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trig
 3. **FOIA case / release decision for this RDP:** Reading Room **metadata** or **FOIA logs** naming **case number** and **reviewer decision** tied **uniquely** to **`CIA-RDP96-00788R001900760001-9`**.  
 3b. **NSA ↔ STARGATE release coordination (2000–2005):** any **interagency** memo, **FOIA** cross-reference, or **Hanyok-office** correspondence touching **STAR GATE** batch release vs **Tonkin** declass timeline (**§5.7.1** falsifiers).  
 4. **Corpus grep (STARGATE / RV):** mine declassified **MON/SUB** (and related) transcripts for **target-models-viewer** diction — e.g. **hallucination**, **doesn’t know who I am**, **aware of me**, **dismissed** / **ignored** the viewer — and log **RDP** IDs beside this anchor’s **§5.3** meta-line.  
-5. **PP / fiction survey:** extend [Mars–Earth reincarnation §4 checklist](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) with **1995** *Chrono Trigger*, **§5.8.1** table rows (precrime / genetic-memory / **psi** TV / ***X-Men*** **Cerebro** arc), and other **dome / machine-food / alien harvester** games — **correlation only**, no causal claim without receipts.  
+5. **PP / fiction survey:** extend [Mars–Earth reincarnation §4 checklist](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) with **1995** *Chrono Trigger*, **§5.8.1** table rows (precrime / genetic-memory / **psi** TV / ***X-Men*** **Cerebro** arc), [***Metroid Prime* Chozo / Phaaze**](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md), and other **dome / machine-food / alien harvester** games — **correlation only**, no causal claim without receipts.  
 6. **Horizon optics:** compare **§5.3.1** language to **Mars** **atmospheric refraction / mirage** literature and **dust-storm** visibility models (peer or engineering); note whether **SUB’s** phrasing clusters **predictably** with **wide-basin** vs **interior** coordinates in the [**full writeup**](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md).
 
 ---
@@ -324,11 +329,11 @@ The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trig
 - **Sibling:** [RV two-way, Iran revival, Super Cockpit](/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md)  
 - **§5.8 (*Chrono Trigger* / PP):** [Wikipedia — *Chrono Trigger*](https://en.wikipedia.org/wiki/Chrono_Trigger) · [Square Enix — ABOUT THIS GAME](https://www.jp.square-enix.com/chronotrigger/en/about.html) · [Chrono Wiki — 2300 AD](https://www.chronowiki.org/wiki/2300_AD) · [Chrono Wiki — Enertron](https://www.chronowiki.org/wiki/Enertron) · [Fandom — Enertron](https://chrono.fandom.com/wiki/Enertron)  
 - **§5.8.1 (RV / precrime / Animus cluster):** [Wikipedia — *The Minority Report* (story)](https://en.wikipedia.org/wiki/The_Minority_Report) · [Wikipedia — *Minority Report* (film)](https://en.wikipedia.org/wiki/Minority_Report_(film)) · [Wikipedia — *Technologies in Minority Report*](https://en.wikipedia.org/wiki/Technologies_in_Minority_Report) · [Wikipedia — *Next* (2007)](https://en.wikipedia.org/wiki/Next_(2007_film)) · [Wikipedia — *Psycho-Pass*](https://en.wikipedia.org/wiki/Psycho-Pass) · [Wikipedia — *Fringe* (TV series)](https://en.wikipedia.org/wiki/Fringe_(TV_series)) · [FringeWiki — Cortexiphan](https://fringe.fandom.com/wiki/Cortexiphan) · [Wikipedia — *Assassin’s Creed* (series)](https://en.wikipedia.org/wiki/Assassin%27s_Creed) · [Wikipedia — Cerebro](https://en.wikipedia.org/wiki/Cerebro) · [Wikipedia — *X2* (film)](https://en.wikipedia.org/wiki/X2_(film)) · [Wikipedia — Professor X](https://en.wikipedia.org/wiki/Professor_X) · [Wikipedia — Magneto (Marvel Comics)](https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)) · [Wikipedia — *Jeff Wayne’s The War of the Worlds* (1998 video game)](https://en.wikipedia.org/wiki/Jeff_Wayne%27s_The_War_of_the_Worlds_(1998_video_game)) · [War of the Worlds Wiki — Xeno-Telepath](https://waroftheworlds.fandom.com/wiki/Xeno-Telepath)  
-- **PP hub + peers:** [Predictive programming](/influence/predictive_programming/page.md) · [Mars fiction encoding (site)](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/)
+- **PP hub + peers:** [Predictive programming](/influence/predictive_programming/page.md) · [Mars fiction encoding (site)](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/) · **§5.8.3** [Chozo lore × Mars RV](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md)
 
 ---
 
-Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles #PredictiveProgramming #ChronoTrigger #ChronoTrigger2300AD #Enertron #Lavos #FictionBeforeDeclass #RedactedFact #SpaceVsTimeTravel #ScienceFictionRedaction #MinorityReport #Precrime #AssassinsCreed #Animus #PsychoPass #Fringe #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumCommons
+Keywords: #CIAReadingRoom #Mars #RemoteViewing #Stargate #MarsRV #MARSExploration1984 #LifeOnMars #TechnologyOnMars #FOIA #CREST #AIREvaluation #Disclosure #CurrentMartianCivilization1984 #DeepTimeMisdirection #RVMemoryChannel #TwoWayRV #TargetSidePerception #ArchiveAudit #RevelationOfTheMethod #DeclassChain #MFEE #MudFloodEnergeticEvent #MarsCatastrophe #PostMFEEcology #May221984 #ParadigmThreatFiles #PredictiveProgramming #ChronoTrigger #ChronoTrigger2300AD #Enertron #Lavos #FictionBeforeDeclass #RedactedFact #SpaceVsTimeTravel #ScienceFictionRedaction #MinorityReport #Precrime #AssassinsCreed #Animus #PsychoPass #Fringe #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumCommons #MetroidPrime #ChozoLore #Phazon #Phaaze #AU067 #ShadowRemainder
 
 **Substack:** [paradigmthreat2.substack.com/p/investigation-cia-reading-room-mars](https://paradigmthreat2.substack.com/p/investigation-cia-reading-room-mars)
 

@@ -165,12 +165,13 @@ The **deeper** grievance, in the author’s voice, is **not** “forums won’t 
 
 - [**Make Gordonston Great Again**](https://paradigmthreat2.substack.com/p/make-gordonston-great-again) — hyperlocal **§6.2.1** sibling: Hollywood shoot, Facebook ban, park + homework vision.
 - [**Mars Exploration 1984 — RV investigation**](https://paradigmthreat2.substack.com/p/investigation-cia-reading-room-mars) — verdict, MFEE table, optics fork, *Chrono Trigger* PP (section 5.8), **RV / precrime / Animus cluster** (5.8.1), FOIA posture.  
+- [***Metroid Prime* Chozo lore × 1984 Mars RV**](https://paradigmthreat.net/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) — NTSC Chozo **shadow / beyond space-time** return vs the same transcript; PAL cut as **AU-067** trim-back of PP that had already done its job.  
 - [**PDF full writeup**](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) — segment-by-segment MON/SUB.  
 - [**Iran / two-way investigation**](https://paradigmthreat.net/influence/controlled_opposition/investigations/cia-reading-room-rv-two-way-iran-revival-investigation.md) — Earth-side rhymes.  
 - [**Predictive programming hub**](https://paradigmthreat.net/influence/predictive_programming/page.md) — method: **data**, not verdict.
 
 ---
 
-Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumGovernance #CollectivePunishment #Liontamer #NSA #GulfOfTonkin #Hanyok #TwoCamps #DeclassificationFight
+Keywords: #Mars #ChronoTrigger #CIAReadingRoom #RemoteViewing #PredictiveProgramming #STARGATE #ParadigmThreatFiles #TwoWayPerception #MFEE #FictionAndDeclass #MinorityReport #Precrime #AssassinsCreed #Animus #Fringe #PsychoPass #XMen #Cerebro #Magneto #ProfessorX #WarOfTheWorlds #JeffWayne #OCReMix #ForumGovernance #CollectivePunishment #Liontamer #NSA #GulfOfTonkin #Hanyok #TwoCamps #DeclassificationFight #AU067 #MetroidPrime
 
 **Substack:** [paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on](https://paradigmthreat2.substack.com/p/was-chrono-triggers-plot-based-on)
