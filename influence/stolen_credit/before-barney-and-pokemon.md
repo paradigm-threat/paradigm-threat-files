@@ -2,9 +2,11 @@
 
 Remakes exist so nobody has to ask who still owns the leftover vision
 
+![Living-room NES years on one side of a torn Nintendo mark; Barney, Teletubbies, and Pokémon on the other](https://paradigmthreat.net/influence/stolen_credit/before-barney-and-pokemon.png)
+
 Nintendo split in half in our lifetime. The half that knew how to make a game is gone.
 
-If you were born in the 1990s, or late enough in the 1980s that purple dinosaurs and pocket monsters were already the water you swam in, you did not miss a few old cartridges. You missed a company. You missed a few years when a living room machine could feel like the best object a factory knew how to make, and then you spent the rest of your life being sold the wreck of that company under the same name. People my age still call your cohort the **Barney generation**, the **Teletubbies generation**, and the **Pokémon generation**, because those were the first major things that reached you. It is not an insult about taste. It is a date. The date is the problem.
+If you were born in the 1990s, or late enough in the 1980s that purple dinosaurs and pocket monsters were already the water you swam in, you did not miss a few old cartridges. You missed the real Nintendo. You missed a few years when a living room machine could feel like the best object a factory knew how to make, and then you spent the rest of your life being sold the wreck of that company under the same name. People my age still call your cohort the **Barney generation**, the **Teletubbies generation**, and the **Pokémon generation**, because those were the first major things that reached you. It is not an insult about taste. It is a date. The date is the problem.
 
 I grew up in the years before those shows. The Nintendo that arrived in our houses was still a craft shop that could be terrible at business and still ship something whole. The Nintendo you met is a brand office that can be excellent at business and still ship something hollow. The split happened in public. It was painful to watch. It was forced. The piece we loved is almost entirely out of reach. There is nothing on the horizon that uses that former half again. They are locked to new employees, new visions, and new gamers. Someday Nintendo will abandon even you.
 
