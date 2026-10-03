@@ -6,6 +6,8 @@
 
 The Wii U had HDMI and a second screen. *Star Fox Zero* used that layout. It was a real game, not a joke accessory demo. Nintendo never brought it to Switch. Platinum said it wanted the port. Nintendo went toward a more ordinary machine for newer users instead.
 
-If the 21st-century list is short, *Star Fox Zero* is on it, and you need the Wii U. That is the split in hardware you can still hold: [Before Barney, Teletubbies, and Pokémon](/influence/stolen_credit/before-barney-and-pokemon.md).
+Taken alone, that is a cancelled port. Taken with the split in living memory, it is the new half of the company locking the old half’s leftover craft on dead hardware. If the 21st-century list is short, *Star Fox Zero* is on it, and you need the Wii U.
+
+[Before Barney, Teletubbies, and Pokémon](/influence/stolen_credit/before-barney-and-pokemon.md).
 
 Keywords: #StarFoxZero #WiiU #Nintendo

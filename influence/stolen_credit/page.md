@@ -17,7 +17,7 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 | [Nintendo vassal-hardware investigation](investigations/nintendo-vassal-hardware-self-sabotage-investigation.md) | Full dossier — postwar test, BC fork, corroboration vs weaknesses |
 | [IP enclosure / public domain (**AU-066**, open)](investigations/ip-public-domain-enclosure-nintendo-disney-investigation.md) | Term extensions, Pixel Remaster, trademark/DMCA stack; campaign delays the commons, it has not made “never” |
 | [Before Barney, Teletubbies, and Pokémon](before-barney-and-pokemon.md) | Letter to the later cohort: Nintendo split, the maze, the short 21st-century playable list |
-| [Q&A — Nintendo after the ads](qa/page.md) | Short answers: remakes do not reset the clock; Returns missed the Cube; *Star Fox Zero* on Wii U |
+| [Q&A — Nintendo after the ads](qa/page.md) | Stacked answers: remakes must exist or the vault question opens; sitting forever is already a political attack |
 | [*FFVII* story sabotage — Midgar / Jenova / Zack / false-memory (**AU-055**)](investigations/final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Platform rip; Zack as false-memory tool; *Mother 3*/*Notebook*/Magypsy cluster; suicide-agenda author lock |
 | [*Mother 3* / EarthBound 64 — Magypsy / rupture (**AU-056**)](investigations/mother-3-earthbound-64-magypsy-rupture-investigation.md) | Magypsy vs Reggie business; N64 cancel (not finished vault); SFC/pre-render rumor; Hamano credit-omission parallel to FF7 |
 | [Square Battle System Lineage](square-battle-system-lineage.md) | Nasir Gebelli (Iran/revolution); FF5 never in US; FF12 lost Matsuno; talent exodus |

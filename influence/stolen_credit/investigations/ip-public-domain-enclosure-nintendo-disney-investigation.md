@@ -63,6 +63,10 @@ Captured **2026-10-03** from the request that opened this file. Cleaned only for
 
 > Kids born in the 1990s, and many born in the late 1980s, missed the Nintendo revolution and then watched only the company it collapsed into. This is not only video games. People in that older kid-cohort call the next cohort the Barney generation, the Teletubbies generation, and the Pokémon generation, because those were the first major influences in their lives. What came before left a kind of wisdom by the time those shows and games arrived. That wisdom is not much use as ordinary life advice. It is useful for walking the maze that grew out of the divisive decisions, Nintendo’s above the rest. The sabotage was always at the highest level, against the lower-level people who put the love into the product. The punishment landed on everyone else: divisive hatred, extremely high prices, extremely low shoddy games, and no control over the message. If you have something to say in a game, by the time it is published the message has become something else. Nintendo split in half in living memory. Someday Nintendo will abandon even the later cohort.
 
+**Addendum, fifth pass, same day.** Political close of the letter. Do not paste the essay into the tables.
+
+> Nintendo’s 1980s titles were not the Mickey campaign that shoved a 1928 cliff backward. The remakes still have to exist. Their substandard, divisive quality is the proof the companies cannot sit silent, because silence would open the question they have not answered: may a holder lock a finished world forever and refuse every other vision that was already in the first version, even when critics write at Weather Channel volume. Isolated complaints look like raining on a parade. The stacked pattern is a political attack so ordinary people never compete. That outcome is already here. The leftover divider is only whether it is good.
+
 ---
 
 ## 2. Assessment

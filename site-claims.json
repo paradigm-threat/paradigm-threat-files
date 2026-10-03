@@ -2409,7 +2409,7 @@
     "id": "barney-teletubbies-pokemon-generation",
     "title": "Barney, Teletubbies, and Pokémon generation",
     "claim": "Kids born in the 1990s, and many born in the late 1980s, missed the Nintendo craft years. Barney (1992), Teletubbies (BBC Two, 31 March 1997), and Pokémon (1996 Japan / 1998 US cartoon) were their first major influences. Nintendo split in half in public; the former half is gone.",
-    "answerOpener": "Those names are a date. Barney, Teletubbies, and Pokémon were the first major software of a life for kids who never saw the Super NES peak. The Nintendo they met is the brand after the split.",
+    "answerOpener": "Those names are a date. Barney, Teletubbies, and Pokémon were the first major software of a life for kids who never saw the Nintendo years as the previous generation did. The Nintendo they met is the brand after the split.",
     "bullets": [
       "Barney 1992, Teletubbies 31 March 1997, Pokémon 1996/1998.",
       "Older kids use the labels because those were first influences, not as a taste insult.",
@@ -2449,17 +2449,17 @@
   },
   {
     "id": "remake-does-not-reset-copyright",
-    "title": "A remake does not restart the copyright",
-    "claim": "Pixel Remasters and Switch ports do not add a day to the original game’s term. They occupy the storefront and answer “not for sale.” US corporate copyright on 1980s games still runs into the 2080s. The 1998 term extension is the actual postponement of the public domain.",
-    "answerOpener": "No. A new edition copyrights only the new art and code. The 1987 Final Fantasy keeps 1987. A store page remake is how a long term looks decent, not how the term gets longer.",
+    "title": "Remakes do not reset the clock; they still have to exist",
+    "claim": "Nintendo’s 1980s games were not the 1998 Mickey campaign. A remake still does not add a day to 1987. The remakes, especially the substandard divisive ones, exist because sitting silent would open the unanswered question: may a holder lock a finished world forever.",
+    "answerOpener": "No, a Pixel Remaster does not restart 1987. That is not a defense. The copies still have to ship so the vault question never becomes public. Their bad quality is the proof of that necessity.",
     "bullets": [
-      "Derivative copyright covers new expression only.",
-      "Switch Online is a rental of the back catalog.",
-      "Libraries may circumvent a lock only when a game is no longer reasonably available."
+      "Mario was not approaching a 1928-style cliff in 1998.",
+      "New art copyrights only the new expression.",
+      "Silence would force the sit-forever ethics question."
     ],
     "confidence": "project-thesis",
     "uniqueness": "site-distinctive",
-    "uniquenessNote": "The legal rule is standard copyright. The demand-sink plus not-for-sale strategy is this site’s package.",
+    "uniquenessNote": "Hygiene copyright is public. Remake-as-necessity-to-avoid-the-vault-question is this site’s package.",
     "topics": [
       "copyright",
       "public domain",
@@ -2467,6 +2467,7 @@
       "nintendo switch online"
     ],
     "demoQuestions": [
+      "Did Nintendo shove its copyright backward like Disney?",
       "Did the Pixel Remaster restart Square’s copyright?",
       "Why ship remakes if the law already protects the old game?"
     ],
@@ -2476,14 +2477,17 @@
     "canonicalPaths": [
       "influence/stolen_credit/investigations/ip-public-domain-enclosure-nintendo-disney-investigation.md",
       "influence/stolen_credit/before-barney-and-pokemon.md",
-      "influence/stolen_credit/qa/q02-does-remake-restart-copyright.md"
+      "influence/stolen_credit/qa/q02-does-remake-restart-copyright.md",
+      "influence/stolen_credit/qa/q03-why-remakes-if-already-owned.md"
     ],
     "relatedClaimIds": [
-      "barney-teletubbies-pokemon-generation"
+      "barney-teletubbies-pokemon-generation",
+      "sit-on-ip-political-attack"
     ],
     "doNotSay": [
       "A remake restarts the original game’s copyright clock.",
-      "Silence puts Final Fantasy in the public domain."
+      "Silence puts Final Fantasy in the public domain.",
+      "Nintendo ran the same 1998 Mickey rescue for Mario."
     ]
   },
   {
@@ -2526,6 +2530,49 @@
     "doNotSay": [
       "Every 21st-century game is listed and ranked.",
       "Star Fox Zero was ported to Switch."
+    ]
+  },
+  {
+    "id": "sit-on-ip-political-attack",
+    "title": "Sitting on IP is a political attack",
+    "claim": "A holder sitting on a finished world, shipping a lesser official copy, and ignoring critics who loved the original is already the present. Isolated complaints look like raining on a parade. The stacked pattern is enclosure so ordinary people never compete. The leftover divider is only whether that outcome is good.",
+    "answerOpener": "Yes they can sit forever under current term practice. That is the problem. Letters at Weather Channel volume would still not pry the world into competing hands. The leftover fight is not whether this leads to controlled information. It already did.",
+    "bullets": [
+      "Pieces look like an old fan spoiling launch week.",
+      "The complete case has to be made at once.",
+      "The leftover divider is only good vs bad on that outcome."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Ordinary IP commentary stops at term length. The political-attack close and the raining-on-parade warning are this site’s package.",
+    "topics": [
+      "public domain",
+      "nintendo",
+      "weather channel",
+      "pixel remaster",
+      "enclosure"
+    ],
+    "demoQuestions": [
+      "Can an IP holder sit on a game forever?",
+      "Isn’t this just raining on a parade?",
+      "What is the leftover political divider on remakes?"
+    ],
+    "searchQueries": [
+      "sit on copyright forever nintendo remake political"
+    ],
+    "canonicalPaths": [
+      "influence/stolen_credit/before-barney-and-pokemon.md",
+      "influence/stolen_credit/qa/q08-sit-on-ip-forever.md",
+      "influence/stolen_credit/qa/q09-raining-on-the-parade.md",
+      "influence/stolen_credit/qa/q10-leftover-political-divider.md"
+    ],
+    "relatedClaimIds": [
+      "remake-does-not-reset-copyright",
+      "barney-teletubbies-pokemon-generation"
+    ],
+    "doNotSay": [
+      "A remake restarts the original copyright.",
+      "This is only a taste complaint about one launch."
     ]
   }
 ]
