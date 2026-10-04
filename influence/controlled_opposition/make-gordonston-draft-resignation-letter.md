@@ -1,118 +1,117 @@
 # Draft — letter of resignation from Gordonston volunteer participation
 
 **Status:** **DRAFT ONLY — NOT SENT, NOT ISSUED.**  
-This file is a backup plan if the neighborhood does **not** hold an **affirmative vote** on the issue below before the **Gordonston Art Fair** needs people who have done my volunteer work. It can be revised or thrown away if **GNA**, trustees, or leadership meet that bar. Nothing here counts as notice until I send a dated copy to named recipients.
+Nothing here counts as notice until I send a dated copy to named recipients.
 
-**Why this draft exists now:** I am not picking a random deadline. The next **Gordonston Art Fair** is expected **late 2026 or early 2027**. Ads, tickets, and payment setup usually start **months** before the show. Anyone planning around **gordonstonartfair.com**, vendors, or my past web work needs **advance warning** — I will **not** help hand things off to someone else, and I will **not** volunteer again **until** the neighborhood has **voted and agreed** as described below (or I send this resignation before that fair).
+**When to send (author plan):** **Not** in fall 2026. Wait until the **2027 fair year is complete** — **booth fees collected**, money **transferred to the destination bank**, **jurying** (including **late entries**) finished, leftover **email** traffic handled. Then send. After send: **free emails for six months**; **site stays up through 2027**; **no public countdown date on the website**; **hard delete December 31, 2027**.
 
 **Author:** Ari Asulin  
-**Draft date:** 2026-06-04  
-
----
-
-## Minimum (vote and agreement — must happen to withdraw this draft)
-
-This is **not** a demand that the park reopen tomorrow. I am looking for a **vote** and **neighborhood agreement** on one issue:
-
-**The neighborhood agrees** — by an **affirmative vote** — that **Juliette Gordon Low Park** will **reopen to Twickenham** as part of **any** serious **reconstruction or rebuild** effort (signage, grounds, **Mary Calder Cottage**, playground, policy — whatever you call the project). That commitment does **not** have to carry a completion date. I know it may take time to find money and make plans. What I need settled is the **principle**: Twickenham is **in**, not permanently outside the fence.
-
-**What satisfies me:** A real vote is held, it **passes in the affirmative**, and the outcome is clear that **reopening to Twickenham** is part of the neighborhood’s plan for the park going forward.
-
-**What triggers this resignation** (before the next Art Fair):
-
-- The vote **does not happen**, or  
-- The vote **fails**, or  
-- The vote is **delayed** past the point where fair planning would normally pull me back in — **delay is the most likely failure mode**, and I will treat endless postponement the same as a **no**.
-
-I **live on the edge of an apartheid**, but **I won't support it**. If this neighborhood cannot **vote yes** on Twickenham as part of repair, I will not keep volunteering through another fair season.
-
-**Timeline (not something I made up):** The vote needs a clear outcome **before** the Art Fair **production ramp** — ads, tickets, payment processing — would normally pull me back in **months** ahead of a **late-2026 or early-2027** fair. *[Insert send-by date once fair committee publishes its calendar; until then treat “before summer/fall 2026 web & vendor lock-in” as the practical warn-by window.]*
-
-If the vote does not happen, fails, or is run out on delay, I intend to send the letter below (or a tightened version) and follow through — **no transition help**, **no return** to fair or neighborhood volunteer work until that agreement exists.
-
-**Strong preferences (not required to withdraw this draft):** Once the vote passes, I still want leadership to adopt **reasonable rules in writing** that **mitigate** their concerns (noise, wear, liability, whatever) — **not blanket bans** that shut out whole neighborhoods or user groups; **Avondale** treated like **Twickenham** on access; and **real repair** on the grounds, not signs alone. I am **not** prescribing head counts or a rulebook from the outside. Those are how I think a healthy park should run — they are **not** what this vote has to schedule.
-
-**Not part of the minimum (notes for the letter):** Everything in **“Leadership”** below is **context** — why trust is gone, not part of the vote ask. **Dog-owner access**, **deferred park repair**, and **Hollywood** beyond “last straw” are **not** conditions to withdraw this draft.
+**Draft date:** 2026-10-04
 
 ---
 
 ## Letter (draft text — not sent)
 
-**Subject:** Resignation from Gordonston volunteer participation — park access vote not held or not passed
+**Subject:** Resignation from Gordonston volunteer work — Art Fair website through 2027, deleted December 31, 2027
 
-To Gordonston Neighborhood Association leadership, Juliette Gordon Low Park trustees, and neighbors who use this corridor for children:
+To Gordonston Neighborhood Association leadership, Juliette Gordon Low Park trustees, Art Fair organizers, and neighbors on this corridor:
 
-I am writing to **resign** from **volunteer work** in Gordonston neighborhood programs, events, and web projects I have helped with (including **[gordonstonartfair.com](https://gordonstonartfair.com)** and related outreach), effective **[date]**.
+I am writing to **resign** from **volunteer and underpaid professional work** I have done for Gordonston programs — above all **[gordonstonartfair.com](https://gordonstonartfair.com)** (site, artist checkout, jurying flow, and related outreach).
 
-I am putting this in writing **now** — while this file is still a **draft** until the vote below fails — because **the fair’s calendar drives the timing, not my mood**. The next **Gordonston Art Fair** is slated for **the end of this year or early next year**. Ads, tickets, and payment setup all start **months** before the event. People who have counted on my web work and fair-season help deserve **warning** before that ramp starts. I will **not** help with **handoff** or train a replacement. I will **not** help **again** — not with the website, not with fair operations, not with neighborhood programs — **until** the neighborhood has **voted and agreed** as described below. That is not a bluff; it is lead time.
+I am sending this **after** the **2027** fair cycle is **done as a business year**: **booth fees collected**, funds **in the destination bank**, **jurying** finished (including **late entries**), ordinary **email** follow-up handled. I will not yank the rails out from under artists mid-season.
 
-This is not drama for its own sake. I asked for something small and concrete: a **vote** and **agreement**.
+**What happens to the site**
 
-**What I asked for:** That this neighborhood **vote** — and **pass in the affirmative** — that **Juliette Gordon Low Park** will **reopen to Twickenham** as part of **any** real **reconstruction or rebuild** you pursue. I am **not** demanding a reopening date. I am **not** demanding that money appear overnight. I know plans and funding can take time. I need the **principle settled**: **Twickenham is in**, as part of how this corridor fixes the park after **2011** — not left outside the fence forever.
+- I will **leave the website up for the rest of calendar year 2027**. I will **not** put a **public shutdown date** or countdown on the site. The committee is being told here, in writing.  
+- I will **send operational emails for free for six months** after this letter (late entries, “where is my invoice,” that class of mail).  
+- I will give the **next webmaster** **instructions and advice**, and I will **tell them why I quit**.  
+- On **December 31, 2027**, the **entire website**, **all of its data**, and **all of its code** will be **deleted**. I will **wash my hands** of **anything related to Gordonston Park** after that date.
 
-**What I got instead:** No vote, a failed vote, or — most likely — a vote **kicked down the road** until fair season would drag me back in without an answer. That is the same as **no** to me.
+I love **history**. I still **respect** a great deal about this neighborhood. I will **not** put more unpaid or discount labor into **unethical, deceptive, or scammy** behavior, or into **cantankerous** refusal to **change** or **admit fault**.
 
-I am **not** asking for a park with no rules. I am asking you to **come up with reasonable rules** that **mitigate** your concerns — not **blanket bans** that write off **Twickenham**, **Avondale**, dog walkers, or ordinary families. Posted hours, permits for heavy use, and **Mary Calder Cottage** rental are **fine** if they are **fair**. I am **not** setting a number or handing you a script; that is your job as stewards. Those norms are **preferences** once you agree Twickenham belongs in the rebuild; they are **not** what the vote has to calendar.
+I do **not** expect the park or the tax story to budge. I looked at the **public record**. It looks locked in. This resignation is because **faith in this place as a charity or a community park is gone**, not because I think a letter will reopen the gates.
 
-I asked for a **neighborhood decision**, not a lawsuit. I **live on the edge of an apartheid**, but **I won't support it** while leadership will not even **vote yes** that **Twickenham** is part of the fix.
+### What I was told — and what the paperwork actually shows
 
-### The history I was sold — and the history I learned
+When I was first brought in on the **Art Fair**, I was **fully under the impression it was a charity**. **Neighbors said so.** **Public write-ups and the old history** still talk that way: Juliette Gordon Low, children, Girl Scouts, a gift “into perpetuity.” I believed it. I wanted to belong to that story.
 
-When I first moved here, neighbors kept telling me how **wonderful** the history is. I **believed it**. I wanted to belong to a place that sounded like a children’s legend made real.
+I had to **dig** to find **2011–2012**. That is when Chatham County Tax Assessor **staff** told the *Savannah Morning News* the park **did not and never would have qualified** as a **“purely public charity.”** Computer records they could still see went back to **about 1985**; **older exemption paperwork was missing** — so **nobody can prove the start date from the surviving file**. The **charitable property-tax exemption** was the issue in that fight. By **tax year 2012** the parcel is on the digest as **taxable**. Since then the trust has **paid the bill**.
 
-Since then I **actually learned** the history — not only the brochure version. **Gordonston’s** children-first tradition **helped inspire the world**: **Juliette Gordon Low**, the park gift, troops and Brownies on this ground for decades. The record includes **many Black Scouts** and, at certain points in council history, **prominent Black leadership** in the **Girl Scouts** — not a footnote, part of what this corridor once carried openly.
+**How long did that exemption last?** Treat it as a **range**, not a slogan:
 
-What I learned next was the **more recent** story — the one that seems to have **erased** much of what used to exist here. Over time, **Black children were no longer welcome** in the park culture that older press and older neighbors still invoke. That drift did not stay informal. It **hardened** — gate scenes, **Residents Only**, the **2011** fight that never finished — until exclusion read as a **permanent rule** for people on the wrong side of Gwinnett. I can only imagine what **Juliette Gordon Low** would think if she could see the neighborhood as it operates today: the worldwide children’s legacy on one side of the sign, **Twickenham’s children** on the other.
+| Bound | Years tax-free (charity exemption) |
+|---|---|
+| **What the office could still see** | **~1985 through 2011** — about **26–27 years** |
+| **If it started with the 1928 trust conveyance** | **1928 through 2011** — about **83 years** |
+| **If it started with the 1948 cottage / Scout era** | about **63 years** |
+| **End** | **~tax year 2012** (bill on the digest; paid receipts on the public site from **2014** on) |
 
-I am **not** saying every trustee or volunteer acts from malice. I **am** saying I cannot put my name on your fair, your website, or your closed groups while the **day-to-day practice** betrays the **founding story** neighbors still tell newcomers. I hope this letter helps **others** see that — not as politics, but as conscience. **Vote** that **Twickenham** is part of the repair, and you start to fix the story. Until then, my labor and my name stay off your volunteer stack.
+**83 years** is the **honest ceiling** if the break began when the estate put the park in trustees’ hands. **26 years** is the **floor** we can still **look up**. Either way, staff said it **never qualified** — so however long it sat on the roll, it was **wrong the whole time**.
 
-It is starting to seem those fixes are **not possible** here — not because the will and the history are gone, but because **current leadership** has let this place become **divisive**, **fractured**, **intimidating**, and **petty** — easy to deny in public, easy to joke off, and still **documented** for anyone willing to look.
+Anyone can look this up. I am not asking you to take my word:
 
-### Leadership (not the vote — why trust is gone)
+- **PIN 20040 28001** — **10 Edgewood Rd** — **Juliette Magill Low Trust** (care of the park trustee on the tax card).  
+- **Chatham tax site** ([chathamtax.org](https://www.chathamtax.org/)): **no exemption** on the exemptions tab. **Paid** about **$700–$790 a year** from **2014 through 2025**; **2026** first installment half-paid, rest still due in the ordinary cycle.  
+- **Fair-market value** on the digest sat near **$135,800 (2020)** and was cut to **$60,000 (2022)** — about **half** — while houses on this block keep getting **reappraised up**. **2025** FMV is **$67,500** on **3.0 acres** listed as a park. That is not a leftover charity checkbox. It is still **park-priced tax** on land run as a **private club**.
 
-The **vote** above is only the **floor** — what I would need to stay in the room. Everything here is **not** part of that vote. It explains **why** I do not trust the culture that sets the rules.
+For **at least ~26 years**, and **up to about 83 years** if the exemption rode with the **1928** gift, they enjoyed **charity exemption** while **Residents Only** (from **~2001**), locked gates, and **2011** “call police on outsiders” were the practice. **Girl Scout council** had been **without reliable park access for years** by 2011. In that same fight a **Twickenham** neighbor offered on the order of **$100 a year plus volunteer cleanup** to keep a **life routine** in the park. The answer was **precedent** — let one outsider in and you have to let all — not “too little money.”
 
-This place has become **divisive**, **fractured**, **intimidating**, and **petty**. I do not say that for effect. The same script keeps running:
+**Dues, cottage rental, and Art Fair booth fees** are how this ground is **monetized**. You do not need concert tickets. **Required club money and a guest list** are the cover charge. **Twickenham could not buy a seat at any price.**
 
-- **Twickenham** — an **entire neighborhood** **written off** by the feud and the gate, as if one long fight could erase decades of ordinary use.  
-- **Dog owners** — **the same pattern**: **one incident** at the iron gate becomes the story **forever**, and a **whole group of neighbors** loses the park. I do not like that. **Whole neighborhoods** — and **whole user groups** — should not be shut out because leadership would rather freeze a **single bad day** than post fair rules. **Something should be done for dog owners as well** — posted access, ordinary leash-and-cleanup norms, an end to permanent exile over one gate fight. That belongs in a healthy park culture. It is **not** part of the vote ask; it shows why I do not trust who sets the rules.  
-- **Deferred repair** — **Mary Calder Cottage**, the playground, and the grounds could likely have been **fixed long ago** if **whole neighborhoods next to Gordonston** had been **partners** instead of **shut out**. When you treat Twickenham, dog walkers, and fair-season volunteers as problems, you should not wonder why things rot and the volunteer bench empties.
+That is the **paperwork scam** in plain English: **charity tax (then park-cheap tax) without operating as a public charity.** It is **on the roll**. I am more tired of **how this neighborhood answered** when it was pointed out.
 
-I could go on about gossip, who gets heard at the association table, and who is told to “petition” at a gate. I am not asking you to agree with every sentence. I am saying the **vote** exists because **leadership** would not move without forcing the question.
+### The 501(c)(3) call — when I still believed you
 
-### The last straw (Hollywood / Facebook)
+Under that **original impression**, I tried to put the Art Fair on a **501(c)(3)**-supported network so **artists** could get **free services**, **no fees**, **no extra tax friction** — the public-charity route people had **sold me**.
 
-The **Hollywood** incident was the **last straw** — not the first wound, and not what this letter is mainly about. I could write at length on **taxpayer-backed police**, **traveling crews**, and **industry money** that never hits a neighborhood ledger; **I will not do that here.** What matters for this resignation is what happened **after** I spoke on **Gordonston on Facebook**:
+I called the **park trustee**. I explained myself. **He hung up.** He did not even speak. Later it was explained as **not trusting my Arizona area code**. What I came to understand, slowly, was that he **did not want the 501(c)(3) path at all** — not the **public charity** route, not a **nonprofit** that would have to **act** like one. I did not understand the resistance then. I saw **drama** pile up around **one small ask**.
 
-An admin (**Jack Taylor**, on the public record) **deleted** a post about **filming and public cost** before I could finish a reply, **purged** my posts, **removed** me from a group used for **cat rescue and other programs**, and **denied** any path to **appeal** the rule he alone interpreted. His public note cited **“no politics”** and **“no personal attacks”** while admitting I was **complaining about being banned** — I had **not** attacked any neighbor before or after removal. The framing did not match what I had actually posted. The **hardest** part was not one admin: **almost no one spoke in the thread when it mattered**. Private messages of support came **after** — **after the fact does not matter**. Everyone watches. I already know I am **not crazy** and **should not be treated this way** as a neighbor.
+So I **built the entire site myself**, at an **extreme discount** against **25 years** of professional web work. That was **little more than an act of faith** in **Gordonston Park** and in **this community**.
 
-### The intimidation factor
+That faith is **permanently shattered**. I do not believe these grievances will be **redressed**. A resignation is due.
 
-By **intimidation** I do not mean only loud threats. I mean what happens when people **break their own rules and the norms neighbors claim to believe in** — and everyone **looks the other way**.
+### I am more disappointed in the community than in the leaders
 
-One example: a **hashtag campaign** was developed and posted around this dispute. Someone **messaged my wife** and asked **her** to ask **me** to remove my post. In the end I agreed — but **only** because of a **deal I made with my wife**, not because the neighborhood square had answered anything on the merits. From the outside that can look like me **giving in** to people who are willing to **break the rules** to get their way. I could describe what that opens at home only as the start of a **spouse war** — pressure routed through family instead of answered in public. I will not run my household or my name through that again for the sake of a Facebook group.
+**Corruption** in a small trust and a gated park is **understandable**. It is **common**. What actually matters is **everyone else’s reaction**.
 
-From the **gossip** I have already heard about this neighborhood, I can see how that pattern is **normal here**: when it happens, **nobody calls it out**. People watch. Private messages arrive later. **After the fact does not matter.**
+I have already been **banned from the online community** (**Gordonston on Facebook**). **Not one person** stood up for me in the thread when it counted. People told me **that’s just the way it is**. Private kindness **after** a purge does not count.
 
-That is the same pattern as the admin delete and the purge — easy to deny, easy to **laugh off**, still **real**. I cannot keep **showing up** in a place where breaking norms is routine and calling it out is optional.
+Then every poster I put on the **public bulletin board in Gordonston Park** was **ripped down**. Some were **crumpled**. I got **nasty notes** back — wild accusations, **lizard people**, the whole carnival — because years ago there were **Trump signs** in my yard. That is not a debate about the park. That is **punishment for a lawn**.
 
-I will not pretend this is a healthy neighborhood square that treats **good-faith questions** as **politics**, **censorship** as **goodwill**, **family pressure** as **consensus**, and **silence** as **peace**.
+The **Hollywood / filming** fight was a **last straw** in a closed group, not the first wound. An admin deleted my post, removed me, and dressed it up as **“no politics.”** The **hardest** part was the **silence**. I will not relitigate every Facebook hour here.
 
-**What I am stepping back from**
+I **live on the edge of an apartheid** at Gwinnett — **Twickenham** on one side of the sign, **Gordonston** on the other — and **I will not volunteer to paint it pretty**. I am **angrier at the neighborhood that shrugged** than at the officials who benefit. Leaders will keep a **good tax deal** if no one makes them stop. **You** told me that is **just how it is**.
 
-- Further **volunteer work** on the **Gordonston Art Fair website**, **ticketing**, **ads**, and **payment processing** tied to the fair.  
-- **Transition** support — finding vendors, training a replacement, or keeping systems warm so the committee can pretend nothing changed.  
-- **Showing up** for **neighborhood programs and events** in a volunteer or organizer role — **ever again**, unless the **affirmative vote** above has passed first.
+### What this park is — say it out loud
 
-**What I am not abandoning**
+This is **not a community-run park**, even though **many people volunteer**. Volunteers are **free labor** on **private trust land**. Someone **collects the money** (dues, cottage, fair) and **decides who may stay**. That is **redundant** to write down. People still need to hear it, because the **brochure** still sounds like **Daisy Low and Savannah’s children**.
 
-- My **home** on this corridor.  
-- My **daughter** — you may still see us at the park **only** to bring her there when access allows; that is **parenting**, not volunteering for your programs.  
-- My right to speak **outside** closed groups — including the public record in [Make Gordonston Great Again](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again.md) and linked investigations.
+It is an **ethical** issue, a **racial** issue (who the corridor **used** to hold, and who the **gate** holds now), a **political** issue, and a **generational** one. I do not expect my generation or younger to **volunteer here for free** while the place is **privately owned and operated** as a **guest list**. That is not a threat. It is a **forecast**.
 
-If leadership later holds a vote that **passes in the affirmative** — **Twickenham** included in **any** neighborhood **reconstruction or rebuild** plan for the park, with no requirement that I set the construction timeline — I will reconsider **helping** again. Until then, consider this **resignation** firm.
+**Posted hours, fair rules, and cottage rental** can exist on a park that is **honest**. **Residents Only** plus **park-priced taxes** plus **“we’re a charity” talk** cannot.
 
-It is **nothing personal** toward individuals I have worked with. If you **disagree** with what I have said here — about the park, the ban, the silence, the intimidation — then for you it may be personal. I am still writing as a neighbor who hoped this place could match its story.
+### Why I do not expect a real charity — and what I do expect
+
+To become a **full public charity** **today**, the trustees would have to **give up too much**. They would have to find **money and manpower** to **rebuild** a park they have let slide, and I do not see how they do that **without reopening to Twickenham**. That is the whole trade: **qualify as a charity** by **acting like one**. I tried the **501(c)(3)** door when I still believed the brochure. I was hung up on. I am not going to pretend that route is **practical** now. It looks **almost impossible** from inside this guest list.
+
+The **more likely** path is simpler and uglier: **let the park rot**, keep the **token tax** on a **$60k–$67.5k** appraisal, and wait. They are **already off** the old **charitable exemption**. What they still have is the **scam tax rate** — **park-priced land** for **club use**. People will notice that **bargain** the way Twickenham noticed the **exemption** in **2011**. Then there will have to be a **political** fight, because the alternative is **reappraisal** that could make the bill **untenable** if this ground were valued like **Gordonston lots** instead of a forgotten park.
+
+I am **not** claiming I know the exact **mechanism** — Board of Assessors, a digest challenge, city hall, a campaign season. I **am** claiming the **same political will** that **priced this land cheap** can, in principle, run **the other way**. **Elections** matter for who sits in those offices. **After** the elections, people are **still answerable** for a **private club** on a **public-charity story** and a **private-park tax base**. I am finishing the **2027** fair year I already owe the artists. I am **not** staying after **December 31, 2027**.
+
+### What I will still do (through 2027 only)
+
+- **Finish the year:** Keep the site and checkout up until the **2027** fees are **collected and transferred**, jurying and **late entries** are done, then keep the site **live through December 31, 2027** with **no public countdown**.  
+- **Email:** **Free** operational email for **six months** after this letter.  
+- **Handoff:** Instructions and advice for a **new host and programmer**. I will **warn** that person **why I quit** — private property, guest-list park, cheap or free labor unless they **themselves** believe in the fair **as it actually is**. Doing it **for money** is fine. Doing it **as charity** is a **lie** I will not help repeat.  
+- **Home:** I am **not** leaving this corridor. My **daughter** may still be in the park when access allows. That is **parenting**, not volunteering for your brand.
+
+### What I will not do
+
+- After **December 31, 2027**: **no** site, **no** data, **no** code, **no** Gordonston Park labor — **hands washed**.  
+- Feed more **deceptive** “we’re a charity” talk, **scammy** tax-and-guest-list practice, or **cantankerous** refusal to **admit fault**.  
+- Pretend I still think a **neighborhood vote** is coming that will fix this. I asked for **Twickenham in** as a **principle**. I do not see it.
+
+It is **nothing personal** toward people I built pages with. If you **disagree**, it may be personal **for you**. I am a neighbor who **did the work on faith** and then **read the roll**.
 
 Respectfully,
 
@@ -124,21 +123,20 @@ Respectfully,
 
 ## Internal notes (strip before send)
 
-- **Recipients (draft):** *[GNA board contact, park trustee contact, optional copy to city council district office if author chooses — not listed here.]*  
-- **Do not send** while vote window is open unless leadership clearly refuses a vote, delays past fair ramp, or vote fails.  
-- **Art Fair calendar:** Confirm committee’s published date; back-plan **months** for ads/tickets/merchant processing before locking send-by date.  
-- **Transition:** Author explicitly **declines** handoff — recipients must plan alternate web/ticket lead **without** author labor.  
-- **Tone check:** Letter is resignation from **volunteer participation**, not a threat to leave Savannah.  
-- **Jack Taylor:** Named because of **public admin statement** on record; not a demand for personal punishment.  
-- **Hashtag / wife message:** Author-supplied; **messenger not named** in send version unless author chooses. Strip or soften if sent to wide list.  
-- **“Spouse war”:** Author phrase — consider whether to keep in letter to trustees vs. reserve for private cover note.  
-- **Dog owners / single-incident pattern:** Not vote tier; moral context only — same pattern as Twickenham “whole neighborhood written off by one incident.” **2011** press dog-walker gate scene: dossier **R1**.  
-- **Mary Calder Cottage / deferred fix:** Author opinion — alienation delayed repair; not part of vote floor.  
-- **Vote floor:** Affirmative neighborhood vote that **Twickenham reopening** is part of **any** rebuild/reconstruction; **no** completion date required; **delay** = trigger same as fail.  
-- **Hollywood:** **Last straw** in letter only; full ethics lane in [MGGA](make-gordonston-great-again.md).  
-- **Black Scouts / Girl Scout history:** Author ethical read; expand with dossier primaries if letter is sent. **Not proven:** racist intent behind every trustee act — lived exclusion + **2011** press (**R1**).
-
----
-
-Keywords: #make #gordonston #draft #resignation #letter #volunteer #participation
-
+- **Recipients (draft):** GNA board, park trustee, Art Fair committee; optional city council copy.  
+- **Send after 2027 fair money is in the bank** + jurying/late entries done — **not** fall 2026.  
+- **Site:** live through **2027**; **no public countdown** on the website; letter to committee states **delete Dec 31, 2027** (site + data + code).  
+- **Email:** free **6 months** from send date.  
+- **Fair date:** Confirm [gordonstonartfair.com](https://gordonstonartfair.com) still lists **March 6, 2027**.  
+- **501(c)(3):** Never write **401(c)(3)**. Trustee hang-up = **author recollection**; later “Arizona area code” = **author recollection**. Public tax owner/trustee contact: **Harald von Fischer-Benzon** (2011 press + 2026 tax card C/O). Confirm it was him before naming in the send version if you add the name.  
+- **Exemption duration:** Floor **~1985–2011 (~26–27 yrs)**; ceiling **1928–2011 (~83 yrs)**; mid **1948–2011 (~63 yrs)**. End **~tax year 2012**. Do **not** say they are still exempt. Do **not** say “83 years proven.”  
+- **PIN 20040 28001:** FMV **$135,800 (2020) → $60,000 (2022) → $67,500 (2025)**; paid **~$700–$790/yr**; exemptions tab **empty**. Acreage on card **3.0** vs ~7 acres in press — do not blur.  
+- **$100 offer:** SMN **2011**; trustees told paper they were **unaware** — keep if you name the offer; don’t claim a formal trustee vote to refuse.  
+- **Concert tickets:** Do **not** use. Dues + cottage + booth fees.  
+- **Handoff:** Finish 2027 money/jurying; free email 6 months; site up remainder of 2027; **no public kill date**; **delete Dec 31, 2027**. Old “six months before the fair” send plan — superseded.  
+- **Vote ultimatum:** Removed as the trigger. Letter is **resignation**. No fake “if you vote I’ll stay.”  
+- **Lizard people / Trump yard / crumpled posters:** Author-supplied; keep in send version unless you want a shorter trustee-only letter.  
+- **Jack Taylor / Hollywood / wife-hashtag:** Shortened; full thread still in MGGA. Add names back only if you want the Facebook hour in this letter again.  
+- **Racial / apartheid:** Author ethical read; **2011** press does not prove racial intent as a court fact.  
+- **Tone:** Community failure > leader corruption; paperwork is **look-up-able**.  
+- **Charity-now vs rot:** Author forecast — full **48-5-41 / 501(c)(3)** would require **Twickenham in + rebuild**; default = **neglect + keep low FMV** until **political** reappraisal pressure. Do **not** say rotting **automatically** raises taxes. Do **not** say they still have the E3 exemption.
