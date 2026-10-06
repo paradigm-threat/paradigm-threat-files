@@ -1,13 +1,21 @@
 # Investigation: Scientology OT III / Xenu — recovered Earth history, Mars catastrophe parallels (**AU-068**)
 
-> **TL;DR:** Church of Scientology **Operating Thetan Level III (OT III)** materials — leaked via litigation (notably the **Fishman** affidavit) — describe auditing / confidential sessions that recover an **interplanetary catastrophe** on Earth (Teegeeack): a galactic ruler (**Xenu**) dumps populations at **volcanoes**, detonates **hydrogen bombs**, and implants survivors' spirits. **Author thesis (AU-068):** treat **"75 million years"** (and similar deep-time stamps) as **unverifiable redaction**; apply the same **memory-horizon rule** as the [1984 Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) — session ability is **real-time imagery + recent memory**, not deep-time tourism (**hundreds of years** strong; **~10,000 years** hard stop; Golden Age onward as the primary storage window). **No A-tier text** yet found of a “recent Earth / Mars catastrophe” Scientology session that later got swapped for the galactic pulp; the **logic** still binds. Read the **public** OT III as an **R6 SF shell**: selected catastrophe elements kept, **timeline and scale stretched** to “whole galaxy / 75 Ma” after classification, compromised court leaks, and a shattered post-Hubbard org. Read the **76-planet Galactic Confederacy** as the **[Rus-Horde](/history/mudflood/page.md)** — the significant human empire of its time, **now gone**; **nuke→volcano** as **Mars-class weapon backfire**; Earth **ecologically ruined**, not vaporized. Parallel: [Ender's Game](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) (**Xenu** ≈ influence class behind Ender’s choice); [Mars dagger §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) (containment + SF hoax frame). Not an endorsement of Church doctrine — an audit of **what the leaked mythology encodes**.
+> **TL;DR:** Church of Scientology **Operating Thetan Level III (OT III)** materials — leaked via litigation (notably the **Fishman** affidavit) — describe auditing / confidential sessions that recover an **interplanetary catastrophe** on Earth (Teegeeack): a galactic ruler (**Xenu**) dumps populations at **volcanoes**, detonates **hydrogen bombs**, and implants survivors' spirits. **Author thesis (AU-068):** the **entire** public Scientology space-opera is an **analogy** for a **real** story — **solar system only** (Earth / Mars / in-system bodies; **never** beyond), and **never more than ~10,000 years ago**, starting from an arbitrary onset of the **dark period before the [Golden Age](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age)**. Treat **"75 million years"** and **“galactic / 76 exoplanets”** as **R6 SF shell** (scale + timeline stretch). Apply the [1984 Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) **memory-horizon** rule (real-time / recent; hundreds of years strong). Read the **76-planet Confederacy** as the **[Rus-Horde](/history/mudflood/page.md)**; **nuke→volcano** as **Mars-class weapon backfire**; Earth **ecologically ruined**, not vaporized. Parallel: [Ender's Game](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md); [Mars dagger §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md). Not an endorsement of Church doctrine — an audit of **what the leaked mythology encodes**.
 
 **Date:** 2026-10-06  
 **Status:** Open — author synthesis + documented leak anchors; primary OT worksheets not reproduced in-repo.
 
 **Registry:** [Author-unique **AU-068**](/history/chronology/investigations/author-unique-theories.md)
 
-**Related:** [Mars dagger — Scientology containment parallel §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) · [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [CIA Reading Room — Mars Exploration 1984](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [Mars Exploration 1984 — full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [Ender's Game — plot order / Mars China](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) · [WotW / MFEE Mars catastrophe](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) · [Mars hub](/cosmos/mars/page.md) · [MudFlood / Rus-Horde hub](/history/mudflood/page.md) · [Horde-first redaction **AU-043**](/history/chronology/investigations/author-unique-theories.md) · [Great Awakening / alien-savior cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [REDACTION vocabulary](/docs/REDACTION.md)
+**Scope (binding — this file):**
+
+| Bound | Rule |
+|-------|------|
+| **Space** | **Solar system only.** Earth, Mars, and other **in-system** bodies / fields. **No** exoplanets, **no** other star systems, **no** literal “galaxy.” Public “galactic” language = **analogy / SF dress**. |
+| **Time** | **Never more than ~10,000 years ago.** Window opens at an **arbitrary beginning of the dark period before the Golden Age** and runs forward through Golden Age → present. **75 Ma** and sibling mega-dates are **out of scope** as clocks. |
+| **Story type** | Public OT III / Xenu is treated as an **analogy** for a **real** solar-system catastrophe + control narrative — **not** as a literal multi-star chronicle. |
+
+**Related:** [Mars dagger — Scientology containment parallel §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) · [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [CIA Reading Room — Mars Exploration 1984](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [Mars Exploration 1984 — full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [Ender's Game — plot order / Mars China](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) · [WotW / MFEE Mars catastrophe](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) · [Mars hub](/cosmos/mars/page.md) · [MudFlood / Rus-Horde hub](/history/mudflood/page.md) · [Horde-first redaction **AU-043**](/history/chronology/investigations/author-unique-theories.md) · [Golden Age timeline](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) · [Dark Ages timeline](https://timeline.paradigmthreat.net/timeline/evt-3147-bce-the-dark-ages) · [Great Awakening / alien-savior cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [REDACTION vocabulary](/docs/REDACTION.md)
 
 ---
 
@@ -17,7 +25,7 @@
 2. [Evidence tiers](#2-evidence-tiers)  
 3. [Documented: auditing / OT as “recovered history” sessions](#3-documented--auditing--ot-as-recovered-history-sessions)  
 4. [Documented: OT III / Xenu payload (public leak layer)](#4-documented--ot-iii--xenu-payload-public-leak-layer)  
-5. [Author read: deep-time stamps + memory horizon](#5-author-read--deep-time-stamps--memory-horizon)  
+5. [Author read: deep-time stamps + memory horizon + solar-system scope](#5-author-read--deep-time-stamps--memory-horizon--solar-system-scope)  
 6. [Evidence audit: “recent Earth memory” claim](#6-evidence-audit--recent-earth-memory-claim)  
 7. [Author read: 76-planet Galactic Confederacy = Rus-Horde](#7-author-read--76-planet-galactic-confederacy--rus-horde)  
 8. [Author read: volcanoes + nukes = catastrophe signal / weapon backfire](#8-author-read--volcanoes--nukes--catastrophe-signal--weapon-backfire)  
@@ -45,8 +53,9 @@ Recorded from the request of **2026-10-06**:
 3. **Deep time = redaction (R-class)** — “75 million years ago” and sibling mega-dates are **not** treated as historical clocks; they are **misdirection stamps** (same default as “~1 Ma” on the [1984 Mars RV tasking card](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)). Session ability is **real-time / recent memory** — **not** deep-time tourism.
 4. **Volcano + H-bomb = ecological catastrophe encoding** — if the story were pure pulp invention, volcanoes are **unnecessary** for a war plot; they are **load-bearing** for a **planet-wide ecological ruin** picture. Author maps **nuke→volcano** language onto a **Mars weapon backfire** through volcanic systems — **overshoot**, not clean surgical strike.
 5. **Ruin ≠ erase** — OT III’s Earth remains **habitable enough** for control theaters; ecology collapses, civilization / biosphere is **wrecked**, physical globe is **not** vaporized. That matches **MFEE / Mars catastrophe** grammar: survivors, amnesia, rehabilitation narratives ([promised land](/history/mudflood/investigations/promised-land-investigation.md), [cargo cults](/history/mudflood/investigations/cargo-cults-investigation.md)).
-6. **Confederacy = Horde** — the **76-planet Galactic Confederacy** of OT III public summaries is the **Rus-Horde**: the **significant human empire of its time**, now **gone** ([mudflood hub](/history/mudflood/page.md); [AU-043 Horde-first redaction](/history/chronology/investigations/author-unique-theories.md)). “Galactic / 76 planets” is pulp scale-dressing over a **world-empire fracture** that secular chronology also refuses to name as such.
+6. **Confederacy = Horde** — the **76-planet Galactic Confederacy** of OT III public summaries is the **Rus-Horde**: the **significant human empire of its time**, now **gone** ([mudflood hub](/history/mudflood/page.md); [AU-043 Horde-first redaction](/history/chronology/investigations/author-unique-theories.md)). “Galactic / 76 planets” is pulp scale-dressing over a **world-empire fracture** — **solar-system theater only**, not exoplanets.
 7. **SF shell over classified recent memory** — author hears (and records as hypothesis) that Scientology **did real remote-viewing-class work**, hit **recent / local** Earth–Mars catastrophe memory (**hundreds of years**, not millions), and that the **original** session story was **classified / covered** after Hubbard’s bust via **compromised court cases**, **unauthorized leaks**, and **dubious confirmation** inside a **shattered** org — leaving the public with an **exaggerated space-opera** where selected elements survived and **timeline + scale** were stretched to the **whole galaxy**. **No A-tier primary** of that “recent” original has been located yet; the **memory-horizon logic** still applies (§5–§6).
+8. **Solar-system analogy only** — the **entire** Scientology story is an **analogy** for a **real** story; this investigation **does not look beyond our solar system**, and admits **no** clock **older than ~10,000 years** (from an arbitrary start of the **dark period before the Golden Age** forward).
 
 **Author addendum (2026-10-06):**
 
@@ -56,6 +65,10 @@ Recorded from the request of **2026-10-06**:
 
 > I once read on a website that Scientology did real remote viewing, and unexpectedly found the real history of the Earth, including the Mars catastrophe — i.e. recent, hundreds of years, not millions, and local — and that the entire original story was REDACTED through compromised court cases + unauthorized leaks and dubious confirmation within a shattered organization (after Hubbard was busted), and that the original story was simply classified and covered up with the exaggerated sci-fi story with certain elements kept and the timeline and scale stretched to the “whole galaxy” etc. Any actual evidence of finding “recent earth memory” that came off like a sci-fi? And if not, do we have to stick to the logic of it — like we did with the Mars remote viewing session — that such an ability could not possibly stretch that far in time, and could only potentially be a real-time or recent memory, hundreds of years, and limited to mostly the origin of Earth since the start of the Golden Age when the story became stored in memory in infinite ways, but before that moment, memories from previous eras become increasingly more obscure and subtle. So we can stop at say 10,000 years and say memories are impossible beyond that.
 
+**Author addendum (2026-10-06, solar-system / ≤10k scope):**
+
+> Make sure it’s clear in this investigation that we are **not looking beyond our solar system** for any of these events. The **entire** Scientology story is an **analogy** for a **real** story, but only limited to **our solar system** and the time period since an arbitrary beginning of the **dark period before the Golden Age**. **Never more than 10,000 years ago.**
+
 ---
 
 ## 2. Evidence tiers
@@ -64,8 +77,8 @@ Recorded from the request of **2026-10-06**:
 |------|------------------|
 | **Documented** | Existence of confidential **OT levels**; public descriptions of **OT III / Xenu** via court leaks (Fishman et al.); Hubbard’s SF authorship; Church litigation over upper-level materials; Wikipedia / secondary summaries of narrative beats (volcanoes, H-bombs, implants, Teegeeack) |
 | **Scholarly / investigative press** | Journalism and court reporting on Scientology containment of OT materials; academic treatments of Scientology as new religious movement |
-| **In-repo cross-read** | CIA Mars RV verdict; Ender plot-order thesis; Mars dagger §3.7.3 containment parallel; WotW / MFEE Mars catastrophe catalog |
-| **Author thesis (AU-068)** | Deep-time as redaction; **memory horizon** (real-time / hundreds of years strong; **~10k yr** hard stop; Golden Age storage window); **76-planet Confederacy = Rus-Horde**; volcanoes as worldwide-catastrophe signal; nuke–volcano = Mars weapon backfire; Xenu ≈ Ender-influence class; public OT III as **R6 SF shell** over possible classified recent memory; ecological ruin not total physical destruction |
+| **In-repo cross-read** | CIA Mars RV verdict; Ender plot-order thesis; Mars dagger §3.7.3 containment parallel; WotW / MFEE Mars catastrophe catalog; Golden Age / Dark Ages chronology |
+| **Author thesis (AU-068)** | OT III = **analogy** for a **real solar-system** story (**no** exoplanets); time ≤ **~10k years** from dark-period-before-GA onward; deep-time / galactic language = **R6**; **memory horizon**; **76-planet Confederacy = Rus-Horde**; volcanoes / nuke–volcano / Xenu-as-Ender-class / ecological ruin |
 
 ---
 
@@ -104,27 +117,29 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-## 5. Author read — deep-time stamps + memory horizon
+## 5. Author read — deep-time stamps + memory horizon + solar-system scope
 
-**Claim (AU-068b / AU-068i):** Any Scientology (or adjacent) claim of **“millions of years”** / **75 million years ago** for the Xenu incident is **unverifiable** on Earth-side clocks available to this project and is treated as **probable redaction** — a **false epoch stamp** that pushes the catastrophe into **irrelevance** (too old to audit historically).
+**Claim (AU-068b / AU-068i / AU-068k):** Any Scientology (or adjacent) claim of **“millions of years”** / **75 million years ago** for the Xenu incident is **unverifiable** on Earth-side clocks available to this project and is treated as **probable redaction** — a **false epoch stamp** that pushes the catastrophe into **irrelevance** (too old to audit historically). Any claim that the real events sit **outside our solar system** is likewise rejected: public “galactic” geography is **analogy / SF dress**, not a search target.
 
-**In-repo rhyme:** The [1984 Mars Exploration RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) tasking card’s **~1 Ma** label is already read as **active misdirection** toward deep-time irrelevance while the session content is treated as **present civilization**. Same operator move: **bury the catastrophe in geologic fantasy time**.
+**In-repo rhyme:** The [1984 Mars Exploration RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) tasking card’s **~1 Ma** label is already read as **active misdirection** toward deep-time irrelevance while the session content is treated as **present civilization**. Same operator move: **bury the catastrophe in geologic fantasy time** — and, in OT III, **inflate place** from **in-system** to **galaxy**.
 
-**Mechanism (bind to Mars RV Conclusion):** Remote viewing / auditing-class access is treated here as **(a) real-time imagery** and **(b) real-time / recent memory** embedded in a target, locus, or living stack — **not** as a literal time machine that can stroll **millions of years** into the past. Memory can *feel* non-linear in report without granting **Back to the Future** physics ([Mars RV §5.8 PP wedge](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)).
+**Mechanism (bind to Mars RV Conclusion):** Remote viewing / auditing-class access is treated here as **(a) real-time imagery** and **(b) real-time / recent memory** embedded in a target, locus, or living stack — **not** as a literal time machine that can stroll **millions of years** into the past, and **not** as a telescope into other star systems. Memory can *feel* non-linear in report without granting **Back to the Future** physics ([Mars RV §5.8 PP wedge](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)).
 
-**Author memory-horizon rule (AU-068i) — binding for this file:**
+**Analogy rule (AU-068k) — binding:** The **entire** public Scientology OT / Xenu cosmology is read as an **analogy** for a **real** story whose **only** admissible theater is **our solar system** (Earth, Mars, and other in-system bodies / fields). “Planets” in confederacy language map to **in-system domains / polities / bodies**, **not** exoplanets. This file **does not look beyond the solar system** for any of these events.
 
-| Band | Clock (order of magnitude) | Status for session recovery |
-|------|----------------------------|-----------------------------|
+**Author memory-horizon + clock rule (AU-068i) — binding for this file:**
+
+| Band | Clock (order of magnitude) | Status for session recovery / decode |
+|------|----------------------------|--------------------------------------|
 | **Real-time** | Present Earth clock | **Strongest** — live imagery / live field |
 | **Recent** | **Hundreds of years** | **Strong** — catastrophe / empire memory still holdable (Mars catastrophe, Horde fracture, MFEE-adjacent) |
-| **Golden Age window** | From [Golden Age](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) (~**4077 BCE**) onward — when Earth-side story became **stored in memory in infinite ways** | **Primary recoverable band** for Earth origin / planetary-history narratives |
-| **Pre-Golden Age** | Before that locking | Increasingly **obscure / subtle** — not zero in principle, but **not** usable as crisp session chronicle |
-| **Hard stop** | Beyond ~**10,000 years** | **Impossible** for this desk — treat any such stamp as **redaction, fantasy, or SF dress** |
+| **Golden Age window** | [Golden Age](https://timeline.paradigmthreat.net/timeline/evt-4077-bce-the-golden-age) (~**4077–3147 BCE**) onward — Earth-side story **stored in memory in infinite ways** | **Primary recoverable band** for Earth / in-system origin narratives |
+| **Dark period before Golden Age** | Arbitrary onset of the **pre–Golden Age dark period** — outer edge of this file’s interest | Recoverable only as **increasingly obscure / subtle** material; still **≤ ~10,000 years ago** |
+| **Hard stop** | Beyond ~**10,000 years** | **Impossible / out of scope** — treat any such stamp as **redaction, fantasy, or SF dress**. **Never more than 10,000 years ago.** |
 
-**Consequence for OT III:** If auditors / viewers ever recovered a **real** Earth–Mars catastrophe track, it would have to sit in the **recent / Golden Age–bounded** bands — **local**, **hundreds of years** (or at most the post–Golden Age storage window) — **not** 75 Ma galactic tourism. The public “whole galaxy / 75 million years” packaging is therefore **scale + timeline inflation** ([R6 shell / misdirection](/docs/REDACTION.md)), same family as the Mars RV **~1 Ma** card.
+**Consequence for OT III:** If auditors / viewers ever recovered a **real** track, it is **solar-system-local** and sits inside the **≤10k-year** window (strong: hundreds of years; storage lock: Golden Age; outer: dark-period-before-GA). It is **not** 75 Ma galactic tourism. The public “whole galaxy / 75 million years” packaging is **scale + timeline inflation** ([R6 shell / misdirection](/docs/REDACTION.md)), same family as the Mars RV **~1 Ma** card.
 
-**Redaction tag:** [R6 shell / misdirection](/docs/REDACTION.md) inferred for the date stamp **and** for galactic scale; the **catastrophe + implant + survivor control** skeleton may survive as payload under the false clock.
+**Redaction tag:** [R6 shell / misdirection](/docs/REDACTION.md) inferred for the date stamp **and** for galactic / exoplanet scale; the **catastrophe + implant + survivor control** skeleton may survive as payload under the false clock and false geography.
 
 ---
 
@@ -146,13 +161,14 @@ Recorded from the request of **2026-10-06**:
 
 ### 6.2 If no primary — stick to the logic (yes)
 
-**Author policy (AU-068i):** Absent that primary, this file **does** stick to the Mars RV logic:
+**Author policy (AU-068i / AU-068k):** Absent that primary, this file **does** stick to the Mars RV logic **plus** solar-system analogy bounds:
 
 1. Session ability **cannot** stretch to **millions of years**.
 2. Recoverable content is **real-time or recent memory** — **hundreds of years** as the strong catastrophe band.
-3. Earth-origin memory is **mostly** from the **Golden Age** storage lock onward; earlier eras grow **obscure / subtle**.
+3. Earth / in-system origin memory is **mostly** from the **Golden Age** storage lock onward; the **dark period before the Golden Age** is the **outer** (increasingly obscure) edge — still **never more than ~10,000 years ago**.
 4. **Hard stop ~10,000 years** — beyond that, treat as **impossible** for memory recovery; any stamp beyond that is **redaction or invention**.
-5. Therefore public OT III’s **75 Ma / whole-galaxy** frame is **rejected as clock and as scale**, whether or not the “website” primary ever surfaces. Selected kept elements (volcanoes, H-bombs, dump, implants, confederacy-as-empire, survivor control) remain **decodable** as recent / Horde / Mars-catastrophe grammar under AU-068c–h.
+5. **No events beyond the solar system** — “galaxy / 76 exoplanets” is **analogy dress**, not geography.
+6. Therefore public OT III’s **75 Ma / whole-galaxy** frame is **rejected as clock and as scale**, whether or not the “website” primary ever surfaces. Selected kept elements (volcanoes, H-bombs, dump, implants, confederacy-as-empire, survivor control) remain **decodable** as **solar-system** recent / Horde / Mars-catastrophe grammar under AU-068c–h / k.
 
 **Not claimed:** that Fishman or Spaink forged the 75 Ma date; that Ingo Swann’s SRI sessions were OT III; or that a specific named website already proves the redaction chain.
 
@@ -162,18 +178,18 @@ Recorded from the request of **2026-10-06**:
 
 **Documented beat (secondary):** OT III public summaries place Xenu as head of a **Galactic Confederacy** of roughly **76 planets**.
 
-**Author claim (AU-068h):** That confederacy **is** the **[Rus-Horde](/history/mudflood/page.md)** — the **significant human empire of its time** — now **gone**. The pulp costume (“galactic,” “76 planets”) is **scale inflation / SF dress** over a **world-empire** that this corpus already treats as the primary erased polity ([**AU-043** Horde-first redaction](/history/chronology/investigations/author-unique-theories.md); [Mars hub](/cosmos/mars/page.md) promised-land / Deep State vacuum after Martian catastrophe).
+**Author claim (AU-068h / AU-068k):** That confederacy **is** the **[Rus-Horde](/history/mudflood/page.md)** — the **significant human empire of its time** — now **gone**. The pulp costume (“galactic,” “76 planets”) is **scale inflation / SF dress** over a **world-empire** that this corpus already treats as the primary erased polity ([**AU-043** Horde-first redaction](/history/chronology/investigations/author-unique-theories.md); [Mars hub](/cosmos/mars/page.md) promised-land / Deep State vacuum after Martian catastrophe). Under **AU-068k**, those “planets” are **not** other star systems — they are **solar-system / in-system domain dress** (Earth-side provinces, Mars-linked holdings, or analogous polity counts) for an empire whose real theater never left **this** system.
 
 | OT III public language | Author decode |
 |------------------------|---------------|
-| **Galactic Confederacy** (~76 planets) | **Rus-Horde** world empire — plural, planetary-scale human order |
+| **Galactic Confederacy** (~76 planets) | **Rus-Horde** world empire — plural, planetary-scale human order **inside the solar system** |
 | Confederacy **as setting for Xenu’s dump** | Empire still **intact enough** to move populations / run a strike — then **fractures** |
 | Confederacy **absent from modern memory** | Same as Horde: **erased**, survivors retooled under successor myths |
-| “Planets” count | **Not** a literal exoplanet census — **domain / province / polity count** dressed as space opera |
+| “Planets” / “galactic” | **Analogy** — **not** a literal exoplanet census; **no decode beyond the solar system** |
 
-**Why this matters:** Xenu is not floating free as random space opera. He is a **named operator inside / against an empire that no longer exists** — the same structural slot the Ender dossier assigns to the strike that **ends the Rus-Horde** ([Ender’s Game reorder](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md)).
+**Why this matters:** Xenu is not floating free as random space opera from another star. He is a **named operator inside / against an empire that no longer exists** — the same structural slot the Ender dossier assigns to the strike that **ends the Rus-Horde** ([Ender’s Game reorder](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md)) — on a **solar-system** stage, ≤ **~10k years**.
 
-**Not claimed:** Hubbard used the word “Horde,” or that “76” maps 1:1 onto a counted list of Tartarian provinces.
+**Not claimed:** Hubbard used the word “Horde,” or that “76” maps 1:1 onto a counted list of Tartarian provinces, or that any OT text literally names Mars as a “planet” of the Confederacy.
 
 ---
 
@@ -229,11 +245,12 @@ Recorded from the request of **2026-10-06**:
 
 | Motif | OT III / Xenu (public + AU-068) | Mars / MFEE corpus |
 |-------|--------------------------------|--------------------|
-| World empire (gone) | **76-planet Galactic Confederacy** | **Rus-Horde** ([mudflood](/history/mudflood/page.md); **AU-043**) |
-| Planet-scale catastrophe | Volcano + H-bomb ecology kill | MFEE; Mars nuclear / melt-city lanes (catalog, not Brandenburg as evidence) |
+| World empire (gone) | **76-planet Galactic Confederacy** (**analogy**; solar-system empire dress) | **Rus-Horde** ([mudflood](/history/mudflood/page.md); **AU-043**) |
+| Planet-scale catastrophe | Volcano + H-bomb ecology kill (**Earth / in-system**) | MFEE; Mars nuclear / melt-city lanes (catalog, not Brandenburg as evidence) |
 | Survivors controlled | Implants / body thetans | Promised-land / cargo / rehab narratives; amnesia |
-| Deep-time stamp | 75 Ma (reject as clock) | ~1 Ma on Mars RV card (reject as clock) |
-| Memory horizon | Real-time / **hundreds of years** strong; **~10k yr** hard stop; Golden Age storage window | RV = **real-time imagery + memory channel** ([Mars RV Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) |
+| Deep-time stamp | 75 Ma (reject as clock; **≤ ~10k yr** only) | ~1 Ma on Mars RV card (reject as clock) |
+| Geography stamp | “Galaxy” / exoplanets (**reject** — **solar system only**) | Mars / Earth / in-system theater |
+| Memory horizon | Real-time / **hundreds of years** strong; dark-period-before-GA outer edge; **~10k yr** hard stop; Golden Age storage window | RV = **real-time imagery + memory channel** ([Mars RV Conclusion](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) |
 | Public shell | Galactic pulp via court leak + SF punchline | “Ancient Mars archaeology” card + pop debunk |
 | Recovery method | Auditing / OT sessions | RV worksheets; seer stones; analog plates |
 | Hoax / ridicule frame | SF + cult punchline | Alien-savior / Ancient Aliens topcover ([GA cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)) |
@@ -249,7 +266,7 @@ Recorded from the request of **2026-10-06**:
 | Layer | Mars dagger §3.7.3 | This investigation (AU-068) |
 |-------|--------------------|------------------------------|
 | Focus | How society **dismisses** the leak | What the leak **encodes** about catastrophe + control |
-| Verdict | Incomplete containment; SF punchline | Ecological ruin myth; Confederacy = Horde; Xenu as controller class; deep-time / scale **R6 shell**; memory-horizon bind |
+| Verdict | Incomplete containment; SF punchline | Ecological ruin myth; Confederacy = Horde; Xenu as controller class; **solar-system analogy only**; deep-time / galactic **R6 shell**; memory-horizon bind |
 
 ---
 
@@ -263,8 +280,9 @@ Recorded from the request of **2026-10-06**:
 6. **AU-068f** — **Xenu** parallels the **influence class behind Ender’s choice** (destroy / overshoot / manage survivors), not the child operator himself.
 7. **AU-068g** — CIA 1984 Mars RV and OT III share **deep-time misdirection + devastated-world + survivor persistence** grammar (thematic parallel, not proven shared source).
 8. **AU-068h** — The **76-planet Galactic Confederacy** **is** the **Rus-Horde** — the significant human empire of its time, **now gone**; “galactic / 76 planets” is SF scale-dressing, not a literal exoplanet census.
-9. **AU-068i** — **Memory horizon** (bind to Mars RV): session recovery is **real-time / recent** — **hundreds of years** strong; mostly **Golden Age onward** as the infinite-storage window; pre-Golden Age increasingly obscure; **hard stop ~10,000 years** — beyond that, memory recovery is treated as **impossible**.
+9. **AU-068i** — **Memory horizon** (bind to Mars RV): session recovery is **real-time / recent** — **hundreds of years** strong; mostly **Golden Age onward** as the infinite-storage window; **dark period before the Golden Age** as the obscure outer edge; **hard stop ~10,000 years** — **never more than 10,000 years ago**.
 10. **AU-068j** — Public OT III is usefully modeled as an **R6 SF shell** over a possible **classified recent / local** Earth–Mars catastrophe track (elements kept; timeline + scale stretched). **Delivery pipe** (court leak + post-bust shatter) is **Documented**; the **pre-shell recent text** is **not yet found** — logic still binds without it.
+11. **AU-068k** — The **entire** Scientology OT / Xenu story is an **analogy** for a **real** story limited to **our solar system** (Earth / Mars / in-system only — **this file does not look beyond the solar system**) and to time **since an arbitrary beginning of the dark period before the Golden Age**, **never more than ~10,000 years ago**.
 
 ---
 
@@ -296,7 +314,7 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-Keywords: #Scientology #OperatingThetan #OTIII #Xenu #Auditing #GalacticConfederacy #RusHorde #MarsCatastrophe #RemoteViewing #IngoSwann #MemoryHorizon #GoldenAge #EndersGame #MFEE #Containment #EcologicalRuin #Redaction #R6 #AU068 #ParadigmThreatFiles
+Keywords: #Scientology #OperatingThetan #OTIII #Xenu #Auditing #GalacticConfederacy #RusHorde #MarsCatastrophe #RemoteViewing #IngoSwann #MemoryHorizon #GoldenAge #SolarSystemOnly #Analogy #EndersGame #MFEE #Containment #EcologicalRuin #Redaction #R6 #AU068 #ParadigmThreatFiles
 
 **Last updated:** 2026-10-06
 
@@ -310,15 +328,16 @@ Keywords: #Scientology #OperatingThetan #OTIII #Xenu #Auditing #GalacticConfeder
 - **Not** a dump of confidential religious worksheets; structure and secondary/court descriptions only.
 - **Author thesis sections (AU-068)** are first-class for pattern work and are **not** automatically factual.
 - Cross-links to Mars RV, Ender, MFEE, and Mars dagger are **thematic** unless a specific citation proves identity of source.
-- **“Millions of years”** rejection and the **~10,000-year memory hard stop** are **epistemic policies of this file**, not laboratory dating papers.
+- **“Millions of years”** rejection, the **~10,000-year** hard stop (**never more than 10,000 years ago**), and **solar-system-only** geography are **epistemic policies of this file**, not laboratory dating or exoplanet surveys.
 - Fiction (*Ender’s Game*, Hubbard pulp) is read as **possible encoding / hoax exit**, not as proof of events.
-- The **“website said recent memory was redacted”** lead is **author hearsay** until relocated; absence of that primary does **not** lift the memory-horizon rule.
+- The **“website said recent memory was redacted”** lead is **author hearsay** until relocated; absence of that primary does **not** lift the memory-horizon or solar-system analogy rules.
+- **Out of scope by design:** any decode that places OT III events in **other star systems**, a literal **galaxy**, or clocks **older than ~10,000 years**.
 
 ---
 
 ## Investigator notes
 
 - Author session **2026-10-06**: new dossier requested from Mars dagger / Reddit arc adjacency; Scientology was previously only a **containment parallel** in mars-dagger §3.7.3 — this file expands **payload** decode.
-- Same-day addenda: **Confederacy = Rus-Horde (AU-068h)**; **memory horizon + SF-shell redaction path (AU-068i/j)** — evidence pass found **Swann adjacency** and **court-leak pipe**, **not** a pre-shell recent-Earth OT text.
+- Same-day addenda: **Confederacy = Rus-Horde (AU-068h)**; **memory horizon + SF-shell redaction path (AU-068i/j)**; **solar-system-only / ≤10k / OT-as-analogy (AU-068k)** — evidence pass found **Swann adjacency** and **court-leak pipe**, **not** a pre-shell recent-Earth OT text.
 - Prefer court-record citations over random wiki mirrors when upgrading Documented rows.
 - Do not reproduce full OT III text in-repo.
