@@ -1,13 +1,13 @@
 # Investigation: Scientology OT III / Xenu — recovered Earth history, Mars catastrophe parallels (**AU-068**)
 
-> **TL;DR:** Church of Scientology **Operating Thetan Level III (OT III)** materials — leaked via litigation (notably the **Fishman** affidavit) — describe auditing / confidential sessions that recover an **interplanetary catastrophe** on Earth (Teegeeack): a galactic ruler (**Xenu**) dumps populations at **volcanoes**, detonates **hydrogen bombs**, and implants survivors' spirits. **Author thesis (AU-068):** treat **"75 million years"** (and similar deep-time stamps) as **unverifiable redaction**; read **nuke→volcano** language as an allusion to a **Mars-class weapon backfiring through volcanic systems**, producing **more damage than intended**; volcanoes in the narrative exist to signal a **planet-wide ecological catastrophe**, not "just a big war." In OT III context Earth is **not fully physically destroyed** — it is **ecologically ruined**, with survivors available to **control**. Parallel tracks: [CIA 1984 Mars remote-viewing session](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) (devastated / sheltering civilization); [Ender's Game reorder thesis](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) (**Xenu** ≈ the **influence class behind Ender's choice** — destroy a world, manage what remains); [Mars dagger §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) (Scientology as **containment + SF hoax frame**). This file does **not** endorse Church doctrine or Hubbard as prophet — it audits **what the leaked mythology encodes**.
+> **TL;DR:** Church of Scientology **Operating Thetan Level III (OT III)** materials — leaked via litigation (notably the **Fishman** affidavit) — describe auditing / confidential sessions that recover an **interplanetary catastrophe** on Earth (Teegeeack): a galactic ruler (**Xenu**) dumps populations at **volcanoes**, detonates **hydrogen bombs**, and implants survivors' spirits. **Author thesis (AU-068):** treat **"75 million years"** (and similar deep-time stamps) as **unverifiable redaction**; read the **76-planet Galactic Confederacy** as the **[Rus-Horde](/history/mudflood/page.md)** — the significant human empire of its time, **now gone**; read **nuke→volcano** language as an allusion to a **Mars-class weapon backfiring through volcanic systems**, producing **more damage than intended**; volcanoes in the narrative exist to signal a **planet-wide ecological catastrophe**, not "just a big war." In OT III context Earth is **not fully physically destroyed** — it is **ecologically ruined**, with survivors available to **control**. Parallel tracks: [CIA 1984 Mars remote-viewing session](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) (devastated / sheltering civilization); [Ender's Game reorder thesis](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) (**Xenu** ≈ the **influence class behind Ender's choice** — destroy a world, manage what remains); [Mars dagger §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) (Scientology as **containment + SF hoax frame**). This file does **not** endorse Church doctrine or Hubbard as prophet — it audits **what the leaked mythology encodes**.
 
 **Date:** 2026-10-06  
 **Status:** Open — author synthesis + documented leak anchors; primary OT worksheets not reproduced in-repo.
 
 **Registry:** [Author-unique **AU-068**](/history/chronology/investigations/author-unique-theories.md)
 
-**Related:** [Mars dagger — Scientology containment parallel §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) · [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [CIA Reading Room — Mars Exploration 1984](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [Mars Exploration 1984 — full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [Ender's Game — plot order / Mars China](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) · [WotW / MFEE Mars catastrophe](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) · [Mars hub](/cosmos/mars/page.md) · [Great Awakening / alien-savior cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [REDACTION vocabulary](/docs/REDACTION.md)
+**Related:** [Mars dagger — Scientology containment parallel §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) · [Reader essay — Mars dagger](/cosmos/mars/mars-dagger.md) · [CIA Reading Room — Mars Exploration 1984](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [Mars Exploration 1984 — full writeup](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-pdf-full-writeup.md) · [Ender's Game — plot order / Mars China](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) · [WotW / MFEE Mars catastrophe](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) · [Mars hub](/cosmos/mars/page.md) · [MudFlood / Rus-Horde hub](/history/mudflood/page.md) · [Horde-first redaction **AU-043**](/history/chronology/investigations/author-unique-theories.md) · [Great Awakening / alien-savior cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [REDACTION vocabulary](/docs/REDACTION.md)
 
 ---
 
@@ -18,15 +18,16 @@
 3. [Documented: auditing / OT as “recovered history” sessions](#3-documented--auditing--ot-as-recovered-history-sessions)  
 4. [Documented: OT III / Xenu payload (public leak layer)](#4-documented--ot-iii--xenu-payload-public-leak-layer)  
 5. [Author read: deep-time stamps as redaction](#5-author-read--deep-time-stamps-as-redaction)  
-6. [Author read: volcanoes + nukes = catastrophe signal / weapon backfire](#6-author-read--volcanoes--nukes--catastrophe-signal--weapon-backfire)  
-7. [Cross-ref: CIA 1984 Mars remote viewing](#7-cross-ref--cia-1984-mars-remote-viewing)  
-8. [Cross-ref: Xenu ↔ Ender’s Game influence class](#8-cross-ref--xenu--enders-game-influence-class)  
-9. [Parallel table — Scientology myth vs Mars catastrophe dossiers](#9-parallel-table--scientology-myth-vs-mars-catastrophe-dossiers)  
-10. [Containment grammar (link to Mars dagger)](#10-containment-grammar-link-to-mars-dagger)  
-11. [Author’s open claims](#11-authors-open-claims)  
-12. [Questions to clarify, verify, or debunk](#12-questions-to-clarify-verify-or-debunk)  
-13. [Weak points / research TODOs](#13-weak-points--research-todos)  
-14. [Limits and disclaimers](#limits-and-disclaimers)
+6. [Author read: 76-planet Galactic Confederacy = Rus-Horde](#6-author-read--76-planet-galactic-confederacy--rus-horde)  
+7. [Author read: volcanoes + nukes = catastrophe signal / weapon backfire](#7-author-read--volcanoes--nukes--catastrophe-signal--weapon-backfire)  
+8. [Cross-ref: CIA 1984 Mars remote viewing](#8-cross-ref--cia-1984-mars-remote-viewing)  
+9. [Cross-ref: Xenu ↔ Ender’s Game influence class](#9-cross-ref--xenu--enders-game-influence-class)  
+10. [Parallel table — Scientology myth vs Mars catastrophe dossiers](#10-parallel-table--scientology-myth-vs-mars-catastrophe-dossiers)  
+11. [Containment grammar (link to Mars dagger)](#11-containment-grammar-link-to-mars-dagger)  
+12. [Author’s open claims](#12-authors-open-claims)  
+13. [Questions to clarify, verify, or debunk](#13-questions-to-clarify-verify-or-debunk)  
+14. [Weak points / research TODOs](#14-weak-points--research-todos)  
+15. [Limits and disclaimers](#limits-and-disclaimers)
 
 ---
 
@@ -43,6 +44,11 @@ Recorded from the request of **2026-10-06**:
 3. **Deep time = redaction (R-class)** — “75 million years ago” and sibling mega-dates are **not** treated as historical clocks; they are **misdirection stamps** (same default as “~1 Ma” on the [1984 Mars RV tasking card](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)).
 4. **Volcano + H-bomb = ecological catastrophe encoding** — if the story were pure pulp invention, volcanoes are **unnecessary** for a war plot; they are **load-bearing** for a **planet-wide ecological ruin** picture. Author maps **nuke→volcano** language onto a **Mars weapon backfire** through volcanic systems — **overshoot**, not clean surgical strike.
 5. **Ruin ≠ erase** — OT III’s Earth remains **habitable enough** for control theaters; ecology collapses, civilization / biosphere is **wrecked**, physical globe is **not** vaporized. That matches **MFEE / Mars catastrophe** grammar: survivors, amnesia, rehabilitation narratives ([promised land](/history/mudflood/investigations/promised-land-investigation.md), [cargo cults](/history/mudflood/investigations/cargo-cults-investigation.md)).
+6. **Confederacy = Horde** — the **76-planet Galactic Confederacy** of OT III public summaries is the **Rus-Horde**: the **significant human empire of its time**, now **gone** ([mudflood hub](/history/mudflood/page.md); [AU-043 Horde-first redaction](/history/chronology/investigations/author-unique-theories.md)). “Galactic / 76 planets” is pulp scale-dressing over a **world-empire fracture** that secular chronology also refuses to name as such.
+
+**Author addendum (2026-10-06):**
+
+> The “76-planet Galactic Confederacy” === “Rus-Horde” — i.e. the significant human empire of its time is now gone.
 
 ---
 
@@ -53,7 +59,7 @@ Recorded from the request of **2026-10-06**:
 | **Documented** | Existence of confidential **OT levels**; public descriptions of **OT III / Xenu** via court leaks (Fishman et al.); Hubbard’s SF authorship; Church litigation over upper-level materials; Wikipedia / secondary summaries of narrative beats (volcanoes, H-bombs, implants, Teegeeack) |
 | **Scholarly / investigative press** | Journalism and court reporting on Scientology containment of OT materials; academic treatments of Scientology as new religious movement |
 | **In-repo cross-read** | CIA Mars RV verdict; Ender plot-order thesis; Mars dagger §3.7.3 containment parallel; WotW / MFEE Mars catastrophe catalog |
-| **Author thesis (AU-068)** | Deep-time as redaction; volcanoes as worldwide-catastrophe signal; nuke–volcano = Mars weapon backfire; Xenu ≈ Ender-influence class; ecological ruin not total physical destruction as the operative OT III outcome |
+| **Author thesis (AU-068)** | Deep-time as redaction; **76-planet Confederacy = Rus-Horde** (gone world empire); volcanoes as worldwide-catastrophe signal; nuke–volcano = Mars weapon backfire; Xenu ≈ Ender-influence class; ecological ruin not total physical destruction as the operative OT III outcome |
 
 ---
 
@@ -79,7 +85,7 @@ Recorded from the request of **2026-10-06**:
 
 **Narrative beats (secondary summaries — not a reprint of confidential worksheets):**
 
-1. A galactic confederacy ruler named **Xenu** (also spelled Xemu in some reports) faces overpopulation.
+1. A galactic confederacy ruler named **Xenu** (also spelled Xemu in some reports) faces overpopulation — secondary summaries often specify a confederacy of **about 76 planets**.
 2. Beings are transported to **Earth** (called **Teegeeack** in the materials).
 3. Populations are positioned around **volcanoes**.
 4. **Hydrogen bombs** are detonated, killing bodies.
@@ -102,7 +108,26 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-## 6. Author read — volcanoes + nukes = catastrophe signal / weapon backfire
+## 6. Author read — 76-planet Galactic Confederacy = Rus-Horde
+
+**Documented beat (secondary):** OT III public summaries place Xenu as head of a **Galactic Confederacy** of roughly **76 planets**.
+
+**Author claim (AU-068h):** That confederacy **is** the **[Rus-Horde](/history/mudflood/page.md)** — the **significant human empire of its time** — now **gone**. The pulp costume (“galactic,” “76 planets”) is **scale inflation / SF dress** over a **world-empire** that this corpus already treats as the primary erased polity ([**AU-043** Horde-first redaction](/history/chronology/investigations/author-unique-theories.md); [Mars hub](/cosmos/mars/page.md) promised-land / Deep State vacuum after Martian catastrophe).
+
+| OT III public language | Author decode |
+|------------------------|---------------|
+| **Galactic Confederacy** (~76 planets) | **Rus-Horde** world empire — plural, planetary-scale human order |
+| Confederacy **as setting for Xenu’s dump** | Empire still **intact enough** to move populations / run a strike — then **fractures** |
+| Confederacy **absent from modern memory** | Same as Horde: **erased**, survivors retooled under successor myths |
+| “Planets” count | **Not** a literal exoplanet census — **domain / province / polity count** dressed as space opera |
+
+**Why this matters:** Xenu is not floating free as random space opera. He is a **named operator inside / against an empire that no longer exists** — the same structural slot the Ender dossier assigns to the strike that **ends the Rus-Horde** ([Ender’s Game reorder](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md)).
+
+**Not claimed:** Hubbard used the word “Horde,” or that “76” maps 1:1 onto a counted list of Tartarian provinces.
+
+---
+
+## 7. Author read — volcanoes + nukes = catastrophe signal / weapon backfire
 
 **Documented beat:** Secondary OT III summaries place victims at **volcanoes** and kill them with **hydrogen bombs**.
 
@@ -116,7 +141,7 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-## 7. Cross-ref — CIA 1984 Mars remote viewing
+## 8. Cross-ref — CIA 1984 Mars remote viewing
 
 | Mars RV (author verdict on `CIA-RDP96-00788R001900760001-9`) | OT III / Xenu (public leak + AU-068) |
 |---------------------------------------------------------------|--------------------------------------|
@@ -132,7 +157,7 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-## 8. Cross-ref — Xenu ↔ Ender’s Game influence class
+## 9. Cross-ref — Xenu ↔ Ender’s Game influence class
 
 [Ender’s Game plot-order investigation](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) argues the saga encodes (out of order) a **child / AI-framed commander** ordering a **maximum strike** that destroys more than intended — **Mars** as the unintended kill — under **adult / institutional influence**.
 
@@ -150,10 +175,11 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-## 9. Parallel table — Scientology myth vs Mars catastrophe dossiers
+## 10. Parallel table — Scientology myth vs Mars catastrophe dossiers
 
 | Motif | OT III / Xenu (public + AU-068) | Mars / MFEE corpus |
 |-------|--------------------------------|--------------------|
+| World empire (gone) | **76-planet Galactic Confederacy** | **Rus-Horde** ([mudflood](/history/mudflood/page.md); **AU-043**) |
 | Planet-scale catastrophe | Volcano + H-bomb ecology kill | MFEE; Mars nuclear / melt-city lanes (catalog, not Brandenburg as evidence) |
 | Survivors controlled | Implants / body thetans | Promised-land / cargo / rehab narratives; amnesia |
 | Deep-time stamp | 75 Ma (reject as clock) | ~1 Ma on Mars RV card (reject as clock) |
@@ -164,18 +190,18 @@ Recorded from the request of **2026-10-06**:
 
 ---
 
-## 10. Containment grammar (link to Mars dagger)
+## 11. Containment grammar (link to Mars dagger)
 
 [Mars dagger §3.7.3](/cosmos/mars/investigations/mars-dagger-investigation.md) already maps Mormonism ↔ Scientology on **leak → legal contain → public hoax frame**. This file **extends** that parallel from **containment playbook** into **payload content**: what OT III *says happened to Earth*, and how that rhymes with Mars catastrophe / Ender / RV dossiers.
 
 | Layer | Mars dagger §3.7.3 | This investigation (AU-068) |
 |-------|--------------------|------------------------------|
 | Focus | How society **dismisses** the leak | What the leak **encodes** about catastrophe + control |
-| Verdict | Incomplete containment; SF punchline | Ecological ruin myth; Xenu as controller class; deep-time redaction |
+| Verdict | Incomplete containment; SF punchline | Ecological ruin myth; Confederacy = Horde; Xenu as controller class; deep-time redaction |
 
 ---
 
-## 11. Author’s open claims
+## 12. Author’s open claims
 
 1. **AU-068a** — OT / auditing literature is usefully read as a **recovered-history session stack**, not only as therapy theater or scam.
 2. **AU-068b** — **“Millions of years”** timestamps in OT III (and siblings) are **redaction / misdirection**, not historical clocks.
@@ -184,33 +210,34 @@ Recorded from the request of **2026-10-06**:
 5. **AU-068e** — OT III’s operative outcome is **ecological ruin without total physical destruction** of Earth — survivors remain for **control**.
 6. **AU-068f** — **Xenu** parallels the **influence class behind Ender’s choice** (destroy / overshoot / manage survivors), not the child operator himself.
 7. **AU-068g** — CIA 1984 Mars RV and OT III share **deep-time misdirection + devastated-world + survivor persistence** grammar (thematic parallel, not proven shared source).
+8. **AU-068h** — The **76-planet Galactic Confederacy** **is** the **Rus-Horde** — the significant human empire of its time, **now gone**; “galactic / 76 planets” is SF scale-dressing, not a literal exoplanet census.
 
 ---
 
-## 12. Questions to clarify, verify, or debunk
+## 13. Questions to clarify, verify, or debunk
 
 | # | Question | What would adjudicate |
 |---|----------|----------------------|
-| Q1 | Which **primary court filings** beyond Fishman best preserve OT III wording on volcanoes / H-bombs / Teegeeack? | Docket PDFs; archive.org court mirrors; secondary legal digests with page cites |
+| Q1 | Which **primary court filings** beyond Fishman best preserve OT III wording on volcanoes / H-bombs / Teegeeack / **76 planets**? | Docket PDFs; archive.org court mirrors; secondary legal digests with page cites |
 | Q2 | Do **pre-OT** Hubbard lectures (public) already encode planet-catastrophe + implant grammar before confidential levels? | Dated lecture transcripts vs OT III leak text |
 | Q3 | Is there non-Scientology **1950s–60s** pulp / intelligence folklore that matches volcano-ring + H-bomb + spirit-capture **before** Hubbard’s confidential materials? | SF bibliography; MK / PSYOP adjacent folklore (careful CO filter) |
 | Q4 | Can any **geological / MFEE** proxy be tied to “weapon through volcanoes” without circular myth-reading? | Independent catastrophe chronologies in-repo; reject Brandenburg Xe-129 as evidence per [wotw-mfee](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) editorial note |
 | Q5 | Does the **1984 Mars RV** transcript contain volcano / implant / dump language that strengthens or weakens the parallel? | Close read of [transcript](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-transcript.txt) |
 | Q6 | Where does **Battlefield Earth** / Hubbard pulp **intentionally** overlap OT cosmology vs diverge as **hoax exit**? | Publication dates + motif table |
+| Q7 | Does any public OT text treat the Confederacy as **already fractured** vs **still ruling** at dump time — and how that maps to Horde collapse timing? | Secondary OT III summaries vs [mudflood / Pugachev](/history/mudflood/page.md) chronology |
 
 ---
 
-## 13. Weak points / research TODOs
+## 14. Weak points / research TODOs
 
-- [ ] Build a **citation table** from Fishman / related affidavits (page-level) for volcano, H-bomb, Teegeeack, implant duration — without pasting confidential worksheets wholesale.
+- [ ] Build a **citation table** from Fishman / related affidavits (page-level) for volcano, H-bomb, Teegeeack, **76-planet** wording, implant duration — without pasting confidential worksheets wholesale.
 - [ ] Compare **OT III** catastrophe grammar to **Incident II** / other Hubbarded incident tracks named in secondary literature.
-- [ ] One-page **motif map** OT III ↔ [Ender’s Game](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) ↔ [Mars RV §5.3](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
-- [ ] Check whether [Mars hub](/cosmos/mars/page.md) Xenu name-drop should gain a one-line link to this dossier.
+- [ ] One-page **motif map** OT III ↔ [Ender’s Game](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md) ↔ [Mars RV §5.3](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) ↔ [Rus-Horde / mudflood](/history/mudflood/page.md).
 - [ ] Optional reader essay later (parent path only if author names it) — knife-style: **“What OT III says happened to Earth — without the punchline.”**
 
 ---
 
-Keywords: #Scientology #OperatingThetan #OTIII #Xenu #Auditing #MarsCatastrophe #RemoteViewing #EndersGame #MFEE #Containment #EcologicalRuin #Redaction #AU068 #ParadigmThreatFiles
+Keywords: #Scientology #OperatingThetan #OTIII #Xenu #Auditing #GalacticConfederacy #RusHorde #MarsCatastrophe #RemoteViewing #EndersGame #MFEE #Containment #EcologicalRuin #Redaction #AU068 #ParadigmThreatFiles
 
 **Last updated:** 2026-10-06
 
