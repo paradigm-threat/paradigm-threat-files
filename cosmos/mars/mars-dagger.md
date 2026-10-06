@@ -193,6 +193,7 @@ Hubbard's parallel **science-fiction** career — pulp space opera, *Battlefield
 ## Where next
 
 - [Mars dagger — full investigation](https://paradigmthreat.net/cosmos/mars/investigations/mars-dagger-investigation.md) — inscriptions, Horde protocol §3.4.1, MFEE detachment §3.4.2, plate read §3.3.1, transmission §3.5, containment §3.7, guardians §7.0, Carthage timeline §XI, sources
+- [Scientology OT III / Xenu — Mars catastrophe parallels](https://paradigmthreat.net/influence/religion/investigations/scientology-ot-iii-xenu-mars-catastrophe-investigation.md) — auditing as recovered history; Xenu / ecological ruin decode (**AU-068**)
 - [Magic as operator technology](https://paradigmthreat.net/docs/MAGIC_AS_OPERATOR_TECHNOLOGY.md) — lexical rule for *magic* in this corpus
 - [Quantum Leap (of faith)](https://paradigmthreat2.substack.com/p/quantum-leap-of-faith) — Smith crystal-memory essay lane
 - [Quantum storage investigation §2.4](https://paradigmthreat.net/science/computing/investigations/quantum-computer-infinitely-indexed-storage-thesis-investigation.md) — analog index thesis

@@ -383,6 +383,8 @@ Mainstream scholarship mostly stops at Layer A and waves at Walters. **Reader es
 
 **Author extension:** Lawsuits **intended to contain** became **distribution events** — same Streisand pattern as sealed deposition leaks. Hubbard's **SF layer** lets the culture **walk away** thinking **hoax**, matching the **future-facing** strategy Mormonism only **partly** achieved (magic embarrassment without erasing the book). **Not** a claim Scientology plates are real — a claim about **containment playbook** when analog-index-class knowledge surfaces at scale.
 
+**Payload decode (separate dossier):** What OT III / Xenu **encodes** about Earth catastrophe (ecological ruin, volcano–nuke grammar, deep-time redaction, Xenu as controller class) is developed in [Scientology OT III / Xenu — Mars catastrophe parallels (**AU-068**)](/influence/religion/investigations/scientology-ot-iii-xenu-mars-catastrophe-investigation.md) — cross-read CIA 1984 Mars RV and [Ender's Game](/influence/predictive_programming/fiction_encoding/card/enders-game-plot-order-mars-china-investigation.md).
+
 **Open:** Map other leak→contain→rebrand cases (Theosophy, Nation of Islam esoteric layers, etc.) without duplicating full dossiers.
 
 ---

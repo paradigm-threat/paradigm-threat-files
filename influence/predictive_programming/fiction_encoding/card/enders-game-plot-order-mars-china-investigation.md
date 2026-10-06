@@ -5,7 +5,7 @@
 **Date:** 2026-09-28  
 **Status:** Open — plot order logged from the author’s reading; the China gassing is a separate open historical question.
 
-**Sibling files:** [Enderverse index](index-card.md) · [China gassing, open](/history/chronology/investigations/china-wall-gassing-late-18th-early-19th-investigation.md) · [Lewis Mars wound](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md) · [Mars catastrophe](/cosmos/mars/page.md) · [MudFlood — Pugachev](/history/mudflood/page.md)
+**Sibling files:** [Enderverse index](index-card.md) · [China gassing, open](/history/chronology/investigations/china-wall-gassing-late-18th-early-19th-investigation.md) · [Lewis Mars wound](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md) · [Mars catastrophe](/cosmos/mars/page.md) · [MudFlood — Pugachev](/history/mudflood/page.md) · [Scientology OT III / Xenu (**AU-068**) — Xenu as influence class behind Ender’s choice](/influence/religion/investigations/scientology-ot-iii-xenu-mars-catastrophe-investigation.md)
 
 ---
 

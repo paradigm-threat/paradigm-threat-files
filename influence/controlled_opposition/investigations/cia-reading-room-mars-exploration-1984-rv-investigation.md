@@ -85,6 +85,7 @@
 | [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 remote viewing** session and media dates). |
 | [Yasunori Mitsuda / Chrono franchise notes](/influence/stolen_credit/yasunori-mitsuda.md) | **Different** thesis (credits / corporate arc); listed so **§5.8** is not mistaken for that file’s verdict. |
 | [*Metroid Prime* Chozo lore × 1984 Mars RV](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) | **PP adjunct (2026-10-03):** NTSC Chozo **shadow / beyond space-time** return vs SUB tall-thin shadows; PAL rewrite; SkyTown / Phaaze. |
+| [Scientology OT III / Xenu — Mars catastrophe (**AU-068**)](/influence/religion/investigations/scientology-ot-iii-xenu-mars-catastrophe-investigation.md) | Auditing as recovered-history sessions; deep-time stamp rhyme with **~1 Ma** card; ecological-ruin / survivor-control decode. |
 
 **Also read:** [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)  
 **Readable article (same topic, parent folder):** [1984 Mars × *Chrono Trigger*](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md)

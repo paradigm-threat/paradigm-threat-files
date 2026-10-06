@@ -281,7 +281,7 @@ Science 'Fiction' predictive programming suggests that life on Mars has not reac
 MudFlood Energetic Event.
 Clearly the majority of Martians did not agree with nor benefit from this attack on Earth;
 in every version of the story the instigator of the war
-(Ender, Terl, Palpatine, Goa'uld System Lord, Xenu, Marvin, Shaddam IV, Senior Elder etc.) was deposed exiled and/or
+(Ender, Terl, Palpatine, Goa'uld System Lord, [Xenu](/influence/religion/investigations/scientology-ot-iii-xenu-mars-catastrophe-investigation.md), Marvin, Shaddam IV, Senior Elder etc.) was deposed exiled and/or
 executed. Nevertheless, the Martian catastrophe resulted in a major power vacuum on Mars and Earth allowing
 the Deep State survivors to exploit the situation, consolidate power, and *deliver* from *'Egypt'*
 (i.e. The destroyed Rus-Horde Kingdom) the loyal *chosen* bloodlines to the *promised land* to
