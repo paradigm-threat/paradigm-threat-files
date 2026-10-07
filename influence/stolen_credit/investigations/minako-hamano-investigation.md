@@ -499,6 +499,7 @@ Author position: British men **and** British women treat Asian workers as **expe
 - **Outward** leak enforcement (e.g. trade-secret / pre-release cases such as TPC strategy-guide leak litigation; accessory pre-reveal suits) — punish distributors of secrets, not publish R&D diaries.
 - **No** process bibles; **no** contactable living R&D1 sound staff except exit-bridge Tanaka.
 - Hardware truth locked in **partner silicon + IP** (Ricoh/Sony/etc.) — “Nintendo made the hardware / fiercely independent of other companies’ hardware” is **whitewash**; CD Super Disc licenser term is the proof of bondage.
+- **Listening scarcity (Smash soundtrack pattern):** after the N64 commercial Smash OST (Teichiku, Jan 2000), *Melee* / *Brawl* / *Ultimate* never got matching full retail game-audio albums; magazine orchestral gifts and Club Nintendo selections substitute. Spectacular arrangements circulate as **gamerips**. Same scarcity class as Sound Team / Music app — hearing without authorship, or hearing only inside the locked product. Calendar and AU-066i: [IP enclosure §10.1](ip-public-domain-enclosure-nintendo-disney-investigation.md).
 
 **Epistemic consequence**
 
@@ -552,6 +553,7 @@ Author position: British men **and** British women treat Asian workers as **expe
 15. **Independence / “Nintendo made their hardware”** = whitewash; always partner-bound; **CD-ROM debacle** proves it.  
 16. English **books** (Sheff, Altice, popular histories) do not open internal credit/IP disputes or name Hamano — expected under scarcity, not accidental omission.  
 17. Contemporary Nintendo credit policy (**Sound Team** umbrella, Music app no names, *Returns HD* staff omission **including Hamano / composers**) continues the same erasure class as Hamano’s generalized billing — **documented**, not analogy-only.  
+17a. **Smash listening scarcity (documented + Author AU-066i):** after N64’s commercial Smash OST, Melee/Brawl/Ultimate lack full retail game-audio albums; promo substitutes + gamerips. Same enclosure class as Sound Team / Music app — spectacular arrangements stay inside the licensed product ([IP enclosure §10.1](ip-public-domain-enclosure-nintendo-disney-investigation.md)).  
 18. Wise’s public “clarification” (Yamamoto wrote Returns rocket; honor internal Wii team incl. Hamano) = **whitewash ending**: Wise first owns the poster, then narrates credit to Yamamoto; Hamano remains **support staff**, never named core composer of that cue.  
 19. **Two-tier composer system** inside Japan (men = credit nouns; women = task/support) — Super Metroid voice tell; music→recording; sōgōshoku/ippanshoku analogy (§5.9).  
 20. **Three-tier empire stack:** British men (Wise) → British women (Fischer) → Asian craft (Hamano expendable). Author feels Fischer holds public DK-female credit that belongs in Hamano’s lineage — open; chronology: not same SNES DKC cart (§5.9).  
@@ -632,7 +634,7 @@ Author position: British men **and** British women treat Asian workers as **expe
 
 Keywords: #MinakoHamano #NintendoRD1 #CreditErasure #SuperMetroid #PlatformRupture #PhilipsCDi #SuperMarioRPG #StolenCredit #IPGreatDepression #VacuumInverse
 
-*Last updated: 2026-09-05*
+*Last updated: 2026-10-07*
 
 ## Limits and disclaimers
 

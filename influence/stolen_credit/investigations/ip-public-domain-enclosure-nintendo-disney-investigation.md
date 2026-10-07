@@ -1,6 +1,6 @@
 # Intellectual property enclosure — term extensions, nostalgia remakes, and whether the public domain is being prevented (open)
 
-> **TL;DR:** **Assessment:** corporations have run a **public, repeated, successful campaign to postpone** the public domain. That campaign is the **statute and the trade deals**, not the Pixel Remaster. The last general United States term hike was the **Sonny Bono Copyright Term Extension Act** (1998). *Steamboat Willie* still entered the US public domain on **1 Jan 2024**. A *Final Fantasy* reissue does **not** move the 1987 clock. The pre-*X* reissue chain (PlayStation load-time ports, then mobile redraws, then the Pixel Remaster) is public, repeated, and successful at **selling a substitute**. It is not a demonstration that the public-domain date moved. **AU-066.**
+> **TL;DR:** **Assessment:** corporations have run a **public, repeated, successful campaign to postpone** the public domain. That campaign is the **statute and the trade deals**, not the Pixel Remaster. The last general United States term hike was the **Sonny Bono Copyright Term Extension Act** (1998). *Steamboat Willie* still entered the US public domain on **1 Jan 2024**. A *Final Fantasy* reissue does **not** move the 1987 clock. The pre-*X* reissue chain (PlayStation load-time ports, then mobile redraws, then the Pixel Remaster) is public, repeated, and successful at **selling a substitute**. It is not a demonstration that the public-domain date moved. Smash after N64 mostly skipped matching full retail game-audio OSTs — arrangements stay inside the game or on gamerips (**AU-066i**, §10.1). **AU-066.**
 
 **Status:** Open. Author thesis first-class. Statutory timeline and the 1998 / 2022 / 2024 record are documented. “Never” and “the remake resets the right” are scored and rejected as legal claims.
 
@@ -17,7 +17,7 @@
 7. **Paid in full, use withheld** (§7) — Nintendo Classics, Yuzu
 8. **Santa and Lincoln beside Mickey and Mario** (§8)
 9. **Who may put the icon in a war** (§9) — Disney 1943; 2026 LEGO-style Iran videos
-10. **Consolidation** (§10) — *Kingdom Hearts*, *Smash*
+10. **Consolidation** (§10) — *Kingdom Hearts*, *Smash*; **§10.1** Smash soundtrack non-release (audio enclosure)
 11. **Open claims, questions, related**
 
 ---
@@ -338,6 +338,33 @@ The author’s sequence — consolidation, then controversy, then a messier lock
 
 A crossover with “no real political message” is still a demonstration that these faces can be gathered. The 1943 shorts and the 2026 brickfilms are what it looks like when someone **does** attach a message. The power to attach one, or to refuse everyone else the chance, is the same power.
 
+### 10.1. Smash soundtrack non-release — audio enclosure
+
+**Author addendum (2026-10-07).** The author remembered Melee / Brawl (and later Smash) soundtracks circulating as torrents and rips, and was surprised to find they often never had matching commercial OST albums the year of the game the way Square-class titles do. The read: original-era artists allowed back for these games made spectacular arrangements, then stayed suppressed — nobody hears those songs legally except by playing the locked game or ripping the audio.
+
+**Documented release calendar (VGMdb / SmashWiki / Club Nintendo / community gamerip indexes):**
+
+| Game | Ship year | Matching commercial full OST? | What existed instead |
+|------|-----------|-------------------------------|----------------------|
+| *Super Smash Bros.* (N64) | 1999 | **Yes** — Japan retail 2CD, Teichiku / Continental **TECD-35446~7**, **21 Jan 2000** ([VGMdb](https://vgmdb.net/album/1541); [SmashWiki](https://www.ssbwiki.com/Nintendo_All-Star!_Dairant%C5%8D_Smash_Brothers_OST)) | Full game-audio album + arrange disc |
+| *Melee* (GCN) | 2001 | **No** full game-audio OST | [*Smashing…Live!*](https://www.ssbwiki.com/Smashing...Live!) — New Japan Philharmonic **orchestral** concert CD; Japan magazine gift (Famitsu Cube+Advance, late 2002), then Nintendo Power / ONM subscriber gifts (2003–2004). **Not** a retail store OST of the in-game audio. EarthBound material **excluded** from the concert; SmashWiki notes potential copyright issues with co-rights holder Keiichi Suzuki |
+| *Brawl* (Wii) | 2008 | **No** official soundtrack album | Community **gamerips** only (e.g. KHInsider labels the set a gamerip). Fans still ask why in **2024** ([r/smashbros](https://www.reddit.com/r/smashbros/comments/1brzdtg/how_come_brawl_never_hit_an_ost_release/)); top replies point at a **licensing nightmare** as third parties pile up |
+| *Smash 4* (3DS / Wii U) | 2014 | **No** full retail OST | [*A Smashing Soundtrack*](https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS_/_Wii_U:_A_Smashing_Soundtrack) — **72** selected tracks, Club Nintendo **promo** for registering **both** games; **not for sale**; incomplete vs the in-game library |
+| *Ultimate* (Switch) | 2018 | **No** commercial full series OST | In-game Sounds menu; size + multi-party rights make a complete retail / Nintendo Music dump unlikely in public discussion |
+
+**Contrast (industry practice, not Nintendo-unique):** Square / Square Enix routinely shipped multi-disc commercial OSTs in the same calendar window as major titles. Smash after N64 mostly did **not**. The N64 album proves Nintendo *could* clear a commercial Smash OST when the roster was smaller and mostly first-party.
+
+**Why (scored):**
+
+| Layer | Score |
+|-------|--------|
+| Multi-party **music** clearance is harder than a game license. A retail album is a separate product that must clear each source publisher / composer stack that the crossover gathered. | **Documented** friction specimen: EarthBound cut from *Smashing…Live!*. **Documented** community explanation for Brawl / Ultimate: licensing nightmare. |
+| After N64, Nintendo substituted **promo / incomplete** music products (magazine orchestral gift; Club Nintendo selection) for a **full** commercial game-audio OST. | **Documented** product history. Motive for choosing that substitute is **Author** when read as policy. |
+| Practical effect: listeners who want the spectacular in-game arrangements outside the fight get **gamerips and torrents**, not a store album. | **Documented** distribution path (KHInsider-class gamerips; fan “Anthology” collections). Illegal rip culture is **observed**, not endorsed. |
+| **AU-066i (Author):** that scarcity continues the suppression of original-era composers who were allowed back for momentary, excellent Smash arrangements — Uematsu as Brawl main-theme composition supervisor is the public name; HAL / Nintendo arrangers (Ando, Sakai, Ikegami, and the wider guest arrange roster) did the spectacular work — while the legal listening path stays **inside the paid game**. Same enclosure class as remake-as-demand-sink and Music-app / Sound-Team name drought ([Hamano §8c](minako-hamano-investigation.md#8c-ip-great-depression--scarcity-strategy-author-frame)). | **Author** on suppression purpose. **Documented** on the missing full OSTs and the rip economy that filled them. |
+
+**Logical join (validated, not overclaimed):** §10 already shows Smash multiplies vetoes over the **picture**. §10.1 shows the same stack multiplies vetoes over the **audio product**. When the album never ships, the arrangement work still exists — it just cannot circulate as ordinary music commerce. That is further evidence for the consolidation thesis: gather the icons, then keep the spectacular remix of those icons locked to the licensed product. It is **not** proof that any named composer was individually ordered silenced. It **is** proof that after 2000 the series mostly refused the Square-style same-year OST path that would have let listeners hear those arrangements without owning (and ripping) the game.
+
 ---
 
 ## 11. Author open claims (AU-066)
@@ -354,6 +381,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | AU-066f | The 2026 LEGO-style Iran videos are the same icon power turned on the US military. | **Documented** that state-linked AI minifig videos carried that message. **Not** a LEGO Group production. |
 | AU-066g | Morrison **2000–2003** is mop-up after Western *Pokémon* (Sept **1998**) already owned the room: a senior US mark squeezed by a renamed hit, not a live gate fight. The outcome can still be **heard** as a foreign-parented kids franchise defeating a US senior toy mark (leftover Sheff weather); the holding is sight/sound/survey, not children’s-culture stakes. | **Author** on mop-up lead and on available foreign-defeat reception. **Documented** on parties, 29 Mar 2000 filing, Sept 1998 launch, and 56 F. App’x 782 (§5.1). **Rejected** as a counted public of this docket, and as a live resistance war that could still stop the import. |
 | AU-066h | Social camp defense around nostalgia remakes: industry critique under a personal craft post is reframed as hobby policing; hatred artifacts (insults, “get help,” credential challenge, troll image) replace answers about remake quality; the poster can agree the industry is bad and still eject the critic. That is how “never be happy” works without a corporate reply. | **Author** specimen (§6.0a). Names withheld. Not a poll. |
+| AU-066i | Smash soundtrack enclosure: after the N64 commercial OST, *Melee* / *Brawl* / *Ultimate* (and Smash 4 beyond a Club Nintendo selection) never got matching full retail game-audio albums; spectacular arrangements by returning / guest composers stay locked to the game or to gamerips; multi-party clearance + Nintendo promo substitutes explain the gap; effect is continued suppression of hearing outside the licensed product. | **Author** on suppression purpose. **Documented** release calendar and rip economy (§10.1). EarthBound cut from *Smashing…Live!* is the hard rights specimen. |
 
 ---
 
@@ -368,6 +396,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | Q5 | LEGO Group enforcement, if any, against Explosive Media’s minifig lookalikes in 2026. | LEGO statements, takedown notices. Absence would confirm the lookalike sat outside the holder’s practical control. |
 | Q6 | Does Nintendo Switch Online’s ROM set differ from the cartridge in ways that matter for preservation (censorship, unreleased revisions, save states as the only record)? | Binary compare against documented cartridge dumps. Preservation claim, not a piracy guide. |
 | Q7 | Any **2000–2003** US press that names Japan, the trade deficit, or “foreign company” in coverage of **this** Morrison suit (not Sheff 1993)? | News archive sweep. Negative so far: LABJ is small California toy firm versus Nintendo of America. |
+| Q8 | Internal Nintendo / HAL / Sakurai reason for skipping a full *Melee* or *Brawl* retail OST (cost vs rights vs policy)? | Interviews, Club Nintendo / music-label memos, Teichiku follow-ups. Community “licensing” is hypothesis until a primary source lands. |
 
 ---
 
@@ -380,6 +409,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 - Work-for-hire dates are **arithmetic under a rule**, not a caption read off each game’s registration.
 - Emulation law is fact-specific. This file does not map which emulators are lawful. It uses Yuzu’s **outcome** (shutdown, money, domain) as the enforcement specimen.
 - The Morrison disposition is **unpublished**. Do not treat 56 F. App’x 782 as nationwide trademark doctrine. Do not allege the panel was an agent of Kyoto. “Foreign defeat” is AU-066g, not a poll.
+- Smash OST scarcity is **not** “Nintendo never released music CDs.” N64 Smash and many first-party titles did. The charge is the **post-2000 Smash series pattern**: no full commercial game-audio OST for Melee/Brawl/Ultimate, promo substitutes only. Do not invent a memo that “banned” albums.
 
 ---
 
@@ -412,10 +442,14 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | *Morrison*, 56 F. App’x 782 (9th Cir. 2003) | Reverse confusion; sight/sound; Pocket Monster meaning |
 | [Baltimore Sun, 18 May 1993](https://www.baltimoresun.com/1993/05/18/how-super-mario-conquered-america/) | Sheff *Game Over*; living-room / trade-deficit atmosphere |
 | [Washington Post, 4 Aug 2016](https://www.washingtonpost.com/news/the-switch/wp/2016/08/04/meet-the-man-who-made-pokemon-an-international-phenomenon/) | Kahn “Japanese-y” memoir |
+| [VGMdb, N64 Smash OST](https://vgmdb.net/album/1541) | Commercial 2CD, 21 Jan 2000 |
+| [SmashWiki, *Smashing…Live!*](https://www.ssbwiki.com/Smashing...Live!) | Melee orchestral magazine gift; not full game OST |
+| [SmashWiki, *A Smashing Soundtrack*](https://www.ssbwiki.com/Super_Smash_Bros._for_Nintendo_3DS_/_Wii_U:_A_Smashing_Soundtrack) | Smash 4 Club Nintendo selection |
+| [Hamano §8c IP Great Depression](minako-hamano-investigation.md#8c-ip-great-depression--scarcity-strategy-author-frame) | Credit / listening scarcity sibling |
 
-Keywords: #PublicDomain #CopyrightTerm #SonnyBono #MickeyMouse #Mario #PixelRemaster #Nintendo #Disney #DMCA #Trademark #KingdomHearts #SmashBros #Lego #InformationControl #AU066 #Pokemon #Morrison #MonsterInMyPocket
+Keywords: #PublicDomain #CopyrightTerm #SonnyBono #MickeyMouse #Mario #PixelRemaster #Nintendo #Disney #DMCA #Trademark #KingdomHearts #SmashBros #Lego #InformationControl #AU066 #Pokemon #Morrison #MonsterInMyPocket #Soundtrack #Melee #Brawl
 
-*Last updated: 2026-10-05*
+*Last updated: 2026-10-07*
 
 ## Limits and disclaimers
 

@@ -92,7 +92,7 @@ That question is the real one. Someone was inspired by the cartridge and is unin
 
 Childhood faces are a speech channel. Disney could put [Donald Duck in a Nazi factory](https://www.waltdisney.org/blog/disney-wwii-propaganda-pt1) and walk a German boy through [Hitler Youth schooling](https://d23.com/a-to-z/education-for-death-film/) in 1943, because Disney held the face. In 2026, [viral videos that looked like LEGO minifigs](https://www.bbc.com/news/articles/cjd8jrd1vnyo) carried a war message about Iran and the United States. Those clips were not a LEGO Group film. They were lookalikes. They still worked because children already know the bricks. The holder wants that power. The holder does not want the public to have it. Santa Claus and Abraham Lincoln are the other kind of face: anyone may use them, and taste is the only brake. Mario is not that kind of face.
 
-Crossovers pile the locked faces into one product. *Kingdom Hearts* and *Smash Bros.* are demonstrations that the faces can be gathered. They also multiply the companies that must say yes before anyone else may use the picture people actually remember. Fan anger does not shorten a copyright. It does make the legal stack messier. The public never quite receives the icon.
+Crossovers pile the locked faces into one product. *Kingdom Hearts* and [*Smash Bros.*](https://paradigmthreat.net/influence/stolen_credit/investigations/ip-public-domain-enclosure-nintendo-disney-investigation.md) are demonstrations that the faces can be gathered. They also multiply the companies that must say yes before anyone else may use the picture people actually remember. After the N64 commercial soundtrack, later Smash games mostly never got a matching full retail game-audio album — the spectacular arrangements stayed inside the fight, or on gamerips. Fan anger does not shorten a copyright. It does make the legal stack messier. The public never quite receives the icon.
 
 ## Take a stand or accept the cage
 
@@ -137,7 +137,7 @@ Keywords: #Nintendo #Barney #Teletubbies #Pokemon #PocketMonsters #DonkeyKong #M
 
 **Substack:** https://paradigmthreat2.substack.com/p/before-barney-teletubbies-and-pokemon
 
-**Last updated:** 2026-10-06T07:45:00-04:00
+**Last updated:** 2026-10-07T14:40:00-04:00
 
 ---
 

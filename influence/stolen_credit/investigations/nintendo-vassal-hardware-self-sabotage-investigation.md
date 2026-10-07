@@ -294,13 +294,13 @@ So: “SNES license ends at GameCube start” is **too clean**. West killed SNES
 | [rare-nintendo-rd.md](../rare-nintendo-rd.md) | Blank credits / British second party |
 | [final-fantasy-vii-nintendo-story-sabotage-investigation.md](final-fantasy-vii-nintendo-story-sabotage-investigation.md) | Square/CD capacity politics |
 | [Agile / Scrum versus Leadership](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md) | **AU-057o:** organic Kyoto shop vs flatten when IP was ripped; same Honda→Scrum grammar |
-| [IP enclosure / public domain (AU-066)](ip-public-domain-enclosure-nintendo-disney-investigation.md) | Copyright term, remakes, DMCA; sibling to the hardware clamp |
+| [IP enclosure / public domain (AU-066)](ip-public-domain-enclosure-nintendo-disney-investigation.md) | Copyright term, remakes, DMCA; **§10.1** Smash soundtrack non-release (audio enclosure); sibling to the hardware clamp |
 | [Before Barney, Teletubbies, and Pokémon](../before-barney-and-pokemon.md) | Generational letter; Penny Arcade / *Other M* / *Dread* specimen |
 | [Chozo lore × Mars RV (AU-067)](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) | PAL Chozo **shadow-remainder** trim; *Dread* as later same-class rewrite |
 
 Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #VacuumInverse #StolenCredit #PennyArcade #MetroidOtherM #MetroidDread
 
-*Last updated: 2026-10-05*
+*Last updated: 2026-10-07*
 
 ## Limits and disclaimers
 
@@ -319,5 +319,4 @@ Keywords: #Nintendo #Famicom #SNES #SPC700 #CDROM #N64 #Vassal #SelfSabotage #Va
 - Agent transcript: `12117906-f4fe-46c2-889e-40975d0bbffe`.
 - 2026-10-05: eFront ≈2000–2001 rights-grab / payment default (§6d). Documented fleecing; Author arc eFront → messaging → charity theater (cross MSF dossier). Limits: Author function read; Child’s Play ≠ MSF money hops.
 - 2026-10-03: Penny Arcade “All Is Forgiven”; *Other M* / *Dread*. Limits: Author function read; do not write *Other M* as a 0/10 Metacritic bomb.
-
-*Last updated: 2026-09-06*
+- 2026-10-07: Related → IP enclosure §10.1 Smash OST audio enclosure (AU-066i).
