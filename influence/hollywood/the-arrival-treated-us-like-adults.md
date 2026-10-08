@@ -127,6 +127,7 @@ The [mudflood hub](https://paradigmthreat.net/history/mudflood/page.md) holds th
 - [**Everything Burns**](https://paradigmthreat2.substack.com/p/everything-burns) — **Installment II:** Pacific / *Dark Knight* / *24*.
 - [**Everything in Independence Day Is True**](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) — **Installment III:** *ID4*; everything true; Whitmore.
 - **The Arrival Treated Us Like Adults** (this page) — **Installment IV:** *The Arrival* (1996) NSA geoengineering message vs *Signs* (2002) media-reset insult; crop circles / mudflood / Birkeland close.
+- [**They Had to Use a Robot**](https://paradigmthreat.net/influence/hollywood/they-had-to-use-a-robot.md) — **Installment V:** *Tron*; the Pontil look-away; the robot.
 
 **Technical companions:**
 

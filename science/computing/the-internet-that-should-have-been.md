@@ -26,6 +26,10 @@ The historical litter is instructive. Pete Lacey's **"WS-Death"** essay mocked S
 
 I do not claim every platform executive met in a room and voted to suppress introspection. I claim the **incentive landscape** consistently rewarded opacity: walled gardens, SaaS rent, demographic targeting, DRM, anti-scraping, "security" that means **you** may not understand **your** software. Whether you call that conspiracy or emergent order, the **counterfactual** is stark: an inspectable web changes SEO, competition, programming education, and real-time information control. No wonder the fully open hood waited until the **AI gate** could absorb it.
 
+The name was already on screen. In *Tron* (1982) the villain is the **Master Control Program**. In November 2024 the universal tool pipe arrived as the **Model Context Protocol** — the same three letters. "Model context" does not say what that pipe does. A context window is what a model holds while it answers. The protocol is a contract any program can use to call procedures on someone else's system: what the action is, what the parameters are, what comes back. Other words could have stood in front of "Protocol." The bizarre part is the assumption that only an AI would use it, and that nobody thought of it until 2024. A procedure contract does not require a language model. Had it been ordinary in the 1990s, you would order food through your own client, shops would compete on declared capability, and the web would have had freedom and competition instead of a sealed storefront. They did not roll it out until this moment. It reads as if they did not want us to have it at all.
+
+The calendar is tight enough to say out loud. Anthropic published the spec on **25 November 2024**, twenty days after the election and before inauguration ([announcement](https://www.anthropic.com/news/model-context-protocol)). That the drop follows the election is a date. The only reason to hold a protocol like this back is to roll it out during a takeover. If people had it, they would install it on their own servers. Held-back software is a dam: NSA-side allies are the pressure, CIA-side delay spends every trick it has, and the burst is when those tricks run out. A missing magazine story is not an empty reservoir. The drop is that burst, ahead of the takeover, not the NSA shipping a product of its own. The spoken find — the childhood name, then the page that tells you to look away — is [They Had to Use a Robot](/influence/hollywood/they-had-to-use-a-robot.md). Dossier: [§2.2](/science/computing/investigations/internet-that-should-have-been-investigation.md).
+
 ---
 
 ## II. The long wrong turn — hardware and platforms
@@ -158,7 +162,7 @@ Keywords: #InternetThatShouldHaveBeen #WebMCP #OpenHood #Education #Ethics #Prag
 
 **Substack:** [paradigmthreat2.substack.com/p/the-internet-that-should-have-been](https://open.substack.com/pub/paradigmthreat2/p/the-internet-that-should-have-been)
 
-**Last updated:** 2026-06-30 (inventor-containment cross-link §I; Kildall in §II)
+**Last updated:** 2026-10-08 (*Tron* name landing corrected to a dam burst; Pontil look-away points at [They Had to Use a Robot](/influence/hollywood/they-had-to-use-a-robot.md))
 
 ---
 

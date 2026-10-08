@@ -2654,5 +2654,55 @@
       "A remake restarts the original copyright.",
       "This is only a taste complaint about one launch."
     ]
+  },
+  {
+    "id": "tron-mcp-name-landing",
+    "title": "Tron predicted the Model Context Protocol",
+    "claim": "Tron (1982) named the childhood villain MCP, and that name landed on Anthropic's Model Context Protocol on 25 November 2024. The only reason to hold a protocol like this back is a takeover rollout. The drop is a dam burst — CIA-side delay ran out of tricks as NSA-aligned politics returned — not the NSA shipping its own tool. The flagship find is the Pontil page: it tells the reader to look away, and it is in a robot voice because a human who saw the connection would not have written that dismissal.",
+    "answerOpener": "The amazing part is not only that the childhood villain's initials came back in 2024. It is that the article telling you to ignore that connection was written by a robot. They could not find a person who would see it and still write the look-away.",
+    "bullets": [
+      "Documented plot: the Master Control Program absorbs other programs and aims at real command systems.",
+      "Documented launch: Anthropic, 25 November 2024; the post does not cite Tron.",
+      "Only hold-reason: a takeover rollout. The drop is a dam burst when CIA-side delays run out. Not an NSA product launch. No named leaker.",
+      "Flagship: the Pontil page tells the reader to look away, in a robot voice. A human who saw the childhood name would not have written that dismissal.",
+      "OpenAI's \"open\" is a separate documented lie (Sutskever, 5 Mar 2024; AU-052 Cursor wind-down). OpenAI did not publish or block this protocol."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Acronym jokes are public. The withheld-citizen-pipe plus election-tide reading is this site's.",
+    "topics": [
+      "tron",
+      "master control program",
+      "model context protocol",
+      "mcp name"
+    ],
+    "demoQuestions": [
+      "Did Tron predict the Model Context Protocol?",
+      "Why is the Model Context Protocol named MCP?",
+      "Why wasn't the Model Context Protocol released until 2024?"
+    ],
+    "searchQueries": [
+      "Tron Master Control Program Model Context Protocol 2024"
+    ],
+    "searchPrefixes": [
+      "governance/war/investigations/",
+      "science/computing/"
+    ],
+    "canonicalPaths": [
+      "influence/hollywood/they-had-to-use-a-robot.md",
+      "governance/war/investigations/nsa-investigation.md",
+      "science/computing/the-internet-that-should-have-been.md",
+      "science/computing/investigations/internet-that-should-have-been-investigation.md",
+      "governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md"
+    ],
+    "relatedClaimIds": [
+      "presidential-alignment-au046"
+    ],
+    "doNotSay": [
+      "Anthropic's launch post cites Tron.",
+      "The NSA shipped the Model Context Protocol as its own tool.",
+      "OpenAI published or blocked the Model Context Protocol.",
+      "A payroll record proves no human would write the Pontil page."
+    ]
   }
 ]

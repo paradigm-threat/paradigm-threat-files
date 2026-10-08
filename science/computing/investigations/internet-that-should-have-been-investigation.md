@@ -1,6 +1,6 @@
 # Investigation: The Internet That Should Have Been — Machine-Readable Web, Wrong Turns, and the AI Gate
 
-> **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, **Android developer verification** (phased from Sept 2026 — §10.6), court AI-hallucination crisis, Berners-Lee **devastated** by web outcome. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest. **Education lane moved** → [Responsibility to the Next Generation — investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md). **Terminator PP:** Moore-schedule read, T3 virus ↔ Nano — **speculative** (§11.4). **Suppression motive:** alleged, unproven.
+> **TL;DR:** Master citation dossier for the flagship essay [*The Internet That Should Have Been*](/science/computing/the-internet-that-should-have-been.md). **Documented:** Wintel lock-in, Nintendo CD-ROM containment, GPU→crypto→AI hardware treadmill, enclosure via Facebook/React, WebMCP as **agent-first** browser API (Feb 2026), Chrome **~4 GB Gemini Nano** push, **Android developer verification** (phased from Sept 2026 — §10.6), court AI-hallucination crisis, Berners-Lee **devastated** by web outcome. **Author thesis:** machine-readable intent (“open the hood”) should have shipped **in the 1990s without AI**; the web we got is a **TV channel**; forward fixes must **bridge the present** under protest. **Education lane moved** → [Responsibility to the Next Generation — investigation](/history/chronology/investigations/responsibility-to-the-next-generation-investigation.md). **Terminator PP:** Moore-schedule read, T3 virus ↔ Nano — **speculative** (§11.4). **Suppression motive:** alleged, unproven. **2026-10-08:** *Tron* **MCP** name landing, AI-only framing, and the **25 Nov 2024** election-tide read are **author** (§2.2, §3.7) — acronym jokes are public; causation is not.
 
 **Last updated:** 2026-06-23 (§10.6 Android pocket enclosure)  
 **Status:** Open — companion to reader essay; WebMCP chapter retained from prior dossier (`webmcp-suppressed-protocol-ai-gatekeeper-investigation.md` renamed).
@@ -121,11 +121,34 @@ The following is the **author-supplied** position for **Paradigm Threat**. It is
 
 **Tier:** Consent/storage controversy is **documented** (§1.1). **Intent** to “assume users don’t mind” is **author interpretation** of product strategy.
 
+### 2.2 Author extension — *Tron* named it; AI-only is the tell (2026-10-08)
+
+> The movie predicted this moment, and even the name of the protocol. "Model context" did not immediately give away what the new MCPs are supposed to be doing. Protocol sounded right, but a lot of other letters could have stood in front of it. The bizarre part is that this was not released until 2024, as if nobody thought of it, and as if only AI could use it. That assumption is ludicrous. We would have been using this protocol for decades. The internet would be totally different. People would order food through it in their own custom clients. There would be freedom and competition. Because they did not roll it out until this moment, it reads as if they did not want us to have it at all. It seems like something that happened because Trump was re-elected — part of the ebb and tide.
+
+**Unpack:**
+
+| Piece | Tier |
+|-------|------|
+| Anthropic open-sourced **Model Context Protocol** on **25 Nov 2024**, after the **5 Nov** election, before inauguration; launch post does not cite *Tron* | **Documented** — [Anthropic](https://www.anthropic.com/news/model-context-protocol) |
+| *Tron* (1982) villain is the **Master Control Program**; it absorbs other programs and aims at real command systems | **Documented plot** — [wiki summary](https://tron.fandom.com/wiki/Master_Control_Program) |
+| Public asks whether the acronym is intentional | **Documented questions, unanswered** — [r/tron, 8 July 2025](https://www.reddit.com/r/tron/comments/1lujnwx/is_model_context_protocol_a_tron_reference/); [AI Stack Exchange, 7 May 2026](https://ai.stackexchange.com/questions/50574/is-the-acronym-mcp-model-context-protocol-intentionally-referencing-trons-m) |
+| Pontil: the two MCPs "share three letters and almost nothing else"; protocol does not decide | **Documented correction** — [Pontil](https://www.pontil.com/blog/what-is-a-master-control-program-the-term-the-meanings-and-why-it-matters-now) |
+| Burroughs **Master Control Program**, 1961 | **Documented prior name** — [Burroughs MCP](https://en.wikipedia.org/wiki/Burroughs_MCP) |
+| Film predicted the moment **and** the initials; "model context" hides a general procedure contract; AI-only framing is how citizens were kept off it | **Author thesis** |
+| Pontil technical split (protocol does not decide) | **Documented as engineering** — same URL. **Author:** the page uses that truth as a look-away. Unsigned formula voice. They could not find a human who would see the name and still write the dismissal. Spoken home: [They Had to Use a Robot](/influence/hollywood/they-had-to-use-a-robot.md) |
+| Only hold-reason is a **takeover rollout**; 25 Nov 2024 is the **dam burst** | **Author.** If the pipe had been ordinary, people would install it on their own servers. Missing press notice ≠ empty reservoir. NSA-side allies are the pressure; CIA-side allies delay until the tricks run out. Not "the NSA shipped its tool." No named leaker. Gauge: [NSA-aligned presidencies §8](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) |
+| OpenAI's name does not mean open source | **Documented, separate lane.** [OpenAI and Elon Musk](https://openai.com/index/openai-elon-musk/) (5 Mar 2024), summarized by [Ars Technica](https://arstechnica.com/information-technology/2024/03/openai-clarifies-the-meaning-of-open-in-its-name-responding-to-musk-lawsuit/): Sutskever wrote that "open" means everyone should benefit **after** it is built, "it's totally OK to not share the science," and "as we get closer to building AI, it will make sense to start being less open." Early open-sourcing is described as a recruiting tactic. Musk's complaint calls the lab a closed-source Microsoft subsidiary ([amended complaint](https://storage.courtlistener.com/recap/gov.uscourts.cand.433688/gov.uscourts.cand.433688.32.0_1.pdf)). **Does not** say OpenAI published or blocked MCP |
+| OpenAI Cursor wind-down | **Documented specimen of centralized control during competition** — [AU-052](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md), 28 Aug 2026. Kill switch, thin ToS pretext. Not the MCP release |
+
+**Correction after the captured quote:** the sentence "because Trump was re-elected" is the cycle marker, not a claim that the NSA presidency shipped the protocol. The locked read is the dam. CIA-backed delay keeps the takeover plan afloat. The burst is when those tricks run out, as NSA-aligned politics return and CIA projects start halting.
+
+**Gap vs public:** acronym jokes exist. Pontil tells the reader to stop pattern-matching the film. No located essay states the **takeover-only hold + dam burst + robot look-away** together. Prior machine-contract history (OLE, CORBA, WSDL, OpenAPI) is §4 — those specs existed and stayed inside developer walls. The author's complaint is the missing **citizen** pipe, not a claim that remote procedure calls were uninvented.
+
 ---
 
 ## 3. External voices survey — who agrees, partially agrees, or opposes
 
-**Method:** Web search + standards threads + Hacker News (June 2026). **Finding:** **No** prominent essay located that states the author’s full thesis (**90s independent protocol + deliberate suppression for information control + car hood**). Below: **closest public rhymes**.
+**Method:** Web search + standards threads + Hacker News (June 2026). **Finding:** **No** prominent essay located that states the author’s full thesis (**90s independent protocol + deliberate suppression for information control + car hood**). **October 2026 add:** public threads **do** ask whether **Model Context Protocol** nods at *Tron*’s Master Control Program (§3.7). They stop at the joke. Below: **closest public rhymes**.
 
 ### 3.1 “This is Semantic Web again” / “should have used RDF”
 
@@ -182,6 +205,17 @@ The following is the **author-supplied** position for **Paradigm Threat**. It is
 | **Deliberate suppression** to preserve **information control** / walled gardens | **Not found** in technical press; **adjacent** in **author’s** site lanes ([AI control](/science/ai/ai-control-investigation.md), [censorship](/influence/censorship/)) |
 | **Car hood sealed** — only **company technician** (agent) opens it | **Not found** (June 2026 search) — treat as **author-original metaphor** |
 | WebMCP rollout **wrong order** (protocol before AI) | **Not found** verbatim; **closest** is anti-agentic **ethics**, not **counterfactual systems design** |
+| *Tron* **predicted the MCP name** and an AI-only rollout held for the election tide | **Acronym question only** — [r/tron](https://www.reddit.com/r/tron/comments/1lujnwx/is_model_context_protocol_a_tron_reference/), [Stack Exchange](https://ai.stackexchange.com/questions/50574/is-the-acronym-mcp-model-context-protocol-intentionally-referencing-trons-m), [Pontil](https://www.pontil.com/blog/what-is-a-master-control-program-the-term-the-meanings-and-why-it-matters-now). **Not** the withholding or tide thesis (§3.7) |
+
+### 3.7 *Tron* acronym — noticed, not the thesis
+
+| Voice | Position |
+|-------|----------|
+| [r/tron, 8 July 2025](https://www.reddit.com/r/tron/comments/1lujnwx/is_model_context_protocol_a_tron_reference/) | Asks if Anthropic’s acronym nods at the film’s megalomaniacal program. Replies: plausible programmer in-joke, or coincidence because the words already spell MCP. |
+| [AI Stack Exchange, 7 May 2026](https://ai.stackexchange.com/questions/50574/is-the-acronym-mcp-model-context-protocol-intentionally-referencing-trons-m) | Same question. No official answer. The reply only restates the November 2024 launch. |
+| [Pontil, 2026](https://www.pontil.com/blog/what-is-a-master-control-program-the-term-the-meanings-and-why-it-matters-now) | Warns engineers not to pattern-match the film onto the protocol. Controller vs wire format. |
+
+**Gap vs author:** these sources **see the letters**. They do not say the film **predicted a withheld citizen protocol**, and they do not place the 25 Nov 2024 drop on the **election tide**.
 
 ---
 
@@ -276,7 +310,13 @@ These technologies show the **idea** of opening the hood **existed**; **none** b
 32. **Opaque reach (author):** Site barely seen; podcast bypass around algorithmic shadow-ban — **lived experience** (§10.5).  
 33. **Layered-reality hijack (author):** Per-visitor substitution at URL — **speculative**; requires global monopolization thesis (§10.5).  
 34. **WebMCP misleading label (documented):** Not Anthropic MCP wire protocol; “MCP-inspired” only — Mozilla, Chrome, Starborn (§1.4).  
-35. **Android pocket enclosure (documented + author):** Developer verification on **certified Android** — phased **Sept 30, 2026** (four countries) → **2027+ global**; identity registry + **advanced sideload** friction; [Google absorb-enclose dossier](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) (§10.6).
+35. **Android pocket enclosure (documented + author):** Developer verification on **certified Android** — phased **Sept 30, 2026** (four countries) → **2027+ global**; identity registry + **advanced sideload** friction; [Google absorb-enclose dossier](/science/computing/investigations/google-dont-be-evil-enclosure-investigation.md) (§10.6).  
+36. ***Tron* name landing (author):** 1982 Master Control Program initials return as **Model Context Protocol** (25 Nov 2024). Public threads ask if the acronym is a joke (§3.7). They do not state this thesis (§2.2).  
+37. **"Model context" hides the pipe (author):** the words describe a prompt window, not a citizen procedure contract. Other letters could have preceded "Protocol."  
+38. **AI-only framing (author):** a tool pipe does not require a language model. Counterfactual includes **custom clients** (order food, compete on declared capability) decades earlier.  
+39. **Dam burst (author):** spec drop **20 days after** the 2024 election is the **cycle marker**. Only hold-reason is a takeover rollout. NSA-side pressure is assumed. CIA-side delay runs out of tricks. No named leaker. Not an NSA product launch.  
+40. **Pontil robot look-away (author):** the disambiguation page retires the film and points the reader at their own project. Formula voice. Flagship find — [They Had to Use a Robot](/influence/hollywood/they-had-to-use-a-robot.md).  
+41. **OpenAI "open" (documented, separate):** Sutskever email in the 5 Mar 2024 Musk reply — benefit after it is built, not sharing the science. Cursor wind-down is [AU-052](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md). Neither row says OpenAI published or blocked MCP.
 
 ---
 

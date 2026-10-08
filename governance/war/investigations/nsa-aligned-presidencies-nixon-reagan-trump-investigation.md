@@ -226,6 +226,7 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 | Assassination / media framing | [Trump assassination dossier](/governance/war/investigations/trump-assassination-attempts-media-kimmel-whcd-ballroom-investigation.md) |
 | RINO brake on populist mandate | [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) |
 | NSA institutional spine | [NSA investigation / *Tron*](/governance/war/investigations/nsa-investigation.md) |
+| **MCP dam burst (author)** | Anthropic published **Model Context Protocol** on **25 Nov 2024**, twenty days after the election. The date is the cycle marker. The read: the pipe was held for a takeover rollout; CIA-side delay ran out of tricks; the drop is not an NSA product launch. No named leaker. [NSA § IV](/governance/war/investigations/nsa-investigation.md); [internet dossier §2.2](/science/computing/investigations/internet-that-should-have-been-investigation.md); spoken find [They Had to Use a Robot](/influence/hollywood/they-had-to-use-a-robot.md) |
 
 **Working label:** **Trump = NSA camp (presidential)**. Reagan = **contrast foil** (globalist/CIA construct or play). Nixon = **early non-compliant / grounded** precursor who got **scandal-exited**.
 
@@ -254,6 +255,7 @@ This gauge file keeps Reagan **camp** and **attack-knife** focus. For **New Fede
 7. ***Airplane!* / *II*** Reagan attacks (especially PATCO/senile) mark him as **puppet** in media grammar, opposite Nixon’s **crook** grammar.
 8. **PATCO firing** is a hinge for reading Reagan’s domestic move as **pro-federal continuity / anti-militancy deterrent**, not pro-American worker toughness — misdirected relative to the foreign board and lasting as a **psychological + legal** roadblock on federal strikes.
 9. Pre-1981 **gentleman’s agreement** (illegal strike without mass termination) was **obliterated** in August 1981; since then, **no major formally authorized** federal-employee strike.
+10. **Model Context Protocol** (25 Nov 2024) is the dam bursting, not this presidency shipping a tool. The only reason to hold that pipe back is a takeover rollout. CIA-side allies delay until the tricks run out. The election date is the cycle marker. No named leaker. Not an Anthropic confession.
 
 ---
 

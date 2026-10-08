@@ -187,7 +187,7 @@ Media identified as containing predictive programming by external sources or our
 | *Terminator* | 1984 | AI takeover; machines assume rulership. | Ours, Common |
 | *The Matrix* | 1999 | "Resistance" as prepackaged control; Neo's passport expires 11 Sept 2001. | Ours, Carleton, Wikispooks |
 | *The Animatrix* — *The Second Renaissance* | 2003 | Machine nation economic autonomy → human blockade / trade war → scorched-sky escalation → ruined biosphere; rhymes with dinar/GCR / parallel-settlement stress ladder ([Great Awakening §3.3.4](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md)). | Ours |
-| *Tron* | 1982 | Digital reality; programs as entities; **NSA watchdog / MCP=CIA** allegory — [timeline: CIA vs NSA (1952–1982)](/timeline/evt-cia-vs-nsa-sigint-antibody-tron); [NSA investigation § IV](/governance/war/investigations/nsa-investigation.md) | Jay Dyer; corpus |
+| *Tron* | 1982 | Digital reality; programs as entities; **NSA watchdog / MCP=CIA** allegory. **Name landing (author):** Master Control Program initials return as Anthropic’s **Model Context Protocol** (25 Nov 2024), framed as AI-only though a citizen procedure pipe should have been ordinary for decades — [NSA § IV](/governance/war/investigations/nsa-investigation.md); [internet essay](/science/computing/the-internet-that-should-have-been.md) | Jay Dyer; corpus |
 | *Total Recall* | 1990 | Mars pyramids; humans explode in Martian atmosphere. | Ours |
 | *V for Vendetta* | 2006 | Resistance allegory (Wikispooks: Hollywood-injected dissent). | Wikispooks |
 | *Wall-E* | 2008 | AI/automation takeover; human passivity. | Ours |

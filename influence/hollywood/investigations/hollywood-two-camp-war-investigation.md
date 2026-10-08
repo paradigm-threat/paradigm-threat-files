@@ -622,6 +622,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | Title | Year | Lane signal | Camp (author) | Notes |
 |-------|------|-------------|---------------|-------|
 | ***Sneakers*** | 1992 | NSA vs CIA vs FBI; “we’re the good guys”; information war | **NSA** | Dialogue map — [good-actor § II.G](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
+| ***Tron*** | 1982 | Independent security program **watchdogs the MCP**; villain absorbs other programs and reaches for real command systems | **NSA** | Flagship digital antibody — [NSA investigation § IV](/governance/war/investigations/nsa-investigation.md). Spoken find: [They Had to Use a Robot](/influence/hollywood/they-had-to-use-a-robot.md) |
 | ***Burn After Reading*** | 2008 | CIA **SigInt** desk purge; **Harry cellphone location** line; memoir chaos; **burn the body** not FBI; transactional incompetence | **NSA** | **Flagship satire** — [Thread Q](#thread-q--burn-after-reading-2008-cia-decay--interagency-satire) |
 | ***The Big Lebowski*** | 1998 | Stranger **Saddam** derail; Bush **aggression will not stand**; Walter Nam/Iraq wrap; Jesus **pederast** door-to-door; Maude clinical seed | **NSA** | **Sovereignty / Gulf War ROTM** — [Thread S](#thread-s--the-big-lebowski-1998-sovereignty--gulf-war-rotm) |
 | ***300*** | 2006 | Plataea **mysticism and tyranny**; Thermopylae **300** stand; Dilios legend mobilization; East vs **reason and justice** open | **NSA** | **East–West / holy-war antibody** — [Thread T](#thread-t--300-2006-eastwest--holy-war-antibody) |
@@ -638,7 +639,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 
 **TODO rows:** *Three Days of the Condor* (1975); *Syriana* (2005); *The Recruit* (2003) — verify camp per title.
 
-**TODO rows:** *Tron* (1982); *WarGames* (1983); later ***Terminator*** sequels / TV (contain drift).
+**TODO rows:** *WarGames* (1983); later ***Terminator*** sequels / TV (contain drift). ***Tron* (1982)** is cataloged above — full allegory stays in the NSA investigation, not a separate thread.
 
 ### *Congo* (1995) — NSA overall; CIA audit; residual Africa contempt; *KSM*/Zinj
 
