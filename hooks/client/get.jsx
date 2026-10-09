@@ -56,6 +56,21 @@ function articleFilePath(route) {
   return t
 }
 
+/** Path segment uses `_` for spaces (searchFormNav topicPathSegment). CleverScript-safe. */
+function underscoresToSpaces(raw) {
+  const s = str(raw)
+  let out = ''
+  for (let i = 0; i < s.length; i++) {
+    const ch = s.charAt(i)
+    if (ch === '_') {
+      out = out + ' '
+    } else {
+      out = out + ch
+    }
+  }
+  return out
+}
+
 /** `/search/{topic}` → topic; bare `/search` may use `?q=`. */
 function searchInitialQuery(route) {
   const r = normalizeRoute(route)
@@ -69,10 +84,9 @@ function searchInitialQuery(route) {
     if (qmark >= 0) {
       rest = rest.slice(0, qmark)
     }
-    // Path segment uses `_` for spaces (searchFormNav topicPathSegment). Decode
-    // before QUERY — otherwise "bibi death" becomes a zero-hit "bibi_death" literal.
-    rest = rest.split('_').join(' ')
-    return str(rest).trim()
+    // Decode before QUERY — otherwise "bibi death" becomes a zero-hit "bibi_death" literal.
+    // Do not use String#split here on the SSR path (CleverScript: Array index must be number).
+    return underscoresToSpaces(rest).trim()
   }
   try {
     const g = globalThis
