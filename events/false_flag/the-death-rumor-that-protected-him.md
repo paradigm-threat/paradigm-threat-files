@@ -66,9 +66,11 @@ It occurred to me then that the death accusation largely **favored** him. The pu
 
 ## The prediction held
 
-Through August 2026 that prediction has held. There has not been a single open event that breaks it. I do not expect one.
+Through October 2026 that prediction has held. There has not been a single open event that breaks it. I do not expect one.
 
 What would have broken it hardest is a Netanyahu speech to Congress in 2026. His last address to Congress was July 24, 2024. Even though Democrats did not hold both chambers, a Netanyahu appearance on the Hill would still have poured political fallout onto the Republican legislative calendar ahead of the midterms.
+
+September’s United Nations speech does not break it either. Delegates walked out as he took the podium; most of the visible hall sat empty; the New York stop was same-day and limited; he did not meet Trump that week. An empty-room address is continuity product, not an uncontrolled audit. The same month a planned open-street stop at Jerusalem’s Machane Yehuda market was canceled over a reported real security threat, while campaign tours stayed in enclosed malls and Likud strongholds — including a Malha Mall stop where reporting noted black paper bracelets on people in the campaign video, consistent with a pre-screened crowd. October’s rabbi halls and “Saving the Right” conference handshakes are Israeli political-class rooms, not hostile foreign witnesses. The dated appearance table lives in the [controlled-visibility investigation](https://paradigmthreat.net/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md#appearance-log-since-the-initial-death-accusation-open-source-continuity-list).
 
 ## Dual-track feud — fighting over the photo
 
@@ -112,13 +114,13 @@ Benzion Netanyahu’s founding-generation résumé, 1944 GOP platform work, Inqu
 
 Related false-flag grammar (Paris, Vegas, Notre-Dame 2016 bomb / Apr 2019 Madani sentence recirculation / fire branding, Oct 7 as related board event) is pattern talk under an NSA-aligned / antibody taxonomy. It does not assert that every victim was fake, that Hamas did nothing on October 7, that the Notre-Dame fire was proven arson by the 2016 cell, or that Mossad/NSA authorship of any named event is proven. Full disclosure has not arrived; agency labels stay open until then.
 
-The working architecture for Netanyahu himself is **protective controlled continuity** after the March 2026 death window — health narrative, aligned witness sets, dual-track photo-op / closed-WH optics, no 2026 Congress speech. It does not require proof that every clip is synthetic or that Netanyahu is literally dead. Hard death remains open in the companion investigation. Appearance tables, source links, and staging scores live there.
+The working architecture for Netanyahu himself is **protective controlled continuity** after the March 2026 death window — health narrative, aligned witness sets, dual-track photo-op / closed-WH optics, enclosed-mall campaigning, no 2026 Congress speech, and no uncontrolled open-street audit through the October 2026 election stretch. It does not require proof that every clip is synthetic or that Netanyahu is literally dead. Hard death remains open in the companion investigation. Appearance tables, source links, and staging scores live there.
 
 Keywords: #Netanyahu #BenzionNetanyahu #Jabotinsky #SinEater #ControlledVisibility #Iran #Antibody #WarOnTerror #HolyWar #Inquisition #Entebbe #October7 #FakeDeath #CongressSpeech #GrahamFuneral #BlairHouse #FamilyStopLine #DualTrack #PhotoOp #ProofOfLife #LasVegas #Paris #NotreDame #FalseFlag #NSA #Mossad
 
 **Substack:** [paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him](https://paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him)
 
-**Last updated:** 2026-08-09
+**Last updated:** 2026-10-09
 
 ---
 
