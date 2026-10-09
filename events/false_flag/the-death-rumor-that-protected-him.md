@@ -116,7 +116,7 @@ Related false-flag grammar (Paris, Vegas, Notre-Dame 2016 bomb / Apr 2019 Madani
 
 The working architecture for Netanyahu himself is **protective controlled continuity** after the March 2026 death window — health narrative, aligned witness sets, dual-track photo-op / closed-WH optics, enclosed-mall campaigning, no 2026 Congress speech, and no uncontrolled open-street audit through the October 2026 election stretch. It does not require proof that every clip is synthetic or that Netanyahu is literally dead. Hard death remains open in the companion investigation. Appearance tables, source links, and staging scores live there.
 
-Keywords: #Netanyahu #BenzionNetanyahu #Jabotinsky #SinEater #ControlledVisibility #Iran #Antibody #WarOnTerror #HolyWar #Inquisition #Entebbe #October7 #FakeDeath #CongressSpeech #GrahamFuneral #BlairHouse #FamilyStopLine #DualTrack #PhotoOp #ProofOfLife #LasVegas #Paris #NotreDame #FalseFlag #NSA #Mossad
+Keywords: #Netanyahu #Bibi #BenzionNetanyahu #Jabotinsky #SinEater #ControlledVisibility #Iran #Antibody #WarOnTerror #HolyWar #Inquisition #Entebbe #October7 #FakeDeath #CongressSpeech #GrahamFuneral #BlairHouse #FamilyStopLine #DualTrack #PhotoOp #ProofOfLife #LasVegas #Paris #NotreDame #FalseFlag #NSA #Mossad
 
 **Substack:** [paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him](https://paradigmthreat2.substack.com/p/the-death-rumor-that-protected-him)
 

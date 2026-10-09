@@ -69,6 +69,9 @@ function searchInitialQuery(route) {
     if (qmark >= 0) {
       rest = rest.slice(0, qmark)
     }
+    // Path segment uses `_` for spaces (searchFormNav topicPathSegment). Decode
+    // before QUERY — otherwise "bibi death" becomes a zero-hit "bibi_death" literal.
+    rest = rest.split('_').join(' ')
     return str(rest).trim()
   }
   try {
