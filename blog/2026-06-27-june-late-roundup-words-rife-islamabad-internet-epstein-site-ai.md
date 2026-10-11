@@ -129,7 +129,7 @@ During the same window as the **Gage / AE911Truth** dossier expansion and public
 
 **Author read (L3, not proved):** timing rhymes with arguing against a **9/11 controlled-opposition** interlocutor in-thread — the safe demolition lane, thermite theater, **no-planes bypass** as intentional fracture. Platforms gave **no contestable reason** on Instagram; Substack’s 404 spell self-resolved. Same opacity grammar as the [GitHub ban record](https://paradigmthreat.net/influence/censorship/github-ban). **Mitigation:** **paradigmthreat.net** as canonical.
 
-Full screenshot archive and limits: [Platform blocks — Instagram and Substack (June 2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06).
+Full screenshot archive and limits: [Platform blocks — Instagram and Substack (June 2026)](https://paradigmthreat.net/influence/censorship/platform-blocks-instagram-substack-2026-06). **Later (Oct 2026):** [Facebook — Meta removed 40 “suspicious” comments](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10) ([screenshot](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png)).
 
 ![Instagram — image post blocked, generic error modal (June 2026)](https://paradigmthreat.net/influence/censorship/instagram-image-upload-blocked-2026-06.png)
 

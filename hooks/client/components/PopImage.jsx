@@ -1,63 +1,16 @@
-import React, { useEffect } from 'react'
-import { isClientLivePhase } from '@clevertree/style-internal'
+/**
+ * Tip PopImage — wraps @relay/gallery PopImage with PT theme class names.
+ * Fullscreen chrome is the `relay-pop-image` / `relay-image-gallery` Custom Elements (no CS setState overlay).
+ */
+import React from 'react'
+import { PopImage as RelayPopImage } from '@relay/gallery'
 import { prop } from '@relay/util'
-import { portraitSiblingIfPresent as pathPortraitIfPresent } from '@relay/path'
-import { gallery } from 'hooks/client/galleryStore.jsx'
-import { IconMaximize } from 'hooks/client/components/Icons.jsx'
-
-/** Narrow viewports prefer optional `foo-portrait.ext` sibling (navbar art-direction pattern). */
-const PORTRAIT_MEDIA = '(max-width: 768px)'
 
 function str(v) {
   if (typeof v === 'string') return v
   return ''
 }
 
-/**
- * Tip portrait index from SSR bootstrap.
- * Prefer CS `globalThis` (seeded by gateway SSR / WASM boot). Fall back to the
- * `#relay-portrait-siblings` JSON script — browser `globalThis` is not the CS sandbox.
- * Host invents only when the map says the sibling exists — never probe with Image().
- */
-function readPortraitSiblingMap() {
-  try {
-    if (typeof globalThis !== 'undefined') {
-      const g = globalThis.__RELAY_PORTRAIT_SIBLINGS__
-      if (g && typeof g === 'object') return g
-    }
-  } catch (e) {}
-  try {
-    if (typeof document === 'undefined' || !document.getElementById) return null
-    const el = document.getElementById('relay-portrait-siblings')
-    if (!el) return null
-    let raw = ''
-    try {
-      if (typeof el.textContent === 'string') raw = el.textContent
-    } catch (e2) {}
-    if (raw.length === 0) return null
-    const parsed = JSON.parse(raw)
-    if (!parsed || typeof parsed !== 'object') return null
-    try {
-      if (typeof globalThis !== 'undefined') {
-        globalThis.__RELAY_PORTRAIT_SIBLINGS__ = parsed
-      }
-    } catch (e3) {}
-    return parsed
-  } catch (e4) {}
-  return null
-}
-
-function portraitSiblingIfPresent(src) {
-  const map = readPortraitSiblingMap()
-  if (!map) return ''
-  try {
-    const out = pathPortraitIfPresent(src, map)
-    if (typeof out === 'string' && out.length > 0) return out
-  } catch (e2) {}
-  return ''
-}
-
-/** Inline / MDX image — click opens fullscreen gallery (live PopImage parity). */
 export default function PopImage(props) {
   const src = str(prop(props, 'src', ''))
   const alt = str(prop(props, 'alt', ''))
@@ -69,53 +22,9 @@ export default function PopImage(props) {
       children = props.children
     }
   } catch (e) {}
-  const live = isClientLivePhase(4) === true
-  const id = gallery.safeImgDomId(src)
-  const portraitSrc = portraitSiblingIfPresent(src)
 
-  useEffect(() => {
-    if (!live || src.length === 0) return
-    gallery.registerGalleryImage({
-      src: src,
-      alt: alt,
-      highResSrc: highResSrc,
-      children: children,
-    })
-    return () => {
-      gallery.unregisterGalleryImage(src)
-    }
-  }, [live, src])
-
-  useEffect(() => {
-    if (!live || src.length === 0) return
-    gallery.syncGalleryImageMeta({
-      src: src,
-      alt: alt,
-      highResSrc: highResSrc,
-      children: children,
-    })
-  }, [live, src, alt, highResSrc])
-
-  useEffect(() => {
-    if (!live || src.length === 0) return
-    const target = gallery.readHashImgSrc()
-    if (target.length > 0 && target === src) {
-      gallery.openGalleryAt(src)
-      try {
-        if (document && document.getElementById) {
-          const el = document.getElementById(id)
-          if (el && el.scrollIntoView) {
-            el.scrollIntoView({ behavior: 'auto', block: 'center' })
-          }
-        }
-      } catch (e) {}
-    }
-  }, [live, src])
-
-  let wrapClass = 'pt-popimage'
-  if (className.length > 0) wrapClass = wrapClass + ' ' + className
-  // Floated figures without an explicit max-width expand to the image's
-  // intrinsic width (capped only by parent), which reads as full-bleed.
+  // Host CE already applies `.relay-pop-image` / `.pt-popimage`; pass tip extras only.
+  let wrapClass = className
   if (
     (wrapClass.indexOf('float-right') >= 0 || wrapClass.indexOf('float-left') >= 0) &&
     wrapClass.indexOf('max-w-') < 0
@@ -123,62 +32,15 @@ export default function PopImage(props) {
     wrapClass = wrapClass + ' max-w-sm'
   }
 
-  const imgEl = (
-    <img
+  return (
+    <RelayPopImage
       src={src}
       alt={alt}
-      className="pt-popimage-img"
-      loading="lazy"
-      width={360}
-      height={240}
-      style={{ width: '100%', height: 'auto', aspectRatio: '3 / 2' }}
-    />
-  )
-
-  // Outer <aside> excludes PopImage from Reading Mode; interactive chrome stays on the inner control.
-  const figureLabel = alt.length > 0 ? alt : 'Figure'
-
-  return (
-    <aside className={wrapClass} data-pt-popimage="true" aria-label={figureLabel}>
-      <div
-        id={id}
-        role="button"
-        tabIndex={0}
-        onClick={() => {
-          if (!live || src.length === 0) return
-          gallery.openGalleryAt(src)
-        }}
-        onKeyDown={(e) => {
-          if (!live) return
-          let key = ''
-          try {
-            if (e && typeof e.key === 'string') key = e.key
-          } catch (err) {}
-          if (key === 'Enter' || key === ' ') {
-            try {
-              if (e && e.preventDefault) e.preventDefault()
-            } catch (err2) {}
-            gallery.openGalleryAt(src)
-          }
-        }}
-      >
-        <div className="pt-popimage-inner" style={{ aspectRatio: '3 / 2' }}>
-          {portraitSrc.length > 0 ? (
-            <picture>
-              <source media={PORTRAIT_MEDIA} srcSet={portraitSrc} />
-              {imgEl}
-            </picture>
-          ) : (
-            imgEl
-          )}
-          <div className="pt-popimage-hover" aria-hidden="true">
-            <span className="pt-popimage-max">
-              <IconMaximize />
-            </span>
-          </div>
-        </div>
-        {children ? <div className="pt-popimage-caption">{children}</div> : null}
-      </div>
-    </aside>
+      className={wrapClass}
+      highResSrc={highResSrc}
+      aspectRatio="3 / 2"
+    >
+      {children}
+    </RelayPopImage>
   )
 }

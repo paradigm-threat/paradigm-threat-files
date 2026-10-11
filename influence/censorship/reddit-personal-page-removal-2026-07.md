@@ -56,6 +56,7 @@ Red banner: *This account has been banned permanently. Check your inbox for a me
 - [Alef and the clogged internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) — essay that triggered the post attempt
 - [ic911a §9.6 — live debate read](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#96-live-debate-read-jun-2026)
 - [Platform blocks — Instagram / Substack (June 2026)](/influence/censorship/platform-blocks-instagram-substack-2026-06.md)
+- [Facebook — Meta removed 40 “suspicious” comments; false Undo (October 2026)](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) — forced logout + identity proof, bulk delete, Undo promised with no restore path ([notice](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png))
 - [GitHub account ban](/influence/censorship/github-ban)
 
 ---

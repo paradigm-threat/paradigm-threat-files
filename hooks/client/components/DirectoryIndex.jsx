@@ -12,6 +12,7 @@ import {
   dirTreeHasKids,
   dirIndexListing,
 } from '@relay/catalog'
+import { underscoresToSpaces } from '@relay/util'
 import { loadDirTree, siteHref } from 'hooks/client/loadArticles.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 
@@ -71,7 +72,7 @@ export default function DirectoryIndex(props) {
   if (dir.length > 0) {
     const slash = dir.lastIndexOf('/')
     const leaf = slash >= 0 ? dir.slice(slash + 1) : dir
-    title = leaf.replaceAll('_', ' ')
+    title = underscoresToSpaces(leaf)
     if (title.length === 0) title = 'Directory'
   }
 

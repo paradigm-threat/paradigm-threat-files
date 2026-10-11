@@ -40,5 +40,7 @@ solution is to advocate that government stop the regulation that it’s currentl
 
 ---
 
+**2026 Meta record (this project):** [Facebook — Meta removed 40 “suspicious” comments (October 2026)](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) — forced logout + identity proof, then bulk delete ([screenshot](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png)).
+
 Keywords: #Facebook #Twitter #Censor #Speech
 

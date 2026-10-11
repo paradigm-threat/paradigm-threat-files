@@ -134,16 +134,6 @@ That is the same move as the first Christian revolution: Instanbul/Rome’s prie
 
 ---
 
-## Censorship — Reddit permanent ban, empty inbox (July 2026)
-
-Managed democracy does not stop at Congress. **Reddit perm-banned my account** in July 2026 — days after it removed an [**Alef and the clogged internet**](/influence/controlled_opposition/alef-and-the-clogged-internet.md) share from my **own profile page**. The app shows a red banner: *This account has been banned permanently. Check your inbox for a message with more information.* I open **Inbox** as instructed. **Empty.** No rule. No cited post. No appeal. Just Snoo asking me to turn on notifications.
-
-I have **no clue** what the ban is for. Reddit’s whole pitch is **community karma** — upvotes and downvotes sorting wheat from chaff. If my takes are wrong, **let bad karma work itself out**. You’d think that is the product. Instead: silent permanent ban, and a UI that **points you to an inbox that does not contain the explanation**. Same opacity grammar as the [GitHub ban](/influence/censorship/github-ban) and the [Instagram / Substack blocks](/influence/censorship/platform-blocks-instagram-substack-2026-06.md): enforce first, explain never—or explain in a box you cannot open. Screenshot and full log: [Reddit censorship dossier](/influence/censorship/reddit-personal-page-removal-2026-07.md).
-
-![Reddit — permanent ban banner, empty inbox (July 2026)](https://paradigmthreat.net/influence/censorship/reddit-perm-ban-empty-inbox-2026-07.png)
-
----
-
 ## Where next
 
 - [House of Cards kompromat catalog — twenty instances, seasons 1–5](https://paradigmthreat.net/governance/war/investigations/house-of-cards-kompromat-blackmail-instances-investigation.md)
@@ -151,7 +141,6 @@ I have **no clue** what the ban is for. Reddit’s whole pitch is **community ka
 - [Obama / Malcolm X — birth record fork, mechanism lanes, woke pivot, shadow-president](https://paradigmthreat.net/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md)
 - [Zelensky’s letter is a memory weapon — figurehead role, Reverse Crusade IV](https://paradigmthreat.net/governance/war/zelensky-forward-history-memory-war.md)
 - [Epstein blackmail network — compromise lane hypothesis](https://paradigmthreat.net/events/false_flag/investigations/epstein-blackmail-network-9-11-crosslinks-investigation.md)
-- [Reddit censorship — profile removal and permanent ban, empty inbox (July 2026)](https://paradigmthreat.net/influence/censorship/reddit-personal-page-removal-2026-07)
 - [Reverse crusades comparison — 1812, 1914, 1941, 2022 packaging](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md)
 - [Constitution — nationalist vs globalist battlefield](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md)
 - [This is the most important midterm in American history](https://paradigmthreat.net/governance/constitution/voting-for-insecticide.md) — appearance of mutual destruction; voter has to tell the sides apart

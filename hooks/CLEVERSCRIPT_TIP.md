@@ -19,7 +19,7 @@ Thin tip code via **`@relay/*`** (registered on SSR + WASM):
 | `@relay/catalog` | `parseNavIndexTxt`, `extractMarkdownHeadings`, `contentKind`, `buildDirTree`, `dirExpandPaths`, `dirTreeNode`, `dirTreeHasKids`, `autoIndexDirFromPath`, `shouldTryDirectoryIndex`, `dirIndexListing`, `nestTocItems`, `publishedFromBlogPath`, `neighborPaths`, `isFeelingLuckyCandidate`, `pickFeelingLuckyPath` |
 | `@relay/date` | `formatTiny` / `formatLong` / `formatFeed` / `sameDay` |
 | `@relay/path` | `basename`, `dirname`, `join`, `split`, `normalizeRel`, `resolveRel`, `parentDir`, `siteHref`, `resolveEmbedSrc`, `resolveAssetUrl`, `rewriteMarkdownAssetUrls`, `portraitSiblingSrc`, `repoRelFromMediaSrc`, `safeImgDomId`, `readHashImgSrc`, `galleryImgHash`, `galleryDisplaySrc`, `portraitSiblingIfPresent`, `normalizeHttpHref`, `lookupHttpHref` |
-| `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `uniqueId`, `includes`, `splitSentences`, `takeSentenceChunk` |
+| `@relay/util` | `sortBy`, `take`, `prop`, `omitUndefined`, `slugify`, `underscoresToSpaces`, `searchTopicSegment`, `uniqueId`, `includes`, `splitSentences`, `takeSentenceChunk` |
 | `@relay/ui` | `cachedGet`, `Link`, `RadioTabs`, `safeProps` |
 | `@relay/tts` | `synthesize` (Piper WAV→data URL), `AudioPlayer` |
 
@@ -41,7 +41,7 @@ ES builtins now available: `parseInt`, `Number.from`, `Math.*`, `Date.from`/`par
 - Nest tab radios in `<label>` (no `htmlFor`).
 - **Tip Dom:** `setAttribute` / `getAttribute` only — **no `removeAttribute`**, **no `classList`**. Prefer `setAttribute('class', …)` / always set `data-*` values (e.g. font cycle must `setAttribute('data-font', 'garamond')`, not remove).
 - **No named function expressions** (`return function foo() {}`) — use arrows (`() => {}`).
-- **No `encodeURIComponent` / `charCodeAt` / `window`** — not in the CS allowlist (`document` + `globalThis` are). Prefer simple string loops.
+- **No `encodeURIComponent` / `charCodeAt` / `window`** — not in the CS allowlist (`document` + `globalThis` are). Prefer `@relay/util` string helpers (`underscoresToSpaces`, `searchTopicSegment`, `slugify`) over tip-local char loops; `String#replaceAll` is OK for one-off UI when no helper fits.
 - **Named `export function` / `export const` / `export let` / `export default` are supported.** Do **not** use `export { name }` re-exports or `export default create()` (call expression as sole default without binding).
 - **Module `const`/`let` bindings are Undefined inside nested `function` bodies** — prefer `export const api = createApi()` where methods close over locals inside `createApi()`.
 - **`JSON.parse` / `JSON.stringify`** are first-class CleverScript builtins (injected by the runtime). Prefer bare `JSON.*`; `globalThis.JSON` is mirrored.
@@ -190,4 +190,4 @@ Do **not** treat rapid fleet deploy / `autossh` into production `:8080` as the p
 - Runtime tip checklist: `relay-runtime/docs/CLEVERSCRIPT.md` §5.1
 - Disabled components: `hooks/COMPONENTS_DISABLED.md`
 
-*Last updated: 2026-09-12*
+*Last updated: 2026-10-09*

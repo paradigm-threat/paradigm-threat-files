@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { dirExpandPaths } from '@relay/catalog'
-import { includes } from '@relay/util'
+import { includes, underscoresToSpaces } from '@relay/util'
 import { propStr } from 'hooks/client/propOr.jsx'
 import { loadDirTree, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
@@ -22,7 +22,7 @@ function stripRel(raw) {
 
 function folderTitle(name) {
   if (typeof name !== 'string') return ''
-  return name.replaceAll('_', ' ')
+  return underscoresToSpaces(name)
 }
 
 function pathIsActive(folderPath, currentRel) {

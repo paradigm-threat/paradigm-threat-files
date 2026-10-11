@@ -5,6 +5,7 @@
 import React from 'react'
 import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
+import { underscoresToSpaces } from '@relay/util'
 import BootShell from 'hooks/client/components/BootShell.jsx'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
@@ -56,21 +57,6 @@ function articleFilePath(route) {
   return t
 }
 
-/** Path segment uses `_` for spaces (searchFormNav topicPathSegment). CleverScript-safe. */
-function underscoresToSpaces(raw) {
-  const s = str(raw)
-  let out = ''
-  for (let i = 0; i < s.length; i++) {
-    const ch = s.charAt(i)
-    if (ch === '_') {
-      out = out + ' '
-    } else {
-      out = out + ch
-    }
-  }
-  return out
-}
-
 /** `/search/{topic}` → topic; bare `/search` may use `?q=`. */
 function searchInitialQuery(route) {
   const r = normalizeRoute(route)
@@ -85,7 +71,7 @@ function searchInitialQuery(route) {
       rest = rest.slice(0, qmark)
     }
     // Decode before QUERY — otherwise "bibi death" becomes a zero-hit "bibi_death" literal.
-    // Do not use String#split here on the SSR path (CleverScript: Array index must be number).
+    // Host helper: tip String#split on SSR can throw (Array index must be number).
     return underscoresToSpaces(rest).trim()
   }
   try {

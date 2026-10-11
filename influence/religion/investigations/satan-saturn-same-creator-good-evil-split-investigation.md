@@ -235,6 +235,8 @@ The author asked for citations of people frightened off **Saturnian cosmology as
 
 “Forbidden” in the author’s sense is this climate: the identification is blasphemy if you are inside the obedience religions, and a joke if you are outside them. Either reaction ends the inquiry.
 
+**Platform forbid signal (2026-10-09):** Meta removed forty of the author’s Facebook comments under a “hacker / suspicious” pretext and promised **Undo** with **no working restore path**. The captured sample included *God was the planet Saturn, not eternal* and a follow-on that *Satan and Saturn* are connected because *literature has been forbidden* — the same sentences this file argues. **Author weight:** corporate platforms still broom-sweep the identification in **2026**, which is the intimidation **climate** in product form, not a fatwa. Full log: [Facebook — 40 “suspicious” comments](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md).
+
 ---
 
 ## 11. The modern atheist endpoint
@@ -338,7 +340,7 @@ We are never going to prove something religion forbids until we shed the yoke of
 
 Keywords: #Satan #Saturn #Set #GoodEvilSplit #Satanism #KingArthur #Year1666 #Jung #Atheism #DeepTime #Monotheism #SaturnianCosmology #Blasphemy #AU064
 
-*Last updated: 2026-09-30*
+*Last updated: 2026-10-09 — §10 Meta Facebook false-Undo purge sample (Saturn / Satan–Saturn). Prior: 2026-09-30.*
 
 ---
 

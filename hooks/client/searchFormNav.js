@@ -5,6 +5,7 @@
  * non-HTML attr; value= is correct, but soft-hydrate must not clobber typing).
  * Use bare `document` / tip Dom — not globalThis / window.
  */
+import { searchTopicSegment } from '@relay/util'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 let searchFormNavBound = false
@@ -19,31 +20,6 @@ function str(v) {
   if (typeof v === 'number') return '' + v
   if (typeof v === 'string') return v
   return ''
-}
-
-function topicPathSegment(q) {
-  const raw = str(q).trim()
-  let out = ''
-  for (let i = 0; i < raw.length; i++) {
-    const ch = raw.charAt(i)
-    const code = raw.charCodeAt(i)
-    if (ch === ' ' || ch === '\t') {
-      if (out.length > 0 && out.charAt(out.length - 1) !== '_') {
-        out = out + '_'
-      }
-      continue
-    }
-    if (
-      (code >= 48 && code <= 57) ||
-      (code >= 65 && code <= 90) ||
-      (code >= 97 && code <= 122) ||
-      ch === '_' ||
-      ch === '-'
-    ) {
-      out = out + ch
-    }
-  }
-  return out
 }
 
 /** Skip SSR hosts — never mark bound against a non-browser document. */
@@ -157,7 +133,7 @@ export function ensureSearchFormNav() {
           const inp = form.querySelector('#pt-search-input')
           if (inp && typeof inp.value === 'string') q = str(inp.value).trim()
         } catch (eInp) {}
-        const seg = topicPathSegment(q)
+        const seg = searchTopicSegment(q)
         if (seg.length === 0) return
         try {
           if (e && typeof e.preventDefault === 'function') e.preventDefault()

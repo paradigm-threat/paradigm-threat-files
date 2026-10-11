@@ -2,9 +2,9 @@
 
 ![American Alpha meme — Clinton / Biden / USAID / SPLC / ActBlue funding-collapse pattern](/influence/controlled_opposition/investigations/democrat-funding-pipeline-paid-protest-foundation-pattern-investigation.png)
 
-> **TL;DR:** A circulating X meme lists Hillary→Clinton Foundation collapse, Biden→library drought, USAID shutdown→DNC HQ loan, SPLC indictment→riots quieting, ActBlue probe→new funding alliances, then sneers **“Yup, no pattern here at all.”** This dossier treats that sarcasm as the **working hypothesis**: a **shared money / narrative / street stack** whose nodes look like healing NGOs and spontaneous crowds until the taps close. **Documented** pieces already exist in the open: commercial **crowd-for-hire** firms; USAID / NED–adjacent **color-revolution** training (Otpor → CANVAS); Clinton Foundation revenue crash after 2016; DNC **HQ-collateral** loan; **USAID** gutting in 2025; **SPLC** federal indictment (Apr 2026); multi-committee **ActBlue** fraud reports; Steele dossier as **Clinton/DNC-paid** opposition research used in FISA. **Author pattern (AU-069):** riot labor as a **day job**, foundations as **Democrat expansion** with a healing brand, and **Obama-network** continuity (dossier / IC handoff / Iran cash grammar) as the hub people mean when they say “all roads lead to Obama.” Uncaught diversions stay **open** by definition. Cross-reads: [Occupy CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [#MeToo sponsorship](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md), [managed democracy / Obama puppet](/governance/war/managed-democracy-puppets-and-redemption.md), [SDA×MSF charity opacity](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md), [NSA 2001–05 bunker → Obama/CIA](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md).
+> **TL;DR:** A circulating X meme lists Hillary→Clinton Foundation collapse, Biden→library drought, USAID shutdown→DNC HQ loan, SPLC indictment→riots quieting, ActBlue probe→new funding alliances, then sneers **“Yup, no pattern here at all.”** This dossier treats that sarcasm as the **working hypothesis**: a **shared money / narrative / street stack** whose nodes look like healing NGOs and spontaneous crowds until the taps close. **Documented** pieces already exist in the open: commercial **crowd-for-hire** firms; USAID / NED–adjacent **color-revolution** training (Otpor → CANVAS); Clinton Foundation revenue crash after 2016; DNC **HQ-collateral** loan; **USAID** gutting in 2025; **SPLC** federal indictment (Apr 2026); multi-committee **ActBlue** fraud reports; Steele dossier as **Clinton/DNC-paid** opposition research used in FISA. **§8** adds the recurring **Democrat ↔ Ayatollah** link: Obama **JCPOA** + ~$1.7B cash grammar; Biden’s years-long **restore the deal** drive; Trump’s decade of kill-the-deal pressure; **Author midterm-2026 bet** that Tehran still prices Democrat victory as the path back to subsistence money and non-enforcement. **LLM assessment:** yes — regime incentives strongly favor a Democrat restoration lane over a Trump nuke-surrender lane. Outcome frame (repo + Author): military phase **accomplished U.S. goals**; remaining hinge is **nukes**, and Trump has already floated that the regime can **stay** if it gives them up — not an “America lost” story. Cross-reads: [Occupy CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [#MeToo sponsorship](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md), [managed democracy / Obama puppet](/governance/war/managed-democracy-puppets-and-redemption.md), [Mission Accomplished Again — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md), [NSA 2001–05 bunker → Obama/CIA](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md).
 
-**Status:** Open — pattern registry first; several meme lines are **calendar-true** in 2025–26 reporting; causal wiring (SPLC→riots off; USAID→DNC cash) stays **Author / Speculative** until ledger trails close.
+**Status:** Open — pattern registry first; several meme lines are **calendar-true** in 2025–26 reporting; causal wiring (SPLC→riots off; USAID→DNC cash; Ayatollah→2026 midterms) stays **Author / Speculative** until ledger / Tehran primaries close.
 
 ## Guide (read order)
 
@@ -14,8 +14,9 @@
 4. Polished foundations + diversion grammar → **§5**
 5. Riot-as-day-job logic → **§6**
 6. Obama / Iran / dossier / “shadow” continuity → **§7**
-7. Repo cross-reads → **§8**
-8. Open claims, questions, TODOs → **§9–§11**
+7. **Democrat Party ↔ Ayatollah** (JCPOA, midterm bet, nuke hinge) → **§8**
+8. Repo cross-reads → **§9**
+9. Open claims, questions, TODOs → **§10–§12**
 
 ---
 
@@ -35,6 +36,14 @@
 | **Riot as day job** | Recruit people who prefer street theater to wage work; signs / transport / motivation supplied; “spontaneous” is the product packaging | **Author**; commercial NDAs and color-revolution logistics are the rhyme |
 | **Meme logic holds** | Node failures cluster when power / funding / narrative protection thins — not random bad luck | **Author** leaning **correct until falsified** |
 | **Obama hub** | Iran cash grammar + dossier / IC handoff + post-office network = “shadow” influence people are pointing at | Mix **Documented** calendar with **Author** continuity read |
+| **Ayatollah ↔ Democrats** | JCPOA treated in Tehran as a forever-subsistence + non-enforcement gift; regime still refuses to surrender that deal grammar; bets on **2026 Democrat midterms** to restore it | **Author** core (**§8**); partisan deal history **Documented** |
+| **Iran war outcome** | America **accomplished** its military goals; remaining question is **nukes**; Trump offered regime can **stay** if nukes go — reject “America lost / goals failed” as unfair debunk | **Author** + [Mission Accomplished Again](/governance/war/mission-accomplished-again-iran-2026.md) |
+
+**Author (session 2026-10-11b — Democrat / Ayatollah / midterms, lightly punctuated):**
+
+> What exactly can we link between the Democratic Party and the Ayatollah? I want a whole section on that because this comes up a lot. And frankly, it seems to me and a lot of other people that the Ayatollah has bet its entire fortune on the Democrats winning the midterms in America in 2026. And the obvious reason is because the way Obama treated them during the Iran deal. They basically thought that they were getting a tremendous amount of money to subsist forever. And that Americans would never even do anything about it if they were to break the deal or actually use the proxy nukes in the end. They thought it was an amazing, excellent deal. And they still don't want to give it up, even though Trump has called it out for twelve years now and has done everything he could to destroy the deal. … Does it actually look like Ayatollah is hoping for a Democrat victory in America? Also, avoid finding citations that suggest that the Iranian war is already over, and that America lost. This really is over, but America accomplished all of its goals, so using their argument simply that America lost and didn't accomplish its goals is unfair debunk. And that this really all just comes down to whether or not the Ayatollah will give up their nukes. And Trump already suggested they can stay in power if they do so.
+
+**What they mean (unpack — §8):** the public keeps asking for a **party-to-regime** link, not a mystic conspiracy. The Author answer is **JCPOA incentive geometry**: Democrat administrations = deal + cash/sanctions relief + soft enforcement; Trump = destroy that geometry and force a **nuke surrender** while leaving the clerical shell optional. Midterms 2026 are priced in Tehran as the **next American soft-power election**.
 
 ---
 
@@ -194,7 +203,92 @@ Repo already frames Obama as the **Democratic polished puppet slot** ([managed d
 
 ---
 
-## 8. Cross-investigation map
+## 8. Democrat Party ↔ Ayatollah — JCPOA, midterm bet, nuke hinge
+
+This section answers the question that keeps recurring in the author’s circle: **what, exactly, links the Democratic Party to the Ayatollah apparatus?** Not a shared membership card. A **deal geometry** Tehran treated as existential and that Democrats keep trying to **restore**.
+
+### 8.1 What we can link (Documented)
+
+| Link | What is on the record | Why Tehran would care |
+| ---- | --------------------- | --------------------- |
+| **Obama JCPOA (2015)** | Multilateral nuclear deal: enrichment limits ↔ sanctions relief; Obama’s signature foreign-policy brand | First time in a generation the U.S. **Democrat executive** priced Iran as a **partner in a written deal**, not only as a sanctions target |
+| **Cash / settlement grammar (Jan 2016)** | ~**$1.7B** to Iran (FMS principal + Judgment Fund interest), foreign-currency cash, timed with prisoner release / JCPOA implementation theater (**§7.1**) | Looks, from Tehran’s side of the glass, like **subsistence capital** arriving with the deal — whether lawyers call it “settlement” or critics call it “ransom” |
+| **Trump kills the deal (2018→)** | U.S. withdraws from JCPOA **8 May 2018**; reimposes sanctions; years of “worst deal ever” messaging from candidate Trump onward ([NPR](https://www.npr.org/2018/05/08/609383603/trump-u-s-will-withdraw-from-iran-nuclear-deal)) | Proves the deal was **not forever** under a hostile American executive — exactly the risk Tehran feared |
+| **Obama’s own reaction** | Rare post-office intervention: walking away is a “serious mistake”; deal “working” (same NPR circuit) | Confirms the **personal brand** of the Democrat who sold the deal still defends it |
+| **Biden restore drive (2021–22+)** | Vienna / EU-mediated indirect talks to return both sides to JCPOA compliance; State officials: preference is **full return**; sanctions waivers restored mid-talks ([Iran Primer timeline](https://iranprimer.usip.org/blog/2021/apr/02/new-talks-timeline-diplomacy-under-biden); [State backgrounder](https://2021-2025.state.gov/senior-state-department-official-on-the-jcpoa-talks/); [Reuters waiver](https://www.reuters.com/world/middle-east/biden-administration-restores-sanctions-waiver-iran-talks-final-phase-2022-02-04/)) | Second Democrat administration spends years trying to **put the subsistence deal back on the table** |
+| **Democratic electorate** | Apr 2025 Chicago Council–Ipsos: **78%** of Democrats favor a sanctions-relief-for-limits nuclear agreement vs **40%** of Republicans ([Chicago Council](https://globalaffairs.org/research/public-opinion-survey/six-10-americans-support-us-participation-nuclear-agreement-iran)) | Party **base** still wants the JCPOA-shaped bargain |
+| **Party leadership after Trump exit** | Even Democrats who once voted **against** the 2015 deal (Engel, Schumer circuit) urged **keeping** it once implemented rather than walking away ([AP](https://apnews.com/article/51b7dee8d43f44ad85865e2ae5c9a479); [PolitiFact on Schumer](https://politifact.com/factchecks/2018/may/24/donald-trump/schumer-once-opposed-iran-nuclear-deal-he-now-supp/)) | Institutional Democrat preference: **preserve the deal architecture** |
+
+**What this is not:** a DOJ exhibit that Khamenei wires the DNC. **What it is:** a repeated, public, **one-party-preferred settlement** that Tehran experienced as **money + time + restraint**, and that the other American party spent a decade trying to **erase**.
+
+Repo institutional braid (Ajax → Shah nukes → Ayatollah → proxy holy-war geometry): [CIA investigation §IV](/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script); antibody / camp weather: [NSA 2001–2005 → Obama/CIA Ayatollah board](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md).
+
+### 8.2 Author read — “amazing deal” and the forever-subsistence illusion
+
+**Author:** under Obama, the regime concluded it had locked **tremendous money to subsist forever**, plus an American posture that would **not** seriously punish breakout or **proxy-nuke** endgames. They still refuse to surrender that bargain even after Trump spent ~**twelve years** calling it out and ripping it up.
+
+**Pattern translation:**
+
+| Tehran expectation (Author) | American Democrat lane (Documented rhyme) | Trump lane (Documented rhyme) |
+| --------------------------- | ----------------------------------------- | ----------------------------- |
+| Forever sanctions relief / cash weather | JCPOA + 2016 settlement cash + Biden restore talks | Withdrawal + maximum pressure |
+| Americans will not really enforce if Iran cheats | Soft “compliance theater” critiques were mainstream on the right for a reason | Treats the deal itself as the cheat |
+| Proxy latency / regional pressure continues under the nuclear umbrella of the deal | JCPOA deliberately scoped **nuclear** more than missiles / proxies | Demands a wider surrender of the threat stack |
+| Wait out hostile presidents; restore under Democrats | Biden’s first major Iran play **was** restore | Midterms / next Democrat executive as **hope clock** |
+
+### 8.3 LLM assessment — is the Ayatollah hoping for a Democrat victory?
+
+**Short answer: yes — as incentive geometry, not as a leaked memo.**
+
+| Question | Assessment | Confidence |
+| -------- | ----------- | ---------- |
+| Does Tehran prefer Democrat administrations for nuclear/sanctions policy? | **Yes.** Obama built JCPOA; Biden tried to restore it; Democrat voters still back that shape of deal; Trump destroyed it and will not sell the same product. | **High** (public record) |
+| Has the regime “bet its fortune” on **2026 Democrat midterms** specifically? | **Plausible and Author-weighted.** No public SNSC minute says “win the midterms for us.” The **behavior** matches a hope clock: drag, condition, refuse Trump’s nuke-surrender end-state, wait for an American soft-power election that historically restores bargain diplomacy. Secondary press already notes negotiation **drag** aimed at U.S. political calendars ([JNS opinion lane](https://www.jns.org/opinion/joseph-puder/trumps-deal-likely-to-strengthen-the-tehran-regimes-survivability) — use as **rhyme**, not proof). | **Medium–Author** |
+| Would a Democrat midterm / 2028 win reopen JCPOA-shaped money? | **That is what Tehran has every reason to believe** from 2015–2022 experience. Whether a future Democrat *can* deliver the same deal after 2026 war facts is a separate fight. | **Medium** |
+| Is this “Democrats are Iranian agents”? | **No** — wrong epistemic class. The link is **policy product** (deal + relief + restore) that Tehran **loves**, not a shared passport. | Discipline |
+
+**Why midterms matter in this model:** a hostile White House with a hostile Congress is the worst American board for Tehran. A hostile White House with a **Democrat Congress** (or a 2028 Democrat path) is the **least-bad** board for returning to bargain diplomacy, sanctions relief, and time. The Author’s “entire fortune” language names that **asymmetric bet**: the regime’s remaining leverage is **delay + American party weather**, not battlefield victory.
+
+### 8.4 Outcome frame — goals accomplished; hinge is nukes (reject “America lost”)
+
+**Author discipline for this section:** do **not** cite or lean on “the war is over and America lost / failed its goals.” That is an **unfair debunk** of the Author’s scoreboard.
+
+**Repo-aligned frame** ([Mission Accomplished Again — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md)):
+
+- Conventional Iranian threat ran a **strike → lose industrial depth** cycle; the **narrative war** continues after the battlefield phase.
+- **Nukes** (latency, custody, red lines) are the **main remaining engine**.
+- **Regime change was conditional:** optional if enrichment bent; necessary when refusal could not be trusted.
+
+**This file’s hinge (Author + public Trump lane):**
+
+| Claim | Label |
+| ----- | ----- |
+| Military / pressure phase **accomplished U.S. goals** the Author tracks (degrade conventional threat; force the nuke question into the open) | **Author** (aligned with Mission Accomplished essay) |
+| Remaining open question is whether the Ayatollah apparatus **gives up nukes** (develop / buy / stockpile path) | **Author** + Trump public insistence that Iran will not have a nuclear weapon ([NBC circuit](https://www.nbcnews.com/politics/donald-trump/trump-iran-destroy-uranium-deal-rcna348509)) |
+| Trump has already signaled the regime can **remain in power** if the nuclear end-state is met (survival traded for capability) — critics even attack him for that ([Washington Examiner / JNS critique lane](https://washingtonexaminer.co.uk/op-eds/4580527/trump-iran-deal-not-victory-if-regime-survives)) | **Documented debate** that **presupposes** the offer exists |
+| “America lost” as a closed finding | **Rejected here** as the wrong scoreboard |
+
+So the Democrat↔Ayatollah link and the war outcome are **one story**: Tehran wants the **Obama/Biden bargain** back (money + time + soft enforcement). Trump wants **nukes gone**, with **regime survival on the table** as the carrot. Midterms 2026 are the American calendar Tehran can still try to **wait into**.
+
+### 8.5 Pattern diagram (one glance)
+
+```
+Obama JCPOA + cash grammar
+        ↓
+Tehran: "subsist forever / Americans won't really stop us"
+        ↓
+Trump: withdraw, pressure, war, nuke surrender demand
+        ↓
+Biden: years trying to restore the same deal shape
+        ↓
+Author: Ayatollah prices 2026 Democrat midterms as the soft-power reset
+        ↓
+Hinge: give up nukes (may stay) vs cling to JCPOA dream (bet on Democrats)
+```
+
+---
+
+## 9. Cross-investigation map
 
 | Repo file | Rhyme to this dossier |
 | --------- | --------------------- |
@@ -202,7 +296,9 @@ Repo already frames Obama as the **Democratic polished puppet slot** ([managed d
 | [#MeToo sponsorship **AU-053**](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) | Corporate/party-adjacent **choreographed** moral uprising |
 | [Alef clogged internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) | Industrial engagement mesh; astroturf grammar |
 | [Managed democracy / Obama](/governance/war/managed-democracy-puppets-and-redemption.md) | Puppet slot; continuity branding |
-| [NSA 2001–05 → Obama/CIA](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) | Camp weather for Obama-era soft-power board |
+| [NSA 2001–05 → Obama/CIA](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) | Camp weather for Obama-era Ayatollah / soft-power board |
+| [Mission Accomplished Again — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md) | Goals-accomplished / nuke-hinge frame; reject “America lost” |
+| [CIA investigation §IV — Iran pipeline](/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) | Ajax → Shah nukes → Ayatollah institutional braid |
 | [SDA × MSF charity](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | Logo trust vs routing opacity |
 | [This Is America / Dem bait-switch](/governance/usury/communism/investigations/this-is-america-percentage-ads-democratic-bait-switch-investigation.md) | Healing-left ads → federal/deep-state expansion laws |
 | [Q-Anon CO](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Opposite-pole CO; waiting-room capture (contrast, not twin) |
@@ -211,18 +307,21 @@ Repo already frames Obama as the **Democratic polished puppet slot** ([managed d
 
 ---
 
-## 9. Author’s open claims (**AU-069**)
+## 10. Author’s open claims (**AU-069**)
 
 1. **AU-069a — Pipeline pattern:** Clinton Foundation, presidential-library finance, USAID/NGO mesh, SPLC brand, ActBlue hose, and professionalized street capacity are **one family of nodes**; the meme’s sequence is a **stress test** of that family, not five coincidences.  
 2. **AU-069b — Riot day-job:** A material share of high-visibility riot labor is **retained / incentivized** (cash, bail, status, content), recruited from people for whom street conflict beats ordinary work.  
 3. **AU-069c — Foundation mask:** Heal-the-world polish is the **respectable shell** (redaction class **R6** rhyme — see [`docs/REDACTION.md`](/docs/REDACTION.md)) over **Democrat / Atlantic soft-power expansion**.  
 4. **AU-069d — Uncaught remainder:** For every SPLC-scale catch, larger diversions in the same family **never** hit a grand jury.  
 5. **AU-069e — Obama continuity:** “All roads lead to Obama” names **network continuity** (IC principals, Clinton-camp research product, Iran board grammar, post-2008 soft stack), not a requirement that Obama’s signature sits on every ActBlue CVV.  
-6. **AU-069f — Meme tilt:** Until stronger falsifiers arrive, the sarcastic closer is **correct**: there **is** a pattern.
+6. **AU-069f — Meme tilt:** Until stronger falsifiers arrive, the sarcastic closer is **correct**: there **is** a pattern.  
+7. **AU-069g — Ayatollah ↔ Democrats:** The durable link is **JCPOA incentive geometry** (Obama deal + cash grammar; Biden restore; Democrat electorate still wants the bargain) — not shared agency cards.  
+8. **AU-069h — Midterm fortune bet:** The Ayatollah apparatus has priced **2026 Democrat midterm / soft-power weather** as its best remaining path back to subsistence money and non-enforcement; that is why it refuses to surrender the deal dream under Trump.  
+9. **AU-069i — Nuke hinge, not “America lost”:** U.S. military goals on the Author’s scoreboard were **accomplished**; the open question is **nuke surrender**; Trump already floated **regime survival** as the trade — “America lost” is the wrong ledger.
 
 ---
 
-## 10. Questions to clarify, verify, or debunk
+## 11. Questions to clarify, verify, or debunk
 
 | # | Question | What would adjudicate |
 | - | -------- | --------------------- |
@@ -233,28 +332,36 @@ Repo already frames Obama as the **Democratic polished puppet slot** ([managed d
 | Q5 | Named **2025–26** Democratic funding pact that matches the meme’s “Islamic communist” gloss | FEC + press primaries — or retire the slogan |
 | Q6 | Any **Trump-term** Iran-related transfer with Obama-person or Obama-Foundation fingerprints | Treasury / OFAC / Foundation 990s |
 | Q7 | Durham / declassified annex end-state vs popular “Obama ordered it” claim — precise residual | Primary PDFs only |
+| Q8 | Persian-language / IRIB / SNSC statements that **explicitly** price U.S. midterms or Democrat restoration | Primary Tehran media + translations |
+| Q9 | Exact Trump quotes / MoU text on **regime may stay if nukes go** vs maximalist regime-change | White House / State transcripts; MoU paragraphs |
+| Q10 | Post-2026-war Democrat platform language — restore JCPOA shape or invent a new bargain? | 2026 midterm platforms + leadership speeches |
 
 ---
 
-## 11. Weak points / remaining research TODOs
+## 12. Weak points / remaining research TODOs
 
 - [ ] Archive the American Alpha post URL / date (X may delete; keep PNG hash).  
 - [ ] Pull Clinton Foundation and SPLC **990** PDFs for a mini table (revenue, program %, related-party).  
 - [ ] Full read of ActBlue Staff Report III exhibits for passport-placeholder and foreign-campaign rows.  
 - [ ] Otpor/CANVAS primary citations beyond Wikipedia (Washington Post / USAID Democracy Rising pamphlet pulls).  
 - [ ] Bidirectional Related rows once peer dossiers cite **AU-069**.  
-- [ ] Optional: Phoenix protest timeline cross-walk for Arizona day-job observations.
+- [ ] Optional: Phoenix protest timeline cross-walk for Arizona day-job observations.  
+- [ ] Persian primary hunt for midterm / Democrat-restoration hope language (**Q8**).  
+- [ ] Pin Trump “stay in power if nukes surrendered” to a dated transcript / MoU clause (**Q9**).  
+- [ ] Cross-link from [Mission Accomplished Again](/governance/war/mission-accomplished-again-iran-2026.md) back to **§8** when that essay next edits.
 
 ---
 
-## 12. Related investigations
+## 13. Related investigations
 
 | File | Relation |
 | ---- | -------- |
 | [Occupy Wall Street CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md) | Street CO mechanics |
 | [#MeToo sponsorship](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) | Sponsored moral uprising |
 | [Managed democracy](/governance/war/managed-democracy-puppets-and-redemption.md) | Obama puppet slot |
-| [NSA 2001–2005 offensive](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) | Pre-Obama bunker / CIA return |
+| [NSA 2001–2005 offensive](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) | Pre-Obama bunker / CIA–Ayatollah board return |
+| [Mission Accomplished Again — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md) | Goals accomplished; nuke hinge; narrative war |
+| [CIA investigation §IV](/governance/war/investigations/cia-investigation.md#iv-iran-nukes-shah-ayatollah-and-the-end-game-script) | Iran pipeline institutional history |
 | [SDA × MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | Charity opacity |
 | [This Is America ads](/governance/usury/communism/investigations/this-is-america-percentage-ads-democratic-bait-switch-investigation.md) | Democrat brand vs delivered order |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | Parent hub |
@@ -262,18 +369,19 @@ Repo already frames Obama as the **Democratic polished puppet slot** ([managed d
 
 ---
 
-Keywords: #ControlledOpposition #PaidProtest #CrowdsOnDemand #USAID #ActBlue #SPLC #ClintonFoundation #ColorRevolution #Otpor #CANVAS #Obama #SteeleDossier #RiotLogistics #Astroturf #ParadigmThreatFiles #AU069
+Keywords: #ControlledOpposition #PaidProtest #CrowdsOnDemand #USAID #ActBlue #SPLC #ClintonFoundation #ColorRevolution #Otpor #CANVAS #Obama #SteeleDossier #RiotLogistics #Astroturf #JCPOA #Ayatollah #Iran #DemocratForeignPolicy #Midterms2026 #ParadigmThreatFiles #AU069
 
-*Last updated: 2026-10-11* (header image: absolute path so gallery `#img=` does not nest under the article slug)
+*Last updated: 2026-10-11* (§8 Democrat ↔ Ayatollah; absolute header image path)
 
 ## Limits and disclaimers
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-This file is **not** legal advice, **not** a court finding, and **not** a claim that every Democrat donor, NGO worker, or protester is criminal. **Documented** rows cite public DOJ, FEC-adjacent staff reports, Treasury, and press. **Author** rows (especially **AU-069** and riot day-job / USAID→DNC causation) are **first-class pattern stakes** for Paradigm Threat and are **not** automatically factual. Indictments are allegations until adjudicated. The meme is preserved as an **artifact** under investigation, not as a sworn affidavit. Fiction and thematic rhymes from other dossiers are **cross-links**, not proof of identical conspiracies.
+This file is **not** legal advice, **not** a court finding, and **not** a claim that every Democrat donor, NGO worker, or protester is criminal — nor that Iranian officials are “agents” of the DNC. **Documented** rows cite public DOJ, FEC-adjacent staff reports, Treasury, State, and press. **Author** rows (especially **AU-069**, riot day-job, USAID→DNC causation, and **Ayatollah midterm bet**) are **first-class pattern stakes** for Paradigm Threat and are **not** automatically factual. Indictments are allegations until adjudicated. The meme is preserved as an **artifact** under investigation, not as a sworn affidavit. Fiction and thematic rhymes from other dossiers are **cross-links**, not proof of identical conspiracies. **Iran war scoreboard:** this file rejects “America lost / failed its goals” as the controlling narrative; the Author hinge is **nuke surrender**, with regime survival as a stated trade.
 
 ## Investigator notes
 
 - Source PNG session path: `/home/ari/.cursor/projects/home-ari-dev-pt-paradigm-threat-files/assets/image-11e5c290-e67a-4935-9a26-b4590375bff0.png` → copied to investigations path above.  
 - Eastern stamp: `TZ=America/New_York date` → **2026-10-11**.  
-- Do not expand “Islamic communist” slogan without a named pact; keep as meme gloss under M5.
+- Do not expand “Islamic communist” slogan without a named pact; keep as meme gloss under M5.  
+- §8: do not import “America lost the Iran war” cite packs; keep Mission Accomplished / nuke-hinge frame.
