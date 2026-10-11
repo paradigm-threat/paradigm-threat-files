@@ -158,7 +158,7 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 
 **Same window, other lanes (not 9/11 PP — do not force):** AU-062 names the **1996–2000 spine** as *ID4* → ***The Fifth Element* (1997)** → *Lebowski* (1998) → *Mummy* open (1999) → ***Mission to Mars* (2000)**. Unity / kinship / MoH, not WTC shadow. *Mission to Mars* theatrical **10 Mar 2000** sits **five months before** the Mars RV **`Approved For Release 2000/08/08`**. Maggie: *“The universe is-- is not chaos. It’s connection.”* (AU-062s). Full table: [AU-062 §7.1](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it).
 
-**Contrast (CIA / ridicule lane):** ***Stargate* (1994)** — Atlantis/Mars ridicule + gate decoy ([Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4)). Immediately **before** the 1996–2000 window.
+**Edge (NSA / program-name lane):** ***Stargate* (1994)** — STAR GATE program name on the marquee; dying Ra; film Oct 1994 → public close Sept 1995 ([Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-nsa-aligned--program-name-dying-alien-1995-close)). Immediately **before** the 1996–2000 window. Atlantis/Mars heckle remains residual dual-use, not the camp label.
 
 ---
 

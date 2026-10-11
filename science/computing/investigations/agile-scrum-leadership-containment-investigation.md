@@ -730,7 +730,7 @@ Zappos and holacracy shops **replicated** the experiment with **better branding*
 | Year | Event | Camp read (author) |
 |------|--------|-------------------|
 | **1992** | Crichton, *Rising Sun* | Public Japan-competition scoreboard — quality/cost fight enters mass culture. |
-| **1994** | *Disclosure* novel + film; *Stargate* film | *Disclosure* = **NSA-aligned corporate antibody** (captain vs untitled process). *Stargate* = **CIA/globalist** contrast (same year, different grammar) — [Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-globalist--cia-contrast-to-id4). |
+| **1994** | *Disclosure* novel + film; *Stargate* film | *Disclosure* = **NSA-aligned corporate antibody** (captain vs untitled process). *Stargate* = **CIA/globalist** contrast (same year, different grammar) — [Thread P](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-p--stargate-1994-film-nsa-aligned--program-name-dying-alien-1995-close). |
 | **1995** | OOPSLA Scrum; *Congo* film | Scrum = **CIA/globalist labor OS** seed (captain deletion written). *Congo* = Crichton property, **NSA overall** in the media catalog. |
 | **1996** | *Independence Day* | **NSA** unity/declass flagship — same decade’s antibody window. |
 | **2001** | Snowbird Manifesto | Brand-locks the flatten as **maturity**. |
