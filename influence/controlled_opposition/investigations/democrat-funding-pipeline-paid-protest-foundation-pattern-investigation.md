@@ -1,6 +1,6 @@
 # Investigation: Democrat funding pipeline, for-hire protest, polished foundations, and the “no pattern here” meme (**AU-069**)
 
-![American Alpha meme — Clinton / Biden / USAID / SPLC / ActBlue funding-collapse pattern](democrat-funding-pipeline-paid-protest-foundation-pattern-investigation.png)
+![American Alpha meme — Clinton / Biden / USAID / SPLC / ActBlue funding-collapse pattern](/influence/controlled_opposition/investigations/democrat-funding-pipeline-paid-protest-foundation-pattern-investigation.png)
 
 > **TL;DR:** A circulating X meme lists Hillary→Clinton Foundation collapse, Biden→library drought, USAID shutdown→DNC HQ loan, SPLC indictment→riots quieting, ActBlue probe→new funding alliances, then sneers **“Yup, no pattern here at all.”** This dossier treats that sarcasm as the **working hypothesis**: a **shared money / narrative / street stack** whose nodes look like healing NGOs and spontaneous crowds until the taps close. **Documented** pieces already exist in the open: commercial **crowd-for-hire** firms; USAID / NED–adjacent **color-revolution** training (Otpor → CANVAS); Clinton Foundation revenue crash after 2016; DNC **HQ-collateral** loan; **USAID** gutting in 2025; **SPLC** federal indictment (Apr 2026); multi-committee **ActBlue** fraud reports; Steele dossier as **Clinton/DNC-paid** opposition research used in FISA. **Author pattern (AU-069):** riot labor as a **day job**, foundations as **Democrat expansion** with a healing brand, and **Obama-network** continuity (dossier / IC handoff / Iran cash grammar) as the hub people mean when they say “all roads lead to Obama.” Uncaught diversions stay **open** by definition. Cross-reads: [Occupy CO](/governance/war/investigations/occupy-wall-street-controlled-opposition-investigation.md), [#MeToo sponsorship](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md), [managed democracy / Obama puppet](/governance/war/managed-democracy-puppets-and-redemption.md), [SDA×MSF charity opacity](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md), [NSA 2001–05 bunker → Obama/CIA](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md).
 
@@ -264,7 +264,7 @@ Repo already frames Obama as the **Democratic polished puppet slot** ([managed d
 
 Keywords: #ControlledOpposition #PaidProtest #CrowdsOnDemand #USAID #ActBlue #SPLC #ClintonFoundation #ColorRevolution #Otpor #CANVAS #Obama #SteeleDossier #RiotLogistics #Astroturf #ParadigmThreatFiles #AU069
 
-*Last updated: 2026-10-11*
+*Last updated: 2026-10-11* (header image: absolute path so gallery `#img=` does not nest under the article slug)
 
 ## Limits and disclaimers
 
