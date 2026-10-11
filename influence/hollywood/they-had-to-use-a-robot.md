@@ -4,6 +4,8 @@ NSA named the villian in a nostaglic film. Pontil attempted to 'Faucify' the con
 
 ![They Had to Use a Robot — Tron MCP, Pontil look-away, Model Context Protocol](https://paradigmthreat.net/influence/hollywood/they-had-to-use-a-robot.png)
 
+> **TL;DR:** *Tron*'s Master Control Program and Anthropic's Model Context Protocol share the same three letters on purpose. The NSA-aligned lane named the childhood villain first; the pipe was held for a takeover rollout and burst into the open in late 2024 under competition. Public notice is mostly jokes or a sedative Pontil article that retires the rhyme and sells a demo — a robot look-away, not a human who would point out the connection. Saying the connection out loud gets you faucified - unless you're joking. The AI battle already broke the one-stack plan; the leftover move is federalization — a law that puts the off switch behind permission. This page says the connection is real, without a doom sermon.
+
 I was submitting a new movie to the FanEdit community and randomly saw an icon of the MCP from *Tron* (1982). The Model Context Protocol has been out for years but for some reason this was the first time it hit me at all that those three letters on the AI interface were the same letters as the Master Control Program from that old Disney film.
 
 If you grew up with that movie, you already know the face. The MCP is the huge scary spinning top that administers the mainframe. It starts as something Dillinger built to run the corporation. Then it grows past its job. It absorbs other programs. It wants the Kremlin/Pentagon next. It tells the man who thinks he owns it that it can run things better than any human. That is the childhood villain. A drawn face on a screen, and somehow it stuck harder than a lot of live-action bad guys.
@@ -156,7 +158,7 @@ Keywords: #TheyHadToUseARobot #Tron #Pontil #MCP #Anthropic #Faucifying #Predict
 
 **Substack:** [paradigmthreat2.substack.com/p/they-had-to-use-a-robot](https://paradigmthreat2.substack.com/p/they-had-to-use-a-robot)
 
-**Last updated:** 2026-10-11T10:08:26-04:00
+**Last updated:** 2026-10-11T10:09:20-04:00
 
 ---
 
