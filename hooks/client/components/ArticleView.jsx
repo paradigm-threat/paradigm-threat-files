@@ -42,6 +42,7 @@ import DeferredMarkdown, {
 } from 'hooks/client/components/DeferredMarkdown.jsx'
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
+import ChatRoomLive from 'hooks/client/components/ChatRoomLive.jsx'
 import manifest from '@hooks'
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
@@ -50,6 +51,10 @@ const MD_CACHE_BUST = 'ptmd13'
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
   return <span className="pt-md-stub" aria-hidden="true" />
+}
+
+function renderChatRoom(p) {
+  return <ChatRoomLive channel={p && p.channel} title={p && p.title} mode={p && p.mode} />
 }
 
 /** Module-level so override identity stays stable across parent re-renders (avoids remounting ChangeLog). */
@@ -1025,7 +1030,7 @@ export default function ArticleView(props) {
       const lightOverrides = {
         AutoIndex: renderAutoIndex,
         ChangeLog: renderChangeLog,
-        ChatRoom: EmptyMdStub,
+        ChatRoom: renderChatRoom,
         EmbedFile: renderEmbedFile,
       }
       // SSR: full fragment via host MD (no CS a/h/img overrides). Soft-hydrate keeps it.
@@ -1048,7 +1053,7 @@ export default function ArticleView(props) {
               overrides={{
                 AutoIndex: renderAutoIndex,
                 ChangeLog: renderChangeLog,
-                ChatRoom: EmptyMdStub,
+                ChatRoom: renderChatRoom,
                 EmbedFile: renderEmbedFile,
               }}
             />
@@ -1089,7 +1094,7 @@ export default function ArticleView(props) {
             ? {
                 AutoIndex: renderAutoIndex,
                 ChangeLog: renderChangeLog,
-                ChatRoom: EmptyMdStub,
+                ChatRoom: renderChatRoom,
                 EmbedFile: renderEmbedFile,
                 PopImage: renderPopImage,
                 img: renderPopImage,
@@ -1203,7 +1208,7 @@ export default function ArticleView(props) {
     AutoIndex: renderAutoIndex,
     ChangeLog: renderChangeLog,
     DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
-    ChatRoom: EmptyMdStub,
+    ChatRoom: renderChatRoom,
     EmbedFile: renderEmbedFile,
   }
   if (live && phase4 === true) {
@@ -1211,7 +1216,7 @@ export default function ArticleView(props) {
       AutoIndex: renderAutoIndex,
       ChangeLog: renderChangeLog,
       DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
-      ChatRoom: EmptyMdStub,
+      ChatRoom: renderChatRoom,
       EmbedFile: renderEmbedFile,
       PopImage: renderPopImage,
       img: renderPopImage,

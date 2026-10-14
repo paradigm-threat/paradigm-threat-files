@@ -1976,6 +1976,16 @@ themes:
         display: "none"
       ".pt-nav-mobile-lg":
         display: "none"
+      ".pt-chat-page":
+        paddingBottom: "1.5rem"
+      ".pt-chat-page .fb-chat-app-host":
+        display: "block"
+        width: "100%"
+        marginTop: "0.75rem"
+        marginBottom: "1rem"
+      ".pt-chatroom-live":
+        marginTop: "1.25rem"
+        marginBottom: "1.25rem"
   dark:
     inherits: light
     variables:

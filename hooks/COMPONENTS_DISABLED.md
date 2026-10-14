@@ -11,7 +11,7 @@ Hard custom markdown / site components are enabled incrementally on the thin par
 | ThemeToggle | **shipped** | Post-`isClientLive` without SSR flicker |
 | SiteChrome / Nav / footer | **shipped** | Live navbar + FontToggle; sticky Directory on lg |
 | EmbedFile | **shipped** | PDF/`<embed>` via Pages mirror; `resolveAssetUrl` + articleRel |
-| ChatRoom-in-md | stub | Override returns hidden stub until chat lands on tip |
+| ChatRoom-in-md | **shipped** | `ChatRoomLive` → mesh LiveChat on `#pt-<topic>` (imported history) |
 | PopImage / gallery | **shipped** | `img`/`PopImage` overrides; gallery overlay; `#img=` hash; CSS used-class marker; **`-portrait` sibling** only when tip index (`__RELAY_PORTRAIT_SIBLINGS__` / Rust `@relay/image.portraitSiblingIfPresent`) says the blob exists |
 | Floating dir / back-to-top | **shipped** | sticky `pt-dir-nav-lg`; back-to-top chevron in TTS dock |
 | Article TTS dock | **shipped** | Vercel-parity: Play; Stop only after session (`sentences.length > 0`); seek + count; settings (`ml-auto`) Piper voice strip; no Site AI sparkle; Piper `@relay/tts` |

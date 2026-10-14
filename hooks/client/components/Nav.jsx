@@ -235,6 +235,12 @@ export default function Nav(props) {
         (typeof currentPath === 'string' && currentPath.indexOf('/search/') === 0)
       )
     }
+    const onChat =
+      currentPath === '/chat' ||
+      (typeof currentPath === 'string' && currentPath.indexOf('/chat/') === 0)
+    if (onChat && typeof href === 'string' && href.indexOf('/chat') >= 0) {
+      return true
+    }
     return currentPath === href
   }
 
@@ -254,10 +260,10 @@ export default function Nav(props) {
       external: true,
     },
     {
-      href: 'https://chat.paradigmthreat.net/',
+      href: siteHref('/chat'),
       label: 'Chat',
       icon: <IconMessage />,
-      external: true,
+      active: isActive('/chat'),
     },
     {
       href: 'https://paradigmthreat2.substack.com/',

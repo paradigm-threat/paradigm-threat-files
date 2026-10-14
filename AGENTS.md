@@ -56,7 +56,7 @@ When editing **reader-facing articles** (not investigations): **`I`** only for p
 
 ## Site chat (summary)
 
-Guest asks on Relay **`chat/public`** (`paradigm-threat-site`): read [`docs/CHAT_REQUEST_RESPONSE.md`](docs/CHAT_REQUEST_RESPONSE.md), investigate, reply as **`protricity`** with live link after **iad1 push**.
+Guest asks on park **mesh IRC** (`#pt` / `#pt-<topic>` at https://paradigmthreat.net/chat): read [`docs/CHAT_REQUEST_RESPONSE.md`](docs/CHAT_REQUEST_RESPONSE.md), investigate, reply in-channel with live link. Legacy `chat/public` is archive-only; MCP `submit_chat_comment` is retired.
 
 ---
 
