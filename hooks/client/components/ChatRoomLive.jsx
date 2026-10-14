@@ -49,7 +49,9 @@ function slugifyTopic(raw) {
       prevDash = false
     }
   }
-  while (collapsed.charAt(0) === '-') collapsed = collapsed.slice(1)
+  while (collapsed.charAt(0) === '-') {
+    collapsed = collapsed.slice(1)
+  }
   while (collapsed.length > 0 && collapsed.charAt(collapsed.length - 1) === '-') {
     collapsed = collapsed.slice(0, collapsed.length - 1)
   }
