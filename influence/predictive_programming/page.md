@@ -8,6 +8,8 @@
 
 **Status:** Ongoing investigation. We continue to identify PP in media over time. There are fewer exceptions than rules — most entertainment encodes, echoes, or amplifies patterns worth documenting. Not all PP is deliberate: some is **second-hand**, copied from common knowledge or prior media rather than ordered or influenced. The effect is similar regardless of origin.
 
+**Soft censorship of the term (Oct 2026):** FanEdit staff removed comments as **“political and conspiracy theories content”** and cited **r/fanedits** parallel rules — the kill switch is naming **Predictive Programming** itself, even without forum conspiracy debate. Author read: the term is an **implied accusation** of nefarious production; “no conspiracy” rules then ban **serious criticism** (hijack, sabotage, hidden meaning, Saturnian symbols) and leave only taste talk (*I don’t like this / I’m remixing*). End enclosure: **entertainment-only** debate. Log + screenshot: [FanEdit — PP soft censorship](/influence/censorship/fanedit-predictive-programming-soft-censorship-2026-10.md). Reader essay (Wikipedia lemma wipe, framing-as-gate, Reformation/Cathar, Trump antibody): [Thrown Off the Train](/influence/censorship/thrown-off-the-train.md) · [companion investigation](/influence/censorship/investigations/predictive-programming-soft-censorship-wikipedia-fanedit-investigation.md).
+
 ---
 
 ## The Human Phenomenon
@@ -345,7 +347,7 @@ Media identified as containing predictive programming by external sources or our
 
 ---
 
-Keywords: #Predictive #Programming #Animatrix #SecondRenaissance #GreatAwakening #IraqiDinar #GCR #Revaluation
+Keywords: #Predictive #Programming #Animatrix #SecondRenaissance #GreatAwakening #IraqiDinar #GCR #Revaluation #SoftCensorship #FanEdit
 
 ---
 

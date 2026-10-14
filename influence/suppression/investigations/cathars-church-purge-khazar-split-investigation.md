@@ -135,6 +135,7 @@ These sources **do not** meet academic evidence bars; they are recorded here as 
 - Wikipedia (entry points only, enemy-filtered): [Catharism](https://en.wikipedia.org/wiki/Catharism), [Albigensian Crusade](https://en.wikipedia.org/wiki/Albigensian_Crusade), [Montségur](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Monts%C3%A9gur), [Khazars](https://en.wikipedia.org/wiki/Khazars)
 - NC hub: [Chronologia.org](https://chronologia.org/en/how_it_was/) — pin specific Fomenko pages for any future claim “Fomenko says X about Cathars.”
 - Inquisition / fire: [martyr word history](/governance/war/investigations/martyr-word-history-investigation.md)
+- Soft erase / conspiracy kill-word / Reformation grammar (reader): [Thrown Off the Train](/influence/censorship/thrown-off-the-train.md) · [companion dossier](/influence/censorship/investigations/predictive-programming-soft-censorship-wikipedia-fanedit-investigation.md)
 - **Primary prior art (Usenet / Google Groups):** [Were the Cathars Khazars?](https://groups.google.com/g/soc.culture.jewish/c/3FhNzfQVbtk) — `soc.culture.jewish`, Oct 2006 (Geiserik / Nico de Jongh); see § VII.C1  
 - Prior-art mirror (fringe): [Were the Cathars Khazars?](https://cierratuatha.wordpress.com/2015/10/28/were-the-cathars-khazars/) — § VII.C2
 

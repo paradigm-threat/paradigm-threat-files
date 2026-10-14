@@ -131,6 +131,7 @@ Companion dossiers and sibling reads for the Alef mesh, the Jun 2026 call, and t
 - [ic911a §9.6 — live debate read, insult-amnesia gap](https://paradigmthreat.net/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#96-live-debate-read-jun-2026)
 - [Richard Gage / AE911Truth investigation](https://paradigmthreat2.substack.com/p/investigation-richard-gage-ae911truth) — what fog costs.
 - [*Mask Of Deception: The Alef Scam*](https://en.rtdoc.tv/films/2899-mask-of-deception-the-alef-scam) (RT, Jun 2026) — cross-check Stop UA Scam + GI-TOC.
+- [Thrown Off the Train](https://paradigmthreat.net/influence/censorship/thrown-off-the-train.md) — soft erase, Wikipedia lemma wipe, FanEdit trigger words, framing-as-gate (deniability rhyme).
 
 ## Framing and limits
 

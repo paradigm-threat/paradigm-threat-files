@@ -149,6 +149,7 @@ Same **opacity grammar** as [GitHub ban](/influence/censorship/github-ban.md), [
 - [Dubious stand-down — Libya / Benghazi / gold dinar](/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md#6-libya-under-gaddafi-threat-to-the-west-gold-and-african-currency)
 - [Great Awakening / dinar–GCR cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) §3.3
 - [Satan and Saturn — one creator, later split (AU-064)](/influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md)
+- [FanEdit — Predictive Programming soft censorship (Oct 2026)](/influence/censorship/fanedit-predictive-programming-soft-censorship-2026-10.md) — trigger-word ban as “conspiracy” forum rule
 - [Platform blocks — Instagram / Substack (June 2026)](/influence/censorship/platform-blocks-instagram-substack-2026-06.md)
 - [Reddit censorship — profile removal and permanent ban (July 2026)](/influence/censorship/reddit-personal-page-removal-2026-07.md)
 - [GitHub account ban](/influence/censorship/github-ban.md)

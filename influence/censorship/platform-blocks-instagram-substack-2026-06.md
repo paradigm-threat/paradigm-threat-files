@@ -55,7 +55,7 @@ The same window included a **public thread** arguing **AE911Truth / Richard Gage
 
 ---
 
-**Related:** [GitHub account ban](/influence/censorship/github-ban) · [Instagram censorship screenshots (prior)](/influence/censorship/instagram_censorship.jpg) · [Reddit censorship — profile removal and permanent ban, empty inbox (Jul 2026)](/influence/censorship/reddit-personal-page-removal-2026-07.md) · [Facebook — Meta removed 40 “suspicious” comments; false Undo (Oct 2026)](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) ([notice](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png)) · [June 27 blog — censorship note](https://paradigmthreat.net/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai)
+**Related:** [GitHub account ban](/influence/censorship/github-ban) · [Instagram censorship screenshots (prior)](/influence/censorship/instagram_censorship.jpg) · [Reddit censorship — profile removal and permanent ban, empty inbox (Jul 2026)](/influence/censorship/reddit-personal-page-removal-2026-07.md) · [Facebook — Meta removed 40 “suspicious” comments; false Undo (Oct 2026)](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) ([notice](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png)) · [FanEdit — PP soft censorship (Oct 2026)](/influence/censorship/fanedit-predictive-programming-soft-censorship-2026-10.md) · [June 27 blog — censorship note](https://paradigmthreat.net/blog/2026-06-27-june-late-roundup-words-rife-islamabad-internet-epstein-site-ai)
 
 Keywords: #Censorship #Instagram #Substack #PlatformBlock #ControlledOpposition #911 #AE911Truth #ParadigmThreat #June2026
 

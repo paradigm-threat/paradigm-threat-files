@@ -57,6 +57,7 @@ Red banner: *This account has been banned permanently. Check your inbox for a me
 - [ic911a §9.6 — live debate read](/events/false_flag/investigations/ic911a-911revision-controlled-opposition-investigation.md#96-live-debate-read-jun-2026)
 - [Platform blocks — Instagram / Substack (June 2026)](/influence/censorship/platform-blocks-instagram-substack-2026-06.md)
 - [Facebook — Meta removed 40 “suspicious” comments; false Undo (October 2026)](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) — forced logout + identity proof, bulk delete, Undo promised with no restore path ([notice](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png))
+- [FanEdit — Predictive Programming soft censorship (Oct 2026)](/influence/censorship/fanedit-predictive-programming-soft-censorship-2026-10.md) — staff cite **r/fanedits**-style “no conspiracy” rules as Reddit rhyme
 - [GitHub account ban](/influence/censorship/github-ban)
 
 ---
