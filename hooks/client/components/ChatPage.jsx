@@ -50,8 +50,9 @@ export default function ChatPage() {
         </p>
         <h1>Chat</h1>
         <p className="pt-muted">
-          Live lobby and topic channels (imported history + mesh IRC). Pick a nick and join
-          #pt or a #pt-* room.
+          {
+            'Live lobby and topic channels (imported history + mesh IRC). Pick a nick and join #pt or a #pt-* room.'
+          }
         </p>
         <ChatApp channel={channel} />
       </article>
