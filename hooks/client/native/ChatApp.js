@@ -1,6 +1,5 @@
 /**
  * CleverScript stub — div[data-relay-park-native=fb-chat-app].
- * Full IRC-style UI in ChatApp.host.js.
  */
 import React from 'react'
 

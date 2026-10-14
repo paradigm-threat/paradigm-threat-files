@@ -1,6 +1,6 @@
 /**
  * CleverScript stub — div[data-relay-park-native=fb-live-chat].
- * Shared across parked sites; hosts load from content repo or relay-web-assets.
+ * Quoted object keys / spreads are not CleverScript-safe; use JSX attrs.
  */
 import React from 'react'
 
@@ -32,14 +32,15 @@ export default function LiveChat(props) {
   ) {
     origin = '' + p.chatOrigin
   }
-  const attrs = {
-    className: 'fb-live-chat-host',
-    'data-relay-park-native': 'fb-live-chat',
-    'data-path': path,
-    'data-mode': mode,
-  }
-  if (channel) attrs['data-channel'] = channel
-  if (prefix) attrs['data-prefix'] = prefix
-  if (origin) attrs['data-chat-origin'] = origin
-  return <div {...attrs} />
+  return (
+    <div
+      className="fb-live-chat-host"
+      data-relay-park-native="fb-live-chat"
+      data-path={path}
+      data-mode={mode}
+      data-channel={channel || undefined}
+      data-prefix={prefix || undefined}
+      data-chat-origin={origin || undefined}
+    />
+  )
 }
