@@ -38,9 +38,9 @@ export default function LiveChat(props) {
       data-relay-park-native="fb-live-chat"
       data-path={path}
       data-mode={mode}
-      data-channel={channel || undefined}
-      data-prefix={prefix || undefined}
-      data-chat-origin={origin || undefined}
+      data-channel={channel}
+      data-prefix={prefix}
+      data-chat-origin={origin}
     />
   )
 }
