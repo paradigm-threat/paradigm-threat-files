@@ -1,8 +1,8 @@
 /**
- * Flashback “Now showing” — SSR shell + client fill of soft-kept DOM.
+ * Flashback Now showing - SSR shell + client fill of soft-kept DOM.
  *
- * Soft-hydrate keeps the SSR `[data-pt-flashback-ssr]` node visible and does not
- * swap this island (unlike ChangeLog). On phase ≥3 we fetch index.json and write
+ * Soft-hydrate keeps the SSR data-pt-flashback-ssr node visible and does not
+ * swap this island (unlike ChangeLog). On phase 3+ we fetch index.json and write
  * into that node via document.querySelector.
  */
 import React, { useEffect } from 'react'
@@ -72,7 +72,7 @@ function paintShell(el, items, failed) {
       '" target="_blank" rel="noopener noreferrer">Open Flashback Repository</a>.</p>'
   } else if (items === null || items === undefined || items.length === 0) {
     body =
-      '<p class="pt-muted pt-flashback-now-status">Nothing listed as Now showing right now — browse the ' +
+      '<p class="pt-muted pt-flashback-now-status">Nothing listed as Now showing right now. Browse the ' +
       '<a href="' +
       esc(ORIGIN + '/') +
       '" target="_blank" rel="noopener noreferrer">full library</a>.</p>'
@@ -98,7 +98,7 @@ function paintShell(el, items, failed) {
     '<h3 class="pt-flashback-now-title">Now showing</h3>' +
     '<a class="pt-flashback-now-more" href="' +
     esc(ORIGIN + '/') +
-    '" target="_blank" rel="noopener noreferrer">Flashback Repository -&gt;</a>' +
+    '" target="_blank" rel="noopener noreferrer">Flashback Repository</a>' +
     '</div>' +
     body
   el.removeAttribute('data-pt-flashback-ssr')
@@ -178,10 +178,12 @@ export default function FlashbackNowShowing() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {'Flashback Repository ->'}
+          Flashback Repository
         </a>
       </div>
-      <p className="pt-muted pt-flashback-now-status">Loading Now showing...</p>
+      <p className="pt-muted pt-flashback-now-status">
+        Now showing loads after page open…
+      </p>
     </section>
   )
 }
