@@ -217,7 +217,7 @@ export default function Nav(props) {
 
   // Tip fallback: host/runtime sets data-pt-hydrated; assert "1" once live (no setState).
   // Also fill soft-kept Flashback Now showing (island swap does not cover this marker).
-  // Soft-kept SSR may appear after first paint — retry briefly.
+  // Soft-kept SSR may appear after first paint — retry via globalThis.setTimeout.
   useEffect(() => {
     try {
       if (!document || !document.documentElement) return
@@ -225,19 +225,22 @@ export default function Nav(props) {
     } catch (e) {}
     if (live !== true) return
     let n = 0
-    let timer = null
+    let timer = 0
+    const g = globalThis
     function tick() {
       try {
         ensureFlashbackNowShowing()
       } catch (e2) {}
       n = n + 1
-      if (n < 40) {
-        timer = setTimeout(tick, 250)
+      if (n < 40 && g && typeof g.setTimeout === 'function') {
+        timer = g.setTimeout(tick, 250)
       }
     }
     tick()
     return () => {
-      if (timer !== null) clearTimeout(timer)
+      if (timer !== 0 && g && typeof g.clearTimeout === 'function') {
+        g.clearTimeout(timer)
+      }
     }
   }, [live])
 
