@@ -6,6 +6,7 @@
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
+import { ensureFlashbackNowShowing } from 'hooks/client/flashbackNowShowing.js'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take } from '@relay/util'
@@ -221,6 +222,11 @@ export default function ChangeLog(props) {
       </section>
     )
   }
+
+  // Soft-kept Flashback shell is present by phase 3; ChangeLog mounts then.
+  try {
+    ensureFlashbackNowShowing()
+  } catch (eFb) {}
 
   const buckets = buildBuckets(limit)
 
