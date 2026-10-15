@@ -58,7 +58,7 @@ export default function FlashbackNowShowing() {
       })
       .then((json) => {
         if (cancelled === true) return
-        if (json == null) {
+        if (json === null || json === undefined) {
           setData({ status: 'error', items: [] })
           return
         }
