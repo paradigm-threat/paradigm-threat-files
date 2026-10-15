@@ -25,7 +25,6 @@ function titleFromSlug(slug) {
 
 function ensureCss() {
   try {
-    if (typeof document === 'undefined') return
     if (document.getElementById(STYLE_ID)) return
     const st = document.createElement('style')
     st.id = STYLE_ID
@@ -110,8 +109,6 @@ function paint(el, items, failed) {
 
 export function ensureFlashbackNowShowing() {
   try {
-    if (typeof document === 'undefined') return
-    if (typeof fetch !== 'function') return
     const found = document.querySelectorAll('[data-pt-flashback-ssr]')
     if (found === null || found === undefined || found.length === 0) return
     let nodes = []
