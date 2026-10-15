@@ -98,7 +98,7 @@ function paintShell(el, items, failed) {
     '<h3 class="pt-flashback-now-title">Now showing</h3>' +
     '<a class="pt-flashback-now-more" href="' +
     esc(ORIGIN + '/') +
-    '" target="_blank" rel="noopener noreferrer">Flashback Repository →</a>' +
+    '" target="_blank" rel="noopener noreferrer">Flashback Repository -&gt;</a>' +
     '</div>' +
     body
   el.removeAttribute('data-pt-flashback-ssr')
@@ -178,10 +178,10 @@ export default function FlashbackNowShowing() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Flashback Repository →
+          {'Flashback Repository ->'}
         </a>
       </div>
-      <p className="pt-muted pt-flashback-now-status">Loading Now showing…</p>
+      <p className="pt-muted pt-flashback-now-status">Loading Now showing...</p>
     </section>
   )
 }

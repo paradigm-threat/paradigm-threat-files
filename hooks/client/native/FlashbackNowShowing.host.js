@@ -66,7 +66,7 @@
       '<h3 class="pt-flashback-now-title">Now showing</h3>' +
       '<a class="pt-flashback-now-more" href="' +
       esc(ORIGIN + '/') +
-      '" target="_blank" rel="noopener noreferrer">Flashback Repository →</a>' +
+      '" target="_blank" rel="noopener noreferrer">Flashback Repository -&gt;</a>' +
       '</div>';
     var body = '';
     if (err === true) {
