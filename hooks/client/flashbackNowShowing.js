@@ -128,7 +128,9 @@ export function ensureFlashbackNowShowing() {
       .then((json) => {
         fillStarted = false
         if (json === null || json === undefined) {
-          for (let i = 0; i < nodes.length; i++) paint(nodes[i], [], true)
+          for (let i = 0; i < nodes.length; i++) {
+            paint(nodes[i], [], true)
+          }
           return
         }
         const slugs = json && Array.isArray(json.nowShowing) ? json.nowShowing : []
@@ -149,11 +151,15 @@ export function ensureFlashbackNowShowing() {
             { slug: slug, title: title, href: ORIGIN + '/' + slug },
           ])
         }
-        for (let i = 0; i < nodes.length; i++) paint(nodes[i], items, false)
+        for (let i = 0; i < nodes.length; i++) {
+          paint(nodes[i], items, false)
+        }
       })
       .catch(() => {
         fillStarted = false
-        for (let i = 0; i < nodes.length; i++) paint(nodes[i], [], true)
+        for (let i = 0; i < nodes.length; i++) {
+          paint(nodes[i], [], true)
+        }
       })
   } catch (e) {
     fillStarted = false
