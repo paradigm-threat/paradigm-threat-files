@@ -226,12 +226,17 @@ export default function ChangeLog(props) {
   // Soft-kept Flashback shell is present by phase 3; ChangeLog mounts then.
   // Prefer native host script (not CleverScript) so fill is reliable.
   try {
-    if (typeof document !== 'undefined' && !document.getElementById('pt-fb-now-host')) {
-      const s = document.createElement('script')
-      s.id = 'pt-fb-now-host'
-      s.src = '/hooks/client/native/FlashbackNowShowing.host.js?v=34'
-      const head = document.head || document.documentElement
-      if (head) head.appendChild(s)
+    if (typeof document !== 'undefined') {
+      const existing = document.getElementById('pt-fb-now-host')
+      if (existing === null || existing === undefined) {
+        const s = document.createElement('script')
+        s.id = 'pt-fb-now-host'
+        s.src = '/hooks/client/native/FlashbackNowShowing.host.js?v=34'
+        const head = document.head || document.documentElement
+        if (head !== null && head !== undefined) {
+          head.appendChild(s)
+        }
+      }
     }
   } catch (eHost) {}
   try {
