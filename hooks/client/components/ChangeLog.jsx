@@ -6,7 +6,6 @@
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
-import { ensureFlashbackNowShowing } from 'hooks/client/flashbackNowShowing.js'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take } from '@relay/util'
@@ -223,23 +222,70 @@ export default function ChangeLog(props) {
     )
   }
 
-  // Soft-kept Flashback shell is present by phase 3; ChangeLog mounts then.
-  // Prefer native host script (not CleverScript) so fill is reliable.
-  // Use bare document (CleverScript tip Dom) — typeof document checks get DCE'd.
+  // Soft-kept Flashback shell is present by phase 3; fill Now showing inline.
   try {
-    const existing = document.getElementById('pt-fb-now-host')
-    if (existing === null || existing === undefined) {
-      const s = document.createElement('script')
-      s.id = 'pt-fb-now-host'
-      s.src = '/hooks/client/native/FlashbackNowShowing.host.js?v=35'
-      const head = document.head || document.documentElement
-      if (head !== null && head !== undefined) {
-        head.appendChild(s)
-      }
+    const fb = document.querySelector('[data-pt-flashback-ssr]')
+    if (fb !== null && fb !== undefined && fb.getAttribute('data-pt-flashback-filled') !== '1') {
+      fb.setAttribute('data-pt-flashback-pending', '1')
+      fetch('https://flashbackrepository.org/index.json', { cache: 'default' })
+        .then((res) => {
+          if (!res || res.ok !== true) return null
+          return res.json()
+        })
+        .then((json) => {
+          if (json === null || json === undefined) return
+          const slugs = Array.isArray(json.nowShowing) ? json.nowShowing : []
+          const projects = Array.isArray(json.projects) ? json.projects : []
+          const bySlug = {}
+          for (let i = 0; i < projects.length; i++) {
+            const p = projects[i]
+            if (p && typeof p.slug === 'string') {
+              bySlug[p.slug] = p
+            }
+          }
+          while (fb.firstChild) {
+            fb.removeChild(fb.firstChild)
+          }
+          const head = document.createElement('div')
+          head.className = 'pt-flashback-now-head'
+          const h3 = document.createElement('h3')
+          h3.className = 'pt-flashback-now-title'
+          h3.textContent = 'Now showing'
+          head.appendChild(h3)
+          const more = document.createElement('a')
+          more.className = 'pt-flashback-now-more'
+          more.href = 'https://flashbackrepository.org/'
+          more.target = '_blank'
+          more.rel = 'noopener noreferrer'
+          more.textContent = 'Flashback Repository'
+          head.appendChild(more)
+          fb.appendChild(head)
+          const ul = document.createElement('ul')
+          ul.className = 'pt-flashback-now-list'
+          for (let j = 0; j < slugs.length; j++) {
+            const slug = slugs[j]
+            if (typeof slug === 'string' && slug.length > 0) {
+              const p = bySlug[slug]
+              const title =
+                p && typeof p.title === 'string' && p.title.length > 0 ? p.title : slug
+              const li = document.createElement('li')
+              li.className = 'pt-flashback-now-item'
+              const a = document.createElement('a')
+              a.href = 'https://flashbackrepository.org/' + slug
+              a.target = '_blank'
+              a.rel = 'noopener noreferrer'
+              a.textContent = title
+              li.appendChild(a)
+              ul.appendChild(li)
+            }
+          }
+          fb.appendChild(ul)
+          fb.removeAttribute('data-pt-flashback-ssr')
+          fb.removeAttribute('data-pt-flashback-pending')
+          fb.setAttribute('data-pt-flashback-filled', '1')
+        })
+        .catch(() => {})
     }
-  } catch (eHost) {}
-  try {
-    ensureFlashbackNowShowing()
   } catch (eFb) {}
 
   const buckets = buildBuckets(limit)

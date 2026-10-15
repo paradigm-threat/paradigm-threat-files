@@ -20,7 +20,6 @@ import { propOr, propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 import { archiveBannerHref } from 'hooks/client/legacyAppHref.js'
 import { ensureNavMenu } from 'hooks/client/navMenu.js'
-import { ensureFlashbackNowShowing } from 'hooks/client/flashbackNowShowing.js'
 
 const WORDMARK_PATH = '/site/header.png'
 const MARK_PATH = '/site/favicon.svg'
@@ -216,15 +215,11 @@ export default function Nav(props) {
   ensureNavMenu()
 
   // Tip fallback: host/runtime sets data-pt-hydrated; assert "1" once live (no setState).
-  // Also fill soft-kept Flashback Now showing (island swap does not cover this marker).
   useEffect(() => {
     try {
       if (!document || !document.documentElement) return
       document.documentElement.setAttribute('data-pt-hydrated', live ? '1' : '0')
     } catch (e) {}
-    try {
-      if (live === true) ensureFlashbackNowShowing()
-    } catch (e2) {}
   }, [live])
 
   function isActive(href) {
