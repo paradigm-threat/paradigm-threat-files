@@ -7,7 +7,7 @@
 (function (global) {
   'use strict';
 
-  var CSS_ID = 'fb-park-native-css-v11';
+  var CSS_ID = 'fb-park-native-css-v12';
   var BRAND_LINKS_ID = 'fb-brand-head-links';
   var THEATER_BG_CSS = '/hooks/client/brand/theater-bg.css';
   var THEATER_THEME_KEY = 'flashback.theaterTheme.v1';
@@ -140,6 +140,7 @@
         'fb-park-native-css-v8',
         'fb-park-native-css-v9',
         'fb-park-native-css-v10',
+        'fb-park-native-css-v11',
       ].forEach(
         function (oldId) {
           var old = global.document.getElementById(oldId);
