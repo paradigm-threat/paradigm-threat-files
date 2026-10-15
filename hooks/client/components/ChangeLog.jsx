@@ -223,22 +223,36 @@ export default function ChangeLog(props) {
   }
 
   // Soft-kept Flashback shell is present by phase 3; fill Now showing inline.
+  // Re-query the shell inside each then — soft-hydrate may replace nodes.
   try {
-    const fb = document.querySelector('[data-pt-flashback-ssr]')
-    if (fb !== null && fb !== undefined && fb.getAttribute('data-pt-flashback-filled') !== '1') {
-      fb.setAttribute('data-pt-flashback-pending', '1')
-      fetch('https://flashbackrepository.org/index.json', { cache: 'default' })
+    const fb0 = document.querySelector('[data-pt-flashback-ssr]')
+    if (fb0 !== null && fb0 !== undefined && fb0.getAttribute('data-pt-flashback-filled') !== '1') {
+      fb0.setAttribute('data-pt-flashback-pending', '1')
+      const g = globalThis
+      const doFetch = g && typeof g.fetch === 'function' ? g.fetch : fetch
+      doFetch('https://flashbackrepository.org/index.json', { cache: 'default' })
         .then((res) => {
+          const el = document.querySelector('[data-pt-flashback-ssr]')
+          if (el !== null && el !== undefined) {
+            el.setAttribute('data-pt-flashback-fetch', res && res.ok === true ? 'ok' : 'bad')
+          }
           if (!res || res.ok !== true) return null
           return res.json()
         })
         .then((json) => {
-          if (json === null || json === undefined) return
-          const slugs = Array.isArray(json.nowShowing) ? json.nowShowing : []
-          const projects = Array.isArray(json.projects) ? json.projects : []
+          const fb = document.querySelector('[data-pt-flashback-ssr]')
+          if (fb === null || fb === undefined) return
+          if (json === null || json === undefined) {
+            fb.setAttribute('data-pt-flashback-fetch', 'null')
+            return
+          }
+          const slugs = json.nowShowing
+          const projects = json.projects
+          const slugList = slugs && slugs.length >= 0 ? slugs : []
+          const projectList = projects && projects.length >= 0 ? projects : []
           const bySlug = {}
-          for (let i = 0; i < projects.length; i++) {
-            const p = projects[i]
+          for (let i = 0; i < projectList.length; i++) {
+            const p = projectList[i]
             if (p && typeof p.slug === 'string') {
               bySlug[p.slug] = p
             }
@@ -262,12 +276,14 @@ export default function ChangeLog(props) {
           fb.appendChild(head)
           const ul = document.createElement('ul')
           ul.className = 'pt-flashback-now-list'
-          for (let j = 0; j < slugs.length; j++) {
-            const slug = slugs[j]
+          for (let j = 0; j < slugList.length; j++) {
+            const slug = slugList[j]
             if (typeof slug === 'string' && slug.length > 0) {
               const p = bySlug[slug]
-              const title =
-                p && typeof p.title === 'string' && p.title.length > 0 ? p.title : slug
+              let title = slug
+              if (p && typeof p.title === 'string' && p.title.length > 0) {
+                title = p.title
+              }
               const li = document.createElement('li')
               li.className = 'pt-flashback-now-item'
               const a = document.createElement('a')
@@ -284,7 +300,12 @@ export default function ChangeLog(props) {
           fb.removeAttribute('data-pt-flashback-pending')
           fb.setAttribute('data-pt-flashback-filled', '1')
         })
-        .catch(() => {})
+        .catch(() => {
+          const el = document.querySelector('[data-pt-flashback-ssr]')
+          if (el !== null && el !== undefined) {
+            el.setAttribute('data-pt-flashback-fetch', 'err')
+          }
+        })
     }
   } catch (eFb) {}
 
