@@ -1,6 +1,6 @@
 /**
  * Fill soft-kept [data-pt-flashback-ssr] from Flashback index.json.
- * DOM-only (createElement) — CleverScript cannot parse HTML strings with nested quotes.
+ * DOM-only (createElement). CleverScript-safe: braced fors, no continue, no ==.
  */
 
 const INDEX_URL = 'https://flashbackrepository.org/index.json'
@@ -16,8 +16,9 @@ function titleFromSlug(slug) {
   let out = []
   for (let i = 0; i < parts.length; i++) {
     const w = parts[i]
-    if (w.length === 0) continue
-    out = out.concat([w.charAt(0).toUpperCase() + w.slice(1)])
+    if (w.length > 0) {
+      out = out.concat([w.charAt(0).toUpperCase() + w.slice(1)])
+    }
   }
   return out.join(' ')
 }
@@ -43,7 +44,9 @@ function ensureCss() {
       'html.dark .pt-flashback-now{border-color:#1e293b;background:#020817;}' +
       'html.light .pt-flashback-now{border-color:#e2e8f0;background:#ffffff;}'
     const head = document.head || document.documentElement
-    if (head !== null && head !== undefined) head.appendChild(st)
+    if (head !== null && head !== undefined) {
+      head.appendChild(st)
+    }
   } catch (e) {}
 }
 
@@ -114,8 +117,9 @@ export function ensureFlashbackNowShowing() {
     let nodes = []
     for (let n = 0; n < found.length; n++) {
       const node = found[n]
-      if (node.getAttribute('data-pt-flashback-filled') === '1') continue
-      nodes = nodes.concat([node])
+      if (node.getAttribute('data-pt-flashback-filled') !== '1') {
+        nodes = nodes.concat([node])
+      }
     }
     if (nodes.length === 0) return
     if (fillStarted === true) return
@@ -138,18 +142,23 @@ export function ensureFlashbackNowShowing() {
         const bySlug = {}
         for (let i = 0; i < projects.length; i++) {
           const p = projects[i]
-          if (p && typeof p.slug === 'string') bySlug[p.slug] = p
+          if (p && typeof p.slug === 'string') {
+            bySlug[p.slug] = p
+          }
         }
         let items = []
         for (let i = 0; i < slugs.length; i++) {
           const slug = slugs[i]
-          if (typeof slug !== 'string' || slug.length === 0) continue
-          const p = bySlug[slug]
-          let title = titleFromSlug(slug)
-          if (p && typeof p.title === 'string' && p.title.length > 0) title = p.title
-          items = items.concat([
-            { slug: slug, title: title, href: ORIGIN + '/' + slug },
-          ])
+          if (typeof slug === 'string' && slug.length > 0) {
+            const p = bySlug[slug]
+            let title = titleFromSlug(slug)
+            if (p && typeof p.title === 'string' && p.title.length > 0) {
+              title = p.title
+            }
+            items = items.concat([
+              { slug: slug, title: title, href: ORIGIN + '/' + slug },
+            ])
+          }
         }
         for (let i = 0; i < nodes.length; i++) {
           paint(nodes[i], items, false)
