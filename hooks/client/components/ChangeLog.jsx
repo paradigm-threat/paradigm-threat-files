@@ -6,6 +6,7 @@
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
+import { parseJson } from 'hooks/client/jsonUtil.jsx'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take } from '@relay/util'
@@ -221,6 +222,76 @@ export default function ChangeLog(props) {
       </section>
     )
   }
+
+  // Soft-kept Flashback island is not in embed.js SSR_PLACEHOLDER_SELECTORS yet,
+  // so fill it here when ChangeLog hydrates (phase ≥3). No Accept header — sync
+  // XHR + custom headers can trip CORS preflight and fail.
+  try {
+    const fb = document.querySelector('[data-pt-flashback-ssr]')
+    if (fb !== null && fb.getAttribute('data-pt-flashback-filled') !== '1') {
+      const resp = fetch('https://flashbackrepository.org/index.json', {
+        method: 'GET',
+      })
+      if (resp && resp.ok === true) {
+        const text = resp.text ? resp.text : ''
+        const json = parseJson(text)
+        if (json !== null) {
+          const slugs = json.nowShowing
+          const projects = json.projects
+          const slugList = slugs && slugs.length > 0 ? slugs : []
+          const projectList = projects && projects.length > 0 ? projects : []
+          const bySlug = {}
+          for (let i = 0; i < projectList.length; i++) {
+            const p = projectList[i]
+            if (p && typeof p.slug === 'string') {
+              bySlug[p.slug] = p
+            }
+          }
+          while (fb.firstChild) {
+            fb.removeChild(fb.firstChild)
+          }
+          const head = document.createElement('div')
+          head.setAttribute('class', 'pt-flashback-now-head')
+          const h3 = document.createElement('h3')
+          h3.setAttribute('class', 'pt-flashback-now-title')
+          h3.textContent = 'Now showing'
+          head.appendChild(h3)
+          const more = document.createElement('a')
+          more.setAttribute('class', 'pt-flashback-now-more')
+          more.setAttribute('href', 'https://flashbackrepository.org/')
+          more.setAttribute('target', '_blank')
+          more.setAttribute('rel', 'noopener noreferrer')
+          more.textContent = 'Flashback Repository'
+          head.appendChild(more)
+          fb.appendChild(head)
+          const ul = document.createElement('ul')
+          ul.setAttribute('class', 'pt-flashback-now-list')
+          ul.setAttribute('aria-label', 'Now showing titles')
+          for (let j = 0; j < slugList.length; j++) {
+            const slug = slugList[j]
+            if (typeof slug === 'string' && slug.length > 0) {
+              const p = bySlug[slug]
+              let title = slug
+              if (p && typeof p.title === 'string' && p.title.length > 0) {
+                title = p.title
+              }
+              const li = document.createElement('li')
+              li.setAttribute('class', 'pt-flashback-now-item')
+              const a = document.createElement('a')
+              a.setAttribute('href', 'https://flashbackrepository.org/' + slug)
+              a.setAttribute('target', '_blank')
+              a.setAttribute('rel', 'noopener noreferrer')
+              a.textContent = title
+              li.appendChild(a)
+              ul.appendChild(li)
+            }
+          }
+          fb.appendChild(ul)
+          fb.setAttribute('data-pt-flashback-filled', '1')
+        }
+      }
+    }
+  } catch (eFb) {}
 
   const buckets = buildBuckets(limit)
 

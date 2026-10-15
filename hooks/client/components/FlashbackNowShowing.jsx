@@ -1,6 +1,7 @@
 /**
- * Flashback Repository Now showing — SSR placeholder, live list at phase ≥3.
- * Cross-origin index.json via CleverScript sync fetch (host XHR under the hood).
+ * Flashback Repository Now showing.
+ * SSR: placeholder (`data-pt-flashback-ssr`). Phase ≥3: live list from index.json.
+ * Current embed.js may not swap this island — ChangeLog also fills the soft-kept stub.
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
@@ -12,11 +13,9 @@ const ORIGIN = 'https://flashbackrepository.org'
 
 function loadIndexJson() {
   try {
+    // No Accept header — sync XHR + custom headers can trip CORS preflight.
     const resp = fetch(INDEX_URL, {
       method: 'GET',
-      headers: {
-        accept: 'application/json',
-      },
     })
     if (resp && resp.ok === true) {
       const text = resp.text ? resp.text : ''
