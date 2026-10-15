@@ -12,6 +12,14 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 **Independent research.** Not affiliated with any employer or university.
 
+### Flashback Repository is live
+
+**[Flashback Repository](https://flashbackrepository.org)** is open — personal fan edits of films we own (family-safe cuts, taste-driven mixes, quiet repairs). You must own a legal copy of each original before you play anything there. Use the header **Movies** link anytime.
+
+Titles marked **Now showing** are ready to play on the host (Bunny CDN). Everything else is the IPFS catalog.
+
+<FlashbackNowShowing />
+
 ### Clone locally
 
 ```bash

@@ -29,6 +29,7 @@
     { "path": "hooks/client/components/AutoIndex.jsx", "name": "AutoIndex" },
     { "path": "hooks/client/components/DirectoryIndex.jsx", "name": "DirectoryIndex" },
     { "path": "hooks/client/components/ChangeLog.jsx", "name": "ChangeLog" },
+    { "path": "hooks/client/components/FlashbackNowShowing.jsx", "name": "FlashbackNowShowing" },
     { "path": "hooks/client/components/HomePage.jsx", "name": "HomePage" },
     { "path": "hooks/client/components/ArticleView.jsx", "name": "ArticleView" },
     { "path": "hooks/client/components/SearchPage.jsx", "name": "SearchPage" },

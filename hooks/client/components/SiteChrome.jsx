@@ -47,6 +47,11 @@ export default function SiteChrome(props) {
             external={true}
           />
           <FooterLink
+            href="https://flashbackrepository.org/"
+            label="Movies"
+            external={true}
+          />
+          <FooterLink
             href="https://www.bitchute.com/channel/paradigmthreat"
             label="Videos"
             external={true}

@@ -5,7 +5,7 @@
 > **TL;DR:** Open dossier cataloging **NSA-aligned** vs **CIA/MI6-aligned** grammar in blockbuster film, TV, and games. **Camp is not “China content.”** **Pacific lane** litmus: war-prep with China? **Cyber / unity lane:** agency, declass, common foe? **Thread N — *T2*; Thread O — *ID4* (1996)** = NSA flagships. **Thread P — *Stargate* (1994 film)** = **NSA-aligned** — title names the real **STAR GATE** program; **dying alien** / kill the master; film **Oct 1994** then program **public close Sept 1995** (~11 months). Prior CIA/globalist label **retired 2026-10-11**. **Thread Q — *Burn After Reading* (2008)** = **NSA-aligned interagency satire** — CIA **SigInt** purge, **Harry (Clooney) cellphone geolocation forecast**, **burn the body** (no FBI), **“What did we learn?”** closure. **Thread R — *The Arrival* (1996, Charlie Sheen)** = **NSA-aligned geoengineering / alien-influence flagship** — **not** Villeneuve’s *Arrival* (2016). Greenhouse plants as terraforming; JPL/spy compromise; Wolf 336 catastrophe stand-in; **AGW narrative as cover**. **Thread S — *The Big Lebowski* (1998)** = **NSA-aligned sovereignty / Gulf War ROTM** — hard talk wrapped in **Walter** (unchecked-aggression Vietnam vessel); **Kuwait bullying** reminder; **“This aggression will not stand”** as **line-crossed response**, not Bush-as-aggressor close; **Jesus / pederast declaration**; clinical sexuality-control warning. **Thread T — *300* (2006)** = **NSA-aligned East–West / holy-war antibody** — Plataea close: **“rescue a world from mysticism and tyranny”**; antiquity–present conflation for **radical-Islam-as-Eastern-invasion** read; stylistic lasting-impression grammar; **Fomenko** duplicate + **Thermopylae=Fellin/Livonian** (§07_30); **1492 Ottoman** = separate Fomenko epoch + **parallel site fold**, not one equation. ***Congo* (1995)** = **NSA overall** (Ross *loveless…sons of bitches* CIA audit + pro-African balance) with **residual CIA Africa contempt** (Monroe *settle scores*) and ***King Solomon’s Mines* / Zinj** memory-war payload. ***Disclosure* (1994)** = **NSA** corporate captain antibody (accusation deletes the product lead; exit = **do the job**) — same-year contrast to *Stargate*; labor lock [AU-057r](/science/computing/investigations/agile-scrum-leadership-containment-investigation.md). ***Back to the Future* (1985) + *Part II* (1989)** = **NSA** (Reagan-as-actor call-out; Libyan plutonium terrorists; 9/11 PP cluster) — presidency cross-read [NSA-aligned presidencies](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md). **Author heuristic:** NSA-camp blockbusters **rarer** and often **classics**; CIA-camp titles **more common**, **contradictory plots** tolerated to move misdirection payload.
 
 **Date:** 2026-06-17  
-**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23; ***Back to the Future* 1–2** NSA catalog rows + presidency cross-link added 2026-07-26; ***The Big Lebowski* (1998)** Thread S added 2026-08-30; ***300* (2006)** Thread T added 2026-09-01; ***Disclosure* (1994)** NSA catalog (corporate captain antibody; AU-057r) added 2026-09-12; **Mountain of Heaven glitch / occult icons (AU-062)** lane added 2026-09-18; *Stargate* Thread P **flipped to NSA** 2026-10-11 (program name / dying alien / 1995 close); AU-062 §7 MoH join **rewritten**; **1996–2000 window** ([AU-062 §7.1](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it)).  
+**Status:** Open investigation; **reader essay published** 2026-06-17; ***Congo* / Spielberg brand cluster** added 2026-07-21; ***The Arrival* (1996)** Thread R added 2026-07-23; ***Back to the Future* 1–2** NSA catalog rows + presidency cross-link added 2026-07-26; ***The Big Lebowski* (1998)** Thread S added 2026-08-30; ***300* (2006)** Thread T added 2026-09-01; ***Disclosure* (1994)** NSA catalog (corporate captain antibody; AU-057r) added 2026-09-12; **Mountain of Heaven glitch / occult icons (AU-062)** lane added 2026-09-18; *Stargate* Thread P **flipped to NSA** 2026-10-11 (program name / dying alien / 1995 close); AU-062 §7 MoH join **rewritten**; **1996–2000 window** ([AU-062 §7.1](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it)); ***Game of Thrones*** Mance NSA beats — **“foreigner’s war”** meme (2026-10-13) + **unite-or-die** (2026-10-15).  
 **Reader essay:** [**Everything Burns**](/influence/hollywood/everything-burns.md)
 
 ---
@@ -45,7 +45,7 @@
 
 **Part IV — Author conclusion**
 
-16. [Author's conclusion — subconscious retention, debt scenario, PP success metric](#authors-conclusion--subconscious-retention-debt-scenario-pp-success-metric)
+16. [Author's conclusion — subconscious retention, debt scenario, PP success metric](#authors-conclusion--subconscious-retention-debt-scenario-pp-success-metric) — GoT Iron Bank + Mance **unite-or-die** / **“foreigner’s war”**
 17. [Thread L — *The Office* “China” (S07E10): conversation beats fear](#thread-l--the-office-china-s07e10-conversation-beats-fear)
 
 **Closing**
@@ -237,7 +237,7 @@ Cross-read [**Not Like This § *T2* rhyme**](https://paradigmthreat.net/influenc
 
 **Camp label (author):** ***Independence Day* (1996 original) = NSA-aligned (unity / declass lane)** — **high-confidence**. Sequels / reboot grammar **not** counted.
 
-Cross-read [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) (Installment III reader essay); [**Not Like This § *ID4***](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md); [Matrix dossier — 9/11 PP cluster](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar).
+Cross-read [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) (Installment III reader essay); [**Not Like This § *ID4***](https://paradigmthreat.net/influence/controlled_opposition/not-like-this.md); [Matrix dossier — 9/11 PP cluster](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md#thread-n-rhyme--terminator-2-911-pp-and-tower-breach-grammar). TV rhyme: Mance **unite-or-die** (*GoT* S3E02) — same **common-foe** binder, clan scale ([§ GoT Mance](#game-of-thrones--mance-rayder-nsa-influence-moments)).
 
 ---
 
@@ -716,6 +716,7 @@ Cross-read [Jackie Chan investigation](/influence/conspiracy/celebrities/jackie-
 | Title | Years | China / CTU presence | Camp (author) | War-prep | Notes |
 |-------|-------|----------------------|---------------|----------|-------|
 | ***24*** | 2001–2010 (+ *Live Another Day* 2014) | Jack **~20 months** in Chinese prison (between Day 4–6); **Cheng Zhi**; **Audrey Raines** captive; **CTU LA Day 2 triple bomb** (30 dead) | **NSA** | Low (China) / **med–high** (Middle East deterrent) | [Thread K](#thread-k--24-tv-20012010-china-torture-proxy-terror-ctu-destruction) |
+| ***Game of Thrones*** | 2011–2019 | No China axis; **Iron Bank** debt; Mance **unite-or-die** (S3E02) + **“foreigner’s war”** (S5E01) | **NSA-leaning** (selected beats) | Low | Not a full Thread — [Author's conclusion § GoT Mance](#game-of-thrones--mance-rayder-nsa-influence-moments) |
 
 ---
 
@@ -1081,6 +1082,55 @@ Cross-read [Ghost War: The Antibody Phase](/influence/hollywood/ghost-war-the-an
 | **Bank motto** | *“The Iron Bank will have its due”* — funds **rival princes** if crown defaults | Iron Bank wiki | L1 |
 | **Author rhyme** | Foreign creditor with incentive to **destabilize** debtor realm — parallel to **U.S. debt held abroad** + **Hong Kong finance** beats in *Dark Knight* / Pacific PP | L3 | Thread B |
 
+### *Game of Thrones* — Mance Rayder NSA influence moments
+
+**Author lock (2026-10-13 / 2026-10-15):** Two of the show’s clearest **NSA-aligned** Mance beats — **unite under a real common threat**, then **refuse a foreigner’s war**. Not a whole-franchise Thread.
+
+#### Beat 1 — Unite or die (common foe) — S3E02
+
+![Mance Rayder — unite or die meme](mance-rayder-unite-or-die-meme.jpg)
+
+Season 3, episode 2 (*Dark Wings, Dark Words*, **7 Apr 2013**). Jon is with Mance’s host. Someone effectively asks how he got the North / the clans to follow him. Mance answers with **truth as binder**, not pride or conquest:
+
+> *Do you know what it takes to unite ninety clans, half of whom want to massacre the other half for one insult or another? They speak seven different languages in my army. The Thenns hate the Hornfoots. The Hornfoots hate the ice river clans. Everyone hates the cave people. So… you know how I got moon worshippers and cannibals and giants to march together in the same army?*  
+> — Jon: *No.*  
+> — *I told them we were all going to die if we don't get south. Because that's the truth.*
+
+([IMDb quotes — S3E02](https://www.imdb.com/title/tt2178772/quotes/); [Wiki of Westeros — *Dark Wings, Dark Words*](https://gameofthrones.fandom.com/wiki/Dark_Wings,_Dark_Words))
+
+| Beat | Detail | Tier |
+|------|--------|------|
+| **Scene** | March south with Free Folk host; clan hatred inventory; how the army was built | L1 |
+| **Payload** | Fractured peoples unite when told the **existential truth** — stay north and **everyone dies** | L1 dialogue / L3 camp |
+| **NSA read** | **Common-foe / unity** grammar — same family as [Thread O — *ID4*](#thread-o--independence-day-1996-original-unity-lane-nsa-flagship): drop the petty wars, face the real extinction pressure together | L3 |
+| **What it is not** | “Foreigner’s war” enlistment for a southern claimant — that is Beat 2 | — |
+
+#### Beat 2 — “Foreigner’s war” refusal — S5E01
+
+![Mance Rayder — “foreigner’s war” meme](mance-rayder-foreigners-war-meme.jpg)
+
+Season 5 premiere (*The Wars to Come*, **12 Apr 2015**): Jon presses Mance to bend the knee to **Stannis** so the Free Folk will fight for a southern claimant. Mance refuses and burns rather than enlist his people:
+
+> *“You’re a good lad. Truly, you are. But if you can’t understand why I won’t enlist my people in a **foreigner’s war**, there’s no point explaining.”*
+
+| Beat | Detail | Source | Tier |
+|------|--------|--------|------|
+| **Scene** | Jon visits Mance in the ice cells; Stannis offer = life + southern war for the Free Folk | S5E01 *The Wars to Come*; [Westeros.org episode notes](https://www.westeros.org/GoT/Episode/The_Wars_to_Come/Episode_Spoilers/) | L1 |
+| **Refusal line** | Will not enlist his people in a **foreigner’s war**; dies on the pyre (Jon mercy-shot) | Same; [Digital Spy](https://www.digitalspy.com/tv/ustv/a641792/game-of-thrones-season-5-premiere-review-phase-ii-of-fantasy-epic-begins/) flags the line as politically charged | L1 |
+| **NSA read** | **Sovereignty / refuse-other-people’s-wars** — people stay out of a claimant’s southern fight; mass audience rehearses **anti-enlistment** for foreign adventures | Author taxonomy | L3 |
+
+#### Pair read
+
+| Beat | NSA job | Rhyme |
+|------|---------|-------|
+| **Unite or die** (S3E02) | Common threat overrides clan hate | *ID4* unity / Whitmore |
+| **Foreigner’s war** (S5E01) | Do **not** bleed for someone else’s throne war | Intervention refusal |
+| **Iron Bank** (S4) | Foreign creditor leverage | Debt-sovereignty fear |
+
+**Why relevant here:** Author’s PP success metric is **sovereignty retained** with **minimal damage**. Mance teaches both halves: **unite for the real extinction problem**, **refuse the fake foreigner’s war**. Iron Bank names the **debt-foreigner** fear. Loudest GoT NSA teachable moments in this dossier — not the dragons, not the palace intrigue.
+
+**Camp label (author):** ***Game of Thrones* (selected beats) = NSA-leaning** on Iron Bank + Mance unite-or-die + Mance “foreigner’s war.” **Not** a whole-franchise Thread.
+
 ### Peer sitcom coda — open channels (see Thread L)
 
 *The Office* **“China”** (S07E10) — Michael’s closing toast: *“America, I don't think you need to worry”* as long as **conversation** continues — NSA-side **de-escalation** coda after *Dark Knight* / Employee Transfer tributes ([Thread L](#thread-l--the-office-china-s07e10-conversation-beats-fear)).
@@ -1191,9 +1241,9 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 | **Crichton's Prophecy (reader)** | [/science/computing/crichtons-prophecy.md](/science/computing/crichtons-prophecy.md) | Manifesto companion to Agile **AU-057** — only leadership works; rear force; China/shadow rhyme |
 | **NSA-aligned presidencies — Nixon / Reagan / Trump** | [/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md](/governance/war/investigations/nsa-aligned-presidencies-nixon-reagan-trump-investigation.md) | *BTTF* 1–2 NSA label + Reagan actor/PATCO / *Airplane* attack lane |
 
-Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #TheArrival1996 #Geoengineering #Terraforming #AGWCover #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading #BackToTheFuture #Disclosure #Agile #AU057 #CrichtonsProphecy #MountainOfHeaven #TheMummy #Gutterballs #AU062
+Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #TheArrival1996 #Geoengineering #Terraforming #AGWCover #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #ManceRayder #ForeignersWar #UniteOrDie #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading #BackToTheFuture #Disclosure #Agile #AU057 #CrichtonsProphecy #MountainOfHeaven #TheMummy #Gutterballs #AU062
 
-**Last updated:** 2026-10-11 (*Stargate* Thread P **flipped to NSA** — program name / dying alien / 1995 close; AU-062 §7 MoH join rewritten; prior CIA label retired)
+**Last updated:** 2026-10-15 (*Game of Thrones* Mance **unite-or-die** meme + S3E02 beat; **“foreigner’s war”** S5E01 meme)
 
 ---
 
@@ -1244,7 +1294,7 @@ Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #Independ
 
 **Thread G — hot war:** Forced-role cases (Norton, Kilmer, Scheider) and director override quotes (Gray, Feige) are **L1** where sourced. **Post-NSA-hit targeting**, **interagency hot war vs greed-only**, **war-movie conveyor as contain militainment**, and **miscast-as-ridicule-buffer** are **L3–L4**. **“Every famous male must do war movie”** is **weakened** to **common pattern** — not universal law.
 
-**Author's conclusion / Thread L — *Office* China:** Michael Scott closing toast and Iron Bank debt rhyme are **L1** where scripted / wiki sourced. **Subconscious retention**, **PP success = feared scenario did not manifest**, and **sovereignty-through-conversation** reads are **L3** — author thesis; **not** proven causation (no evidence Nolan or *Office* writers were directed by intelligence).
+**Author's conclusion / Thread L — *Office* China / GoT:** Michael Scott closing toast, Iron Bank debt rhyme, Mance **unite-or-die** (S3E02), and Mance **“foreigner’s war”** refusal (S5E01) are **L1** where scripted / wiki sourced. **Subconscious retention**, **PP success = feared scenario did not manifest**, **sovereignty-through-conversation**, **common-foe unity**, and **refuse-other-people’s-wars** reads are **L3** — author thesis; **not** proven causation (no evidence Nolan, HBO, or *Office* writers were directed by intelligence).
 
 **Author thesis sections** are first-class for Paradigm Threat but **not automatically factual**.
 

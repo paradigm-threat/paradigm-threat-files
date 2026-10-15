@@ -13,6 +13,7 @@ import {
   IconMessage,
   IconRss,
   IconSearch,
+  IconFilm,
   IconVideo,
 } from 'hooks/client/components/Icons.jsx'
 import { propOr, propStr } from 'hooks/client/propOr.jsx'
@@ -269,6 +270,12 @@ export default function Nav(props) {
       href: 'https://paradigmthreat2.substack.com/',
       label: 'Substack',
       icon: <IconRss />,
+      external: true,
+    },
+    {
+      href: 'https://flashbackrepository.org/',
+      label: 'Movies',
+      icon: <IconFilm />,
       external: true,
     },
     {

@@ -29,6 +29,7 @@ import DirectoryIndex, {
   shouldTryDirectoryIndex,
 } from 'hooks/client/components/DirectoryIndex.jsx'
 import ChangeLog from 'hooks/client/components/ChangeLog.jsx'
+import FlashbackNowShowing from 'hooks/client/components/FlashbackNowShowing.jsx'
 import DeferredMarkdown, {
   loadDeferredFragment,
   estimateDeferredMinHeightPx,
@@ -46,7 +47,7 @@ import ChatRoomLive from 'hooks/client/components/ChatRoomLive.jsx'
 import manifest from '@hooks'
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd13'
+const MD_CACHE_BUST = 'ptmd14'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {
@@ -64,6 +65,10 @@ function renderChangeLog(p) {
     if (p && typeof p.limit === 'number' && p.limit > 0) lim = p.limit
   } catch (e) {}
   return <ChangeLog limit={lim} />
+}
+
+function renderFlashbackNowShowing() {
+  return <FlashbackNowShowing />
 }
 
 function deferredSrcFromProps(p) {
@@ -535,12 +540,13 @@ export default function ArticleView(props) {
   //
   // Full-SSR articles and SSR-filled deferred (no `[data-pt-deferred-ssr]`): stay on
   // this shell for all live phases — never re-GET/walk the tip.
-  // ChangeLog lives inside soft-kept markdown HTML; lift a live `<ChangeLog />`
-  // into the vnode so replaceSsrPlaceholdersFromVnode can swap `[data-pt-changelog-ssr]`.
+  // ChangeLog / FlashbackNowShowing live inside soft-kept markdown HTML; lift live
+  // components into the vnode so replaceSsrPlaceholdersFromVnode can swap islands.
   let hasDeferredSsr = false
   // DirectoryIndex SSR is a placeholder (not full tip HTML) — must fill at phase ≥3.
   let hasDirIndexSsr = false
   let hasChangelogSsr = false
+  let hasFlashbackSsr = false
   if (live === true) {
     try {
       const el = document.querySelector('[data-pt-deferred-ssr]')
@@ -556,6 +562,10 @@ export default function ArticleView(props) {
       const cl = document.querySelector('[data-pt-changelog-ssr]')
       if (cl) hasChangelogSsr = true
     } catch (eCl) {}
+    try {
+      const fb = document.querySelector('[data-pt-flashback-ssr]')
+      if (fb) hasFlashbackSsr = true
+    } catch (eFb) {}
   }
   const needsDeferredFill = hasDeferredSsr === true
   // Also SPA: warm tree kids under hub path → skip ssr-keep so miss can become DirectoryIndex.
@@ -630,7 +640,7 @@ export default function ArticleView(props) {
     )
   }
   // Full tip SSR (no deferred islands, no DirectoryIndex placeholder): keep shell.
-  // Still emit ChangeLog when the SSR placeholder remains so phase ≥3 can swap it.
+  // Still emit ChangeLog / Flashback when SSR placeholders remain so phase ≥3 can swap.
   if (
     live === true &&
     needsDeferredFill !== true &&
@@ -638,6 +648,8 @@ export default function ArticleView(props) {
   ) {
     const changelogKeep =
       hasChangelogSsr === true ? <ChangeLog limit={8} /> : null
+    const flashbackKeep =
+      hasFlashbackSsr === true ? <FlashbackNowShowing /> : null
     return (
       <SiteChrome currentPath={currentPath}>
         <div className="pt-page pt-article-page">
@@ -659,6 +671,7 @@ export default function ArticleView(props) {
                   data-pt-article-phase="ssr-keep"
                   aria-hidden="true"
                 />
+                {flashbackKeep}
                 {changelogKeep}
               </Layout>
             </main>
@@ -1030,6 +1043,7 @@ export default function ArticleView(props) {
       const lightOverrides = {
         AutoIndex: renderAutoIndex,
         ChangeLog: renderChangeLog,
+        FlashbackNowShowing: renderFlashbackNowShowing,
         ChatRoom: renderChatRoom,
         EmbedFile: renderEmbedFile,
       }
@@ -1053,6 +1067,7 @@ export default function ArticleView(props) {
               overrides={{
                 AutoIndex: renderAutoIndex,
                 ChangeLog: renderChangeLog,
+                FlashbackNowShowing: renderFlashbackNowShowing,
                 ChatRoom: renderChatRoom,
                 EmbedFile: renderEmbedFile,
               }}
@@ -1094,6 +1109,7 @@ export default function ArticleView(props) {
             ? {
                 AutoIndex: renderAutoIndex,
                 ChangeLog: renderChangeLog,
+                FlashbackNowShowing: renderFlashbackNowShowing,
                 ChatRoom: renderChatRoom,
                 EmbedFile: renderEmbedFile,
                 PopImage: renderPopImage,
@@ -1207,6 +1223,7 @@ export default function ArticleView(props) {
   let articleOverrides = {
     AutoIndex: renderAutoIndex,
     ChangeLog: renderChangeLog,
+    FlashbackNowShowing: renderFlashbackNowShowing,
     DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
     ChatRoom: renderChatRoom,
     EmbedFile: renderEmbedFile,
@@ -1215,6 +1232,7 @@ export default function ArticleView(props) {
     articleOverrides = {
       AutoIndex: renderAutoIndex,
       ChangeLog: renderChangeLog,
+      FlashbackNowShowing: renderFlashbackNowShowing,
       DeferredMarkdown: useDeferredSplit ? EmptyMdStub : renderDeferredMarkdown,
       ChatRoom: renderChatRoom,
       EmbedFile: renderEmbedFile,
@@ -1263,7 +1281,8 @@ export default function ArticleView(props) {
                 live ? (
                   <div className="pt-md" data-pt-article="1">
                     {/* Soft-hydrate keeps the SSR lead in the DOM; only deferred /
-                        ChangeLog islands are swapped from this vnode. */}
+                        ChangeLog / Flashback islands are swapped from this vnode. */}
+                    {hasFlashbackSsr === true ? <FlashbackNowShowing /> : null}
                     {hasChangelogSsr === true ? (
                       <ChangeLog limit={8} />
                     ) : null}
@@ -1271,7 +1290,7 @@ export default function ArticleView(props) {
                     <span
                       aria-hidden="true"
                       hidden={true}
-                      className="pt-dead-link pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
+                      className="pt-dead-link pt-flashback-now pt-flashback-now-head pt-flashback-now-title pt-flashback-now-more pt-flashback-now-list pt-flashback-now-item pt-flashback-now-status pt-changelog pt-changelog-radio pt-changelog-toolbar pt-changelog-tab pt-changelog-status pt-changelog-list pt-changelog-item pt-cl-cards pt-cl-card-item pt-cl-card pt-cl-card-media pt-cl-card-thumb pt-cl-card-thumb-logo pt-cl-card-body pt-cl-card-title pt-cl-card-dates pt-cl-card-date pt-cl-card-byline pt-cl-feed pt-cl-entry pt-cl-entry-thumb pt-cl-entry-img pt-cl-entry-logo pt-cl-entry-body pt-cl-entry-title pt-cl-entry-file pt-card pt-autoindex pt-autoindex-title pt-autoindex-list pt-autoindex-item pt-embed pt-embed-frame pt-embed-caption pt-embed-link pt-embed-empty float-left float-right float-none clear-left clear-right clear-both clear-none max-w-sm max-w-md max-w-lg sm:float-left sm:float-right sm:max-w-sm sm:m-1 sm:mr-4 sm:mr-6 sm:ml-8 sm:mb-4"
                       data-pt-md-css="true"
                     />
                   </div>
