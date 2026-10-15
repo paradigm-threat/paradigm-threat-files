@@ -53,11 +53,15 @@ export default function FlashbackNowShowing() {
     let cancelled = false
     fetch(INDEX_URL, { cache: 'default' })
       .then((res) => {
-        if (!res || res.ok !== true) throw new Error('index fetch failed')
+        if (!res || res.ok !== true) return null
         return res.json()
       })
       .then((json) => {
         if (cancelled === true) return
+        if (json == null) {
+          setData({ status: 'error', items: [] })
+          return
+        }
         const slugs = json && Array.isArray(json.nowShowing) ? json.nowShowing : []
         const projects = json && Array.isArray(json.projects) ? json.projects : []
         const bySlug = {}
@@ -71,9 +75,7 @@ export default function FlashbackNowShowing() {
           if (typeof slug !== 'string' || slug.length === 0) continue
           const p = bySlug[slug]
           let title = titleFromSlug(slug)
-          try {
-            if (p && typeof p.title === 'string' && p.title.length > 0) title = p.title
-          } catch (e) {}
+          if (p && typeof p.title === 'string' && p.title.length > 0) title = p.title
           items = items.concat([
             {
               slug: slug,
