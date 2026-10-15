@@ -6,6 +6,7 @@
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
+import { parseJson } from 'hooks/client/jsonUtil.jsx'
 import { basename } from '@relay/path'
 import { formatTiny, formatLong, formatFeed, sameDay } from '@relay/date'
 import { take } from '@relay/util'
@@ -223,29 +224,20 @@ export default function ChangeLog(props) {
   }
 
   // Soft-kept Flashback shell is present by phase 3; fill Now showing inline.
-  // Re-query the shell inside each then — soft-hydrate may replace nodes.
+  // CleverScript fetch is sync (returns response with .text), not Promise/.then.
   try {
-    const fb0 = document.querySelector('[data-pt-flashback-ssr]')
-    if (fb0 !== null && fb0 !== undefined && fb0.getAttribute('data-pt-flashback-filled') !== '1') {
-      fb0.setAttribute('data-pt-flashback-pending', '1')
-      const g = globalThis
-      const doFetch = g && typeof g.fetch === 'function' ? g.fetch : fetch
-      doFetch('https://flashbackrepository.org/index.json', { cache: 'default' })
-        .then((res) => {
-          const el = document.querySelector('[data-pt-flashback-ssr]')
-          if (el !== null && el !== undefined) {
-            el.setAttribute('data-pt-flashback-fetch', res && res.ok === true ? 'ok' : 'bad')
-          }
-          if (!res || res.ok !== true) return null
-          return res.json()
-        })
-        .then((json) => {
-          const fb = document.querySelector('[data-pt-flashback-ssr]')
-          if (fb === null || fb === undefined) return
-          if (json === null || json === undefined) {
-            fb.setAttribute('data-pt-flashback-fetch', 'null')
-            return
-          }
+    const fb = document.querySelector('[data-pt-flashback-ssr]')
+    if (fb !== null && fb !== undefined && fb.getAttribute('data-pt-flashback-filled') !== '1') {
+      const resp = fetch('https://flashbackrepository.org/index.json', {
+        method: 'GET',
+        headers: {
+          accept: 'application/json',
+        },
+      })
+      if (resp && resp.ok === true) {
+        const text = resp.text ? resp.text : ''
+        const json = parseJson(text)
+        if (json !== null && json !== undefined) {
           const slugs = json.nowShowing
           const projects = json.projects
           const slugList = slugs && slugs.length >= 0 ? slugs : []
@@ -297,15 +289,9 @@ export default function ChangeLog(props) {
           }
           fb.appendChild(ul)
           fb.removeAttribute('data-pt-flashback-ssr')
-          fb.removeAttribute('data-pt-flashback-pending')
           fb.setAttribute('data-pt-flashback-filled', '1')
-        })
-        .catch(() => {
-          const el = document.querySelector('[data-pt-flashback-ssr]')
-          if (el !== null && el !== undefined) {
-            el.setAttribute('data-pt-flashback-fetch', 'err')
-          }
-        })
+        }
+      }
     }
   } catch (eFb) {}
 
