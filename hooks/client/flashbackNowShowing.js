@@ -1,7 +1,6 @@
 /**
  * Fill soft-kept [data-pt-flashback-ssr] from Flashback index.json.
- * Called from Nav (always mounts) and park-host-common (timeout SSR path).
- * CleverScript-safe: no throw, no ==, no JSX.
+ * DOM-only (createElement) — CleverScript cannot parse HTML strings with nested quotes.
  */
 
 const INDEX_URL = 'https://flashbackrepository.org/index.json'
@@ -9,14 +8,6 @@ const ORIGIN = 'https://flashbackrepository.org'
 const STYLE_ID = 'pt-flashback-now-host-css'
 
 let fillStarted = false
-
-function esc(s) {
-  return String(s === null || s === undefined ? '' : s)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-}
 
 function titleFromSlug(slug) {
   const s = typeof slug === 'string' ? slug : ''
@@ -56,45 +47,60 @@ function ensureCss() {
   } catch (e) {}
 }
 
+function makeLink(href, text, className) {
+  const a = document.createElement('a')
+  if (className !== null && className !== undefined && className.length > 0) {
+    a.className = className
+  }
+  a.href = href
+  a.target = '_blank'
+  a.rel = 'noopener noreferrer'
+  a.textContent = text
+  return a
+}
+
 function paint(el, items, failed) {
   if (el === null || el === undefined) return
   ensureCss()
-  let body = ''
+  while (el.firstChild) {
+    el.removeChild(el.firstChild)
+  }
+  const head = document.createElement('div')
+  head.className = 'pt-flashback-now-head'
+  const h3 = document.createElement('h3')
+  h3.className = 'pt-flashback-now-title'
+  h3.textContent = 'Now showing'
+  head.appendChild(h3)
+  head.appendChild(makeLink(ORIGIN + '/', 'Flashback Repository', 'pt-flashback-now-more'))
+  el.appendChild(head)
+
   if (failed === true) {
-    body =
-      '<p class="pt-muted pt-flashback-now-status">Could not load the live list. ' +
-      '<a href="' +
-      esc(ORIGIN + '/') +
-      '" target="_blank" rel="noopener noreferrer">Open Flashback Repository</a>.</p>'
+    const p = document.createElement('p')
+    p.className = 'pt-muted pt-flashback-now-status'
+    p.appendChild(document.createTextNode('Could not load the live list. '))
+    p.appendChild(makeLink(ORIGIN + '/', 'Open Flashback Repository', ''))
+    p.appendChild(document.createTextNode('.'))
+    el.appendChild(p)
   } else if (items === null || items === undefined || items.length === 0) {
-    body =
-      '<p class="pt-muted pt-flashback-now-status">Nothing listed as Now showing right now. Browse the ' +
-      '<a href="' +
-      esc(ORIGIN + '/') +
-      '" target="_blank" rel="noopener noreferrer">full library</a>.</p>'
+    const p = document.createElement('p')
+    p.className = 'pt-muted pt-flashback-now-status'
+    p.appendChild(document.createTextNode('Nothing listed as Now showing right now. Browse the '))
+    p.appendChild(makeLink(ORIGIN + '/', 'full library', ''))
+    p.appendChild(document.createTextNode('.'))
+    el.appendChild(p)
   } else {
-    let rows = ''
+    const ul = document.createElement('ul')
+    ul.className = 'pt-flashback-now-list'
+    ul.setAttribute('aria-label', 'Now showing titles')
     for (let i = 0; i < items.length; i++) {
       const it = items[i]
-      rows =
-        rows +
-        '<li class="pt-flashback-now-item"><a href="' +
-        esc(it.href) +
-        '" target="_blank" rel="noopener noreferrer">' +
-        esc(it.title) +
-        '</a></li>'
+      const li = document.createElement('li')
+      li.className = 'pt-flashback-now-item'
+      li.appendChild(makeLink(it.href, it.title, ''))
+      ul.appendChild(li)
     }
-    body =
-      '<ul class="pt-flashback-now-list" aria-label="Now showing titles">' +
-      rows +
-      '</ul>'
+    el.appendChild(ul)
   }
-  el.innerHTML =
-    '<div class="pt-flashback-now-head"><h3 class="pt-flashback-now-title">Now showing</h3>' +
-    '<a class="pt-flashback-now-more" href="' +
-    esc(ORIGIN + '/') +
-    '" target="_blank" rel="noopener noreferrer">Flashback Repository</a></div>' +
-    body
   el.removeAttribute('data-pt-flashback-ssr')
   el.setAttribute('data-pt-flashback-filled', '1')
 }
