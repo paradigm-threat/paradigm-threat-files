@@ -1043,6 +1043,53 @@ themes:
         color: "rgba(255,255,255,0.9)"
         lineHeight: "1.5"
         textAlign: "center"
+      ".pt-flashback-now":
+        margin: "1.25rem 0 1.75rem"
+        padding: "1rem 1.1rem"
+        borderWidth: 1
+        borderStyle: "solid"
+        borderColor: "var(border)"
+        borderRadius: "0.5rem"
+        backgroundColor: "var(card)"
+        boxSizing: "border-box"
+      ".pt-flashback-now-head":
+        display: "flex"
+        flexWrap: "wrap"
+        alignItems: "baseline"
+        justifyContent: "space-between"
+        gap: "0.5rem 1rem"
+        margin: "0 0 0.75rem"
+      ".pt-flashback-now-title":
+        margin: 0
+        fontSize: "1.05rem"
+        fontWeight: "700"
+      ".pt-flashback-now-more":
+        fontSize: "0.875rem"
+        fontWeight: "600"
+        color: "var(primary)"
+        textDecoration: "none"
+      ".pt-flashback-now-more:hover":
+        textDecoration: "underline"
+      ".pt-flashback-now-list":
+        listStyle: "none"
+        margin: 0
+        padding: 0
+        display: "flex"
+        flexDirection: "column"
+        gap: "0.35rem"
+      ".pt-flashback-now-item":
+        margin: 0
+        fontSize: "0.95rem"
+        lineHeight: "1.4"
+      ".pt-flashback-now-item a":
+        color: "var(foreground)"
+        textDecoration: "underline"
+        textUnderlineOffset: "2px"
+      ".pt-flashback-now-item a:hover":
+        color: "var(primary)"
+      ".pt-flashback-now-status":
+        margin: 0
+        fontSize: "0.875rem"
       ".pt-changelog":
         margin: "1.5rem 0"
         padding: "1rem"

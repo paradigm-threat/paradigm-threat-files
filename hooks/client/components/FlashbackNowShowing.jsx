@@ -1,14 +1,116 @@
 /**
- * SSR placeholder for Flashback Now showing.
- * Live list is filled by park-host-common.js (native) into data-pt-flashback-ssr.
+ * Flashback Repository Now showing — SSR placeholder, live list at phase ≥3.
+ * Cross-origin index.json via CleverScript sync fetch (host XHR under the hood).
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
+import { parseJson } from 'hooks/client/jsonUtil.jsx'
+
+const INDEX_URL = 'https://flashbackrepository.org/index.json'
+const ORIGIN = 'https://flashbackrepository.org'
+
+function loadIndexJson() {
+  try {
+    const resp = fetch(INDEX_URL, {
+      method: 'GET',
+      headers: {
+        accept: 'application/json',
+      },
+    })
+    if (resp && resp.ok === true) {
+      const text = resp.text ? resp.text : ''
+      return parseJson(text)
+    }
+  } catch (eFetch) {}
+  return null
+}
+
+function itemsFromIndex(json) {
+  let items = []
+  if (json === null) {
+    return items
+  }
+  const slugs = json.nowShowing
+  const projects = json.projects
+  const slugList = slugs && slugs.length > 0 ? slugs : []
+  const projectList = projects && projects.length > 0 ? projects : []
+  const bySlug = {}
+  for (let i = 0; i < projectList.length; i++) {
+    const p = projectList[i]
+    if (p && typeof p.slug === 'string') {
+      bySlug[p.slug] = p
+    }
+  }
+  for (let j = 0; j < slugList.length; j++) {
+    const slug = slugList[j]
+    if (typeof slug === 'string' && slug.length > 0) {
+      const p = bySlug[slug]
+      let title = slug
+      if (p && typeof p.title === 'string' && p.title.length > 0) {
+        title = p.title
+      }
+      items = items.concat([
+        {
+          slug: slug,
+          title: title,
+          href: ORIGIN + '/' + slug,
+        },
+      ])
+    }
+  }
+  return items
+}
+
+function shell(children) {
+  return (
+    <section className="pt-flashback-now" aria-label="Flashback now showing">
+      <div className="pt-flashback-now-head">
+        <h3 className="pt-flashback-now-title">Now showing</h3>
+        <a
+          className="pt-flashback-now-more"
+          href={ORIGIN + '/'}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Flashback Repository
+        </a>
+      </div>
+      {children}
+    </section>
+  )
+}
 
 export default function FlashbackNowShowing() {
   if (isClientLivePhase(3) === true) {
-    return null
+    const items = itemsFromIndex(loadIndexJson())
+    if (items.length === 0) {
+      return shell(
+        <p className="pt-muted pt-flashback-now-status">
+          Could not load the live list.{' '}
+          <a href={ORIGIN + '/'} target="_blank" rel="noopener noreferrer">
+            Open Flashback Repository
+          </a>
+          .
+        </p>,
+      )
+    }
+    let rows = []
+    for (let i = 0; i < items.length; i++) {
+      const it = items[i]
+      rows = rows.concat([
+        <li key={it.slug} className="pt-flashback-now-item">
+          <a href={it.href} target="_blank" rel="noopener noreferrer">
+            {it.title}
+          </a>
+        </li>,
+      ])
+    }
+    return shell(
+      <ul className="pt-flashback-now-list" aria-label="Now showing titles">
+        {rows}
+      </ul>,
+    )
   }
   if (isCsrHost()) {
     return null
