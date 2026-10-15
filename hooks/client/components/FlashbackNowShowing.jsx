@@ -2,9 +2,13 @@
  * Live “Now showing” list from Flashback Repository.
  * Fetches https://flashbackrepository.org/index.json (CORS *) and joins
  * nowShowing slugs to project titles.
+ *
+ * Soft-hydrate: SSR placeholder keeps data-pt-flashback-ssr; phase ≥3 live
+ * vnode omits it so replaceSsrPlaceholdersFromVnode can swap (same as ChangeLog).
  */
 import React, { useEffect, useState } from 'react'
-import { isClientLive } from '@clevertree/style-internal'
+import { isClientLivePhase } from '@clevertree/style-internal'
+import { isCsrHost } from 'hooks/client/hostMode.jsx'
 
 const INDEX_URL = 'https://flashbackrepository.org/index.json'
 const ORIGIN = 'https://flashbackrepository.org'
@@ -43,13 +47,13 @@ function flashbackCss() {
 }
 
 export default function FlashbackNowShowing() {
-  const live = isClientLive() === true
   const pack = useState({ status: 'loading', items: [] })
   const data = pack[0]
   const setData = pack[1]
+  const phase3 = isClientLivePhase(3) === true
 
   useEffect(() => {
-    if (live !== true) return
+    if (phase3 !== true) return
     let cancelled = false
     fetch(INDEX_URL, { cache: 'default' })
       .then((res) => {
@@ -93,10 +97,26 @@ export default function FlashbackNowShowing() {
     return () => {
       cancelled = true
     }
-  }, [live])
+  }, [phase3])
+
+  // Phase 3+ (feeds). Host advances after catalog idle tick.
+  if (phase3 !== true) {
+    if (isCsrHost()) {
+      return null
+    }
+    return (
+      <section
+        className="pt-flashback-now"
+        aria-label="Flashback Repository now showing"
+        data-pt-flashback-ssr="1"
+      >
+        <p className="pt-muted pt-flashback-now-status">Loading Now showing…</p>
+      </section>
+    )
+  }
 
   let body = null
-  if (live !== true || data.status === 'loading') {
+  if (data.status === 'loading') {
     body = (
       <p className="pt-muted pt-flashback-now-status">
         Loading Now showing…
@@ -145,7 +165,6 @@ export default function FlashbackNowShowing() {
     <section
       className="pt-flashback-now"
       aria-label="Flashback Repository now showing"
-      data-pt-flashback-ssr="1"
     >
       <style>{flashbackCss()}</style>
       <div className="pt-flashback-now-head">
