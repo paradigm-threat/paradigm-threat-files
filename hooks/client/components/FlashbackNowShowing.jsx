@@ -1,7 +1,8 @@
 /**
  * Flashback Repository Now showing.
- * SSR: placeholder (`data-pt-flashback-ssr`). Phase ≥3: live list from index.json.
- * Current embed.js may not swap this island — ChangeLog also fills the soft-kept stub.
+ * SSR: placeholder with park-native marker so gateway injects park-host-common.js
+ * (native fetch fills the soft-kept island). Phase ≥3: also emit a live vnode for
+ * embed island swap when selectors support data-pt-flashback-ssr.
  */
 import React from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
@@ -13,7 +14,6 @@ const ORIGIN = 'https://flashbackrepository.org'
 
 function loadIndexJson() {
   try {
-    // No Accept header — sync XHR + custom headers can trip CORS preflight.
     const resp = fetch(INDEX_URL, {
       method: 'GET',
     })
@@ -114,11 +114,13 @@ export default function FlashbackNowShowing() {
   if (isCsrHost()) {
     return null
   }
+  // data-relay-park-native triggers gateway inject of park-host-common.js on SSR HTML.
   return (
     <section
       className="pt-flashback-now"
       aria-label="Flashback now showing"
       data-pt-flashback-ssr="1"
+      data-relay-park-native="fb-pt-flashback-now"
     >
       <p className="pt-muted">Now showing loads after page open…</p>
     </section>

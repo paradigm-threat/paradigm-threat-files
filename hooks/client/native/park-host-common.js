@@ -463,7 +463,7 @@
         esc(ORIGIN + '/') +
         '" target="_blank" rel="noopener noreferrer">Flashback Repository</a></div>' +
         body;
-      el.removeAttribute('data-pt-flashback-ssr');
+      // Keep data-pt-flashback-ssr so soft-hydrate preserves this node.
       el.setAttribute('data-pt-flashback-filled', '1');
     }
 
