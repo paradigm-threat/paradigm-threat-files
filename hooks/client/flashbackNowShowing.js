@@ -103,10 +103,15 @@ export function ensureFlashbackNowShowing() {
   try {
     if (typeof document === 'undefined') return
     if (typeof fetch !== 'function') return
-    const nodes = document.querySelectorAll(
-      '[data-pt-flashback-ssr]:not([data-pt-flashback-filled="1"])',
-    )
-    if (nodes === null || nodes === undefined || nodes.length === 0) return
+    const found = document.querySelectorAll('[data-pt-flashback-ssr]')
+    if (found === null || found === undefined || found.length === 0) return
+    let nodes = []
+    for (let n = 0; n < found.length; n++) {
+      const node = found[n]
+      if (node.getAttribute('data-pt-flashback-filled') === '1') continue
+      nodes = nodes.concat([node])
+    }
+    if (nodes.length === 0) return
     if (fillStarted === true) return
     fillStarted = true
     fetch(INDEX_URL, { cache: 'default' })

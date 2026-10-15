@@ -470,9 +470,12 @@
     function run() {
       try {
         if (!global.fetch || !global.document) return;
-        var nodes = global.document.querySelectorAll(
-          '[data-pt-flashback-ssr]:not([data-pt-flashback-filled="1"])',
-        );
+        var found = global.document.querySelectorAll('[data-pt-flashback-ssr]');
+        var nodes = [];
+        for (var ni = 0; ni < found.length; ni++) {
+          if (found[ni].getAttribute('data-pt-flashback-filled') === '1') continue;
+          nodes.push(found[ni]);
+        }
         if (!nodes.length) return;
         global
           .fetch(INDEX_URL, { credentials: 'omit', cache: 'default' })
