@@ -14,6 +14,9 @@ themes:
       dirActiveBg: "rgba(37, 99, 235, 0.1)"
       dirFileActive: "#059669"
       dirFileActiveBg: "rgba(16, 185, 129, 0.1)"
+      # Directory nav body text (WCAG AA on secondary panel bg)
+      dirFg: "#334155"
+      dirFgMuted: "#475569"
       badgeActive: "#22c55e"
       badgePublished: "#3b82f6"
       badgePlanned: "#eab308"
@@ -1594,7 +1597,7 @@ themes:
         borderStyle: "solid"
         borderColor: "var(border)"
         backgroundColor: "var(secondary)"
-        color: "var(muted)"
+        color: "var(dirFgMuted)"
         cursor: "pointer"
         fontFamily: "inherit"
       ".pt-dir-actions":
@@ -1609,9 +1612,11 @@ themes:
         borderWidth: 0
         borderRadius: "0.25rem"
         backgroundColor: "transparent"
-        color: "var(muted)"
+        color: "var(dirFgMuted)"
         cursor: "pointer"
         fontFamily: "inherit"
+      ".pt-dir-action:hover":
+        color: "var(dirFg)"
       ".pt-dir-sep":
         fontSize: "0.625rem"
         color: "var(border)"
@@ -1628,7 +1633,7 @@ themes:
         minWidth: 0
         borderRadius: "0.5rem"
         fontSize: "0.875rem"
-        color: "var(muted)"
+        color: "var(dirFg)"
       ".pt-dir-row:hover":
         backgroundColor: "var(card)"
       ".pt-dir-row-active":
@@ -1688,7 +1693,7 @@ themes:
         whiteSpace: "nowrap"
       ".pt-dir-count":
         fontSize: "0.625rem"
-        opacity: 0.5
+        color: "var(dirFgMuted)"
         fontWeight: "400"
         flexShrink: 0
       ".pt-dir-kids":
@@ -1704,7 +1709,7 @@ themes:
         minWidth: 0
         borderRadius: "0.5rem"
         fontSize: "0.75rem"
-        color: "var(muted)"
+        color: "var(dirFg)"
       ".pt-dir-file:hover":
         backgroundColor: "var(card)"
       ".pt-dir-file-active":
@@ -1720,7 +1725,7 @@ themes:
         alignItems: "center"
         justifyContent: "center"
         color: "inherit"
-        opacity: 0.85
+        opacity: 1
       ".pt-dir-file-link":
         flex: 1
         minWidth: 0
@@ -1737,25 +1742,29 @@ themes:
         width: "100%"
         textAlign: "left"
         fontSize: "0.625rem"
-        color: "var(muted)"
+        color: "var(dirFgMuted)"
         backgroundColor: "transparent"
         borderWidth: 0
         paddingTop: "0.25rem"
         paddingBottom: "0.25rem"
         cursor: "pointer"
         fontFamily: "inherit"
+      ".pt-dir-showall:hover":
+        color: "var(dirFg)"
       ".pt-dir-showfewer":
         display: "none"
         width: "100%"
         textAlign: "left"
         fontSize: "0.625rem"
-        color: "var(muted)"
+        color: "var(dirFgMuted)"
         backgroundColor: "transparent"
         borderWidth: 0
         paddingTop: "0.25rem"
         paddingBottom: "0.25rem"
         cursor: "pointer"
         fontFamily: "inherit"
+      ".pt-dir-showfewer:hover":
+        color: "var(dirFg)"
       ".pt-dir-foot":
         marginTop: "0.75rem"
       ".pt-feeling-lucky-dir":
@@ -1821,7 +1830,7 @@ themes:
         margin: 0
         letterSpacing: "0.08em"
         textTransform: "uppercase"
-        color: "var(muted)"
+        color: "var(dirFgMuted)"
       ".pt-dir-list":
         listStyle: "none"
         margin: 0
@@ -2049,6 +2058,9 @@ themes:
       dirActiveBg: "rgba(59, 130, 246, 0.1)"
       dirFileActive: "#34d399"
       dirFileActiveBg: "rgba(16, 185, 129, 0.1)"
+      # Directory nav: slate-200 / slate-300 on slate-800 panel (~9:1 / ~7:1)
+      dirFg: "#e2e8f0"
+      dirFgMuted: "#cbd5e1"
       badgeActive: "#22c55e"
       badgePublished: "#3b82f6"
       badgePlanned: "#eab308"
