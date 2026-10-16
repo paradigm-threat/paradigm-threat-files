@@ -40,7 +40,7 @@ Cross-lanes already in the corpus: RATM *Wake Up* credits ([Not Like This](/infl
 | Song | Artist | Sheet claim | Audio recovery | Dossier |
 |------|--------|-------------|----------------|---------|
 | *Out There (5th Dimension)* | Masters & Nickson feat. Justine Suissa | “fifth **here**” / dimension brand | “fifth **year**” | [investigation](investigations/masters-nickson-out-there-fifth-year-investigation.md) |
-| *Wake Up* | Rage Against the Machine | “**schemes on the dream**” ([ratm.com](https://www.ratm.com/track/wake-up/)) — **wrong** | **Corrected:** “**rip skins off of trees**” (ASR weakens dream / leans tree; semantic lock: trees have skins, not schemes) | [investigation](investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md) · [Not Like This](/influence/controlled_opposition/not-like-this.md#wake-up--what-the-credits-accused) |
+| *Wake Up* | Rage Against the Machine | “never **edit**” + “schemes on the **dream**” ([ratm.com](https://www.ratm.com/track/wake-up/)) — **wrong** | **Corrected:** “never **read it**” + “**rip skins off of trees**” | [investigation](investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md) · [Not Like This](/influence/controlled_opposition/not-like-this.md#wake-up--what-the-credits-accused) |
 | *The Bends* (queued) | Radiohead | CIA / tanks / Marines / “blow me sky high” | Cross-read idiom for vicious capacity; full ASR TBD | Cited in *Wake Up* dossier |
 
 ---
@@ -54,7 +54,7 @@ Cross-lanes already in the corpus: RATM *Wake Up* credits ([Not Like This](/infl
 
 Keywords: #LyricForensics #SanitizedLyrics #PredictiveProgramming #ASR #Whisper #GoldenAge #ParadigmThreat
 
-*Last updated: 2026-10-16* (Wake Up case added)
+*Last updated: 2026-10-16* (Wake Up: read it + skins/trees)
 
 ---
 

@@ -156,7 +156,7 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 |-------|----------|---------|
 | **Lyric Forensics hub** | [lyrics/page.md](lyrics/page.md) | Program: ASR-corrected lyrics, disagreement tables, motive reads for sheet sanitization |
 | ***Out There* — fifth year vs 5th Dimension (open)** | [lyrics/investigations/masters-nickson-out-there-fifth-year-investigation.md](lyrics/investigations/masters-nickson-out-there-fifth-year-investigation.md) | Whisper **year** @ 0.874 vs sheet **here**; golden-age retrieval vs dimension shell |
-| ***Wake Up* — schemes/dream vs skins/trees (**concluded**)** | [lyrics/investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md](lyrics/investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md) | Posted **dream** wrong; corrected **rip skins off of trees**; Radiohead *The Bends* CIA idiom |
+| ***Wake Up* — sheet sanitization (**concluded**)** | [lyrics/investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md](lyrics/investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md) | Posted **edit** / **dream** wrong; corrected **read it** + **rip skins off of trees**; *The Bends* CIA idiom |
 
 ### Timeline Cross-References
 
