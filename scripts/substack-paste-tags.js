@@ -15,23 +15,23 @@
  * let you delete it from the UI — avoid selecting it; this script will refuse to
  * re-create anything with spaces or a `Keywords:` prefix.
  *
- * Tags for: influence/hollywood/they-had-to-use-a-robot.md
+ * Tags for: influence/censorship/thrown-off-the-train.md
  */
 
 (() => {
   const TAGS = [
-    "TheyHadToUseARobot",
-    "Tron",
-    "Pontil",
-    "MCP",
-    "Anthropic",
-    "Faucifying",
+    "ThrownOffTheTrain",
     "PredictiveProgramming",
-    "RevelationOfTheMethod",
-    "Federalization",
-    "Obama",
-    "HollywoodSeries",
-    "ParadigmThreatFiles",
+    "SoftCensorship",
+    "FanEdit",
+    "Wikipedia",
+    "ConspiracyTheory",
+    "Reformation",
+    "Cathars",
+    "Trump",
+    "Antibody",
+    "Hollywood",
+    "ParadigmThreat",
   ];
 
   const PLACEHOLDER = "Select or create tags";

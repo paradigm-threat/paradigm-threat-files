@@ -48,12 +48,14 @@
 
 - Sound programmers (Minoru Akao, Eiji Nakamura) may have arrangement/implementation input.
 - Blurred roles in small teams; credit may not reflect contribution.
+- **Blank cart ⇒ MIDI authorship unprovable:** when a title ships with no contemporary music credit (Rare NES: ~6 of 40+ credited), a later MIDI file or interview cannot prove the player-heard SPC/NSF data was a faithful translation of that sketch rather than engineer rewrite or invention. Full debate stack: [dave-wise.md](dave-wise.md) § Pro-MIDI / pro-industry museum illusion.
 
 ---
 
 ## Cross-References
 
 - [rare-nintendo-rd.md](rare-nintendo-rd.md) — Battletoads, PIN·BOT, Rare policy
+- [dave-wise.md](dave-wise.md) — MIDI museum illusion; blank-credit epistemology
 - [capcom.md](capcom.md) — Kinuyo Yamashita uncredited; Minakuchi contractor
 - [yasunori-mitsuda.md](yasunori-mitsuda.md) — CT sound staff; Akao, Nakamura
 

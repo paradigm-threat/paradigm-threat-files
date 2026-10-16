@@ -150,6 +150,14 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | ***E.V.O.: Search for Eden*** | [investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md](investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md) | **46 Okunen** / **4.6 Ga** + **evolution** brand; intro **aligned planets → scatter** half-rhymes **3147 collinear breakup** but **inverts** timeline; **dinosaur chapters** + **Eden/Gaia** blend deep-time PP with creation/Saturnian furniture |
 | ***The Matrix* franchise — “Not Like This” containment (open)** | [investigations/matrix-not-like-this-containment-investigation.md](investigations/matrix-not-like-this-containment-investigation.md) · [reader essay **Not Like This**](/influence/controlled_opposition/not-like-this.md) | CO/containment thesis: Tank→Link, Chong/*Kill Off*, Foster/Aaliyah recasts, sixth-iteration reset, MxO/Giant Bomb shutdown, Square→ESC VFX handoff, *Resurrections* nostalgia trap |
 
+### Lyric Forensics (sanitized sheets vs audio)
+
+| Topic | Location | Summary |
+|-------|----------|---------|
+| **Lyric Forensics hub** | [lyrics/page.md](lyrics/page.md) | Program: ASR-corrected lyrics, disagreement tables, motive reads for sheet sanitization |
+| ***Out There* — fifth year vs 5th Dimension (open)** | [lyrics/investigations/masters-nickson-out-there-fifth-year-investigation.md](lyrics/investigations/masters-nickson-out-there-fifth-year-investigation.md) | Whisper **year** @ 0.874 vs sheet **here**; golden-age retrieval vs dimension shell |
+| ***Wake Up* — schemes/dream vs skins/trees (**concluded**)** | [lyrics/investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md](lyrics/investigations/rage-against-the-machine-wake-up-lyric-forensics-investigation.md) | Posted **dream** wrong; corrected **rip skins off of trees**; Radiohead *The Bends* CIA idiom |
+
 ### Timeline Cross-References
 
 - [Predictive Programming: Fiction as Control](https://timeline.paradigmthreat.net/timeline/evt-predictive-programming) — Forward vs backward; Revelation of the Method

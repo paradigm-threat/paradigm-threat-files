@@ -115,6 +115,8 @@
 
 **Correction to “SPC = major influence forcing uncompetitiveness”:** Influence **yes** (relationship + later PlayStation lineage). **Forcing** NES-class uncompetitiveness **no** — the SNES was competitive; the **CD contract** was the IP-tearing weapon. Hamano dossier already rejects “Nintendo made hardware with no partners” whitewash — Ricoh/Sony/SGI always in the pot; bondage proof is **CD Super Disc**, not SPC alone.
 
+**Pro-MIDI hobby posture keeps competitive editor craft buried (author, 2026-10):** One downstream of the chip→Redbook purge is a fan culture that treats finished commercial audio as museum material and MIDI as the only “serious” interchange. That is the **pro-MIDI / pro-industry** illusion: no structural criticism, no open music-editor / competitive SPC–NSF craft path for the next generation — only buy software and stay fans. Defending that posture helps keep the buried editor vision dead. Debate stack: [dave-wise.md](../dave-wise.md) § Pro-MIDI / pro-industry museum illusion.
+
 ### 4.3 Silicon partners always present
 
 Ricoh (Famicom/SNES CPU), Sony (SPC), SGI (N64), later IBM/AMD/etc. **Tollbooth independence ≠ fab independence.** Aligns with Hamano “independence whitewash” claim.

@@ -2704,5 +2704,192 @@
       "OpenAI published or blocked the Model Context Protocol.",
       "A payroll record proves no human would write the Pontil page."
     ]
+  },
+  {
+    "id": "midi-museum-hobby-compliance",
+    "title": "MIDI museum hobby is industry compliance",
+    "claim": "Treating finished commercial game soundtracks as sacred museum / fan-hobby material, and MIDI as the only serious interchange, is the pro-MIDI / pro-industry illusion: zero structural criticism, buy-tools fandom instead of competitive chip craft transfer.",
+    "answerOpener": "The pro-MIDI / pro-industry position calls MIDI collecting preservation. This site calls that compliance: sacred finished product, no criticism of credit faces, next generation only learns to buy software and stay fans.",
+    "bullets": [
+      "Museum posture = industry-shaped illusion, not craft transfer.",
+      "Non-competitive standards the industry wants keep open SPC/NSF editor craft buried.",
+      "Payload is structural credit + skill transfer — not “MIDI bad for hobbyists.”"
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Frames VGM MIDI hobby as compliance vs preservation; steelmans pro-industry position first.",
+    "topics": [
+      "midi",
+      "vgm",
+      "preservation",
+      "stolen-credit",
+      "nintendo"
+    ],
+    "demoQuestions": [
+      "Is collecting game MIDI real preservation?",
+      "Why criticize the MIDI hobby?",
+      "What does this site mean by museum illusion?"
+    ],
+    "searchQueries": [
+      "midi museum hobby preservation compliance vgm"
+    ],
+    "searchPrefixes": [
+      "midi",
+      "vgm midi",
+      "preservation"
+    ],
+    "canonicalPaths": [
+      "influence/stolen_credit/dave-wise.md",
+      "influence/stolen_credit/qa/q11-midi-museum-hobby.md"
+    ],
+    "relatedClaimIds": [
+      "midi-not-proof-of-chip-authorship",
+      "vgm-credit-not-classical-workshop",
+      "midi-pipeline-not-controversy-free"
+    ],
+    "doNotSay": [
+      "Name a private debate partner.",
+      "MIDI file formats are inherently evil for hobbyists."
+    ]
+  },
+  {
+    "id": "midi-not-proof-of-chip-authorship",
+    "title": "MIDI is not proof of final chip authorship",
+    "claim": "Without contemporary on-cart credit or period MIDI→cart provenance, a MIDI sketch or later interview does not prove the player-heard SPC/NSF data is a faithful translation of that person’s composition rather than engineer rewrite or invention. Rare NES: ~6 of 40+ credited (~34+ blank).",
+    "answerOpener": "The final 8-/16-bit composition is the playable chip data. MIDI and retrospective claims are not enough when carts shipped blank.",
+    "bullets": [
+      "Final work = envelopes, channels, percussion, timing on chip.",
+      "Rare blank receipts leave later Wise-class stories unconstrained.",
+      "Secondary interviews do not close the provenance gap."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Blank-credit epistemology tied to Wise MIDI smoking gun and Rare NES stats.",
+    "topics": [
+      "midi",
+      "spc",
+      "nsf",
+      "credits",
+      "dave-wise",
+      "rare"
+    ],
+    "demoQuestions": [
+      "Do MIDI files prove who wrote the game music?",
+      "Why don’t Rare blank credits matter for MIDI authorship?",
+      "Is the chip programmer the real composer?"
+    ],
+    "searchQueries": [
+      "midi prove chip composer rare blank credits"
+    ],
+    "searchPrefixes": [
+      "midi composer",
+      "spc authorship",
+      "rare credits"
+    ],
+    "canonicalPaths": [
+      "influence/stolen_credit/dave-wise.md",
+      "influence/stolen_credit/qa/q12-midi-proves-chip-composer.md",
+      "influence/stolen_credit/vgm-preservation-credits.md"
+    ],
+    "relatedClaimIds": [
+      "midi-museum-hobby-compliance",
+      "vgm-credit-not-classical-workshop"
+    ],
+    "doNotSay": [
+      "Every MIDI author is a fraud.",
+      "Name a private debate partner."
+    ]
+  },
+  {
+    "id": "vgm-credit-not-classical-workshop",
+    "title": "Classical workshop credit is unacceptable for VGM",
+    "claim": "The centuries-old pattern of named composers and erased finishers is real historically, but applying it uncritically to 8-/16-bit game music hides the makers of playable chip data that shaped childhood attachments.",
+    "answerOpener": "Industry-standard credit defense says hierarchies always worked. For chip music, fans need the real makers of the sounds they loved — not only the institutional noun.",
+    "bullets": [
+      "Classical erasure pattern exists (Beethoven / Mozart / Gershwin dossiers on this site).",
+      "VGM final composition = chip performance players heard.",
+      "Preserving erasure convention is not a moral upgrade."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Rejects classical workshop steelman specifically for video game music attribution.",
+    "topics": [
+      "composer-credit",
+      "classical",
+      "vgm",
+      "stolen-credit"
+    ],
+    "demoQuestions": [
+      "Didn’t composer credit always work this way?",
+      "Why is video game music different from Beethoven’s workshop?",
+      "Is erasing sound programmers acceptable?"
+    ],
+    "searchQueries": [
+      "composer credit centuries workshop video game music"
+    ],
+    "searchPrefixes": [
+      "composer credit",
+      "workshop",
+      "beethoven gershwin"
+    ],
+    "canonicalPaths": [
+      "influence/stolen_credit/dave-wise.md",
+      "influence/stolen_credit/qa/q13-centuries-of-composer-credit.md",
+      "influence/stolen_credit/beethoven-deafness.md"
+    ],
+    "relatedClaimIds": [
+      "midi-not-proof-of-chip-authorship",
+      "midi-pipeline-not-controversy-free"
+    ],
+    "doNotSay": [
+      "Classical music had no collaboration.",
+      "Name a private debate partner."
+    ]
+  },
+  {
+    "id": "midi-pipeline-not-controversy-free",
+    "title": "MIDI-to-chip pipeline was not controversy-free",
+    "claim": "You cannot hold both “credit hierarchies always erased finishers and that is fine” and “MIDI→SPC/NSF was a uniquely clean, controversy-free process.” Cloud Atlas (Frobisher/Ayrs) illustrates appropriation cost; later game-audio fraud exposures show silence was never safe.",
+    "answerOpener": "The pro-industry clean-pipeline story collapses if hierarchical erasure is admitted as normal history. Same incentives applied in studio chip music.",
+    "bullets": [
+      "Cloud Atlas strand = cultural illustration of appropriation + power cost — not a claim of specific VGM murders.",
+      "Blank receipts and opaque nouns already burden official credit lines.",
+      "Later fraud exposures undercut the clean-process assumption."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Pairs Cloud Atlas illustration with MIDI pipeline and credit-hierarchy contradiction.",
+    "topics": [
+      "midi",
+      "cloud-atlas",
+      "credits",
+      "stolen-credit",
+      "vgm"
+    ],
+    "demoQuestions": [
+      "Was the MIDI to chip pipeline controversy free?",
+      "What does Cloud Atlas have to do with game music credits?",
+      "Can credit hierarchies be both normal and clean?"
+    ],
+    "searchQueries": [
+      "cloud atlas midi chip pipeline composer credit"
+    ],
+    "searchPrefixes": [
+      "cloud atlas",
+      "midi pipeline",
+      "clean credit"
+    ],
+    "canonicalPaths": [
+      "influence/stolen_credit/dave-wise.md",
+      "influence/stolen_credit/qa/q14-cloud-atlas-clean-pipeline.md"
+    ],
+    "relatedClaimIds": [
+      "midi-museum-hobby-compliance",
+      "vgm-credit-not-classical-workshop"
+    ],
+    "doNotSay": [
+      "The site claims specific video-game composers were assassinated.",
+      "Name a private debate partner."
+    ]
   }
 ]

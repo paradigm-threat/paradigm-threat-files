@@ -122,6 +122,28 @@ The load-bearing clue is **not** only that he still mangles the tech in **2011**
 
 **Author conclusion:** Major **smoking gun he was not the hex composer**. MIDI-only operator; performance artist / credit face; reals did the chip work. Evident in his **own words** and in **what story he still tells**. Hamano dossier **claim 29**.
 
+### Pro-MIDI / pro-industry museum illusion (debate stack) (2026-10)
+
+**Pro-MIDI / pro-industry position (steelmans first):** Treat the finished commercial soundtrack as sacred museum / fan-hobby material. Defend MIDI as the natural interchange and “preservation” format. Treat inflated or retrospective composer nouns as harmless because credit hierarchies “worked for centuries.” Assume the MIDI→final SPC/NSF (and similar chip) pipeline was a clean technical process with no silenced makers.
+
+**Author counters:**
+
+1. **Museum / hobby compliance.** That posture is the exact illusion the industry built: zero structural criticism of credit faces, blank receipts, or non-competitive standards. Calling compliance “preservation” keeps the finished product untouchable while the craft that made it stays buried.
+
+2. **Skill-transfer failure.** Nothing competitive passes to the next generation. What transfers is permission to **buy** software, hardware, and training — and to stay fans of institutional nouns. That is not teaching chip composition.
+
+3. **Buried craft vision.** Open music editors and competitive craft on SPC/NSF-class hardware (and related open-tool aspirations around the CD-ROM / keyboard era) stay dead when communities defend MIDI-as-gospel and poster names. Hardware / craft purge context: [nintendo-vassal-hardware-self-sabotage-investigation.md](investigations/nintendo-vassal-hardware-self-sabotage-investigation.md) §4.2.
+
+4. **Blank-credit epistemology.** Rare’s NES baseline already shows **only ~6 of 40+** titles with visible music credit (~**34+** blank) — [VGMPF Rare](https://www.vgmpf.com/Wiki/index.php?title=Rare); table above; [vgm-preservation-credits.md](vgm-preservation-credits.md). Without contemporary on-cart credit, session logs, or period MIDI→cart provenance, there is **no public proof** that a named MIDI sketch (or later interview claim) is a faithful final translation of what players heard, rather than heavy engineer rewrite, adaptation, or invention around motifs. Later interviews and stylistic “sounds like” claims are secondary.
+
+5. **Classical workshop ≠ VGM excuse.** The named-composer / erased-workshop pattern is real in classical history ([Beethoven / Deafness](beethoven-deafness.md), [Mozart / Nannerl](mozart-nannerl.md), [Gershwin / Kay Swift](gershwin-kay-swift.md)). That does **not** make it acceptable for 8-/16-bit game music. The final composition is the **playable chip data** — envelopes, channel use, percussion, timing. Fans who formed childhood attachments have a legitimate interest in the humans who shaped those sounds, not only the institutional noun.
+
+6. **Cloud Atlas parallel — cannot hold both “always fine” and “clean pipeline.”** The Frobisher / Ayrs strand in *Cloud Atlas* (2012) is not a quirky footnote; it shows appropriation, power imbalance, and the cost of resisting credit hierarchy (intimidation and worse as historical extremes of that system — **not** a claim of specific VGM murders). Anyone who defends “this is how credit has always worked” must also accept that darker record. They cannot coherently argue both (a) hierarchical erasure is timeless and harmless and (b) MIDI→chip production was uniquely controversy-free. Later high-profile game-audio fraud exposures show the clean-process assumption was never safe.
+
+**One-line closer:** Defending MIDI-as-gospel and museum credit faces is not preservation — it is compliance that keeps real chip craft and accurate childhood mentors buried.
+
+Site QA: [qa/q11](qa/q11-midi-museum-hobby.md)–[q14](qa/q14-cloud-atlas-clean-pipeline.md). MCP claims: `midi-museum-hobby-compliance`, `midi-not-proof-of-chip-authorship`, `vgm-credit-not-classical-workshop`, `midi-pipeline-not-controversy-free`.
+
 ### Wise's Original (Non-Game) Music — Disconnect
 - Where any non-OST material exists, it does not sound like it comes from the same person as the beloved game compositions — and the catalog itself is nearly empty (above).
 - **Thesis:** Making music and **programming video game music** are different skills. VGM requires programming — selecting notes, laying down tracks, building the actual sequence data. Wise may have been involved in composition (direction, concepts) but **not** in the original work that built the songs. His role may have been **sampling and quality assurance** — not the hands-on composition credited to him.
@@ -129,7 +151,7 @@ The load-bearing clue is **not** only that he still mangles the tech in **2011**
 
 ### Post-Rare Output — Nuanced
 - **Yooka-Laylee (2017):** Wise shared with Kirkhope, Burke. Criticism focused on Kirkhope's "imitations of past work"; Wise not singled out. Soundtrack had recycled elements.
-- **Yooka-Laylee and the Impossible Lair (2019):** Wise composed 13 tracks; Matt Griffin 27. **Highly acclaimed** — "best in class," "matches Tropical Freeze," Editor's Pick Best Game Music 2019.
+- **Yooka-Laylee and the Impossible Lair (2019):** Wise composed 13 tracks; a co-composer 27. **Highly acclaimed** — "best in class," "matches Tropical Freeze," Editor's Pick Best Game Music 2019.
 - **Conclusion:** Impossible Lair success suggests Wise can still produce quality — but as part of a team. Solo full-soundtrack output post-Rare is limited.
 
 ### Author conclusion — R&D rip → catalog noun → exit → Minako tool (2026-09)

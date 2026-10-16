@@ -13,7 +13,7 @@
 3. **The clock** (§3) — statutes, dates, what a buyer actually purchases
 4. **Disney’s recorded campaign** (§4) — 1998, *Eldred*, then the 2024 cliff that arrived anyway
 5. **Exceptions since 1998** (§5) — Canada, trademark, DMCA; **§5.1** Morrison / *Monster in My Pocket*
-6. **Remakes** (§6) — pre-*X* timeline; why a remake exists if the clock does not need it
+6. **Remakes** (§6) — pre-*X* timeline; why a remake exists if the clock does not need it; **§6.0a–b** social / private debate tactics that protect remake weather without a corporate reply
 7. **Paid in full, use withheld** (§7) — Nintendo Classics, Yuzu
 8. **Santa and Lincoln beside Mickey and Mario** (§8)
 9. **Who may put the icon in a war** (§9) — Disney 1943; 2026 LEGO-style Iran videos
@@ -209,6 +209,18 @@ That sales figure supports “nostalgic virtue moves a lot of copies.” It does
 
 **Read against the essay:** This is the live form of “critics are treated as people who will never be happy” and “isolated complaints make the complainant.” A later cohort that grew up inside remake weather hears a quality/agency claim as elitism about how they enjoy games. An earlier cohort hears the same sentence as memory of a finished world. The stacked case belongs in a dossier or article, not under a friend’s-of-friend portfolio post. Exit after one clean separation of industry from personal craft; do not duel tone under the post.
 
+### 6.0b. Private-channel “polite defender” optics (Author specimen pattern, 2026-10)
+
+**Author pattern (names withheld; observed across decades, including recent private-message debates on industry credit / craft / enclosure):** A **pro-industry defender** never takes up the challenger’s actual topics — fraud-by-ear criteria, non-composition charges, portable-tool critique, remake-as-demand-sink, whatever was put on the table first. Instead they **topic-control**: restating their own frame, flexing proprietary gear or personal output, soft-closing the challenger’s thesis as “a strong opinion,” and asking late clarifying questions that look like engagement after the record of non-engagement is already set. The surface tone stays **polite and reasonable** and **eager to continue**. When the challenger walks away — Art-of-the-Deal exit: no deal when the other side will not negotiate in good faith — **optics invert**. A third party (or the defender’s later retelling) sees only: defender wanted dialogue; challenger quit; therefore challenger “lost.” The substantive ignore never appears in the screenshot.
+
+**Faucification layer:** The same channel often treats a researcher with **decades of receipts** as a child who has not done the homework — credential / tone / “calm down and explain again” theater that refuses to steelman or falsify the challenger’s criteria. Enduring that in private is unpaid harassment under a good-faith costume. Walking away is rational. It still **looks** like failure to outsiders.
+
+**Private vs public asymmetry (load-bearing):** This tactic thrives in **DMs / Messenger / 1:1**. The same defender will rarely run the same play in public with people watching. Audience changes the payoff: under witnesses it becomes more worthwhile for the challenger to **stay**, keep answering, and endure faucification and mundane harassment framed as debate — because the record is shared and topic-dodge costs reputation. In private there is no audience, so the polite ignore wins the optics game by default.
+
+**Read against the essay:** Pair with §6.0a. Camp defense under a public craft post **recruits the room** to police the critic. Private polite-defender optics **need no room** — only the absence of witnesses. Both protect industry weather without a corporate reply. Cross: credit-face / MIDI-fraud threads on [dave-wise.md](../dave-wise.md) (own-words tell); do not treat any one chat as a named finding.
+
+**Operational rule (Author):** If the other side will not engage the claims on the table, exit. Do not keep feeding misdirection so they can harvest the “I was still talking” screenshot. Prefer public or multi-party venues when the goal is a durable record.
+
 ### 6.1. Reissues before *Final Fantasy X*
 
 Scope: the originals on Famicom, NES, Super Famicom, Super NES, and PlayStation, and the later editions of **those** games. *X* (2001, PlayStation 2) is the cutoff. Feature-phone editions and Virtual Console reprints are omitted; they repeat a prior edition rather than defining a new one. Day-level dates follow compilation catalogs cross-checked against contemporary reviews. Where two catalogs disagree by a few days, the month and the platform order are the stable facts. One catalog prints *Final Fantasy Chronicles* as 29 June **2011**; the disc is **29 June 2001**.
@@ -382,6 +394,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 | AU-066g | Morrison **2000–2003** is mop-up after Western *Pokémon* (Sept **1998**) already owned the room: a senior US mark squeezed by a renamed hit, not a live gate fight. The outcome can still be **heard** as a foreign-parented kids franchise defeating a US senior toy mark (leftover Sheff weather); the holding is sight/sound/survey, not children’s-culture stakes. | **Author** on mop-up lead and on available foreign-defeat reception. **Documented** on parties, 29 Mar 2000 filing, Sept 1998 launch, and 56 F. App’x 782 (§5.1). **Rejected** as a counted public of this docket, and as a live resistance war that could still stop the import. |
 | AU-066h | Social camp defense around nostalgia remakes: industry critique under a personal craft post is reframed as hobby policing; hatred artifacts (insults, “get help,” credential challenge, troll image) replace answers about remake quality; the poster can agree the industry is bad and still eject the critic. That is how “never be happy” works without a corporate reply. | **Author** specimen (§6.0a). Names withheld. Not a poll. |
 | AU-066i | Smash soundtrack enclosure: after the N64 commercial OST, *Melee* / *Brawl* / *Ultimate* (and Smash 4 beyond a Club Nintendo selection) never got matching full retail game-audio albums; spectacular arrangements by returning / guest composers stay locked to the game or to gamerips; multi-party clearance + Nintendo promo substitutes explain the gap; effect is continued suppression of hearing outside the licensed product. | **Author** on suppression purpose. **Documented** release calendar and rip economy (§10.1). EarthBound cut from *Smashing…Live!* is the hard rights specimen. |
+| AU-066j | Private-channel “polite defender” optics: pro-industry interlocutor systematically ignores the challenger’s topics while staying polite and wanting to continue; walkaway (bad-faith exit) is retold as the challenger losing the debate; same person will not run the play under public witnesses; faucification (treating a long-researched challenger as uninformed child) is part of the costume. | **Author** pattern (§6.0b). Names withheld. Decades of private specimens; not a named lawsuit or poll. |
 
 ---
 
@@ -410,6 +423,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 - Emulation law is fact-specific. This file does not map which emulators are lawful. It uses Yuzu’s **outcome** (shutdown, money, domain) as the enforcement specimen.
 - The Morrison disposition is **unpublished**. Do not treat 56 F. App’x 782 as nationwide trademark doctrine. Do not allege the panel was an agent of Kyoto. “Foreign defeat” is AU-066g, not a poll.
 - Smash OST scarcity is **not** “Nintendo never released music CDs.” N64 Smash and many first-party titles did. The charge is the **post-2000 Smash series pattern**: no full commercial game-audio OST for Melee/Brawl/Ultimate, promo substitutes only. Do not invent a memo that “banned” albums.
+- AU-066j is **pattern language from private channels**, not a reproducible public archive. Screenshots, if ever filed, belong in Investigator notes or a sealed annex — not as named individuals in the body.
 
 ---
 
@@ -449,7 +463,7 @@ Prior art for “copyright terms are too long and Disney lobbied” is widesprea
 
 Keywords: #PublicDomain #CopyrightTerm #SonnyBono #MickeyMouse #Mario #PixelRemaster #Nintendo #Disney #DMCA #Trademark #KingdomHearts #SmashBros #Lego #InformationControl #AU066 #Pokemon #Morrison #MonsterInMyPocket #Soundtrack #Melee #Brawl
 
-*Last updated: 2026-10-07*
+*Last updated: 2026-10-13*
 
 ## Limits and disclaimers
 
