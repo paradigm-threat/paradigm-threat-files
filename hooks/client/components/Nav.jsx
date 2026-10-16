@@ -93,6 +93,17 @@ function navChromeCss() {
     'width:0!important;height:0!important;overflow:hidden!important;margin:0!important;' +
     'padding:0!important;border:0!important;' +
     '}' +
+    // Gallery CE host must not take `.pt-gallery` fullscreen styles (inner overlay owns them).
+    'relay-image-gallery{display:contents!important;}' +
+    'relay-image-gallery.pt-gallery{' +
+    'position:static!important;inset:auto!important;background:transparent!important;' +
+    'z-index:auto!important;display:contents!important;' +
+    '}' +
+    // Belt: if a host still carries theme overlay classes, keep it out of the paint path.
+    'relay-image-gallery[hidden],relay-image-gallery:empty{display:none!important;}' +
+    'relay-image-gallery:not(:defined){display:none!important;}' +
+    'relay-image-gallery:defined{display:contents!important;}' +
+
     // Mobile drawer: always in DOM; open via data-pt-nav-open (no useState remount).
     '.pt-site-nav:not([data-pt-nav-open="1"]) .pt-nav-mobile{display:none!important;}' +
     '.pt-site-nav[data-pt-nav-open="1"] .pt-nav-mobile{display:block;}' +
