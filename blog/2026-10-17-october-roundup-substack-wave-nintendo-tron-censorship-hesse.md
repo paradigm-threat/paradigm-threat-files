@@ -195,14 +195,6 @@ Raster files **first added** after **2026-08-28** through **2026-10-17** (exclus
 
 ![Circulating meme: John Wayne portrait with the claim he bought 1,200 foreclosed houses for homeless Vietnam veterans](https://paradigmthreat.net/influence/hollywood/investigations/john-wayne-vietnam-vet-houses-meme-investigation.png)
 
-![Facebook Support Inbox — Reports about others only; no record of author’s restore ticket (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-support-inbox-reports-about-others-only-2026-10.png)
-
-![Facebook Notification settings — preference toggles only; no restore path (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-undo-deadend-notification-settings-2026-10.png)
-
-![Facebook Recent emails — only Unlock account mails; no comment-restore notice (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-undo-deadend-recent-emails-2026-10.png)
-
-![Facebook Security Checkup — passkey/contact/logins only; no Undo for removed comments (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-undo-deadend-security-checkup-2026-10.png)
-
 ![Faucifying — dictionary meme for condescending expert dismissal](https://paradigmthreat.net/influence/hollywood/faucifying.jpg)
 
 ![Mance Rayder — “foreigner’s war” meme](https://paradigmthreat.net/influence/hollywood/investigations/mance-rayder-foreigners-war-meme.jpg)

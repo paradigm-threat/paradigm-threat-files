@@ -63,20 +63,6 @@ Author gave up after exhausting the obvious product paths the same morning. **Fi
 
 **Author verdict:** Meta **lied**. “You can undo it” without a working control is **security theater** — delete first, promise a door that does not exist, leave Help docs that do not match the live UI. The Support path repeats the same grammar: **accept input, erase the trail, show a help façade**.
 
-### Dead-end screenshots (companion assets — do not duplicate)
-
-![Facebook Recent emails — only Unlock account mails; no comment-restore notice (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-undo-deadend-recent-emails-2026-10.png)
-
-![Facebook Security Checkup — passkey/contact/logins only; no Undo for removed comments (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-undo-deadend-security-checkup-2026-10.png)
-
-![Facebook Notification settings — preference toggles only; no restore path (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-undo-deadend-notification-settings-2026-10.png)
-
-Asset paths:
-
-- `influence/censorship/facebook-undo-deadend-recent-emails-2026-10.png`
-- `influence/censorship/facebook-undo-deadend-security-checkup-2026-10.png`
-- `influence/censorship/facebook-undo-deadend-notification-settings-2026-10.png`
-
 ---
 
 ## Support Inbox — submit vanishes; no ticket; fake-front UX (9 Oct 2026)
@@ -88,10 +74,6 @@ After the Undo chase failed, author opened **Support Inbox**, used the **Report 
 2. On Submit, the modal **closed / disappeared** with **no confirmation number**, email receipt, or “we got your report” card.
 3. Returning to **Support Inbox** shows only **Reports about others** — prior reports *of other people* — **not** the author’s own restore / false-Undo ticket.
 4. **Navigation broken:** nested Support / Help menus do not offer a reliable in-product **Back** to the prior menu; author had to use the **browser Back** button. Feels like unfinished scaffolding, not a real case-management product.
-
-![Facebook Support Inbox — Reports about others only; no record of author’s restore ticket (9 Oct 2026)](https://paradigmthreat.net/influence/censorship/facebook-support-inbox-reports-about-others-only-2026-10.png)
-
-**Asset path:** `influence/censorship/facebook-support-inbox-reports-about-others-only-2026-10.png`
 
 **Author read:** Facebook presents as a **fully featured website** with Help Center, Support Inbox, and full-text feedback — what everyone expects from a real support stack. Lived experience: it is a **fake front**. You can dump a report into a form that vanishes; you cannot audit that it was filed; you cannot navigate like a normal app. Same opacity as the false Undo — **theater of accountability without the ledger**.
 
