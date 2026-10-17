@@ -3,6 +3,8 @@
     { "path": "hooks/client/hostMode.jsx", "name": "hostMode" },
     { "path": "hooks/client/components/BootShell.jsx", "name": "BootShell" },
     { "path": "hooks/client/jsonUtil.jsx", "name": "jsonUtil" },
+    { "path": "hooks/client/propOr.jsx", "name": "propOr" },
+    { "path": "hooks/client/strUtil.jsx", "name": "strUtil" },
     { "path": "hooks/client/loadArticles.jsx", "name": "loadArticles" },
     { "path": "hooks/client/rewriteAssets.jsx", "name": "rewriteAssets" },
     { "path": "hooks/client/legacyAppHref.js", "name": "legacyAppHref" },

@@ -12,7 +12,7 @@ import {
   dirTreeHasKids,
   dirIndexListing,
 } from '@relay/catalog'
-import { underscoresToSpaces } from '@relay/util'
+import { underscoresToSpaces } from 'hooks/client/strUtil.jsx'
 import { loadDirTree, siteHref } from 'hooks/client/loadArticles.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 

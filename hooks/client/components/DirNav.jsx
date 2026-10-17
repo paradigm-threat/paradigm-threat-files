@@ -4,6 +4,7 @@ import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import { dirExpandPaths } from '@relay/catalog'
 import { includes } from '@relay/util'
 import { propStr } from 'hooks/client/propOr.jsx'
+import { underscoresToSpaces } from 'hooks/client/strUtil.jsx'
 import { loadDirTree, rowPath, rowTitle, siteHref } from 'hooks/client/loadArticles.jsx'
 import FeelingLucky from 'hooks/client/components/FeelingLucky.jsx'
 import {
@@ -20,19 +21,8 @@ function stripRel(raw) {
   return s
 }
 
-/** Local `_` → space. Avoid `@relay/util.underscoresToSpaces` and String#split (host gaps). */
 function folderTitle(name) {
-  if (typeof name !== 'string') return ''
-  let out = ''
-  for (let i = 0; i < name.length; i++) {
-    const ch = name.charAt(i)
-    if (ch === '_') {
-      out += ' '
-    } else {
-      out += ch
-    }
-  }
-  return out
+  return underscoresToSpaces(name)
 }
 
 /** Path leaf after last `/` (CleverScript-safe; no split). */

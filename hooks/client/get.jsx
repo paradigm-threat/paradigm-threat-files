@@ -5,7 +5,7 @@
 import React from 'react'
 import StyleContext from '@clevertree/style'
 import manifest from '@hooks'
-import { underscoresToSpaces } from '@relay/util'
+import { underscoresToSpaces } from 'hooks/client/strUtil.jsx'
 import BootShell from 'hooks/client/components/BootShell.jsx'
 import { isCsrHost } from 'hooks/client/hostMode.jsx'
 import ArticleView from 'hooks/client/components/ArticleView.jsx'
@@ -72,7 +72,7 @@ function searchInitialQuery(route) {
       rest = rest.slice(0, qmark)
     }
     // Decode before QUERY — otherwise "bibi death" becomes a zero-hit "bibi_death" literal.
-    // Host helper: tip String#split on SSR can throw (Array index must be number).
+    // Tip-local underscoresToSpaces (fleet @relay/util export may be missing).
     return underscoresToSpaces(rest).trim()
   }
   try {
