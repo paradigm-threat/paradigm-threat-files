@@ -1,10 +1,22 @@
-# Late summer into October 2026: Substack wave, Nintendo IP enclosure, Tron MCP, soft erase, and the Steppenwolf certificate
+# Flashback Repository launches; Substack wave, Nintendo IP, Tron MCP, soft erase, Steppenwolf
 
 *October 17, 2026 — Paradigm Threat*
 
-**Summary.** Since the [August 28 roundup](https://paradigmthreat.net/blog/2026-08-28-august-relay-pure-migration-takeout-qanon-shaman-trash-revelation) — Takeout trash, Q-Anon Shaman witness, Flat Earth trance on-site, and pure-Relay publish — the window runs **2026-08-29 through 2026-10-17**. Eight Substack flagships shipped. The files repo grew a dense cluster of reader essays and AU dossiers: **Nintendo / Barney / Pokémon** IP enclosure, **Crichton’s Prophecy** (workplace OS containment), **Pentagon Papers (2003)** with NSA/CIA antibody framing, **They Had to Use a Robot** (Tron MCP look-away), **Thrown Off the Train** (FanEdit / Facebook soft erase), midterm **Voting for insecticide**, fiction-encoding lanes (laugh-before-the-planet, Ender’s Game / Mars, **Hesse Steppenwolf AU-070**), Scientology OT III / Xenu–Mars, Democrat paid-protest pipeline, Lyric Forensics, park **mesh chat** and **Movies / Flashback** chrome.
+**Summary.** **[Flashback Repository](https://flashbackrepository.org)** is live — own site, own catalog, [Android APK](https://flashbackrepository.org/downloads/flashback.apk). Since the [August 28 roundup](https://paradigmthreat.net/blog/2026-08-28-august-relay-pure-migration-takeout-qanon-shaman-trash-revelation) the window runs **2026-08-29 through 2026-10-17**: eight Substack flagships; **Nintendo / Barney / Pokémon** IP enclosure; **Crichton’s Prophecy**; **Pentagon Papers (2003)**; **They Had to Use a Robot** (Tron MCP look-away); **Thrown Off the Train** (FanEdit / Facebook soft erase — the reason Flashback exists as a host); midterm **Voting for insecticide**; fiction-encoding (**Hesse Steppenwolf AU-070**); park **mesh chat** and **Movies** chrome.
 
-The through-line is **custody of the public story**. Platforms delete or bury predictive-programming cuts while support menus dead-end. Newsletters carry essays that the Vercel archive no longer owns as the only front door. Hollywood names the childhood villain (**MCP**) and then sells a robot look-away so humans will not say the rhyme out loud. A 1927 novel Treatise still attacks a wolf self-label with **negerhafte** diction that English softens to “niggardly.” Nintendo sits on IP, remakes pixels, and leaves Chozo / Smash soundtrack remainder as trim-back. Readers who only saw the August protest find now get the CO essays, the IP stack, the censorship stack, and the refile certificate in one catch-up.
+The through-line is **custody of the public story**. Platforms delete or bury predictive-programming cuts while support menus dead-end — so the cuts move to a site the author runs. Newsletters carry essays that the Vercel archive no longer owns as the only front door. Hollywood names the childhood villain (**MCP**) and then sells a robot look-away. A 1927 novel Treatise still attacks a wolf self-label with **negerhafte** diction that English softens to “niggardly.” Nintendo sits on IP and leaves Chozo / Smash remainder as trim-back. Readers who only saw the August protest find get the CO essays, the IP stack, the censorship stack, the refile certificate — and a working player — in one catch-up.
+
+---
+
+## Flashback Repository is live
+
+**[Flashback Repository](https://flashbackrepository.org)** is open: personal fan edits of films we own (family-safe cuts, taste-driven mixes, quiet repairs). You must own a legal copy of each original before you play anything there. Park tip chrome links it from **Movies**; the catalog lives on its own domain.
+
+**Android:** [download the APK](https://flashbackrepository.org/downloads/flashback.apk) (`flashback.apk` — also linked from [/app](https://flashbackrepository.org/app) / [/android](https://flashbackrepository.org/android) on the site). Titles marked **Now showing** stream from the host (Bunny CDN); everything else is the IPFS catalog.
+
+A few that are up now: [Tron Legacy (2010) — The Miracle](https://flashbackrepository.org/tron-legacy-2010-the-miracle), [Terminator 3 (2003) — Brass Monkey Edition](https://flashbackrepository.org/terminator-3-2003-brass-monkey), [American Psycho (2000) — Psychosomatic](https://flashbackrepository.org/american-psycho-2000-psychosomatic), [Alien Resurrection (1997) — UnJossed](https://flashbackrepository.org/alien-resurrection-1997-unjossed), [Riddick (2013) — Unjinxed](https://flashbackrepository.org/riddick-2013-unjinxed), [The Chronicles Of Riddick (2004) — Fry's Edition](https://flashbackrepository.org/the-chronicles-of-riddick-2004-fry-s-edition). Full shelf and ChangeLog on the site.
+
+Soft erase on FanEdit and Facebook is covered below under **Thrown Off the Train** — Flashback is the answer that does not wait on their menus.
 
 ---
 
@@ -132,9 +144,9 @@ New dossier: [Hesse / Steppenwolf Jung ware refile](https://paradigmthreat.net/i
 
 [False-flag QA](https://paradigmthreat.net/events/false_flag/qa/page) · [q01 — why 9/11 was necessary](https://paradigmthreat.net/events/false_flag/qa/q01-why-911-was-necessary) for the MCP claim-matcher lane.
 
-### Park host — mesh chat, Movies, Flashback, Directory
+### Park host — mesh chat, Movies, Directory
 
-Relay park chrome (not Vercel-only): **mesh IRC** `#pt` / `#pt-*` with ChatApp and imported history; LiveChat shell slots; Directory nav contrast/wrap; homepage **Movies** nav + **Flashback Now showing** filled from ChangeLog without CORS preflight; CleverScript-safe stubs throughout. Chat request/response docs note Vercel archive ChatRoom embeds park LiveChat. Search path decode hardened so spaces survive QUERY.
+Relay park chrome (not Vercel-only): **mesh IRC** `#pt` / `#pt-*` with ChatApp and imported history; LiveChat shell slots; Directory nav contrast/wrap; homepage **Movies** nav pointing at Flashback (lede above) with **Now showing** filled from ChangeLog without CORS preflight; CleverScript-safe stubs throughout. Chat request/response docs note Vercel archive ChatRoom embeds park LiveChat. Search path decode hardened so spaces survive QUERY.
 
 ### Housekeeping and docs
 
@@ -146,9 +158,9 @@ Chronicle / documentary prose default locked in agent rules (`plain-spoken-prose
 
 **September cutover:** Next.js surfaces pointed at **`old.paradigmthreat.net`** after Relay apex ownership; archive banner; Research MCP canonicalized on old.; confirmed-dead href marking in MarkdownLink and SEO HTML; Search stays on the Vercel archive domain; Home/Search/Timeline/Chat absolute for subdomain chrome; paradigmthreat.org → pure-Relay park; Timeline default on `timeline.paradigmthreat.net`.
 
-**October:** legacy chat **redirects to park mesh IRC**; Movies nav + Flashback Now showing component; Directory labels wrap instead of truncating; ChatRoom embeds park LiveChat from markdown tags. Image failover: sjc1 mirrors retired; hung loads fail to Retry UI; Reading Mode excludes PopImage/HTML comment leaks.
+**October:** legacy chat **redirects to park mesh IRC**; Movies nav + Flashback Now showing component (see lede); Directory labels wrap instead of truncating; ChatRoom embeds park LiveChat from markdown tags. Image failover: sjc1 mirrors retired; hung loads fail to Retry UI; Reading Mode excludes PopImage/HTML comment leaks.
 
-**Read:** humans on old. get the familiar Next shell; bots and park tip stay on Relay; chat is no longer a Vercel-owned room — it is mesh IRC with archive embeds pointing in.
+**Read:** humans on old. get the familiar Next shell; bots and park tip stay on Relay; chat is no longer a Vercel-owned room — it is mesh IRC with archive embeds pointing in; fan edits play from [flashbackrepository.org](https://flashbackrepository.org), not a third-party edit board.
 
 ---
 
@@ -164,7 +176,7 @@ Small but pointed: Atlantis chapter indexed for Plato/Timaeus/Critias search; `?
 2. **IP / generation:** [Before Barney… (Substack)](https://paradigmthreat2.substack.com/p/before-barney-teletubbies-and-pokemon) → [nintendo](https://paradigmthreat.net/influence/stolen_credit/nintendo) → [IP enclosure dossier](https://paradigmthreat.net/influence/stolen_credit/investigations/ip-public-domain-enclosure-nintendo-disney-investigation) → stolen-credit QA hub.
 3. **Workplace / AI containment:** [Crichton’s Prophecy (Substack)](https://paradigmthreat2.substack.com/p/crichtons-prophecy) → [Agile/Scrum investigation](https://paradigmthreat.net/science/computing/investigations/agile-scrum-leadership-containment-investigation) → [They Had to Use a Robot (Substack)](https://paradigmthreat2.substack.com/p/they-had-to-use-a-robot).
 4. **War shelf:** [Watch The Pentagon Papers (Substack)](https://paradigmthreat2.substack.com/p/watch-the-pentagon-papers-2003) → McNaughton / NSA declass / RAND dossiers → Iran 2026 mission-accomplished ledger.
-5. **Soft erase:** [Thrown Off the Train (Substack)](https://paradigmthreat2.substack.com/p/thrown-off-the-train) → FanEdit + Facebook capture notes → soft-censorship investigation.
+5. **Soft erase → own host:** [Thrown Off the Train (Substack)](https://paradigmthreat2.substack.com/p/thrown-off-the-train) → FanEdit + Facebook capture notes → soft-censorship investigation → [Flashback Repository](https://flashbackrepository.org) ([APK](https://flashbackrepository.org/downloads/flashback.apk)).
 6. **Refile certificate:** [Hesse Steppenwolf AU-070](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation) (§2 timeline, §3.4 *negerhafte* / niggardly) → [laugh before the planet](https://paradigmthreat.net/influence/predictive_programming/the-laugh-before-the-planet) → OT III / Xenu–Mars if Mars catastrophe is the next door.
 
 ---
@@ -206,11 +218,11 @@ Raster files **first added** after **2026-08-28** through **2026-10-17** (exclus
 - **Eight Substack flagships** in this window; Happy Halloween is newsletter remix only (no matching investigation path).
 - Flat Earth trance **Substack** date is **2026-08-30**; on-site essay and its heroes were already summarized **2026-08-28** — Substack listed here as the publish event, images not re-owned.
 - Exclusive image window: first git-add after **2026-08-28** through **2026-10-17**. Inline heroes above; overflow gallery follows.
-- Park mesh chat + Flashback are **user-visible** park/host work; do not confuse with Vercel archive ChatRoom retirement.
+- Flashback Repository ([site](https://flashbackrepository.org), [APK](https://flashbackrepository.org/downloads/flashback.apk)) and park mesh chat are **user-visible** host work; do not confuse with Vercel archive ChatRoom retirement.
 - AU registry now through **AU-070** (Steppenwolf); prior AU-058–069 land in the sections above.
 
 ---
 
 *Topics:* [#controlled_opposition](https://paradigmthreat.net/search/controlled_opposition) · [#stolen_credit](https://paradigmthreat.net/search/stolen_credit) · [#censorship](https://paradigmthreat.net/search/censorship) · [#hollywood](https://paradigmthreat.net/search/hollywood) · [#predictive_programming](https://paradigmthreat.net/search/predictive_programming) · [#governance](https://paradigmthreat.net/search/governance) · [#science](https://paradigmthreat.net/search/science) · [#religion](https://paradigmthreat.net/search/religion) · [#influence](https://paradigmthreat.net/search/influence) · [#history](https://paradigmthreat.net/search/history)
 
-**Last updated:** 2026-10-17T04:35:00-04:00
+**Last updated:** 2026-10-17T11:05:00-04:00
