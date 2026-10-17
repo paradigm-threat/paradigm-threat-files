@@ -1,5 +1,7 @@
 # Hermann Hesse / *Steppenwolf* — Jungian “in the head” refile and ware-literature (AU-070)
 
+![Jung: it’s in your head / 1927: here’s the certificate — 1926 invent the fiction shelf / 1927 file the wolf as a novel](hesse-steppenwolf-jung-ware-refile-meme.jpg)
+
 > **TL;DR:** **Major find — the timeline is not accidental.** In **one tight window:** Jung/Lang refile of Hesse’s wolf-crisis (**1921**, then Lang dinners **1925–26**) → Gernsback mints the **scientifiction** shelf (***Amazing Stories***, **Apr 1926**) → Ruth files divorce (**Jan 1927**) → ***Der Steppenwolf*** ships (**1927**) as the public “in the head” certificate, with Ball’s official biography for Hesse’s **50th**. **Author thesis (AU-070):** real ware-class condition (symptoms unknown); wolf label from literature; Jungian dismissal; abandonment + suicide-deadline as message; book as **3rd-lie / R3–R6** rewrite. Lodger tropes are **not** disease evidence. Cross-ref [Stoker](../stoker/index-bram-stoker-investigation.md) | [zombie genre](../zombies/index-zombie-genre-investigation.md) | [skinwalkers](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) | [REDACTION](/docs/REDACTION.md) | [Wells genre containment](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md).
 
 **Status:** Open.
@@ -221,7 +223,7 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 
 ## 9. Weak points / research TODOs
 
-- [ ] Pull Creighton + German preface / Treatise pages into a short quote bank with edition cites (PG / Standard Ebooks already used in session).
+- [x] Pull Creighton preface / Treatise / Magic Theater quotes into wget corpus (`~/dev/wget/hesse/steppenwolf-1927.md` AU-070 validation). German primary still optional (PG DE).
 - [ ] Ball 1927 biography: exact Lang session citation and how Ball frames neurosis.
 - [ ] Confirm March 1924 attempt primary source (Ruth letter vs later interview).
 - [ ] Cross-walk Calmet / Slavic *vlkodlak* / Stoker Ch.1 *vrolok* into a **ware literature foundation** subsection without importing film tropes.
@@ -270,5 +272,8 @@ Keywords: #Hesse #Steppenwolf #Jung #Ware #Werewolf #Lycanthropy #Refile #Redact
 
 - Session origin: 2026-10-17 chat — Steppenwolf summary → Stoker cross-test → Jung suspicion → AU-070 capture; author lock **timeline not accidental** elevated to **§2 major find**; Ruth *hündisch* / non-cohabitation under §6.3.
 - PG EN: `https://www.gutenberg.org/files/75756/75756-h/75756-h.htm` · DE: `…/75802/…` · Creighton preface quotes used in session tools under `agent-tools/`.
+- **Local corpus (2026-10-17):** `/home/ari/dev/wget/hesse/` — Creighton/Mileck EPUB+PDF + Horrocks 2025 Penguin; `INDEX.md` · `steppenwolf-1927.md` (frame splits + **AU-070 scan validation**). Prefer Creighton for body quotes; Horrocks for **1941 Author’s Postscript** and Ball/Crisis afterword.
+- **Scan verdict:** published machine confirms frame demotion + Treatise anti-wolf-body + “pictures, not realities” + court; **heavy post-manuscript editorializing is documented** (in-book Treatise/Pablo/Court + **1941** cure/Immortals postscript + EN packaging). Ball letter matches real fiftieth-birthday suicide respite. Pre-publication documentary draft still open (Q7). Horrocks “wife’s mental illness” = Mia lane, not Ruth.
+- Header meme: `hesse-steppenwolf-jung-ware-refile-meme.jpg` — timeline + “PSYCHE ONLY” stamp (AU-070 visual).
 - Do **not** reintroduce sniffing / cage-pacing / night-outing list as disease evidence.
 - Divorce: prefer Michels *Liebes Herz!* and Montagnola chronology over “divorced for insanity” shorthand.
