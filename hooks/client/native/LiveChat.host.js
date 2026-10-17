@@ -59,6 +59,8 @@
       : C.channelFromPath(path, prefix || 'fb');
     // Propagate origin onto root so ChatCommon.chatOrigin() sees it
     var originAttr = prop(props, 'chat-origin', '') || prop(props, 'origin', '');
+    var titleText = prop(props, 'title', '') || prop(props, 'data-title', '');
+    if (!titleText) titleText = 'Live chat';
 
     var root = C.el('div', 'fb-live-chat');
     root.setAttribute('data-fb-live-chat', '1');
@@ -67,7 +69,7 @@
     if (originAttr) root.setAttribute('data-chat-origin', originAttr);
 
     var head = C.el('div', 'fb-live-chat-head');
-    var title = C.el('h2', 'fb-live-chat-title', 'Live chat');
+    var title = C.el('h2', 'fb-live-chat-title', titleText);
     var meta = C.el('div', 'fb-live-chat-meta');
     meta.textContent = '#' + channel;
     var openFull = C.el('a', 'fb-link');

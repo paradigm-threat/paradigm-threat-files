@@ -1696,21 +1696,15 @@ themes:
         whiteSpace: "normal"
         overflowWrap: "anywhere"
         wordBreak: "break-word"
-      ".pt-live-chat-slot":
-        width: "100%"
-        maxWidth: "90rem"
-        marginLeft: "auto"
-        marginRight: "auto"
-        paddingLeft: "1rem"
-        paddingRight: "1rem"
-        paddingBottom: "1.5rem"
-        boxSizing: "border-box"
       ".fb-live-chat-host":
         display: "block"
         width: "100%"
         maxWidth: "100%"
         boxSizing: "border-box"
         minHeight: "12rem"
+      ".pt-chatroom-live .fb-live-chat-host":
+        marginTop: "0"
+        marginBottom: "0"
       ".pt-dir-count":
         fontSize: "0.625rem"
         color: "var(dirFgMuted)"
@@ -2066,6 +2060,8 @@ themes:
       ".pt-chatroom-live":
         marginTop: "1.25rem"
         marginBottom: "1.25rem"
+        width: "100%"
+        boxSizing: "border-box"
   dark:
     inherits: light
     variables:

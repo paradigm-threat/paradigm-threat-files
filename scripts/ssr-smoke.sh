@@ -8,9 +8,12 @@ HOST="${SSR_SMOKE_HOST:-relay.paradigmthreat.net}"
 PORT="${SSR_SMOKE_PORT:-9080}"
 BASE="http://127.0.0.1:${PORT}"
 HOME_URL="${BASE}/"
-# Stable article with long Directory title (wrap / LiveChat embed regression).
+# Stable article with long Directory title (wrap regression; no ChatRoom → no LiveChat).
 ARTICLE_PATH="${SSR_SMOKE_ARTICLE:-/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation.md}"
 ARTICLE_URL="${BASE}${ARTICLE_PATH}"
+# Markdown <ChatRoom /> embed regression.
+CHATROOM_PATH="${SSR_SMOKE_CHATROOM:-/science/nukes/chat_nukes.md}"
+CHATROOM_URL="${BASE}${CHATROOM_PATH}"
 
 # SSR HTML is often one huge line — avoid piping through grep (line-length / binary pitfalls).
 has() {
@@ -32,14 +35,9 @@ fetch_body() {
   curl -fsS -H "Host: ${HOST}" -H 'Accept: text/html' "$url"
 }
 
-check_page() {
+check_no_runtime_error() {
   local label="$1"
-  local url="$2"
-  local body
-  body="$(fetch_body "$url")" || {
-    echo "FAIL: ${label}: curl failed for ${url}" >&2
-    exit 1
-  }
+  local body="$2"
 
   forbid "$body" 'relay-error-boundary' || {
     echo "FAIL: ${label}: relay-error-boundary present (CleverScript runtime error)" >&2
@@ -53,9 +51,47 @@ check_page() {
     echo "FAIL: ${label}: LiveChat origin property throw leaked into HTML" >&2
     exit 1
   }
+}
 
+# Plain pages: no shell auto-chat slot; LiveChat host only via <ChatRoom />.
+check_plain_page() {
+  local label="$1"
+  local url="$2"
+  local body
+  body="$(fetch_body "$url")" || {
+    echo "FAIL: ${label}: curl failed for ${url}" >&2
+    exit 1
+  }
+  check_no_runtime_error "$label" "$body"
+  forbid "$body" 'pt-live-chat-slot' || {
+    echo "FAIL: ${label}: unexpected pt-live-chat-slot (shell auto-chat should be removed)" >&2
+    exit 1
+  }
+}
+
+check_chatroom_page() {
+  local label="$1"
+  local url="$2"
+  local body
+  body="$(fetch_body "$url")" || {
+    echo "FAIL: ${label}: curl failed for ${url}" >&2
+    exit 1
+  }
+  check_no_runtime_error "$label" "$body"
+  forbid "$body" 'pt-live-chat-slot' || {
+    echo "FAIL: ${label}: unexpected pt-live-chat-slot" >&2
+    exit 1
+  }
+  has "$body" 'pt-chatroom-live' || {
+    echo "FAIL: ${label}: missing pt-chatroom-live wrapper from <ChatRoom />" >&2
+    exit 1
+  }
   has "$body" 'fb-live-chat-host' || has "$body" 'data-relay-park-native="fb-live-chat"' || has "$body" "data-relay-park-native='fb-live-chat'" || {
-    echo "FAIL: ${label}: missing LiveChat host marker (fb-live-chat-host / data-relay-park-native)" >&2
+    echo "FAIL: ${label}: missing LiveChat host marker on ChatRoom page" >&2
+    exit 1
+  }
+  has "$body" 'data-channel="pt-nukes"' || has "$body" "data-channel='pt-nukes'" || {
+    echo "FAIL: ${label}: expected data-channel=pt-nukes from <ChatRoom channel=\"nukes\" />" >&2
     exit 1
   }
 }
@@ -116,7 +152,8 @@ has "$body" '#e2e8f0' || has "$body" 'dirFg' || {
   exit 1
 }
 
-check_page "home" "$HOME_URL"
-check_page "article" "$ARTICLE_URL"
+check_plain_page "home" "$HOME_URL"
+check_plain_page "article" "$ARTICLE_URL"
+check_chatroom_page "chatroom" "$CHATROOM_URL"
 
-echo "OK: SSR smoke passed for Host=${HOST} (home + article LiveChat / no error boundary)"
+echo "OK: SSR smoke passed for Host=${HOST} (plain pages no slot + ChatRoom LiveChat / no error boundary)"

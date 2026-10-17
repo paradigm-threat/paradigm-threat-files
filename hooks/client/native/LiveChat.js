@@ -12,6 +12,7 @@ export default function LiveChat(props) {
   const path = propStr(p, 'path', '/')
   const mode = propStr(p, 'mode', 'embed')
   const prefix = propStr(p, 'prefix', '')
+  const title = propStr(p, 'title', '')
   let origin = propStr(p, 'origin', '')
   if (origin.length === 0) {
     origin = propStr(p, 'chatOrigin', '')
@@ -24,6 +25,7 @@ export default function LiveChat(props) {
       data-mode={mode}
       data-channel={channel}
       data-prefix={prefix}
+      data-title={title}
       data-chat-origin={origin}
     />
   )

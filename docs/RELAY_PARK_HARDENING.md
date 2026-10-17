@@ -22,7 +22,7 @@ Run **before** fleet tip push. Catches CleverScript missing-prop throws (LiveCha
 ./scripts/park-local.sh serve   # http://127.0.0.1:9080  (other terminal)
 
 # from this repo (or park-local smoke, which also runs hydrate)
-npm run park:smoke              # SSR markers: LiveChat host, no error boundary, wrap/contrast tokens
+npm run park:smoke              # SSR: plain pages no chat slot; ChatRoom page has LiveChat; wrap/contrast tokens
 npm run park:hydrate-smoke      # system Chrome via playwright-core: chat mount + Directory wrap
 # equivalent: ./scripts/park-local.sh smoke   # SSR + hydrate together
 ```
@@ -32,7 +32,7 @@ npm run park:hydrate-smoke      # system Chrome via playwright-core: chat mount 
 | Tip lint (pre-commit) | `npm run check-unsafe-cs-props` | Bare `props.origin` / stub member reads / `=== undefined` |
 | Layer-1 CS | `park-local.sh unit` → `livechat_stubs` | LiveChat/ChatApp mount without optional props |
 | Layer-2 SSR | `npm run park:smoke` | Missing chat host, error-boundary HTML, wrap/contrast CSS tokens |
-| Layer-3 hydrate | `npm run park:hydrate-smoke` | Post-hydrate error banner, LiveChat DOM, Directory `white-space` / `overflow-wrap` |
+| Layer-3 hydrate | `npm run park:hydrate-smoke` | Post-hydrate: Directory wrap on plain article; ChatRoom LiveChat on tagged URL |
 
 Do **not** use Playwright for DirNav expand / Home clicks — those stay in `invoke_handler` cargo tests.
 

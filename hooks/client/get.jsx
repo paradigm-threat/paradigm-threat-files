@@ -123,7 +123,7 @@ export default function ParadigmFilesRelayRoot() {
     page = <ArticleView currentPath={route} filePath={articleFilePath(route)} />
   }
 
-  // LiveChat embed lives in SiteChrome (pt-live-chat-slot) so it stays in-layout.
+  // LiveChat embeds via markdown <ChatRoom /> (ChatRoomLive); /chat uses ChatApp.
   return (
     <BootShell>
       <StyleContext src="hooks/client/theme.yaml" fullScreen={isCsrHost() !== true}>

@@ -6,7 +6,7 @@
 
 **Agent hub:** [`AGENTS.md`](../AGENTS.md) § Site chat
 
-*Last updated: 2026-10-14*
+*Last updated: 2026-10-17*
 
 ---
 
@@ -27,8 +27,9 @@
 
 | Item | Value |
 |------|--------|
-| UI | https://paradigmthreat.net/chat (park `ChatApp` / article `LiveChat`) |
-| Prefix | `pt` — lobby `#pt`, topics `#pt-<topic>`, pages `#pt-page-*`, docs `#pt-doc-*`, ops `#logs-pt` |
+| UI | https://paradigmthreat.net/chat (park `ChatApp`); in-article embeds via markdown only |
+| Prefix | `pt` — lobby `#pt`, topics `#pt-<topic>`, ops `#logs-pt` |
+| Embeds | Opt-in markdown `<ChatRoom channel="…" />` → `ChatRoomLive` → LiveChat on `#pt-<topic>` (no shell auto-chat / no per-page `#pt-page-*` / `#pt-doc-*`) |
 | History API | `GET https://paradigmthreat.net/chat/api/history?channel=pt-general&limit=50` |
 | Durable store | JSONL on **iad1**: `/opt/relay/chat/logs/<channel>/<YYYY-MM-DD>.jsonl` |
 | IRC | `flashbackrepository.org:6697` (TLS) — same Ergo mesh |
@@ -42,7 +43,11 @@
 | `nukes`, `hollow-earth`, … | `#pt-nukes`, `#pt-hollow-earth`, … |
 | `governance/usury` | `#pt-governance-usury` |
 
-Markdown `<ChatRoom channel="nukes"/>` on the park renders LiveChat on `#pt-nukes`.
+```md
+<ChatRoom channel="nukes" title="Nuclear Weapons Chatroom"/>
+```
+
+On the park tip this renders LiveChat on `#pt-nukes`. Pages without a `<ChatRoom />` tag have no chat embed.
 
 ### Archive only (do not write)
 

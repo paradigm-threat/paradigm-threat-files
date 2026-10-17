@@ -44,6 +44,7 @@ import DeferredMarkdown, {
 import PopImage from 'hooks/client/components/PopImage.jsx'
 import EmbedFile from 'hooks/client/components/EmbedFile.jsx'
 import ChatRoomLive from 'hooks/client/components/ChatRoomLive.jsx'
+import { propStr } from 'hooks/client/propOr.jsx'
 import manifest from '@hooks'
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
@@ -55,7 +56,13 @@ function EmptyMdStub() {
 }
 
 function renderChatRoom(p) {
-  return <ChatRoomLive channel={p && p.channel} title={p && p.title} mode={p && p.mode} />
+  return (
+    <ChatRoomLive
+      channel={propStr(p, 'channel', '')}
+      title={propStr(p, 'title', '')}
+      mode={propStr(p, 'mode', 'embed')}
+    />
+  )
 }
 
 /** Module-level so override identity stays stable across parent re-renders (avoids remounting ChangeLog). */

@@ -6,9 +6,8 @@
  * Uses system Chrome via playwright-core (no browser download).
  *
  * Asserts after hydrate:
- * - no .relay-error-boundary
- * - LiveChat host present
- * - Directory file link wraps (white-space !== nowrap, overflow-wrap anywhere/break-word)
+ * - plain article: no .relay-error-boundary, no shell chat slot, Directory wrap
+ * - ChatRoom page: LiveChat host inside .pt-chatroom-live with topic channel
  */
 import { chromium } from 'playwright-core'
 
@@ -17,12 +16,15 @@ const PORT = process.env.SSR_SMOKE_PORT || '9080'
 const ARTICLE =
   process.env.SSR_SMOKE_ARTICLE ||
   '/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation.md'
-// Navigate by park hostname; Chrome maps it to loopback (Host header stays correct).
-const URL = `http://${HOST}:${PORT}${ARTICLE}`
+const CHATROOM =
+  process.env.SSR_SMOKE_CHATROOM || '/science/nukes/chat_nukes.md'
 const TIMEOUT_MS = Number(process.env.PARK_HYDRATE_TIMEOUT_MS || 45000)
 
+function pageUrl(path) {
+  return `http://${HOST}:${PORT}${path}`
+}
+
 async function main() {
-  // Gateway must be up
   try {
     const cfg = await fetch(`http://127.0.0.1:${PORT}/api/config`, {
       method: 'POST',
@@ -43,9 +45,10 @@ async function main() {
   })
   const page = await browser.newPage()
   try {
-    await page.goto(URL, { waitUntil: 'domcontentloaded', timeout: TIMEOUT_MS })
+    // --- Plain article: Directory hydrate, no auto chat ---
+    const articleUrl = pageUrl(ARTICLE)
+    await page.goto(articleUrl, { waitUntil: 'domcontentloaded', timeout: TIMEOUT_MS })
 
-    // Wait for DirNav nodes + LiveChat (ignore hidden CSS-marker spans).
     await page.waitForFunction(
       () => {
         const err = document.querySelector('.relay-error-boundary')
@@ -55,22 +58,21 @@ async function main() {
         if (err && (err.textContent || '').indexOf('FolderBranch') >= 0) {
           return 'error:' + (err.textContent || '').slice(0, 200)
         }
-        const chat = document.querySelector(
-          '.pt-live-chat-slot .fb-live-chat-host, .pt-live-chat-slot .fb-live-chat, .pt-live-chat-slot [data-relay-park-native="fb-live-chat"]',
-        )
         const nodes = document.querySelectorAll('[data-pt-dir-node]')
-        if (chat && nodes.length > 0) return 'ok'
+        if (nodes.length > 0) return 'ok'
         return null
       },
       { timeout: TIMEOUT_MS },
     )
 
-    const result = await page.evaluate(() => {
+    const plain = await page.evaluate(() => {
       const err = document.querySelector('.relay-error-boundary')
+      const slot = document.querySelector('.pt-live-chat-slot')
+      // Ignore hidden CSS-marker spans that ship used-class tokens.
+      const chatroom = document.querySelector('.pt-chatroom-live:not([hidden])')
       const chat = document.querySelector(
-        '.fb-live-chat-host, [data-relay-park-native="fb-live-chat"], .fb-live-chat',
+        '[data-relay-park-native="fb-live-chat"], .fb-live-chat:not([hidden])',
       )
-      const chatSlot = document.querySelector('.pt-live-chat-slot')
       const link =
         document.querySelector('.pt-dir-file-active .pt-dir-file-link') ||
         document.querySelector('.pt-dir-file-link')
@@ -79,14 +81,11 @@ async function main() {
         (el) => (el.textContent || '').trim(),
       )
       const emptyFolders = folderNames.filter((t) => t.length === 0).length
-      const chatBox = chat ? chat.getBoundingClientRect() : null
       return {
         errorBoundary: err ? (err.textContent || '').trim().slice(0, 300) : null,
+        hasSlot: !!slot,
+        hasChatroom: !!chatroom,
         hasChat: !!chat,
-        hasChatSlot: !!chatSlot,
-        chatInSlot: !!(chat && chat.closest && chat.closest('.pt-live-chat-slot')),
-        chatHeight: chatBox ? chatBox.height : 0,
-        chatChannel: chat && chat.getAttribute('data-channel'),
         folderCount: folderNames.length,
         emptyFolders,
         sampleFolders: folderNames.filter((t) => t.length > 0).slice(0, 6),
@@ -99,58 +98,101 @@ async function main() {
               truncatedVisually: link.scrollWidth > link.clientWidth + 2,
             }
           : null,
-        hydrated: document.documentElement.getAttribute('data-pt-hydrated'),
       }
     })
 
-    if (result.errorBoundary) {
-      console.error('FAIL: relay-error-boundary present:', result.errorBoundary)
+    if (plain.errorBoundary) {
+      console.error('FAIL: relay-error-boundary present:', plain.errorBoundary)
       process.exit(1)
     }
-    if (!result.hasChat) {
-      console.error('FAIL: LiveChat host missing after hydrate', result)
+    if (plain.hasSlot) {
+      console.error('FAIL: plain article still has .pt-live-chat-slot', plain)
       process.exit(1)
     }
-    if (!result.hasChatSlot || !result.chatInSlot) {
-      console.error('FAIL: LiveChat not inside .pt-live-chat-slot', result)
+    if (plain.hasChat || plain.hasChatroom) {
+      console.error('FAIL: plain article unexpectedly embeds LiveChat/ChatRoom', plain)
       process.exit(1)
     }
-    if (result.chatHeight < 80) {
-      console.error('FAIL: LiveChat panel too short (collapsed line)', result)
-      process.exit(1)
-    }
-    if (result.folderCount > 0 && result.emptyFolders > 0) {
+    if (plain.folderCount > 0 && plain.emptyFolders > 0) {
       console.error(
-        `FAIL: ${result.emptyFolders}/${result.folderCount} Directory folder labels blank`,
-        result.sampleFolders,
+        `FAIL: ${plain.emptyFolders}/${plain.folderCount} Directory folder labels blank`,
+        plain.sampleFolders,
       )
       process.exit(1)
     }
-    if (!result.fileLink) {
-      console.error(
-        'WARN: no .pt-dir-file-link yet (DirNav hydrate may still be loading) — chat OK',
-      )
+    if (!plain.fileLink) {
+      console.error('WARN: no .pt-dir-file-link yet (DirNav hydrate may still be loading)')
     } else {
-      const fl = result.fileLink
+      const fl = plain.fileLink
       if (fl.whiteSpace === 'nowrap') {
         console.error('FAIL: Directory file link white-space is nowrap (truncate regression)', fl)
         process.exit(1)
       }
-      const wrapOk =
-        fl.overflowWrap === 'anywhere' || fl.overflowWrap === 'break-word'
+      const wrapOk = fl.overflowWrap === 'anywhere' || fl.overflowWrap === 'break-word'
       if (fl.whiteSpace !== 'normal' && !wrapOk) {
         console.error('FAIL: Directory file link not wrapping', fl)
-        process.exit(1)
-      }
-      if (fl.truncatedVisually && fl.whiteSpace === 'nowrap') {
-        console.error('FAIL: Directory file link visually truncated', fl)
         process.exit(1)
       }
       console.log('OK: Directory file link wrap', fl.whiteSpace, fl.overflowWrap)
     }
 
+    // --- ChatRoom page: in-article LiveChat ---
+    const chatUrl = pageUrl(CHATROOM)
+    await page.goto(chatUrl, { waitUntil: 'domcontentloaded', timeout: TIMEOUT_MS })
+
+    await page.waitForFunction(
+      () => {
+        const err = document.querySelector('.relay-error-boundary')
+        if (err && (err.textContent || '').indexOf('ChatRoom') >= 0) {
+          return 'error:' + (err.textContent || '').slice(0, 200)
+        }
+        const wrap = document.querySelector('.pt-chatroom-live')
+        const chat = document.querySelector(
+          '.pt-chatroom-live .fb-live-chat-host, .pt-chatroom-live [data-relay-park-native="fb-live-chat"], .pt-chatroom-live .fb-live-chat',
+        )
+        if (wrap && chat) return 'ok'
+        return null
+      },
+      { timeout: TIMEOUT_MS },
+    )
+
+    const tagged = await page.evaluate(() => {
+      const err = document.querySelector('.relay-error-boundary')
+      const wrap = document.querySelector('.pt-chatroom-live')
+      const chat = document.querySelector(
+        '.pt-chatroom-live .fb-live-chat-host, .pt-chatroom-live [data-relay-park-native="fb-live-chat"], .pt-chatroom-live .fb-live-chat',
+      )
+      const host = document.querySelector('.pt-chatroom-live [data-relay-park-native="fb-live-chat"]')
+      const chatBox = chat ? chat.getBoundingClientRect() : null
+      return {
+        errorBoundary: err ? (err.textContent || '').trim().slice(0, 300) : null,
+        hasWrap: !!wrap,
+        hasChat: !!chat,
+        chatInRoom: !!(chat && chat.closest && chat.closest('.pt-chatroom-live')),
+        chatHeight: chatBox ? chatBox.height : 0,
+        dataChannel: host && host.getAttribute('data-channel'),
+      }
+    })
+
+    if (tagged.errorBoundary) {
+      console.error('FAIL: ChatRoom page error boundary:', tagged.errorBoundary)
+      process.exit(1)
+    }
+    if (!tagged.hasWrap || !tagged.hasChat || !tagged.chatInRoom) {
+      console.error('FAIL: ChatRoom LiveChat missing inside .pt-chatroom-live', tagged)
+      process.exit(1)
+    }
+    if (tagged.dataChannel !== 'pt-nukes') {
+      console.error('FAIL: expected data-channel=pt-nukes', tagged)
+      process.exit(1)
+    }
+    if (tagged.chatHeight < 80) {
+      console.error('FAIL: ChatRoom LiveChat panel too short (collapsed line)', tagged)
+      process.exit(1)
+    }
+
     console.log(
-      `OK: park hydrate smoke — LiveChat present, no error boundary (Host=${HOST} ${URL})`,
+      `OK: park hydrate smoke — DirNav on plain article, ChatRoom LiveChat on ${CHATROOM} (Host=${HOST})`,
     )
   } finally {
     await browser.close()

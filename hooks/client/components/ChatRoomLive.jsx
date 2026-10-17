@@ -78,9 +78,13 @@ export function meshChannelFromChatRoom(channelProp) {
 export default function ChatRoomLive(props) {
   const p = props || {}
   const channel = meshChannelFromChatRoom(propStr(p, 'channel', ''))
+  const title = propStr(p, 'title', '')
+  let mode = propStr(p, 'mode', 'embed')
+  if (!mode) mode = 'embed'
+  const headTitle = title || 'Live chat'
   return (
-    <div className="pt-chatroom-live">
-      <LiveChat prefix="pt" channel={channel} path="/" mode="embed" />
+    <div className="pt-chatroom-live" aria-label={title || 'Chat room #' + channel}>
+      <LiveChat prefix="pt" channel={channel} path="/" mode={mode} title={headTitle} />
     </div>
   )
 }
