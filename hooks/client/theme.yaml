@@ -1628,7 +1628,7 @@ themes:
         flexDirection: "column"
       ".pt-dir-row":
         display: "flex"
-        alignItems: "center"
+        alignItems: "flex-start"
         gap: "0.125rem"
         minWidth: 0
         borderRadius: "0.5rem"
@@ -1678,7 +1678,7 @@ themes:
         flex: 1
         minWidth: 0
         display: "flex"
-        alignItems: "center"
+        alignItems: "flex-start"
         justifyContent: "space-between"
         gap: "0.5rem"
         paddingTop: "0.375rem"
@@ -1688,14 +1688,17 @@ themes:
         color: "inherit"
         textDecoration: "none"
       ".pt-dir-folder-name":
-        overflow: "hidden"
-        textOverflow: "ellipsis"
-        whiteSpace: "nowrap"
+        overflow: "visible"
+        textOverflow: "clip"
+        whiteSpace: "normal"
+        overflowWrap: "anywhere"
+        wordBreak: "break-word"
       ".pt-dir-count":
         fontSize: "0.625rem"
         color: "var(dirFgMuted)"
         fontWeight: "400"
         flexShrink: 0
+        paddingTop: "0.125rem"
       ".pt-dir-kids":
         display: "none"
         flexDirection: "column"
@@ -1704,7 +1707,7 @@ themes:
         flexDirection: "column"
       ".pt-dir-file":
         display: "flex"
-        alignItems: "center"
+        alignItems: "flex-start"
         gap: "0.125rem"
         minWidth: 0
         borderRadius: "0.5rem"
@@ -1726,15 +1729,18 @@ themes:
         justifyContent: "center"
         color: "inherit"
         opacity: 1
+        paddingTop: "0.25rem"
       ".pt-dir-file-link":
         flex: 1
         minWidth: 0
         paddingTop: "0.25rem"
         paddingBottom: "0.25rem"
         paddingRight: "0.5rem"
-        overflow: "hidden"
-        textOverflow: "ellipsis"
-        whiteSpace: "nowrap"
+        overflow: "visible"
+        textOverflow: "clip"
+        whiteSpace: "normal"
+        overflowWrap: "anywhere"
+        wordBreak: "break-word"
         color: "inherit"
         textDecoration: "none"
       ".pt-dir-showall":
