@@ -1,36 +1,20 @@
 /**
  * CleverScript stub — div[data-relay-park-native=fb-live-chat].
  * Quoted object keys / spreads are not CleverScript-safe; use JSX attrs.
+ * Optional props via propStr — CleverScript throws on missing keys.
  */
 import React from 'react'
+import { propStr } from 'hooks/client/propOr.jsx'
 
 export default function LiveChat(props) {
   const p = props || {}
-  let channel = ''
-  if (p.channel !== null && p.channel !== undefined && ('' + p.channel).length > 0) {
-    channel = '' + p.channel
-  }
-  let path = '/'
-  if (p.path !== null && p.path !== undefined && ('' + p.path).length > 0) {
-    path = '' + p.path
-  }
-  let mode = 'embed'
-  if (p.mode !== null && p.mode !== undefined && ('' + p.mode).length > 0) {
-    mode = '' + p.mode
-  }
-  let prefix = ''
-  if (p.prefix !== null && p.prefix !== undefined && ('' + p.prefix).length > 0) {
-    prefix = '' + p.prefix
-  }
-  let origin = ''
-  if (p.origin !== null && p.origin !== undefined && ('' + p.origin).length > 0) {
-    origin = '' + p.origin
-  } else if (
-    p.chatOrigin !== null &&
-    p.chatOrigin !== undefined &&
-    ('' + p.chatOrigin).length > 0
-  ) {
-    origin = '' + p.chatOrigin
+  const channel = propStr(p, 'channel', '')
+  const path = propStr(p, 'path', '/')
+  const mode = propStr(p, 'mode', 'embed')
+  const prefix = propStr(p, 'prefix', '')
+  let origin = propStr(p, 'origin', '')
+  if (origin.length === 0) {
+    origin = propStr(p, 'chatOrigin', '')
   }
   return (
     <div

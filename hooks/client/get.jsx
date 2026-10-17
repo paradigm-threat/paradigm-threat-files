@@ -143,7 +143,7 @@ export default function ParadigmFilesRelayRoot() {
         {!isChat ? (
           <LiveChat
             prefix="pt"
-            channel={chatChannel || undefined}
+            channel={chatChannel}
             path={route || '/'}
             mode="embed"
           />

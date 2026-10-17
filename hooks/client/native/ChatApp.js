@@ -1,14 +1,13 @@
 /**
  * CleverScript stub — div[data-relay-park-native=fb-chat-app].
+ * Optional props via propStr — CleverScript throws on missing keys.
  */
 import React from 'react'
+import { propStr } from 'hooks/client/propOr.jsx'
 
 export default function ChatApp(props) {
   const p = props || {}
-  let channel = 'pt'
-  if (p.channel !== null && p.channel !== undefined && ('' + p.channel).length > 0) {
-    channel = '' + p.channel
-  }
+  const channel = propStr(p, 'channel', 'pt')
   return (
     <div
       className="fb-chat-app-host"
