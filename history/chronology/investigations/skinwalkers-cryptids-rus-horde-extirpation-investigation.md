@@ -268,6 +268,7 @@ This irony is recorded as a **cultural observation** about iconography, expectat
 | Myth fauna → extirpation → myth capture  | [/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md](/history/chronology/investigations/myth-creatures-textual-record-human-extirpation-investigation.md)           |
 | Hollow Earth as refuge model             | [/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md](/cosmos/cosmology/hollow_earth/hollow-earth-investigation.md)                                                                                         |
 | Thompson bar-scene (blood/pineal motif)  | [/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md) |
+| Hesse / *Steppenwolf* Jung ware refile (**AU-070**) | [/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation.md](/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation.md) — ware literature + “in the head” refile; **no** shared symptom list |
 | Rus–Horde word-bias / memory replacement | [/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md)                                       |
 
 

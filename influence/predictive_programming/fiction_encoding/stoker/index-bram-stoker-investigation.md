@@ -171,6 +171,7 @@ The Count claims:
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) — Consolidated catalog of SF/fantasy authors who used this technique
 - [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md) — cosmic horror / vampire-adjacent
 - [Dracula index](index-dracula.md) — Beast/blood transformation, adrenochrome-style motifs, Renfield life-eating; cross-read with Moreau, Thompson
+- [Hesse / *Steppenwolf* Jung ware refile (**AU-070**)](../hesse/hesse-steppenwolf-jung-ware-refile-investigation.md) — Opposite preface move: “mostly *Dichtung*” / wolf demoted to psyche; ware literature cross-test
 - [Thompson managed disclosure](../thompson/thompson-managed-disclosure-investigation.md) — Parallel: fiction encoding real events
 - [Island of Dr. Moreau](../wells/index-island-of-dr-moreau.md) — Gland/blood vs. surgery; dissection; cross-read with Dracula, Thompson
 - [Investigations index](../../index.md)

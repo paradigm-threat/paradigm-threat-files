@@ -115,6 +115,7 @@ Among **major** zombie works (Seabrook, Lovecraft, Romero, Brooks, Davis, Whiteh
 - [Virus media PP — evolution, genome causality, zombie etiology (screen canon)](/science/health/investigations/virus-media-predictive-programming-genome-zombie-etiology-investigation.md) — virus-zombie vs *Life Force* / Trioxin / voodoo; *Resident Evil*, *Contagion*
 - [Fiction presented as fact](../fiction-presented-as-fact-investigation.md) — Consolidated catalog of authors who presented fiction as fact
 - [Bram Stoker investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)
+- [Hesse / *Steppenwolf* Jung ware refile (**AU-070**)](/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation.md) — 1927 “in the head” refile specimen; ware vs undead literature lanes
 - [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md)
 - [Fiction encoding index](../index.md)
 

@@ -122,6 +122,7 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | **Fiction presented as fact** | [fiction-presented-as-fact-investigation.md](fiction_encoding/fiction-presented-as-fact-investigation.md) | 12+ authors who used documentary framing without fiction disclaimer |
 | **Compromised court cases** | [compromised-court-cases-declared-reality-investigation.md](fiction_encoding/compromised-court-cases-declared-reality-investigation.md) | Deeks v Wells, Doyle's *Lost World*; court outcomes as steering mechanism |
 | **Bram Stoker / Dracula** | [stoker/](fiction_encoding/stoker/) | "History may stand forth as simple fact"; Eastern European sources |
+| **Hermann Hesse / Steppenwolf** | [hesse/](fiction_encoding/hesse/) | **Major find: 1926–27 timeline** (SF shelf → divorce → book); Jung “in the head” refile; ware literature (**AU-070**) |
 | **Mary Shelley / Frankenstein** | [shelley/](fiction_encoding/shelley/) | Original author indeterminate; evidence points to real story |
 | **H.G. Wells** | [wells/](fiction_encoding/wells/) | *Island of Dr. Moreau* (gland/blood); plagiarism; Mars inversion; likely compromised |
 | **Hunter S. Thompson** | [thompson/](fiction_encoding/thompson/) | Pineal gland, adrenochrome; bar-scene managed disclosure |

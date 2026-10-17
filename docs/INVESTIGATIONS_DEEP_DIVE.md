@@ -140,6 +140,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation (speculative): Fomenko’s Andronicus-Christ, *The Princess Bride*, and “Colossus” dialogue](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
 - [Mary Shelley — Frankenstein as Potential True Story: Investigation](/influence/predictive_programming/fiction_encoding/shelley/shelley-frankenstein-true-story-investigation.md)
 - [Bram Stoker — Investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md)
+- [Hermann Hesse / *Steppenwolf* — Jungian ware refile (**AU-070**, Open)](/influence/predictive_programming/fiction_encoding/hesse/hesse-steppenwolf-jung-ware-refile-investigation.md) — **Major find: 1926–27 timeline** (*Amazing Stories* → divorce → book); Lang/Jung “in the head” rewrite; ware literature; suicide deadline as message
 - [Investigation: Hunter S. Thompson — Satan-Worshipper Bar Story as Potential Managed Disclosure](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md)
 - [Investigation: The Urantia Book (1955) -- Controlled Opposition and Predictive Programming (Open)](/influence/predictive_programming/fiction_encoding/urantia/index-urantia-book-investigation.md)
 - [White vs Excalibur: Sulphur + Mercury — Book vs Movie, Managed Disclosure?](/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md)

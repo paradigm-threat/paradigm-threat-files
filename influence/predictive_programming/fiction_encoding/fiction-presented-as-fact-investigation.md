@@ -44,6 +44,7 @@
 
 | Author | Work | Year | Notes |
 |--------|------|------|-------|
+| **Hermann Hesse** | *Steppenwolf* | 1927 | Found “records” frame — but editor says experiences are **mostly *Dichtung*** / fictitious (soul-events in visible dress); Treatise and Magic Theater demote wolf-body reading. **Author lane (AU-070):** Jungian “in the head” **refile** of ware-class reality, not Stoker-grade fact claim. [Investigation](hesse/hesse-steppenwolf-jung-ware-refile-investigation.md). |
 | **Max Brooks** | *World War Z* | 2006 | Oral history, UN Postwar Commission; mimics documentary—but **has legal disclaimer** ("any resemblance... purely coincidental"). |
 | **Max Brooks** | *The Zombie Survival Guide* | 2003 | Survival manual as if real; "never breaks character"—but marketed as parody/satire. |
 | **Mary Shelley** | *Frankenstein* | 1818 | Grounds tale in 1816 Geneva; scientific credibility—but **explicitly** states she does not accord "serious faith" to the premise. **Not in catalog.** **Conclusion:** Original author indeterminate; Mary campaigned to claim it as her fiction; evidence points to real story. [Investigation](shelley/shelley-frankenstein-true-story-investigation.md). |
@@ -80,6 +81,7 @@
 - *(Fiction-as-fact full-text archive: local wget)*
 - [Bram Stoker investigation](stoker/index-bram-stoker-investigation.md) | [Dracula index](stoker/index-dracula.md) — Book as fact, realistic physics, reasons to disbelieve
 - [Mary Shelley Frankenstein true-story](shelley/shelley-frankenstein-true-story-investigation.md) — What Shelley states; internal vs. external framing; locations; Aldini galvanism
+- [Hesse / *Steppenwolf* Jung ware refile (**AU-070**)](hesse/hesse-steppenwolf-jung-ware-refile-investigation.md) — Inverse of Stoker: demotion to psyche / *Dichtung*
 - [Zombie genre investigation](zombies/index-zombie-genre-investigation.md)
 - [Lovecraft index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md) — related horror/fact framing
 - [Investigations index](../index.md)
