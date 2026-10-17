@@ -1,10 +1,12 @@
 /**
- * Full-page mesh chat lobby (#pt) for /chat.
+ * Full-page mesh chat lobby (#pt-general) for /chat.
  * CleverScript-safe (no regex character-class negation).
  */
 import React from 'react'
 import ChatApp from 'hooks/client/native/ChatApp.js'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
+
+const DEFAULT_LOBBY = 'pt-general'
 
 function chatChannelFromLocation(fallback) {
   try {
@@ -41,7 +43,7 @@ function chatChannelFromLocation(fallback) {
 }
 
 export default function ChatPage() {
-  const channel = chatChannelFromLocation('pt')
+  const channel = chatChannelFromLocation(DEFAULT_LOBBY)
   return (
     <main className="pt-main pt-chat-page">
       <article className="pt-article">
@@ -51,7 +53,7 @@ export default function ChatPage() {
         <h1>Chat</h1>
         <p className="pt-muted">
           {
-            'Live lobby and topic channels (imported history + mesh IRC). Pick a nick and join #pt or a #pt-* room.'
+            'Live lobby and topic channels (imported history + mesh IRC). Default room is #pt-general; pick any #pt-* topic.'
           }
         </p>
         <ChatApp channel={channel} />

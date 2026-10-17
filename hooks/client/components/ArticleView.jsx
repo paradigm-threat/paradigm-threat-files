@@ -48,7 +48,7 @@ import { propStr } from 'hooks/client/propOr.jsx'
 import manifest from '@hooks'
 
 /** Tip CDN bust — bump when ASCII-safe content must pierce max-age=3600. */
-const MD_CACHE_BUST = 'ptmd14'
+const MD_CACHE_BUST = 'ptmd15'
 
 /** Stub for markdown tags not yet implemented (module-level for CleverScript scope). */
 function EmptyMdStub() {

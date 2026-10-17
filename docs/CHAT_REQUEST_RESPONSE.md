@@ -29,7 +29,7 @@
 |------|--------|
 | UI | https://paradigmthreat.net/chat (park `ChatApp`); in-article embeds via markdown only |
 | Prefix | `pt` — lobby `#pt`, topics `#pt-<topic>`, ops `#logs-pt` |
-| Embeds | Opt-in markdown `<ChatRoom channel="…" />` → LiveChat on `#pt-<topic>` on park (`ChatRoomLive`) and on the Vercel archive (`old.paradigmthreat.net`, loads park hosts). No shell auto-chat / no per-page `#pt-page-*` / `#pt-doc-*` |
+| Embeds | Opt-in markdown `<ChatRoom channel="…" />` → LiveChat on `#pt-<topic>` on park (`ChatRoomLive`) and on the Vercel archive (`old.paradigmthreat.net`, loads park hosts). No shell auto-chat. Legacy `#pt-page-*` / `#pt-doc-*` were path-derived shell channels (not imported); general backlog is `#pt-general` only. |
 | History API | `GET https://paradigmthreat.net/chat/api/history?channel=pt-general&limit=50` |
 | Durable store | JSONL on **iad1**: `/opt/relay/chat/logs/<channel>/<YYYY-MM-DD>.jsonl` |
 | IRC | `flashbackrepository.org:6697` (TLS) — same Ergo mesh |

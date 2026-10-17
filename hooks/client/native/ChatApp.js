@@ -7,7 +7,7 @@ import { propStr } from 'hooks/client/propOr.jsx'
 
 export default function ChatApp(props) {
   const p = props || {}
-  const channel = propStr(p, 'channel', 'pt')
+  const channel = propStr(p, 'channel', 'pt-general')
   return (
     <div
       className="fb-chat-app-host"

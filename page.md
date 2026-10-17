@@ -41,3 +41,10 @@ Much of western "conspiracy media" is [controlled opposition](https://caitlinjoh
 Method: assume the solution already exists, then ask how evidence is kept from the public. The most effective hide is **in plain sight** — [Revelation of the Method](https://www.counterpunch.org/2022/04/29/revelation-of-the-method/) and media [predictive programming](https://joyoffaith.com/predictive-programming.html). [Transactional analysis](https://www.simplypsychology.org/transactional-analysis-eric-berne.html) helps name what the viewer is compelled to believe or *not* believe.
 
 <DeferredMarkdown src="page-sections/investigations.md" minHeight="1600px" />
+
+## General Chatroom
+
+Imported community backlog lives on `#pt-general` (not the old per-page `#pt-page-home` shell channel).
+
+<ChatRoom channel="general" title="General Chatroom" />
+
