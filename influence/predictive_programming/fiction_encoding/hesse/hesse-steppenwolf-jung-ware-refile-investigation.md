@@ -2,7 +2,7 @@
 
 ![Jung: it’s in your head / 1927: here’s the certificate — 1926 invent the fiction shelf / 1927 file the wolf as a novel](hesse-steppenwolf-jung-ware-refile-meme.jpg)
 
-> **TL;DR:** **Major find — the timeline is not accidental.** In **one tight window:** Jung/Lang refile of Hesse’s wolf-crisis (**1921**, then Lang dinners **1925–26**) → Gernsback mints the **scientifiction** shelf (***Amazing Stories***, **Apr 1926**) → Ruth files divorce (**Jan 1927**) → ***Der Steppenwolf*** ships (**1927**) as the public “in the head” certificate, with Ball’s official biography for Hesse’s **50th**. **Author thesis (AU-070):** real ware-class condition (symptoms unknown); wolf label from literature; Jungian dismissal; abandonment + suicide-deadline as message; book as **3rd-lie / R3–R6** rewrite. Lodger tropes are **not** disease evidence. Cross-ref [Stoker](../stoker/index-bram-stoker-investigation.md) | [zombie genre](../zombies/index-zombie-genre-investigation.md) | [skinwalkers](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) | [REDACTION](/docs/REDACTION.md) | [Wells genre containment](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md).
+> **TL;DR:** **Major find — the timeline is not accidental.** In **one tight window:** Jung/Lang refile of Hesse’s wolf-crisis (**1921**, then Lang dinners **1925–26**) → Gernsback mints the **scientifiction** shelf (***Amazing Stories***, **Apr 1926**) → Ruth files divorce (**Jan 1927**) → ***Der Steppenwolf*** ships (**1927**) as the public “in the head” certificate, with Ball’s official biography for Hesse’s **50th**. **Author thesis (AU-070):** real ware-class condition (symptoms unknown); wolf label from literature; Jungian dismissal; abandonment + suicide-deadline as message; book as **3rd-lie / R3–R6** rewrite. **Treatise diction:** German **„negerhafte Wolfsmethode“** / Creighton “**niggardly** wolf-theory” + **1870** minstrel *The Niggardly Nigger* = racial/eugenic attack on the wolf claim (**§3.4**). Lodger tropes are **not** disease evidence. Cross-ref [Stoker](../stoker/index-bram-stoker-investigation.md) | [zombie genre](../zombies/index-zombie-genre-investigation.md) | [skinwalkers](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) | [REDACTION](/docs/REDACTION.md) | [Wells genre containment](/influence/predictive_programming/investigations/time-travel-literature-wells-deposit-investigation.md).
 
 **Status:** Open.
 
@@ -15,11 +15,12 @@
 1. **Major find: timeline** → **§2** (start here)
 2. Author thesis → **§1**
 3. What the book does to the wolf → **§3**
-4. Stoker / zombie / skinwalker cross-test → **§4**
-5. Redaction grammar (3rd-lie / SF shelf) → **§5**
-6. Suicide deadline as message → **§6**
-7. Ruth / abandonment under the paperwork → **§6.3**
-8. Open claims + falsifiers → **§7–§9**
+4. **Racial / eugenic attack diction** (*negerhafte* / “niggardly”) → **§3.4**
+5. Stoker / zombie / skinwalker cross-test → **§4**
+6. Redaction grammar (3rd-lie / SF shelf) → **§5**
+7. Suicide deadline as message → **§6**
+8. Ruth / abandonment under the paperwork → **§6.3**
+9. Open claims + falsifiers → **§7–§9**
 
 ---
 
@@ -43,6 +44,8 @@
 
 > create the investigation and capture my theory that jungian influences were trying to convince people that real stuff was 'in their head' and the ended up getting abandoned by everyone and wanting to kill themselves like this author
 
+> i find the term 'niggardly' used here to be extremely revealing. Historical archives document a British minstrel song from 1870 titled "The Niggardly Nigger". It follows that this kind of talk is extremely dim eugenics/racism dogma leaking into an attack on this author
+
 ### 1.2 What they mean (unpack)
 
 | Author stake | Plain sense |
@@ -56,6 +59,7 @@
 | **3rd-lie / in-the-head rewrite** | Book-shaped redaction: real event → published as inner fantasy / neurosis. |
 | **SF category timing** | Mid-1920s minting of a **fiction shelf** that sorts anomalous reports into entertainment — **locked as major find with §2**. |
 | **Timeline not accidental** | Analysis → SF shelf → divorce → *Steppenwolf* in **one consecutive window**; coincidence is the weak default. |
+| **“Niggardly” = revealing** | Treatise diction that attacks the wolf self-label sits in a **racial / eugenic** attack register; Anglophone “niggardly” is not innocent given the **1870** minstrel title *The Niggardly Nigger* and — stronger — the German original’s **negerhafte Wolfsmethode** (§3.4). |
 
 **Label:** **Author** — first-class for this dossier; not automatically factual.
 
@@ -119,13 +123,41 @@ The landlady’s nephew publishes “Harry Haller’s Records.” In the German 
 
 ### 3.2 Treatise: wolf-body reading rejected
 
-The *Treatise on the Steppenwolf* (“Nicht für jedermann”) says Haller went on two legs, wore clothes, and was a human who **believed** he was a wolf of the steppes — then calls the man/wolf split a **“very great simplification,”** says Haller **“lies about himself twice over”** with the “niggardly wolf-theory,” and guesses he has **never carefully watched a real wolf**. “There is, in fact, no way back either to the wolf or to the child.”
+The *Treatise on the Steppenwolf* (“Nicht für jedermann”) says Haller went on two legs, wore clothes, and was a human who **believed** he was a wolf of the steppes — then calls the man/wolf split a **“very great simplification,”** says Haller **“lies about himself twice over,”** and guesses he has **never carefully watched a real wolf**. “There is, in fact, no way back either to the wolf or to the child.”
+
+**English Creighton (1929 / Mileck):** Haller “lies about himself twice over when he employs this **niggardly wolf-theory**.”  
+**German (1927, S. Fischer / PG DE):** Haller **„belügt sich doppelt, wenn er diese negerhafte Wolfsmethode anwendet.“** Same paragraph: he proceeds **„wie ein Wilder, der nicht über zwei hinaus zählen kann.“**
+
+Creighton’s “niggardly” is therefore **not** a neutral “stingy” coinage floating free of the German. It is an Anglophone stand-in for an already **racial** insult aimed at the wolf method. Full stack: **§3.4**.
 
 ### 3.3 Magic Theater: pictures, not realities
 
 Pablo: magic theater is **“a world of pictures, not realities.”** Closing court: Haller guilty of mistaking the picture gallery for reality and of intending the theater as a **suicide mechanism**.
 
 **Investigation read:** Whether or not Hesse intended cover, the **published machine** performs a Jung-compatible refile: wolf-claim → psyche / picture → laughing correction.
+
+### 3.4 Racial / eugenic attack diction — *negerhafte* / “niggardly” (**Documented** + **Author**)
+
+**Author lock:** The Treatise’s “niggardly” (Creighton) is **extremely revealing**. Archives document a British minstrel song from **1870** titled ***The Niggardly Nigger***. That kind of talk is **dim eugenics / racism dogma leaking into an attack** on this author (Haller / Hesse as specimen).
+
+#### Documented chain
+
+| Layer | Text | What it does |
+|-------|------|----------------|
+| **German Treatise (1927)** | **„negerhafte Wolfsmethode“**; Haller acts **„wie ein Wilder, der nicht über zwei hinaus zählen kann“** | Attacks the wolf self-label with **racial + “savage can’t count”** hierarchy language — colonial/eugenic register, not only “inner conflict” psychology. |
+| **Creighton EN (1929)** | “**niggardly** wolf-theory”; “**savage** that cannot count further than two” | Keeps the “savage / can’t count past two” beat; swaps *negerhafte* for **niggardly** (surface sense: meagre / stingy). |
+| **Horrocks EN (2025)** | “**primitive** model of the wolf”; still “**savage**… counting beyond two” | **Erases** the racial adjective entirely; leaves only “primitive.” Later soft cover on the same attack. |
+| **English minstrel archive** | Harry Hunter / Vincent Davies, ***The Niggardly Nigger*** — performed by Black Diamonds Negro Troupe; praised in *The Era* (**Jan 1870** / related notices); Levy Sheet Music (JHU) holds the London sheet | **Documented** Anglophone pairing of **niggardly** with the racial slur as comic minstrel product — decades before Creighton. Wikipedia’s *Controversies about the word niggardly* cites this title as an early play on the sound-alike. |
+
+**Dictionary hedge (not a veto):** Etymologists separate Old Norse *nigla* / *niggard* (miser) from the racial slur. That hedge does **not** erase (a) Hesse’s German **negerhafte**, (b) the Treatise’s **Wilder**/count-to-two animalization of Haller’s method, or (c) the **1870** minstrel title that already welded “niggardly” to racist performance English. Creighton chose a word that sits in that welded cluster while laundering the German for polite shelves.
+
+#### Author read
+
+The Treatise is the book’s official voice for killing the ware/wolf-body reading. It does that job with **racial hierarchy tools**: Neger-class insult + savage-numeracy slur. That is not a random adjective. It is how an era’s **eugenic / colonial ranking of minds** gets poured into a pamphlet that tells the sufferer his outer claim is a lie and a primitive method. Creighton’s “niggardly” keeps the attack audible to English readers who already knew the minstrel rhyme; Horrocks’s “primitive” finishes the clean-up.
+
+**Fit to AU-070:** Jungian / psyche refile and **racial demotion of the wolf-claimant** are the same certificate’s weapons. Ware label → “savage binary” → “negerhafte method” → pictures / cure.
+
+**Cites:** PG DE *Der Steppenwolf* (ebook 75802) Treatise paragraph above; Creighton/Mileck local corpus `~/dev/wget/hesse/` §3; Horrocks 2025 Tract; Levy 017.138; *The Era* minstrel notices (1870); WP *Controversies about the word niggardly* (secondary pointer only).
 
 ---
 
@@ -202,6 +234,7 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 6. **Book as certificate:** *Steppenwolf* is the **published certificate** of the refile (third-lie / R3–R6 class), not proof that nothing real stood behind the wolf name.
 7. **SF-shelf assist:** The mid-1920s invention of the scientifiction category helps lock anomalous reports into fiction quarantine — **same window** as the certificate.
 8. **Suicide date = message:** The fiftieth-birthday ultimatum is interpersonal/political speech, later softened in-text as humor.
+9. **Racial / eugenic Treatise diction:** The attack on the wolf method uses **negerhafte** + “Wilder can’t count” (**Documented** German); Creighton “niggardly” sits in the **1870** minstrel collocation; this is **eugenics/racism dogma** in the certificate that demotes the ware claim (**Author** on intent/leak).
 
 ---
 
@@ -218,12 +251,16 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 | Q7 | Edition chain: any **pre-publication** draft of *Steppenwolf* with stronger documentary / weaker “Dichtung” frame? | Fischer archives; manuscript scholarship |
 | Q8 | Any **1926–27** press that pairs *Amazing Stories* / “scientifiction” discourse with European psychological novels / Hesse? | Period magazines; Fischer publicity |
 | Q9 | Exact **publication month** of *Der Steppenwolf* vs Ruth decree date — how many weeks apart? | First-edition colophon; Basel divorce decree |
+| Q10 | Did Creighton / Holt editors discuss replacing **negerhafte** — memos, style sheets, later expurgations? | Holt/Rinehart archives; Creighton corr. |
+| Q11 | Other 1920s DE→EN literary translations that render *negerhaft* as **niggardly** vs **Negro-like** / omit? | Parallel corpora |
+| Q12 | Full *Era* / Black Diamonds program text for *The Niggardly Nigger* (lyrics, not only title praise) | British Library; Levy high-res; Newspapers.com complete article |
 
 ---
 
 ## 9. Weak points / research TODOs
 
-- [x] Pull Creighton preface / Treatise / Magic Theater quotes into wget corpus (`~/dev/wget/hesse/steppenwolf-1927.md` AU-070 validation). German primary still optional (PG DE).
+- [x] Pull Creighton preface / Treatise / Magic Theater quotes into wget corpus (`~/dev/wget/hesse/steppenwolf-1927.md` AU-070 validation).
+- [x] German Treatise: **negerhafte Wolfsmethode** + Wilder/count-two (PG DE 75802); Creighton “niggardly”; Horrocks “primitive”; 1870 *The Niggardly Nigger* (Levy / *Era*) → **§3.4**.
 - [ ] Ball 1927 biography: exact Lang session citation and how Ball frames neurosis.
 - [ ] Confirm March 1924 attempt primary source (Ruth letter vs later interview).
 - [ ] Cross-walk Calmet / Slavic *vlkodlak* / Stoker Ch.1 *vrolok* into a **ware literature foundation** subsection without importing film tropes.
@@ -248,7 +285,7 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 
 ---
 
-Keywords: #Hesse #Steppenwolf #Jung #Ware #Werewolf #Lycanthropy #Refile #Redaction #Skinwalker #ParadigmThreatFiles #PredictiveProgramming
+Keywords: #Hesse #Steppenwolf #Jung #Ware #Werewolf #Lycanthropy #Refile #Redaction #Skinwalker #Eugenics #Niggardly #ParadigmThreatFiles #PredictiveProgramming
 
 *Last updated: 2026-10-17*
 
@@ -275,5 +312,6 @@ Keywords: #Hesse #Steppenwolf #Jung #Ware #Werewolf #Lycanthropy #Refile #Redact
 - **Local corpus (2026-10-17):** `/home/ari/dev/wget/hesse/` — Creighton/Mileck EPUB+PDF + Horrocks 2025 Penguin; `INDEX.md` · `steppenwolf-1927.md` (frame splits + **AU-070 scan validation**). Prefer Creighton for body quotes; Horrocks for **1941 Author’s Postscript** and Ball/Crisis afterword.
 - **Scan verdict:** published machine confirms frame demotion + Treatise anti-wolf-body + “pictures, not realities” + court; **heavy post-manuscript editorializing is documented** (in-book Treatise/Pablo/Court + **1941** cure/Immortals postscript + EN packaging). Ball letter matches real fiftieth-birthday suicide respite. Pre-publication documentary draft still open (Q7). Horrocks “wife’s mental illness” = Mia lane, not Ruth.
 - Header meme: `hesse-steppenwolf-jung-ware-refile-meme.jpg` — timeline + “PSYCHE ONLY” stamp (AU-070 visual).
+- **§3.4 session:** author flagged Creighton “niggardly”; German check → **negerhafte Wolfsmethode** (stronger than EN); minstrel title *The Niggardly Nigger* (Hunter/Davies; *Era* 1870; Levy 017.138) Documented. Local DE extract: `~/dev/wget/hesse/text/steppenwolf-pg-de-75802.txt`.
 - Do **not** reintroduce sniffing / cage-pacing / night-outing list as disease evidence.
 - Divorce: prefer Michels *Liebes Herz!* and Montagnola chronology over “divorced for insanity” shorthand.
