@@ -157,8 +157,15 @@
                   meta.textContent = '#' + channel + ' · connected';
                 }
                 if (ev.type === 'hello' && ev.nick) {
-                  nickInput.value = ev.nick;
-                  C.setStoredNick(ev.nick);
+                  // Keep session nick; only adopt server pick when we had none.
+                  var preferred = C.getStoredNick();
+                  if (preferred) {
+                    nickInput.value = preferred;
+                    if (preferred !== ev.nick) sock.nick(preferred);
+                  } else {
+                    nickInput.value = ev.nick;
+                    C.setStoredNick(ev.nick);
+                  }
                 }
                 if (ev.type === 'message' && C.normalizeChannel(ev.channel) === channel) {
                   pushMsg(ev);

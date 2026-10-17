@@ -11,7 +11,8 @@
 
   var NICK_KEY = 'relay.chat.nick.v1';
   var MODE_KEY = 'relay.chat.nickMode.v1';
-  // Migrate Flashback localStorage once
+  // Migrate Flashback storage once; nick lives in sessionStorage (tab session)
+  // with localStorage backup so soft-nav / reloads in-session keep the same name.
   try {
     if (!global.localStorage.getItem(NICK_KEY)) {
       var legacy = global.localStorage.getItem('flashback.chat.nick.v1');
@@ -20,6 +21,13 @@
     if (!global.localStorage.getItem(MODE_KEY)) {
       var legacyM = global.localStorage.getItem('flashback.chat.nickMode.v1');
       if (legacyM) global.localStorage.setItem(MODE_KEY, legacyM);
+    }
+    if (
+      global.sessionStorage &&
+      !global.sessionStorage.getItem(NICK_KEY) &&
+      global.localStorage.getItem(NICK_KEY)
+    ) {
+      global.sessionStorage.setItem(NICK_KEY, global.localStorage.getItem(NICK_KEY));
     }
   } catch (_) {}
 
@@ -213,15 +221,21 @@
 
   function getStoredNick() {
     try {
-      var n = global.localStorage.getItem(NICK_KEY);
+      var n =
+        (global.sessionStorage && global.sessionStorage.getItem(NICK_KEY)) ||
+        global.localStorage.getItem(NICK_KEY);
       if (n && n.length >= 2) return n.slice(0, 24);
     } catch (_) {}
     return '';
   }
 
   function setStoredNick(n) {
+    var v = String(n || '').slice(0, 24);
     try {
-      global.localStorage.setItem(NICK_KEY, String(n || '').slice(0, 24));
+      if (global.sessionStorage) global.sessionStorage.setItem(NICK_KEY, v);
+    } catch (_) {}
+    try {
+      global.localStorage.setItem(NICK_KEY, v);
     } catch (_) {}
   }
 
@@ -337,7 +351,14 @@
   function connectChat(opts) {
     var nick = opts.nick;
     var onEvent = opts.onEvent || function () {};
-    var ws = new global.WebSocket(wsUrl());
+    var url = wsUrl();
+    if (nick) {
+      url +=
+        (url.indexOf('?') >= 0 ? '&' : '?') +
+        'nick=' +
+        encodeURIComponent(String(nick).slice(0, 24));
+    }
+    var ws = new global.WebSocket(url);
     var opened = false;
     var queue = [];
 

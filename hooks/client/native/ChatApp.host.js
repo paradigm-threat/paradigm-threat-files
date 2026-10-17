@@ -273,8 +273,14 @@
               state.sock.join(state.channel);
             }
             if (ev.type === 'hello' && ev.nick) {
-              nickInput.value = ev.nick;
-              C.setStoredNick(ev.nick);
+              var preferred = C.getStoredNick();
+              if (preferred) {
+                nickInput.value = preferred;
+                if (preferred !== ev.nick) state.sock.nick(preferred);
+              } else {
+                nickInput.value = ev.nick;
+                C.setStoredNick(ev.nick);
+              }
             }
             if (ev.type === 'message') pushMsg(ev);
             if (ev.type === 'topic' && C.normalizeChannel(ev.channel) === state.channel) {
