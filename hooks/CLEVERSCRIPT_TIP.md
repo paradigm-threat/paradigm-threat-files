@@ -6,7 +6,7 @@ Hard rules for **SSR site-shell** hooks on this repo. Breaking them has taken th
 
 **Component testing:** prove DirNav / Nav / handlers with **vnode + `invoke_handler`** in relay-runtime first (OS smoke second). Canon: [`relay-runtime/docs/CLEVERSCRIPT_COMPONENT_TESTING.md`](../../../relay/relay-runtime/docs/CLEVERSCRIPT_COMPONENT_TESTING.md).
 
-**Local hardening (before fleet push):** `relay-gateway/scripts/park-local.sh` + [`docs/RELAY_PARK_HARDENING.md`](../docs/RELAY_PARK_HARDENING.md).
+**Local hardening (before fleet push):** `relay-gateway/scripts/park-local.sh unit` + `serve` + `smoke` (SSR + hydrate) — see [`docs/RELAY_PARK_HARDENING.md`](../docs/RELAY_PARK_HARDENING.md). Tip pre-commit runs `check-unsafe-cs-props` (no bare `props.origin` / stub member reads).
 
 **Perf strategy catalog** (SSR/hydrate lessons, tip phase gates, `RELAY_PERF_*`): [`relay-runtime/docs/PERF_FEATURE_FLAGS.md`](../../../relay/relay-runtime/docs/PERF_FEATURE_FLAGS.md). Prefer named strategies over deleting alternate paths.
 

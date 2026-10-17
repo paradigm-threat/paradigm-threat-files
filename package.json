@@ -6,10 +6,12 @@
   "scripts": {
     "dev": "serve . -p 3010 --cors",
     "park:smoke": "SSR_SMOKE_PORT=${SSR_SMOKE_PORT:-9080} bash scripts/ssr-smoke.sh",
+    "park:hydrate-smoke": "SSR_SMOKE_PORT=${SSR_SMOKE_PORT:-9080} node scripts/park-hydrate-smoke.mjs",
     "check-keywords": "./.venv/bin/python scripts/check_keywords_format.py",
+    "check-unsafe-cs-props": "node scripts/check-unsafe-cs-props.mjs",
     "validate-site-claims": "node scripts/validate-site-claims.cjs",
     "check-no-ipfs-media-stubs": "bash scripts/check-no-ipfs-media-stubs.sh",
-    "autogen": "npm run check-keywords && npm run validate-site-claims && npm run check-no-ipfs-media-stubs",
+    "autogen": "npm run check-keywords && npm run check-unsafe-cs-props && npm run validate-site-claims && npm run check-no-ipfs-media-stubs",
     "generate-mgga-onepager": "./.venv/bin/python scripts/generate-mgga-onepager.py",
     "exact-change-sim": "node scripts/exact-change-wallet-sim.mjs",
     "check-dead-urls": "node scripts/check-dead-urls.mjs",
@@ -22,6 +24,7 @@
   },
   "devDependencies": {
     "husky": "^9.1.7",
+    "playwright-core": "^1.55.0",
     "serve": "^14.2.5"
   }
 }

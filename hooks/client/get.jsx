@@ -13,7 +13,6 @@ import HomePage from 'hooks/client/components/HomePage.jsx'
 import SearchPage from 'hooks/client/components/SearchPage.jsx'
 import { ensureSearchFormNav } from 'hooks/client/searchFormNav.js'
 import { ensureNavMenu } from 'hooks/client/navMenu.js'
-import LiveChat from 'hooks/client/native/LiveChat.js'
 import ChatPage from 'hooks/client/components/ChatPage.jsx'
 
 function str(v) {
@@ -124,30 +123,11 @@ export default function ParadigmFilesRelayRoot() {
     page = <ArticleView currentPath={route} filePath={articleFilePath(route)} />
   }
 
-  // Mesh chat: prefix pt → #pt / #pt-page-* / #pt-doc-* / #pt-<topic> (RELAY_CHAT.md)
-  let chatChannel = 'pt'
-  if (isChat) {
-    chatChannel = ''
-  } else if (route === '/' || route === '/index.md' || route === '/page.md') {
-    chatChannel = 'pt-page-home'
-  } else if (route === '/articles') {
-    chatChannel = 'pt-page-home'
-  } else if (route !== '/search' && !(typeof route === 'string' && route.indexOf('/search/') === 0)) {
-    chatChannel = ''
-  }
-
+  // LiveChat embed lives in SiteChrome (pt-live-chat-slot) so it stays in-layout.
   return (
     <BootShell>
       <StyleContext src="hooks/client/theme.yaml" fullScreen={isCsrHost() !== true}>
         {page}
-        {!isChat ? (
-          <LiveChat
-            prefix="pt"
-            channel={chatChannel}
-            path={route || '/'}
-            mode="embed"
-          />
-        ) : null}
       </StyleContext>
     </BootShell>
   )

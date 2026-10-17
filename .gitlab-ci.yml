@@ -1,4 +1,25 @@
-# CI/CD disabled — re-enable by restoring the previous .gitlab-ci.yml from git history.
+# Tip lint matrix only — CleverScript layer-1 + park SSR/hydrate stay on park-local
+# (see docs/RELAY_PARK_HARDENING.md). Do not fan out full browser E2E here.
 workflow:
   rules:
-    - when: never
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+default:
+  image: node:22-bookworm
+
+stages:
+  - lint
+
+tip-lint:
+  stage: lint
+  script:
+    # package-lock.json is gitignored in this tip — use install, not ci.
+    - npm install --no-audit --no-fund
+    - npm run check-keywords
+    - npm run check-unsafe-cs-props
+    - npm run validate-site-claims
+    - npm run check-no-ipfs-media-stubs
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

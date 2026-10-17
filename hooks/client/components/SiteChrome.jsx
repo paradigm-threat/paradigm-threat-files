@@ -3,6 +3,7 @@ import Nav from 'hooks/client/components/Nav.jsx'
 import ImageGalleryOverlay from 'hooks/client/components/ImageGalleryOverlay.jsx'
 import ShareOverlay from 'hooks/client/components/ShareOverlay.jsx'
 import ArticleTtsDock from 'hooks/client/components/ArticleTtsDock.jsx'
+import LiveChat from 'hooks/client/native/LiveChat.js'
 import { propStr } from 'hooks/client/propOr.jsx'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 import { Link } from '@relay/ui'
@@ -22,10 +23,18 @@ function FooterLink(props) {
 export default function SiteChrome(props) {
   const currentPath = propStr(props, 'currentPath', '/')
   const children = props.children
+  // Embed mesh chat in the shell (not a loose #root sibling). Host derives
+  // #pt-doc-* / #pt-page-* from path when channel is omitted.
+  const showLiveChat = currentPath !== '/chat' && currentPath.indexOf('/chat/') !== 0
   return (
     <div className="pt-shell">
       <Nav currentPath={currentPath} />
       {children}
+      {showLiveChat ? (
+        <div className="pt-live-chat-slot">
+          <LiveChat prefix="pt" channel="" path={currentPath || '/'} mode="embed" />
+        </div>
+      ) : null}
       <footer className="pt-footer">
         <nav className="pt-footer-nav" aria-label="Site">
           <FooterLink href={siteHref('/search')} label="Search" />
@@ -97,7 +106,7 @@ export default function SiteChrome(props) {
       <span
         aria-hidden="true"
         hidden={true}
-        className="pt-toc lg:pt-toc-lg pt-toc-empty pt-toc-head pt-toc-title pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-h1 pt-toc-sub pt-toc-nested pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-column-main lg:pt-column-main-lg pt-dir-nav lg:pt-dir-nav-lg pt-dir-head pt-dir-title pt-dir-actions pt-dir-action pt-dir-sep pt-dir-tree pt-dir-node pt-dir-row pt-dir-row-active pt-dir-chevron pt-dir-chevron-open pt-dir-chevron-open-on pt-dir-chevron-closed pt-dir-chevron-closed-off pt-dir-chevron-spacer pt-dir-folder-link pt-dir-folder-name pt-dir-count pt-dir-kids pt-dir-kids-open pt-dir-file pt-dir-file-extra pt-dir-file-active pt-dir-file-icon pt-dir-file-link pt-dir-showall pt-dir-showfewer pt-dir-foot pt-feeling-lucky-dir"
+        className="pt-toc lg:pt-toc-lg pt-toc-empty pt-toc-head pt-toc-title pt-toc-list pt-toc-item pt-toc-link pt-toc-link-active pt-toc-h1 pt-toc-sub pt-toc-nested pt-toc-l1 pt-toc-l2 pt-toc-l3 pt-toc-l4 pt-toc-l5 pt-toc-l6 pt-column-main lg:pt-column-main-lg pt-dir-nav lg:pt-dir-nav-lg pt-dir-head pt-dir-title pt-dir-actions pt-dir-action pt-dir-sep pt-dir-tree pt-dir-node pt-dir-row pt-dir-row-active pt-dir-chevron pt-dir-chevron-open pt-dir-chevron-open-on pt-dir-chevron-closed pt-dir-chevron-closed-off pt-dir-chevron-spacer pt-dir-folder-link pt-dir-folder-name pt-dir-count pt-dir-kids pt-dir-kids-open pt-dir-file pt-dir-file-extra pt-dir-file-active pt-dir-file-icon pt-dir-file-link pt-dir-showall pt-dir-showfewer pt-dir-foot pt-feeling-lucky-dir pt-live-chat-slot fb-live-chat-host"
         data-pt-toc-css="true"
         data-pt-dir-css="true"
       />

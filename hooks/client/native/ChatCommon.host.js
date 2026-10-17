@@ -397,7 +397,8 @@
     var st = global.document.createElement('style');
     st.id = 'fb-chat-css';
     st.textContent = [
-      '.fb-live-chat{margin:28px 0 8px;border:1px solid #3a2a1a;background:linear-gradient(165deg,rgba(42,20,24,.92),rgba(13,5,5,.96));color:#f5e6be;border-radius:4px;overflow:hidden}',
+      '.fb-live-chat-host{display:block;width:100%;max-width:100%;box-sizing:border-box;min-height:12rem}',
+      '.fb-live-chat{display:block;width:100%;max-width:100%;box-sizing:border-box;margin:0;border:1px solid #3a2a1a;background:linear-gradient(165deg,rgba(42,20,24,.92),rgba(13,5,5,.96));color:#f5e6be;border-radius:4px;overflow:hidden}',
       '.fb-live-chat-head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:10px 14px;border-bottom:1px solid #3a2a1a;background:rgba(0,0,0,.28)}',
       '.fb-live-chat-title{margin:0;font-size:.95rem;letter-spacing:.06em;text-transform:uppercase;color:#e8c872}',
       '.fb-live-chat-meta{font-size:.8rem;color:#a69788}',

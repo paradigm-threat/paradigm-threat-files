@@ -6,9 +6,11 @@
  */
 import React from 'react'
 import LiveChat from 'hooks/client/native/LiveChat.js'
+import { propStr } from 'hooks/client/propOr.jsx'
 
 function str(v) {
-  if (v === null || v === undefined) return ''
+  if (v === null) return ''
+  if (typeof v === 'undefined') return ''
   if (typeof v === 'string') return v
   return '' + v
 }
@@ -75,7 +77,7 @@ export function meshChannelFromChatRoom(channelProp) {
 
 export default function ChatRoomLive(props) {
   const p = props || {}
-  const channel = meshChannelFromChatRoom(p.channel)
+  const channel = meshChannelFromChatRoom(propStr(p, 'channel', ''))
   return (
     <div className="pt-chatroom-live">
       <LiveChat prefix="pt" channel={channel} path="/" mode="embed" />
