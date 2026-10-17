@@ -31,6 +31,9 @@ themes:
         fontFamily: "ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
         lineHeight: "1.5"
         margin: 0
+        # Chrome out of select-all; article text re-enabled in Nav.jsx navChromeCss
+        userSelect: "none"
+        WebkitUserSelect: "none"
       ".ct-page":
         backgroundColor: "var(bg)"
         color: "var(foreground)"

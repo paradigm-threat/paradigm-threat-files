@@ -40,6 +40,12 @@ function navChromeCss() {
     '.pt-site-nav{position:fixed!important;top:0;left:0;right:0;z-index:100;' +
     '-webkit-backdrop-filter:saturate(180%) blur(12px);backdrop-filter:saturate(180%) blur(12px);}' +
     '.pt-shell{padding-top:7.5rem;box-sizing:border-box;}' +
+    // Select-all / copy: chrome out, article column in (mirrors Vercel globals.scss).
+    'body{user-select:none;-webkit-user-select:none;}' +
+    '.pt-article-body,.pt-article-body *,.pt-md,.pt-md *,.pt-deferred-md,.pt-deferred-md *,' +
+    '.selectable-content,.selectable-content *{' +
+    'user-select:text;-webkit-user-select:text;}' +
+    'input,textarea,code,pre,pre *{user-select:text!important;-webkit-user-select:text!important;}' +
     '.pt-article-body{font-family:"EB Garamond",Georgia,serif;font-size:1.125rem;line-height:1.65;}' +
     // Native markdown images (no PopImage yet) must not blow past the column.
     '.pt-md img,.pt-deferred-md img,.pt-article-body img{max-width:100%!important;height:auto!important;display:block;margin-left:auto;margin-right:auto;}' +
