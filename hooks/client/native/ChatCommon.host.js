@@ -108,6 +108,8 @@
       .toLowerCase()
       .replace(/^#/, '');
     c = c.replace(/[^a-z0-9_\-./]/g, '').slice(0, 64);
+    // Legacy shell home channel → imported general backlog.
+    if (c === 'pt-page-home' || c === 'page-home') c = 'pt-general';
     return c || 'flashback';
   }
 
@@ -149,6 +151,8 @@
     var pfx = normalizePrefix(prefix);
     var p = String(pathname || '/').split('?')[0];
     if (!p || p === '/') {
+      // PT home → imported general backlog (never #pt-page-home).
+      if (pfx === 'pt') return 'pt-general';
       return pfx && pfx !== 'fb' ? scopedChannel(pfx, 'page', 'home') : 'page-home';
     }
     if (p.charAt(0) === '/') p = p.slice(1);
@@ -183,9 +187,10 @@
     };
     var base = p.split('/')[0];
     if (base === 'chat') {
-      return scopedChannel(pfx || 'fb', 'lobby');
+      return pfx === 'pt' ? 'pt-general' : scopedChannel(pfx || 'fb', 'lobby');
     }
     if (staticMap[base]) {
+      if (pfx === 'pt' && staticMap[base] === 'home') return 'pt-general';
       return scopedChannel(pfx || 'fb', 'page', staticMap[base]);
     }
     if (p.indexOf('/') >= 0) {

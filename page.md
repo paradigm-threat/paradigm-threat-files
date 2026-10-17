@@ -44,7 +44,5 @@ Method: assume the solution already exists, then ask how evidence is kept from t
 
 ## General Chatroom
 
-Imported community backlog lives on `#pt-general` (not the old per-page `#pt-page-home` shell channel).
-
 <ChatRoom channel="general" title="General Chatroom" />
 
