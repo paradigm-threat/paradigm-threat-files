@@ -3,7 +3,7 @@
 
 ![Blind justice stops the Capitol, the White House, and a border wall, with Parliament behind the bench](https://paradigmthreat.net/governance/constitution/abolish-the-justice-system.jpg)
 
-> **TL;DR:** The courts are not a partner to Congress or the president. They work against them. A judge can stop a policy by saying no. Do not vote for judges. Human judges are removed. Committees put the evidence in a case file. A program matches that file to an older case. People vote under the Constitution as it stands. A public computer model makes the last decision only when both sides, stuck in mediation, ask it to. Letting everyone out of prison on the first day is the chaos this design is meant to avoid.
+> **TL;DR:** The courts work against Congress and the president. A court can run without the other two, and the other two can run without a court. People call that split wisdom. A judge can stop a wall, a spending order, or work on the White House by saying no. The procedure under the Roman buildings is still English. Contempt for that court is an honest reaction. 
 
 The courts work against Congress and the president. They are polar opposites. A court can run without the other two. Congress and the president can run without a court. People call that split wisdom. The reputation comes from about three hundred years of illegitimate governments that ran on paperwork and did not get audited. People did not ask why this government was built on Roman symbols. People did not ask why the courts were kept after a war of independence with England.
 
@@ -55,7 +55,7 @@ My family has always voted for any name that sounds Jewish, even remotely Jewish
 
 Philip Dubois showed in 1984 that California trial-court voters who knew little about the candidates used the ethnic and sex signals in last names. Albert Klumpp’s Cook County work, as reported in the law reviews, found an Irish-sounding name worth about 10.5 points in judicial races. Rebecca Wiseman’s California retention study found Hispanic surnames associated with about 1.58 points less of the vote. Retention means the voters are asked only whether a sitting judge should keep the job. No published count of Jewish-sounding surnames on judicial ballots sits with those studies. The family rule is what I saw. The studies show the trick. A last name moves votes when the voter does not know the judge. Any group can use that trick.
 
-## I find myself in contempt for court
+## I find myself in contempt of court
 
 Every time I have been to court, the business was not on the level. It is a bureaucracy. Things are forced to a known conclusion regardless of the facts. Court has not worked out for everyone. For minorities it may have backfired significantly.
 
@@ -124,7 +124,7 @@ The strong joint is the 2025–26 docket: Ali ordering foreign aid spent, Leon s
 
 Keywords: #JusticeSystem #Judges #Abolish #Mediation #JudicialElections #SupremeCourt #Savannah #Wells #Constitution #Precedent #PublicAI #FindMeGuilty #CivilContempt
 
-**Last updated:** 2026-10-18T09:14:00-04:00
+**Last updated:** 2026-10-18T11:18:00-04:00
 
 ---
 
