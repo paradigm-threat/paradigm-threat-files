@@ -13,7 +13,7 @@
 ## Guide (read order)
 
 1. **Major find: timeline** → **§2** (start here)
-2. Author thesis → **§1**
+2. Author thesis → **§1** (full conclusion **§1.3**)
 3. What the book does to the wolf → **§3**
 4. **Racial / eugenic attack diction** (*negerhafte* / “niggardly”) → **§3.4**
 5. Stoker / zombie / skinwalker cross-test → **§4**
@@ -60,8 +60,51 @@
 | **SF category timing** | Mid-1920s minting of a **fiction shelf** that sorts anomalous reports into entertainment — **locked as major find with §2**. |
 | **Timeline not accidental** | Analysis → SF shelf → divorce → *Steppenwolf* in **one consecutive window**; coincidence is the weak default. |
 | **“Niggardly” = revealing** | Treatise diction that attacks the wolf self-label sits in a **racial / eugenic** attack register; Anglophone “niggardly” is not innocent given the **1870** minstrel title *The Niggardly Nigger* and — stronger — the German original’s **negerhafte Wolfsmethode** (§3.4). |
+| **He did not write the published book** | The text is **about** Hesse. Wife, doctors, Jungians, and the public shelf redacted it before it shipped. Others wrote that certificate. See **§1.3**. |
 
 **Label:** **Author** — first-class for this dossier; not automatically factual.
+
+### 1.3 Full conclusion (session 2026-10-18)
+
+Tommy Mac’s symbol writeup and a later “Hesse defended the Jews” reply are what this conclusion answers. Antisemitism did not come up in this investigation. That is why it is a misdirection. Hesse is not known for that defense, and this dossier does not cite him for it.
+
+**Author, on why the two Jew sentences are not a contradiction (verbatim sense, 2026-10-18):**
+
+> I have not once seen any mention of jews or antisemitism. Hesse is simply not known for that, and nobody cites that. Also that topic wasn't in the op, your writeup, or any replies.
+>
+> Steppenwolf mentions Jews only because nearly all literature at the time did.
+
+**What those two sentences mean:** The first is about **this investigation**. The ware scan, the Treatise, the “niggardly” trail, the original post, and Tommy’s symbol writeup never produced Jews or antisemitism as the subject. The second is about **period atmosphere**. A 1920s novel can name Jews the way other books of that decade do. That mention does not make Hesse known as a defender of the Jews, and it does not make Tommy’s defense relevant to AU-070. The professor line and the Moses film can exist in the text. They still did not come up, because they are not what the book is being investigated for.
+
+**Author lock — do not misread the immigrant sentence (2026-10-18):** From the **German perspective at the time**, Jewish immigrants were treated as the cause of all German problems. That is a description of what that public was told after 1918. It is **not** the claim that “the Jews caused the problems.” Do not collapse those two sentences into one.
+
+The reply also separated destitute immigrants from any secret order said to have used the pogroms. That separation is not a finding of this file. Read the immigrant sentence only as the **Author lock** above: German perspective at the time, not “the Jews caused the problems.” Pogrom mechanism stays in the Depression and Holodomor dossiers, not here.
+
+**Author, on the book (verbatim):**
+
+> At any rate, my investigation noted immediately that this was all a cover up. I'll state it plainly —
+>
+> You dont get hated on by your wife, your doctor, jungians, and society at large and somehow manage to publish an exact text (when he cant count past 2) book without having those same haters redact it before publishing. Frankly I'm saying the story doesn't add up. While it is about Hesse, he did NOT WRITE IT. Others wrote it about him. Finally, the year before the book was released, the Depression was raging and the new science fiction category BANNED THESE KINDS OF BOOKS from any category but fiction. Thus the real author was FORCED to deny the ware mythology. I really can't budge from such an obvious conclusion without some SERIOUS LEGITIMATE citations showing why I'm wrong.
+
+**Unpack**
+
+| Stake | Plain sense |
+|-------|-------------|
+| **Cover-up** | The published novel is the certificate, not the man’s own unedited account. |
+| **Cannot count past two** | The Treatise’s „Wilder, der nicht über zwei hinaus zählen kann“ is read as the haters’ voice in the book, not as Hesse failing arithmetic. |
+| **He did not write it** | The story is about him. **Others** wrote the text that shipped. Stronger than “he drafted it and editors softened it.” |
+| **Forced denial** | The new fiction shelf left no nonfiction category for a ware report, so the real author had to deny the mythology. |
+| **Won’t move** | Counter-citations have to be serious and primary. Symbol summaries and etymology notes do not count. |
+| **Jews did not come up** | Not a claim that the novel string “Jew” is absent. A claim that this investigation never had antisemitism as its subject, so Tommy’s “Hesse defended the Jews” is irrelevant misdirection. Period mentions do not change that. |
+| **German perspective ≠ “the Jews caused it”** | “Jewish immigrants were the cause of all German problems” names what **Germans at the time** were saying. It does not mean the author claims that the Jews caused the problems. |
+
+**Documented dates that sit next to this conclusion**
+
+| Claim in the conclusion | What the calendar and the signed papers show |
+|-------------------------|-----------------------------------------------|
+| Depression raging the year before the book | *Der Steppenwolf* is **1927**. The U.S. Great Depression is dated from **1929**. The year before the book is **1926**, when *Amazing Stories* opens (Apr 1926). The fiction-shelf claim matches §2. The Depression label does not. |
+| He did not write it | Poems in the **1925/26** *Crisis* cycle include the Steppenwolf doggerel Haller recites. The **1925** letter to Emmy and Hugo Ball matches the fiftieth-birthday suicide date. The **1941** postscript is signed Hermann Hesse and calls the book his. Those are the citations currently on the table. They show his hand on the crisis and on the later defense of the book. They do not show a Fischer manuscript in another person’s handwriting. That hand is still **Q7**. |
+| Fiction category banned ware books into fiction only | **Author** on the ban and the force. **Documented** is the shelf itself: scientifiction as a magazine category in 1926, and this novel’s own frame calling the wonders mostly *Dichtung* / fictitious. |
 
 ---
 
@@ -235,6 +278,9 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 7. **SF-shelf assist:** The mid-1920s invention of the scientifiction category helps lock anomalous reports into fiction quarantine — **same window** as the certificate.
 8. **Suicide date = message:** The fiftieth-birthday ultimatum is interpersonal/political speech, later softened in-text as humor.
 9. **Racial / eugenic Treatise diction:** The attack on the wolf method uses **negerhafte** + “Wilder can’t count” (**Documented** German); Creighton “niggardly” sits in the **1870** minstrel collocation; this is **eugenics/racism dogma** in the certificate that demotes the ware claim (**Author** on intent/leak).
+10. **Published text is not his hand (2026-10-18 lock):** The book is about Hesse. Wife, doctor, Jungians, and the shelf redacted it before publication. **Others wrote it about him.** He did not write the text that shipped.
+11. **“Cannot count past two” is the haters’ voice:** That Treatise insult is evidence of their pen in the book, not evidence that Hesse could not do arithmetic.
+12. **Fiction shelf forced the denial:** The new scientifiction category left ware mythology nowhere but fiction, so the real author had to deny it. The **1929** Depression is not the year-before clock; **1926** *Amazing Stories* is. The force and the ban stay **Author** until a publisher order or statute says ware reports were barred from nonfiction.
 
 ---
 
@@ -248,7 +294,7 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 | Q4 | Ruth / Lisa Wenger letters: any “mad” / “wolf” / “impossible to live with” language beyond lifestyle split? | *Liebes Herz!* correspondence |
 | Q5 | Did Hesse himself set a **real** fiftieth-birthday suicide appointment, or only Haller? | Diaries / letters 1924–27 |
 | Q6 | Parallel patients in Jung’s circle with lycanthropy-class claims 1915–30 | Jung CW clinical notes; contemporaneous psychiatry |
-| Q7 | Edition chain: any **pre-publication** draft of *Steppenwolf* with stronger documentary / weaker “Dichtung” frame? | Fischer archives; manuscript scholarship |
+| Q7 | Edition chain: any **pre-publication** draft of *Steppenwolf* with stronger documentary / weaker “Dichtung” frame — or a hand that is **not** Hesse’s? | Fischer archives; manuscript scholarship |
 | Q8 | Any **1926–27** press that pairs *Amazing Stories* / “scientifiction” discourse with European psychological novels / Hesse? | Period magazines; Fischer publicity |
 | Q9 | Exact **publication month** of *Der Steppenwolf* vs Ruth decree date — how many weeks apart? | First-edition colophon; Basel divorce decree |
 | Q10 | Did Creighton / Holt editors discuss replacing **negerhafte** — memos, style sheets, later expurgations? | Holt/Rinehart archives; Creighton corr. |
@@ -287,7 +333,7 @@ The Treatise’s “not unhumorous” polish is exactly the **in-the-head** rewr
 
 Keywords: #Hesse #Steppenwolf #Jung #Ware #Werewolf #Lycanthropy #Refile #Redaction #Skinwalker #Eugenics #Niggardly #ParadigmThreatFiles #PredictiveProgramming
 
-*Last updated: 2026-10-17*
+*Last updated: 2026-10-18*
 
 ---
 
@@ -313,5 +359,6 @@ Keywords: #Hesse #Steppenwolf #Jung #Ware #Werewolf #Lycanthropy #Refile #Redact
 - **Scan verdict:** published machine confirms frame demotion + Treatise anti-wolf-body + “pictures, not realities” + court; **heavy post-manuscript editorializing is documented** (in-book Treatise/Pablo/Court + **1941** cure/Immortals postscript + EN packaging). Ball letter matches real fiftieth-birthday suicide respite. Pre-publication documentary draft still open (Q7). Horrocks “wife’s mental illness” = Mia lane, not Ruth.
 - Header meme: `hesse-steppenwolf-jung-ware-refile-meme.jpg` — timeline + “PSYCHE ONLY” stamp (AU-070 visual).
 - **§3.4 session:** author flagged Creighton “niggardly”; German check → **negerhafte Wolfsmethode** (stronger than EN); minstrel title *The Niggardly Nigger* (Hunter/Davies; *Era* 1870; Levy 017.138) Documented. Local DE extract: `~/dev/wget/hesse/text/steppenwolf-pg-de-75802.txt`.
+- **2026-10-18:** Tommy Mac thread. Author lock in **§1.3** — others wrote the published book about him; fiction shelf forced the ware denial. Jewish-immigrant / caused-the-war aside not filed as an AU-070 finding; Depression/pogrom dossiers do not document that sentence. Calendar correction: Depression **1929**, book **1927**, shelf **1926**.
 - Do **not** reintroduce sniffing / cage-pacing / night-outing list as disease evidence.
 - Divorce: prefer Michels *Liebes Herz!* and Montagnola chronology over “divorced for insanity” shorthand.
