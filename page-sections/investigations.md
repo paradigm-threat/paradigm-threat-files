@@ -29,6 +29,7 @@ These things we were instructed to believe, but are actually fake.
 * [JFK Was Never Assassinated](/events/jfk/jfk-was-never-assassinated)
 * [Astronomy is a Religion, not Science](/cosmos/cosmology/astronomy)
 * [Q-Anon/Snowden/Manning are controlled opposition agents](/influence/controlled_opposition)
+* [Buffett × Soros — controlled-opposition billionaires (**AU-071**)](/influence/controlled_opposition/investigations/buffett-soros-controlled-opposition-billionaires-investigation.md) — Soft twin (Gates) vs loud twin (OSF); missing America-first falsifier
 * [False Flags](/events/false_flag)
 * [Titanic — black-box, Olympic switch, Astor](/governance/war/investigations/titanic-sinking-investigation.md)
 
