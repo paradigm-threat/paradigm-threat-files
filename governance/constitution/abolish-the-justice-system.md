@@ -69,7 +69,7 @@ Lawyers told the judge to hold defendants in check. A defendant could not look a
 
 A plea does not get him out. He is already in. The reason to play by the court’s rules is the family the government will go after if he does not plead guilty. The film is a must-see for anyone who considers themselves knowledgeable about or interested in the justice system. The note on the film is in the [justice-system investigation](https://paradigmthreat.net/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md#find-me-guilty-2006).
 
-# Documented Court Couruption
+## Documented Court Corruption
 
 The most prominent modern American example of excessive civil contempt is H. Beatty Chadwick. In November 1992 his wife filed for divorce in Delaware County, Pennsylvania. The fight was over about $2.5 million of marital money he had moved, including through a Gibraltar partnership. He said the money was gone and he could not turn it over. In April 1995 a judge called the refusal willful and jailed him for civil contempt. He stayed in the county prison until July 10, 2009. Fourteen years, in a divorce, because the judge said he still had the money. Judge Joseph Cronin let him out after finding that more days would not make him pay. The [*New York Times* reported](https://www.nytimes.com/2009/07/12/us/12contempt.html) it as the longest civil-contempt imprisonment then on record in the United States. In 2002 the Third Circuit had held, in [*Chadwick v. Janecka*](https://law.justia.com/cases/federal/appellate-courts/F3/302/107/560004/), that the confinement could continue for as long as the state courts said he was able to pay.
 
@@ -79,9 +79,9 @@ Judges are now using artificial intelligence to manage cases. That is the worst 
 
 Parts of this system still function. Too much of it does not. The parts that work do not save the rest.
 
-## Do not vote for them
+## Do not vote for Judges. It's a trap.
 
-Do not vote for judges at all. Stop talking to judges. Avoid the justice system whenever you can. Take the dispute outside it.
+Do not vote for judges at all. Stop talking to judges and don't associate with them. Avoid the justice system whenever you can. Take the dispute outside it.
 
 The demand is complete abolition. That means every level of the justice system. It means the jails. It means everything that ever had anything to do with that system. A judge who says no is not a helper of good government. He is a rival government. The election does not fix that by adding another name at the bottom of the ballot.
 
