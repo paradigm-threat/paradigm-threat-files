@@ -37,6 +37,8 @@ The [printable flyer](https://paradigmthreat.net/governance/constitution/voting-
 
 ## Where next
 
+- [Justice system and judges (AU-072)](https://paradigmthreat.net/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md)
+- [Abolish the justice system](https://paradigmthreat.net/governance/constitution/abolish-the-justice-system.md) — do not vote the judicial line
 - [Managed democracy, puppets, and redemption](https://paradigmthreat.net/governance/war/managed-democracy-puppets-and-redemption.md)
 - [Constitution amendments — nationalist vs globalist battlefield](https://paradigmthreat.net/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md)
 - [Mission Accomplished again — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — Rubio “leave behind,” DU / proxy board

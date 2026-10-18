@@ -321,6 +321,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | [Alef and the clogged internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) | Industrial mesh parallel |
 | [Democrat funding pipeline / paid protest (**AU-069**)](/influence/controlled_opposition/investigations/democrat-funding-pipeline-paid-protest-foundation-pattern-investigation.md) | Sponsored street / foundation stack sibling |
 | [Phoenix protest timeline](/governance/constitution/investigations/phoenix-protest-timeline-investigation.md) | Chansley / Spacey name-drop |
+| [Justice system / judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) | Carroll verdict kept through the Supreme Court as one camp’s case against a president |
 | [Q-Anon controlled opposition](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Shaman as CO face |
 | [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) | Reputational red-flag removal grammar |
 | [Managed democracy puppets](/governance/war/managed-democracy-puppets-and-redemption.md) | Camp warfare / media |

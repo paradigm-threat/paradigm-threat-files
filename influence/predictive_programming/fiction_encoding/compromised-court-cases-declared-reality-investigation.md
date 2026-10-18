@@ -118,6 +118,7 @@ From the Case for the Appellant (Deeks' narrative): Macmillan editor Saul, upon 
 
 ## Cross-References
 
+- [Justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) — Deeks v Wells as the specimen of a court win that becomes the next reality
 - [Fiction Presented as Fact](fiction-presented-as-fact-investigation.md) — Authors who framed fiction as documentary; reclassification as "fiction" = steering mechanism
 - [Exact-Change Wallet — §I inventor containment (Tucker / DeLorean hardware lane)](/science/computing/exact-change-wallet-invention-and-aftermath.md#hardware-inventors--tucker-and-delorean) — fraud/drug headlines as product; acquittal optional
 - [Royal Rife — §7.4 medical fraud catalog](/science/health/investigations/royal-rife-44-doctors-forced-amnesia-suppression-investigation.md) — electromedicine court choke points

@@ -120,6 +120,7 @@ Depleted uranium as a military technology is conventionally dated to the **20th 
 ## Connection to Timeline
 
 - [American Revolution](american-revolution-investigation.md) — small piece of a bigger puzzle; British imperial context
+- [Justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) — author read: British funding of both sides consolidated the court system embedded at independence
 - [Reverse Crusades](/timeline/evt-reverse-crusades) — US Civil War as internal conflict, but British involvement fits pattern of external powers profiting from regional division
 - Post-war: Reconstruction, sharecropping, Jim Crow — continuation of economic and social subordination under new forms
 - [Constitution & amendments — nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) — TONA vs 1865 13th; 14th birthright; Liberty §12; cascade §13; *Trump v. Barbara* §14

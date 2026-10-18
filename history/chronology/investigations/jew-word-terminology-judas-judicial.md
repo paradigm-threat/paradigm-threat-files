@@ -81,7 +81,7 @@ Evidence cited for **early Greek** use includes the Septuagint and inscriptions 
 - [English Stack Exchange: judge / Jew / justice](https://english.stackexchange.com/questions/327145/are-there-common-etymological-links-to-the-words-judge-jew-jude-and-jus) — **no** common etymology.
 - [Perseus: *iūdex*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Djudex).
 
-The thesis in §4 does not require overturning these roots; it claims **narrative and phonetic clustering** at the **Passion trial** regardless.
+The thesis in §4 does not require overturning these roots; it claims **narrative and phonetic clustering** at the **Passion trial** regardless. The family surname rule on judicial ballots is a separate witness in [justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md). This file does not explain that rule.
 
 ---
 

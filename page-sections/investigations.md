@@ -50,6 +50,8 @@ History is written by victors of war and protected by the threat of further war.
 * [Bombings in the 20th Century](/governance/war/bombings)
 * [Tax is Slavery](/governance/usury)
 * [Voting for Insecticide](/governance/constitution/voting-for-insecticide.md) — Midterm fork: it looks like both sides would burn everything; only one side actually would.
+* [Abolish the justice system](/governance/constitution/abolish-the-justice-system.md) — Do not vote for judges. Take the dispute to mediation. The courts and the jails go.
+* [Justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) — The court as a rival government: English equity kept after independence, voting for judges, and AI in chambers.
 
 ### [Category: Genocide](/governance/genocide)
 

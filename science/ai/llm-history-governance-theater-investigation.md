@@ -205,7 +205,7 @@
 | ***Riley v. California*** (2014) | **Warrant required** to search digital contents of cell phones incident to arrest | A — Supreme Court |
 | ***Carpenter v. United States*** (2018) | **Warrant required** for long-term **cell-site location** records — limits third-party doctrine in digital tracking | A — Supreme Court |
 
-**Author emphasis on Ellsberg:** Not a technicality — when the government **broke into a psychiatrist’s office** to destroy a whistleblower, the judiciary **stopped the prosecution**. That is the **Fourth Amendment working under extreme executive pressure** — a **precedent of refusal** that author holds remains **on the books** for the post-emergency era.
+**Author emphasis on Ellsberg:** Not a technicality — when the government **broke into a psychiatrist’s office** to destroy a whistleblower, the judiciary **stopped the prosecution**. That is the **Fourth Amendment working under extreme executive pressure** — a **precedent of refusal** that author holds remains **on the books** for the post-emergency era. A different file reads the same branch as a rival government that should be abolished: [justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md).
 
 **Skeptic pushback (assistant):**
 
