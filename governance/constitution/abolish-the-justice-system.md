@@ -83,7 +83,7 @@ Parts of this system still function. Too much of it does not. The parts that wor
 
 Do not vote for judges at all. Stop talking to judges and don't associate with them. Avoid the justice system whenever you can. Take the dispute outside it.
 
-The demand is complete abolition. That means every level of the justice system. It means the jails. It means everything that ever had anything to do with that system. A judge who says no is not a helper of good government. He is a rival government. The election does not fix that by adding another name at the bottom of the ballot.
+The demand is complete abolition. That means every level of the justice system. It means the jails. It means everything that ever had anything to do with that system. A judge who says no is not a helper of good government. He is a rival government - a foreign influence. The election does not fix that by adding another name at the bottom of the ballot.
 
 ## What replaces the judge
 
