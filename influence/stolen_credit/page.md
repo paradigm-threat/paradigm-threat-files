@@ -22,7 +22,7 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 | [*Mother 3* / EarthBound 64 — Magypsy / rupture (**AU-056**)](investigations/mother-3-earthbound-64-magypsy-rupture-investigation.md) | Magypsy vs Reggie business; N64 cancel (not finished vault); SFC/pre-render rumor; Hamano credit-omission parallel to FF7 |
 | [Square Battle System Lineage](square-battle-system-lineage.md) | Nasir Gebelli (Iran/revolution); FF5 never in US; FF12 lost Matsuno; talent exodus |
 | [Nobuo Uematsu](nobuo-uematsu.md) | FF7–9; sprite/engine schism; post-Nintendo decline; leftover music accusations |
-| [Dave Wise / Rare](dave-wise.md) | Fraud / credit face; MIDI/64K own-words tell; **pro-MIDI museum illusion** + blank-credit epistemology; DKC; Hamano TF; Tallarico parallel |
+| [Dave Wise / Rare](dave-wise.md) | Fraud / credit face; MIDI/64K own-words tell; **IBM/MIDI failed investment** (R&D finished the work; blank credits cover the skill gap); museum illusion; DKC; Hamano TF |
 | [Rare & Nintendo R&D](rare-nintendo-rd.md) | Games without credits; Battletoads, PIN·BOT; 335+ games in VGMPF database |
 | [Minako Hamano](minako-hamano.md) | Super Metroid (Ridley, Maridia, Mother Brain); "often credited only to Yamamoto" |
 | [Minako Hamano — full dossier](investigations/minako-hamano-investigation.md) | R&D1 timeline, 1988–1996 rupture, CD-i/Mario RPG, falsifiers, evidence targets |

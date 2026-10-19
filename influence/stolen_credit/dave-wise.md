@@ -122,6 +122,30 @@ The load-bearing clue is **not** only that he still mangles the tech in **2011**
 
 **Author conclusion:** Major **smoking gun he was not the hex composer**. MIDI-only operator; performance artist / credit face; reals did the chip work. Evident in his **own words** and in **what story he still tells**. Hamano dossier **claim 29**.
 
+### WORKING THEORY — IBM/MIDI was a failed investment (2026-10-19)
+
+**Highlight.** The IBM PC + MIDI spend did **not** produce the finished NES (or SNES) music. It was a **failed investment**. The blank Rare credits are a **cover-up of a staff that lacked the technical skill to finish**, and of an **overreliance on Nintendo R&D to just get it done** — extra tracks, sound effects, drivers, and the retail compile. Wise and the Stampers were not that programming staff.
+
+**What is documented, and what it does not prove.** Wise’s own OCR account: there was **no MIDI**; notes were entered as data on a PC (hex for pitch, length, and a few loop commands), and that method continued through SNES development ([OCR](https://ocremix.org/info/Composer_Interview:_David_Wise)). The 2011 “we could have used MIDI, but… 64k” line is the same wall. **Author read of both:** he **tried** MIDI and it **failed**. The SPC line is not a curriculum of hex mastery. It is the failed investment talking.
+
+**The songs match a programmed finish, not a played-in MIDI take.** Most of the cues loop after seconds and sound stepped, not performed. A live keyboard pass — even quantized — carries timing the ear can hear. These cues do not. Audition on a Yamaha keyboard in a music shop is not the cart.
+
+**Author chain (working, not proven):**
+
+1. Wise auditioned MIDI. That is the skill he was hired with.
+2. The IBM/MIDI toolchain did not emit a usable driver payload. **Failed investment. No results.**
+3. Sketches went onward (floppy or equivalent) to the people who actually knew the APU/SPC drivers. **Author: Japanese Nintendo R&D programmers**, not the UK credit faces.
+4. Those programmers wrote the final music data, extra tracks, SFX, and the compile that shipped. Rare **reprogrammed around what R&D handed them** where they could. They did not originate the drivers.
+5. Chris Stamper **ordered** tools. He did not code the catalog. David Wise was not a programmer. Later substitutions (Dave Thomas, Mark Betteridge, a British PDS board from Andy Glaister) are the same cover with new British nouns. Naming a UK engineer is not proof Kyoto was absent at the finish.
+6. Blank carts (~6 of 40+ NES titles credited) hide that skill gap. The industry gloss — Stampers banned credits to stop headhunters; hidden hex strings such as “PROGRAMMED BY DAVID THOMAS” prove the UK side compiled the ROM — is still a cover. A sneaked name in a binary does not show who wrote the music driver or the finished cues. Cutthroat omission and a cover-up are the same move when the omission is profitable.
+7. ROM-hack “fingerprints” (zero page, multiply loops, audio tokens) **cannot** recover lost source. There is no way to decompile the original toolchain back into existence. Treating a retail binary as proof Nintendo never supplied tools is technically unfounded.
+
+**What this theory is not.** It does not claim a specific murdered composer. It does not claim every Rare title is a byte-for-byte Nintendo internal ROM. It claims the independence legend (impossible to share code; founders hand-built the stack; ROM forensics close the case) is the profitable story, and that the ear plus Wise’s own failed-MIDI words point at R&D finishing the work the UK staff could not.
+
+**Programmed whitewash.** Asked cold, a general chatbot defends that legend by default. It calls sharing code impossible, drops the word when challenged, then puts the same conclusion back under a new British name — Stamper, then Thomas or Betteridge, then a PDS board. That retreat-and-replace is not neutral forensics. It is the programmed industry defense.
+
+**OC ReMix is complicit.** The “no MIDI / I typed hex” account cited above lives on OverClocked ReMix. That venue bans criticism of the industry. The author’s track record is the proof: staff minimized an objection when a commercial remix album took a refused track ([Tallarico dossier](investigations/tommy-tallarico-controlled-opposition-wise-parallel-investigation.md)); later an industry-critical thread was removed with the staff line “it’s a wacko thread, so it’s gone” ([OC ReMix investigation](/influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md)). With criticism gone, the whitewashed interview is what gets copied and accepted. These are not random interviews. They are necessary **IP hardening** — the public noun has to stay hard or the credit warehouse fails.
+
 ### Pro-MIDI / pro-industry museum illusion (debate stack) (2026-10)
 
 **Pro-MIDI / pro-industry position (steelmans first):** Treat the finished commercial soundtrack as sacred museum / fan-hobby material. Defend MIDI as the natural interchange and “preservation” format. Treat inflated or retrospective composer nouns as harmless because credit hierarchies “worked for centuries.” Assume the MIDI→final SPC/NSF (and similar chip) pipeline was a clean technical process with no silenced makers.
@@ -160,10 +184,11 @@ Site QA: [qa/q11](qa/q11-midi-museum-hobby.md)–[q14](qa/q14-cloud-atlas-clean-
 
 1. **SNES→2009:** Wise’s massive Rare catalog sits in the same climate as everyone else then — **three-tier credit stack**, **IP fights**, blank/opaque Rare receipts, need to park a **huge body of work under one British name** until his **“retirement”** (Rare exit **Nov 2009**; last in-house credit **2008**). Author: continued **ripping / laundering Nintendo R&D craft** into that noun the same way the rupture-era system did elsewhere — not ordinary freelancer luck.
 2. **Exit:** Real exit from the Rare/Nintendo pipeline (cleared). Not career death forever — **exit from the seat that needed the legend**.
-3. **Brought back:** *Tropical Freeze* “return of Dave Wise” = **opaque re-use of the same useful tool** — temporary poster pull-in to continue **absorbing credit from Minako Hamano** (Returns music → TF music recording; Mine Menace lineage → Wise on stream without “arrangement”).
+3. **Brought back:** *Tropical Freeze* “return of Dave Wise” = **opaque re-use of the same useful tool** — temporary poster pull-in to continue **absorbing credit from Minako Hamano** (Returns music → TF music recording; Mine Menace lineage → Wise on stream without “arrangement”). **Working conclusion (2026-10-19 ear):** the pull-in also covers a score that was starting to sound like the “Wise” originals while the public lines still named **Hamano** and **Kenji Yamamoto** — see **Cannon Canyon / Surf City** below.
 4. **Indie shelf = same mechanism:** Post-TF “indie” / alumni titles (Snake Pass, Yooka, Tengami, etc.) are **not** a clean break. Author: **corporate-sponsored on the backend, independent/popular on the front** — same credit-face tool in a softer wrapper (Playtonic/Sumo/Rare alumni networks, nostalgia marketing).
 5. **Wise was not the wiser — later survival play:** Same class as Tallarico; **far larger** stolen-credit surface (Rare SNES–2009 warehouse). Tallarico got **caught** (EWJ, VGL, false filmography; Amico vapor) because he stayed in prime light hunting products. Wise’s “wisdom” came **later**: dim spotlight; **simple unlosable indie garbage** that in no way mirrors the OST brilliance attached to his nouns. Legend held ≠ innate shrewdness. Full contrast: [tommy-tallarico-controlled-opposition-wise-parallel-investigation.md](investigations/tommy-tallarico-controlled-opposition-wise-parallel-investigation.md).
 6. **Fraud / smoking gun (MIDI ask):** SNES interview still centers *could we use MIDI?* + 64k blocker — fingerprint he was **not** the hex composer; MIDI sketches at best (claim 29).
+7. **Failed IBM/MIDI investment (working, 2026-10-19):** the PC/MIDI setup produced **no** finished console music. Blank credits cover a UK staff that lacked the skill to finish. Nintendo R&D got the drivers, extra tracks, SFX, and compile done. See § WORKING THEORY — IBM/MIDI was a failed investment.
 
 See Hamano dossier claims 7, 20, 26–29; [poverty-desperation-questionable-media-faces.md](investigations/poverty-desperation-questionable-media-faces.md).
 
@@ -174,6 +199,16 @@ See Hamano dossier claims 7, 20, 26–29; [poverty-desperation-questionable-medi
 - **Author conclusion (2026-09-04):** Wise **was** on the TF album — as an **instrumentalist**, and a **rather sloppy / unpracticed** one. Poor **timing** and **weak soloing** on the live layers. Someone who had truly authored the volume of songs the legend claims would never be happy shipping those takes; normal musicians keep working until they are right. His **lack of a real music career** (empty non-game catalog) shows through in the playing.
 - **Samuragochi parallel (author):** Structurally **identical** to **Mamoru Samuragochi** — face keeps the composition noun; someone else writes. Difference: Wise **got thin / got out** rather than ride the fraud until a public bust. See [poverty-desperation-questionable-media-faces.md](investigations/poverty-desperation-questionable-media-faces.md); Hamano dossier claim 26.
 - **Hamano read:** When she is properly in the music room (Returns), quality is high. Freeze keeps Kyoto craft under recording/supervisor lines while the British face owns the poster and the stream.
+
+### Cannon Canyon ≈ Battletoads Surf City (author ear, 2026-10-19) — working conclusion
+
+**Author ear:** *Donkey Kong Country: Tropical Freeze* **Cannon Canyon** (2014; fan uploads also tag **Kenji Yamamoto** with Wise) sounds remarkably similar to NES *Battletoads* level 5, **Surf City** (1991 — [NES Ninja track list](https://nesninja.com/game/nes/battletoads/music)). *Battletoads* shipped with **no visible in-game credits**; later reconstruction attributes the music to Wise ([MobyGames](https://www.mobygames.com/game/6134/battletoads/credits/nes/)).
+
+**Cover story:** Wise did both.
+
+**Working conclusion (author):** Hearing the same kind of song on Freeze makes the “return” look like a cover for continuity of the **original Battletoads hand**, not proof Wise wrote the chip data. He still **may** have supplied MIDI. The public problem in 2014 was that Kyoto names (**Hamano**, **Kenji Yamamoto**) were the ones on the lines while the score was starting to sound too much like the catalog sold as his originals. That is why the poster needed him **brought back**.
+
+Not proven: no session log shows who programmed Surf City vs who sequenced Cannon Canyon. Open question below.
 
 ### Wise ≡ Samuragochi (author identity claim)
 
@@ -191,6 +226,8 @@ See Hamano dossier claims 7, 20, 26–29; [poverty-desperation-questionable-medi
 - What did Wise compose solo vs. with Beanland/Fischer?
 - Did Nintendo provide melodic/thematic material or only direction?
 - **TF session logs:** which live parts are Wise vs other players / Retro staff (Peter Nielsen sax credit exists in interviews)?
+- **Cannon Canyon / Surf City:** side-by-side transcription — shared motif vs coincidence; any Rare/Nintendo name besides Wise on *Battletoads* music who also appears on *Tropical Freeze* sessions?
+- **Failed MIDI investment:** any period floppy, PDS, or Nintendo lot record that shows who compiled Rare NES music after Wise’s hex/MIDI audition? Do hidden ROM name strings (Thomas and others) sit in music drivers or only in unrelated code?
 - Full list of post-Rare Wise works?
 - Rare's policy on credits (see [rare-nintendo-rd.md](rare-nintendo-rd.md)).
 - Any public statement of Wise stepping back to avoid scrutiny after Samuragochi-class scandals entered VGM discourse?

@@ -48,7 +48,7 @@
 
 - Sound programmers (Minoru Akao, Eiji Nakamura) may have arrangement/implementation input.
 - Blurred roles in small teams; credit may not reflect contribution.
-- **Blank cart ⇒ MIDI authorship unprovable:** when a title ships with no contemporary music credit (Rare NES: ~6 of 40+ credited), a later MIDI file or interview cannot prove the player-heard SPC/NSF data was a faithful translation of that sketch rather than engineer rewrite or invention. Full debate stack: [dave-wise.md](dave-wise.md) § Pro-MIDI / pro-industry museum illusion.
+- **Blank cart ⇒ MIDI authorship unprovable:** when a title ships with no contemporary music credit (Rare NES: ~6 of 40+ credited), a later MIDI file or interview cannot prove the player-heard SPC/NSF data was a faithful translation of that sketch rather than engineer rewrite or invention. **Working theory:** those blanks also cover a UK staff that could not finish, after an IBM/MIDI setup that produced no cart music — Nintendo R&D got it done. Full: [dave-wise.md](dave-wise.md) § WORKING THEORY — IBM/MIDI was a failed investment.
 
 ---
 

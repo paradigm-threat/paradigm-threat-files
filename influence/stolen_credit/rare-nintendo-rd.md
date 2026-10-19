@@ -30,6 +30,8 @@
 
 **Author / investigation meaning:** Huge piece of evidence that Rare was **not crediting the proper people on-cart** and could later **tell whatever authorship story** interviews and fan canon needed. Reconstructed “Wise composed Battletoads / DKC…” narratives are **not checked against printed in-game receipts** for most of the NES era — the whitewash had a blank page to write on. Same scarcity class as Nintendo Sound Team / Hamano support billing. Parent: [minako-hamano-investigation.md](investigations/minako-hamano-investigation.md) §5.4 claim 22.
 
+**Working theory (2026-10-19):** the blanks are not only an anti-poaching policy. They **cover a UK staff that lacked the technical skill to finish**, and an **overreliance on Nintendo R&D** to write drivers, extra tracks, SFX, and the compile. The IBM/MIDI setup was a **failed investment** — it did not produce the cart. Industry substitutes (Stamper lockdown, hidden hex names, “ROM fingerprints prove a closed UK toolchain”) still protect that independence story without the lost source. Full: [dave-wise.md](dave-wise.md) § WORKING THEORY — IBM/MIDI was a failed investment.
+
 ### Battletoads (NES, 1991)
 - **All credits listed as uncredited** in game.
 - Staff (from external sources): Tim Stamper, Chris Stamper, Joel Hochberg, Gregg Mayles, Guy Miller, Kevin Bayliss, **David Wise (music)**.
