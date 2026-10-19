@@ -2941,5 +2941,169 @@
     "doNotSay": [
       "The site has a recovered Rare source tree proving Nintendo typed every byte."
     ]
+  },
+  {
+    "id": "wise-did-not-compose-career-osts",
+    "title": "David Wise did not compose the career OSTs",
+    "claim": "David Wise was a MIDI audition and a credit face, not the composer of the Rare and Donkey Kong OSTs credited to him. His own interviews still narrate a failed MIDI path. Battletoads loops (about 24–58 seconds, average about 34) are game-loop tradition he did not have, inside about 1 MB of NSF room. About 6 of 40+ Rare NES games print a staff credit. The failed MIDI spend and those blanks close the claim that Britain composed and compiled the music. A Kyoto source file is unrecovered. The working conclusion is that Nintendo R&D finished the work. Tropical Freeze live layers show an unpracticed player, and Cannon Canyon sits in the same ear as Battletoads Surf City.",
+    "answerOpener": "The industry treats Wise as the composer because later interviews say so. The public record shows a failed MIDI hire, blank carts, and game-loop craft he did not have.",
+    "bullets": [
+      "Hired as MIDI; OCR and 2011 interviews still narrate why MIDI was not used.",
+      "MIDI would have made longer songs. NSF room is about 1 MB. Battletoads loops average about 34 seconds.",
+      "Only about 6 of 40+ Rare NES games print a staff credit. Battletoads prints none.",
+      "Returns was not his project. Tropical Freeze brought the name back. Live timing gives the face away.",
+      "Cannon Canyon ≈ Battletoads Surf City is an ear conclusion, not a claim about a specific murder."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Career-scale rejection of Wise as composer, grounded in failed MIDI, blank credits, loop lengths, and the Tropical Freeze ear.",
+    "topics": ["dave-wise", "midi", "rare", "battletoads", "tropical-freeze", "credits"],
+    "demoQuestions": [
+      "Why do you think David Wise didn’t compose his soundtracks?",
+      "Did David Wise write the Battletoads music?",
+      "Why is David Wise a credit face?"
+    ],
+    "searchQueries": ["why david wise did not compose rare ost"],
+    "searchPrefixes": ["david wise", "dave wise composer", "battletoads composer"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q16-why-wise-did-not-compose.md",
+      "influence/stolen_credit/dave-wise.md",
+      "influence/stolen_credit/minako-hamano-and-the-whitewash.md"
+    ],
+    "relatedClaimIds": ["ibm-midi-failed-investment", "composer-ear-detects-fake"],
+    "doNotSay": [
+      "The site has a recovered Rare source tree proving Nintendo typed every byte.",
+      "The site claims specific video-game composers were assassinated."
+    ]
+  },
+  {
+    "id": "nda-forces-forensic-read",
+    "title": "NDAs leave a forensic record, not a blank case",
+    "claim": "Developer NDAs are why a tell-all will not arrive. They do not make later interviews into period receipts. The reality behind the silence is deduced from what is still public: the cart, the blank credits, the failed MIDI account, the loop lengths, and the file size. A retail ROM cannot resurrect lost source. Interviews decades after publication are IP hardening written onto a blank page.",
+    "answerOpener": "An NDA explains the silence. The test is forensic because the cart, the blanks, and Wise’s own later words are what the silence leaves behind.",
+    "bullets": [
+      "Confidentiality blocks the room narrative. It does not authenticate a 2011 interview as a 1991 receipt.",
+      "Battletoads shipped in 1991 with no music credit. The hex legend hardens years later.",
+      "ROM fingerprints cannot recover the lost toolchain or prove Kyoto was absent.",
+      "Only a reading of the available objects can deduce what the NDA withholds."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "NDA drought is the reason the credit case is forensic, not a reason to defer to late interviews.",
+    "topics": ["nda", "credits", "forensic", "dave-wise", "rare"],
+    "demoQuestions": [
+      "How can anyone know who wrote the music if there was an NDA?",
+      "Why isn’t the Wise interview enough?",
+      "What evidence survives Nintendo confidentiality?"
+    ],
+    "searchQueries": ["nintendo nda rare music credits forensic"],
+    "searchPrefixes": ["rare nda", "nintendo confidentiality", "who wrote rare music"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q17-nda-forensic-record.md",
+      "influence/stolen_credit/investigations/minako-hamano-investigation.md",
+      "influence/stolen_credit/dave-wise.md"
+    ],
+    "relatedClaimIds": ["wise-did-not-compose-career-osts", "chatbot-stamper-whitewash"],
+    "doNotSay": [
+      "The site has a recovered Rare source tree proving Nintendo typed every byte."
+    ]
+  },
+  {
+    "id": "composer-ear-detects-fake",
+    "title": "A working composer can hear the missing craft",
+    "claim": "A working composer detects a fake credit by craft limits, not by taste. Battletoads loops are chip-loop tradition a shop MIDI hire did not have, and a real MIDI path would have written longer songs. Tropical Freeze live layers credited around Wise show poor timing and weak soloing; a composer of that catalog would not ship unfinished takes. Cannon Canyon sits in the same ear as Battletoads Surf City.",
+    "answerOpener": "Taste is preference. Detection is hearing that the credited person cannot do the craft on the cart, and that the cart is a different craft.",
+    "bullets": [
+      "Loop form: about 24–58 seconds, average about 34, inside about 1 MB. That is game-song tradition.",
+      "Unfinished live timing on Tropical Freeze is the instrumentalist tell.",
+      "Empty non-game discography matches the same person as the sloppy live takes.",
+      "Cannon Canyon ≈ Surf City is an ear conclusion about who was still in the tradition."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Craft-limit listening test for Wise: loop tradition plus unfinished Tropical Freeze playing.",
+    "topics": ["dave-wise", "composer", "battletoads", "tropical-freeze", "forensic"],
+    "demoQuestions": [
+      "How can a real composer tell David Wise didn’t write the music?",
+      "Is the Wise fraud claim just taste?",
+      "What does Cannon Canyon have to do with Battletoads?"
+    ],
+    "searchQueries": ["composer detect fake soundtrack david wise"],
+    "searchPrefixes": ["david wise fake", "tropical freeze wise", "cannon canyon battletoads"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q18-composer-hears-the-fake.md",
+      "influence/stolen_credit/dave-wise.md"
+    ],
+    "relatedClaimIds": ["wise-did-not-compose-career-osts"],
+    "doNotSay": [
+      "The site claims specific video-game composers were assassinated.",
+      "Similarity of two cues is a murder allegation."
+    ]
+  },
+  {
+    "id": "chatbot-stamper-whitewash",
+    "title": "Chatbots recite the Stamper whitewash as fact",
+    "claim": "Default AI chatbots treat Rare independence and Chris Stamper’s anti-headhunter lockdown as established fact. When challenged they reinstall the same conclusion under another British name. The interviews they cite are IP hardening from years and decades after the carts shipped. OC ReMix hosts the Wise hex legend and bans industry criticism, so the polish enters training data and comes back as history.",
+    "answerOpener": "A chatbot that opens on “Rare did it alone” is running programmed whitewash. The Stamper story is a late gloss, not a period receipt.",
+    "bullets": [
+      "Retreat-and-replace: impossible to share code, then Stamper, then Thomas or Betteridge, then a PDS board.",
+      "Battletoads is 1991 and uncredited. The hex interview and the 2011 MIDI/64k line are later hardening.",
+      "ROM fingerprint talk is treated as if lost source had been recovered.",
+      "OC ReMix’s ban on industry criticism is why the whitewash proliferates into model answers."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Names the default chatbot defense of Stamper/Rare as programmed whitewash fed by late interviews.",
+    "topics": ["chatbot", "stamper", "whitewash", "ocremix", "dave-wise"],
+    "demoQuestions": [
+      "Why do AI chatbots defend Chris Stamper and David Wise?",
+      "Is the Rare independence story established fact?",
+      "Why do models treat blank credits as an anti-poaching policy?"
+    ],
+    "searchQueries": ["chatbot rare stamper david wise whitewash"],
+    "searchPrefixes": ["stamper credits", "rare independence", "ai david wise"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q19-chatbot-stamper-whitewash.md",
+      "influence/stolen_credit/dave-wise.md",
+      "influence/stolen_credit/qa/q15-ibm-midi-failed-investment.md"
+    ],
+    "relatedClaimIds": ["ibm-midi-failed-investment", "fan-commons-controlled-opposition"],
+    "doNotSay": [
+      "Name a chatbot vendor as if this site audited its training set.",
+      "Name a private debate partner."
+    ]
+  },
+  {
+    "id": "fan-commons-controlled-opposition",
+    "title": "Fan remix and fan-edit rooms are controlled opposition",
+    "claim": "OC ReMix, FanEdit, and the same class of fan community present as free rooms where criticism is welcome. It is not. They polish the corporate image: OC ReMix hosts the Wise hex legend and removes industry criticism; FanEdit removes agenda criticism of the films being recut. That function is controlled opposition. A recovered payroll for every moderator is not required for the charge, and is not claimed.",
+    "answerOpener": "These sites look like independent fan communities. Criticism of the industry is expelled, and the corporate credit story is what remains.",
+    "bullets": [
+      "OC ReMix: author’s refused track went onto a commercial album; a later critical thread was removed as a wacko thread.",
+      "The Wise “I typed hex” interview lives on that site and hardens the IP noun.",
+      "FanEdit, October 2026: predictive-programming discussion removed as political and conspiracy content.",
+      "Do not claim every moderator is a paid studio employee. The function is the image work."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Author position that OCR, FanEdit, and peer fan commons are controlled opposition because they welcome fans and expel industry criticism.",
+    "topics": ["ocremix", "fanedit", "controlled-opposition", "censorship", "ip-hardening"],
+    "demoQuestions": [
+      "Is OC ReMix controlled opposition?",
+      "Are fan-edit communities independent?",
+      "Do fan sites welcome criticism of the game industry?"
+    ],
+    "searchQueries": ["ocremix fanedit controlled opposition industry criticism"],
+    "searchPrefixes": ["ocremix criticism", "fanedit censorship", "fan community industry"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q20-fan-communities-controlled-opposition.md",
+      "influence/controlled_opposition/investigations/ocremix-polarization-privatization-controlled-opposition-investigation.md",
+      "influence/censorship/investigations/predictive-programming-soft-censorship-wikipedia-fanedit-investigation.md"
+    ],
+    "relatedClaimIds": ["chatbot-stamper-whitewash", "ibm-midi-failed-investment"],
+    "doNotSay": [
+      "Every OC ReMix or FanEdit moderator is a paid studio agent.",
+      "Name a private debate partner."
+    ]
   }
 ]
