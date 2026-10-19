@@ -2895,8 +2895,8 @@
   {
     "id": "ibm-midi-failed-investment",
     "title": "Rare IBM/MIDI was a failed investment",
-    "claim": "Rare’s IBM PC and MIDI setup did not produce finished NES or SNES music. It was a failed investment. Blank credits cover a UK staff that lacked the skill to finish drivers, extra tracks, SFX, and the compile. Nintendo R&D got that work done. Wise auditioned MIDI; he was not the programmer. Stamper ordered tools; he did not code the catalog.",
-    "answerOpener": "The independence story says Rare built the toolchain and typed the music. This site’s working theory is that the IBM/MIDI spend failed, the songs sound programmed because they were finished by people who knew the chip, and the blank credits hide that skill gap.",
+    "claim": "Rare’s IBM PC and MIDI setup did not produce finished NES or SNES music. That failed spend, plus blank credits on about 6 of 40+ Rare NES games, closes the claim that Britain composed and compiled the carts. A Kyoto source file is still unrecovered. The working conclusion is that Nintendo R&D finished drivers, extra tracks, SFX, and the compile. Wise auditioned MIDI; he was not the programmer. Stamper ordered tools; he did not code the catalog.",
+    "answerOpener": "The independence story says Rare built the toolchain and typed the music. The failed MIDI spend and the blank credits close that claim. The working conclusion is that people who knew the chip finished the songs, and the blanks hide that skill gap.",
     "bullets": [
       "Failed investment: MIDI audition did not become the cart.",
       "SPC/NES “no MIDI” lines mean the path was tried and failed, not that Wise mastered hex.",
