@@ -8,6 +8,12 @@ Plagiarism and misattribution in 20th-century media function as a control mechan
 
 ## Featured Investigations
 
+### Journalism / media faces
+
+| Investigation | Summary |
+|---------------|---------|
+| [Hunter Thompson — authorship prop, Acosta, Nixon](investigations/hunter-thompson-authorship-prop-nixon-investigation.md) | **Open:** Hunter as anti-Nixon prop + Acosta Samoan containment; Mazatlán 1974 data (§7); rule down “drug deal” (§8); Guatemala gun-run **intent** primary-sourced; Hunter as early NSA-**functional** containment (§9) |
+
 ### Video Game Industry
 
 | Investigation | Summary |
