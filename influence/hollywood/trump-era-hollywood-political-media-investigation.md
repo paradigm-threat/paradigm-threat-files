@@ -185,6 +185,8 @@ Roll-up after the anchor case, supporting clusters, Cap arc, and [pre-2016 ficti
 
 **Cosmos cross-read:** [*Space Force*](#supporting-clusters--brief) satire ↔ real branch — extended in [Big Mysteries / consensus theater investigation](/cosmos/cosmology/investigations/big-mysteries-survey-consensus-theater-investigation.md) §9 (science-community mockery vs domestic lift).
 
+**Comics-side companion:** [Chris Sims / pre-career archive](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md) — the *Endgame* author read stays in this file. That dossier bars the cry line as evidence and records that Marvel did not fire him.
+
 Keywords: #Influence #Hollywood #Governance #Trump #PredictiveProgramming #Media #Marvel #DC #Streaming #War
 
 **Date:** 2026-04-19 — PP/trend refactor; Limits at end. 2026-04-19 — CA:BNW vs maritime blockade cluster; hub link. 2026-04-19 — § Author thesis *Infinity War* / *Endgame* (Strange / Stark / Trump); scorecard row; TODO comparative “narcissist savior” precedents. 2026-04-19 — § Author note (rigidity, humans/LLMs, media as territory); Limits: author meta-disclaimer first, technical bullets shortened. 2026-04-19 — **Order:** methodology → author note (epistemic) → session capture → IW/Endgame thesis → anchor → supporting → Cap arc → **scorecard** → weak points → keywords → limits. **2026-06-27** — *Economist World Ahead 2026* scorecard row (macro rhyme; reject viral HAARP overlay).

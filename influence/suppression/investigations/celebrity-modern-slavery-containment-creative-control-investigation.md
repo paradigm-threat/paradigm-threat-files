@@ -1301,6 +1301,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | **Reader essay — celebrity IP slavery**      | [It's gonna be a long, long time.](/influence/suppression/modern-celebrity-slavery.md)                                                                                                        |
 | **Reader essay — gender-swap installment**   | [Designed from birth](/influence/suppression/designed-from-birth.md)                                                                                                                          |
 | **#MeToo corporate choreography (dedicated)** | [metoo-corporate-sponsorship-choreography-investigation](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) — **AU-053**; Spacey / Carroll / registry |
+| **Chris Sims / knew-then-cancelled** | [pre-career archive](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md) — cry line not evidence; Lasseter / Berganza / Moonves timeline; Marvel kept the book |
 
 
 ---

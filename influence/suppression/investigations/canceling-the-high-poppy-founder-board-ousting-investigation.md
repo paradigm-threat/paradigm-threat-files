@@ -118,6 +118,7 @@ These reinforce the **501(c)(3) / public-benefit** pattern: **formal board,** **
 - [Richard Gage / AE911Truth investigation](/events/false_flag/investigations/richard-gage-ae911truth-controlled-demolition-investigation.md)
 - [Exact-Change Wallet — §I inventor containment](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean; third-act scripting for builders who took the spotlight
 - [Wikipedia — Tall poppy syndrome](https://en.wikipedia.org/wiki/Tall_poppy_syndrome) (overview of metaphor and spread)
+- [Chris Sims / pre-career archive](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md) — freelancer pile-on, not a board ouster. Moonves, in that file, is the control-fight row closer to this form
 
 ---
 

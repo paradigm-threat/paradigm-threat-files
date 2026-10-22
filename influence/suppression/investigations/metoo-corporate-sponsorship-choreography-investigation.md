@@ -231,7 +231,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | ------ | ------------------------- | ------- | ------------------------------------ | --------------------- | ------- |
 | **Harvey Weinstein** | Decades of rape / assault / harassment; dozens of accusers | NYT/New Yorker Oct 2017 ignition | Denied non-consensual; claimed consensual encounters / settlements | Studio mogul power = **L1** coercion environment; NDAs decades | **Convicted** NY + LA (rape/sexual assault counts) — **L1 real abuse case**; does **not** prove campaign organic |
 | **Kevin Spacey** | Rapp + multiple men | BuzzFeed 2017 → industry exile | See [§ Spacey](#highlight--kevin-spacey) | Career as containment instrument; Chansley name-drop adjacency | Not liable / acquitted juries; civil settle UK 2026 |
-| **Louis C.K.** | Masturbation misconduct (multiple women) | NYT Nov 2017 | Admitted behavior was wrong (statement) | Comedy-club power asymmetry | Career interruption; later partial return — not criminal conviction on those claims |
+| **Louis C.K.** | Masturbation in front of women, on the phone, or asking to (five women, late 1990s–2005) | [NYT 9 Nov 2017](https://www.nytimes.com/2017/11/09/arts/television/louis-ck-sexual-misconduct.html) | [10 Nov](https://www.nytimes.com/2017/11/10/arts/television/louis-ck-statement.html): “These stories are true.” | Manager Dave Becky later said he had treated the 2002 Aspen account as a discretion problem | FX ended the Pig Newton deal and the pay on four shows the day he confirmed it. Netflix refused a second special and left the April 2017 special up. HBO pulled on-demand specials. The Orchard shelved *I Love You, Daddy*. Live sets from Aug 2018. Self-released *Sincerely Louis CK* won the 3 Apr 2022 comedy-album Grammy. Deals cut. Later work is outside those companies. No criminal conviction on those claims |
 | **Matt Lauer** | Workplace harassment / assault claims | NBC Nov 2017 firing | Denied some characterizations via reps | Morning-show corporate HR | Fired; civil matters varied |
 | **Charlie Rose** | Harassment (multiple) | WaPo Nov 2017 | Apology for inappropriate behavior; denied some specifics | PBS/Bloomberg institutional | Shows canceled |
 | **Al Franken** | Groping / kiss allegations (Leeann Tweeden + others) | Nov–Dec 2017 Senate | Apologized; disputed some accounts; resigned under caucus pressure | Political faction warfare inside MeToo week | Resigned; later expressed regret at process |
@@ -317,6 +317,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 
 | File | Relation |
 | ---- | -------- |
+| [Measured Against Weinstein](/influence/suppression/measured-against-weinstein.md) | Reader essay on the wave. This file stays the campaign registry |
 | [Celebrity modern slavery — MeToo machinery](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#metoo-machinery--industry-sponsorship-persecution-pattern-and-the-livelybaldoni-lane) | Prior sponsorship essential + Lively/Baldoni |
 | [Alef and the clogged internet](/influence/controlled_opposition/alef-and-the-clogged-internet.md) | Industrial mesh parallel |
 | [Democrat funding pipeline / paid protest (**AU-069**)](/influence/controlled_opposition/investigations/democrat-funding-pipeline-paid-protest-foundation-pattern-investigation.md) | Sponsored street / foundation stack sibling |
@@ -324,6 +325,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | [Justice system / judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) | Carroll verdict kept through the Supreme Court as one camp’s case against a president |
 | [Q-Anon controlled opposition](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Shaman as CO face |
 | [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) | Reputational red-flag removal grammar |
+| [Chris Sims / pre-career archive](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md) | Knew-then-cancelled timeline; cry line barred; Marvel kept him |
 | [Managed democracy puppets](/governance/war/managed-democracy-puppets-and-redemption.md) | Camp warfare / media |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-053** |
 | [AI suppression — OpenAI × Cursor](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) | **AU-052** — QuitGPT as same sponsorship class; reader [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) |
@@ -333,7 +335,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 
 Keywords: #MeToo #TimesUp #CorporateSponsorship #KevinSpacey #EJeanCarroll #DonaldTrump #ControlledOpposition #Alef #CelebrityContainment #GangStalking #OccupyWallStreet #CatherineDeneuve #HarveyWeinstein #AnthonyRapp #QAnonShaman #JacobChansley #ParadigmThreatFiles #AU053
 
-*Last updated: 2026-09-12*
+*Last updated: 2026-10-22*
 
 ---
 
