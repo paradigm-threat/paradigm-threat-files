@@ -3105,5 +3105,135 @@
       "Every OC ReMix or FanEdit moderator is a paid studio agent.",
       "Name a private debate partner."
     ]
+  },
+  {
+    "id": "nintendo-stake-battletoads-qa",
+    "title": "Nintendo stake, blank credits, and Battletoads co-op",
+    "claim": "Nintendo’s roughly 49% stake in Rare is the primary citation that Nintendo had skin in finishing, publishing, and keeping quality high even when Rare seemed barely attending. Blank credits (~6 of 40+ Rare NES titles credited; Battletoads none) are the citation that Rare was not minding the products as authored work. Battletoads two-player is the QA pinnacle: friendly fire, shared continues, and a US Clinger-Wingers bug that soft-locks Player 2 (fixed in Japan/Europe). That mode is unfinished co-op, not ‘hard.’ Working conclusion: stake explains why excellence still appears; blanks and broken co-op show Rare was not the careful manufacturer of the whole product.",
+    "answerOpener": "Three public facts lock: Nintendo’s near-half stake, Rare’s blank receipts, and Battletoads co-op that cannot be defended as finished QA.",
+    "bullets": [
+      "~49% stake = motive for Nintendo-side finish and publish standards.",
+      "Blank carts = Rare indifference to authorship of the product.",
+      "Battletoads 2P: no friendly-fire off switch; shared continues; US stage-11 P2 soft-lock.",
+      "Do not claim every byte of every Rare game is a recovered Kyoto ROM."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Triad of stake / blanks / Battletoads 2P as public proof Rare was not carefully manufacturing end-to-end.",
+    "topics": ["rare", "nintendo", "battletoads", "credits", "qa"],
+    "demoQuestions": [
+      "Why does Nintendo’s stake in Rare matter?",
+      "What does Battletoads two-player prove?",
+      "Are blank Rare credits just anti-poaching?"
+    ],
+    "searchQueries": ["nintendo rare 49% stake battletoads two player credits"],
+    "searchPrefixes": ["rare nintendo stake", "battletoads two player", "rare blank credits"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q21-nintendo-stake-battletoads-qa.md",
+      "influence/stolen_credit/rare-nintendo-rd.md"
+    ],
+    "relatedClaimIds": ["ibm-midi-failed-investment", "microsoft-sale-ip-hardening"],
+    "doNotSay": [
+      "The site has a recovered Rare source tree proving Nintendo typed every byte."
+    ]
+  },
+  {
+    "id": "microsoft-sale-ip-hardening",
+    "title": "Microsoft Rare sale and post-sale IP hardening",
+    "claim": "Microsoft acquired Rare on 24 September 2002 (~$375M). That is not the calendar of a shop that still believed its Nintendo-era craft would keep shipping. Xbox-era products did not match the Nintendo heyday. Do not call $375M an extremely low fire sale as a courtroom number; read the exit as brand-and-catalog after the finish was not portable. Working theory: new IP holders had motive to harden authorship; Wise/Stamper independence interviews sit years after the carts on the buyer side of the calendar — offer too good or deal terms requiring the old faces, not casual memoir after walking away.",
+    "answerOpener": "The 2002 Microsoft sale is business proof the Nintendo-era finish was not portable. Later credit interviews harden the British noun for the new holders.",
+    "bullets": [
+      "Sale date 24 September 2002; ~$375M cash; Nintendo’s ~49% went with it.",
+      "Xbox catalog inferior to Battletoads / DKC / GoldenEye class heyday.",
+      "Do not treat $375M alone as proof Microsoft valued Rare at zero.",
+      "Post-sale interviews = IP hardening motive; diligence memo unrecovered."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Ties Microsoft buyout calendar to failed portable craft and late Wise/Stamper IP hardening.",
+    "topics": ["microsoft", "rare", "ip-hardening", "dave-wise", "stamper"],
+    "demoQuestions": [
+      "What does the Microsoft sale of Rare prove?",
+      "Why were Wise interviews after the sale?",
+      "Did the Stampers just sell and move on?"
+    ],
+    "searchQueries": ["rare microsoft sale 2002 ip hardening david wise"],
+    "searchPrefixes": ["rare microsoft", "stamper sold rare", "wise interview after"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q22-microsoft-sale-ip-hardening.md",
+      "influence/stolen_credit/dave-wise.md"
+    ],
+    "relatedClaimIds": ["nintendo-stake-battletoads-qa", "chatbot-stamper-whitewash", "ibm-midi-failed-investment"],
+    "doNotSay": [
+      "Microsoft published a diligence memo proving Rare never made a game.",
+      "The $375M price alone proves a fire-sale valuation of zero."
+    ]
+  },
+  {
+    "id": "square-rare-rnd-severance",
+    "title": "Square and Rare both severed Nintendo R&D and lost the peak",
+    "claim": "Square’s PlayStation divorce and Rare’s Microsoft sale are different transactions with the same result class: rip the product from the Nintendo R&D lane, then fail to reproduce the heyday. Working read: FF7 sits on a Nintendo-era pipeline (author institutional claim of a Nintendo-built world/field engine, not a Square credit line); battle/world sprite schism on VII; FF8 and FF9 ride that family; a major new engine waits for FFX (2001). Rare’s Xbox catalog is the parallel drop after 24 September 2002.",
+    "answerOpener": "Different deals, same pattern: when Kyoto finish leaves the room, the company noun stays and the level drops.",
+    "bullets": [
+      "Rare: Microsoft sale 2002; Xbox products inferior to Nintendo-era peak.",
+      "Square: 1996 platform divorce; VIII/IX on VII lineage; FFX as later new stack.",
+      "FF7 engine-as-Nintendo is author institutional read, not a printed vendor credit.",
+      "Do not collapse Square and Rare into one buyout."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Pairs Square FF7–X engine chronology with Rare Microsoft exit as R&D-severance pattern.",
+    "topics": ["square", "final-fantasy", "rare", "nintendo-rd", "ff7"],
+    "demoQuestions": [
+      "Is Square’s PlayStation move like Rare’s Microsoft sale?",
+      "Did FF8 and FF9 reuse the FF7 engine?",
+      "When did Square build a new Final Fantasy engine?"
+    ],
+    "searchQueries": ["square rare nintendo rd ff7 ff8 ff9 engine"],
+    "searchPrefixes": ["ff8 engine", "square left nintendo", "rare microsoft same"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q23-square-rare-rnd-severance.md",
+      "influence/stolen_credit/nobuo-uematsu.md",
+      "influence/stolen_credit/nintendo-sony-breakup.md"
+    ],
+    "relatedClaimIds": ["microsoft-sale-ip-hardening", "ibm-midi-failed-investment"],
+    "doNotSay": [
+      "Square printed Nintendo as the FF7 engine vendor on the disc.",
+      "Hamano wrote uncredited music for Final Fantasy VII as proven fact."
+    ]
+  },
+  {
+    "id": "dkc-to-n64-falloff",
+    "title": "Banjo was a free pass for a Barney-generation industry",
+    "claim": "Banjo-Kazooie got a free pass because it was not a sequel — no charge of turning pre-rendered DKC into shoddy 3D under a legacy noun. The name signals a level-one product with no tradition for kids who never saw the craft years. Donkey Kong had become a small universe Rare could no longer maintain; Banjo was manageable with low expectations. DK64 proves the agenda: reset a legacy IP for a young audience (DK Rap). Banjo is the same idea without franchise debt — not a high-quality industry challenge, but the soft launch of a Microsoft/Sony-era lower industry. That is a primary author argument for why 21st-century game quality plummeted: inspirational craft reduced to Barney & Friends–style product while Nintendo’s own lines kept being sabotaged. Critic citations (egg hunt, EGM ‘sucked it all out’, Kaerlev, Stamper ‘more to collect’) prove the direction was noticed; Banjo’s launch praise is the free pass.",
+    "answerOpener": "Banjo escaped the sequel test. DK64 applied the same soft collectathon to a name that still carried Country. Together they are the new, lower industry — not 3D progress.",
+    "bullets": [
+      "Free pass: not a sequel, so no DKC→shoddy-3D violation under one brand.",
+      "Name and scope: level-one brand; no legacy burden; manageable vs DK universe.",
+      "DK64 + DK Rap = same agenda forced onto legacy IP for kids who didn’t know better.",
+      "Primary plummet thesis: educational craft → Barney-generation gaming; Nintendo sabotage continues.",
+      "Critics noticed DK64 chores; do not pretend 1998 called Banjo trash — praise is the free pass."
+    ],
+    "confidence": "project-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "Author Banjo free-pass / new-industry thesis tied to Barney generation and DK64 as the unmasked specimen.",
+    "topics": ["banjo-kazooie", "donkey-kong-64", "dkc", "barney-generation", "rare", "collectathon"],
+    "demoQuestions": [
+      "Was Banjo-Kazooie a free pass for lower quality?",
+      "Why didn’t Banjo get the same hate as Donkey Kong 64?",
+      "Did Rare’s N64 games start the 21st-century quality drop?"
+    ],
+    "searchQueries": ["banjo kazooie free pass donkey kong 64 barney generation"],
+    "searchPrefixes": ["banjo free pass", "dk64 dk rap", "banjo new industry"],
+    "canonicalPaths": [
+      "influence/stolen_credit/qa/q24-dkc-to-n64-falloff.md",
+      "influence/stolen_credit/before-barney-and-pokemon.md"
+    ],
+    "relatedClaimIds": ["microsoft-sale-ip-hardening", "nintendo-stake-battletoads-qa", "barney-teletubbies-pokemon-generation"],
+    "doNotSay": [
+      "1998 critics universally called Banjo-Kazooie a critical failure.",
+      "DK64 alone is proven to be the sole cause of the 3D platformer market’s death.",
+      "Microsoft and Sony published a memo commissioning Banjo to dumb down games."
+    ]
   }
 ]

@@ -8,7 +8,7 @@
 
 **This site:** That is programmed whitewash. Asked cold, a general chatbot opens on “Rare did it alone.” When a premise fails, it drops the sentence and reinstalls the same conclusion under the next British name: Stamper, then Dave Thomas or Mark Betteridge, then a PDS board. It does not stop on the blank cart. It treats the industry gloss as the fact.
 
-The gloss is late. *Battletoads* is 1991 and prints no music credit. The “no MIDI / I typed hex” account and the 2011 “we could have used MIDI, but… 64k” line are interviews from a later decade. They harden the name after the cartridge already shipped. A chatbot that quotes them as contemporary proof is repeating IP hardening and calling it the historical record.
+The gloss is late. *Battletoads* is 1991 and prints no music credit. The “no MIDI / I typed hex” account and the 2011 “we could have used MIDI, but… 64k” line are interviews from a later decade — on the far side of the **24 September 2002** Microsoft sale. They harden the name after the cartridge already shipped and after new IP holders had motive to lock the British noun ([Q22](/influence/stolen_credit/qa/q22-microsoft-sale-ip-hardening.md)). A chatbot that quotes them as contemporary proof is repeating IP hardening and calling it the historical record.
 
 OC ReMix hosts the interview and removes industry criticism, so the whitewashed text is what gets copied into training data and fan canon. The model then cites the canon as established. The loop is the product: a fan site polishes the corporate noun, the model learns the polish, and the next answer treats Stamper’s lockdown as if the NDA had been opened and read.
 
