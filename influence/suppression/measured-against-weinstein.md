@@ -4,9 +4,9 @@ MeToo was planned by the industry and timed to take out MAGA
 
 ![Measured Against Weinstein. One man's record on the scale, other men lined up beside it](https://paradigmthreat.net/influence/suppression/measured-against-weinstein.jpg)
 
-> **TL;DR:** The MeToo wave took Harvey Weinstein's record and held other people up against it. I don't think that wave happens without a trigger the size of Weinstein. The push and the pushback belong to two camps. The names on the credits are the surface.
+> **TL;DR:** MeToo was planned by the industry and timed to take out MAGA. Weinstein's crimes were real. The wave held everyone else up against his record, and I don't think that season happens without a detonation that size. Disney hires the cancelable man, fires him later, and leaves a hole. The choreography works even when the firing fails, because the bad-man story still gets written down. The pile lands on everyone next to the president, ramps through the first term, and gets used against him as insurrection. That charge is the bad-man story and the male ego. Two camps. The names on the credits are the surface.
 
-The wave took movie producer Harvey Weinstein's record and held other people up against it. Weinstein's crimes were real. The people measured against those crimes had other records.
+Harvey Weinstein ran a studio, harassed and assaulted women for years, and paid for silence. Roger Ailes was already out in 2016. Bill O'Reilly was already out in April 2017. Weinstein's week is the one that became the season. Kevin Spacey lost the show off one published account, then a rush. James Gunn was fired for old jokes and hired back. John Lasseter had a real misconduct file, and it was still a different file from Weinstein's. Louis C.K. confirmed the rooms, lost the deals, and had already put the ugly material in the act. Chris Sims survived. Marvel kept him. He agreed to the bad-man category, stepped away from the other forum, and the sexual evidence was zero. Chuck Wendig lost a Star Wars book over current tweets. Roseanne Barr lost the show over one tweet. I think she canceled herself to get away from the people who made *The Conners*.
 
 ## What Weinstein's record actually was
 
@@ -84,7 +84,7 @@ The two-camp sentence is a pointer, and it should stay a pointer. The article do
 
 Keywords: #MeToo #CancelCulture #HarveyWeinstein #ChrisSims #KevinSpacey #JamesGunn #LouisCK #RoseanneBarr #Marvel #Disney #TwoCamps #ParadigmThreatFiles
 
-**Last updated:** 2026-10-23T01:58:00-04:00
+**Last updated:** 2026-10-23T02:02:00-04:00
 
 ---
 
