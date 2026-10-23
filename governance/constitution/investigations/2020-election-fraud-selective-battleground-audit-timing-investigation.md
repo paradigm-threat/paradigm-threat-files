@@ -20,6 +20,7 @@
 5. **All-or-nothing legitimacy (author sentiment)** → [§9](#9-all-or-nothing-legitimacy--author-sentiment)
 6. **Session findings table** → [§10](#10-session-findings-2026-07-22)
 7. **Open claims / questions / Limits** → [§11](#11-authors-open-claims)–[§12](#12-questions-to-clarify-verify-or-debunk)
+8. **Specimen catalog (other file)** → [voter-fraud evidence](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md). Local convictions do not prove 2020. Dismissed 2020 lawsuits do not prove the system clean.
 
 ---
 
@@ -79,6 +80,8 @@ County officials and allied messaging treated the ballot-heavy review as answeri
 That split **is** the method: spend millions on a **spectacle recount** that returns a **no-outcome-changing-fraud** headline, while the **audit surface that could show remote access / log deletion / network events** stays behind special-master walls or county refusal. The public remembers “Arizona audited; Trump still lost.”
 
 **Tier:** Router/log refusal + special-master path = **Documented**. “Staged to validate no-fraud” = **Author**. Cyber Ninjas competence / conflict-of-interest critiques = **Documented controversy** (separate from whether network forensics were blocked).
+
+The author’s later witness — he watched the count, the news, and Telegram and treats the log fight as the giveaway — and the assessment that a lack of evidence and a lack of audit privilege are the same door, are in [voter fraud §9.1](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md#91-assessment--arizona-logs-the-two-lacks-jail-and-covid-mail).
 
 ---
 
@@ -301,6 +304,7 @@ On the **legitimacy / “who really won a fair contest”** axis, the political 
 | [Q-Anon CO investigation](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Pre-Q / Anonymous / merger grammar; protest poison-pill index |
 | [REDACTION.md](/docs/REDACTION.md) | **R6** shell / misdirection — killable public subset |
 | [Author-unique theories **AU-037**](/history/chronology/investigations/author-unique-theories.md) | Registry row for this package |
+| [Voter fraud — adjudicated evidence, polls, betting](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md) | Court-grade specimen catalog and the poll / prediction-market extension. Does not re-try this cycle |
 
 ---
 

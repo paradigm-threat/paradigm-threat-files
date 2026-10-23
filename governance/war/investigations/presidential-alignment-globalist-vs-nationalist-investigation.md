@@ -223,6 +223,8 @@ Jefferson is **not** scored Nationalist despite pluralistic / proto-party fights
 | **1982 Chicago DOJ wave; later local absentee overturns** (e.g. East Chicago 2003; Perth Amboy 2015; Bridgeport CT 2023) | Machine remnants + absentee | Convictions / court-ordered new elections in **thin local margins** | Continuity proof: fraud still bites **where it mattered locally**; Heritage sampling vs Brennan “vanishingly rare” = volume fight, not “never a tool” |
 | **2000 Florida / 2016–2020 national mail narratives** | Recount design / mass mail volume | Process fights and political claims; courts largely rejected outcome-changing 2020 fraud packages | Modern **scale** change ≠ invention of fraud; do not rest the bag-of-tricks lock only here |
 
+**Catalog:** Court-voided elections, guilty pleas, and the poll and betting-market extension are in [voter fraud — adjudicated evidence](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md). This section stays the bag-of-tricks lock. It does not re-list those cases.
+
 **How this locks to prior sections:**
 
 - Stacks under **establishment bag of tricks** next to red tape and tip-removal — [Depression article](/governance/war/the-great-depression-was-planned.md) presidential bridge.
