@@ -5,7 +5,7 @@
 
 **Open.** Assembles mainstream and alternate framings for **blood rain**, **continental dust** (trade-wind / aeolian), the **Dust Bowl**, and **Siberian-scale forest destruction**, with emphasis on how they might read alongside a **post–MFEE** ecological tail (see [Slow ecological collapse — MFEE through Donner era](/history/chronology/investigations/slow-ecological-collapse-mfee-through-donner-era.md)). This file does **not** assert that any one mechanism explains all cases; it traces sources and lists testable threads.
 
-**Related:** [MFEE investigation](mfee-investigation.md) | [Mud flood evidence page](/history/mudflood/page.md) (blood-rain imagery) | [Mud flood notes](/history/mudflood/notes/page.md) (bullet list: blood rains, Dust Bowl, Tunguska) | [Spore / aerial biological disaster — Martian cylinders & fiction parallels](spore-ecological-disaster-martian-cylinders-investigation.md)
+**Related:** [MFEE investigation](mfee-investigation.md) | [Mud flood evidence page](/history/mudflood/page.md) (blood-rain imagery) | [Mud flood notes](/history/mudflood/notes/page.md) (bullet list: blood rains, Dust Bowl, Tunguska) | [Spore / aerial biological disaster — Martian cylinders & fiction parallels](spore-ecological-disaster-martian-cylinders-investigation.md) | [Poe’s City in the Sea / Byron’s Darkness (AU-079)](poe-city-in-the-sea-mudflood-investigation.md) — the long dark and the mud-rain as one event on the targeted places
 
 ---
 

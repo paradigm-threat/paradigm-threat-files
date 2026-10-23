@@ -50,7 +50,7 @@
 | Location | Role in Novel | Historical Reality |
 |----------|---------------|-------------------|
 | **Geneva** | Victor's birthplace, family seat | Real; Shelley was there 1816 (Villa Diodati) |
-| **Lake Geneva** | Frame: "year without summer" | 1816 volcanic winter; Byron, Shelley, Polidori present |
+| **Lake Geneva** | Frame: "year without summer" | 1816 volcanic winter; Byron, Shelley, Polidori present. Byron’s “Darkness,” written there that July, is read as the long dark after the mud flood in [AU-079](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md). *Frankenstein* stays in this file. |
 | **Ingolstadt** | Victor's university; creation site | University of Ingolstadt (founded 1472); anatomy theatre (1722–36), chemistry lab (1778); one of finest anatomy facilities in Europe by late 18th c. |
 | **St. Petersburg, Archangel** | Walton's North Pole expedition ports | Real Arctic exploration ports |
 | **Lake Como** | Elizabeth's peasant cottage, adoption | Real; Shelley visited |

@@ -53,6 +53,8 @@ History is written by victors of war and protected by the threat of further war.
 * [Voting for Insecticide](/governance/constitution/voting-for-insecticide.md) — Midterm fork: it looks like both sides would burn everything; only one side actually would.
 * [Abolish the justice system](/governance/constitution/abolish-the-justice-system.md) — Do not vote for judges. Take the dispute to mediation. The courts and the jails go.
 * [Justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) — The court as a rival government: English equity kept after independence, voting for judges, and AI in chambers.
+* [Poe’s City in the Sea and Byron’s Darkness (AU-079)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — A sinking city, the long dark, and the later science-fiction shelf.
+* [The city in the sea](/history/mudflood/the-city-in-the-sea.md) — Reader essay: recent memory, the volcano, the gills, and the magazine announcements.
 
 ### [Category: Genocide](/governance/genocide)
 

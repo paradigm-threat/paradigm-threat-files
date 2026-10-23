@@ -104,6 +104,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Pre-Mudflood Maps — Fra Mauro, the Sahara, and Under-500-Year Desert Claims](/history/maps/investigations/fra-mauro-sahara-pre-mudflood-maps-investigation.md)
 - [Investigation: American Burial Mounds — MFEE Fossilization, Smithsonian Erasure, and National-Park Gatekeeping](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md)
 - [Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md)
+- [Investigation: Poe’s City in the Sea, Byron’s Darkness, and sunken cities in the mud flood (AU-079, open)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md)
 - [Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction](/history/mudflood/investigations/cargo-cults-investigation.md)
 - [MFEE Investigation — Evidence and Map Changes Over Time](/history/mudflood/investigations/mfee-investigation.md)
 - [Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md)
@@ -408,6 +409,7 @@ Consolidated list for agent-assisted acquisition or linking. Priority: CIA (expl
 - [ ] **Yakuza:** Yakuza–Nintendo/Square adjacency; Unification Church–Yakuza links; British consular/commercial networks in Meiji Japan.
 - [ ] ***FFVII* AU-055:** Japanese print/forum archaeology for war-novel “original”; Ultimania Omega page-stable Reunion/Jenova-mimic cites; VII→VIII/IX leftover-music track map (shared with Uematsu file).
 - [ ] **American Revolution:** Dutch capital flows to specific Amsterdam houses; Bank of England vs post-1789 US finance; Masonic networks.
+- [ ] **Poe city / AU-079:** *Selected Letters* for the 30 Nov 1936 White letter and the tale-source letters; Larderello 1904 and Reykjavík 1930 against a plant or city history; Campbell 1909 “came down”; AFI 22802 and Lampley p. 121; no game title until a script is quoted.
 - [ ] **French/British Civil War:** Fomenko treatment; Masonic/Illuminati role; 1666 prophesiers and coordination; merchant networks (Levant, EIC); Dutch Revolt comparison.
 
 ### Dead ends (no further agent validation possible without new evidence)

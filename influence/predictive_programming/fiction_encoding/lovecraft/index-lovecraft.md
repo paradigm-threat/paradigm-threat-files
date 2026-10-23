@@ -109,7 +109,7 @@ These stories contain explicit mechanisms for perceiving, communicating with, or
 
 ### The Shadow over Innsmouth (1931) — ~26,700 words
 **File:** `txt/the-shadow-over-innsmouth.txt`
-**Theme:** Deep Ones' pact with humans — hybridization program. The narrator discovers his *own* Deep One heritage. Genetic transformation as involuntary change.
+**Theme:** Deep Ones' pact with humans — hybridization program. The narrator discovers his *own* Deep One heritage. Genetic transformation as involuntary change. The mud-flood survival reading (water-breathing people who lived through a sinking, and the mer/land war) is [AU-079](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md). This hybridization line stays.
 
 ### The Dunwich Horror (1928) — ~17,400 words
 **File:** `txt/the-dunwich-horror.txt`

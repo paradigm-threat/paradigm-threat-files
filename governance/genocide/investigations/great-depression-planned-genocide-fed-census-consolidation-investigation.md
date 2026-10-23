@@ -15,6 +15,7 @@
 | [Slave trades / Moor + SSA](/governance/slavery/slave-trades-and-moor-etymology-investigation.md) · [You are a slave](/governance/slavery/you-are-a-slave-neo.md) | Social Security compulsory ID / payroll claim |
 | [Matrix / Not Like This](/influence/predictive_programming/investigations/matrix-not-like-this-containment-investigation.md) · [*Not Like This*](/influence/controlled_opposition/not-like-this.md) | Post-consolidation FBI secret-police continuity |
 | [**The Great Depression Was Planned** (reader article)](/governance/war/the-great-depression-was-planned.md) | Off-books epistemology + Ukraine close — **this dossier is the companion** |
+| [Poe / Byron / Innsmouth (AU-079)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) | Uses 1936–37 as the condition of the Lovecraft book, the death, and the later editors. Does not add a Depression claim |
 
 ---
 

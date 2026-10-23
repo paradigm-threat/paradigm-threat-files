@@ -128,6 +128,7 @@ Master list of dossiers and reader essays on this park. Browse by folder in the 
 * [American burial mounds - MFEE fossilization, Smithsonian erasure, national-park gatekeeping](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md) - Bilbo Mound, mound destruction vs cover-up, giant press, parks/plaques, forced identity.
 * [Bilbo Mound and America's buried past](/history/mudflood/bilbo-mound-and-americas-buried-past.md) - Reader essay: catastrophe graves, MFEE hinge, generational scar, pro-American ancestry.
 * [Blood rain](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md) - Passat dust, Dust Bowl, post-mud-flood ecological shocks.
+* [Poe’s City in the Sea / Byron’s Darkness — sunken cities (AU-079)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) - 1831–1845 printings, the long dark, the 1965 volcano, Innsmouth and the science-fiction shelf.
 * [Cargo Cults](/history/mudflood/investigations/cargo-cults-investigation.md) - Official history vs manna redaction and behavior.
 * [MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) - Map evidence and boundary changes; **AU-044** gold hunger after Horde alchemy-memory wipe (Black Hills specimen in [None of Them Survived](/history/chronology/none-of-them-survived.md)).
 * [Mudfossil University / Roger Spurr](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md) - Soft-tissue mudfossils, Helix P-234 mtDNA, Yale outreach claims (open).
