@@ -1,29 +1,31 @@
-# Investigation: Chris Sims, the pre-career archive, and who cancels after they knew
+# Investigation: Chris Sims, the pre-career archive, and whether he went along
 
-> **TL;DR:** Chris Sims’s Marvel break was the March 2015 *X-Men ’92* solicit. The conduct window he later named is 2007–2010, on a fan blog, five years before that job. The famous cry line is in this file and is **not evidence**. Four wordings disagree, no original thread has been recovered, and his apology does not supply the missing page. *Gideon v. Wainwright* is the frame for that plea: a bad defense produces a record that later writers cite instead of the exhibit. The method from here is pattern: public dates, bylines, firings, and credit sequences lined up against each other. Fox, DC, and Disney-Pixar removed someone after a reputation was already in the record. Disney agreed to buy Marvel on 31 Aug 2009 and closed on 31 Dec 2009. The date people still mix that up with is the summer 2015 film restructure, after this hire. The author reads that restructure as the start of the leadership rally behind the best films, adjacent in ideals to MAGA initiatives that come later, with the cancel pattern as the other camp pushing back. Alonso’s public line was that the comics office did not know, and the Sims byline continued through 2023. The author’s reading of that mix-up is that Disney had already set him up. Perlmutter’s desk does not put the hire outside Disney’s influence or responsibility. The Nov 2017 swap of Alonso for C.B. Cebulski is the publishing-desk change on that same calendar. Weinstein is the parent-company pattern: years of ownership, a denial, an off-books payment. *Endgame* is the on-screen pattern: no next-film tag, six signatures, Downey last.
+> **TL;DR:** Chris Sims was not canceled. Cancellation here means getting fired with no chance to redress a grievance or petition. A public attack is not that. Marvel kept *X-Men ’92* and kept printing his name through 2023. Online talk still calls the March 2015 week a public cancel, and that talk has to be read against the job. The open question is whether he went along with the narrative. The author’s read is that he was pressured to agree to everything, and the exhibit was not there. His Marvel break was the March 2015 *X-Men ’92* solicit. The conduct window he later named is 2007–2010, on a fan blog, five years before that job. The famous cry line is in this file and is **not evidence**. Four wordings disagree, no original thread has been recovered, and his apology does not supply the missing page. *Gideon v. Wainwright* is the frame for that plea: a bad defense produces a record that later writers cite instead of the exhibit. The method from here is pattern: public dates, bylines, firings, and credit sequences lined up against each other. Fox, DC, and Disney-Pixar removed someone after a reputation was already in the record. Disney agreed to buy Marvel on 31 Aug 2009 and closed on 31 Dec 2009. The date people still mix that up with is the summer 2015 film restructure, after this hire. The author reads that restructure as the start of the leadership rally behind the best films, adjacent in ideals to MAGA initiatives that come later, with the cancel pattern as the other camp pushing back. Alonso’s public line was that the comics office did not know, and the Sims byline continued through 2023. The author’s reading of that mix-up is that Disney had already set him up. Perlmutter’s desk does not put the hire outside Disney’s influence or responsibility. The Nov 2017 swap of Alonso for C.B. Cebulski is the publishing-desk change on that same calendar. Weinstein is the parent-company pattern: years of ownership, a denial, an off-books payment. *Endgame* is the on-screen pattern: no next-film tag, six signatures, Downey last.
 
 ## Status
 
-**Open.** Cry line barred as evidence until the original thread is in hand. Knew-then-cancelled comparison is a starter timeline, not a census.
+**Open.** The tip is whether he went along with the narrative. He was not canceled. Cry line barred as evidence until the original thread is in hand. Knew-then-cancelled comparison is a starter timeline of other people, not a census, and his own row fails it.
 
 ## Guide (read order)
 
 1. [Evidence tiers, and the cry-line rule](#evidence-tiers-and-the-cry-line-rule)
 2. [Author’s originating thesis](#authors-originating-thesis)
-3. [The cry line is in the file and is not evidence](#the-cry-line-is-in-the-file-and-is-not-evidence)
-4. [*Gideon*](#gideon-v-wainwright--a-plea-is-not-the-exhibit)
-5. [What he said, when, and whether Marvel was the career](#what-he-said-when-and-whether-marvel-was-the-career)
-6. [Did he clean up before the hire?](#did-he-clean-up-before-the-hire)
-7. [Knew, then cancelled — MeToo comparison timeline](#knew-then-cancelled--metoo-comparison-timeline), including [the Weinstein profile](#the-weinstein-profile-they-were-measured-against)
-8. [The other influence: a new owner, or a control fight](#the-other-influence-a-new-owner-or-a-control-fight)
-9. [Marvel’s own row](#marvels-own-row), including [two camps](#two-camps)
-10. [The original page is still missing](#track--the-original-page-is-still-missing)
-11. [Disney and Weinstein](#track--disney-weinstein-and-a-notice-that-may-never-have-been-sent)
-12. [*Endgame* credits](#track--endgames-credits-as-a-pattern)
-13. [Marvel kept hiring him](#track--marvel-kept-hiring-him)
-14. [Open claims](#authors-open-claims) → [Questions](#questions-to-clarify-verify-or-debunk) → [Related](#related-investigations)
+3. [He was not canceled](#he-was-not-canceled)
+4. [Did he go along?](#did-he-go-along)
+5. [The cry line is in the file and is not evidence](#the-cry-line-is-in-the-file-and-is-not-evidence)
+6. [*Gideon*](#gideon-v-wainwright--a-plea-is-not-the-exhibit)
+7. [What he said, when, and whether Marvel was the career](#what-he-said-when-and-whether-marvel-was-the-career)
+8. [Did he clean up before the hire?](#did-he-clean-up-before-the-hire)
+9. [Knew, then cancelled — MeToo comparison timeline](#knew-then-cancelled--metoo-comparison-timeline), including [the Weinstein profile](#the-weinstein-profile-they-were-measured-against)
+10. [The other influence: a new owner, or a control fight](#the-other-influence-a-new-owner-or-a-control-fight)
+11. [Marvel’s own row](#marvels-own-row), including [two camps](#two-camps)
+12. [The original page is still missing](#track--the-original-page-is-still-missing)
+13. [Disney and Weinstein](#track--disney-weinstein-and-a-notice-that-may-never-have-been-sent)
+14. [*Endgame* credits](#track--endgames-credits-as-a-pattern)
+15. [Marvel kept hiring him](#track--marvel-kept-hiring-him)
+16. [Open claims](#authors-open-claims) → [Questions](#questions-to-clarify-verify-or-debunk) → [Related](#related-investigations)
 
-Full accusation registry for the 2017 wave lives in [#MeToo choreography](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md). This file only keeps rows that test “the company already knew, and cancelled later,” plus the ownership event that could explain a policy change.
+Full accusation registry for the 2017 wave lives in [#MeToo choreography](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md). The comparison table still tests “the company already knew, and cancelled later.” Sims’s row fails that test. The tip of this file is the plea.
 
 ---
 
@@ -34,7 +36,7 @@ Full accusation registry for the 2017 wave lives in [#MeToo choreography](/influ
 | **L1 — Documented** | Press release, dated trade article, on-record statement, court holding | Disney close; Alonso statement; Sims’s apology text; Berganza firing; O’Reilly exit; Moonves resignation; Lasseter leave and exit |
 | **L2 — Trade pattern** | Repeated industry reporting of who knew inside a company | Lasseter shielded by Pixar/Disney executives; Berganza HR complaint in 2010; O’Reilly settlements before the NYT story |
 | **Not evidence** | A sentence whose original page is missing | The cry line, in every wording, including where an editor calls it his admission |
-| **Author** | Pattern read the author is testing | Hire-to-cancel; *Gideon* applied to the apology; *Endgame* credits as a camp farewell |
+| **Author** | Pattern read the author is testing | Whether he went along; *Gideon* applied to the apology; *Endgame* credits as a camp farewell. The 22 Oct hire-to-cancel read is still in the thesis block. The firing it predicted did not happen |
 
 **Author lock (2026-10-22):** the cry line may be printed so a reader can see what circulated. It may not be used as evidence of any kind. Whole context would mean the page, what she wrote, what he was answering, and the thread around it. His apology does not meet that bar. ComicsAlliance’s phrase “by his own admission” does not meet it either.
 
@@ -70,9 +72,25 @@ Full accusation registry for the 2017 wave lives in [#MeToo choreography](/influ
 
 > “If the hire existed so the old posts could be used, that was the moment to use them.” Wrong. Trump was not president yet. There was no objective, no aim.
 
-**Author lock, same day, on the word:**
+**Author lock, same day, on the word. Superseded 2026-10-23:**
 
 > When I say Chris was canceled, it’s because many others have said it too. That’s the perception and what he was dealing with, even if he was never fired.
+
+**Author lock (2026-10-23), the word withdrawn, and the new tip:**
+
+> There are online confusion with the doctors. Apparently he was not cancelled. And people may have thought he was, but they have to look closer at the details. Cancellation really just means getting fired without any chance to redress grievances or petition. It does not mean being attacked in public. The question that I have really is whether or not Chris went along with the narrative in the end. It seems like he was pressured to just agree to everything, even though there was no evidence. That in itself is the tip of this investigation now, not cancellation.
+
+**Author, later the same morning, working theory. He said he was trying not to prove it:**
+
+> Chris's strategy seems to be similar to Louis CK, but at much more simplified and subtle level. Only agreeing to what he knows he can get in trouble with, and moving on. Louis CK didn't have a way of doing this, and had to put all of his so-called accusations into his episode. Although this is mostly my working theory, and I was trying not to prove this. Anyone can understand an excellent PR strategy that would allow him to be more or less a survivor. Essentially just agreeing to the whole bad narrative. In other words, every time a man, celebrity, takes the blame for being a bad, abusive man to protect himself, there is a cost to the rest of the men in the world. Reputationalize. It becomes that much easier for everyone to simply believe that all men in positions of leadership or authority are like this. I was approaching the Chris Sims thing from the assumption that he was canceled, but looking closely, he wasn't. Alonso protected him and he stayed with Marvel for a long time after. Doesn't follow the pattern of cancellation, only public attack and standard pr handling. In fact, I go the other way now - how much did Christ simply go along with the bad man narrative just to protect himself like Louie CK did? Excellent strategy, but there is a cost, especially to people like me who continue to endure the Weinstein comparison.
+
+**Author lock, later the same morning. The reversal is Chris. Disney’s plan stands:**
+
+> Note that although I am reversing my position on Chris Sims, I am not reversing my position on Disney or their cancellation plan. In fact, I feel like this choreography of hiring people like Chris, cancelling them later and creating a power vacuum, is extremely effective even when it fails. And the proof is that he had to walk away from the other public forum as a result. But the most important point I want to make on Chris is that even if he survives, the narrative against 'bad men' in general is further enshrined, and there is a cost to other people in the same industry, different industries, and world wide.
+
+**Author lock, later the same morning, on why the pile is aimed at the president:**
+
+> It is the cumulative effect on all of society adjacent to the president, and that is why this is so powerful. It required a ramp-up and a pinnacle in the middle of his first term so they could use it all against him and claim insurrection. The accusation of insurrection itself is tied to the bad man, male ego narrative.
 
 **Author lock, same day, on the two camps:**
 
@@ -87,14 +105,42 @@ Full accusation registry for the 2017 wave lives in [#MeToo choreography](/influ
 | **Knew, then cancelled** | Line this calendar up against companies that removed someone after a reputation was already public | Dates and outcomes are the pattern. Alonso’s denial is one public sentence on the Marvel row, the same kind of sentence the other rows also carry |
 | **Other influence** | An acquisition or a control fight sits on the same calendar as the policy change | 31 Aug 2009 announcement, 31 Dec 2009 close, summer 2015 Feige restructure, Nov 2017 desk change. The author’s reading is that the date mix-up is how a parent sets a hire up |
 | **Cap / *Endgame* / *Office*** | Messaging drop and actor-IP reuse after 2019 | Author pattern. The screen and the later roles are what get lined up. Film side stays in [Trump-era Hollywood](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) |
-| **Abrasive placeholder** | Hire the man with the public feud so he occupies the male slot, blocks steadier men, and can be cancelled into the Trump stereotype when MAGA is the public fact | Author mechanism for this hire. D’Orazio had a Marvel credit (*Punisher MAX: Butterfly*). The byline through 2023 is the calendar fact sitting beside the cancel beat |
+| **Abrasive placeholder** | Hire the man with the public feud so he occupies the male slot, blocks steadier men, and can be cancelled into the Trump stereotype when MAGA is the public fact. The 23 Oct reversal is Chris’s own outcome. The Disney plan stays. A failed firing still leaves the vacuum and still enshrines the bad-man story | Author mechanism for this hire. D’Orazio had a Marvel credit (*Punisher MAX: Butterfly*). The byline through 2023 is the calendar fact sitting beside a firing that did not happen |
 | **Two camps** | Summer 2015 Feige restructure begins the leadership rally and the best film run. The other camp cancels leaders who share those ideals and virtues with the nationalist initiatives that come later | Author pattern. The overlap is ideals and virtues. The file lines up the two public patterns |
 
 Sims is the abrasive placeholder in that mechanism, not a failed example of canceling Captain America. He was a progressive ComicsAlliance writer. The charge was an old public feud with a woman who had written for Marvel. A hire with a clean web footprint was available. The author reads the choice of this footprint as the stocking step: an abrasive man in the slot, available for a later cancel that teaches the public what an abusive man looks like, with Trump as the face of that type.
 
-The solicit week is not that later cancel. Trump announced on 16 June 2015, three months after the 17 March solicit, and took office on 20 January 2017. In March 2015 there was no presidency to counterweight. Keeping the book that week is what stocking looks like on this clock. Spending the archive then would have been before the aim existed. The aim the author names is a cancel during the MAGA years. Gunn’s firing, 20 July 2018, sits inside that presidency. Sims’s Marvel byline runs through it and past it, through 2023.
+The solicit week is not that later cancel. Trump announced on 16 June 2015, three months after the 17 March solicit, and took office on 20 January 2017. In March 2015 there was no presidency to counterweight. Keeping the book that week is what stocking looks like on this clock. Spending the archive then would have been before the aim existed. The aim the author named on 22 Oct was a cancel during the MAGA years. Gunn’s firing, 20 July 2018, sits inside that presidency and meets the definition below: Disney fired him. Sims’s Marvel byline runs through that presidency and past it, through 2023. The firing the stocking read predicted for him did not happen. On 23 Oct the author reversed the outcome on Chris and kept the Disney plan. Hiring a man like him, aiming to cancel him later, and leaving a hole where a steadier man would have stood, is the choreography. The author says that choreography is effective even when the firing fails.
 
-**What “canceled” means in this file.** The author uses it for the public ordeal and the widespread perception that he had been canceled, including when the Marvel byline continued. On 23 Mar 2015 he told *War Rocket Ajax* listeners he was stepping away from ComicsAlliance, that the leave was voluntary and not permanent, and that a freelancer who is not working is not getting paid ([The Mary Sue](https://www.themarysue.com/sims-comics-alliance-dorazio-twitter/)). Marvel kept *X-Men ’92*. The 2017 Mary Sue sexual-misconduct timeline and the January 2018 WWAC piece are the ordeal still being prosecuted years later. In this file, “Chris was canceled” names that perception and that cost. It does not name a Marvel firing. The 2015 trade press calls it harassment, an apology, and a voluntary leave. The word “canceled” is the author’s name for what he was dealing with, which is also how others described it.
+**Author, same morning.** The power is the cumulative effect on everyone standing next to the president. The pile needs a ramp and a pinnacle in the middle of the first term, so the whole of it can be used against him. The charge at the end of that use is insurrection, and the author ties that charge to the bad-man story and the male ego.
+
+**Calendar beside that purpose.** Inauguration is 20 Jan 2017. The Weinstein week is 5–15 Oct 2017. Gunn’s firing is 20 Jul 2018, Roseanne’s firing is 29 May 2018, Wendig’s removal is 12 Oct 2018. The middle of a term that runs to 20 Jan 2021 falls in 2019. The House’s first impeachment, 18 Dec 2019, is abuse of power and obstruction, not insurrection. The insurrection accusation is the second impeachment article, adopted 13 Jan 2021, “incitement of insurrection,” after the 6 Jan 2021 Capitol breach ([H. Res. 24](https://www.congress.gov/bill/117th-congress/house-resolution/24)). The ramp is on the calendar. The pinnacle-in-the-middle, the plan to store the pile for that charge, and the tie between insurrection and male ego are the author’s.
+
+---
+
+## He was not canceled
+
+**What “canceled” means in this file, as of 2026-10-23.** Getting fired, with no chance to redress a grievance or petition. A public attack is a different event. The 22 Oct use of the word for perception is withdrawn. Online talk still uses the withdrawn sense. The docs those readers pass around have to be read at the job. Claire Napier’s [7 Jan 2018 WWAC piece](https://womenwriteaboutcomics.com/2018/01/i-guess-we-still-need-to-talk-about-chris/) is one of them. That piece reopens the feud and says *The Mary Sue* should have left him off a sexual-misconduct timeline. It is not a firing. Alonso kept the book. The byline runs through 2023. He was not canceled.
+
+On 23 Mar 2015 he told *War Rocket Ajax* listeners he was stepping away from ComicsAlliance a little bit, that he would be back, and that the leave was voluntary: “It is a thing that I agreed to. It is a thing where I said Yes, I am not a valuable voice right now.” He added that a freelancer who is not working is not getting paid ([The Mary Sue](https://www.themarysue.com/sims-comics-alliance-dorazio-twitter/)). That pause is his own column paycheck while he was not writing the columns. ComicsAlliance had been paying him. WWAC in 2018 says he stayed until the site shut in 2017. Marvel kept *X-Men ’92*. **Author:** Alonso protected him. The protection on the record is the kept book, the accepted apology, and the byline through 2023.
+
+---
+
+## Did he go along?
+
+**Author (2026-10-23):** the question is whether he went along with the narrative in the end. The read being tested is that he was pressured to agree to everything, even though there was no evidence. That is the tip. Cancellation is not.
+
+**What he agreed to, in his own words, the week of the solicit.**
+
+- **17 Mar 2015, his blog.** He dropped “feud.” He wrote that it was more one-sided than anything else, and that he was “in no uncertain terms the aggressor and a complete jerk.” He named harsh comments on her comics, jerky comments on her site, and trash talk. “What I said is a matter of public record.” At worst, he wrote, he “contributed to and validated the harassment of both Ms. D’Orazio and of women in general.” He said he stopped once he realized that, long after he should have. ([CBR](https://www.cbr.com/dorazio-blasts-sims-for-past-bullying-x-men-92-writer-apologizes-updated/), [ComicsBeat](https://www.comicsbeat.com/dorazio-v-sims-dawn-of-justice/))
+- **18 Mar 2015, Ask Chris, still on ComicsAlliance.** “Between 2007 and 2010, I harassed and bullied Valerie D’Orazio online.” He said he did it, that no part of it was okay, and that he was apologizing because he had been called out privately and publicly. “I’m sorry, I was completely in the wrong, and you have every right to reject this apology for being nowhere near as timely or helpful as it should be.” ([Ask Chris](https://comicsalliance.com/ask-chris-being-part-of-the-problem/))
+- **23 Mar 2015, *War Rocket Ajax* 246.** “I did it – that is not in question – and it was not OK.” “I regret every part of it, and it was all me.” He also said he does not delete old posts, and that the mistakes are still up if anyone wants to look. Then he agreed to the leave, in the words above.
+
+**What he did not agree to.** None of those three texts contains a cry sentence. ComicsAlliance’s editors still told readers that “by his own admission” he had written “Go cry about it, Val.” The admission in his texts is the category: jerk, aggressor, personal attack, harassment, bullying. The cry line stays not evidence, in the next section. *Gideon* is the frame for a plea standing in for a missing page.
+
+**Where “no evidence” and “pressure” sit.** The missing thread, the four disagreeing cry wordings, and the sexual category *The Mary Sue* used in November 2017 are the empty exhibit. His own line that the posts were still public is also on the record. Those two facts stay side by side. He pleaded to the category without putting the page in the file, and he said the page could still be read. The pressure reading is the author’s: Gallaher warned him the old posts were about to be used against the new Marvel solicit, her tweets landed the same day as the blog apology, the column followed the next day, and five days later he said he was not a valuable voice right now and agreed to step back. A later text where he takes the plea back is not in this file. “In the end” is open until that search is done. The week itself is agreement.
+
+**Working theory, same morning. Left unproved.** His agreement is the simple version of what Louis C.K. did by putting the charge in the act. Louis had to load the accusations into the work. Sims agreed to the charge he could live with, the category of jerk and bully, and moved on. He did not adopt the cry line. Alonso kept the book, and the byline runs through 2023. That is a public attack plus ordinary PR handling. His own firing did not happen. The Disney plan is a separate lock, and it stands: hire men with this footprint, cancel them later, leave the slot empty of steadier men. The author says that choreography still works when the firing fails. The proof he names is the other forum. On 23 Mar 2015 Sims agreed to step away from ComicsAlliance, said he was not a valuable voice right now, and said he would be back. WWAC in 2018 says he stayed until the site shut in 2017. The author reads that step-back as the hit that landed. The point he ranks first is the one that does not depend on the firing. Survival still writes the bad-man story down. The cost runs through comics, through other industries, and worldwide. Reputationalize is his name for that cost, including the Weinstein comparison he says he still carries. This file records the theory. It does not go looking for a memo that proves the strategy was planned.
 
 ---
 
@@ -203,17 +249,17 @@ That gap is the elephant. The wave compares them to Weinstein’s crimes and his
 
 ### Louis C.K. — the act was already dirty, and the deals still ended
 
-**Author:** a publicist had him put the controversial sexual material in the show, so there would be no “let’s talk about Chris” moment. No hidden page to produce later. The assumption that he came through the wave intact was withdrawn. The question that stays is the cancel score this file already uses for Sims: what was given up, and what continued.
+**Author:** a publicist had him put the controversial sexual material in the show, so there would be no “let’s talk about Chris” moment. No hidden page to produce later. The assumption that he came through the wave intact was withdrawn. The 23 Oct working theory sets the two men side by side without trying to prove a plan. Louis loaded the accusations into the act. Sims agreed to the charge he could live with and kept the Marvel job. Alonso’s keep is the protection. The cost the author names is reputationalize: other men, including the author, inherit the Weinstein comparison.
 
 **The archive half.** The act had carried masturbation, sexual shame, and the ugly ask for years. A Sims-style second file, a scrubbed blog comment produced a decade later, is not what November 2017 was. *I Love You, Daddy* put the adjacent plot on screen: he wrote, directed, and starred; John Malkovich plays an older director with a reputation for young women; Chloë Grace Moretz plays the 17-year-old. Toronto in September 2017, release set for 17 Nov. The premiere was pulled the day the *Times* story ran. [The Orchard](https://www.bbc.com/news/entertainment-arts-41947412) then scrapped the release. Putting the scandal in the work did not absorb the charge. It sat in the same week as the rooms.
 
 **The manager on the record was silence, not inoculation.** Dana Min Goodman and Julia Wolov told the *Times* they felt pressed not to keep telling the Aspen story. [Dave Becky, 13 Nov 2017](https://www.nytimes.com/2017/11/13/arts/television/louis-ck-dave-becky-statement.html): he had heard it third-hand, treated it as a married man’s indiscretion, and sought discretion. “I now comprehend that my response was perceived as a threat to cover-up sexual misconduct. What I did was wrong.” He said he never confronted Louis, and that 3 Arts dropped the client that Friday. The public record of the manager is a cover around the conduct. It is not a quoted plan to pre-publish the risk in the specials.
 
-**Cancel score.** Sims’s ordeal ran while Marvel kept the byline. Louis’s week is the other shape. On 10 Nov 2017, the day he confirmed the stories, [FX](https://www.hollywoodreporter.com/tv/tv-news/fx-cuts-ties-louis-ck-sexual-misconduct-1057201/) ended the association, cancelled the overall deal with his company Pig Newton, and removed him as executive producer, with the compensation, on *Better Things*, *Baskets*, *One Mississippi*, and *The Cops*. [Netflix](https://time.com/5018978/netflix-louis-ck-sexual-misconduct-allegations/) refused the second special in a two-special deal and left the April 2017 special on the service. AP the same day: at least five of his specials remained on Netflix. HBO dropped him from *Night of Too Many Stars* and removed past specials and *Lucky Louie* from on-demand. The Orchard shelved the film. 3 Arts dropped him. His publicist, Lewis Kay, quit.
+**Cancel score.** Marvel kept Sims’s byline. Under the 23 Oct definition he was not canceled. Louis’s week is a firing of the deal. On 10 Nov 2017, the day he confirmed the stories, [FX](https://www.hollywoodreporter.com/tv/tv-news/fx-cuts-ties-louis-ck-sexual-misconduct-1057201/) ended the association, cancelled the overall deal with his company Pig Newton, and removed him as executive producer, with the compensation, on *Better Things*, *Baskets*, *One Mississippi*, and *The Cops*. [Netflix](https://time.com/5018978/netflix-louis-ck-sexual-misconduct-allegations/) refused the second special in a two-special deal and left the April 2017 special on the service. AP the same day: at least five of his specials remained on Netflix. HBO dropped him from *Night of Too Many Stars* and removed past specials and *Lucky Louie* from on-demand. The Orchard shelved the film. 3 Arts dropped him. His publicist, Lewis Kay, quit.
 
 What continued was work those companies were not signing. [NYT, 28 Aug 2018](https://www.nytimes.com/2018/08/28/arts/louis-ck-comeback-reaction.html): a surprise set at the Comedy Cellar that week, nine months after he had said he would step back. Advertised sets followed that October, with protesters outside. *Sincerely Louis CK*, self-released, won the comedy-album Grammy on [3 Apr 2022](https://www.hollywoodreporter.com/news/general-news/louis-ck-wins-grammy-sexual-misconduct-1235124373/).
 
-He gave up the desk and the paycheck attached to it. He did not stop working. That is not the Sims pattern, where the employer keeps the book while the public treats the man as canceled. It is also short of a wipe. The companies that had him let go. The rooms he could book himself, and a special he could sell himself, kept going.
+He gave up the desk and the paycheck attached to it. He did not stop working. Sims’s employer kept the book. Under the 23 Oct definition that is not a cancellation. Louis’s companies ended the deal. The rooms he could book himself, and a special he could sell himself, kept going.
 
 ---
 
@@ -270,7 +316,7 @@ The 2009 close was a New York Stock Exchange press release. The confusion that l
 
 The summer 2015 restructure is a documented org change: Feige to Alan Horn, Marvel Studios out of Perlmutter’s Marvel Entertainment. What followed on screen, in the author’s reading, is the best run of the franchise, the leadership rally: *Civil War*, *Infinity War*, *Endgame*. That rally sits adjacent to nationalist MAGA initiatives that come after it. The adjacency is ideals and virtues. Leadership, a male code, a national frame.
 
-The other camp is the cancel pattern in this file. Sims’s public ordeal, the 2017 sexual-misconduct misfiling, Gunn’s 2018 firing, Wendig’s removal, the MeToo rows. The author reads those as that camp pushing back against leaders of the rally and of the initiatives, wherever the ideals and virtues overlap. The pattern takes women too.
+The other camp is the cancel pattern in this file: Gunn’s 2018 firing, Wendig’s removal, the MeToo rows that end in a firing. The 2017 sexual-misconduct misfiling of Sims sits in that season as an attack. Under the 23 Oct definition it is not a cancellation. The author reads the firings as that camp pushing back against leaders of the rally and of the initiatives, wherever the ideals and virtues overlap. The pattern takes women too.
 
 **Roseanne Barr.** On 29 May 2018 she tweeted, then deleted, that Valerie Jarrett was what you get “if muslim brotherhood & planet of the apes had a baby.” [ABC Entertainment president Channing Dungey](https://www.npr.org/sections/thetwo-way/2018/05/29/615211939/abc-cancels-roseanne-after-abhorrent-twitter-rant-from-its-star) canceled the revival the same day: “abhorrent, repugnant and inconsistent with our values.” Bob Iger backed the decision. The reboot had finished as the season’s top scripted broadcast series, and the character was a Trump voter. ICM Partners dropped her the same day. This is a current tweet, a woman, and Disney’s broadcast network. It stays outside the “sat on an old sexual file” column above. On [21 June 2018](https://variety.com/2018/tv/news/roseanne-spinoff-the-conners-ordered-by-abc-1202854210/) ABC ordered *The Conners* with the rest of the cast and with no financial or creative role for Barr. Her statement that day: she agreed to the settlement so about 200 cast and crew jobs could continue. Her separate account, already in the [speech catalogs](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md), is that the firing was for having voted for Trump. The network’s named cause is the Jarrett tweet.
 
@@ -280,7 +326,7 @@ The other camp is the cancel pattern in this file. Sims’s public ordeal, the 2
 
 The match this file uses is a shared ideal or virtue. The two patterns to line up are the film run after summer 2015, and the cancellations of people who carry those virtues.
 
-**If an agenda is assumed.** Under the author’s account of industry motives, Chris was caught by the MeToo wave because the March 2015 hire had already selected a public feud with a woman Marvel had published. A writer with a clean footprint does not land in a sexual-misconduct chronology over a 2007–2010 blog war. The Mary Sue timeline, with entries through 29 Nov 2017, is that file being spent after Trump had taken office. Disney’s part of the sentence is the selection: the owner of the desk since 2009 hired the cancelable man and kept him stocked. The wave is the other camp’s instrument, industry-wide, and this freelancer was usable inside it. “Caught” here is the canceled perception. *Deadpool: Bad Blood* is May 2017, and the byline continues after the timeline.
+**If an agenda is assumed.** Under the author’s account of industry motives, the March 2015 hire had already selected a public feud with a woman Marvel had published. A writer with a clean footprint does not land in a sexual-misconduct chronology over a 2007–2010 blog war. The Mary Sue timeline, with entries through 29 Nov 2017, is that filing. Disney’s part of the sentence is the selection: the owner of the desk since 2009 hired the man with the public feud and kept him. The wave is the other camp’s instrument, industry-wide. The public misfiling happened. Under the 23 Oct definition that attack is not a cancellation. *Deadpool: Bad Blood* is May 2017, and the byline continues after the timeline.
 
 Set next to Fox, DC, Pixar, Gunn, and Wendig, this row is the one where the archive was public, the company issued a denial, a pile-on and a brief ComicsAlliance step-back happened, a 2017 sexual-misconduct timeline misfiled him, and the byline stayed. Gunn is the Disney row where old public words line up with a firing and then a reversal. The loaded archive was used by D’Orazio and by the accounts ComicsAlliance called a hit on the site. The credit list is the pattern for what the publisher did.
 
@@ -357,15 +403,18 @@ Sources: [Marvel’s *Bad Blood* reissue announcement](https://www.marvel.com/ar
 | - | ----- | ------ |
 | 1 | Cry line, any wording, as proof he said it | **Barred** until the thread exists. Printing it is not a finding |
 | 2 | The apology proves the wording, the gendered insult, or the threats | **Barred.** Gideon frame. The plea is logged as a plea |
-| 3 | Marvel or Disney hired him in order to cancel him later | **Author.** Stocked 17 Mar 2015, before Trump’s 16 June 2015 announcement and before the 20 Jan 2017 presidency. The solicit-week pile-on is not the aim. The aim is a cancel during the MAGA years |
+| 3 | Marvel or Disney hired him in order to cancel him later | **Author. The firing of Sims did not happen. The Disney plan stands.** Stocked 17 Mar 2015, before Trump’s 16 June 2015 announcement and before the 20 Jan 2017 presidency. Gunn, 20 Jul 2018, is the Disney firing on old public words. Sims’s byline has no matching removal. On 23 Oct the author reversed the outcome on Chris and kept the choreography: hire this footprint, cancel later, leave a power vacuum. He says that choreography is effective even when the firing fails |
 | 4 | Disney ownership is why Marvel’s morals changed | **Pattern.** 2009 close, summer 2015 film restructure, Nov 2017 desk change, and the Weinstein row (denial, notice clause, off-books check) are the dates lined up. The Sims byline stays through that change |
 | 5 | *Endgame* with no post-credits scene, and the original six signing the credits, is that camp saying goodbye | **Author pattern.** The screen is logged. The goodbye reading is carried by the sequence and by what followed, which is the other Hollywood file |
 | 6 | Evans and Downey were forced back into worse roles by a new influence, on the model of *The Office* cast | **Author pattern.** The test is the later role list. It is not built yet |
 | 7 | Sims illustrates the captain pattern | **Author says no.** He illustrates the placeholder: abrasive man, feud with a woman who had a Marvel credit, hired when a cleaner reputation was available, stocked for a cancel that casts that type as the Trump stereotype |
-| 8 | “Chris was canceled” is only true if Marvel fired him | **Rejected.** Author: the sentence means the perception and the ordeal, which he dealt with whether or not the byline ended. Marvel credits continue. The 23 Mar 2015 leave from ComicsAlliance is voluntary and described by him as not permanent |
+| 8 | “Chris was canceled” | **Withdrawn, 2026-10-23.** The 22 Oct lock used the word for the public perception even though Marvel never fired him. The author withdrew that use. Cancellation means getting fired with no chance to redress a grievance or petition. A public attack is not a cancellation. He was not fired. Online talk that still calls the week a public cancel has to be read against the job |
 | 9 | Summer 2015 begins a leadership rally, adjacent in ideals to later MAGA initiatives. The other camp cancels leaders where those ideals overlap | **Author pattern.** Feige-to-Horn is documented. The rally, the adjacency, and the pushback are the author’s. The match is ideals and virtues |
 | 10 | Disney’s Weinstein failure was on purpose, to trigger the MeToo wave, which does not happen without that detonation | **Split.** The October 2017 wave clusters on the Weinstein articles. Ailes and O’Reilly are already off the calendar before that week. Disney had exited in 2005. Bob’s check, on Farrow’s reading, keeps Disney off the books. Lasseter’s leave is the same wave hitting Disney |
 | 11 | Sims, Spacey, and others are judged against Weinstein’s known crimes, history, and behavior | **The comparison is documented. The match is not.** Mary Sue’s sexual-assault timeline carries Sims. WWAC says it should not have. Spacey is dropped the month the Weinstein profile is fixed, off Rapp’s account. Gunn’s firing is old jokes in that same season |
+| 12 | He went along with the bad-man narrative as PR, the simple version of Louis C.K. loading the act, and other men pay for it | **Working theory. Do not prove it.** The March 2015 texts agree to jerk, aggressor, harassment, and bullying, and they skip the cry line. Alonso kept the book. The byline runs through 2023. That is a public attack and a kept job. The strategy and the word survivor stay the author’s. A later walk-back of the plea is still not in this file |
+| 13 | Even his survival enshrines the bad-man narrative, at a cost to the same industry, other industries, and worldwide. The ComicsAlliance step-back is the proof the choreography landed without a Marvel firing | **Author.** The 23 Mar 2015 leave is documented: he agreed, he said he would be back, and WWAC says he stayed until the site shut in 2017. The author reads that step-back as the hit. The enshrining and the worldwide cost are the point he ranks first. Reputationalize is his name for it |
+| 14 | The cumulative effect on society adjacent to the president is the point of the pile. It needed a ramp and a mid-term pinnacle so it could be used against him as insurrection, and that charge is the bad-man, male-ego narrative | **Author on the purpose. The dates are a ramp, then a later charge.** Weinstein week Oct 2017. Gunn 20 Jul 2018, Roseanne 29 May 2018, Wendig 12 Oct 2018. First impeachment 18 Dec 2019 is not the insurrection article. H. Res. 24, adopted 13 Jan 2021, is “incitement of insurrection.” The plan to store the pile for that charge, and the tie to male ego, stay the author’s |
 
 ---
 
@@ -377,6 +426,7 @@ Sources: [Marvel’s *Bad Blood* reissue announcement](https://www.marvel.com/ar
 | Q2 | What is the 2010 Marvel call in the pattern? | Her public account, dated, next to Alonso having edited *Butterfly* and next to the 2015 hire and denial. That lineup is the row |
 | Q3 | Gunn versus Sims on old public words | **Calendar.** Gunn announced 18 Sep 2012; the fired-over tweets are mostly 2009–2012; fired 20 Jul 2018; rehired 15 Mar 2019. Sims’s byline has no matching removal |
 | Q4 | *Endgame* and the later roles | The credit sequence is logged. The remaining pattern work is the Evans and Downey role list after 2019 |
+| Q5 | Did he go along in the end, or only in the week of the pile-on? | **Open, and the strategy stays a working theory.** The March 2015 texts are agreement to the category he could live with. This pass has no later text where he takes the plea back. The file does not go hunting for a plan memo |
 
 ---
 
@@ -384,7 +434,8 @@ Sources: [Marvel’s *Bad Blood* reissue announcement](https://www.marvel.com/ar
 
 | TODO | Priority | Notes |
 | ---- | -------- | ----- |
-| Evans / Downey post-2019 role list | **P1** | The *Office* pattern. Public credits and billing, lined up with the 2019 sequence |
+| A later Sims text that takes the March 2015 plea back | **P1** | The tip. Blog, Ask Chris, and *War Rocket Ajax* 246 are agreement. “In the end” stays open until a later dissent or a later restatement is found |
+| Evans / Downey post-2019 role list | **P2** | The *Office* pattern. Public credits and billing, lined up with the 2019 sequence. Lives in the Hollywood file |
 | Where those later roles sit against the post-*Endgame* franchise slate | **P2** | Same pattern, in [Trump-era Hollywood](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) |
 
 ---
@@ -394,14 +445,14 @@ Sources: [Marvel’s *Bad Blood* reissue announcement](https://www.marvel.com/ar
 | File | Relation |
 | ---- | -------- |
 | [Measured Against Weinstein](/influence/suppression/measured-against-weinstein.md) | Reader essay. This file stays the specimen |
-| [#MeToo choreography](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) | Wave machinery and the sexual-misconduct misfiling. This file is the knew-then-cancelled timeline, not a second registry |
+| [#MeToo choreography](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) | Wave machinery and the sexual-misconduct misfiling. The comparison table here still tests who was fired after the company knew. Sims’s row fails that test. The tip is the plea |
 | [Celebrity slavery / speech catalogs](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) | Carano, Roseanne, Lasseter-class creative control, post-*Endgame* “homework” |
 | [Trump-era Hollywood](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | *Civil War* / *Infinity War* / *Endgame* author thesis. Not re-argued here |
 | [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) | Board removal of a founder. Sims is a freelancer pile-on, not that form. Moonves is closer to that form than Sims is |
 
 Keywords: #ChrisSims #ValerieDOrazio #MeToo #Marvel #Disney #XMen92 #Gideon #CancelCulture #ComicsAlliance #AxelAlonso #EddieBerganza #JohnLasseter #BillOReilly #LesMoonves #LouisCK #RoseanneBarr #ParadigmThreatFiles
 
-*Last updated: 2026-10-22*
+*Last updated: 2026-10-23*
 
 ---
 
@@ -411,7 +462,7 @@ Keywords: #ChrisSims #ValerieDOrazio #MeToo #Marvel #Disney #XMen92 #Gideon #Can
 
 **The cry line is not evidence**, in any of the four wordings, and the apology does not make it evidence. That is an author lock for this file, not a finding that nothing happened on a blog.
 
-**Author thesis sections** are why the file exists. They are not automatically factual. The method lock is patterns: public dates, bylines, firings, credit sequences. The Sims byline through 2023 is the pattern on this specimen. The *Endgame* and *Office* reads stay author pattern, carried by the screen and by the later roles.
+**Author thesis sections** are why the file exists. They are not automatically factual. The method lock is patterns: public dates, bylines, firings, credit sequences. The 23 Oct lock is the operating definition: cancellation means fired, with no chance to redress a grievance or petition. He was not canceled. The open tip is whether he went along with the narrative. The March 2015 agreement is documented. The pressure reading is author. The Sims byline through 2023 is the pattern on this specimen. The *Endgame* and *Office* reads stay author pattern, carried by the screen and by the later roles.
 
 **Not claimed:** D’Orazio invented her distress. Not claimed: every MeToo firing was a frame-up. Not claimed: Berganza, O’Reilly, Lasseter, or Moonves were innocent because a control fight or a buyer also sat on the calendar. The table asks who knew, and what else was happening when the company finally moved.
 
@@ -430,3 +481,4 @@ Keywords: #ChrisSims #ValerieDOrazio #MeToo #Marvel #Disney #XMen92 #Gideon #Can
 - Wayback CDX, 22 Oct 2026: homepages exist; feud-named URLs on those hosts, 2007–2011, did not. A prefix crawl of every capture was started and killed after it returned no URL hits and then hung.
 - Weinstein track uses NYT 10 Oct 2017 (Disney denial, Eisner tweet), FT and the *New Yorker* on the Perkins clause (they disagree on “or” versus “and”), the *New Yorker* on Bob’s personal payment, and THR 2020 for the unnamed exec. The row is the lineup. The clause wordings stay side by side.
 - Method lock is the author-thesis blockquote from the same day: patterns and public calendars. Later the same day: two camps, matched on ideals and virtues. The film run after summer 2015 is one pattern. The cancellations are the other.
+- 2026-10-23, later the same morning. The reversal is Chris’s outcome. Disney’s cancellation plan stands. Hiring this footprint, canceling later, and leaving a power vacuum is the choreography, and the author says it works even when the firing fails. The proof he names is the ComicsAlliance step-back. The point he ranks first: survival still enshrines the bad-man narrative, at a cost in comics, in other industries, and worldwide. The cumulative target is society adjacent to the president. Ramp through the first term, pinnacle in the middle, use against him as insurrection, and that charge tied to the bad-man, male-ego story. H. Res. 24 (13 Jan 2021) is the insurrection article. The first impeachment (18 Dec 2019) is not.
