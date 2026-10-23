@@ -236,6 +236,8 @@ On the **legitimacy / “who really won a fair contest”** axis, the political 
 
 **Tier:** Outcome-locked midterm scripts = **Author** (pattern / prediction). Refusal of institutional faith = **Author sentiment** (normative for this dossier).
 
+The author’s later conclusion widens that faith choice from a U.S. midterm to the world: one break, America’s claims or a shrinking globalist camp. It is in [voter fraud §10.6](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md#106-author--the-resolution-comes-at-once).
+
 ---
 
 ## 10. Session findings (2026-07-22)
