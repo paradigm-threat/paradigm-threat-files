@@ -55,6 +55,8 @@ History is written by victors of war and protected by the threat of further war.
 * [Justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) — The court as a rival government: English equity kept after independence, voting for judges, and AI in chambers.
 * [Poe’s City in the Sea and Byron’s Darkness (AU-079)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — A sinking city, the long dark, and the later science-fiction shelf.
 * [The city in the sea](/history/mudflood/the-city-in-the-sea.md) — Reader essay: recent memory, the volcano, the gills, and the magazine announcements.
+* [Gill humans already in the ocean (AU-080)](/history/mudflood/investigations/gill-people-already-in-the-ocean-investigation.md) — The drowned-and-revived gill account is not assumed. A sea people may have entered the cities after they sank.
+* [They were already in the water](/history/mudflood/they-were-already-in-the-water.md) — Reader essay: gill humans may already have lived in the ocean.
 
 ### [Category: Genocide](/governance/genocide)
 

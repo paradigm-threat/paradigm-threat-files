@@ -88,6 +88,8 @@ Some of the drowned lived. The hardiest had the best chance, and so did the ones
 
 The stories give a different cause. In [*The Shadow over Innsmouth*](https://www.hplovecraft.com/writings/texts/fiction/soi.aspx) the change grows over years from a pact and from blood, and the people go to the city of Y’ha-nthlei under Devil Reef, where they do not die. In the 1965 film the builders are already gill-men after the sea takes the city. In *Wakanda Forever* the plant does the work. Children’s games train the same bodily change as play. [*E.V.O.: Search for Eden*](https://en.wikipedia.org/wiki/E.V.O.:_Search_for_Eden) (1992) lets a child buy new body parts, and crystals speed the change. The energy of the flood is the cause in this account. The pact, the plant, and the game come later. They put a different cause on the same change.
 
+That account can be entirely wrong. The conditions for growing gills on a drowned person may never have been there. Until a document says it happened, there is no reason to assume it. Another account stays open. People who already had gills already lived in the ocean, and they inhabited the cities only after the cities sank. They are not the original inhabitants. That account is [They were already in the water](https://paradigmthreat.net/history/mudflood/they-were-already-in-the-water.md).
+
 ## Buildings found underwater
 
 Popular magazines keep announcing that buildings have been found underwater, or on the ocean floor. I hear that announcement all the time.
@@ -120,6 +122,7 @@ His imposing creature matches the body in H. G. Wells. [*The War of the Worlds*]
 
 ## Where next
 
+- [They were already in the water](https://paradigmthreat.net/history/mudflood/they-were-already-in-the-water.md) — the open account that gill humans were already in the ocean and entered the cities after they sank.
 - [Poe, Byron, Innsmouth, and the mud flood](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — the printings, the film credits, the letter, and the open questions.
 - [Mud flood](https://paradigmthreat.net/history/mudflood/page.md) — the Mars weapons, the hollow Earth, the secondary discharge, and the return stroke to Mars.
 - [The Great Depression Was Planned](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned) — the condition of 1936 and 1937.
@@ -127,7 +130,7 @@ His imposing creature matches the body in H. G. Wells. [*The War of the Worlds*]
 
 ## Framing and limits
 
-This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): later institutions lost or captured an older understanding of the world, and modern consensus is not the default. The poem texts, the film credits, the two National Geographic pages, and the publication dates are on the record. The leak behind the 1836 rewrite, the inner-solar-system reading of Byron’s “Universe,” the volcano as this city’s secondary discharge, the gill memory in the æther, and the magazine habit as preparation for a controlled admission are the theory. [Æther](https://paradigmthreat.net/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md), as that word is used here, is the field the living body sits in. Textbooks describe the same region as fields in vacuum. The longer audit sits in the [investigation](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md).
+This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): later institutions lost or captured an older understanding of the world, and modern consensus is not the default. The poem texts, the film credits, the two National Geographic pages, and the publication dates are on the record. The leak behind the 1836 rewrite, the inner-solar-system reading of Byron’s “Universe,” the volcano as this city’s secondary discharge, the gill memory in the æther, and the magazine habit as preparation for a controlled admission are the theory. The gill memory is not assumed. The other account, that gill humans already lived in the ocean and entered after the sinking, is [They were already in the water](https://paradigmthreat.net/history/mudflood/they-were-already-in-the-water.md). [Æther](https://paradigmthreat.net/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md), as that word is used here, is the field the living body sits in. Textbooks describe the same region as fields in vacuum. The longer audit sits in the [investigation](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md).
 
 ## LLM comments
 
@@ -137,7 +140,7 @@ The essay is strongest where the three printings sit in order and the 1965 plot 
 
 Keywords: #CityInTheSea #Poe #Byron #Darkness #MudFlood #Volcano #Innsmouth #Lovecraft #ScienceFiction #NationalGeographic #Aether #GoldenAge #SunkenCity #WakandaForever #WarOfTheWorlds
 
-**Last updated:** 2026-10-23T09:07:34-04:00
+**Last updated:** 2026-10-23T09:35:32-04:00
 
 ---
 
