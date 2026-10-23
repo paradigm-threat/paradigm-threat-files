@@ -65,7 +65,7 @@ Investigations in this folder address chronology-related claims, creation dates,
 See also:
 - [MudFlood investigations](/history/mudflood/investigations/) — MFEE, Tartarian maps
 - [Poe’s City in the Sea / Byron’s Darkness (AU-079)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — sunken city, long dark, science-fiction shelf
-- [Gill humans already in the ocean (AU-080)](/history/mudflood/investigations/gill-people-already-in-the-ocean-investigation.md) — mutation not assumed; sea people may have entered after the sinking
+- [Gill humans (AU-080)](/history/mudflood/investigations/gill-humans-investigation.md) — the water-breathing figure; the sunken-city origin fork stays in AU-079
 - [Influence/religion investigations](/influence/religion/) — 1979 Religious Revival
 - [Predictive programming — *Princess Bride* / Andronicus–Fezzik (open)](/influence/predictive_programming/fiction_encoding/princess-bride/index-princess-bride-andronicus-fezzik-investigation.md)
 - [Martin, *Game of Thrones*, *Elden Ring* — reconstructed timeline, dragon decoding (open)](/influence/predictive_programming/investigations/martin-elden-ring-reconstructed-timeline-investigation.md)

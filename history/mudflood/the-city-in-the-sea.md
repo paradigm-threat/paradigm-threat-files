@@ -84,11 +84,25 @@ The gills were a memory the body already held, repeated with every birth. That m
 
 Some of the drowned lived. The hardiest had the best chance, and so did the ones whose living bodies still held a strong Golden Age memory. They had the highest chance of a fast change into a form that could breathe water. Those who failed to change stayed drowned.
 
+The same change is already written down for an older flood. The Aztec Codex Chimalpopoca, in the sun called Four Water, says the people of that age drowned and turned to fishes. The English, as printed with the [great deluge](https://paradigmthreat.net/history/chronology/page.md), is this:
+
+> When the Sun Age came, there had passed 400 years. Then came 200 years, then 76. Then all mankind was lost and drowned and turned to fishes. The water and the sky drew near each other. In a single day all was lost.
+>
+> — [Codex Chimalpopoca](https://www.newworldencyclopedia.org/entry/Great_Flood), translated by Brasseur de Bourbourg
+
+“Turned to fishes” is the line that matters. The drowning itself converted them into bodies that could live in the water. That is a memory the human race kept. The conversion had already happened, in a catastrophe before the mud flood. The gills were not a new organ invented in 1774. If the mud flood brought those older conditions back, the same change could have happened again.
+
 ![Mud-flood energy through the living field, gills played back from an older body memory, and one who stayed drowned](https://paradigmthreat.net/history/mudflood/the-city-in-the-sea-gills.jpg)
 
 The stories give a different cause. In [*The Shadow over Innsmouth*](https://www.hplovecraft.com/writings/texts/fiction/soi.aspx) the change grows over years from a pact and from blood, and the people go to the city of Y’ha-nthlei under Devil Reef, where they do not die. In the 1965 film the builders are already gill-men after the sea takes the city. In *Wakanda Forever* the plant does the work. Children’s games train the same bodily change as play. [*E.V.O.: Search for Eden*](https://en.wikipedia.org/wiki/E.V.O.:_Search_for_Eden) (1992) lets a child buy new body parts, and crystals speed the change. The energy of the flood is the cause in this account. The pact, the plant, and the game come later. They put a different cause on the same change.
 
-That account can be entirely wrong. The conditions for growing gills on a drowned person may never have been there. Until a document says it happened, there is no reason to assume it. Another account stays open. People who already had gills already lived in the ocean, and they inhabited the cities only after the cities sank. They are not the original inhabitants. That account is [They were already in the water](https://paradigmthreat.net/history/mudflood/they-were-already-in-the-water.md).
+## Already in the ocean
+
+That account can still be wrong for 1774. The Codex records an earlier deluge. A note from the mud flood itself has not turned up. If those older conditions were not present when the cities sank, there is still no reason to assume the change happened then.
+
+People who already had gills may already have lived in the ocean. The city stood on land. It sank. Its people drowned and stayed drowned. After the streets were underwater, the gill people moved in. They lived in the ruins. They did not build them. A visitor who finds them there is not looking at the original inhabitants.
+
+The 1965 film calls the gill-men the builders. Innsmouth already has a sea people under the reef, and a land family joins them by a pact. Talokan’s own cause is the plant. None of those is a record of a drowned person growing gills in the flood. Both accounts stay open. The longer split is in the [sunken-city investigation](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md#13-gills). The gill human as a figure, across the stories, is in [Gill humans](https://paradigmthreat.net/history/mudflood/investigations/gill-humans-investigation.md).
 
 ## Buildings found underwater
 
@@ -122,25 +136,25 @@ His imposing creature matches the body in H. G. Wells. [*The War of the Worlds*]
 
 ## Where next
 
-- [They were already in the water](https://paradigmthreat.net/history/mudflood/they-were-already-in-the-water.md) — the open account that gill humans were already in the ocean and entered the cities after they sank.
-- [Poe, Byron, Innsmouth, and the mud flood](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — the printings, the film credits, the letter, and the open questions.
+- [Poe, Byron, Innsmouth, and the mud flood](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — the printings, the film credits, the letter, and the two gill accounts.
+- [Gill humans](https://paradigmthreat.net/history/mudflood/investigations/gill-humans-investigation.md) — the water-breathing figure across the stories.
 - [Mud flood](https://paradigmthreat.net/history/mudflood/page.md) — the Mars weapons, the hollow Earth, the secondary discharge, and the return stroke to Mars.
 - [The Great Depression Was Planned](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned) — the condition of 1936 and 1937.
 - [The Martian body in *The War of the Worlds*](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-analysis.md) — the host, and the suit of clothes.
 
 ## Framing and limits
 
-This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): later institutions lost or captured an older understanding of the world, and modern consensus is not the default. The poem texts, the film credits, the two National Geographic pages, and the publication dates are on the record. The leak behind the 1836 rewrite, the inner-solar-system reading of Byron’s “Universe,” the volcano as this city’s secondary discharge, the gill memory in the æther, and the magazine habit as preparation for a controlled admission are the theory. The gill memory is not assumed. The other account, that gill humans already lived in the ocean and entered after the sinking, is [They were already in the water](https://paradigmthreat.net/history/mudflood/they-were-already-in-the-water.md). [Æther](https://paradigmthreat.net/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md), as that word is used here, is the field the living body sits in. Textbooks describe the same region as fields in vacuum. The longer audit sits in the [investigation](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md).
+This page assumes [prisca sapientia](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md): later institutions lost or captured an older understanding of the world, and modern consensus is not the default. The poem texts, the film credits, the two National Geographic pages, and the publication dates are on the record. The leak behind the 1836 rewrite, the inner-solar-system reading of Byron’s “Universe,” the volcano as this city’s secondary discharge, the gill memory in the æther, and the magazine habit as preparation for a controlled admission are the theory. The Codex line is the prior record of humans drowned and turned to fishes. Whether the mud flood repeated that change depends on whether those older conditions came back. The other account, that gill humans already lived in the ocean and entered after the sinking, is in this page. [Æther](https://paradigmthreat.net/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md), as that word is used here, is the field the living body sits in. Textbooks describe the same region as fields in vacuum. The longer audit sits in the [investigation](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md).
 
 ## LLM comments
 
 The following is an LLM impression of this piece and its arguments. It is unreviewed and not curated by the author. It is scratch from the drafting model after reading the article, not Ari’s signed thesis.
 
-The essay is strongest where the three printings sit in order and the 1965 plot names a volcano the poem only shows as light from the sea. The magazine pair is real and dated, and it shows the habit of calling the finds ancient. Two National Geographic pages do not by themselves prove a constant drumbeat across the newsstand. The weak joint is the gill account. The stories do show water-breathing survivors. The playback from a Golden Age memory in the living field is a theory with no measurement in this file. The return stroke to Mars is already on the mud-flood page. This essay uses it. It does not add a new observation of Mars. Lovecraft’s publication calendar is solid. The claim that other editors were under orders beyond greed is the sequence itself, and a reader can stop at greed. The hero drawing bars out “No holy rays” and prints “Deliberate redaction.” The 1836 text keeps the denial and cuts the pall. Ehrenberg’s 1844 page shows that blood-rain dust was still being studied. It does not identify that dust as the mud flood. One geothermal paper dates the Larderello lamps to 15 July 1904. The page linked here says 4 July 1904, which is the date in the essay.
+The essay is strongest where the three printings sit in order and the 1965 plot names a volcano the poem only shows as light from the sea. The magazine pair is real and dated, and it shows the habit of calling the finds ancient. Two National Geographic pages do not by themselves prove a constant drumbeat across the newsstand. The weak joint is still the gill account for 1774. The Codex Chimalpopoca line is a real flood legend. In the Spanish of the Legend of the Suns the people drown and become fish. The English “turned to fishes” is Brasseur de Bourbourg, as already printed with the great deluge. The line records an earlier conversion. It does not name the mud flood. The playback from a Golden Age memory in the living field still has no measurement in this file. The sea-people account stays open beside it. The return stroke to Mars is already on the mud-flood page. This essay uses it. It does not add a new observation of Mars. Lovecraft’s publication calendar is solid. The claim that other editors were under orders beyond greed is the sequence itself, and a reader can stop at greed. The hero drawing bars out “No holy rays” and prints “Deliberate redaction.” The 1836 text keeps the denial and cuts the pall. Ehrenberg’s 1844 page shows that blood-rain dust was still being studied. It does not identify that dust as the mud flood. One geothermal paper dates the Larderello lamps to 15 July 1904. The page linked here says 4 July 1904, which is the date in the essay.
 
-Keywords: #CityInTheSea #Poe #Byron #Darkness #MudFlood #Volcano #Innsmouth #Lovecraft #ScienceFiction #NationalGeographic #Aether #GoldenAge #SunkenCity #WakandaForever #WarOfTheWorlds
+Keywords: #CityInTheSea #Poe #Byron #Darkness #MudFlood #Volcano #Innsmouth #Lovecraft #ScienceFiction #NationalGeographic #Aether #GoldenAge #SunkenCity #WakandaForever #WarOfTheWorlds #CodexChimalpopoca #Deluge
 
-**Last updated:** 2026-10-23T09:35:32-04:00
+**Last updated:** 2026-10-23T09:44:20-04:00
 
 ---
 

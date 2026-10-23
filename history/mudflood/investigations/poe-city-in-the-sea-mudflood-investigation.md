@@ -14,7 +14,7 @@
 4. Byron’s long dark, the mountain-torch, and the years — [§5](#5-byrons-darkness-1816) and [§6](#6-timing).
 5. Holy rays, the sea-light, and the film volcano — [§7](#7-sky-and-weapon) and [§8](#8-sea-light-the-film-and-the-sinking).
 6. Innsmouth, the gill-men, Talokan, the books, and the science-fiction shelf — [§9](#9-innsmouth-the-gill-men-and-talokan) through [§12](#12-the-books-the-death-and-the-science-fiction-shelf).
-7. Mutation, as a speculation — [§13](#13-mutation-under-the-energy).
+7. Gills: the mutation account, and the open account that a sea people entered after the sinking — [§13](#13-gills).
 8. What is still open — [§14](#14-questions-to-clarify-verify-or-debunk).
 
 Redaction codes used below are defined in [REDACTION.md](/docs/REDACTION.md). **R1** is a cut. **R3** is a rewrite that changes the cause.
@@ -70,11 +70,11 @@ Prior art is partial. Sodom under the Dead Sea, Byron as a literary source for P
 5. “Always raining on that continent” and “light never shines on that continent” are the same places and the same event. Darkness lasted years. The rain lasted much less and was not constant.
 6. Before the flood, volcanic heat and energy for cities were more common than the later industrial record. This file does not investigate cities that were already under the sea.
 7. The 1965 plot comes from a real above-ground city that sank and became a volcano, or an underwater volcano. The doom has no cause and no cure on screen because the memory had none. The film date 1803 is a film date.
-8. Innsmouth, the 1965 gill-men, and Talokan are three tellings of humans who lived through the sinking because they could breathe water, and of the war between mer-people and land people.
+8. Innsmouth, the 1965 gill-men, and Talokan are three tellings of water-breathing people, and of the war between mer-people and land people. Whether those people are the drowned who changed, or a sea people who entered after, is [§13.2](#132-already-in-the-ocean).
 9. The missing lifetime books, the uninspired letter of 30 November 1936, the death on 15 March 1937, and the 1939 collected book under other editors are control by others. Greed is enough as the editors’ motive.
 10. Lovecraft is a main hinge of the science-fiction switch. Lifetime books might not have entered a shelf that was not yet the container. *Weird Tales* was the place the stories already had. Filing the history as science fiction covers the reasons for the catastrophe, compares the causers’ authority to the will and plan of God, and omits the location and nature of the controllers.
 11. His inspiration statements describe an imposing influence from another planet. His word is dimension. Cthulhu is the same host body Wells describes. The Deep Ones stay the sea survivors.
-12. **Speculative, not assumed:** the high-energy event was written as the mutagen that let drowned people grow gills. That account can be entirely wrong. Until a document says it happened, it is not assumed. The other account is [AU-080](gill-people-already-in-the-ocean-investigation.md): gill humans already in the ocean entered the cities after the sinking and are not the original inhabitants.
+12. **Speculative, not assumed:** the high-energy event was written as the mutagen that let drowned people grow gills. That account can be entirely wrong. Until a document says it happened, it is not assumed. The other account, in [§13.2](#132-already-in-the-ocean), is that gill humans already in the ocean entered the cities after the sinking and are not the original inhabitants.
 
 ---
 
@@ -323,7 +323,11 @@ The Great Depression is the daily condition of 1936 and 1937. The crash, the cen
 
 ---
 
-## 13. Mutation under the energy
+## 13. Gills
+
+The figure of the gill human, across stories, is surveyed in [Gill humans](gill-humans-investigation.md). This section is only the sunken-city question: did the drowned grow gills, or did a people who already had gills move in after the city sank?
+
+### 13.1 Mutation under the energy
 
 **Speculative.** The author’s words: the mud flood may be associated with mutation. He sees a lot of mutation in predictive programming for children. He wonders if the high-energy event made the conditions for rapid mutation and growth, so that people who drowned could come back to life underwater and form the organs they need.
 
@@ -335,11 +339,35 @@ What the stories already show, kept separate from that cause:
 
 **Author:** people in these cities drowned. The energy of the mud flood revived some of them and drove a rapid mutation. The early Golden Age had already forced living forms into existence, and forced them to stay alive, when they did not yet have organs. Here the human species was forced to change quickly again. The gills were a memory already stored in the body, repeated with every birth, from evolutions in the Golden Age when conditions were more ideal. Humans today still hold that memory in the electromagnetic field of the living body, the field connected to the ætheric soul. Memory stored in the Earth’s æther, an electromagnetic field, cannot be erased. When the body changed, that information was available, and the body followed it as a playback script, a path of least resistance. That path is the script. It is separate from the Ring of Fire, where “least resistance” means the places the discharge left the ground. No complex math and no slow evolution were required. Some of the drowned lived. The hardiest, and the ones whose living bodies still held a strong Golden Age memory, had the highest chance of a fast change into a form that could breathe water. Those who failed to mutate properly stayed drowned. Gills are the specimen. This file does not open a track about giants or general body size. The reader essay is [The city in the sea](/history/mudflood/the-city-in-the-sea.md).
 
-**Author, 23 October 2026:** that mutation account can be entirely wrong. The conditions may not have existed. Until a document says a drowned person grew gills, the change is not assumed. The other account is that gill humans already lived in the ocean, inhabited the sunken cities only after the sinking, and do not represent the original inhabitants. Both stay open. The dossier is [AU-080](gill-people-already-in-the-ocean-investigation.md). The reader page is [They were already in the water](/history/mudflood/they-were-already-in-the-water.md).
+**Documented text, prior deluge.** The Aztec Codex Chimalpopoca, Legend of the Suns, sun Nahui Atl (Four Water). The Spanish of the Velázquez text: “se anegaron y se volvieron peces” — they drowned and became fish ([UNAM digital text](https://historicas.unam.mx/publicaciones/publicadigital/libros/000/000_04_03_LeyendaSoles.pdf)). The English already printed on the [chronology page](/history/chronology/page.md), from Brasseur de Bourbourg as given in the [New World Encyclopedia Great Flood entry](https://www.newworldencyclopedia.org/entry/Great_Flood):
+
+> When the Sun Age came, there had passed 400 years. Then came 200 years, then 76. Then all mankind was lost and drowned and turned to fishes. The water and the sky drew near each other. In a single day all was lost.
+
+**Author:** “Turned to fishes” is the memory that gills already belong to the human race. In that earlier deluge the drowning converted people into water-breathing bodies. The conversion had already happened once, under older conditions. The gills were not a new organ invented for the mud flood. If the mud flood brought those conditions back, the same change could have happened again. The line does not name 1774. It is the prior case. The sea-people account in [§13.2](#132-already-in-the-ocean) stays open if those conditions were not present when the cities sank.
 
 One in-repo specimen of the children’s training is [*E.V.O.: Search for Eden*](/influence/predictive_programming/investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md) (1992), where a child player buys body-part changes and crystals accelerate mutation, inside a deep-time evolution brand. That file’s thesis stays its own. This dossier only borrows the fact that children are trained to treat fast bodily change as play. Other kids’ titles are an open row.
 
 Electrical discharge in this repo is already tied to elemental change in the [radiocarbon dossier](/history/chronology/investigations/radiocarbon-dating-investigation.md). That lab result is not evidence of gills. The biological claim stays speculative. The [spore dossier](spore-ecological-disaster-martian-cylinders-investigation.md) is a different post-event biology.
+
+### 13.2 Already in the ocean
+
+**Author, 23 October 2026:**
+
+> The rapid mutation of gills could be entirely wrong. It is possible that there simply were not the conditions to allow this to happen. Until some kind of real documentation turns up, there is no reason to assume that it happens. There is another explanation. The people who had gills and lived in the ocean were already there. They only inhabited the underwater sunken cities after the cities were sunk. These gill humans do not represent the original inhabitants. That is still an open possibility.
+
+The drowned-and-revived account is not the default. No parish book, letter, or medical note in this file says a drowned person grew gills. A film, a pact, a plant, and a children’s game are not that note.
+
+The other account: a people who already breathed water already lived in the ocean. The city stood on land. It sank. Its people drowned and stayed drowned. After the streets were underwater, the gill people moved in. They lived in the ruins. They did not build them. A later visitor who finds gill people in a drowned city is not looking at the original inhabitants.
+
+This subsection does not say the cities were built underwater. Cities that were already under the sea stay outside this file, as in claim 6.
+
+What the stories assign, kept as fiction:
+
+- *Innsmouth*: the sea people are already under Devil Reef. A land family joins them by a pact and by blood, over years. The story’s sea people were already there. The gills on the land family are how the story lets that family become them.
+- *City Under the Sea*: the shipped plot calls the gill-men the builders. That plot assigns them the city. This subsection does not.
+- *Wakanda Forever*: the film’s cause is a vibranium plant and a flight from the Spanish. The water-breathers on screen are changed land people.
+
+Both accounts stay open. A document that names water-breathing people in the sea before the sinking would bear on the second. A document that says a drowned person grew gills would bear on the first. Neither page has turned up. The reader essay states the same fork in [The city in the sea](/history/mudflood/the-city-in-the-sea.md).
 
 ---
 
@@ -357,6 +385,8 @@ Electrical discharge in this repo is already tied to elemental change in the [ra
 | 8 | The 30 November 1936 letter | The *Selected Letters* page, set beside the Wikipedia transcription used in [§12.1](#121-pulps-and-the-one-book) |
 | 9 | Tale-source letters | Cthulhu dream, Colour out of Space, Witch House, Whisperer, Mountains of Madness, Shadow out of Time — open the letters before any of them is quoted as his |
 | 10 | Which other magazines, besides the two National Geographic pages named in the reader essay, announce buildings found underwater? | Magazine, date, and headline, quoted from the issue |
+| 11 | Did a drowned person grow gills in the flood? | A parish book, letter, medical note, or chronicle that says so. Until that page exists, [§13.1](#131-mutation-under-the-energy) is not assumed |
+| 12 | Were gill humans already in the ocean, and did they enter only after the sinking? | A record that names them before the sinking, separate from the city’s dead, or a record of occupation after, with the original people still drowned |
 
 The rain and the lightless sky are already the same places and the same event. Darkness lasted years. The rain lasted much less and was not constant. Cities that were already underwater are outside this file.
 
@@ -371,10 +401,11 @@ The 1836 pall-cut and the title change are on the page (**R1** and **R3**, docum
 - [ ] Campbell 1909: confirm the “came down” misquote on the EAPOE essay page against the journal.
 - [ ] AFI 22802 and Lampley p. 121: confirm the source-credit split and the poem-recital claim against the catalog page and the book.
 - [ ] Do not attach a game title to the rain line or the lightless-continent line until the script is in hand.
+- [ ] No chronicle row yet names a sea people entering a named city after 1774. Innsmouth’s prior sea people are a 1931 story. The 1965 film still calls the gill-men the builders. That line stays the film’s.
 
 ---
 
-Keywords: #Poe #CityInTheSea #DoomedCity #MudFlood #Byron #Darkness #Innsmouth #Lovecraft #ScienceFiction #Volcano #SunkenCity #WakandaForever #Cthulhu #WarOfTheWorlds #GreatDepression #AU079
+Keywords: #Poe #CityInTheSea #DoomedCity #MudFlood #Byron #Darkness #Innsmouth #Lovecraft #ScienceFiction #Volcano #SunkenCity #WakandaForever #Cthulhu #WarOfTheWorlds #GreatDepression #AU079 #CodexChimalpopoca #Deluge
 
 *Last updated: 2026-10-23*
 
@@ -382,7 +413,7 @@ Keywords: #Poe #CityInTheSea #DoomedCity #MudFlood #Byron #Darkness #Innsmouth #
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-The poems, the magazine dates, the film credits, and the publication calendar are documented. The author’s thesis in [§2](#2-authors-originating-thesis) and the open claims in [§3](#3-author-open-claims-au-079) are first-class for why this file exists. They are not, by being stated, established as fact. Fiction plots are clues and mirrors. They are not parish records. Cross-links to the Mars files, the Depression file, and the Ender dossier are thematic. Mutation in [§13](#13-mutation-under-the-energy) is labeled speculative. Assistant bias favors the pattern the author named; the questions in [§14](#14-questions-to-clarify-verify-or-debunk) are the check.
+The poems, the magazine dates, the film credits, and the publication calendar are documented. The author’s thesis in [§2](#2-authors-originating-thesis) and the open claims in [§3](#3-author-open-claims-au-079) are first-class for why this file exists. They are not, by being stated, established as fact. Fiction plots are clues and mirrors. They are not parish records. Cross-links to the Mars files, the Depression file, and the Ender dossier are thematic. The mutation account in [§13.1](#131-mutation-under-the-energy) is speculative and is not assumed. The sea-people account in [§13.2](#132-already-in-the-ocean) is open. The wider gill-human figure is [Gill humans](gill-humans-investigation.md), not a second origin file. Assistant bias favors the pattern the author named; the questions in [§14](#14-questions-to-clarify-verify-or-debunk) are the check.
 
 ## Investigator notes
 

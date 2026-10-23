@@ -105,7 +105,7 @@ Every paradigm-threat-files investigation that uses the `*investigation.md` file
 - [Investigation: American Burial Mounds — MFEE Fossilization, Smithsonian Erasure, and National-Park Gatekeeping](/history/mudflood/investigations/american-burial-mounds-mfee-smithsonian-national-parks-investigation.md)
 - [Investigation: Blood rain, Passat dust, Dust Bowl, and large-scale ecological / atmospheric shocks (post–mud-flood oddities)](/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md)
 - [Investigation: Poe’s City in the Sea, Byron’s Darkness, and sunken cities in the mud flood (AU-079, open)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md)
-- [Investigation: Gill humans already in the ocean (AU-080, open)](/history/mudflood/investigations/gill-people-already-in-the-ocean-investigation.md)
+- [Investigation: Gill humans (AU-080, open)](/history/mudflood/investigations/gill-humans-investigation.md)
 - [Investigation: Cargo Cults — Official History, Human Behavior, and 18th–19th Century / Manna Redaction](/history/mudflood/investigations/cargo-cults-investigation.md)
 - [MFEE Investigation — Evidence and Map Changes Over Time](/history/mudflood/investigations/mfee-investigation.md)
 - [Investigation: Mudfossil University / Roger Spurr — Claims, Citations, Yale History, and Validation Status (Open)](/history/mudflood/investigations/mudfossil-university-roger-spurr-investigation.md)
