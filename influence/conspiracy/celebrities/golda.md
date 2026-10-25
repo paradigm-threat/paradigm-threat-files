@@ -161,6 +161,12 @@ Before partitioning Palestine, Britain imposed similar divide-and-rule structure
 
 *A Woman named Golda* (1982) depicts Golda jumping in front of a grenade to save Ben-Gurion in 1957—despite no known military training. Fact-check: unverified.
 
+## IX. Helen Mirren — the later face (2026-10-25)
+
+In 2023 Helen Mirren played Golda in Guy Nattiv’s *Golda*, a Yom Kippur War film. She was born Ilyena Mironoff in London in 1945. Her grandfather was a Tsarist colonel from **Gzhatsk, near Smolensk**, stranded in Britain after 1917. Her father changed **Mironov** to **Mirren** while she was a child. Kiev and Smolensk are not one town. Both are the western Russian Empire, and both names were replaced in the West.
+
+**Author:** the cast is a weird rhyme because both women were politically useful for a whole public life. Golda is the hinge inside the state. Mirren is the performer who then wears that face, after she had already worn Elizabeth II’s. She told Nattiv she was not Jewish and offered to step away. He kept her. Both were kept on an international scene and brought out when the choreography needed a body. In 2011 *The Office* already had Dwight name her Mironov and call the room’s desire fake salivating over a Soviet-era Russian. Her later line that Israel must exist “for the rest of eternity” is the Zionism. *Golda* is the whitewash. The burnout record, the Office call-out, and the fact-checks are in [Helen Mirren](helen-mirren.md) (**AU-082**). That file is not an AU-048 natal-sex case.
+
 ---
 
 ## References
@@ -171,13 +177,13 @@ Before partitioning Palestine, Britain imposed similar divide-and-rule structure
 - [GCHQ: Palestine Mandate](https://www.gchq.gov.uk/information/palestine-mandate)
 - [Pnina Lahav: The Only Woman in the Room](https://www.degruyter.com/document/doi/10.1515/9780691239316/html)
 - [History.com: Golda Meir Iron Lady](https://www.history.com/articles/golda-meir-israel-prime-minister-iron-lady-yom-kippur-war)
-- [Identity INDEX / AU-048](INDEX-identity-investigations.md) · [methodology](facial-skull-sex-estimation-methodology-investigation.md) · [Jackie Chan](jackie-chan.md) (qualification gate) · [Gal Gadot](gal-gadot.md) (Golda mirror) · [Ayn Rand](ayn-rand.md) (**Golda parallel** — find-and-install / Objectivist world path) · [David Bowie](david-bowie.md) · [Prince](prince.md) · [Bruce Lee](bruce-lee.md)
+- [Identity INDEX / AU-048](INDEX-identity-investigations.md) · [methodology](facial-skull-sex-estimation-methodology-investigation.md) · [Jackie Chan](jackie-chan.md) (qualification gate) · [Gal Gadot](gal-gadot.md) (Golda mirror) · [Ayn Rand](ayn-rand.md) (**Golda parallel** — find-and-install / Objectivist world path) · [Helen Mirren](helen-mirren.md) (**AU-082** — Smolensk house, the 2023 cast, career that does not stop; not a natal-sex file) · [David Bowie](david-bowie.md) · [Prince](prince.md) · [Bruce Lee](bruce-lee.md)
 
 ---
 
 Keywords: #GoldaMeir #AU048 #QualificationGate #ControlHinge #OperationAgatha #BritishMandate #IdentityInvestigations #AynRand #ParadigmThreatFiles
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-10-25
 
 ---
 

@@ -1157,6 +1157,8 @@ Season 5 premiere (*The Wars to Come*, **12 Apr 2015**): Jon presses Mance to be
 
 **Discipline:** Sitcom beat is **fiction**; not U.S.–China policy. Camp label is **author taxonomy**.
 
+**Later beat on the same show (L1 line, L3 camp):** **10 Nov 2011**, “Pam’s Replacement” (S8E7). The room is admiring Helen Mirren. Dwight: “Helen Mirren was born Helen Mironov. That’s right. You’re fake salivating over a Soviet era Russian.” [The Office Lines](https://theofficelines.com/quotes/episodes/pam-s-replacement/). **Author:** same NSA-side desk, different payload — the English dame is named as a compromised Soviet-era Russian. Full read: [Helen Mirren §8](/influence/conspiracy/celebrities/helen-mirren.md#8-the-office-the-soviet-era-line-and-the-israel-choreography) (**AU-082**).
+
 Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everything-burns.md#authors-conclusion).
 
 ---

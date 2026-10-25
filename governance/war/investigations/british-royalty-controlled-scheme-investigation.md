@@ -517,13 +517,14 @@ Same operator: **someone changes the timeline overnight**. The public is not all
 | [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) | Board removes the face — rhyme, not twin, of Truss |
 | [Great Depression AU-047](/governance/genocide/investigations/great-depression-planned-genocide-fed-census-consolidation-investigation.md) | Years-long weaponized crash; Truss is the **days-long** teaching case |
 | [Celebrity slavery](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) | G2 private-life control |
+| [Helen Mirren (AU-082)](/influence/conspiracy/celebrities/helen-mirren.md) | Performer of the dignified Elizabeth mask (*The Queen*, *Elizabeth I*, *The Audience*) and of Catherine; Smolensk grandfather stranded in 1917. Author: a Russian house playing any British queen is the obvious rhyme, and Elizabeth I is the breakaway royal the Tudor break filed as purely English |
 | [Designed from birth](/influence/suppression/designed-from-birth.md) | Nursery leash |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-049** |
 | [site-claims.json](/site-claims.json) | `british-royalty-controlled-scheme` · `liz-truss-observable-deep-state` |
 
 Keywords: #BritishRoyalty #ControlledScheme #RexBellator #CharlesIII #Coronation #JamesBond #WokeScapegoat #Fomenko #NewChronology #HordeVassal #HouseOfWindsor #Bagehot #Megxit #PrinceHarry #MeghanMarkle #PrinceAndrew #EdwardVIII #Diana #CompromiseMath #ReverseCrusades #BritishEmpire #ProtestantIntel #NewWorldOrder #LizTruss #OvernightFateChange #ObservableDeepState #Brexit #PresidentialAlignment #AU049 #ParadigmThreatFiles
 
-*Last updated: 2026-08-14*
+*Last updated: 2026-10-25*
 
 ---
 

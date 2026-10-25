@@ -8,6 +8,8 @@ Investigations and essays on suppressed truth and manufactured narratives.
 - [Designed from birth](/influence/suppression/designed-from-birth.md) — Reader essay: gender-swap as celebrity control kit; Golda / Gadot / Hong Kong / Jackson / Prince / Gandhi.
 - [Facial / skull / skeletal sex-estimation methodology (open)](/influence/conspiracy/celebrities/facial-skull-sex-estimation-methodology-investigation.md) — Osteology vs photographs vs AI; Spanish/English/Whillock/ft–zy–go vs folk triangles; **EGI = prenatal precursor to AU-048** (Author **>50%** working conclusion); Loren/Qajar macros fail as files.
 - [Golda Meir](/influence/conspiracy/celebrities/golda) — AU-048 **Israel control hinge**; Agatha; dubious papers; globalist-man’s-mindset payload
+- [Helen Mirren is one of the most unwilling actresses on record](/influence/conspiracy/helen-mirren) — Reader essay: the dated refusals, then the jobs; Savannah, 24 Oct 2026, is the latest public yes.
+- [Helen Mirren](/influence/conspiracy/celebrities/helen-mirren) — **AU-082**; Gzhatsk / Smolensk stranding; Mironov→Mirren; *Golda* cast; Elizabeth films; burnout. Not a natal-sex file.
 - [Bruce Lee](/influence/conspiracy/celebrities/bruce-lee) — Death, Hong Kong, Sai Feng childhood female presentation
 - [David Bowie](/influence/conspiracy/celebrities/david-bowie) — Age-17 outing, Dionysus/Tiresias encoding, AU-048 hard case
 - [Jackie Chan](/influence/conspiracy/celebrities/jackie-chan) — AU-048 qualification gate; British HK; *Rush Hour* NSA exception; messaging vs entertainment
