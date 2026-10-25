@@ -148,7 +148,7 @@ It is nonetheless more or less concluded, and left open in this sense: open to t
 
 The reason this file exists, in the witness's own terms. This is not a researched finding about a movement.
 
-This is written down because it may come to a head someday. Industry presence is still coercive. Campaigns in the shape of #MeToo showed how far the industry can go in ruining people on a false narrative. That risk is live here because the witness intends to make games, movies, books, and public statements. The assumption that people in this position exit the scene for good once they are shunned is false, and this account is kept so that assumption can be shown false. The witness and the publicist did not choose the second leaving. Nobody asked for their side, so it was not on the record. The file is the record, for a later defense against a polished public version of the lurker, and as a pattern of for-profit influence splitting a community.
+This is written down because it may come to a head someday. Industry presence is still coercive. Campaigns in the shape of #MeToo showed how far the industry can go in ruining people on a false narrative. That risk is live here because the witness intends to make games, movies, books, and public statements. The assumption that people in this position exit the scene for good once they are shunned is false, and this account is kept so that assumption can be shown false. The witness and the publicist did not choose the second leaving. Nobody asked for their side, so it was not on the record. The file is the record, for a later defense against a polished public version of the lurker-profiteer, and as a pattern of for-profit influence splitting a community.
 
 ---
 
