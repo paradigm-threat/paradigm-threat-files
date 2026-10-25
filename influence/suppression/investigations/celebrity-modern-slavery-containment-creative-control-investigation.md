@@ -1301,6 +1301,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 | **Suppression hub**                          | [suppression page](/influence/suppression/page.md)                                                                                                                                            |
 | **Reader essay — celebrity IP slavery**      | [It's gonna be a long, long time.](/influence/suppression/modern-celebrity-slavery.md)                                                                                                        |
 | **Reader essay — gender-swap installment**   | [Designed from birth](/influence/suppression/designed-from-birth.md)                                                                                                                          |
+| **Reader essay — unwilling actress**         | [Helen Mirren](/influence/conspiracy/helen-mirren) — refusal, then the job; Savannah 24 Oct 2026                                                                                              |
 | **#MeToo corporate choreography (dedicated)** | [metoo-corporate-sponsorship-choreography-investigation](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md) — **AU-053**; Spacey / Carroll / registry |
 | **Chris Sims / knew-then-cancelled** | [pre-career archive](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md) — cry line not evidence; Lasseter / Berganza / Moonves timeline; Marvel kept the book |
 
@@ -1309,7 +1310,7 @@ Audience sees "bad movie" → blames visible star/director; executives exit unsc
 
 Keywords: #Suppression #Hollywood #MusicIndustry #ModernSlavery #NDA #360Deal #Prince #Poe #RobertEdsel #MichaelJackson #EltonJohn #EJAF #EltonJohnAIDSFoundation #HughJackman #Wolverine #RyanReynolds #Deadpool #Nicepool #JustinBaldoni #WesleySnipes #Blade #DaveighChase #WinonaRyder #Diddy #SeanCombs #MorganFreeman #DeNiro #Vaxxed #CelebrityContainment #Russia #RussiaUndesirable #CommitteeToInvestigateRussia #PersonalServicesContract #DeHavillandLaw #FranchiseFatigue #PredictiveProgramming #Trump #SpeakOutAct #TreysLaw #MeToo #TimesUp #OccupyWallStreet #Adbusters #ParadigmThreatFiles
 
-**Last updated:** 2026-06-17T23:30:00-04:00
+**Last updated:** 2026-10-25T11:18:36-04:00
 
 ---
 

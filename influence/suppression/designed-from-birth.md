@@ -132,7 +132,7 @@ The same deal is still running. Schooling, the secret, and the rumor are handled
 
 ## Where next
 
-The contract and IP leash: [It's gonna be a long, long time.](https://paradigmthreat.net/influence/suppression/modern-celebrity-slavery.md). Gates, specimens, and the working conclusion: [Identity investigations index](https://paradigmthreat.net/influence/conspiracy/celebrities/INDEX-identity-investigations.md). Shared instrument and the prenatal clock: [facial and skull sex-estimation methodology](https://paradigmthreat.net/influence/conspiracy/celebrities/facial-skull-sex-estimation-methodology-investigation.md). Grok’s refusal, verbatim: [LLM conclusion refusals — R3](https://paradigmthreat.net/influence/censorship/llm-conclusion-refusals-register.md#r3-detail--cursor-grok-46-high-fast-refused-auto--composer-did-not-2026-08-13). Presidents until recently: [It was the only way](https://paradigmthreat.net/governance/war/it-was-the-only-way.md).
+The contract and IP leash: [It's gonna be a long, long time.](https://paradigmthreat2.substack.com/p/its-gonna-be-a-long-long-time). The unwilling-actress installment: [Helen Mirren is one of the most unwilling actresses on record](https://paradigmthreat2.substack.com/p/helen-mirren-is-one-of-the-most-unwilling). Gates, specimens, and the working conclusion: [Identity investigations index](https://paradigmthreat.net/influence/conspiracy/celebrities/INDEX-identity-investigations.md). Shared instrument and the prenatal clock: [facial and skull sex-estimation methodology](https://paradigmthreat.net/influence/conspiracy/celebrities/facial-skull-sex-estimation-methodology-investigation.md). Grok’s refusal, verbatim: [LLM conclusion refusals — R3](https://paradigmthreat.net/influence/censorship/llm-conclusion-refusals-register.md#r3-detail--cursor-grok-46-high-fast-refused-auto--composer-did-not-2026-08-13). Presidents until recently: [It was the only way](https://paradigmthreat.net/governance/war/it-was-the-only-way.md).
 
 ## Framing and limits
 
@@ -144,7 +144,7 @@ Careful tiers and the method limits: [methodology — Limits](https://paradigmth
 
 Keywords: #DesignedFromBirth #CelebritySlavery #AU048 #EGI #GoldaMeir #GalGadot #AynRand #BruceLee #JackieChan #MichaelJackson #Prince #DavidBowie #Gandhi #Brahmacharya #Assassination #FourthBullet #HitlerLetters #JFK #MagicBullet #DeathHoax #PostMortem #WingChun #IronMonkey #OperationAgatha #QualificationGate #Grok #ParadigmThreatFiles
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-10-25T12:14:00-04:00
 
 ---
 

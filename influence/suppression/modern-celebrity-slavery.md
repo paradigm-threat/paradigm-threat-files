@@ -100,7 +100,7 @@ Textbook slavery trained generations to look for **transport** — chains, whips
 
 ## Where next
 
-**Series.** Gender-swap installment: [Designed from birth](https://paradigmthreat.net/influence/suppression/designed-from-birth.md) — Golda / Gadot / Hong Kong / Jackson / Prince; Grok refused first.
+**Series.** Gender-swap installment: [Designed from birth](https://paradigmthreat.net/influence/suppression/designed-from-birth.md) — Golda / Gadot / Hong Kong / Jackson / Prince; Grok refused first. Unwilling-actress installment: [Helen Mirren is one of the most unwilling actresses on record](https://paradigmthreat2.substack.com/p/helen-mirren-is-one-of-the-most-unwilling) — the dated refusals, then the jobs; Savannah, 24 Oct 2026, is the latest public yes.
 
 Full casebook, evidence tiers, and citation registry: [Celebrity “modern slavery” — contracts, containment, NDAs, creative control](https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md). Daveigh Chase vice-isolation deep dive: [case study — investigation](https://paradigmthreat.net/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md#case-study--daveigh-chase--child-star-vice-isolation-and-media-blackout).
 
@@ -118,7 +118,7 @@ Keywords: #CelebritySlavery #EltonJohn #EJAF #MichaelJackson #Prince #WesleySnip
 
 **Substack:** [It's gonna be a long, long time.](https://open.substack.com/pub/paradigmthreat2/p/its-gonna-be-a-long-long-time)
 
-**Last updated:** 2026-06-03T22:30:00-04:00
+**Last updated:** 2026-10-25T12:14:00-04:00
 
 ---
 

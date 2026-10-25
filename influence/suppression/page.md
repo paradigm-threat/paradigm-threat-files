@@ -6,6 +6,7 @@
 - [It's gonna be a long, long time. — modern celebrity slavery (reader essay)](/influence/suppression/modern-celebrity-slavery.md)
 - [Measured Against Weinstein — MeToo and cancel culture (reader essay)](/influence/suppression/measured-against-weinstein.md)
 - [Designed from birth — celebrity slavery, gender-swap installment](/influence/suppression/designed-from-birth.md)
+- [Helen Mirren is one of the most unwilling actresses on record — celebrity IP slavery, unwilling-actress installment](/influence/conspiracy/helen-mirren)
 - [Celebrity "modern slavery" — contracts, containment, NDAs, creative control](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md)
 - [#MeToo as corporate-sponsored choreography — Spacey / Carroll / accusation registry](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md)
 - [Chris Sims — not canceled; the open question is whether he went along](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md)
