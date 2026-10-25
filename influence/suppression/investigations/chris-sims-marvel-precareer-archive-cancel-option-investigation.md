@@ -4,7 +4,7 @@
 
 ## Status
 
-**Open.** The tip is whether he went along with the narrative. He was not canceled. Cry line barred as evidence until the original thread is in hand. Knew-then-cancelled comparison is a starter timeline of other people, not a census, and his own row fails it.
+**Open.** The tip is whether he went along with the narrative. Marvel never fired him. The partial piece is ComicsAlliance. Cry line barred as evidence until the original thread is in hand. Knew-then-cancelled comparison is a starter timeline of other people, not a census, and his own row fails it.
 
 ## Guide (read order)
 
@@ -120,7 +120,7 @@ The solicit week is not that later cancel. Trump announced on 16 June 2015, thre
 
 ## He was not canceled
 
-**What “canceled” means in this file, as of 2026-10-23.** Getting fired, with no chance to redress a grievance or petition. A public attack is a different event. The 22 Oct use of the word for perception is withdrawn. Online talk still uses the withdrawn sense. The docs those readers pass around have to be read at the job. Claire Napier’s [7 Jan 2018 WWAC piece](https://womenwriteaboutcomics.com/2018/01/i-guess-we-still-need-to-talk-about-chris/) is one of them. That piece reopens the feud and says *The Mary Sue* should have left him off a sexual-misconduct timeline. It is not a firing. Alonso kept the book. The byline runs through 2023. He was not canceled.
+**What “canceled” means in this file, as of 2026-10-23, later the same day.** The morning lock was a firing with no chance to redress a grievance or petition. A public attack is a different event. The later lock sorts three ways. Pure cancellation is a firing whose hearing was the public pile-on. The punishment did not fit a trial or a crime, and the removal was not going to stop. A later court win does not take the word off the career. Kevin Spacey and Louis C.K. are that case. Weinstein was fired and then convicted. His punishment tracks the verdicts. Partial cancellation is no firing and no trial, only the part the person had to walk away from. Chris Sims is that case. The 22 Oct use of the word for perception stays withdrawn. Online talk still uses the withdrawn sense. The docs those readers pass around have to be read at the job. Claire Napier’s [7 Jan 2018 WWAC piece](https://womenwriteaboutcomics.com/2018/01/i-guess-we-still-need-to-talk-about-chris/) is one of them. That piece reopens the feud and says *The Mary Sue* should have left him off a sexual-misconduct timeline. It is not a firing. Alonso kept the book. The byline runs through 2023. Marvel never fired him. The partial piece is ComicsAlliance.
 
 On 23 Mar 2015 he told *War Rocket Ajax* listeners he was stepping away from ComicsAlliance a little bit, that he would be back, and that the leave was voluntary: “It is a thing that I agreed to. It is a thing where I said Yes, I am not a valuable voice right now.” He added that a freelancer who is not working is not getting paid ([The Mary Sue](https://www.themarysue.com/sims-comics-alliance-dorazio-twitter/)). That pause is his own column paycheck while he was not writing the columns. ComicsAlliance had been paying him. WWAC in 2018 says he stayed until the site shut in 2017. Marvel kept *X-Men ’92*. **Author:** Alonso protected him. The protection on the record is the kept book, the accepted apology, and the byline through 2023.
 
@@ -128,7 +128,7 @@ On 23 Mar 2015 he told *War Rocket Ajax* listeners he was stepping away from Com
 
 ## Did he go along?
 
-**Author (2026-10-23):** the question is whether he went along with the narrative in the end. The read being tested is that he was pressured to agree to everything, even though there was no evidence. That is the tip. Cancellation is not.
+**Author (2026-10-23):** the question is whether he went along with the narrative in the end. The read being tested is that he was pressured to agree to everything, even though there was no evidence. That is the tip. His firing never happened. The partial piece is the forum he stepped away from.
 
 **What he agreed to, in his own words, the week of the solicit.**
 
@@ -462,7 +462,7 @@ Keywords: #ChrisSims #ValerieDOrazio #MeToo #Marvel #Disney #XMen92 #Gideon #Can
 
 **The cry line is not evidence**, in any of the four wordings, and the apology does not make it evidence. That is an author lock for this file, not a finding that nothing happened on a blog.
 
-**Author thesis sections** are why the file exists. They are not automatically factual. The method lock is patterns: public dates, bylines, firings, credit sequences. The 23 Oct lock is the operating definition: cancellation means fired, with no chance to redress a grievance or petition. He was not canceled. The open tip is whether he went along with the narrative. The March 2015 agreement is documented. The pressure reading is author. The Sims byline through 2023 is the pattern on this specimen. The *Endgame* and *Office* reads stay author pattern, carried by the screen and by the later roles.
+**Author thesis sections** are why the file exists. They are not automatically factual. The method lock is patterns: public dates, bylines, firings, credit sequences. The later 23 Oct lock sorts three ways. Pure cancellation is a firing whose hearing was the public pile-on, and a later court win does not take the word off the career. Weinstein was fired and then convicted. Partial cancellation is no firing and no trial, only the walked-away part. Sims is the partial case. The open tip is whether he went along with the narrative. The March 2015 agreement is documented. The pressure reading is author. The Sims byline through 2023 is the pattern on this specimen. The *Endgame* and *Office* reads stay author pattern, carried by the screen and by the later roles.
 
 **Not claimed:** D’Orazio invented her distress. Not claimed: every MeToo firing was a frame-up. Not claimed: Berganza, O’Reilly, Lasseter, or Moonves were innocent because a control fight or a buyer also sat on the calendar. The table asks who knew, and what else was happening when the company finally moved.
 

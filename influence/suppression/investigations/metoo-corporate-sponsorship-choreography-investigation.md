@@ -168,6 +168,12 @@ Posted to Twitter after Rapp’s BuzzFeed interview; reprinted in full by e.g. [
 
 **Keller / defense bar (L1):** Spacey’s counsel used air quotes on “victim” and scoffed at MeToo’s demand to accept stories at face value — rare on-record elite pushback inside a US courtroom.
 
+### Author, 2026-10-23 — PR won, career lost
+
+> Kevin Spacey won the PR battle and lost the career battle. Online citations say he is deeply polarizing. There is a great deal of deception and fraud in any citation that claims to speak for the fan base. YouGov and other websites of that kind are deeply compromised, by the same simple voter fraud they then deny. That mirrors the voter fraud in the United States and other countries. It is well documented, and it has been treated as a matter of faith. The same people who believe Kevin Spacey is a criminal are the same people who believe there is no voter fraud in America. That opinion will eventually die off completely. Someday it will be taught in schools that there was voter fraud. It will no longer be a faith issue. It will be a fact issue. When the dust settles, the facts are that Kevin Spacey won all of his court battles and handled the entire situation extremely well. The only reason he was targeted for cancellation is the same reason they all were. To push against a coming pro-nationalist movement. To reduce the potential influence Hollywood agents may have in favor of the nationalist camp. Cancel them and replace them with globalist influences.
+
+**Tier.** The court table above stays the documented record: not liable to Rapp, acquitted on all nine, March 2026 UK civil settlement is not a jury finding. The career loss is the November 3, 2017 Netflix refusal, still in force when he told [*The Telegraph* on 10 May 2024](https://www.telegraph.co.uk/news/2024/05/10/kevin-spacey-interview-people-say-when-back-to-work/) that directors and actors said yes and a distribution office he had never met said no. The poll sentence and the voter-fraud parallel are this block. They are **Author**. The catalog is [voter fraud — evidence, polls, betting (**AU-073**)](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md). This file does not copy that catalog. No YouGov favorability number for him was pulled. **Q4** there is still whether any panel firm has called its own miss fraud.
+
 ---
 
 ## Hinge — E. Jean Carroll / Trump (2023–Aug 2026)
@@ -326,6 +332,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | [Q-Anon controlled opposition](/influence/controlled_opposition/investigations/qanon-controlled-opposition-investigation.md) | Shaman as CO face |
 | [Canceling the High Poppy](/influence/suppression/investigations/canceling-the-high-poppy-founder-board-ousting-investigation.md) | Reputational red-flag removal grammar |
 | [Chris Sims / pre-career archive](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md) | Knew-then-cancelled timeline; cry line barred; Marvel kept him |
+| [Voter fraud — evidence, polls, betting (**AU-073**)](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md) | Closed-book polls and adjudicated fraud specimens. Spacey’s polarizing-citation claim points here. This file does not re-try the catalog |
 | [Managed democracy puppets](/governance/war/managed-democracy-puppets-and-redemption.md) | Camp warfare / media |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-053** |
 | [AI suppression — OpenAI × Cursor](/science/ai/ai-suppression-openai-cursor-control-fight-investigation.md) | **AU-052** — QuitGPT as same sponsorship class; reader [Corporate AI hell vs competitive AI heaven](/science/ai/corporate-ai-hell-vs-competitive-ai-heaven.md) |
@@ -335,7 +342,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 
 Keywords: #MeToo #TimesUp #CorporateSponsorship #KevinSpacey #EJeanCarroll #DonaldTrump #ControlledOpposition #Alef #CelebrityContainment #GangStalking #OccupyWallStreet #CatherineDeneuve #HarveyWeinstein #AnthonyRapp #QAnonShaman #JacobChansley #ParadigmThreatFiles #AU053
 
-*Last updated: 2026-10-22*
+*Last updated: 2026-10-23*
 
 ---
 

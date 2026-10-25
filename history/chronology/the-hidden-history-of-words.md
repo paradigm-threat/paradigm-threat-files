@@ -6,7 +6,7 @@ The Hidden History of Words — lexical reset, Latin breakaway, and the Horde re
 
 Every dictionary entry is a dead end. Trace a word backward through the handbook and you eventually hit the same wall: the deliberate erasure of the Rus–Horde empire from world memory.
 
-> **TL;DR:** After the Horde fracture, nearly **no English word** still points to a remembered origin. Vocabulary was **reset** through Protestant mass print, Latin-West mistranslation, and **forgotten eponyms** buried under handbook etymology. **Latin** kept changing through the medieval period — a breakaway civilization's language, not a deep antiquity stratum — fed by **informational passageways** (visions, telepathy to religious leaders). English was **pinned** by a tiny print elite (Shakespeare, Bacon, King James, Scaliger) before mass literacy; Fomenko reads their material as **eastern** in origin. Below: the meta-thesis and a curated word glossary; full audit in the [lexical redaction hub](https://paradigmthreat.net/history/chronology/investigations/lexical-redaction-hub-investigation.md).
+> **TL;DR:** After the Horde fracture, nearly **no English word** still points to a remembered origin. Vocabulary was **reset** through Protestant mass print, Latin-West mistranslation, and **forgotten eponyms** buried under handbook etymology. **Latin** kept changing through the medieval period — a breakaway civilization's language, not a deep antiquity stratum. Vulgar Latin is the spoken language. **Final Latin**, the finished textbook standard, is not ancient, and setting it in a remote past is one of the major Scaligerian deceptions. The word stock was also fed by **informational passageways** (visions, telepathy to religious leaders). English was **pinned** by a tiny print elite (Shakespeare, Bacon, King James, Scaliger) before mass literacy; Fomenko reads their material as **eastern** in origin. Below: the meta-thesis and a curated word glossary; full audit in the [lexical redaction hub](https://paradigmthreat.net/history/chronology/investigations/lexical-redaction-hub-investigation.md).
 
 ---
 
@@ -27,6 +27,10 @@ On the Fomenko read, everything Shakespeare wrote and much of what Bacon redacte
 ## Latin as Breakaway Language
 
 Latin is a **breakaway language** from a **breakaway civilization**, not a stratum that has been stable since Rome. It **kept changing through the medieval period** — which fits if Latin is the product of church and empire, and which undercuts “ancient alien” narratives: if extraterrestrials involved in Earth history were truly ancient, their language should be **stable**. Medieval Latin drifted at **one degree of separation** from living speech, heavily pushed by world events — possibly off-world events.
+
+Handbooks already split the language. **Vulgar Latin** is the spoken language. **Classical Latin** is the written standard they date to the late Republic and the early Empire. Medieval Latin kept receiving new words for the church, the law, and the schools. In the 1440s Lorenzo Valla wrote *Elegantiae linguae Latinae*, printed in 1471, treated medieval Latin as corrupt, and rebuilt a correct Latin from selected books. Schools afterward taught that rebuilt standard as the ancient language.
+
+On this read the finished standard is not ancient. **Final Latin** is the name for that textbook version. A large share of the words the dictionary calls old, because they are Latin, were coined at medieval events, and some of them later than the Middle Ages. The finished language was then set down in a remote past. That placement is one of the major deceptions of the Scaligerian timeline. Joseph Scaliger’s *De emendatione temporum* (1583) and *Thesaurus temporum* (1606) are the chronology that makes the finished language look ancient. A dictionary line that says “from Latin” can be the medieval or later coinage, filed backward. The family names under those filings are in [eponym §5](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md).
 
 Vocabulary also arrived through **informational passageways**: telepathy, visions granted to religious leaders, revelation channels that land in scripture and catechism before they land in folk memory. The word stock did not grow only by gradual village drift; it was **injected** at the top and trickled down already moralized.
 
@@ -312,6 +316,8 @@ The full chain on this read: **Moscow** → **Mexico** / **Meshiko** (Fomenko: *
 
 Person in forgotten event → common noun → **celebrity rebrand** (including **toxic-name whitewash** — vilified historical figure → beloved modern namesake) or **solidarity retransmission** (**Guy** — failed revolutionary remembered as “we are all still guys”) → handbook denies the person ([eponym dossier](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md), **§2b–§2c**).
 
+The prior claim is the age of the finished Latin, in the section above. If that finished Latin is a medieval or later product set back into antiquity, then a line “from Latin” is not proof the word is ancient. Under that filing, the harder default is the family name. Nearly every word still in use came from a family remembered for an event. A profession coining a term is the exception, and it has to be shown. **Poet** is not the job of writing verse. It is the public office of a house that held a large influence, by a speech, a fortune, a marriage, or a poem. The **Poe** name is read as pride and display, and then as that office. Edgar Allan Poe is the late specimen: [the city in the sea](https://paradigmthreat.net/history/mudflood/the-city-in-the-sea.md) is still the first form many readers get. **Burns** is the public face named for that keeping. **Morgan** and **morgue** are open as either one house at the room where the dead are recognized, or as the **mor** sound of a death family. The lists are in [eponym §5](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md).
+
 #### Patsey / Patsy
 
 Handbooks treat **patsy** as a **dupe** or **fall guy** — someone set up to take blame while the real operators walk away. Mainstream etymology is **deliberately thin**: Irish **Paddy** diminutive, French **pâté**, or “no agreed person” in the chain. That thinness is itself suspicious in a Lane B search: the word behaves like an **eponym** that lost its bearer.
@@ -418,7 +424,7 @@ Keywords: #LexicalRedaction #HiddenHistory #Latin #Nicaea #RusHorde #Etymology #
 
 **Substack:** [paradigmthreat2.substack.com/p/the-hidden-history-of-words](https://paradigmthreat2.substack.com/p/the-hidden-history-of-words)
 
-**Last updated:** 2026-07-15 (post-imperial pronunciation-loss mechanism; George/Jorge/Horus/Maurus/Mavors/Mars drift).
+**Last updated:** 2026-10-24 (final Latin is the late textbook standard, not an ancient stratum; vulgar Latin is the spoken language; family name as the default under that filing). 2026-07-15 (post-imperial pronunciation-loss mechanism; George/Jorge/Horus/Maurus/Mavors/Mars drift).
 
 ---
 

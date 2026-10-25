@@ -46,7 +46,7 @@
 | Lane | Mechanism | Typical signal | Repo examples |
 |------|-----------|----------------|---------------|
 | **A — Protestant / Latin-West mistranslation** | Mass **print**, **Bible / catechism** translation, **polemic**, **pejoration** of Horde / Orthodox / “eastern” memory | Semantic **inversion**; homophonic **puns** (*nescius* / **Nicaea** / *nice*); political words drained of imperial charge (*righteous*, *left/right*) | [Nicaea / *nice*](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md), [Jew / judge](/history/chronology/investigations/jew-word-terminology-judas-judicial.md), [Rus–Horde English lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md), [Giants / infantry / guerrilla](/history/chronology/investigations/giants-infantry-guerrilla-etymology-investigation.md) |
-| **B — Eponym from forgotten people** | Real **actor in Horde-era or Crusade-era event** → **common noun** or **surname** → later **re-anchored** to celebrity, brand, food | Oscillation: folk memory **knows** the name, textbook **denies** the person; modern **actor/brand** **re-brands** the slot | [Eponym words — open dossier](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) (**Patsey**, **Moran**, **Bacon** — seed rows) |
+| **B — Eponym from forgotten people** | Real **actor in Horde-era or Crusade-era event** → **common noun** or **surname** → later **re-anchored** to celebrity, brand, food. **24 October 2026:** the author now takes the family name as the default for nearly every surviving word (**AU-081**) | Oscillation: folk memory **knows** the name, textbook **denies** the person; modern **actor/brand** **re-brands** the slot | [Eponym words — open dossier](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) (**Patsey**, **Moran**, **Bacon**; **§5** Poe / poet, Morgan / morgue) |
 
 **Coupling:** Lane A **buries** Lane B — e.g. a **person** becomes a **slur** or **virtue word** after **translation** scrubs the **event**.
 
@@ -56,7 +56,7 @@
 
 | Thread | Lane | File | Notes |
 |--------|------|------|-------|
-| **Reader essay — Hidden History of Words** | meta | [the-hidden-history-of-words.md](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) | **AU-028** Latin breakaway; **AU-029** whitewash; **AU-030** nightmare; full glossary (Mars **Mar-**, Troy/Yoros, Maya, Moscow/Mexico, trump/trumpet, eponyms) |
+| **Reader essay — Hidden History of Words** | meta | [the-hidden-history-of-words.md](https://paradigmthreat.net/history/chronology/the-hidden-history-of-words.md) | **AU-028** Latin breakaway; vulgar vs **final Latin** (the finished standard is not ancient); **AU-029** whitewash; **AU-030** nightmare; full glossary (Mars **Mar-**, Troy/Yoros, Maya, Moscow/Mexico, trump/trumpet, eponyms) |
 | **Nicaea → *nice*** — Western civility vs barbaric East; *nescius* inversion | A | [nicaea-nice-western-civility-mnemonic-investigation.md](/history/chronology/investigations/nicaea-nice-western-civility-mnemonic-investigation.md) | **AU-026**; links [877 Nicaea timeline](https://timeline.paradigmthreat.net/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated) |
 | **Jew** / *Ioudaios* — Passion-only generative moment; *judge* / *Jew* trial fusion | A | [jew-word-terminology-judas-judicial.md](/history/chronology/investigations/jew-word-terminology-judas-judicial.md) | **AU-001** |
 | ***Pro/con*, *left/right*, *righteous*, *rush*, *rat/mouse* pejoration** | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) | **AU-005**; *right* = justified authority; *righteous* = Rus–Horde “right side” memory (open); Protestant **mass print** §6 |
@@ -156,6 +156,6 @@ Fomenko **does not** own the **Protestant mistranslation meta-thesis** — see [
 
 **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-*Last updated: 2026-08-03 (AU-042 Moor CO/curriculum locks; **AU-043** Horde-first redaction prerequisite).*
+*Last updated: 2026-10-24 (Lane B default is the family name; AU-081). 2026-08-03 (AU-042 Moor CO/curriculum locks; **AU-043** Horde-first redaction prerequisite).*
 
 Keywords: #LexicalRedaction #WordRedaction #PronunciationDrift #George #Jorge #Horus #Maurus #Mavors #Mars #Protestant #RusHorde #Eponym #Etymology #Mnemonic #HandbookClosure #EasternPhilology

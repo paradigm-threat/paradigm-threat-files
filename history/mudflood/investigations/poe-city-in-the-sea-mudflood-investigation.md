@@ -27,6 +27,8 @@ Byron was born on 22 January 1788. Poe was born on 19 January 1809. Both dates f
 
 **Author:** they were never told the cause. From their side they would not know that a named catastrophe had been declared, that another planet was involved, or that the other planet was hit. They wrote from the knowledge they had been given. The Mars weapon, the second planet, and the blowback are this dossier’s reading of what the lines preserve. They are not sentences the poets could have written as knowledge.
 
+**Author, 24 October 2026:** the family name is the other half of this page. Poet is the public office of a large influence, not the craft of verse. Poe condensed the city he knew into the text many people meet first. The surname, the pride, Morgan and morgue, and the lists are in [eponym §5](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) (**AU-081**).
+
 What the poems are evidence of is a catastrophe people then knew as recent. Byron opens with “I had a dream, which was not all a dream.” Poe’s town is still settling: “Down, down that town shall settle hence.” Byron calls the dull sky “the pall of a past World,” and he attaches no year-count.
 
 **No thousand-year stasis.** Checked against the 1831, 1836, and 1845 Poe texts and the 1816 “Darkness.” Nobody says the city had remained unchanged for a thousand years. Poe’s “thousand” is “a thousand thrones” in 1831 and 1845, and “All Hades, from a thousand thrones” in 1836. That is the hell-light, read here as many vents, and it is not a duration. The age-words he does use are “Time-eaten towers,” “long-forgotten,” “eternal rest” for the dead, and, in 1831 only, “everlasting pall” for the sky. Byron gives no span of years at all. Lovecraft’s “ancient” undersea city is a later writer. It is not used here to age these poems.
@@ -407,7 +409,7 @@ The 1836 pall-cut and the title change are on the page (**R1** and **R3**, docum
 
 Keywords: #Poe #CityInTheSea #DoomedCity #MudFlood #Byron #Darkness #Innsmouth #Lovecraft #ScienceFiction #Volcano #SunkenCity #WakandaForever #Cthulhu #WarOfTheWorlds #GreatDepression #AU079 #CodexChimalpopoca #Deluge
 
-*Last updated: 2026-10-23*
+*Last updated: 2026-10-24*
 
 ## Limits and disclaimers
 

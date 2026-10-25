@@ -134,8 +134,11 @@ An extreme few in charge force a change in the culture. The same years show a st
 
 His imposing creature matches the body in H. G. Wells. [*The War of the Worlds*](https://www.gutenberg.org/ebooks/36) describes a rounded bulk, a beak, and sixteen whip-like tentacles, and says the Martians had become brains wearing different bodies as men wear suits of clothes. That body is the host. The occupant is not what the witnesses are shown. Cthulhu, in [“The Call of Cthulhu”](https://www.hplovecraft.com/writings/texts/fiction/cc.aspx), is a vaguely human outline with an octopus-like head whose face is a mass of feelers, a scaly body, claws, and long narrow wings. The fish-people of Innsmouth stay the sea survivors. They are a different figure from the suit.
 
+A poem can also be the only public copy. On 24 October 2026 the family-name reading put poet on that job. The word is the office of a house that held a large influence over what people were allowed to know. The instrument did not have to be verse. Edgar Allan Poe still used a poem. He had the city, the covered sky, and the light from the sea, and he left a short text that is still the first form many readers meet. The name, the pride, and the handbook line that poet is a Greek word for maker are in the [eponym file](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md).
+
 ## Where next
 
+- [Family names and the word poet](https://paradigmthreat.net/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) — the surname, the office of influence, and the list of names that became words.
 - [Poe, Byron, Innsmouth, and the mud flood](https://paradigmthreat.net/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — the printings, the film credits, the letter, and the two gill accounts.
 - [Gill humans](https://paradigmthreat.net/history/mudflood/investigations/gill-humans-investigation.md) — the water-breathing figure across the stories.
 - [Mud flood](https://paradigmthreat.net/history/mudflood/page.md) — the Mars weapons, the hollow Earth, the secondary discharge, and the return stroke to Mars.
@@ -154,7 +157,7 @@ The essay is strongest where the three printings sit in order and the 1965 plot 
 
 Keywords: #CityInTheSea #Poe #Byron #Darkness #MudFlood #Volcano #Innsmouth #Lovecraft #ScienceFiction #NationalGeographic #Aether #GoldenAge #SunkenCity #WakandaForever #WarOfTheWorlds #CodexChimalpopoca #Deluge
 
-**Last updated:** 2026-10-23T09:44:20-04:00
+**Last updated:** 2026-10-24T04:11:00-04:00
 
 ---
 
