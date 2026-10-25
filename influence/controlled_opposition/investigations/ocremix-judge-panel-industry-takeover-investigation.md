@@ -1,6 +1,6 @@
 # OC ReMix — judge panel and the industry-takeover question (open)
 
-**Last updated:** 2026-10-25 (§5 Tallarico’s other public controversies — same operator; OCR kickbacks unshown)
+**Last updated:** 2026-10-25 (§6 failed crowdsourcing and the Amico — side-hustle reading stays **R**; §5 Tallarico’s other public controversies — same operator; OCR kickbacks unshown)
 
 **Status:** Open. The thesis below is the pattern being tested. Measured ballots and public posts are listed under it. Testimony stays testimony. Anything this archive does not show stays on the missing-evidence list.
 
@@ -149,7 +149,27 @@ A search for Shael saying the project was taken, that he had a hard time, or tha
 
 ---
 
-## 6. Not yet observed (**?**)
+## 6. Failed crowdsourcing and broken promises
+
+**The position (R).** Failed crowdsourcing and broken promises are another highlight of industry influence. The industry made video game development a side hustle, and that work became increasingly more difficult. That pressure encouraged the kind of domineering insecurity in Jim Shepard's billing emails, and similar psychologies that tear relationships apart and ruin communities. These projects should have been led by the community that paid and did a lot of the work for free, not by for-profit leadership that weighs its own security against the promises it made and often breaks them as a matter of budget. That paragraph is the user's position. It is an open claim. It is not a finding.
+
+**The Shepard record stays in the suite file.** [Convention suite and publicist shunning](convention-suite-publicist-shunning-investigation.md) holds the early August 2013 billing emails and the [8 April 2016 AUTOMATON](https://automaton-media.com/articles/interviewsjp/interview-the-man-who-challenged-indie-from-layoff-by-big-studio/) sentence, "Managing the money is hard! I don't think I did it well enough, either." Dungeonmans funded and left Early Access for a full release. This file does not call it a failed game. The broken-trust piece there is the billing fight and that admission. Eye of the Commando remaining in Early Access is not proof a date was broken for budget. That store page said the target might slip. The room sequence stays in the suite file.
+
+**Intellivision Amico (S).** Tommy Tallarico's unshipped console is the case. On **2018-05-29** he told VentureBeat he would relaunch the Intellivision ([Wikipedia](https://en.wikipedia.org/wiki/Intellivision_Amico), citing that interview). In October 2018 the console was unveiled as the Amico, with a **2020-10-10** ship date ([Polygon, 2020-08-05](https://www.polygon.com/2020/8/5/21356036/intellivision-amico-delayed-launch-date-window-2021/); [GamesIndustry.biz, the same day](https://www.gamesindustry.biz/intellivision-amico-delayed-to-april-2021)). Pre-orders and a Fig campaign took backers' money. GamesIndustry says the device then "raised a further $5.5 million via a Fig crowdfunding campaign." Polygon, the same day, says it "has drawn a combined $5.5 million in backing and pre-orders from Fig and other sources." Those sentences do not describe the same pot. This file does not collapse them into one total. Polygon also says the Fig site was taking $100 deposits. GamesIndustry says the first week pre-sold over 10,000 units. [Ars Technica, 2022-02-08](https://arstechnica.com/gaming/2022/02/debt-stricken-intellivision-asks-for-more-funds-to-last-past-july/) says earlier company statements suggest roughly 6,000 worldwide preorders by the end of 2021. This file does not reconcile the 10,000 and the 6,000.
+
+On **2020-08-05** Tallarico announced the first delay and blamed the pandemic. GamesIndustry records the new launch as **2021-04-15**. Polygon records his hope that a founder's edition would reach early backers on **2021-04-03**, and his line that the date would follow the team's quality criteria, "not a day before." Wikipedia's account of later reporting: a further delay in February 2021 to **2021-10-10**, supply chain; another in August 2021 to the end of 2021, the chip shortage. [VGC, 2022-03-02](https://www.videogameschronicle.com/news/intellivision-amicos-future-is-questioned-as-new-investment-campaign-ends-early/) records that the end-of-2021 date was missed.
+
+**2022 money and the CEO change (S).** Ars, **2022-02-08**, reporting the SEC filing: the company had "generated no revenues" since it was formed in 2018; at that pace it could operate until July 2022; long-term debt was $7.2 million and short-term debt $1.2 million, against $429,000 cash; it could not account for $1.35 million paid to manufacturer Ark Electronics. The filing's risk factors, as Ars quotes them, say "there may never be a fully operational Intellivision Amico" if the company decided a physical launch would "not be in the best interest of the Company and its stockholders/members/creditors." The same article: a StartEngine round aimed at $5 million, and a further $5 million would together "fund the company for approximately 7 to 9 months." Tallarico stepped down as CEO and stayed president, chief creative officer, and largest shareholder. VGC, **2022-03-02**: Phil Adam, the former chief revenue officer, had taken the CEO role, and the StartEngine campaign had closed early at $58,001 from 54 investors. A journalist guessed that close might precede a bankruptcy filing. No bankruptcy filing is in the sources read for this section.
+
+**Still no console (S).** [Time Extension, 2023-11-23](https://www.timeextension.com/news/2023/11/intellivision-admits-it-doesnt-have-the-funds-to-make-the-amico): Phil Adam said manufacturing consoles in volume required more investment, and the company pointed pre-order customers at a phone app, Amico Home. Wikipedia, citing Atari's **2024-05-23** announcement: Atari SA bought the Intellivision brand and assets; the Amico was not in the sale; the company renamed itself Amico Entertainment. The company's [hardware update, signed 2026-01-23](https://amicoentertainment.com/press-releases/new-years-update-2026), still places the console in a third phase, after controllers it says it is still working to bring to market. Wikipedia's article, read **2026-10-25**, still calls the Amico planned and without a release date. A commercial launch is not in these sources.
+
+**Same pattern as the anthology (§4).** Backers supplied the money. A for-profit principal controlled the product and the dates. The 2018 coverage says the company was paying studios, so Amico is not shown here as unpaid development. The unpaid-labor half of the pattern is the Earthworm Jim anthology in **§4**: community arrangements, no fee in the call, a commercial release under his name. "The community should have led" stays **(R)**.
+
+**What this does not prove.** The delay record does not prove the dates moved because leadership weighed its own security against the promise and broke it as a matter of budget. The stated reasons on the record are the pandemic, the supply chain, and the chip shortage. The filing's "best interest of the Company" sentence is a risk factor. It does not establish that motive. No kickback into OCR is shown. The side-hustle reading stays the open claim above.
+
+---
+
+## 7. Not yet observed (**?**)
 
 These claims are part of the thesis and are not established by the passes so far.
 
@@ -163,7 +183,7 @@ Projects the site did take are already in the parent file (Capcom coordination, 
 
 ---
 
-## 7. The trend that would count, and the evidence still required
+## 8. The trend that would count, and the evidence still required
 
 The trend that would move (**R**) is a documented hand on the 2004–2006 removals, a message in which **Liontamer** urges the UnMod deletion, a resignation that actually moves authority, a criticism ban that is a rule or a takedown, and a refused project set beside the publisher work the site did take. Until those exist, the file stays a search.
 
@@ -188,7 +208,7 @@ The trend that would move (**R**) is a documented hand on the 2004–2006 remova
 
 ---
 
-## 8. Producers, free work, and Street Fighter HD Remix
+## 9. Producers, free work, and Street Fighter HD Remix
 
 **Claim (R).** Producers show a strong industry influence inside the community. They extract free work, then publish it on paid projects, and in some cases rip the creator and hand the work to the industry. That is the industry’s influence on a community: a sharp separation between fans and industry employees. Fans are only allowed to make free projects. Industry employees and agents are allowed to repackage those products and sell them because they are close to the IP.
 
@@ -213,7 +233,7 @@ HD Remix is the check. A commercial license of fan remixes shows a channel from 
 
 ## What this file does not prove
 
-It does not prove an industry takeover, a judge purge, a criticism ban, or a private order to delete UnMod. It does not prove **Liontamer** has run the site for twenty years. The **82%** agreement and the musical standards pastes are compatible with ordinary panel work. The testimony can stay (**R**) while the search continues. Absence of a confession does not close the case, and it does not convert the case into a finding.
+It does not prove an industry takeover, a judge purge, a criticism ban, or a private order to delete UnMod. It does not prove **Liontamer** has run the site for twenty years. It does not prove that the Amico's missed dates were a choice to protect the company's security, or that the community was entitled to lead that project. Those sentences stay **(R)** in **§6**. The **82%** agreement and the musical standards pastes are compatible with ordinary panel work. The testimony can stay (**R**) while the search continues. Absence of a confession does not close the case, and it does not convert the case into a finding.
 
 ---
 
@@ -225,7 +245,7 @@ It does not prove an industry takeover, a judge purge, a criticism ban, or a pri
 
 ---
 
-Keywords: #OCRemix #Liontamer #djpretzel #UnMod #JudgesPanel #ControlledOpposition
+Keywords: #OCRemix #Liontamer #djpretzel #UnMod #JudgesPanel #ControlledOpposition #IntellivisionAmico
 
 ## Related
 

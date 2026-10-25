@@ -1,6 +1,6 @@
 # Convention suite and publicist shunning (open)
 
-**Last updated:** 2026-10-25
+**Last updated:** 2026-10-25 (side-hustle paragraph points at the Amico section)
 
 **Privacy.** Jim Shepard is named because the game career is public. Everyone else in the room stays unnamed.
 
@@ -23,6 +23,8 @@ That charge went past a professional note. He could have listed the errors, or t
 She conceded the name errors, defended the hours as real and probably low, and returned the $175 the next day because the questioning of her ethic was not worth it. That reply was a defensive exit after the red flags, not an attempt to keep the job.
 
 **The first email was horrible.** It is abusive unprofessional behavior, and the 2016 interview is the later admission. In August 2013 Jim Shepard paid a small publicity invoice the same night, then wrote that he felt taken advantage of, and the money was returned the next day. Three years later, in public, the hard part of the campaign is his own fund handling, and he says he does not think he did it well. In the [AUTOMATON interview of 8 April 2016](https://automaton-media.com/articles/interviewsjp/interview-the-man-who-challenged-indie-from-layoff-by-big-studio/), the interviewer says that even after Kickstarter funding succeeds, managing the funds is full of difficulties. Shepard answers: "Managing the money is hard! I don't think I did it well enough, either." The same answer then advises paying contracted developers fairly and says recruiting for next to nothing burns people out. The interview does not name the bill. The August email and this sentence are the behavior and the later admission.
+
+> **Side hustle and broken promises (R).** Open claim, not a finding. Industry influence made video game development a side hustle, and that work became increasingly more difficult. That pressure encouraged the domineering insecurity in the August 2013 billing emails above, and similar psychologies that tear relationships apart and ruin communities. The broken-trust piece here is that billing fight and the later admission, "Managing the money is hard! I don't think I did it well enough, either." Dungeonmans funded and shipped. Eye of the Commando still being in Early Access is not proof a date was broken for budget; the store page said the target might slip. On this claim, these projects should have been led by the community that paid and did a lot of the work for free, not by for-profit leadership that weighs its own security against the promises it made and often breaks them as a matter of budget. The console case is Tommy Tallarico's Intellivision Amico, in [OC ReMix — judge panel and industry takeover](ocremix-judge-panel-industry-takeover-investigation.md) **§6**.
 
 ---
 
