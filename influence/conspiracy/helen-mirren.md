@@ -24,6 +24,8 @@ That is a failed passage from stage to screen, carried into a festival opening b
 
 Each pair below is the demonstration. She says she does not want the work. She takes the work. She says, afterward, that it was among the best things she has done. The earlier sentence stays on the page beside the later one.
 
+![Illustrated timeline of Helen Mirren, 1977 to 24 October 2026: her refusals beside Elizabeth I, The Queen, The Office, The Audience, Catherine the Great, Golda, and Savannah. The faces are illustrations, not film stills.](https://paradigmthreat.net/influence/conspiracy/helen-mirren-timeline.jpg)
+
 Her parents did not want the acting job. It was unreliable. She qualified as a teacher anyway, and then she left the teaching. [The 1994 *Independent* profile](https://www.helen-mirren.net/articles/199403theindependent/) is where that start is told.
 
 In 1977, at the Silver Jubilee, she was a [“grumpy anti-monarchist”](https://www.telegraph.co.uk/news/celebritynews/9243541/Helen-Mirren-Royal-Family-won-me-over-but-Im-a-working-class-dame-at-heart.html), appalled by the celebrations. Decades later, at Venice, she said [“I must say I slowly fell in love with her,”](https://www.standard.co.uk/showbiz/mirrens-royal-rebirth-7217788.html) that her parents “were very very anti-monarchy and anti-class system,” and that after playing “an essence of the Queen I’ve lost that chip on my shoulder.” By the Diamond Jubilee, 4 May 2012, she hoped [“to see Charles become king one day”](https://www.telegraph.co.uk/news/celebritynews/9243541/Helen-Mirren-Royal-Family-won-me-over-but-Im-a-working-class-dame-at-heart.html) and said, “I’m not a republican any more — not so voraciously, anyway.” Charles is the man who had dubbed her Dame in 2003.
@@ -114,7 +116,7 @@ The slogan is the part a stranger can test without the family theory. The quote 
 
 Keywords: #HelenMirren #Unwilling #SCAD #ATalentForMurder #Savannah #PrimeSuspect #TheQueen #ElizabethI #Excalibur #GoldaMeir #Mironov #Smolensk #AU082 #AU049 #RusHorde #CelebrityChoreography #Burnout #TheOffice #ParadigmThreatFiles
 
-**Last updated:** 2026-10-25T10:43:47-04:00
+**Last updated:** 2026-10-25T10:56:52-04:00
 
 ---
 
