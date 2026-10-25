@@ -25,6 +25,10 @@ package-lock.json
 .DS_Store
 *.pem
 
+# editor lock files (LibreOffice .~lock.name#, Word ~$name)
+.~lock.*
+~$*
+
 # debug
 npm-debug.log*
 yarn-debug.log*
