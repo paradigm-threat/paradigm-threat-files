@@ -601,6 +601,7 @@ This file **does not** accuse any named person of **crime**. It tracks **governa
 | Investigation | Relation |
 |---------------|----------|
 | [**Success — by any means necessary**](/influence/controlled_opposition/success-by-any-means-necessary.md) | Reader essay — **Protricity** / Ari synthesis (**§8** lane + cross-reads) |
+| [Judge panel and industry takeover](ocremix-judge-panel-industry-takeover-investigation.md) | Open frame for the 2004–2006 panel thesis; same **§6.1.2** counts; missing evidence listed there |
 | [**The Second Exodus Of OC ReMix**](https://snesology.net/content/exodus2/comic/the-second-exodus-of-oc-remix.md) | Reader manifesto — **member-rights** / **web-DAW** build; **Exodus 2** satire; inverts **§6.2**; extends **§6.1.1** stalled ideas |
 | [*Homestuck* / Hussie](/influence/controlled_opposition/investigations/homestuck-hussie-controlled-opposition-investigation.md) | IP / canon privatization rhyme |
 | [SDA / GDQ / MSF](/influence/controlled_opposition/investigations/sda-gdq-charity-msf-polarization-investigation.md) | Charity lane; OCR row in **§3** |
