@@ -1,7 +1,7 @@
 # Git remotes — single `main` (GitLab + Relay)
 
 **Date:** 2026-07-21  
-**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay **`iad1` / `sjc1` / `hkg1`** serve the same `main`.
+**Purpose:** One shared tip everywhere. GitLab is forge source of truth; Relay **`iad1` / `ord1` / `hkg1`** serve the same `main`.
 
 ---
 
@@ -10,7 +10,7 @@
 | Surface | Branch | Role |
 |---------|--------|------|
 | **GitLab** (`gitlab`) | **`main`** | Forge backup / MR / CI — **source of truth** for history. |
-| **Relay** (`iad1`, `sjc1`, `hkg1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
+| **Relay** (`iad1`, `ord1`, `hkg1`) | **`main`** | Production for `paradigmthreat.net` content. Must match GitLab `main`. |
 | **Local default checkout** | **`main`** | Day-to-day commits. Tracks `gitlab/main` (or any remote `main`). |
 
 Do **not** use a long-lived `gitlab` work branch or `relay-publish` cherry-pick branch. Those were split-brain workarounds (retired 2026-07-21).
@@ -26,30 +26,30 @@ git pull --ff-only   # from gitlab/main (or your upstream)
 # Catalog repos with publish_origin=iad1 (paradigm-threat-files, paradigm-threat-timeline, …):
 git push iad1 HEAD:main
 git push gitlab HEAD:main
-# hkg1/sjc1: peer notify + catalog sync — optional direct push
+# hkg1/ord1: peer notify + catalog sync — optional direct push
 ```
 
-**Why iad1 before GitLab:** startup catalog sync on replicas pulls from GitLab (forge). If GitLab is pushed while iad1 still lags, hkg1/sjc1 can land **ahead of the publish origin** until iad1 catches up — Observer flags that as a mesh anomaly.
+**Why iad1 before GitLab:** startup catalog sync on replicas pulls from GitLab (forge). If GitLab is pushed while iad1 still lags, hkg1/ord1 can land **ahead of the publish origin** until iad1 catches up — Observer flags that as a mesh anomaly.
 
 For repos without a dedicated publish origin, forge-first is fine:
 
 ```bash
 git push gitlab HEAD:main
-git push iad1 HEAD:main && git push hkg1 HEAD:main && git push sjc1 HEAD:main
+git push iad1 HEAD:main && git push hkg1 HEAD:main && git push ord1 HEAD:main
 ```
 
 **If a Relay push hangs** (often a dead Spot or slow `post-receive` on an old binary):
 
 1. Push **one remote at a time** with a client timeout (e.g. `timeout 90 git push iad1 HEAD:main`).
 2. Check `git ls-remote <remote> refs/heads/main` — if the tip already matches `HEAD`, kill the hung client; the pack was accepted.
-3. Prefer **`sjc1` / `hkg1`** if **`iad1`** is unreachable; then repair iad1.
+3. Prefer **`ord1` / `hkg1`** if **`iad1`** is unreachable; then repair iad1.
 4. Mesh ops / env timeouts: relay-gateway **`docs/RELAY_MESH_OPS.md`**.
 
-*Validated: non-blocking post-receive deploy on iad1/sjc1/hkg1.*
+*Validated: non-blocking post-receive deploy on iad1/ord1/hkg1.*
 
 **Hard rules**
 
-1. GitLab, iad1, sjc1, and hkg1 **`main`** tips must stay identical (or FF-compatible from the same spine).
+1. GitLab, iad1, ord1, and hkg1 **`main`** tips must stay identical (or FF-compatible from the same spine).
 2. **Never** dual cherry-pick onto unrelated histories.
 3. **Never** land long-lived commits on only one Relay.
 4. **Never** force-push Relay `main` unless the author explicitly orders it (prefer bare reclone from GitLab if history must be replaced).

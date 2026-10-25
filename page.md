@@ -26,7 +26,7 @@ Titles marked **Now showing** are ready to play on the host (Bunny CDN). Everyth
 git clone git://iad1.relaygateway.net:9418/paradigm-threat-files.git
 ```
 
-Full corpus from Relay (markdown + media; multi-GB). If iad1 is unreachable, try `sjc1` or `hkg1` with the same path. Some networks block TCP 9418 / the `git://` protocol.
+Full corpus from Relay (markdown + media; multi-GB). If iad1 is unreachable, try `ord1` or `hkg1` with the same path. Some networks block TCP 9418 / the `git://` protocol.
 
 <ChangeLog limit={8} />
 

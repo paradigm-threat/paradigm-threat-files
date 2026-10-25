@@ -158,7 +158,7 @@ Chronicle / documentary prose default locked in agent rules (`plain-spoken-prose
 
 **September cutover:** Next.js surfaces pointed at **`old.paradigmthreat.net`** after Relay apex ownership; archive banner; Research MCP canonicalized on old.; confirmed-dead href marking in MarkdownLink and SEO HTML; Search stays on the Vercel archive domain; Home/Search/Timeline/Chat absolute for subdomain chrome; paradigmthreat.org → pure-Relay park; Timeline default on `timeline.paradigmthreat.net`.
 
-**October:** legacy chat **redirects to park mesh IRC**; Movies nav + Flashback Now showing component (see lede); Directory labels wrap instead of truncating; ChatRoom embeds park LiveChat from markdown tags. Image failover: sjc1 mirrors retired; hung loads fail to Retry UI; Reading Mode excludes PopImage/HTML comment leaks.
+**October:** legacy chat **redirects to park mesh IRC**; Movies nav + Flashback Now showing component (see lede); Directory labels wrap instead of truncating; ChatRoom embeds park LiveChat from markdown tags. Image failover: hung loads fail to Retry UI; Reading Mode excludes PopImage/HTML comment leaks.
 
 **Read:** humans on old. get the familiar Next shell; bots and park tip stay on Relay; chat is no longer a Vercel-owned room — it is mesh IRC with archive embeds pointing in; fan edits play from [flashbackrepository.org](https://flashbackrepository.org), not a third-party edit board.
 

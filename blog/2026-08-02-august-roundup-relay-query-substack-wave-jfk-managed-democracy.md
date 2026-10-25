@@ -15,7 +15,7 @@ Through mid-July the site still leaned on **generated catalog JSON** (`index.jso
 1. **Gateway** indexes repos with **SQLite search** + **`path_tree`** / **`content_events`** collections (`search.yaml`, post-receive indexing).
 2. **HTTP QUERY** returns ordered, filtered file and event rows — same path the new **per-repo Streamable HTTP MCP** uses (`POST /api/mcp/:repo`).
 3. **Site** stopped treating catalog JSON as source of truth: search, nav, timeline, homepage recent content, and chat hydration call **QUERY** against Relay mirrors (prefer **lon1**, fail over past empty catalogs).
-4. **Files** dropped committed `index.json` generation as the catalog spine; media rules ban **inline IPFS stubs** for fat binaries; Git remotes healed to a **single `main`** on GitLab + iad1/hkg1/sjc1 ([GIT_REMOTE_STRATEGY](https://paradigmthreat.net/docs/GIT_REMOTE_STRATEGY)).
+4. **Files** dropped committed `index.json` generation as the catalog spine; media rules ban **inline IPFS stubs** for fat binaries; Git remotes healed to a **single `main`** on GitLab + iad1/hkg1 ([GIT_REMOTE_STRATEGY](https://paradigmthreat.net/docs/GIT_REMOTE_STRATEGY)).
 
 Reader-visible effects: ChangeLog tabs that do not hang on a wedged mirror; article markdown fetch with query-bust past CDN; chat posts loaded from QUERY rows instead of per-file GETs; SSR article-first shell on Relay park; hung-push runbook when a Spot node’s post-receive stalls (push one remote with timeout; prefer hkg1/lon1; non-blocking post-receive validated on lon1/hkg1).
 
