@@ -357,7 +357,7 @@ Electrical discharge in this repo is already tied to elemental change in the [ra
 
 > The rapid mutation of gills could be entirely wrong. It is possible that there simply were not the conditions to allow this to happen. Until some kind of real documentation turns up, there is no reason to assume that it happens. There is another explanation. The people who had gills and lived in the ocean were already there. They only inhabited the underwater sunken cities after the cities were sunk. These gill humans do not represent the original inhabitants. That is still an open possibility.
 
-The drowned-and-revived account is not the default. No parish book, letter, or medical note in this file says a drowned person grew gills. A film, a pact, a plant, and a children’s game are not that note.
+**Author, 26 October 2026:** the wait for a mud-flood note is withdrawn. The study is the pattern and the interpretation of the public texts. A memorandum that named the gills, for an operation on this scale, is destroyed or stays classified. The drowned-and-revived account is not the default. The sea-people account stays open beside it.
 
 The other account: a people who already breathed water already lived in the ocean. The city stood on land. It sank. Its people drowned and stayed drowned. After the streets were underwater, the gill people moved in. They lived in the ruins. They did not build them. A later visitor who finds gill people in a drowned city is not looking at the original inhabitants.
 
@@ -387,7 +387,7 @@ Both accounts stay open. A document that names water-breathing people in the sea
 | 8 | The 30 November 1936 letter | The *Selected Letters* page, set beside the Wikipedia transcription used in [§12.1](#121-pulps-and-the-one-book) |
 | 9 | Tale-source letters | Cthulhu dream, Colour out of Space, Witch House, Whisperer, Mountains of Madness, Shadow out of Time — open the letters before any of them is quoted as his |
 | 10 | Which other magazines, besides the two National Geographic pages named in the reader essay, announce buildings found underwater? | Magazine, date, and headline, quoted from the issue |
-| 11 | Did a drowned person grow gills in the flood? | A parish book, letter, medical note, or chronicle that says so. Until that page exists, [§13.1](#131-mutation-under-the-energy) is not assumed |
+| 11 | Did a drowned person grow gills in the flood? | The pattern in the public texts. A contemporary memorandum naming the gills is not the test. For an operation on this scale that paper is destroyed or stays classified. [§13.1](#131-mutation-under-the-energy) is not assumed |
 | 12 | Were gill humans already in the ocean, and did they enter only after the sinking? | A record that names them before the sinking, separate from the city’s dead, or a record of occupation after, with the original people still drowned |
 
 The rain and the lightless sky are already the same places and the same event. Darkness lasted years. The rain lasted much less and was not constant. Cities that were already underwater are outside this file.
@@ -409,7 +409,7 @@ The 1836 pall-cut and the title change are on the page (**R1** and **R3**, docum
 
 Keywords: #Poe #CityInTheSea #DoomedCity #MudFlood #Byron #Darkness #Innsmouth #Lovecraft #ScienceFiction #Volcano #SunkenCity #WakandaForever #Cthulhu #WarOfTheWorlds #GreatDepression #AU079 #CodexChimalpopoca #Deluge
 
-*Last updated: 2026-10-24*
+*Last updated: 2026-10-26*
 
 ## Limits and disclaimers
 

@@ -27,8 +27,9 @@ This file does not open a track about cities built underwater. It does not open 
 - [*City Under the Sea*](https://en.wikipedia.org/wiki/War-Gods_of_the_Deep) / [*War-Gods of the Deep*](https://catalog.afi.com/Catalog/moviedetails/22802), 1965. Jacques Tourneur. Vincent Price as the Captain. Gill-men live with the drowned city. The shipped plot calls them the builders. The Captain offers prisoners to them “to appease the volcano’s wrath.” The sacrifice does not stop the eruption. Smugglers have lived in the city since 1803. That date belongs to the film.
 - [*Black Panther: Wakanda Forever*](https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever) (2022). The people of Talokan breathe water and fight the surface. The film’s own cause is a vibranium plant and a flight from the Spanish.
 - [*E.V.O.: Search for Eden*](/influence/predictive_programming/investigations/evo-search-for-eden-deep-time-saturnian-cosmology-predictive-programming-investigation.md) (1992). A child buys body parts. Crystals speed the change. That is a game about mutation, not a people with a city.
+- [*Zombies Ate My Neighbors*](https://en.wikipedia.org/wiki/Zombies_Ate_My_Neighbors) (LucasArts, 1993). The game includes a gill-man among zombies, vampires, werewolves, and the rest. The inclusion is there because a gill-man was already a commonly known and accepted science-fiction stand-in.
 
-**Author:** the repeated piece is a people who breathe water, and a fight with people who live on land. The causes on screen do not match. A pact and blood. Builders who were already gill-men when the sea took the city. A plant. A game that sells new organs. The sunken-city file is where those causes are set beside the flood. This file only keeps the figure.
+**Author:** the repeated piece is a people who breathe water, and a fight with people who live on land. The causes on screen do not match. A pact and blood. Builders who were already gill-men when the sea took the city. A plant. A game that sells new organs. *Zombies Ate My Neighbors* includes a gill-man because that figure was already a commonly known science-fiction stand-in. Lovecraft, the 1965 film, and *Wakanda Forever* do not by themselves cover the years between them. The sunken-city file is where the flood causes are set beside the figure. This file only keeps the figure.
 
 ## 3. Not decided here
 
@@ -47,12 +48,12 @@ Innsmouth’s Deep Ones, the 1965 gill-men, and Talokan can be read as one figur
 
 ## Weak points
 
-- [ ] Other titles the author has called “many movies” are not named yet. Do not invent them.
+- [ ] Other titles besides *Zombies Ate My Neighbors* are not named yet. Do not invent them. The 1993 game shows a gill-man as a commonly accepted science-fiction stand-in. It is not a catalog of every title.
 - [ ] The 1965 line “to appease the volcano’s wrath” is used as the dossier’s wording. A script page has not been opened for it in this file.
 
-Keywords: #GillHumans #Innsmouth #DeepOnes #CityUnderTheSea #WakandaForever #Talokan #EVO #MudFlood #AU080 #SunkenCity
+Keywords: #GillHumans #Innsmouth #DeepOnes #CityUnderTheSea #WakandaForever #Talokan #EVO #ZombiesAteMyNeighbors #MudFlood #AU080 #SunkenCity
 
-*Last updated: 2026-10-23*
+*Last updated: 2026-10-26*
 
 ## Limits and disclaimers
 
