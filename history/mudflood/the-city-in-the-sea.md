@@ -147,6 +147,8 @@ The essay is strongest where the three printings sit in order and the 1965 plot 
 
 Keywords: #CityInTheSea #Poe #Byron #Darkness #MudFlood #Volcano #Innsmouth #Lovecraft #ScienceFiction #NationalGeographic #Aether #GoldenAge #SunkenCity #WakandaForever #WarOfTheWorlds #CodexChimalpopoca #Deluge
 
+**Substack:** [The city in the sea](https://paradigmthreat2.substack.com/p/the-city-in-the-sea)
+
 **Last updated:** 2026-10-26
 
 ---
