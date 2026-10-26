@@ -102,7 +102,7 @@ Those two pages are not the count. The same announcement is a regular news item.
 
 The finds are real enough to print. The cause, in these pages, is an old earthquake, a slow rise of the sea, or a legend. The same announcement comes around again. That repetition is gaslighting. It prepares people to hear the sunken cities stated as fact later, while the recent catastrophe, and who fired, stays out of the piece. Again, the next generation has no reason to think these stories are fiction. A time may come when they are accepted as fact - severing the older generations who were desperately trying to sort truth from fiction, trusting the libraries - reading everything they can about everything, and being spectacularly wrong in the end - about everything.
 
-## Lovecraft was prevented from publishing his best stories until after he was dead
+## The pulps printed Lovecraft’s ‘weird’ stories
 
 Of Byron, Poe, and Lovecraft, Lovecraft was the most redacted and the most contained. His stories could run in [*Weird Tales*](https://en.wikipedia.org/wiki/Weird_Tales) while he was alive, and he still could not publish them as books.
 
