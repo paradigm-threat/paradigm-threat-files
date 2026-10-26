@@ -316,7 +316,11 @@ These are the public fights. They are not all the same kind of event. The royal 
 | **2022–23** | *Golda* | Lipman, Baddiel, prosthetics, “Jewface.” She says she can see the discomfort, and that she offered to walk. [§7](#7-golda-2023) |
 | **2023–26** | Israel talk | “For the rest of eternity.” Snopes repairs a true houses quote. Taormina: careful what you read online; Gaza as crimes against humanity; the creation of Israel still important. [§8](#8-the-office-the-soviet-era-line-and-the-israel-choreography) |
 
-**Author:** *Caligula* is the early proof that the finished film is not hers. Guccione owns the cut. She stays inside the anecdote instead of leaving the business. The 2008 and 2018 sex remarks are a different scandal: she speaks from her own youth, and the state of the law answers her. They matter here because they are controversies with her name on them, not because they prove a handler. The political controversies are the monarchy reversal and the Golda cast.
+**Author:** *Caligula* is the early proof that the finished film is not hers. Guccione owns the cut. She stays inside the anecdote instead of leaving the business. McDowell tells people not to see it and does not get another lead on the scale of *A Clockwork Orange*. That career is [Malcolm McDowell — the villain role that did not let go](/influence/suppression/investigations/malcolm-mcdowell-celebrity-containment-investigation.md). The 2008 and 2018 sex remarks are a different scandal: she speaks from her own youth, and the state of the law answers her. They matter here because they are controversies with her name on them, not because they prove a handler. The political controversies are the monarchy reversal and the Golda cast.
+
+> If Gore Vidal was regarded as a historian — see *The Office*, “Gettysburg,” 17 November 2011, Oscar: “Why don’t you tell us the real history, Gore Vidal?” / “He’s a historian” — then his association with this movie was a setup. They wanted a real historian associated with their hardcore sex stunt. The more significant accusation is not that some guy turned a Roman history movie into a porno. This movie represents the Roman cult and religion, because the memory of the Roman Empire was stolen entirely from the memory of the Russian Rus’ Horde empire. This is why most Roman productions do not highlight moments in history and associations with Christianity. They mostly highlight slavery and people who are mostly naked, like *Spartacus*, and audiences associate their love for these movies not with love for history or eras, but with love for slave love and the porn sequences they saw in early film, which they associate with Rome. It is entirely subconscious, and extremely effective. It is a way of reducing history to a cult that you are in or out of.
+
+**Limits on that charge.** Oscar’s “historian” is the sitcom title, not a university appointment. Vidal was a novelist and essayist who wrote historical fiction, and *People* (November 1980) records that he demanded his name off the finished film. *Spartacus* (1960) is the slave-revolt specimen; its Crassus bath scene was cut from the first release and restored in 1991. *Ben-Hur* and *Quo Vadis* are the Roman films that put Christ on the poster. The charge is which Rome the body-memory kept. The Horde-for-Rome floor is the chronology already filed, not a new Smolensk deed.
 
 ---
 
@@ -418,7 +422,7 @@ Registry: [author-unique theories](/history/chronology/investigations/author-uni
 
 Keywords: #HelenMirren #GoldaMeir #AU082 #Smolensk #Gzhatsk #Mironov #NameChange #1917 #Caligula #TheQueen #ElizabethI #ElizabethII #CatherineTheGreat #BritishRoyalty #AU049 #RusHorde #CelebrityChoreography #Burnout #TheOffice #SovietEra #Zionism #NSA #ParadigmThreatFiles
 
-**Last updated:** 2026-10-25
+**Last updated:** 2026-10-26
 
 ---
 

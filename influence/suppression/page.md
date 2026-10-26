@@ -8,6 +8,7 @@
 - [Designed from birth — celebrity slavery, gender-swap installment](/influence/suppression/designed-from-birth.md)
 - [Helen Mirren is one of the most unwilling actresses on record — celebrity IP slavery, unwilling-actress installment](/influence/conspiracy/helen-mirren)
 - [Celebrity "modern slavery" — contracts, containment, NDAs, creative control](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md)
+- [Malcolm McDowell — the villain role that did not let go](/influence/suppression/investigations/malcolm-mcdowell-celebrity-containment-investigation.md)
 - [#MeToo as corporate-sponsored choreography — Spacey / Carroll / accusation registry](/influence/suppression/investigations/metoo-corporate-sponsorship-choreography-investigation.md)
 - [Chris Sims — not canceled; the open question is whether he went along](/influence/suppression/investigations/chris-sims-marvel-precareer-archive-cancel-option-investigation.md)
 - [Cathars — enemy memory, catharization, Khazar split thesis](/influence/suppression/investigations/cathars-church-purge-khazar-split-investigation.md)

@@ -1157,7 +1157,7 @@ Season 5 premiere (*The Wars to Come*, **12 Apr 2015**): Jon presses Mance to be
 
 **Discipline:** Sitcom beat is **fiction**; not U.S.–China policy. Camp label is **author taxonomy**.
 
-**Later beat on the same show (L1 line, L3 camp):** **10 Nov 2011**, “Pam’s Replacement” (S8E7). The room is admiring Helen Mirren. Dwight: “Helen Mirren was born Helen Mironov. That’s right. You’re fake salivating over a Soviet era Russian.” [The Office Lines](https://theofficelines.com/quotes/episodes/pam-s-replacement/). **Author:** same NSA-side desk, different payload — the English dame is named as a compromised Soviet-era Russian. Full read: [Helen Mirren §8](/influence/conspiracy/celebrities/helen-mirren.md#8-the-office-the-soviet-era-line-and-the-israel-choreography) (**AU-082**).
+**Later beat on the same show (L1 line, L3 camp):** **10 Nov 2011**, “Pam’s Replacement” (S8E7). The room is admiring Helen Mirren. Dwight: “Helen Mirren was born Helen Mironov. That’s right. You’re fake salivating over a Soviet era Russian.” [The Office Lines](https://theofficelines.com/quotes/episodes/pam-s-replacement/). **Author:** same NSA-side desk, different payload — the English dame is named as a compromised Soviet-era Russian. Full read: [Helen Mirren §8](/influence/conspiracy/celebrities/helen-mirren.md#8-the-office-the-soviet-era-line-and-the-israel-choreography) (**AU-082**). **17 Nov 2011**, the next episode, “Gettysburg” (S8E8): Dwight says all of history has been whitewashed; Oscar answers, “Why don’t you tell us the real history, Gore Vidal?” and, when Dwight does not know the name, “He’s a historian.” [The Office Lines](https://theofficelines.com/quotes/episodes/gettysburg/). **Author:** the sitcom’s name for a historian is the man whose credit was put on *Caligula*.
 
 Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everything-burns.md#authors-conclusion).
 
@@ -1245,7 +1245,7 @@ Cross-read [Everything Burns § Author's conclusion](/influence/hollywood/everyt
 
 Keywords: #EverythingBurns #DarkKnight #Joker #Terminator2 #T2 #Skynet #IndependenceDay #ID4 #Stargate #TheArrival1996 #Geoengineering #Terraforming #AGWCover #Area51 #911PP #NoFate #HeathLedger #DeNiro #CelebrityContainment #Vaxxed #China #HongKong #Taiwan #ChineseZodiac #Yuanmingyuan #TSMC #TwoCamps #NSA #CIA #MI6 #RushHour #24 #JackBauer #CTU #PredictiveProgramming #Hollywood #Antibody #GameOfThrones #IronBank #ManceRayder #ForeignersWar #UniteOrDie #TheOffice #MichaelScott #Cyberdyne #WarOfTheWorlds #HostBody #AncientAliens #Atlantis #Congo #KingSolomonsMines #Zinj #Spielberg #KathleenKennedy #FrankMarshall #BurnAfterReading #BackToTheFuture #Disclosure #Agile #AU057 #CrichtonsProphecy #MountainOfHeaven #TheMummy #Gutterballs #AU062
 
-**Last updated:** 2026-10-15 (*Game of Thrones* Mance **unite-or-die** meme + S3E02 beat; **“foreigner’s war”** S5E01 meme)
+**Last updated:** 2026-10-26 (*The Office* “Gettysburg” — Oscar calls Gore Vidal a historian, one week after the Mirren line)
 
 ---
 
