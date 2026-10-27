@@ -19,3 +19,4 @@ Apply when editing **reader-facing articles** (essays under topic folders, `blog
 - Prefer cross-linking other **articles**; link dossiers only as companion receipts.
 - Run **`npm run autogen`** after substantive edits.
 - Tone model when narrating: [`governance/war/the-great-depression-was-planned.md`](../../governance/war/the-great-depression-was-planned.md).
+- **No correction archaeology in article bodies:** state the correct fact once; never ship “— not X”, “SRT-corrected”, or other agent-mistake scars. Hygiene belongs in the companion investigation. See [articles-no-correction-meta](articles-no-correction-meta.mdc) and ARTICLES.md drafting-process meta.

@@ -188,18 +188,16 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 
 **Optional clue tier — not evidence:** Same **predictive-programming lane** as §7’s dystopian **cash-ban** tropes — **cultural preconditioning**, not proof of a dated Treasury brief.
 
-**Source beat:** In ***The Office*** **S02E22 *Casino Night***, **Kevin Malone** runs a **deceptive** poker persona — documented in the same episode via a **World Series of Poker** brag ([Springfield S02E22](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-office-us&episode=s02e22)). When others ask about his **betting system**, he **confidently** explains: **“Nickels are worth 10, dimes are worth 25, and quarters are worth 50.”** Full catalogue + **NSA-aligned PP** framing: [Cruz–Kevin investigation — Casino Night deep dive](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22).
+**Source beat (SRT-corrected 2026-10-27):** In ***The Office*** **S03E13 *Ben Franklin***, Kevin deals warehouse poker and sets the table: **“Nickels are worth 10, dimes 25, and quarters 50.”** (WEB-DL SRT ~14:14). Prior cite wrongly parked this on ***Casino Night* (s02e22)** — that episode has Kevin’s **WSOP** poker bluff **without** the coin ladder. Full catalogue + **NSA-aligned PP** framing: [Cruz–Kevin investigation — Ben Franklin deep dive](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#ben-franklin--nickels-are-worth-10-coin-value_bluff_s03e13).
 
 **Why it rhymes with §8 penny politics:**
 
 | Layer | Read |
 |-------|------|
 | **Not “no pennies in poker”** | **Nickels** are already the **practical floor** in most coin poker; **pennies** only in **ultra-cheap** games — **irritating to split**, not funny to omit. Kevin’s line **must** do more: **renumber every surviving coin upward**. |
-| **Straight comedy** | **Absurd private table** + **false confidence** (same lane as **WSOP** brag); **~2× labels** = **surface misdirection**. |
+| **Straight comedy** | **Absurd private table** + **false confidence**; **~2× labels** = **surface misdirection**. Related **WSOP** bluff energy lives in *Casino Night*, a different episode. |
 | **Ladder promotion + value upgrade (primary PP)** | **Penny omitted**; **nickel first**; each coin **one rung up** — **symbolic penny-into-nickel / nickel-as-floor** — plus **all labels marked higher** = **pro-national revaluation** seeded **years before** Treasury halt. **Not** literal SKU math (**3Q · 1D · 2N** in §11.1). |
 | **American sovereignty (hypothesis)** | **Domestic coin ladder reasserted by fiat** while **bearer metal** persists ([§7](/science/computing/investigations/us-physical-coin-circulation-phase-out-investigation.md)) — **national** denomination act vs **ledger enclosure**. **Optional clue tier** — not evidence. |
-
-**Transcript hygiene (Jun 2026):** Published **Casino Night** scripts recover Kevin’s **WSOP** poker material **not** the **nickels-10 / dimes-25 / quarters-50** line — **confirm on episode** before treating as **verbatim** broadcast dialogue.
 
 **Cross-reads:** [Exact-Change Wallet §III](/science/computing/exact-change-wallet-invention-and-aftermath.md) (team-jersey / penny politics); [Trump-era Hollywood PP investigation](/influence/hollywood/trump-era-hollywood-political-media-investigation.md).
 
@@ -240,7 +238,7 @@ The **$1 bill** still **dominates** despite **decades** of **$1 coin** programs 
 | Bitcoin (alternative ledger narrative) | [/influence/conspiracy/topics/bitcoin](/influence/conspiracy/topics/bitcoin) |
 | Banker wars / monetary history | [/governance/war](/governance/war) |
 | Exact-change wallet invention (author hardware concept) | [/science/computing/exact-change-wallet-invention-and-aftermath.md](/science/computing/exact-change-wallet-invention-and-aftermath.md) |
-| Kevin Malone (*Casino Night*) — coin denomination PP seed | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#casino_night__nickels_are_worth_10_coin-value_bluff_s02e22) |
+| Kevin Malone (*Ben Franklin*) — coin denomination PP seed | [/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#ben-franklin--nickels-are-worth-10-coin-value_bluff_s03e13](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#ben-franklin--nickels-are-worth-10-coin-value_bluff_s03e13) |
 | Inventor containment casebook (§I — McAfee, Swartz, Kildall, Murdock, Tucker/DeLorean) | [/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted](/science/computing/exact-change-wallet-invention-and-aftermath.md#i_inventor_containment__how_the_third_act_gets_scripted) |
 
 ### 11.1 Minimum coin inventory (exact-change wallet — recovered design)

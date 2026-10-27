@@ -1,0 +1,16 @@
+---
+description: Never put agent mistakes or correction scars into reader articles
+globs: paradigm-threat-files/**/*.md
+alwaysApply: false
+---
+
+# Articles — no correction archaeology
+
+When editing **reader-facing articles** (parent-folder essays under `paradigm-threat-files/`, not `investigations/` dossiers):
+
+- State the **correct fact once**. Do **not** narrate how a draft was wrong.
+- **Forbidden in article bodies:** “— not X”, “SRT-corrected”, “prior file error”, “we used to say”, “confirm on episode”, “embedded SRT shows”, “Office Ladies confirms”, session/audit chatter about your own fix.
+- Put hygiene, SRT checks, and episode corrections in the **companion investigation** (changelog / Investigator notes) or keep them in chat.
+- Follow `paradigm-threat-files/docs/instructions/ARTICLES.md` → **No drafting-process meta**.
+
+Shipping assistant mistakes and corrections into the published essay is forbidden.
