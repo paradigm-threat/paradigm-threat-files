@@ -268,7 +268,9 @@ For **Texas, 2012, and cross-pressured urban demographics**, the picture is **mi
 
 ### Curiosity — “Basketball” (S1E5): Kevin’s mask vs the actor’s real game
 
-**Investigator curiosity (not proof of identity):** The meme stack treats **Kevin** as slow, marginal, and comic; **literal** Kevin = Cruz is **not** supported by [calendar at a glance](#calendar-at-a-glance-canonical) or filmography. For readers who still log **performance vs reality** splits as texture: **Kevin** is **written out** of Michael’s pick-up team in **Season 1**, Episode 5 **“Basketball”** (aired **19 Apr 2005**), then shown **sinking shots alone** after the main game—**irony** on screen because the character was “not even on the court” as a player.
+**Plain answer:** Yes — **Brian Baumgartner** is on the production record as a strong shooter (DVD commentary: **14 consecutive free throws** on the *Basketball* set; Carell had cameras roll on him between takes). **Ted Cruz** is separately on the public record as a high-school varsity basketball player who later **beat Jimmy Kimmel** in a televised 2018 charity one-on-one. The sitcom character **Kevin** is sold as unathletic; both **named people** have documented real shot-making. That is the parallel this section logs — not a claim that the Wikipedia wrap dates collapse them into one body.
+
+**Investigator curiosity:** The meme stack treats **Kevin** as slow, marginal, and comic. For readers who log **performance vs reality** splits as texture: **Kevin** is **written out** of Michael’s pick-up team in **Season 1**, Episode 5 **“Basketball”** (aired **19 Apr 2005**), then shown **sinking shots alone** after the main game—**irony** on screen because the character was “not even on the court” as a player.
 
 **What the record supports (cited):**
 
@@ -731,6 +733,7 @@ Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.m
 
 Newest first.
 
+- **2026-10-27 (c)** — [*Basketball* curiosity](#curiosity--basketball-s1e5-kevins-mask-vs-the-actors-real-game): plain-answer lede — Baumgartner **14 free throws** on record + Cruz varsity / Kimmel win named as two documented shot-makers under the unathletic Kevin mask.
 - **2026-10-27 (b)** — [Finale rescue — GET OUT cake](#finale-rescue--get-out-cake-as-the-head-of-the-attempt): cake framed as **head of the rescue attempt**; pointer to reader-essay hero art. Related line updated.
 - **2026-10-27** — Related pointer to reader essay [*The Kevin Malone Conspiracy*](/governance/war/the-kevin-malone-conspiracy.md) (Pharaoh / ritual hijack, May 2016 volcano intensity, Iran bridge, finale rescue / *Parks and Rec*, Scotland open). No grid rewrite in this pass.
 - **2026-10-25 (b)** — Author clarification on the [Believe cluster](#believe-cluster--you-gotta-believe--believe-in-something): the Kevin attempt was premised on **faith that the system could work**; a ruse of that kind cannot land if the system is already broken; the political failure of the ruse is read as evidence the system **may have been broken for a long time**. Message: **without faith it stays broken; only with faith can it be repaired.**
