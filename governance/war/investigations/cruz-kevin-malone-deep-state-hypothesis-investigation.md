@@ -711,10 +711,19 @@ Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.m
 
 ---
 
+## Finale rescue — **GET OUT** cake as the head of the attempt
+
+**Documented beat:** In the series [*Finale*](https://en.wikipedia.org/wiki/Finale_(The_Office)), Dwight fires Kevin (Keleven / cooking the books as pretext) and presents a cake that says **GET OUT**. Kevin later uses documentary fame / bar credit to leave the office for a bar he owns (cut scenes + Baumgartner confirmation).
+
+**Author read (rescue architecture):** The **GET OUT** cake is the **head of the rescue attempt** — the first clear instruction that Kevin must leave the forever-season / office cage. Time gaps and Michael’s return lock a hard stop on a clean season 10. Full narrative (Pharaoh cage → cake → bar → *Parks and Rec* fork → Scotland still open) lives in the reader essay [*The Kevin Malone Plan*](/governance/war/the-kevin-malone-plan.md). Hero art on that page centers the cake under the **RESCUE** label.
+
 ## Cross-links
 
+- **Reader essay:** [*The Kevin Malone Plan*](/governance/war/the-kevin-malone-plan.md) — narrative Office catalogue; Pharaoh / ritual hijack; **GET OUT** cake as head of finale rescue; *Parks and Rec* continuation; Scotland open; May 2016 volcano / Iran bridge
 - [Jade Helm — Texas coup / Cruz hypothesis](./us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack)
 - [CIA investigation](./cia-investigation.md) (institutional “deep state” framing elsewhere in this corpus)
+- [Mission Accomplished (Again) — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md)
+- [Watch *The Pentagon Papers* (2003)](/governance/war/watch-the-pentagon-papers-2003.md) — Spader / Ellsberg
 
 ---
 
@@ -722,6 +731,8 @@ Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.m
 
 Newest first.
 
+- **2026-10-27 (b)** — [Finale rescue — GET OUT cake](#finale-rescue--get-out-cake-as-the-head-of-the-attempt): cake framed as **head of the rescue attempt**; pointer to reader-essay hero art. Related line updated.
+- **2026-10-27** — Related pointer to reader essay [*The Kevin Malone Plan*](/governance/war/the-kevin-malone-plan.md) (Pharaoh / ritual hijack, May 2016 volcano intensity, Iran bridge, finale rescue / *Parks and Rec*, Scotland open). No grid rewrite in this pass.
 - **2026-10-25 (b)** — Author clarification on the [Believe cluster](#believe-cluster--you-gotta-believe--believe-in-something): the Kevin attempt was premised on **faith that the system could work**; a ruse of that kind cannot land if the system is already broken; the political failure of the ruse is read as evidence the system **may have been broken for a long time**. Message: **without faith it stays broken; only with faith can it be repaired.**
 - **2026-10-25** — **Believe cluster** (not previously in file): *Launch Party* Kevin to Oscar “**Dude, you gotta believe**” (DVD logo; HD SRT ~01:08); *The Duel* (s05e11) “**Believe in something**” (~16:56). Author key Cruz/faith read: must have faith (religion, government, or any creed) when proof is absent. Catalogue subsection + cryptic rows.
 - **2026-10-10 (d)** — Evil-turns-prank moral frame (weaponize the deception joint of an honest plan into lifelong lie). *Chair Model* (s04e14) “**hard to see**… **nice to win one**” corrected off *Trivia*; HD SRT ~14:48; hope-after-loss / Cruz-shaped endurance; person-in-suit “going through something crazy” + MAGA-fate braid. Author forecast: alleged plan = organic Cruz loss → quit Congress → Scotland Kevin cage; **prediction = that residency does not happen** / offer not taken. Trivia fluke kept as related small-win rhyme. Hygiene: “Five Families” mis-title.
