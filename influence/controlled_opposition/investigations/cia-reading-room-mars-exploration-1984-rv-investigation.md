@@ -84,7 +84,7 @@
 | [Predictive programming hub](/influence/predictive_programming/page.md) · [RV in fiction index](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) | PP as **data**; time/distance scrying cluster rhymes **§5.8**. |
 | [Mars–Earth reincarnation §4](/cosmos/mars/investigations/mars-earth-reincarnation-investigation.md) | Cultural markers / PP vs disclosure correlation checklist (adds **1984 remote viewing** session and media dates). |
 | [Yasunori Mitsuda / Chrono franchise notes](/influence/stolen_credit/yasunori-mitsuda.md) | **Different** thesis (credits / corporate arc); listed so **§5.8** is not mistaken for that file’s verdict. |
-| [*Metroid Prime* Chozo lore × 1984 Mars RV](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) | **PP adjunct (2026-10-03):** NTSC Chozo **shadow / beyond space-time** return vs SUB tall-thin shadows; PAL rewrite; SkyTown / Phaaze. |
+| [*Metroid Prime* Chozo lore × 1984 Mars RV](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md) | **PP adjunct (2026-10-03):** NTSC Chozo **shadow / beyond space-time** return vs SUB tall-thin shadows; PAL rewrite; SkyTown / Phaaze. **§4.2 (2026-10-27):** *Event Horizon* open → Prime intro NSA-lane handshake. |
 | [Scientology OT III / Xenu — Mars catastrophe (**AU-068**)](/influence/religion/investigations/scientology-ot-iii-xenu-mars-catastrophe-investigation.md) | Auditing as recovered-history sessions; deep-time stamp rhyme with **~1 Ma** card; ecological-ruin / survivor-control decode. |
 
 **Also read:** [Great Awakening / revaluation (dinar) cluster](/influence/controlled_opposition/investigations/great-awakening-alien-savior-rv-nwo-cluster-investigation.md) · [CIA institution file](/governance/war/investigations/cia-investigation.md)  
@@ -299,9 +299,11 @@ The readable [**Mars × *Chrono Trigger* article**](../cia-1984-mars-chrono-trig
 
 **Epistemic posture:** this **does not** upgrade **§5.8** from **hypothesis** to **provenance** — it **documents** **who gets to keep a public square** when **institutional** **documents** **meet** **scene** **politics**. **§6.1** **now** **notes** **Master** **Mi** **as** **high-visibility** **GD** **tenor** **(**not** **random** **drive-by**)** **+** **“**silver** **platter**”** **pairing** **with** **staff** **mood** **ruling** **.** Pattern file: [**OC ReMix investigation §6.1**](ocremix-polarization-privatization-controlled-opposition-investigation.md).
 
-#### 5.8.3 *Metroid Prime* Chozo lore (PP adjunct — **2026-10-03**)
+#### 5.8.3 *Metroid Prime* Chozo lore (PP adjunct — **2026-10-03**; intro handshake **2026-10-27**)
 
 Author session: Chozo catastrophe on Tallon IV **lines up** with this transcript’s **shadow people / corruption / megalithic lock / waiting**. **AU-067:** PAL **shadow-remainder** cut = **trim-back** of PP after the 2002 deposit had already served; leftover breadcrumb would lead here. **Pre-disclosure split:** *Chrono Trigger* **1995** is **before** the **2000-08-08** stamp; *Prime* **2002** is **after** the stamp but still **unnoticed** as a compare (no prior CT/MP × this RDP join located 2026-10-03). Full motif table, NTSC vs PAL rewrite, Prime 2 Luminoth analog, Prime 3 SkyTown / Phaaze: [**Chozo lore × Mars RV investigation**](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md). **Does not** change this file’s **Mars PDF verdict**.
+
+**Corridor peer (author, 2026-10-27):** ***Event Horizon*** (**1997**) deposits the **NSA-named** / **rotating-magnetic-field** gravity-drive / hellish-far-side package **before** the Reading Room stamp; its **opening shot** (space → debris past camera → planet → ship) is the same grammar as the *Metroid Prime* NA open (Tallon IV + Frigate Orpheon). **Author:** NSA-lane **handshake** across film → game; Chozo lore still carries the Mars worksheet rhyme. Detail: [Chozo file §4.2](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md#42-event-horizon-1997-opening--prime-intro-author-handshake-2026-10-27). Primary PDF for this section remains [`CIA-RDP96-00788R001900760001-9`](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf).
 
 ---
 

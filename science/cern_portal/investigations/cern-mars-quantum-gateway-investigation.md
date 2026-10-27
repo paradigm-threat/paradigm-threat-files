@@ -441,7 +441,7 @@ The **quantum tunnel** forms at the **center of the ring’s energy field** — 
 | [*Portal* / *Portal 2*](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | Aperture circular chambers |
 | *Stargate* (1994) | Spinning ring; kawoosh |
 | *Doom* (2005) | Earth–Mars quantum teleporter |
-| *Event Horizon* (1997) | Gravity drive fold |
+| *Event Horizon* (1997) | Gravity drive fold via **rotating magnetic field**; **NSA** named; hellish far side; open → *Metroid Prime* intro handshake ([Chozo §4.2](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md#42-event-horizon-1997-opening--prime-intro-author-handshake-2026-10-27)) |
 | Laidlaw **Epistle 3** (2017) | Borealis oscillation; Bootstrap Device |
 
 **Pattern B (chronology deposit):** Same hardware **retimed** as **time travel** — see [Philadelphia investigation §5](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) (1984 film, Montauk, Epistle 3 timeloops).

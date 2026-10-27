@@ -93,8 +93,9 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 |------|--------|
 | 22 May 1984 | Mars RV session ([PDF](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf)) |
 | 1995 | *Chrono Trigger* — already logged as PP adjunct ([Mars §5.8](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md)) |
+| 15 Aug 1997 | ***Event Horizon*** — gravity-drive / hellish-far-side PP; **NSA** named on screen; opening shot grammar later echoed by Prime (§4.2) |
 | 8 Aug 2000 | Reading Room stamp on the Mars scan — **everyday public PDF** many readers treat as declass |
-| 18 Nov 2002 | *Metroid Prime* NA — **ghost/shadow return** plot in Chozo lore (**after** the stamp) |
+| 18 Nov 2002 | *Metroid Prime* NA — **ghost/shadow return** plot in Chozo lore (**after** the stamp); intro cinematic rhymes *Event Horizon* open (§4.2) |
 | 2003 | PAL / JP **rewrite** of that lore ([TCRF](https://tcrf.net/Metroid_Prime/Text_Differences)) |
 | 2004 | *Echoes* — Luminoth split-world containment |
 | 2007 | *Corruption* — living planet Phaaze; Chozo as departed watchers |
@@ -116,6 +117,23 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 
 **Not claimed:** Retro writers held the RDP. **Claimed:** the **NTSC** Chozo catastrophe is an unusually tight **rhyme** for the Mars memory-stack (shadow remainder + poison/corruption + megalithic lock), and the **PAL** pass is **PP rollback** so that rhyme stays **less followable**.
 
+### 4.2 *Event Horizon* (1997) opening → Prime intro (**author handshake**, 2026-10-27)
+
+**Documented shot grammar (both titles):**
+
+- ***Event Horizon*** opens in space: debris / meteor mass toward camera, camera pans as it passes, then a planet and a ship sit in frame before the story proper.
+- ***Metroid Prime*** opens the same way: space, asteroid / debris beat, planet (**Tallon IV**), then the derelict **Frigate Orpheon** in orbit before Samus docks ([Metroid Wiki — Frigate Orpheon](https://www.metroidwiki.org/wiki/Frigate_Orpheon); player/intro descriptions of the NA open).
+
+**Documented *Event Horizon* disclosure furniture (script / theatrical):**
+
+- Briefing is **“code-black by the NSA.”**
+- Gravity drive explained as a **rotating magnetic field** focusing gravitons to fold space-time into a singularity / gateway (planet-to-planet jump without breaking relativity by going *around* it).
+- Far side framed as hellish / other-dimensional; story destination label is **Neptune** (Mars-as-hell analogy with a spookier place-name — [PP hub](/influence/predictive_programming/page.md); [Philadelphia §8.1](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md)).
+
+**Author read:** The Prime open is an **unmistakable tribute** to the 1997 film open — how **NSA-aligned** allies **signal** each other across movies and games. *Event Horizon* deposits the **craft / rotating-field / portal-to-hell** package five years before Prime; Prime then deposits the **Chozo × 1984 Mars RV** lore stack (§3) on the same corridor. Not a claim that Retro credited Paul Anderson on screen. **Claimed:** shared intro camera grammar + shared NSA-lane PP calendar is the handshake.
+
+**Fan-edit surface (citations track):** the *Event Horizon* enhanced-caption edit calls this join on the open and points at the [CIA Mars PDF](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) for the Chozo/Mars worksheet behind Prime.
+
 ---
 
 ## 5. Author’s open claims
@@ -127,6 +145,7 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 5. **Avian Chozo** is species-costume wedge, parallel to Chrono’s ordinary humans in a Mars-shaped 2300 AD. **Author.**
 6. **AU-067 — PP trim-back:** the PAL **shadow-remainder** redaction is a **major clue** that operators **cut** predictive programming once it has already trained the public, because the leftover trail now only points at the source (1984 Mars RV). **Author.**
 7. **Pre-disclosure / unnoticed compare:** *Chrono Trigger* is **pre-stamp** (1995, before 2000-08-08). *Metroid Prime* is **post-stamp**, still **pre-commons-compare** (PDF existed; gamer culture did not use it). No prior published CT or MP join to this RDP located 2026-10-03. **Author** on “nobody noticed”; **Documented** dates.
+8. ***Event Horizon* open → Prime open** is an **NSA-lane handshake** (shared space → debris-past-camera → planet → ship grammar; 1997 film also names **NSA** and the **rotating magnetic field** gravity drive). **Author** on tribute/signal; **Documented** shot grammar and script lines (§4.2).
 
 ---
 
@@ -140,6 +159,8 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 | 4 | Map Prime 3 **Bryyonian Data** (war, fuel, seed) as a third species under the same seed grammar — in or out of this Chozo file? |
 | 5 | Does *Prime Remastered* (2023) restore NTSC ghost lore or keep Trilogy PAL? |
 | 6 | Other **AU-067** specimens: localization or remaster cuts that drop RV/Mars-shaped remainder after a first-release deposit? |
+| 7 | Frame-accurate compare of *Event Horizon* open vs *Metroid Prime* NA open (side-by-side stills / timecodes) for §4.2? |
+| 8 | Any Retro / Nintendo interview that cites *Event Horizon*, Paul W.S. Anderson, or 1997 gateway horror as intro tone? Absence expected; log if found. |
 
 ---
 
@@ -150,14 +171,15 @@ PAL Prime 1 already guessed the meteor might be a chunk of a **planet coated in 
 | [CIA Mars RV investigation](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) | A-tier transcript, MFEE table, Chrono §5.8 |
 | [1984 Mars × *Chrono Trigger* article](/influence/controlled_opposition/cia-1984-mars-chrono-trigger.md) | Reader PP corridor |
 | [Mars hub](/cosmos/mars/page.md) | Motif layer |
-| [Predictive programming](/influence/predictive_programming/page.md) | Method |
+| [Predictive programming](/influence/predictive_programming/page.md) | Method; *Event Horizon* row |
+| [Philadelphia portal PP §8.1](/events/philadelphia/investigations/philadelphia-experiment-portal-precursor-investigation.md) | *Event Horizon* gravity-drive / hellish far side |
 | [Redaction R1–R6](/docs/REDACTION.md) | PAL rewrite tags |
 | [Nintendo vassal / Chozo rewrite](/influence/stolen_credit/investigations/nintendo-vassal-hardware-self-sabotage-investigation.md) | Later franchise Chozo damage |
 | [Author-unique theories — AU-067](/history/chronology/investigations/author-unique-theories.md) | PP trim-back after purpose served; PAL Chozo specimen |
 
 ---
 
-Keywords: #MetroidPrime #ChozoLore #TallonIV #GreatPoison #Phazon #Phaaze #SkyTown #RemoteViewing #MarsRV #CIAReadingRoom #PredictiveProgramming #ScienceFictionRedaction #ChozoGhosts #ArtifactTemple #ChronoTrigger #MFEE #MarsCatastrophe #ShadowRemainder #AU067 #FictionBeforeDeclass #Predisclosure #ParadigmThreatFiles
+Keywords: #MetroidPrime #ChozoLore #TallonIV #GreatPoison #Phazon #Phaaze #SkyTown #RemoteViewing #MarsRV #CIAReadingRoom #PredictiveProgramming #ScienceFictionRedaction #ChozoGhosts #ArtifactTemple #ChronoTrigger #MFEE #MarsCatastrophe #ShadowRemainder #AU067 #FictionBeforeDeclass #Predisclosure #EventHorizon #NSAHandshake #RotatingMagneticField #ParadigmThreatFiles
 
 ---
 
@@ -184,4 +206,4 @@ Keywords: #MetroidPrime #ChozoLore #TallonIV #GreatPoison #Phazon #Phaaze #SkyTo
 - Do not paste full logbook into git.  
 - Sibling Mars verdict file stays **closed**; this file stays **open** as PP adjunct.
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-10-27*

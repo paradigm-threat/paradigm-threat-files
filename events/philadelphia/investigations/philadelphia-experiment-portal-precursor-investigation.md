@@ -208,7 +208,7 @@ Cross-ref CERN dossier claims **A12–A15**.
 | ***Portal* / *Portal 2*** | 2007–2011 | Aperture circular chambers | Fixed exit / moon shot |
 | ***Stargate*** (film) | 1994 | Ring spins; chevrons lock; kawoosh | Abydos |
 | ***Doom*** (film) | 2005 | Ark quantum teleporter | Earth ↔ Mars |
-| ***Event Horizon*** | 1997 | Gravity drive folds space | "Hellish" far side |
+| ***Event Horizon*** | 1997 | Gravity drive: **rotating magnetic field** → graviton focus → singularity gateway (**NSA** “code-black” briefing) | "Hellish" far side (Neptune label; Mars-as-hell analogy). Open shot grammar later echoed by *Metroid Prime* — [Chozo §4.2](/influence/controlled_opposition/investigations/metroid-prime-chozo-lore-1984-mars-rv-investigation.md#42-event-horizon-1997-opening--prime-intro-author-handshake-2026-10-27) |
 | ***Contact*** (film) | 1997 | Machine spins | Vega system |
 | **Lovecraft — *From Beyond*** | 1934 | Electronic resonance machine | Overlapping planes |
 | **CERN LHC** | 2008+ | 27 km ring; collision critical energy | Author thesis: Mars interior |
