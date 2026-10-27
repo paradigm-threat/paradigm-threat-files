@@ -1,6 +1,6 @@
 # The Kevin Malone Conspiracy
 
-Investigating the Ted-Cruz Kevin Malone GOP-DAM/JadeHelm Hijack scenario
+Investigating the Ted-Cruz as Kevin Malone, the GOP Media blockade, and the JadeHelm Hijack scenario
 
 ![The Kevin Malone Conspiracy — dam, stunt, cage, GET OUT cake rescue, war](https://paradigmthreat.net/governance/war/the-kevin-malone-conspiracy.jpg)
 
@@ -215,6 +215,8 @@ What follows is an LLM impression of this piece and its arguments. It is unrevie
 Strongest where the binge hook meets the Kevin density, and where the finale is architecture rather than nostalgia. A hostile reader will still quarrel with the leap from UK short design to a one-to-three-season chassis, and from *Parks* liberalism to CIA continuation. The war-safety close needs the early danger section to land first. A later pass could lock two or three more Spader mid-season hard statements so “throughout his run” is as concrete as the Oprah exit.
 
 Keywords: #KevinMalone #TedCruz #TheOffice #JadeHelm #Bodysuit #HollywoodDam #ParksAndRec #NSA #CIA #Epstein #RitualPunishment #ArsiaMons #Mars #ParadigmThreat
+
+**Substack:** [paradigmthreat2.substack.com/p/the-kevin-malone-conspiracy](https://paradigmthreat2.substack.com/p/the-kevin-malone-conspiracy)
 
 **Last updated:** 2026-10-27
 
