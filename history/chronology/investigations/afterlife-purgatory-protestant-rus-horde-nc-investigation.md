@@ -282,6 +282,7 @@ See **§5.2** — **`09.html`**: **first strike on Christianity** + **splinter r
 - [The Circle of Life and How It Began](/science/biology/circle-of-life-and-how-it-began.md) — **reader essay:** scalar / æther bridge; **Bardo** phenomenology; **reincarnation** bands; points here for **doctrine** **contrasts** and **§6** **cross-cultural** **maps**.  
 - [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md) — **Royal vs Apostolic** map; **author relabel**.  
 - [Prester John, Presbyter, Rus–Horde](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) — ***Ship of Fools*** **cultural** **hook**; **Western** **ridicule** **climate**.  
+- [Shakespeare project — AU-083](/history/chronology/investigations/shakespeare-project-nihilist-redaction-investigation.md) — ***Ship of Fools*** and Bard as **parallel / sequential** Reformation projects (**§2e**); NC **08_21** “correct masterpieces.”  
 - [Soul science](/history/chronology/investigations/soul-science-investigation.md) — **Reformation** and **soul** → **mind** **shift**; **Russian** **dusha** **containment** thesis.  
 - [Rus-Horde English lexicon](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) — **Protestant print** and **polemical** **memory**.  
 - [Lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md) — **master table**; Protestant **translation** of afterlife vocabulary.

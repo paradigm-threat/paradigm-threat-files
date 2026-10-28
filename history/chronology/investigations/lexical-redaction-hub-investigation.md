@@ -87,7 +87,8 @@
 | **Cryptid → cryptic** survivorship | A? | [skinwalkers-cryptids-rus-horde-extirpation-investigation.md](/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md) | **Speculative** phonetic lane |
 | **Patsey / Moran / Bacon** (+ §2b Guy, Lynch, Judas, …; **§2c toxic-name whitewash**) — person → word → rebrand loop | B | [eponym-words-forgotten-people-investigation.md](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md) | **Open** — §2c **AU-029** Bacon flagship 2026-06-27 |
 | **Lane A candidate backlog** (*barbarian*, *Tartar*, *canon/cannon/trump/trumpet*, *slave/Slav*, …) | A | [rus-horde-english-political-lexicon-speculation.md](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md) §12 | Consolidated **2026-06-26** |
-| **Author-unique registry** | meta | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-001–043** |
+| **Shakespeare as project — nihilist seal** — not a person; translation; Tolkien/mud-flood; **eastern poetic style** (Cyrillic awe vs Latin prestige) | A (+ NC + author) | [shakespeare-project §2b](/history/chronology/investigations/shakespeare-project-nihilist-redaction-investigation.md) | **AU-083** — style = redacted eastern speech; Fomenko decoration + multi-author lexicon |
+| **Author-unique registry** | meta | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-001–043+** (see hub; latest chronology lock **AU-083**) |
 
 *When you add a row here, link **back** from the child dossier’s **Related** section to this hub.*
 

@@ -565,7 +565,7 @@ Catherine Butler observes that this was "congenial work" which "suited the philo
 
 ### 2. The Fomenko-Shakespeare Parallel
 
-Fomenko and Nosovskiy's book *What Shakespeare Actually Wrote About* (2011) makes a structurally identical claim about Shakespeare's plays. Their thesis:
+Fomenko and Nosovskiy's book *What Shakespeare Actually Wrote About* (2011) makes a structurally identical claim about Shakespeare's plays. Author overlay (**AU-083** lock): Shakespeare was **not a person at all** — a project of **many other works**, **translation not invention**, **exactly the same move as Tolkien**; the “invented” universe is **existing Earth before the mud flood**, after which the **brave new world** is installed and sealed with nihilist pedagogy — [Shakespeare project / nihilist seal](/history/chronology/investigations/shakespeare-project-nihilist-redaction-investigation.md) (§1.3–§1.4). Their thesis:
 
 - Shakespeare's tragedies are **literary reworkings of real historical events** from the XII–XVI centuries
 - Hamlet = Andronicus-Christ / John the Baptist (XII century)
