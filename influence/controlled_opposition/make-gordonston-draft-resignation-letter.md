@@ -8,7 +8,7 @@ Nothing here counts as resignation until I send a dated copy to named recipients
 **Prior notice:** [make-gordonston-draft-notice-of-intentions.md](make-gordonston-draft-notice-of-intentions.md) — polite intentions email to Art Fair committee + short GNA note. This letter is the follow-through, not a second first-notice.
 
 **Author:** Ari Asulin  
-**Draft date:** 2026-10-27
+**Draft date:** 2026-10-28
 
 ---
 
@@ -71,7 +71,9 @@ The responsibility to stop that lies with the rest of the neighborhood. Zero peo
 
 I live on the edge of an apartheid at Gwinnett — Twickenham on one side of the sign, Gordonston on the other — and I will not volunteer to paint it pretty. Volunteers are free labor on private trust land. Someone collects the money and decides who may stay. Posted hours and fair rules can exist on a park that is honest. Residents Only plus park-priced taxes plus “we’re a charity” talk cannot.
 
-It isn’t only playtime. GNA brings Code Compliance, SPD, and City staff into meetings on this private park property and offers that face-to-face help to Gordonston. People across the street in Twickenham don’t get those specific gatherings. Other community centers don’t run city services behind a neighborhood guest list. Gordonston gets A+ treatment from police, code, and officials in an exclusive venue; everyone right outside endures the ordinary system with no special room for quick, honest resolution. I called the city about a dumped fridge and never heard back. The code people at the Gordonston park meetup handled it in a matter of days. That felt like undue priority for living inside the line — not better citizenship.
+It isn’t only playtime. GNA brings Code Compliance, SPD, and City staff into meetings on this private park property and offers that face-to-face help to Gordonston. People across the street in Twickenham don’t get those specific gatherings. Other community centers don’t run city services behind a neighborhood guest list. That exclusive venue is supposed to feel like A+ treatment for living inside the line. I abhor it. I do not appreciate those services. I do not want the help, do not need the help, and will never need the help — not if it comes through a guest list that cuts people out based on which house they live in.
+
+I had an illegally dumped fridge on my property. I used the ordinary city channel. As of yesterday the city got back to me: done; let us know if you have questions. I was happy with their timing and performance. I saw no evidence that the code compliance officer who appeared at the Gordonston Park GNA meeting had anything to do with it. The city did just fine on its own. I would rather deal with a slow city — even pay a fee if confusion or poor performance on the city’s part caused it — than accept exclusive help that excludes Twickenham and everyone else outside the fence. In the end that exclusivity amounts to little more than a feeling. One I will not share and do not feel.
 
 ### What I expect will happen without me
 
@@ -117,7 +119,8 @@ Respectfully,
 - **Lizard people / Trump yard / crumpled posters:** Author-supplied; keep unless shorter trustee-only version.  
 - **Online/board attacker + Hollywood:** Role/geography in letter (across from trustee, center circle, helps plan socials). Name (e.g. Jack Taylor) only if author confirms address vs trustee at 1806 E Henry. Full Facebook thread in MGGA.  
 - **Racial / apartheid:** Author ethical read; 2011 press does not prove racial intent as a court fact.  
-- **Exclusive city venue:** GNA minutes e.g. **2026-10-19** — Code (Ombengi), SPD (King), City (Gibson) as guests at cottage/park meeting for Gordonston. Author fridge anecdote = lived example of priority vs ordinary city call. Don’t overclaim every city service is closed to Twickenham — claim is the **exclusive venue** + turnaround disparity.  
+- **Exclusive city venue:** GNA minutes e.g. **2026-10-19** — Code (Ombengi), SPD (King), City (Gibson) as guests at cottage/park meeting for Gordonston. Claim = **exclusive venue** structure, not that ordinary city is closed to Twickenham.  
+- **Fridge (2026-10):** Author used ordinary city dump-removal; city closed it ~**2026-10-27** with satisfaction; **no evidence** GNA-meeting code officer caused the fix. Author stance: prefer slow/fee city over exclusive help; abhors exclusivity; exclusivity ≈ feeling not shared. Do **not** keep the old “meetup fixed my fridge in days / undue priority” line.  
 - **Mini-split AC:** Oct 19 2026 minutes — Art Fair + GNA **$600/$600**; cage on exterior unit. Frame: volunteers fund → private control / no community oversight (“we provide the money, they tell us where it’s used”). April 2026 HVAC priority after wiring.  
 - **Preservation Assoc / private benefit:** Gordonston Park Preservation Association Inc (EIN 46-1454583) exists on filings; do **not** allege personal embezzlement. Letter line = structure **invites** private-benefit / inurement risk that charity law polices; guest-list + charity brand is that risk class. Keep trust vs assoc distinct.  
 - **Charity-now vs rot:** Full 48-5-41 may be hard even with trustees on board; author required try not win. Default without try = neglect + keep low FMV until political reappraisal pressure. Do not say rotting automatically raises taxes. Do not say they still have the E3 exemption.  

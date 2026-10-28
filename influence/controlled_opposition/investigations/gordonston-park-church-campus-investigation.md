@@ -10,7 +10,7 @@
 1. **§1** — Evidence tiers.  
 2. **§2** — Geographic frame.  
 3. **§3** — Juliette Gordon Low Park — gift, documents, naming.  
-4. **§4** — **2011 access controversy** (Twickenham ↔ Gordonston) — **individuals redacted**.  
+4. **§4** — **2011 access controversy** (Twickenham ↔ Gordonston) — **individuals redacted**; **§4.5** exclusive city-services venue + fridge case (author).  
 5. **§5** — Signage, gates, vandalism.  
 6. **§6** — Christ’s Community Church / Morningside Baptist — **history** and **weekday availability**.  
 7. **§7** — Original children’s vision and contemporary gap.  
@@ -108,6 +108,22 @@ A **Gordonston resident** at the **iron gate** confronted **~12 dog walkers**; a
 **2012** Girl Scout centennial tree planting in park; **2010s–2020s** GNA Art Fair and public-invited events continue — **structural tension** with **Residents Only** history remains.
 
 **Vision link:** **§8** explicitly treats **Twickenham** as **partner geography**, not **adversary** — aligned with healing this fracture.
+
+### 4.5 Exclusive city-services venue at the private park (contemporary — author)
+
+**GNA** regularly hosts **Code Compliance**, **SPD**, and **City** staff as guests at meetings on **private park / Mary Calder Cottage** property, with the practical audience **Gordonston** (e.g. minutes **2026-10-19**: Ombengi / King / Gibson). **Twickenham** across Gwinnett does not get those same gatherings. That is an **exclusive venue** for ordinary municipal help — same structural pattern as **Residents Only** park access.
+
+**Author fridge case (2026-10):** Illegally dumped fridge on author’s property. Author used the **ordinary city** removal channel (not the GNA park meetup as the ask). City closed the request **~2026-10-27** (“done”; invite to ask questions). Author was **satisfied** with timing and performance. **No evidence** the Code Compliance guest at the Gordonston Park GNA meeting caused or advanced the fix.
+
+**Author position (V — explicit):**
+
+- Does **not** appreciate exclusive Code / SPD / City-at-the-park services.
+- **Abhors** the exclusivity — help gated by which house you live in.
+- Prefers a **slow city**, even a **fee** from city confusion or poor performance, over exclusive help that cuts outsiders out.
+- **No thanks:** does not want, does not need, and will never need that exclusive channel. City can do the job on its own — proven in this case.
+- In the end the exclusivity amounts to little more than a **feeling** — one the author **will not share** and **does not feel**.
+
+Do **not** narrate this as “Gordonston meetup fixed my fridge faster.” Narrate as: **exclusive venue is wrong even when ordinary city works fine.**
 
 ---
 
@@ -451,6 +467,7 @@ Author/coalition proceeds with permitted programming either way
 11. **Playground rebuild** — existing GNA capital plan alignment?
 12. **GNA bylaws** — incorporation status, member removal thresholds, quorum (**§10.2**).
 13. **Assessor** — current park exemption on Chatham rolls (**§10.3**, **§11.1**).
+14. **Exclusive city venue** — how often / under what rules City and SPD will guest at private GNA park meetings vs open corridor venues (**§4.5**).
 
 **Falsifiers for vision viability:** church **declines** all weekday use; trustees **reject** locked park sessions; **zero** volunteer commitments after outreach.
 
@@ -480,7 +497,7 @@ Author/coalition proceeds with permitted programming either way
 
 **Not** legal advice on trust law, trespass, tax, **insurance**, assessor appeals, or **GNA** removal votes — **§8–§10** assume counsel review before action. **§8–§10** are **author vision/strategy (V)**, not church, GNA, or trustee policy. **§8.8** does **not** certify Christ’s Community’s SBC affiliation or theological stance — only states **author intent** for **secular homework** compatible with a **Baptist host**; church counsel should review volunteer codes and facility agreements. **Individual identities** from **R1** omitted here for **privacy**. **Make Gordonston Great Again** is a **working outreach name** — **non-partisan** by author intent; rename if confusion arises. **§10** backup may proceed **without** adopting **§8** homework model.
 
-**Last updated:** 2026-05-30 (**§8.8** religious-host compatibility; [**one-page PDF handout**](https://paradigmthreat.net/influence/controlled_opposition/make-gordonston-great-again-onepager.pdf)).
+**Last updated:** 2026-10-28 (**§4.5** exclusive city-services venue + fridge case; author rejects exclusive help).
 
 ---
 
