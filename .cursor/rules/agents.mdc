@@ -9,7 +9,7 @@ alwaysApply: true
 
 ## Always
 
-- **Go-live:** `git push iad1 HEAD:main` (mesh wait is server-side; failure = publish failed) → `git push gitlab HEAD:main`.
+- **Go-live:** push the Relay **`publish_origin`** listed for this repo first (currently **`iad1`** — see `.relay.yaml` / `docs/GIT_REMOTE_STRATEGY.md`; mesh wait is server-side; failure = publish failed) → then `git push gitlab HEAD:main`. Never forge-only.
 - **Dates:** US Eastern (`TZ=America/New_York date +%Y-%m-%d`).
 - **Investigations:** [`docs/INVESTIGATIONS.md`](../../docs/INVESTIGATIONS.md).
 - **Media:** fat binaries at public paths — [`docs/MEDIA_AND_IPFS.md`](../../docs/MEDIA_AND_IPFS.md).

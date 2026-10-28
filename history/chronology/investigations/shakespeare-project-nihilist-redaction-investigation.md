@@ -141,6 +141,8 @@ Already filed at [Tolkien redacted-fact Part XI](/influence/predictive_programmi
 
 **What Renaissance Shakespeare redaction lost:** Much of that **value** — the **messages and conclusions** — was **not translated**, especially where people have **faith in their religion**, or believe **Christianity is linked to government**. Those conclusions are lost in the Shakespeare redaction and **revived in Fomenko reconstruction**.
 
+**Kinkel hinge (reader essay):** Ivan Germanovich Kinkel — deepest mistake of modern historiography = studying individual countries in complete isolation; society/economy/culture as one interconnected process; no nation behind a closed wall. **Same mistake** as the Shakespeare project under **Renaissance dogma**, applied **everywhere** and **retroactively** via Scaligerian redaction of true human history.
+
 **Reader essay:** [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) — section *World empire stories — what New Chronology reconstructs*.
 
 ---

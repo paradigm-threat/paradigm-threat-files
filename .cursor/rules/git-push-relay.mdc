@@ -1,0 +1,19 @@
+---
+description: Always push to the Relay publish_origin listed for this repo (currently iad1), not only GitHub/GitLab.
+alwaysApply: true
+---
+
+# Git push — Relay publisher (always)
+
+When the author asks to **commit and push**, or **push**, for this repo:
+
+1. **Resolve the publisher** from the listed publish origin — do **not** hardcode a node forever.
+   - Check [`.relay.yaml`](../../.relay.yaml) / catalog **`publish_origin`** (and [`docs/GIT_REMOTE_STRATEGY.md`](../../docs/GIT_REMOTE_STRATEGY.md)).
+   - **Right now that publisher is `iad1`.** If the listed origin changes, push that remote instead.
+2. Push the publisher first: `timeout 90 git push <publish_origin> HEAD:main` (e.g. today: `git push iad1 HEAD:main`).
+3. Then forge backups: `git push gitlab HEAD:main` and `git push github HEAD:main` as remotes exist.
+4. Confirm mesh: `git ls-remote <publish_origin> refs/heads/main` (and replica remotes if present) matches `git rev-parse HEAD`.
+5. If the publisher rejects with “is at \<same SHA\> but expected \<old\>”, treat as **already published** via peer notify — verify with `ls-remote`, do not force-push.
+6. Never stop at GitHub/GitLab alone. The Relay **publisher** is production for `paradigmthreat.net`.
+
+Canon: `AGENTS.md` § Git and go-live; `docs/GIT_REMOTE_STRATEGY.md`.
