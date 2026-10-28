@@ -1,6 +1,6 @@
 # Shakespeare as Project — Nihilist Seal on Horde Redaction
 
-> **TL;DR:** **Author (AU-083) working assessment (revised 2026-10-28):** William Shakespeare was a **real person** who **wrote what he wrote down** — and functioned as a **pressure valve / dam** on the massive flow of **redacted history**. If that flow were not handled, it could burst as an uncontrollable dam-break. Pinning popular chronicle-plays to **one man** makes any challenge to Scaligerian history start by challenging Shakespeare — so entertainment media **protects** the redaction. The **name** itself is a transparent **shake + spear** slogan-brand (*Bowfinger* hears it) that culturally traces to **flourish / nothing**, not a grounded clan place. **Project layer still holds:** translation/costume of Empire chronicle (**not** blank-page invention of plots); Nihilism seal; dual school+entertainment flood; lucrative institutional incentives to keep pushing this style of media. Same structure as **Tolkien** / pre–**mud-flood** Earth filed as fantasy → **brave new world**. Style shock = misfiled eastern poetic speech; *Macbeth* “signifying nothing” seals the void. *Ship of Fools* = ridicule phase; Shakespeare = replace + dam phase.
+> **TL;DR:** **Author (AU-083):** **Hide history → own the future** — force repeats of war, famine, mob rule, broken tradition (Santayana’s proverb as the public form). Shakespeare = **farmed named face** as **pressure valve / dam** on redacted chronicle (sole pen or fronted; closed doors ≈ irrelevant). Slogan-name traces to nothing grounded. Project: costume Empire stories, seal with **Nihilism**, dual flood, lucrative Bard premium. Tolkien mirror. Style shock = misfiled eastern speech. *Ship of Fools* = ridicule; Shakespeare = replace + dam.
 
 **Status:** Open — **pressure-valve person** + **slogan-name brand** + **translation-not-invention** + **Tolkien/mud-flood** + **culture-war dual flood** + **lucrative Bard premium (partial)** + **Nihilism-as-religion** locked/updated 2026-10-28; reader essay current; prior art **partial**.  
 **Registry:** [**AU-083**](/history/chronology/investigations/author-unique-theories.md)  
@@ -18,6 +18,7 @@
 | Author thesis (verbatim + unpack) | §1 |
 | **Lock: pressure-valve person — translation, not invention** | §1.3 / §1.2d |
 | **Name Shakespeare = slogan-brand / traces to nothing** | §2b.3b |
+| **Ghostwriter vs sole pen / farmed litter** | §1.2e / §2b.3c |
 | **Tolkien isomorphism + mud flood → brave new world** | §1.4 |
 | Fomenko / chronologia play maps | §2 |
 | **World-empire stories / lost conclusions / NC revival** | §2.1 |
@@ -27,6 +28,7 @@
 | **Ship of Fools — parallel project?** | §2e |
 | **Culture war: education + entertainment flood** | §2f |
 | **Lucrative Bard premium** (acting / tourism / repertoire) | §2f.5 |
+| **Hide past → own future** (simple strategy) | §1.6 |
 | **Nihilism as religion** (definition) | §2g |
 | **France: war, not taste** | §2h |
 | **Science as second liturgy** + museum irony | §2i |
@@ -69,13 +71,19 @@ Reader essay opens on this beat: [A Tale told by an Idiot](/history/chronology/a
 
 > **Author revise:** Shakespeare was a **real person** who **actually did write all of the things that he wrote down**. He represented a **pressure valve** to control the massive flow of **redacted history**. If not handled correctly, that flow could burst forth as an **uncontrollable dam**. Shakespeare himself represents that **dam** — to make sure it all **traces back to one person**. If anyone had to challenge any of the historian arguments made at the time, they would have to **start by challenging Shakespeare**, who based all his popular plays on that same history. The trick worked very well: **protect redacted Scaligerian history** with popular entertainment media, and make it **lucrative for artists** to continue to push this specific style of media throughout history going forward. If Shakespearean acting / Bard media can be shown as more lucrative vs other topics in any country / any period — and that pattern exists for any reason — that is **proof** this was about **protecting the redacted history**, not about which plays are objectively more popular and lucrative.
 
-**Relation to earlier “not a person” lock (§1.1–1.3 prior):** Earlier session language denied a generative Stratford author to break the invention myth. **Revised lock keeps the project / translation / dam function** and **accepts the documented person as the valve** — the living face that forces challenges through one choke point. “Not a person” softens to: **not an inventing genius of world history**; **yes a real writer** whose corpus + brand **dams** the redacted chronicle flood.
+**Relation to earlier “not a person” lock (§1.1–1.3 prior):** Earlier session language denied a generative Stratford author to break the invention myth. **Revised lock keeps the project / translation / dam function** and **accepts the documented person as the valve** — the living face that forces challenges through one choke point. “Not a person” softens to: **not an inventing genius of world history**; **yes a real named face** whose corpus + brand **dams** the redacted chronicle flood.
+
+### 1.2e Farmed author / closed doors / litter (session revise — 2026-10-28)
+
+> **Author adjust:** Shakespeare as person may have been **set up, compromised, or ghostwritten** — or he may have written every play **himself at home**, with **no helper**, and still been part of a project **without knowing it**. Establishment / deep-state rulers could not show themselves visibly and rule openly; they had to create conditions where people would be **born and raised** to do the wanted actions **as if ordered** — a **super-early MK-Ultra-style** manipulation of children under **British education**, raising them in a reality that already **erased the East** and painted Easterners as **Mongols**. Resources, material, and sponsorship set him up to do exactly that. This **mirrors Tolkien**: both likely **wrote the words down**; neither was the original genius who invented the upstream world; both had access to **huge recently assembled material from teams/projects** (that part is proven). What happened **behind closed doors** with these individual artists is **almost of no consequence**. There could have been **many** such people — a **farm / litter** — some with orders, some raised to think they acted alone. The establishment threw money and weight behind whoever benefited them most. That was the man called Shakespeare. In the end it might have been **his name alone** that qualified him beyond other writers we will never know, because they never made the history books.
+
+**Evidence floor on “could someone else have written it under his name?” (§2b.3c):** Period practice makes fronting / collaboration / publisher misuse of a hot name **common**, not exotic. There is **no** laboratory proof that every Folio line is holograph Shakespeare. There is also **no** need for ghostwriting to make the project true: **sole pen + farmed conditions** is enough and is the Tolkien-parallel preferred reading.
 
 ### 1.3 Hard locks (author — do not soften)
 
 | Lock | Statement |
 |------|-----------|
-| **Pressure-valve person** | William Shakespeare was a **real person** who **wrote what he wrote down**. His function in the redaction stack is **pressure valve / dam**: concentrate the flow of costumed chronicle so it **traces to one man**. Stratford biography is not fake paperwork — it is the **valve handle** (**R6** as one-person dam over Empire history). |
+| **Pressure-valve person (farmed)** | William Shakespeare was a **real named person** used as **pressure valve / dam**. He **may** have written every line himself **or** been fronted/collaborated — **closed doors almost irrelevant**. Function = concentrate costumed chronicle so it **traces to one man**. Stratford biography is the **valve handle** (**R6**). Not inventing genius of Empire meaning. |
 | **Slogan-name brand** | **Shakespeare** = transparent **shake + spear** compound (*Bowfinger*). Paper attestations exist; the **public brand** still traces to **flourish / nothing** — not a walkable place/clan/trade legacy — which makes the name useful as dam handle (§2b.3b / **C22**). |
 | **Challenge choke point** | To contest Scaligerian / redacted historian arguments packed into the plays, critics must **first challenge Shakespeare** — the popular entertainment face of that history. The trick **protects** Scaligerian chronology. |
 | **Many other works** | Inputs are **pre-existing chronicles / plays / sacred narratives** (Empire strata), not blank-page genius of plots. He wrote the English stage versions; he did **not** invent the upstream stories. |
@@ -85,6 +93,7 @@ Reader essay opens on this beat: [A Tale told by an Idiot](/history/chronology/a
 | **Culture war / dual flood** | Shakespeare + Renaissance package **floods education and entertainment** together; consumption is **obligatory** wherever English literature reaches (§2f). |
 | **Lucrative incentive** | Artists / companies / tourism are steered to keep pushing **this** media style because it is **institutionally more lucrative / prestigious** than rival topics — evidence that protection of redacted history, not pure organic popularity, drives the pattern (§2f.5). |
 | **Control without debate** | Establishment stages the flood so it need **not compete with or quell** rival historical/literary opinions — the canon **preempts** the field. |
+| **Hide past → own future** | Simple strategy, quoted for centuries (Santayana and kin): erase memory of war, famine, mob rule, tradition, sacred order — and the public **repeats** the disasters it should have learned. Bard + Nihilism = one machine that makes the condemnation stick (§1.6). |
 | **Social enforcement** | Ill talk of Shakespeare is **low-status / friend-costing** in Anglophone polite society — soft policing of the brand after school installs it. |
 
 ### 1.4 Tolkien isomorphism (exact structural match)
@@ -96,7 +105,7 @@ Already filed at [Tolkien redacted-fact Part XI](/influence/predictive_programmi
 | | **“Shakespeare” project** | **Tolkien** |
 |--|---------------------------|-------------|
 | **Public belief** | One man **invented** the plays / modern English genius | One man **invented** Middle-earth |
-| **Author lock** | **Real writer as pressure valve** — project **translates** many older works; trail stops at one dam | **Pseudotranslator** of real linguistic / historical Earth |
+| **Author lock** | **Farmed real face as pressure valve** — may have written every line or been fronted; project **translates** many older works; trail stops at one dam | **Wrote it down** as pseudotranslator of real Earth; not inventing genius of the upstream world |
 | **Hidden referent** | Rus–Horde / XII–XVI Empire chronicle (Fomenko floor) | **Existing Earth before** the catastrophe |
 | **Catastrophe hinge** | Empire erase + Reformation print + Folio seal | **[Mud flood](/history/mudflood/page.md)** destroys old world |
 | **After** | Subjects live in the **brave new world** (ignorance, no sovereignty, state memory monopoly) | Readers treat the old world as **fantasy** so they never reclaim it |
@@ -104,15 +113,36 @@ Already filed at [Tolkien redacted-fact Part XI](/influence/predictive_programmi
 
 **One sentence:** Both brands teach **invention**; both operations are **translation of the world that mud flood / Empire fracture made unspeakable**; the brave new world is what remains when the old world is filed as literature or myth.
 
+### 1.6 Hide the past, own the future (simple strategy — 2026-10-28)
+
+**Author lock:** If you **hide history** from people, you are in **control of their future**, because you can force them into **repeating mistakes** they should know about — lessons already paid for in blood and ruin.
+
+| Lesson redacted | Forced repeat when memory is gone |
+|-----------------|-----------------------------------|
+| War | Next war sold as unprecedented / necessary |
+| Famine | Next scarcity managed without older conservation wisdom |
+| Mob rule | Crowds as “democracy” or “justice” with no memory of terror |
+| Conservation of tradition | Tradition as dead weight; novelty as virtue |
+| Faith / sacred order / Christianity–government joins | Void creed + state monopoly of meaning |
+
+**Documented plain quote (everyone already knows the sentence):**
+
+> Those who cannot remember the past are condemned to repeat it.  
+> — George Santayana, *The Life of Reason* (1905)
+
+**AU-083 join:** The Shakespeare / Renaissance project is not only a literary curiosity. It is one **implementation** of that strategy: redact world-empire chronicle → seal with *signifying nothing* → flood school + entertainment → future herded without a visible tyrant on the balcony. Reader essay section: *Hide the past, own the future*.
+
 ### 1.5 Unpack (earlier layers — still active)
 
 | Layer | Claim |
 |-------|--------|
-| **Pressure-valve person** | **§1.2d / §1.3:** real Stratford/London writer; **dam** on redacted-history flow; not inventing genius of Empire meaning. |
+| **Pressure-valve person** | **§1.2d–e / §1.3:** real named face; **may** sole-author or be fronted; **farmed** conditions; **dam** on redacted-history flow. |
+| **Closed doors ≈ irrelevant** | Ghostwriter vs solo pen does not make or break the project; litter pick + sponsorship does (**§1.2e**). |
 | **Slogan-name** | **§2b.3b:** shake + spear brand; culturally traces to flourish/nothing; useful valve handle (**C22**). |
 | **Translation / redaction** | Real Empire chronicle → costume drama (Rome, mythical Britain, Tudor gossip). **Not** invention-from-nothing. |
 | **Disconnect** | English readers meet only **“tales from a faraway country told by one genius.”** School never teaches the Rus–Horde as world empire ([1627 erase event](https://timeline.paradigmthreat.net/timeline/evt-1627-ce-deep-state-erases-russian-empire-from-all-chronology)). |
 | **Nihilist seal** | *Tale told by an idiot… signifying nothing* = Anglophone **creed**: sacred/imperial story **means nothing**. |
+| **Hide past → own future** | **§1.6:** erase lessons (war, famine, mob, tradition) → force repeats; Santayana quote as public proverb of the same strategy. |
 | **Hemisphere lock** | English mass print + empire + U.S. school canon → near-**100%** obligatory exposure in English-literature societies (§2f). |
 | **Final nail** | Folio / Bard cult **caps** Reformation–Renaissance rewrite → **brave new world** after mud flood / Empire destruction. |
 | **Dual channel** | Same package in **classroom (required)** and **stage/film/quote culture (entertainment)** — flood both so no escape hatch. |
@@ -156,7 +186,7 @@ Already filed at [Tolkien redacted-fact Part XI](/influence/predictive_programmi
 
 **Kinkel hinge (reader essay):** Ivan Germanovich Kinkel — deepest mistake of modern historiography = studying individual countries in complete isolation; society/economy/culture as one interconnected process; no nation behind a closed wall. **Same mistake** as the Shakespeare project under **Renaissance dogma**, applied **everywhere** and **retroactively** via Scaligerian redaction of true human history.
 
-**Reader essay:** [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) — section *World empire stories — what New Chronology reconstructs*.
+**Reader essay:** [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) — section *World empire stories — what New Chronology reconstructs*; chart [`a-tale-told-by-an-idiot-source-map.jpg`](/history/chronology/a-tale-told-by-an-idiot-source-map.jpg) — Folio play × Western sources × Fomenko encodings (honest weaker-row notes).
 
 ---
 
@@ -196,7 +226,33 @@ Already filed at [Tolkien redacted-fact Part XI](/influence/predictive_programmi
 | **Name spelling varies**; common surname | Disambiguation relies on context clusters (Stratford + London theater + printed attributions) — mainstream consensus holds the cluster; anti-Stratford literature attacks joins |
 | **Business records ≠ literary process** | Wills and property prove a person; they do not prove that person invented plots, sole-authored every scene, or created the “unique style” from blank cloth |
 
-**AU-083 read (aligned to §1.2d):** Strong evidence for a **historical Stratford/London writer** supports the **pressure-valve** model: the dam needs a real person at the valve. Paperwork proves the man; it does **not** prove he invented world-empire chronicle meaning or sole-authored every upstream story. **R6** = one-person dam / entertainment shell over Empire history. Do not deny the paperwork; deny the leap from “he wrote the English plays” to “he invented the history and the style the world worships.”
+**AU-083 read (aligned to §1.2d–e):** Strong evidence for a **historical Stratford/London named face** supports the **pressure-valve** model: the dam needs a real brand at the valve. Paperwork proves the man; it does **not** prove he invented world-empire chronicle meaning, invented upstream plots, or that every line is holograph-only. **R6** = one-person dam / entertainment shell over Empire history. Do not deny the paperwork; deny the leap from “his name is on the English plays” to “inventing genius of history and style.” **Preferred Author reading:** he could have written every play himself under farmed conditions and still be the project’s pick of the litter — Tolkien parallel.
+
+### 2b.3c Ghostwriter / front vs sole pen — what the evidence actually allows
+
+**Author question:** Is there really good proof he **couldn’t** have had someone else write it all and publish under his name?
+
+**Documented period practice (fronting / collaboration / name-as-commodity):**
+
+| Fact | Effect |
+|------|--------|
+| Henslowe’s diary: ~**⅔** of recorded plays paid to **more than one** playwright | Collaboration was **normal**, not scandal |
+| Title pages usually list **one** name even when collaboration happened | Printed name ≠ full makers list |
+| Early playbooks often named **company** first; author names rose later as marketing | Authorship as brand commodity |
+| Shakespeare’s name on title pages from **~1598**; also attached to plays now treated as **not his** (e.g. *A Yorkshire Tragedy* Stationers entry “written by Wylliam Shakespere” — mainstream now assigns Middleton) | Hot name could be **sold / misused** |
+| Companies commissioned subjects, parceled scenes, owned playbooks | Writers were workers inside a production system |
+
+**Documented attribution cluster (why mainstream says “he wrote them”):** lifetime title-page / Stationers links; Chamberlain’s–King’s Men association; Folio company branding; contemporaries treat the Stratford/London man as the poet-player. That is a **strong brand-and-company** web for the era — **stronger than for many peer dramatists**.
+
+**What that cluster does *not* prove:**
+
+| Missing | Effect |
+|---------|--------|
+| **No surviving holograph manuscripts** of the plays | Cannot run pen-match lab test against the printed corpus |
+| No contemporary statement “no one else touched a line” | Room for collaboration, revision, house polishing |
+| No proof against **farmed sole authorship** | Even 100% his pen can still be project output |
+
+**Verdict for AU-083:** There is **not** “really, really good proof” that ghostwriting / fronting / multi-hand work is **impossible**. Period norms make it **plausible**. The attribution web makes a pure “Oxford wrote it all secretly” swap unnecessary for the project thesis. **Author preferred lane (§1.2e):** allow sole pen; insist on **farmed conditions + material access + establishment pick of the litter**; treat closed-door ghosting as optional and nearly **consequence-free** for the redaction claim.
 
 ### 2b.3b The *name* Shakespeare — Bowfinger hear + Author brand read
 
@@ -597,7 +653,7 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 
 **Documented:** “Shakespeare authorship question” is a long public debate (Bacon, Oxford, committee theories, etc.). Fomenko’s foreword says NC results **do not depend** on who hid under the name — texts matter.
 
-**Author (AU-083) lock (revised §1.2d):** There **was** a Stratford/London writer. Hunting Bacon vs Oxford vs Stratford as “the true inventing genius” is still **distraction** — it keeps the **invention myth** alive under a different signature. The correct model is a **real person as pressure valve** on a **project of many other works** whose operation is **translation**, not invention of plots — **exactly the Tolkien case** (§1.4) on the translation side, with a **named dam** on the person side. Anti-Stratford fights that only swap the valve handle miss the dam.
+**Author (AU-083) lock (revised §1.2d–e):** There **was** a Stratford/London named face. Hunting Bacon vs Oxford vs Stratford as “the true inventing genius” is still **distraction** — it keeps the **invention myth** alive under a different signature. The correct model is a **farmed pressure valve** on a **project of many other works** (translation, not invention of plots) — **exactly the Tolkien case** (§1.4): both likely **wrote words down**; neither invented the upstream world; both had access to assembled team/project material. Ghostwriter vs sole pen is nearly **consequence-free**. Anti-Stratford fights that only swap the valve handle miss the dam **and** the farm.
 
 **Adjacent filed claims:** Francis Bacon as KJB / redaction figure and **toxic-name whitewash** → Kevin Bacon ([AU-029](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md)); Helen Mirren / Elizabeth I as breakaway Rus-Horde royalty theater ([AU-082](/influence/conspiracy/celebrities/helen-mirren.md)).
 
@@ -607,7 +663,7 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 
 | # | Claim | Tier |
 |---|--------|------|
-| **C1** | William Shakespeare was a **real person** who **wrote what he wrote**; function = **pressure valve / dam** on redacted-history flow so popular chronicle **traces to one man**; Stratford biography is the **valve handle** (**R6**). (Earlier session “not a person at all” **revised** 2026-10-28 — see §1.2d.) | **Author** |
+| **C1** | William Shakespeare was a **real named face** used as **pressure valve / dam**; he **may** have sole-authored every line **or** been fronted/collaborated — **closed doors almost irrelevant**; Stratford biography is the **valve handle** (**R6**). Farmed conditions / litter pick (§1.2e). (Earlier “not a person” → pressure valve → farmed sole-pen allowed — revised 2026-10-28.) | **Author** |
 | **C2** | The project **translates many other works** (Empire chronicle / sacred narrative); it does **not invent** from blank cloth | **Author extension** of NC (**Documented** maps) |
 | **C3** | **Exact isomorphism with Tolkien:** public “he invented a universe” = false; referent = **existing Earth before** the catastrophe | **Author** (Tolkien pseudotranslation **Documented** in his letters; Earth-before-flood join **Author**) |
 | **C4** | **Mud flood** destroyed the old world; the brave new world is what remains when that Earth is filed as literature/fantasy/nihilist “tale” | **Author** (MudFlood lane Documented as PT thesis; coupling to Bard project **Author**) |
@@ -629,6 +685,9 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 | **C20** | **Lucrative Bard premium:** persistent institutional pattern (classical repertoire monopoly, tourism towns, festival economies, career prestige) makes pushing this media style **more lucrative / advantageous** than rival classical topics — evidence of **protection incentives**, not pure organic popularity (§2f.5) | **Author** on motive; repertoire/tourism/prestige receipts **Documented**; actor-wage supremacy **not** shown |
 | **C21** | Dominance was **sponsored**, not earned by one man’s skill alone; without rich/institutional influence the corpus would likely have been outcompeted/forgotten like peer dramatists; skill camp must at least admit plays were sold as **originals**, not as remakes of known sources (§2f.5 logic lock) | **Author** on counterfactual + “unfair”; presentation-as-original vs source map **Documented** |
 | **C22** | The surname **Shakespeare** is a transparent **shake + spear** slogan-brand (Bowfinger hears it); useful as dam handle because it culturally traces to **flourish/nothing**, not a grounded place/clan/trade legacy the public can walk — even while paper attestations of the nickname-surname exist (§2b.3b) | **Author** on usefulness; compound morphology + early attestations **Documented**; colonial-rename origin of *this* line **Speculative** |
+| **C23** | **Ghostwriting not required and not ruled out:** period collaboration/fronting/name-selling is Documented; no holograph plays; attribution cluster ≠ proof against farmed sole pen. Preferred: he could write every play himself under **raised/set-up** conditions (early education erase-East / Mongol-paint) and still be project output — **Tolkien mirror** (§1.2e / §2b.3c) | **Author**; Henslowe/title-page/apocrypha practice **Documented** |
+| **C24** | **Litter / farm:** many possible writers; establishment backed whoever benefited most; **name alone** may have qualified him; rivals never entered history books — closed-door truth nearly **consequence-free** for the redaction claim (§1.2e) | **Author** |
+| **C25** | **Hide history → control future:** force repeats of war, famine, mob rule, broken tradition, lost sacred/gov lessons; Bard+Nihilism implements the strategy Santayana stated in proverb form (§1.6) | **Author** on Bard as machine; Santayana sentence **Documented** |
 
 **Prior art search (2026-10-28):** NC maps + Tolkien-as-translator + *Macbeth*-as-nihilism + Clinic stylometry + Gililov vocabulary + *Ship of Fools*/correct-masterpieces + France reception history + Bard tourism/RSC economics exist as **pieces**. **None found** stating the full package: **pressure-valve person + slogan-name brand + translation + challenge choke point + lucrative institutional dam + Tolkien/mud-flood + eastern-style + Nihilism-as-religion + dual flood + museum irony + France-war + science-second-liturgy + world-empire-not-Italian + lost faith/gov conclusions**. → Registry: **partial**.
 
@@ -663,6 +722,8 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 - [x] Reader essay [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) + §2g–§2i / C14–C17 (2026-10-28)
 - [x] Pressure-valve person revise (§1.2d / C1 / C19) + lucrative Bard premium first pass (§2f.5 / C20) (2026-10-28)
 - [x] Slogan-name brand / Bowfinger hear (§2b.3b / C22) — paper floor + Author “traces to nothing” (2026-10-28)
+- [x] Farmed author / litter / ghostwriting-optional (§1.2e / §2b.3c / C23–C24) (2026-10-28)
+- [x] Hide past → own future / Santayana strategy (§1.6 / C25) (2026-10-28)
 - [ ] Q11/Q12: curriculum % + entertainment-asymmetry receipts for C11
 - [ ] Q15: actor-wage / fee series to tighten C20 beyond institutional prestige
 - [ ] Q13/Q14: France sponsorship receipts + science-void correlation map
