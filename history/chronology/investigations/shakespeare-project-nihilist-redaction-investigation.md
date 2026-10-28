@@ -18,6 +18,7 @@
 | Author thesis (verbatim + unpack) | §1 |
 | **Lock: pressure-valve person — translation, not invention** | §1.3 / §1.2d |
 | **Name Shakespeare = slogan-brand / traces to nothing** | §2b.3b |
+| **Spear-shaker epithet folklore + Stoppard facade crack** | §2b.3b / §2b.3d |
 | **Ghostwriter vs sole pen / raised-into-brand pool** | §1.2e / §2b.3c |
 | **Tolkien isomorphism + mud flood → brave new world** | §1.4 |
 | Fomenko / chronologia play maps | §2 |
@@ -266,8 +267,11 @@ Already filed at [Tolkien redacted-fact Part XI](/influence/predictive_programmi
 | Same name-type as **Shakelance**, **Shakeshaft**, **Breakspear** | Ordinary English nickname morphology |
 | Attestations from **13th c.** onward (e.g. Sakspere / Shakespeye lanes; Warwickshire clusters later) | Stopes *Shakespeare’s Family*; Sidney Lee bio chapter |
 | Spelling variance extreme (*Shakspere*, *Shakespear*, …) | Early modern orthography norm |
+| Hyphenated **Shake-speare** / **Shak-spear** on **15 of 32** pre-Folio quarto title pages (plus poetry/allusion hits) | Wikipedia authorship-question survey of title pages; anti-Stratford reading as descriptive pseudonym |
 
-So “the string never existed on English paper” is **false**. Paper used the name.
+So “the string never existed on English paper” is **false**. Paper used the name — and often printed it like a **compound slogan**.
+
+**Reader lead (Substack comment, 2026-10-28) — “who spear shakers were”:** Commenter Starmonkey: disregard for spear shakers; recently learned who they were; Stoppard *Rosencrantz and Guildenstern Are Dead* “destroys the entire facade”; closes on *signifying nothing*. The common dig behind “who they were” is the anti-Stratford / Baconian folklore that **Shake-speare** = **spear-shaker** = epithet of **Pallas Athena** (wisdom goddess shown with spear), treated as a literary pen-name. Occult Bacon literature titles him *Francis Bacon — The Spear Shaker* (Armstrong, 1985; filed under occult Bacon theories). **AU-083 use:** keep the **brand-as-epithet** recognition; **reject** the candidate swap (Bacon/Oxford as inventing genius) — already locked: swap the valve handle, the dam still stands (§2b.3 / essay). Athena-folk-etymology of *Pallas* via “brandish” is **contested classical gloss** used as propaganda; do not elevate it to Documented Greek fact.
 
 **Author lock (2026-10-28):** What the name **does not** give the public — and what makes it useful as a dam brand — is a **grounded family legacy** you can feel under your feet.
 
@@ -281,7 +285,13 @@ So “the string never existed on English paper” is **false**. Paper used the 
 
 **Join:** [Hidden History of Words](/history/chronology/the-hidden-history-of-words.md) — English pinned so trails stop at Bard/Bacon/KJB; eponym whitewash lane ([AU-029](/history/chronology/investigations/eponym-words-forgotten-people-investigation.md)).
 
-**Reader essay:** [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) — pressure valve; name / Bowfinger; style / source credit.
+**Reader essay:** [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) — pressure valve; name / Bowfinger / spear-shaker epithet; Stoppard facade crack; style / source credit.
+
+### 2b.3d Stoppard — high-culture facade crack (reader lead)
+
+**Documented:** Tom Stoppard, *Rosencrantz and Guildenstern Are Dead* (Edinburgh Fringe **1966**; later West End/Broadway/film). Absurdist tragicomedy that puts *Hamlet*’s two bit courtiers center stage “in the wings” of Shakespeare’s plot. Their actions read as nonsense because **Hamlet’s script supersedes them**; they are executed because a rewritten letter in that script requires it. Title quotes *Hamlet* V.ii. Comparisons to Beckett *Waiting for Godot* are standard.
+
+**AU-083 read:** Same Nihilism seal as the Macbeth creed, staged as **metatheatre**. The Bard brand sells summit-of-meaning; Stoppard shows minor lives under that brand as **props whose story signifies nothing to themselves**. Pair with *Comedy of Terrors* (mockery of reverent *Macbeth* speech): low farce and high absurdism both crack Bardolatry without leaving the English canon. Does **not** prove operator intent in 1600; does prove that late-modern culture can see the **facade** and still recirculate the void.
 
 ### 2b.4 Style studies, multiple hands, and cross-check against *source* linguistics
 
@@ -688,6 +698,7 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 | **C23** | **Ghostwriting not required and not ruled out:** period collaboration/fronting/name-selling is Documented; no holograph plays; attribution cluster ≠ proof against sole pen under set-up conditions. Preferred: he could write every play himself under **raised/set-up** conditions (early education erase-East / Mongol-paint) and still be project output — **Tolkien mirror** (§1.2e / §2b.3c) | **Author**; Henslowe/title-page/apocrypha practice **Documented** |
 | **C24** | **Candidate pool:** many possible writers; establishment backed whoever benefited most; **name alone** may have qualified him; rivals never entered history books — closed-door truth nearly **consequence-free** for the redaction claim (§1.2e) | **Author** |
 | **C25** | **Hide history → control future:** force repeats of war, famine, mob rule, broken tradition, lost sacred/gov lessons; Bard+Nihilism implements the strategy Santayana stated in proverb form (§1.6) | **Author** on Bard as machine; Santayana sentence **Documented** |
+| **C26** | **Spear-shaker brand folklore + Stoppard facade:** hyphenated *Shake-speare* on early title pages; Athena/“spear-shaker” epithet & Bacon *Spear Shaker* lore as Documented anti-Stratford brand-reads (not candidate proof); Stoppard *R&G Are Dead* stages bit-player lives that **signify nothing** inside the Bard script (§2b.3b / §2b.3d) | Title-page hyphenation + Stoppard play **Documented**; Athena-epithet usefulness **Author**; Greek *Pallas* folk-etymology **contested** |
 
 **Prior art search (2026-10-28):** NC maps + Tolkien-as-translator + *Macbeth*-as-nihilism + Clinic stylometry + Gililov vocabulary + *Ship of Fools*/correct-masterpieces + France reception history + Bard tourism/RSC economics exist as **pieces**. **None found** stating the full package: **pressure-valve person + slogan-name brand + translation + challenge choke point + lucrative institutional dam + Tolkien/mud-flood + eastern-style + Nihilism-as-religion + dual flood + museum irony + France-war + science-second-liturgy + world-empire-not-Italian + lost faith/gov conclusions**. → Registry: **partial**.
 
@@ -724,6 +735,7 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 - [x] Slogan-name brand / Bowfinger hear (§2b.3b / C22) — paper floor + Author “traces to nothing” (2026-10-28)
 - [x] Raised-into-brand / candidate pool / ghostwriting-optional (§1.2e / §2b.3c / C23–C24) (2026-10-28)
 - [x] Hide past → own future / Santayana strategy (§1.6 / C25) (2026-10-28)
+- [x] Spear-shaker epithet folklore + Stoppard *R&G* facade (§2b.3b / §2b.3d / C26) — Substack reader lead (2026-10-28)
 - [ ] Q11/Q12: curriculum % + entertainment-asymmetry receipts for C11
 - [ ] Q15: actor-wage / fee series to tighten C20 beyond institutional prestige
 - [ ] Q13/Q14: France sponsorship receipts + science-void correlation map
@@ -764,7 +776,7 @@ On the Fomenko map, *Macbeth* encodes **Herod / Baptist / Christ**. The play’s
 
 ---
 
-Keywords: #ShakespeareProject #PressureValve #SloganName #Bowfinger #TranslationNotInvention #CultureWar #PublicSchools #ObligatoryCanon #ShipOfFools #Stylometry #Cyrillic #EasternLanguages #Tolkien #MudFlood #Nihilism #Macbeth #Fomenko #NewChronology #RusHorde #Reformation #Renaissance #FirstFolio #Scaliger #BraveNewWorld #LexicalRedaction #CorpusScan #LucrativeBard #ParadigmThreatFiles #AuthorUnique #AU083
+Keywords: #ShakespeareProject #PressureValve #SloganName #Bowfinger #ShakeSpeare #SpearShaker #Athena #Stoppard #RosencrantzAndGuildenstern #TranslationNotInvention #CultureWar #PublicSchools #ObligatoryCanon #ShipOfFools #Stylometry #Cyrillic #EasternLanguages #Tolkien #MudFlood #Nihilism #Macbeth #Fomenko #NewChronology #RusHorde #Reformation #Renaissance #FirstFolio #Scaliger #BraveNewWorld #LexicalRedaction #CorpusScan #LucrativeBard #ParadigmThreatFiles #AuthorUnique #AU083
 
 *Last updated: 2026-10-28*
 
