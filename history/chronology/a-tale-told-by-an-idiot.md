@@ -253,7 +253,9 @@ Strongest where Nihilism is a belief system, the farmed pressure-valve lock repl
 
 Keywords: #Shakespeare #Nihilism #Renaissance #TaleToldByAnIdiot #ComedyOfTerrors #Bowfinger #ShakeASpear #Macbeth #PressureValve #HidePastOwnFuture #Santayana #Scaliger #Fomenko #NewChronology #WorldEmpire #RusHorde #Kinkel #Historiography #CultureWar #LucrativeBard #MuseumIrony #France #Voltaire #Romanticism #Science #Melancholia #EasternLanguages #Cyrillic #ShipOfFools #BraveNewWorld #MudFlood #ParadigmThreatFiles #AU083
 
-**Last updated:** 2026-10-28T10:01:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/a-tale-told-by-an-idiot](https://paradigmthreat2.substack.com/p/a-tale-told-by-an-idiot)
+
+**Last updated:** 2026-10-28T10:05:00-04:00
 
 ---
 

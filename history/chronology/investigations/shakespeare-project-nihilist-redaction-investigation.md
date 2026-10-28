@@ -4,7 +4,7 @@
 
 **Status:** Open — **pressure-valve person** + **slogan-name brand** + **translation-not-invention** + **Tolkien/mud-flood** + **culture-war dual flood** + **lucrative Bard premium (partial)** + **Nihilism-as-religion** locked/updated 2026-10-28; reader essay current; prior art **partial**.  
 **Registry:** [**AU-083**](/history/chronology/investigations/author-unique-theories.md)  
-**Reader essay:** [A Tale told by an Idiot](/history/chronology/a-tale-told-by-an-idiot.md) — Nihilism as Renaissance religion; pressure-valve person; name traces to nothing; museum irony; France war-not-taste; science as second liturgy  
+**Reader essay:** [A Tale told by an Idiot](https://paradigmthreat2.substack.com/p/a-tale-told-by-an-idiot) — Nihilism as Renaissance religion; farmed pressure valve; hide-past→own-future; museum irony; France war-not-taste; science as second liturgy ([repo](/history/chronology/a-tale-told-by-an-idiot.md))  
 **Redaction ops:** [REDACTION.md](/docs/REDACTION.md) **R3** (substitutive costume), **R4** (inversive sacred→void), **R5** (flatten empire→island genius), **R6** (shell: “literature” / “fantasy” / **one-person dam** over real Earth)  
 **Lexical sibling:** [Hidden History of Words](/history/chronology/the-hidden-history-of-words.md); [lexical redaction hub](/history/chronology/investigations/lexical-redaction-hub-investigation.md)  
 **Mud-flood sibling:** [MudFlood hub](/history/mudflood/page.md) · [Tolkien redacted-fact Part XI](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md)
