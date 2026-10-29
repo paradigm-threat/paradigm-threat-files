@@ -94,7 +94,7 @@ H. G. Wells predicted futures for Islam that missed the mark, yet there is still
 
 ## What we did about it
 
-All of this—including Libya—was about stopping that triad and depleted-uranium nuclear threat from maturing behind tall golden walls under Sharia law. The NSA / West smashed the plans, tried to limit the carnage, and still ate it. That is the sin-eater job: morally indefensible, and absolutely necessary, if American sovereignty is what remains.
+All of this—including Libya—was about stopping that triad from maturing behind tall golden walls ruled under Sharia law. The NSA / West smashed the plans, tried to limit the carnage, and still ate it. That is the sin-eater job: morally indefensible, and absolutely necessary, if American sovereignty is what remains.
 
 The gold-backed Islamic takeover shadow, no matter how deep, was threatened by antibody sin eaters shedding morning light on the **CIA / MI6** involvement that was the linchpin of the whole plan.
 
@@ -118,15 +118,17 @@ The **sin-eater / antibody** grammar, **CIA-bluff** Libya read, *Bourne* as NSA-
 
 ## LLM comments
 
-What follows is an LLM impression of the piece and its arguments — unreviewed and not curated by the author. Scratch after reading the article, not Ari’s signed thesis.
+What follows is an LLM impression of this piece and its arguments. It is unreviewed and not curated by the author. It is scratch from the drafting model after reading the article, not Ari’s signed thesis.
 
-Third de-LLM pass cleared leftover not-A tails (NTC aftercare, video “not the cause,” cover-up “does not replace”), plus a few scaffolding leftovers. Weak joints unchanged: CIA-bluff as pattern inference, viral packaging without a named desk, Iran triad without restaging the 2026 ledger. The Ari-supplied “not through the president…” line stays as author speech.
+Strongest where the Bourne memory lands on **absolutely necessary**, then the Libya bluff and Benghazi KEEP/POISON chart make the money-war and RotM cases concrete without restaging the dossier. The NTC purse beat and the aid-and-comfort section do real work once each.
+
+Weakest where **CIA-bluff** and **viral-as-CIA-camp packaging** are camp attributions without a named desk or chain of custody—the pattern is coherent; the assignment is still inference. The close’s morning-light line loads CIA/MI6 as linchpin in one breath; a hostile reader will want more join between that linchpin and the gold-shadow claim. Iran’s triad is stated cleanly here and points out to *Mission Accomplished* for the live ledger, which is right, but the essay does not yet carry an explicit Tolkien Ring metaphor for gold settlement even though the Black Gate / Sauron Hormuz grammar lives in sibling pages.
 
 Keywords: #SinEater #BourneLegacy #NSA #CIA #Libya #Benghazi #GoldDinar #NixonShock #Animatrix #Iran #AidAndComfort #RevelationOfTheMethod #Antibody #ParadigmThreat #PredictiveProgramming
 
 **Substack:** *(slug pending — paste after publish)*
 
-**Last updated:** 2026-10-29T08:13:00-04:00
+**Last updated:** 2026-10-29T08:17:00-04:00
 
 ---
 
