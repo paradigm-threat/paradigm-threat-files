@@ -94,11 +94,11 @@ H. G. Wells predicted futures for Islam that missed the mark, yet there is still
 
 ## What we did about it
 
+[*The Peace Deal Nobody Cares About*](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about#black-gate-august-2026--mouth-of-sauron-at-hormuz) already maps Iran to the Black Gate / Mouth of Sauron and names **gold-backed settlement** as Sauron’s **Ring of Power**—the hard-money Islamic dinar path that could price oil and trade outside Western paper, which the West would not let Iran wear. This page is the money-war spine behind that line: Iraq and Libya as earlier gold challengers smashed so the finished triad never crowned.
+
 All of this—including Libya—was about stopping that triad from maturing behind tall golden walls ruled under Sharia law. The NSA / West smashed the plans, tried to limit the carnage, and still ate it. That is the sin-eater job: morally indefensible, and absolutely necessary, if American sovereignty is what remains.
 
 The gold-backed Islamic takeover shadow, no matter how deep, was threatened by antibody sin eaters shedding morning light on the **CIA / MI6** involvement that was the linchpin of the whole plan.
-
-[*The Peace Deal Nobody Cares About*](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about#black-gate-august-2026--mouth-of-sauron-at-hormuz) already maps Iran to the Black Gate / Mouth of Sauron and names **gold-backed settlement** as Sauron’s **Ring of Power**—the hard-money Islamic dinar path that could price oil and trade outside Western paper, which the West would not let Iran wear. This page is the money-war spine behind that line: Iraq and Libya as earlier gold challengers smashed so the finished triad never crowned.
 
 ---
 
