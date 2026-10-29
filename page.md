@@ -12,14 +12,6 @@ Open conspiracy-research hub that challenges mainstream paradigms across history
 
 **Independent research.** Not affiliated with any employer or university.
 
-### Flashback Repository is live
-
-**[Flashback Repository](https://flashbackrepository.org)** is open — personal fan edits of films we own (family-safe cuts, taste-driven mixes, quiet repairs). You must own a legal copy of each original before you play anything there. Use the header **Movies** link anytime.
-
-Titles marked **Now showing** are ready to play on the host (Bunny CDN). Everything else is the IPFS catalog.
-
-<FlashbackNowShowing />
-
 ### Clone locally
 
 ```bash
@@ -41,6 +33,14 @@ Much of western "conspiracy media" is [controlled opposition](https://caitlinjoh
 Method: assume the solution already exists, then ask how evidence is kept from the public. The most effective hide is **in plain sight** — [Revelation of the Method](https://www.counterpunch.org/2022/04/29/revelation-of-the-method/) and media [predictive programming](https://joyoffaith.com/predictive-programming.html). [Transactional analysis](https://www.simplypsychology.org/transactional-analysis-eric-berne.html) helps name what the viewer is compelled to believe or *not* believe.
 
 <DeferredMarkdown src="page-sections/investigations.md" minHeight="1600px" />
+
+### Flashback Repository is live
+
+**[Flashback Repository](https://flashbackrepository.org)** is open — personal fan edits of films we own (family-safe cuts, taste-driven mixes, quiet repairs). You must own a legal copy of each original before you play anything there. Use the header **Movies** link anytime.
+
+Titles marked **Now showing** are ready to play on the host (Bunny CDN). Everything else is the IPFS catalog.
+
+<FlashbackNowShowing />
 
 ## General Chatroom
 
