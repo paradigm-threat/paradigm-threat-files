@@ -129,9 +129,9 @@ Weakest where **CIA-bluff** and **viral-as-CIA-camp packaging** are camp attribu
 
 Keywords: #SinEater #BourneLegacy #NSA #CIA #Libya #Benghazi #GoldDinar #NixonShock #Animatrix #Iran #AidAndComfort #RevelationOfTheMethod #Antibody #RingOfPower #Sauron #LordOfTheRings #ParadigmThreat #PredictiveProgramming
 
-**Substack:** *(slug pending — paste after publish)*
+**Substack:** [paradigmthreat2.substack.com/p/the-sin-eater](https://paradigmthreat2.substack.com/p/the-sin-eater)
 
-**Last updated:** 2026-10-29T08:19:00-04:00
+**Last updated:** 2026-10-29T08:24:00-04:00
 
 ---
 

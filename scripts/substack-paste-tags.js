@@ -15,44 +15,29 @@
  * let you delete it from the UI — avoid selecting it; this script will refuse to
  * re-create anything with spaces or a `Keywords:` prefix.
  *
- * Tags for: history/chronology/a-tale-told-by-an-idiot.md
+ * Tags for: governance/war/the-sin-eater.md
  */
 
 (() => {
   const TAGS = [
-    "Shakespeare",
-    "Nihilism",
-    "Renaissance",
-    "TaleToldByAnIdiot",
-    "ComedyOfTerrors",
-    "Bowfinger",
-    "ShakeASpear",
-    "Macbeth",
-    "PressureValve",
-    "HidePastOwnFuture",
-    "Santayana",
-    "Scaliger",
-    "Fomenko",
-    "NewChronology",
-    "WorldEmpire",
-    "RusHorde",
-    "Kinkel",
-    "Historiography",
-    "CultureWar",
-    "LucrativeBard",
-    "MuseumIrony",
-    "France",
-    "Voltaire",
-    "Romanticism",
-    "Science",
-    "Melancholia",
-    "EasternLanguages",
-    "Cyrillic",
-    "ShipOfFools",
-    "BraveNewWorld",
-    "MudFlood",
-    "ParadigmThreatFiles",
-    "AU083",
+    "SinEater",
+    "BourneLegacy",
+    "NSA",
+    "CIA",
+    "Libya",
+    "Benghazi",
+    "GoldDinar",
+    "NixonShock",
+    "Animatrix",
+    "Iran",
+    "AidAndComfort",
+    "RevelationOfTheMethod",
+    "Antibody",
+    "RingOfPower",
+    "Sauron",
+    "LordOfTheRings",
+    "ParadigmThreat",
+    "PredictiveProgramming",
   ];
 
   const PLACEHOLDER = "Select or create tags";
