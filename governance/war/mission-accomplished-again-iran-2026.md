@@ -207,6 +207,7 @@ The West is not one nervous system; that is why one week looked like two differe
 - [Iran 2026 propaganda thesis — Minab school counter-narrative](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md) — attribution problem stated as a live hypothesis
 - [CRS — Israel-Iran conflict, U.S. strikes, ceasefire (June 2025)](https://www.everycrsreport.com/reports/IF13032.html) — Congressional Research Service map-era summary
 - [Dubious stand down — Libya, Benghazi, gold / dinar, *Three Kings* cluster](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — Iraq 2003 / Libya 2011 rhyme work and currency-friction lane
+- [*The Sin Eater*](https://paradigmthreat.net/governance/war/the-sin-eater.md) — reader essay: CIA-bluff Libya → Benghazi → Iran triad / sin-eater close
 - [Governance usury — JFK / silver, Treasury vs Fed reader](https://paradigmthreat.net/governance/usury/d.md) — fiat backdrop used across the collection
 
 ## Framing and limits
