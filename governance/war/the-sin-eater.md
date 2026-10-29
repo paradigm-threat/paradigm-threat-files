@@ -22,7 +22,7 @@ The chessboard for a sin eater looks exactly like the enemy’s board. The same 
 
 The sin eaters are the **NSA** and their allies. They have created and supported terrorist groups when those groups could be held as controlled—“moderate”—instruments. The best biological analogy is the **antibody**. That is why the word shows up across these investigations. Antibodies do not have to “think on evil terms.” They are forced onto a path of least resistance by the disease and the surrounding environment. That massive antibody advantage cannot be understated. *The Fountain* (2006) gives Queen Isabella the clean line for it: *For every shadow, no matter how deep, is threatened by morning light.*
 
-Nationalist projects that stay mostly clean still need someone to eat dirt so enemies cannot later hang the whole case on that dirt. That hinge—Nationalist overlapping NSA, with sin-eater moves when the priorities are not pure—is already mapped in the presidential-alignment work. This page does not restage that wall chart. It needs only the definition, because Libya and Iran only make sense once you know who was willing to bury the excrement.
+Nationalist projects that stay mostly clean still need someone to eat dirt so enemies cannot later hang the whole case on that dirt. That hinge—Nationalist overlapping NSA, with sin-eater moves when the priorities are not pure—is already mapped in the presidential-alignment work. Libya and Iran only make sense once you know who was willing to bury the excrement.
 
 ---
 
