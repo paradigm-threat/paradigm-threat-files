@@ -26,7 +26,7 @@ Nationalist projects that stay mostly clean still need someone to eat dirt so en
 
 ---
 
-## The war the news will not name
+## The Gold Wars
 
 Typical coverage of Benghazi and Libya sells weapons, talking points, and dubious cover-up gossip. The deeper war was the **money operating system**: who settles trade, who backs currency, who can build a hard-money pole outside Western paper.
 
