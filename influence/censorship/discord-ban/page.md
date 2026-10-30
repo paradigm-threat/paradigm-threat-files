@@ -18,7 +18,7 @@ anyhow. Or was it the *Gigabyte Green Mile*?
 In the meantime, <a href="https://chat.paradigmthreat.net/">click here to join the Chat Server.</a>
 or the <a href="https://t.me/historyisalie">Paradigm Threat Telegram channel.</a>
 
-**Later platform opacity (2026):** [Facebook — Meta removed 40 “suspicious” comments](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) ([screenshot](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png)) · [Reddit empty-inbox perm ban](/influence/censorship/reddit-personal-page-removal-2026-07.md) · [Instagram / Substack blocks](/influence/censorship/platform-blocks-instagram-substack-2026-06.md) · [GitHub ban](/influence/censorship/github-ban.md).
+**Later platform opacity (2026):** [Facebook — Meta removed 40 “suspicious” comments](/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.md) ([screenshot](https://paradigmthreat.net/influence/censorship/facebook-40-suspicious-comments-removed-2026-10.png)) · [Bourne Sin Eater clip blocked — YouTube / Facebook / Instagram](/influence/censorship/youtube-bourne-legacy-sin-eater-clip-blocked-2026-10.md) · [Reddit empty-inbox perm ban](/influence/censorship/reddit-personal-page-removal-2026-07.md) · [Instagram / Substack blocks](/influence/censorship/platform-blocks-instagram-substack-2026-06.md) · [GitHub ban](/influence/censorship/github-ban.md).
 
 
 ---

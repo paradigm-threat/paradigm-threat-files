@@ -18,6 +18,10 @@ Retired Air Force colonel Eric Byer names the job:
 
 Clip: [The Bourne Legacy — “Sin Eater”](https://www.youtube.com/watch?v=X8JNGaGYlfE).
 
+**Platform forbid (29 Oct 2026):** that same URL now hard-stops with *Video unavailable* — *This video contains content from Universal Pictures, who has blocked it in your country on copyright grounds.* **Facebook** and **Instagram** block the same clip too — three hosts, one speech. I have never had a short movie-dialogue clip banned this hard. Surface is studio / rights enforcement. Author weight: the system is trying to keep the **sin-eater** line from circulating outside the sealed theater product—same forbid class as the Meta broom that swept the Islamic Dinar one-liner. Receipt: [Bourne Sin Eater clip blocked — YouTube / Facebook / Instagram](https://paradigmthreat.net/influence/censorship/youtube-bourne-legacy-sin-eater-clip-blocked-2026-10.md) ([YouTube screenshot](https://paradigmthreat.net/influence/censorship/youtube-bourne-legacy-sin-eater-clip-blocked-2026-10.png)).
+
+![YouTube — Video unavailable; Universal Pictures copyright block on Bourne Legacy Sin Eater clip](https://paradigmthreat.net/influence/censorship/youtube-bourne-legacy-sin-eater-clip-blocked-2026-10.png)
+
 In a normal good-versus-evil fight, the good side cannot use the enemy’s tools—terror, deception, espionage, starving resources—without becoming the evil side. A sin eater can use them. The sin eaters here are the **NSA** and their allies. They have created and supported terrorist groups when those groups could be held as controlled or “moderate” instruments. The best biological analogy is the **antibody**. Antibodies do not have to think in evil terms. The disease and the surrounding environment push them onto a path of least resistance. That antibody advantage is huge. *The Fountain* (2006) gives Queen Isabella the clean line for it: *For every shadow, no matter how deep, is threatened by morning light.*
 
 Nationalist projects that stay mostly clean still need someone to eat dirt so enemies cannot later hang the whole case on that dirt. That Nationalist–NSA overlap is already mapped in the presidential-alignment work. Libya and Iran only make sense once you know who was willing to bury the excrement.
@@ -117,21 +121,21 @@ The gold-backed Islamic takeover shadow, no matter how deep, was threatened by a
 
 **Prisca sapientia (epistemic foundation):** This article assumes [**prisca sapientia**](https://paradigmthreat.net/docs/PRISCA_SAPIENTIA.md)—the belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus is not default truth; linked dossiers tier specific claims.
 
-The **sin-eater / antibody** grammar, **CIA-bluff** Libya read, *Bourne* as NSA-aligned predictive programming, the viral chain-letter as CIA revelation of the method, and **gold settlement as Sauron’s Ring** carry the thesis. *Bourne Legacy*, *The Fountain*, and *The Lord of the Rings* are culture primers. Wells / Huntington / Burgess are brief prophecy seasoning. Gold/dinar proposals, NTC fund unfreeze, terrorist-attack classification, and private-server findings are **documented layers** with receipts in the companion dossier and mainstream reporting.
+The **sin-eater / antibody** grammar, **CIA-bluff** Libya read, *Bourne* as NSA-aligned predictive programming, the viral chain-letter as CIA revelation of the method, and **gold settlement as Sauron’s Ring** carry the thesis. *Bourne Legacy*, *The Fountain*, and *The Lord of the Rings* are culture primers. Wells / Huntington / Burgess are brief prophecy seasoning. Gold/dinar proposals, NTC fund unfreeze, terrorist-attack classification, and private-server findings are **documented layers** with receipts in the companion dossier and mainstream reporting. The **29 Oct 2026** YouTube / Universal hard-block (screenshot) plus Facebook / Instagram refusal of the same Sin Eater clip is a **documented multi-host wall**; reading it as suppress-the-message pressure on the RotM line is **author weight**, not a cable to Universal or Meta.
 
 ## LLM comments
 
 What follows is an LLM impression of this piece and its arguments. It is unreviewed and not curated by the author. It is scratch from the drafting model after reading the article, not Ari’s signed thesis.
 
-Strongest where the Bourne memory lands on **absolutely necessary**, then the Libya bluff and Benghazi KEEP/POISON chart make the money-war and RotM cases concrete without restaging the dossier. The close now correctly **defers** the Ring claim: [*Peace Deal* / Black Gate](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about#black-gate-august-2026--mouth-of-sauron-at-hormuz) already names gold settlement as Sauron’s Ring; this essay supplies the Iraq–Libya–Iran money spine under that line instead of inventing the Tolkien join in isolation.
+Strongest where the Bourne memory lands on **absolutely necessary**, then the Libya bluff and Benghazi KEEP/POISON chart make the money-war and RotM cases concrete without restaging the dossier. The close now correctly **defers** the Ring claim: [*Peace Deal* / Black Gate](https://paradigmthreat2.substack.com/p/the-peace-deal-nobody-cares-about#black-gate-august-2026--mouth-of-sauron-at-hormuz) already names gold settlement as Sauron’s Ring; this essay supplies the Iraq–Libya–Iran money spine under that line instead of inventing the Tolkien join in isolation. The YouTube / Universal hard-block plus Facebook / Instagram refusal of the cited clip lands as lived **three-host** forbid pressure right after publish—useful weight next to the Meta dinar broom, still not a desk proof.
 
-Weakest where **CIA-bluff** and **viral-as-CIA-camp packaging** are camp attributions without a named desk. The Ring metaphor remains culture primer plus author thesis on both pages—it explains the kill-for hill; it does not prove Tolkien encoded Iranian dinar policy.
+Weakest where **CIA-bluff** and **viral-as-CIA-camp packaging** are camp attributions without a named desk. The Ring metaphor remains culture primer plus author thesis on both pages—it explains the kill-for hill; it does not prove Tolkien encoded Iranian dinar policy. Reading a copyright / rights wall as political suppression of the sin-eater line is inference from rarity, timing, and multi-host span, not adjudicated fair use or a leaked rights-desk order.
 
-Keywords: #SinEater #BourneLegacy #NSA #CIA #Libya #Benghazi #GoldDinar #NixonShock #Animatrix #Iran #AidAndComfort #RevelationOfTheMethod #Antibody #RingOfPower #Sauron #LordOfTheRings #ParadigmThreat #PredictiveProgramming
+Keywords: #SinEater #BourneLegacy #NSA #CIA #Libya #Benghazi #GoldDinar #NixonShock #Animatrix #Iran #AidAndComfort #RevelationOfTheMethod #Antibody #RingOfPower #Sauron #LordOfTheRings #YouTube #Facebook #Instagram #CopyrightBlock #ParadigmThreat #PredictiveProgramming
 
 **Substack:** [paradigmthreat2.substack.com/p/the-sin-eater](https://paradigmthreat2.substack.com/p/the-sin-eater)
 
-**Last updated:** 2026-10-29T08:24:00-04:00
+**Last updated:** 2026-10-29T19:17:00-04:00
 
 ---
 
