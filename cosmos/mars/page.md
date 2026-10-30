@@ -814,6 +814,10 @@ Independence Day (1996). In this movie, the *real* aliens are hidden within biom
 that do not resemble their actual appearance. The *host body* found in science fiction might have applied to the Wells book.
 This would explain many things, like why the Martians do not appear to be human and how their bodies
 could have survived the heat and impact of the physical travel between planets.
+Wells also reports ~6ft siliceous bipeds brought in the cylinders and labels them "provisions."
+That label is read here as print cover for the true form *outside* the host bodies — not food for creatures with no digestive system —
+with the book's museum/Epilogue specimen frame sealing the scrub; full argument in the
+[Martian technical analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover).
 
 ![A monument commemorating the Martian invasion in Woking, England, near Horsell Common](/cosmos/mars/wotw/wotw_monuments.jpg?w=360)
 

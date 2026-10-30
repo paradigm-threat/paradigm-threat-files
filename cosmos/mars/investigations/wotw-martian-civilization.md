@@ -39,12 +39,12 @@ Through the crystal surveillance device, the following Martians were observed on
 - Locomote by hopping on a "hand-like tangle of tentacles"
 - Observed in the same environments as the winged Martians but in what appears to be a subordinate role
 
-**White Translucent Bipeds (Livestock or Slave Species):**
+**White Translucent Bipeds (cover caste / subject species):**
 - Bipedal, ape-like in posture
 - **White and translucent** — almost ghostly in appearance
 - Observed "feeding among certain of the lichenous trees" in the Martian landscape
 - One was observed being **seized by a winged Martian** in its tentacles
-- Interpretation: These are either livestock (food animals — eaten, not blood donors) or a subjugated species used for labor and sustenance. Wells describes the bipedal creatures brought to Earth as food **provisions**, not as blood sources for transfusion
+- **Documented:** Wells later files cylinder bipeds as "provisions from Mars." **Author (current):** that label is print cover for the **true form outside host bodies**, not livestock diet — see [analysis — bipeds as occupants](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover). Crystal Egg white bipeds may be the same caste on Mars (operators / subjects under winged rulers) or a related line; "livestock?" remains a possible period misread, not project fact.
 
 ### Source B: The War of the Worlds Martians (On Earth)
 
@@ -84,7 +84,7 @@ These three descriptions are **not contradictions** — they are **compartmental
 | **Tentacles** | Two bunches, prehensile | 16 in two bunches of 8 | "Group of tentacles or proboscides" |
 | **Locomotion** | Flight / hopping | Helpless without machines | Bipedal, would be crushed on Earth |
 | **Covering** | Silvery/translucent | Oily, fungoid brown skin | Feathers or fur |
-| **Diet** | Unknown (prey on white bipeds?) | Blood injection via pipette | Not specified |
+| **Diet** | Unknown (seizing white bipeds — cover/subject caste?) | Blood injection via pipette (host life support) | Not specified |
 | **Intelligence** | Crystal surveillance operators | Telepathic, no individuality | Tool-users, civilization-builders |
 
 **Conclusion:** The Crystal Egg shows us **the ruling caste on Mars** — winged, agile, operating surveillance networks. The WotW invaders are a **different caste entirely** — degenerated or purpose-modified organisms, stripped of wings, reduced to "mere brains with tentacles," designed (or degraded) for a specific function. The "Things that Live on Mars" essay may describe the **ancestral or baseline Martian form** from which both castes diverged.
@@ -190,18 +190,18 @@ Wells acknowledges this in referring to WotW: "In that story I made my Martians 
 
 Either way, someone chose to send the most expendable, most mechanically-dependent variant.
 
-### Redaction Pattern 3: The Blood-Feeding Protocol
+### Redaction Pattern 3: The Blood-Feeding Protocol (and the "provisions" cover)
 
-The WotW Martians have **no digestive system.** They subsist entirely by injecting fresh blood directly into their veins. They also brought **food provisions** from Mars — bipedal creatures with flimsy siliceous skeletons, all killed before reaching Earth. These were rations to eat, not blood donors. There is no textual basis for assuming the bipedal creatures' blood was used for transfusion; the blood-injection protocol is described **exclusively** in connection with human victims.
+The WotW Martians have **no digestive system.** They subsist entirely by injecting fresh blood directly into their veins. Wells also reports bipedal creatures with flimsy siliceous skeletons brought from Mars, all killed before reaching Earth, labeled **"provisions."** The blood-injection protocol is described **exclusively** in connection with human victims.
 
 Upon reaching Earth, they were observed feeding on **human blood** — injected directly into their veins via pipette. This was the vector for the bacteria that killed them.
 
-**Assessment:** The Martians brought food (the bipedal creatures) but adopted a **second, different feeding protocol** on Earth: direct blood transfusion from living humans. This was not a switch from one blood source to another — it was the introduction of an entirely new intake method. Why begin transfusing human blood when they already had food? This suggests:
-1. The blood-injection protocol was **always intended for use with humans** — pre-planned before departure
-2. They were **instructed** to harvest human blood as a specific resource, distinct from food
-3. The feeding on human blood was the **designed kill switch** — ensuring the labor force could not survive long-term and return with terrestrial contamination
+**Assessment (updated):** Organisms with no digestive system do not eat rations. The old project reading (bipeds = food; humans = transfusion) treated Wells's label as logistics fact. **Author (current):** the bipeds are the **true form outside host bodies**; "provisions" is the print cover that severs the suit/occupant link ([analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover)). The real puzzle is not "why transfuse when they already had food?" but **why file the occupants as food at all?** Remaining operational reads that still hold:
+1. The blood-injection protocol was **always intended for use with humans** — host-body life support on Earth, pre-planned before departure
+2. Workers were **instructed** to harvest human blood as a specific resource
+3. Feeding on human blood was the **designed kill switch** — ensuring the labor force could not survive long-term and return with terrestrial contamination
 
-**The antigen problem:** There is a more fundamental question the text never raises. Cross-species blood transfusion causes **fatal hemolytic immune reactions** — incompatible red blood cell antigens trigger rapid cell destruction, organ failure, and death. This is why a human cannot survive on dog blood or horse blood injected into the veins, and vice versa. Yet the Martians injected human blood directly into their circulatory systems and it **sustained them.** It did not trigger rejection. The bacteria in the blood killed them; the blood itself was nutritionally compatible. This is only possible if the Martians' circulatory biology was **antigen-compatible with humans** — meaning they were biologically human, or so recently diverged that blood-group antigens remained identical. Wells never describes the Martians feeding on any non-human terrestrial animal. They used **only** human blood. This detail, buried in the feeding protocol, may be the strongest single piece of evidence that the "Martians" were human beings in host bodies.
+**The antigen problem:** There is a more fundamental question the text never raises. Cross-species blood transfusion causes **fatal hemolytic immune reactions** — incompatible red blood cell antigens trigger rapid cell destruction, organ failure, and death. This is why a human cannot survive on dog blood or horse blood injected into the veins, and vice versa. Yet the Martians injected human blood directly into their circulatory systems and it **sustained them.** It did not trigger rejection. The bacteria in the blood killed them; the blood itself was nutritionally compatible. This is only possible if the Martians' circulatory biology was **antigen-compatible with humans** — meaning they were biologically human, or so recently diverged that blood-group antigens remained identical. Wells never describes the Martians feeding on any non-human terrestrial animal. They used **only** human blood. This detail, buried in the feeding protocol, may be the strongest single piece of evidence that whoever occupied the host bodies — and, under the bipeds-as-true-form reading, the bipeds themselves — were human-stock, not Martian livestock.
 
 ### Redaction Pattern 4: The Crystal Recovery
 
@@ -246,21 +246,21 @@ Synthesizing all four sources through the classified intelligence framework:
 
 ### The Worker/Slave Caste (War of the Worlds)
 
-- **Physical form:** 4ft biomechanical host bodies — oily, fungoid exterior; 16 tentacles in two bunches of eight; large dark sensor-eyes; fleshy beak/mouth mechanism; blood-injection feeding apparatus. The host body is not the Martian — it is the **suit.** The actual occupant — likely a smaller being with enlarged cranium and atrophied limbs (the "grey alien" morphology) — was never observed outside the host by any surviving witness.
-- **Host body rationale:** Like the bio-suits in *Independence Day* (1996) — see [Hollywood two-camp Thread O](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) for the **1996 mass-market demo** (suit opened → smaller occupant) — or the Kaldane/Rykor system in Burroughs' *Chessmen of Mars* (1922), the host body provides life support, locomotion, and environmental protection. The occupant cannot survive without it — which is precisely why these workers could never rebel. Their bodies were owned by the masters who maintained the technology. See `wotw-martian-analysis.md` §"The Host Body Theory" for full analysis.
+- **Physical form:** 4ft biomechanical host bodies — oily, fungoid exterior; 16 tentacles in two bunches of eight; large dark sensor-eyes; fleshy beak/mouth mechanism; blood-injection feeding apparatus. The host body is not the Martian — it is the **suit.** **Author (primary occupant ID):** the ~6ft siliceous bipeds Wells filed as "provisions" — dead outside the suits / killed before Earth. Grey-atrophy morphology remains secondary PP (*ID4*), not the primary printed ID. See [analysis — bipeds as occupants](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover).
+- **Host body rationale:** Like the bio-suits in *Independence Day* (1996) — see [Hollywood two-camp Thread O](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship) for the **1996 mass-market demo** (suit opened → smaller occupant) — or the Kaldane/Rykor system in Burroughs' *Chessmen of Mars* (1922), the host body provides life support, locomotion, and environmental protection. The occupant cannot survive without it under Earth conditions — which is precisely why these workers could never rebel. Their bodies were owned by the masters who maintained the technology. See `wotw-martian-analysis.md` §"The Host Body Theory" for full analysis.
 - **Capabilities:** Telepathy (possibly mediated through the host body's tympanic surface), machine operation, blood-feeding, asexual budding (host body self-replication?), 24/7 operation
 - **Role:** Labor force — construction, military operations, resource extraction
 - **Location:** Sent to Earth in cylinders. Expendable.
 - **Observed activities:** Machine construction, aluminium smelting, fighting, human capture, blood-feeding, building the flying-machine (escape vessel)
-- **Fate:** Died of terrestrial bacterial infection contracted through mandatory blood-feeding protocol. The bacteria infected the host body's biological components, which in turn killed the occupant. No surviving witness reported finding a separate organism inside the dead host bodies — this detail was either missed or classified.
+- **Fate:** Died of terrestrial bacterial infection contracted through mandatory blood-feeding protocol. The bacteria infected the host body's biological components, which in turn killed the occupant. No surviving witness reported extracting a living occupant from a suit — **Author:** the biped remains were already inventoried as "provisions," so the two-layer system stayed invisible; Epilogue museum specimen culture seals the scrub.
 
-### The Livestock/Subject Species (Crystal Egg)
+### The Cover / Subject Species (Crystal Egg white bipeds; cylinder "provisions")
 
-- **Physical form:** White, translucent, bipedal, ape-like
-- **Capabilities:** Unknown — observed feeding passively among trees
-- **Role:** Food source (eaten) for the worker caste; possibly also a subjugated intelligent species. There is no textual evidence they were used for blood transfusion — the blood-injection protocol is described only with human victims
-- **Location:** Mars surface (observed); brought to Earth in cylinders as food provisions (all killed before arrival)
-- **Observed activities:** Feeding among lichenous trees; being seized by winged Martians
+- **Physical form:** On Mars (Crystal Egg): white, translucent, bipedal, ape-like. On Earth (WotW cylinders): ~6ft siliceous bipeds, round erect heads, large eyes in flinty sockets — "shrivelled remains," all killed before arrival
+- **Capabilities:** Unknown on Mars — observed feeding passively among trees; cylinder bipeds too fragile for Earth gravity bare
+- **Role (Author):** Not a food source for organisms with no digestive system. Print cover caste / true form of workers outside hosts; possibly also a subjugated line under winged rulers on Mars. Blood-injection protocol remains described only with human victims (host life support)
+- **Location:** Mars surface (observed); cylinder remains "fallen into human hands" on Earth
+- **Observed activities:** Feeding among lichenous trees; being seized by winged Martians; inventoried post-war as "provisions"
 
 ### The Infrastructure
 
@@ -307,11 +307,11 @@ The gap between the Crystal Egg Martians (winged, embodied, diverse) and the Wot
 
 2. **Who was the tall dark man in grey?** Someone recovered the crystal with evident foreknowledge. Government intelligence? A Martian agent? A secret society with knowledge of the surveillance network?
 
-3. **Were the WotW "Martians" host bodies or organisms?** The Independence Day parallel suggests the 4ft fungoid heads were biomechanical suits containing smaller occupant beings — never seen by surviving witnesses. The Crystal Egg winged Martians may be the Mars-variant host body; the WotW invaders, the Earth-variant. The occupant was never described in any published text. Did scientists who examined the dead discover a separate organism inside and classify the finding?
+3. **Were the WotW "Martians" host bodies or organisms?** The Independence Day parallel suggests the 4ft fungoid heads were biomechanical suits. Crystal Egg winged Martians may be the Mars-variant host body; the WotW invaders, the Earth-variant. **Author (current):** the occupant *was* described — as cylinder bipeds filed as "provisions." Did scientists who examined suits and biped remains ever connect the two, or did museum/Epilogue framing kill that link?
 
-4. **What does the occupant look like?** If Martians spent generations inside host bodies, the occupant species would show enlarged cranium, large eyes, atrophied limbs, pale skin — the "grey alien" morphology reported worldwide since the mid-20th century. The grey is not an alien species from another star system; it is what a humanoid looks like after evolutionary adaptation to permanent host-body habitation.
+4. **What does the occupant look like?** Primary Author ID: ~6ft siliceous bipeds (cylinder remains). Secondary PP: grey-atrophy after generations inside suits (*ID4*). Are Crystal Egg white translucent bipeds the same caste as the cylinder bipeds, or a different Mars-side line?
 
-5. **Why human blood specifically?** The Martians brought food provisions (the bipedal creatures) — but the blood-transfusion protocol was used **only** with humans. They did not "switch" from one blood source to another; the blood-injection method appears exclusively in connection with human victims. This suggests the protocol was designed for human blood from the start. The ruling caste would have known about terrestrial bacteria — their surveillance crystals showed them Earth in detail. Was the human-blood protocol a deliberate kill switch?
+5. **Why human blood specifically — and why call bipeds "food" if there is no digestive system?** Blood-injection appears only with human victims (host life support). Organisms with no entrails do not eat rations. Was "provisions" the cover for dead operators outside suits? Was the human-blood protocol a deliberate kill switch? The ruling caste would have known about terrestrial bacteria — their surveillance crystals showed them Earth in detail.
 
 6. **Was the blood-feeding protocol a deliberate kill switch?** If the ruling caste knew human blood would be lethal to the worker caste's host bodies, sending them with instructions to feed locally would ensure they could never return to contaminate Mars. The mission succeeds (infrastructure built) and the workers are eliminated — a self-cleaning operation.
 

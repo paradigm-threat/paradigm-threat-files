@@ -55,7 +55,7 @@ The chronology is critical. The Martians do not feed on humans from the moment t
 | Day 6 (Tuesday) | Industrial operations begin at pits, aluminium production | **First observed feeding** |
 | Day 7+ | Expansion, Thunder Child, Primrose Hill construction | Feeding escalates |
 
-**Five full days** of intense military and construction operations — no blood-feeding. The Martians fought the British Army, assembled machines, deployed chemical weapons, advanced to London, and established industrial operations all on whatever sustenance they brought with them or none at all.
+**Five full days** of intense military and construction operations — no blood-feeding. The Martians fought the British Army, assembled machines, deployed chemical weapons, advanced to London, and established industrial operations on host-body energy stores, residual life-support fluid, or none at all. (**Author note:** cylinder bipeds Wells labels "provisions" are not read here as eaten rations — organisms with no digestive system do not stock food animals; see [bipeds as occupants / provisions cover](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover).)
 
 The feeding begins only after:
 1. Military opposition has been completely neutralised

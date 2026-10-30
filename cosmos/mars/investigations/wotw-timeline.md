@@ -53,7 +53,7 @@ On this timeline's read, the wave is **visible overflight** during the oppositio
 - At least one crystal surveillance device ("crystal egg") present on Earth, found in a London curiosity shop. Date of arrival unknown — could predate the invasion by years or decades.
 - Crystal paired with mast-mounted devices on Mars — approximately **20 crystal mast stations** observed on terraced Martian platforms.
 - Winged Martians observed coiling tentacles around mast bases and peering into crystals for up to **15 minutes** per session — active real-time surveillance of Earth's surface.
-- Through the crystal, Mr. Cave observed: Martian architecture (circular openings, no doors, metallic tracery), winged Martians in flight, wingless large-headed Martians, white translucent bipeds (livestock?), and a **vast mechanism of shining metals** of extraordinary complexity.
+- Through the crystal, Mr. Cave observed: Martian architecture (circular openings, no doors, metallic tracery), winged Martians in flight, wingless large-headed Martians, white translucent bipeds (cover/subject caste — not settled as livestock; see [analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover)), and a **vast mechanism of shining metals** of extraordinary complexity.
 
 ### Assessment
 - The crystal network constitutes a **pre-invasion reconnaissance operation.** Target mapping, defense assessment, and environmental survey conducted before any cylinders were launched.
