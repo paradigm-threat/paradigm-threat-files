@@ -13,6 +13,7 @@
 > - `wotw-martian-analysis.md` — Detailed technical analysis of the invading force (physiology, machines, weapons, slave theory)
 > - `wotw-telepathic-purge.md` — Telepathic purge motif across Mars fiction
 > - `wotw-timeline.md` — Day-by-day chronological timeline of the 1894–1895 incursion
+> - [`earth-mars-counterstrike-investigation.md`](earth-mars-counterstrike-investigation.md) — **AU-085** Earth→Mars reply after late-19th-c. incursion (open)
 
 ---
 

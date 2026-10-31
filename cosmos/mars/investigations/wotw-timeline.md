@@ -8,6 +8,7 @@
 > - `wotw-martian-analysis.md` — Technical analysis (physiology, machines, slave theory)
 > - `wotw-martian-civilization.md` — Cross-source intelligence dossier (all four Wells texts)
 > - `wotw-telepathic-purge.md` — Telepathic purge motif across Mars fiction
+> - [`earth-mars-counterstrike-investigation.md`](earth-mars-counterstrike-investigation.md) — **AU-085** open: Earth→Mars reply after late-19th-c. incursion (Civil War→WWII; Serviss encode)
 
 ---
 
@@ -412,6 +413,8 @@ The Martians already had fighting-machines that could stride 100 feet tall at ex
 **Why build a flying-machine?**
 
 Not for combat — they didn't need it. Not for colonization — they weren't settling. The flying-machine was being built to **leave**. It was their ticket home. And they died before they could use it.
+
+**AU-085 addendum (Earth leftovers):** Once abandoned, that **nearly finished** flyer — already tested in Earth’s denser air; still present for Epilogue sight-seers beside other Martian machines — is a **very significant, very possible** seed for human reverse-engineering and a later Earth→Mars **counterstrike**. Hiding such kit from nearly all humans is **less** plausible than using it; over-suppression can backfire into total erasure of the war’s memory. See [`earth-mars-counterstrike-investigation.md`](earth-mars-counterstrike-investigation.md) §1.4–1.5.
 
 Under the slave theory: these were laborers sent to prepare a foothold and return. But the blood-feeding was never part of the mission plan — it was the thing that destroyed it.
 

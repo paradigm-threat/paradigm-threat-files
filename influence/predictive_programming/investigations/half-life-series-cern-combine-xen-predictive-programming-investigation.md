@@ -107,6 +107,12 @@ The game **does not tell you which giant**. Scientist bark and lore file Xen und
 
 If audiences accept **“Xen = alien dimension far away”**, they will not recognize **gas-giant interior photography** when it surfaces in **science press**, **probe imagery**, or **remote-view** clusters. Fiction **trains the eye** on fantasy biology and **mislabels the address**. The **geometry** — hollow shell, captured moon, portal on rock — is shown **accurately enough to recognize later**, wrapped in **wrong coordinates**.
 
+### 2.2 HECU / M1A1 Abrams on Xen — secret-war dual motive (AU-085)
+
+**Documented:** The **HECU** enters Black Mesa to **contain** the outbreak **and** **silence witnesses**. **M1A1 Abrams** tanks fight topside; the **Xen finale** shows **destroyed Abrams / Marines / aircraft on the far side** during the G-Man epilogue ([Abrams — OverWiki](https://www.combineoverwiki.net/wiki/M1A1_Abrams); [Xen](https://half-life.fandom.com/wiki/Xen)).
+
+**Author (AU-085):** same dual motive as the Earth↔Mars **secret war** — project **heavy force** through the aperture **and** erase knowledge. Rulers need not be a Martian species; they can be **humans who could reach the far node**. Full lock: [Earth→Mars counterstrike §1.7–1.8](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md). Reader essay: [*The Secret War*](/cosmos/mars/the-secret-war.md).
+
 ---
 
 ## 3. CERN, portals, and site cosmology (Documented links + Speculative read)
@@ -460,10 +466,12 @@ Same **franchise containment** grammar as [*Matrix* “Not Like This”](matrix-
 | [Hollywood two-camp](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | NSA camp taxonomy |
 | [Matrix containment](matrix-not-like-this-containment-investigation.md) | Sequel containment pattern family |
 | [CERN–Mars gateway dossier](/science/cern_portal/investigations/cern-mars-quantum-gateway-investigation.md) | Ring terminal thesis |
+| [*The Secret War*](/cosmos/mars/the-secret-war.md) | Reader essay — AU-085; Abrams/HECU dual motive in plain prose |
+| [Earth→Mars counterstrike](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md) | AU-085 technical companion |
 
 ---
 
-*Last updated: 2026-07-18*
+*Last updated: 2026-10-31*
 
 Keywords: #HalfLife #HalfLife2 #Combine #Xen #CERN #GMan #PredictiveProgramming #NSA #Containment #Portal #Borealis #HalfLifeAlyx #Transhumanism #ParadigmThreatFiles #VideoGames #Borg #Mars #WarOfTheWorlds
 

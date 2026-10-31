@@ -496,6 +496,7 @@ Registry: **[AU-084](/history/chronology/investigations/author-unique-theories.m
 8. Fit: ~6ft bipeds ride **fetal-curled** in ~4ft hosts; suit mediates senses/locomotion; "would have broken every bone" standing bare = never meant to leave the suit (**Author**).
 9. Pre-feed hooting = **anticipation / addict craving**, not mere breath-prep; cheerful post-capture hoot = euphoria (**Author**; invariable hoot + cheerful tone Documented; narrator's "expiration of air" gloss Documented). Spielberg blood-bath / tentacle-as-cannula are optional PP joins on the same blank (**Author**).
 10. *Half-Life 2* **Stalkers** = PP demo of the same high-tech transhuman slavery as the WotW worker/host riders — build/serve or die; body-as-equipment (**Author** rhyme; Stalker conversion Documented in HL2 lore).
+11. **Secret Earth↔Mars politics/war (AU-085)** — flyer seed; canal-kill; HL1 Abrams/HECU; humans with Mars reach; planet-as-base; **MFEE may be Earth-ordered** (2nd discharge overlooked as “consequence”); breakaways = **1° political**, never isolation — **[§1.7–1.11](earth-mars-counterstrike-investigation.md)**.
 
 ## Questions to clarify, verify, or debunk
 
@@ -505,10 +506,13 @@ Registry: **[AU-084](/history/chronology/investigations/author-unique-theories.m
 | Any period press on Natural History Museum "Martian" specimen or drawings; any mention of biped remains exhibited beside them | Documented museum culture vs pure fiction frame; tests side-by-side filing |
 | Neural / sensory interface implied by "wearing different bodies … as men wear suits of clothes" vs fetal curl packing | Strengthens Matrix-style jack reading without claiming Wells drew it |
 | Crystal Egg white translucent bipeds vs cylinder siliceous bipeds — same caste or different? | Livestock cover on Mars vs dead operators in cylinders |
+| Any Documented residue of an Earth→Mars retaliatory op 1865–1945 (beyond Serviss pulp)? | Opens/closes [AU-085 counterstrike](earth-mars-counterstrike-investigation.md) Lane B |
 
 ---
 
+**Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md) — not-redacted Wells + host/occupant hinge into the Earth↔Mars secret-war frame (**AU-085**).
+
 Keywords: #Wotw #Martian #Analysis #Martians #Machines #Technical #HostBody #Bipeds #ProvisionsCover
 
-*Last updated: 2026-10-30*
+*Last updated: 2026-10-31*
 

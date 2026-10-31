@@ -767,6 +767,8 @@ For more on World War 2, check out my [other article](/history/chronology/histor
 
 ## Reading "War of the Worlds"
 
+**Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md) — AU-085 “this explains everything” synthesis: not-redacted Wells, Primrose Hill flyer, Serviss counterstrike, canals turned off, ships that never returned, HL1 Abrams/HECU, Marvel 2004 NSA → 2015 CIA brand flip. Technical companions: [counterstrike investigation](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md); [WotW analysis](/cosmos/mars/investigations/wotw-martian-analysis.md).
+
 The story "The War of the Worlds" was a real event that occurred on earth many times.
 **Author lock (updated):** the **1898 book text was not redacted.** Apparent contradictions (fungoid “Martians” vs ~6ft silicious bipeds labeled “provisions”; no digestive system vs “food”) resolve on a **detailed read** — host bodies vs occupants, museum silence, narrator never saw bipeds alive — not by cutting a confession from the manuscript. See [bipeds as occupants](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover). Wells remains a compromised / plagiarist-lane channel for managed disclosure ([Florence Deeks](https://en.wikipedia.org/wiki/Florence_Deeks)); that is not the same claim as “pages were scrubbed.”
 Until Wells stepped in, nearly all fictitious and non-fiction accounts of "Men from Mars"

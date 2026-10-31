@@ -10,6 +10,7 @@
 > - `wotw-martian-civilization.md` — Cross-source intelligence dossier (all four Wells texts)
 > - `wotw-telepathic-purge.md` — Telepathic purge motif across Mars fiction
 > - `wotw-timeline.md` — Invasion chronology
+> - [`earth-mars-counterstrike-investigation.md`](earth-mars-counterstrike-investigation.md) — **AU-085** post-incursion reply + **Author open:** MFEE shot **ordered from Earth** (2nd discharge misread as mere consequence); breakaways = **1° political** link, not isolation
 > - [`death-on-mars-analysis.md`](../death-on-mars-analysis.md) — Original summary of Brandenburg's book (no copyrighted full text in repo)
 
 ---

@@ -1,13 +1,13 @@
 # Investigation: NSA 2001–2005 Declassification Offensive — *Pentagon Papers* (2003), Tonkin, Mars RV, and the Pre-Obama Bunker
 
-> **TL;DR:** Treat **2001–2005** (bleeding into **2006**) as a **concentrated NSA antibody declassification offensive** kicked off by the **9/11** false-flag window and peaking culturally with FX’s ***The Pentagon Papers* (2003)** — public Ellsberg / Vietnam-truth grammar while **Hanyok** was still fighting to put **Tonkin SIGINT** on the open record (**released Nov–Dec 2005**; second installment **May 2006**). Parallel surface: **CIA Reading Room** **STARGATE** batch including [**MARS EXPLORATION, 22 May 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`Approved For Release 2000/08/08`). **Author frame:** 1990s **NSA-aligned** cinema seeded **9/11** calm; by **~2006** antibody lane **bunkers** ahead of **Obama / CIA-reign**. Watch the **2003** film → dig [**McNaughton midair / AU-059**](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md); read **Ellsberg** as historic **antibody** (insider pushed too far who turned on his masters — not a purity saint). **AU-058.**
+> **TL;DR:** Treat **2001–2005** (bleeding into **2006**) as a **concentrated NSA antibody declassification offensive** kicked off by the **9/11** false-flag window and peaking culturally with FX’s ***The Pentagon Papers* (2003)** — public Ellsberg / Vietnam-truth grammar while **Hanyok** was still fighting to put **Tonkin SIGINT** on the open record (**released Nov–Dec 2005**; second installment **May 2006**). Parallel surface: **CIA Reading Room** **STARGATE** batch including [**MARS EXPLORATION, 22 May 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`Approved For Release 2000/08/08`). **Comics aisle evidence:** Marvel ***Secret War*** (**Apr 2004 → Dec 2005**, with delays) = **NSA-aligned** sin-eater / Fury smash deposit in the same window; **2015 *Secret Wars*** = later **CIA** brand containment (§6.1). **Author frame:** 1990s **NSA-aligned** cinema seeded **9/11** calm; by **~2006** antibody lane **bunkers** ahead of **Obama / CIA-reign**. Watch the **2003** film → dig [**McNaughton midair / AU-059**](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md); read **Ellsberg** as historic **antibody** (insider pushed too far who turned on his masters — not a purity saint). **AU-058.**
 
-**Date:** 2026-09-17  
+**Date:** 2026-09-17 (updated **2026-10-31** — *Secret War* comics evidence)  
 **Status:** Open — catalog + author thesis; declass inventory incomplete by design (expand via FOIA / NSA.gov historical releases)
 
 **Timeline:** [2000–2005: Tonkin declass fight vs Mars RV release](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight) · [CIA vs NSA / *Tron*](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [Historical antibodies](/timeline/evt-historical-antibodies)
 
-**Companions:** [McNaughton death (**AU-059**)](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md) · [NSA investigation](/governance/war/investigations/nsa-investigation.md) · [good-actor — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [Mars RV Reading Room](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) · [SIGINT spine](/governance/war/investigations/sigint-history-investigation.md) · [AU-062 §7.1 — 1996–2000 film window](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it)
+**Companions:** [McNaughton death (**AU-059**)](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md) · [NSA investigation](/governance/war/investigations/nsa-investigation.md) · [good-actor — Hanyok § II.I](/events/false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) · [Mars RV Reading Room](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md) · [09-11 investigation](/events/false_flag/investigations/09-11-investigation.md) · [SIGINT spine](/governance/war/investigations/sigint-history-investigation.md) · [AU-062 §7.1 — 1996–2000 film window](/influence/hollywood/investigations/occult-icons-mountain-of-heaven-glitch-investigation.md#71-the-19962000-nsa-window-as-we-see-it) · [AU-085 §1.12 — *Secret War* comics](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md#112-lexicon--what-secret-war-usually-means-and-why-au-085-is-the-clean-match) · [*The Sin Eater*](/governance/war/the-sin-eater.md)
 
 ---
 
@@ -19,6 +19,7 @@
 4. **NSA / FOIA declass catalog (seed)** → §4  
 5. **Mars RV as Reading Room exemplar** → §5  
 6. **1990s NSA-aligned PP → 9/11 calm** → §6  
+6a. **Comics — *Secret War* 2004–05 / *Secret Wars* 2015 contain** → §6.1  
 7. **2006 bunker / Obama-CIA return** → §7  
 8. **Author open claims → questions → TODOs** → §8–§10  
 9. **Limits / Investigator notes** (end)
@@ -80,11 +81,13 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 | **2003-03-09** | ***The Pentagon Papers*** (FX) | Mass culture | **Documented** |
 | **2003** | Outside FOIA pressure on Hanyok article | FOIA | **Documented** (NSArchive / Aid) |
 | **~2004** | Hanyok *Eavesdropping on Hell* (Holocaust SIGINT study) public via Center for Cryptologic History | NSA CCH | **Documented** (press cites) |
+| **2004-04 → 2005-12** | Marvel ***Secret War*** (Bendis / Dell’Otto) — intended bimonthly; **long delays**; **#5** ships **14 Dec 2005** | Comics / PP | Ship+delays **Documented**; **NSA-aligned** sin-eater / unauthorized-smash read **Author** — [AU-085 §1.12 B2](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md#112-lexicon--what-secret-war-usually-means-and-why-au-085-is-the-clean-match); [*The Sin Eater*](/governance/war/the-sin-eater.md) |
 | **2005-10-31** | NYT: Tonkin study still secret; release imminent | Press | **Documented** |
 | **2005-11-30** | NSA **Gulf of Tonkin** first public installment (Hanyok + SIGINT pack) | [NSA.gov](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Gulf-of-Tonkin/) | **Documented** |
-| **2005-12** | National Security Archive briefing on release | [NSAEBB 132](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/press20051201.htm) | **Documented** |
+| **2005-12** | National Security Archive briefing on release; ***Secret War* #5** same month | Press + comics | **Documented** |
 | **2006-05-30** | NSA Tonkin **second / final** installment | NSA.gov | **Documented** |
 | **2006→** | Author: antibody lane **bunkers**; CIA board recovers into Obama era | Pattern | **Author** |
+| **2015** | Marvel ***Secret Wars*** (Hickman) — Battleworld cosmic event | Comics / PP | **Documented** product; **CIA-camp containment** of 2004–05 Fury sense **Author** — [§1.12 B3](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md#112-lexicon--what-secret-war-usually-means-and-why-au-085-is-the-clean-match) |
 
 **Note on naming:** Popular speech often says “declassify Tonkin **in the Pentagon Papers**.” Strictly: *Pentagon Papers* (**1971**) and **Hanyok SIGINT** (**2005**) are **two antibody ruptures on the same lie**. This dossier treats the **2003 film** as the **bridge title** between them.
 
@@ -162,9 +165,21 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 
 ---
 
+## 6.1 Comics aisle — ***Secret War*** (2004–05) as NSA-aligned media evidence
+
+**Documented:** Bendis / Dell’Otto five-issue *Secret War* — **Apr 2004** → **#5 14 Dec 2005**; planned bimonthly, **chronic delays** ([Wikipedia](https://en.wikipedia.org/wiki/Secret_War_(comics)); [GCD](https://www.comics.org/series/19273/details/timeline/)). Plot: Nick Fury **denied** presidential authorization → unauthorized Latveria smash vs terror/tech pipeline → citywide antimatter bomb blowback → memory-wipe of hero operators → Fury exile; exit hope that what he did was **necessary**. Framed as loosely based on classified ops from an anonymous U.S. intel officer.
+
+**Author (AU-058 join):** This is **NSA-aligned predictive programming** in the **comics aisle** during the **same strength window** as the declass offensive — not a vault PDF, but the same calendar. Delays kept the **sin-eater / cross-norms / smash-terrorists-with-nuke-class-kit** lesson on the stands through **late 2005**, landing beside Tonkin Release 1. Full dual-agenda + AU-085 amnesia join: [Earth→Mars counterstrike §1.12 B2](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md#112-lexicon--what-secret-war-usually-means-and-why-au-085-is-the-clean-match). Reader essay: [*The Secret War*](/cosmos/mars/the-secret-war.md). Culture twin: [*The Sin Eater*](/governance/war/the-sin-eater.md) (*Bourne* for adults; Fury for kids).
+
+**Containment (post-window):** **2015 *Secret Wars*** (Hickman) re-owns the brand as **Battleworld** cosmic toy-multiverse — the **exact opposite** of Fury’s grounded spy story. **Author:** **CIA-camp** phrase capture after the antibody deposit (§1.12 B3). Fits §7 bunker logic: payload lands in the loud years; later product **swallows the title** so casual memory never meets the sin eater.
+
+**Tier split:** Issue dates / delays / plot beats — **Documented**. NSA production order — **not claimed**. Camp labels + delay-as-window-evidence — **Author**.
+
+---
+
 ## 7. 2006 bunker — endure the CIA return
 
-**Author chronology:** Traction peaks **2001–2005** (9/11 shock + film crest + Tonkin pack). By **2006**, with Tonkin’s **second** installment out, the antibody lane **bunkers** for the **Obama-era CIA reign**: Ayatollah continuity, **depleted-uranium** proxy-terror framing, Iran board restoration — the “biggest goal” the offensive failed to permanently kill in public opinion.
+**Author chronology:** Traction peaks **2001–2005** (9/11 shock + film crest + Tonkin pack + ***Secret War*** comics deposit). By **2006**, with Tonkin’s **second** installment out, the antibody lane **bunkers** for the **Obama-era CIA reign**: Ayatollah continuity, **depleted-uranium** proxy-terror framing, Iran board restoration — the “biggest goal” the offensive failed to permanently kill in public opinion. Later brand flips (e.g. **2015 *Secret Wars***) are the **culture** half of that crouch — contain the words, bury the lesson.
 
 **Documented adjacent:** Tonkin Release 2 = **2006-05-30**. Obama inauguration = **2009-01-20**. The **gap years** are where this dossier expects **containment**, **ridicule**, and **curriculum non-adoption** to do the work bombs and FOIA cannot.
 
@@ -218,15 +233,17 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 | [09-11-investigation.md](/events/false_flag/investigations/09-11-investigation.md) | 9/11 / WTC 7 antibody frame |
 | [sigint-history-investigation.md](/governance/war/investigations/sigint-history-investigation.md) | Spine chronology |
 | [cia-investigation.md](/governance/war/investigations/cia-investigation.md) | Infection lane / Iran / DU |
-| [hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | 90s PP threads |
-| [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-058** |
+| [hollywood-two-camp-war-investigation.md](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md) | 90s PP threads + **Secret War(s)** comics catalog rows |
+| [earth-mars-counterstrike-investigation.md](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md) | **AU-085** — *Secret War* dual agenda / 2015 CIA flip (§1.12 B) |
+| [*The Sin Eater*](/governance/war/the-sin-eater.md) | Sin-eater grammar; Fury comics-aisle twin |
+| [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-058** / **AU-085** |
 | [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — timeline crest + 2026 close |
 
 ---
 
-Keywords: #NSA #CIA #Declassification #FOIA #GulfOfTonkin #Hanyok #PentagonPapers #Ellsberg #RemoteViewing #Mars #ReadingRoom #NineEleven #WTC7 #PredictiveProgramming #Antibody #AU058 #ParadigmThreatFiles
+Keywords: #NSA #CIA #Declassification #FOIA #GulfOfTonkin #Hanyok #PentagonPapers #Ellsberg #RemoteViewing #Mars #ReadingRoom #NineEleven #WTC7 #PredictiveProgramming #Antibody #SecretWar #NickFury #SinEater #AU058 #AU085 #ParadigmThreatFiles
 
-*Last updated: 2026-09-17*
+*Last updated: 2026-10-31*
 
 ---
 

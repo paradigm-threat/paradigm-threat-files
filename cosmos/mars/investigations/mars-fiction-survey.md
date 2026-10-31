@@ -271,6 +271,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - `wotw-telepathic-purge.md` — Telepathic purge motif across Mars fiction
 - `wotw-forbidden-blood.md` — Blood-feeding as discipline collapse
 - `wotw-timeline.md` — Day-by-day timeline of the 1894–1895 incursion
+- [**Earth→Mars counterstrike (AU-085)**](earth-mars-counterstrike-investigation.md) — Serviss encode; Civil War→WWII window; lost anti-grav/DEW; open
 - [`death-on-mars-analysis.md`](../death-on-mars-analysis.md) — Brandenburg's *Death on Mars* (summary; full text not hosted)
 - [mars-earth-reincarnation-investigation.md](mars-earth-reincarnation-investigation.md) — Mars–Earth reincarnation; mass death on Mars, souls reborn on Earth, time-period correlation (open)
 - [mars-stock-market-correlation.md](mars-stock-market-correlation.md) — Mars/lunar-node correlation with Dow Jones (1896–2020); *Ares Le Mandat* appendix
@@ -290,13 +291,15 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 
 4. **Lasswitz's North Pole Martians.** *Two Planets* (1897) places Martian bases at Earth's North Pole — the same location where multiple esoteric traditions place hidden civilizations, and where anomalous phenomena have been reported. This German novel predates Wells by one year and is far less well-known in the Anglophone world. A full analysis is warranted.
 
-5. **The Serviss response.** *Edison's Conquest of Mars* (1898) — written immediately after Wells — has Martians who built the **Great Pyramid and the Sphinx**. This connects Mars literature directly to the ancient-builder hypothesis. How much did Serviss know, and where did he get the pyramid connection?
+5. **The Serviss response / Earth counterstrike.** *Edison's Conquest of Mars* (1898) — written immediately after Wells — has Martians who built the **Great Pyramid and the Sphinx**, Earth **electrical ships + disintegrators**, and a retaliatory fleet. Dedicated open investigation: [**Earth→Mars counterstrike (AU-085)**](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md) — possible real reply after late-19th-c. incursion (window Civil War→WWII; lost tech). How much did Serviss know, and where did he get the pyramid / fleet grammar?
 
 6. **Bradbury's telepathic Martians.** *The Martian Chronicles* features Martians who are telepathic, shape-shifting, and destroyed by human diseases. This combines three independently-recurring Mars-fiction motifs (telepathy, mimicry, bacterial vulnerability). Bradbury acknowledged Burroughs as his influence — but the telepathy is new. Where did that come from?
 
 7. **Dick's memory erasure.** The *Total Recall* premise — your real memories of Mars have been erased and replaced with false ones — is itself a meta-description of the fiction-as-erasure technique. Did Dick consciously understand the operation he was describing, or did he arrive at it through pattern recognition?
 
 8. **Wallace's debunking.** Alfred Russel Wallace, co-discoverer of evolution, wrote an entire book (*Is Mars Habitable?*, 1907) debunking Lowell's inhabited-Mars thesis. Why? What institutional pressure would cause a naturalist of Wallace's stature to devote a book to attacking a colleague's Mars observations?
+
+9. **Canal disappearance = Earth kill?** [AU-085](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md#16-schiaparellis-canals--we-turned-the-water-off-author): Schiaparelli/Lowell reported canals while waterworks still ran; Serviss’s counterstrike ends by smashing canal dams. Later “no canals / illusion” may mean **we turned the water off**, not that the lines were never engineered.
 
 9. **Heat ray adaptation erasure.** Wells described the Heat-Ray as *invisible*, generated in a chamber of "practically absolute non-conductivity" (capacitor-like) and projected by a parabolic mirror. Most WotW adaptations changed it to a visible sci-fi laser. The 2017 authorised sequel (*The Massacre of Mankind*) kept it invisible—published one year after Havana syndrome (2016) was attributed to directed-energy weapons. Coincidence? Was the sequel's primary function to re-insert an accurate DEW description under the guise of Wellsian fiction? See `wget/wells/massacre-of-mankind-2017-reference.md`.
 
