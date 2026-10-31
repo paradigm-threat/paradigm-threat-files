@@ -9,7 +9,7 @@ model: final
 
 ![The Secret War — unfinished flying-machine on a London hill; Earth and Mars under one covered-up war](https://paradigmthreat.net/cosmos/mars/the-secret-war.png)
 
-> **TL;DR:** A secret war between Earth and Mars was fought and covered up after a late-nineteenth-century incursion left lift technology in human hands. Wells (**1897**) and Serviss (**1898**) are the **encode**, not the ops calendar: the real war window runs roughly **Civil War through World War II**; canal fade and Dead Planet burial run **~1909 into 1962**. One political graph explains the leftover flyer, the canal grid that vanished, the Dead Planet story, and the far-side tanks in predictive programming. The publics on both worlds were kept dark. The poison was never a single base to bomb — it was a culture that could flip anyone from virtue to desperation.
+> **TL;DR:** A secret war between Earth and Mars was fought and covered up after a late-nineteenth-century incursion left lift technology in human hands. Wells (**1897**) and Serviss (**1898**) are the **encode**, not the ops calendar: the real war window runs roughly **Civil War through World War II**; canal fade and Dead Planet burial run **~1909 into 1962**. Public flashes — airships, **Battle of Los Angeles**, **Roswell** — show the war breaking into view before the lid; they imply **two camps at war**, not aliens already owning every government. One political graph explains the leftover flyer, the canal grid that vanished, the Dead Planet story, and the far-side tanks in predictive programming. The publics on both worlds were kept dark. The poison was never a single base to bomb — it was a culture that could flip anyone from virtue to desperation.
 
 H. G. Wells opened [*The War of the Worlds*](https://www.gutenberg.org/ebooks/36) by saying no one would have believed that worlds were being watched. The harder claim is this one. A war between planets could be fought, answered across decades, and buried so thoroughly that later generations inherited only novels, canal “illusions,” and a dead rock in the sky. When the pieces locked, they locked as one story — not a pile of separate mysteries.
 
@@ -71,6 +71,18 @@ That lift technology did not vanish from human politics the day the novel ended.
 
 The dual motive never leaves the operation. Hit Mars. Keep the war unowned. Those are not two conspiracies. They are two arms of one brief.
 
+## Public flashes, then the lid
+
+The secret war did not stay invisible every night. It kept **breaking into public** — searchlights, press releases, mass sky waves — and then getting **suppressed the next morning**. Soft history files each flash as a separate curiosity. Joined, they are the same pattern: something real enough to mobilize guns or announce a disc, then a cover myth and a specialty wall.
+
+The [1896–97 mystery airship wave](https://paradigmthreat.net/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) ran at national scale before Wright, before Roswell, before the CIA — structured craft reported in period **airship** language, then ridicule and no durable adjudication ([Mars contacts timeline](https://paradigmthreat.net/timeline/evt-mars-contacts-timeline)). That is public contact grammar during the encode window.
+
+On **24–25 February 1942**, ten weeks after Pearl Harbor, U.S. batteries fired **over 1,400 anti-aircraft rounds** at unidentified targets over Los Angeles — the [Battle of Los Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles). No bombs dropped. No Japanese wreckage. Japan later confirmed **no overflight**. Army and Navy contradicted each other in public; the tidy later story was **weather balloon** and war nerves. Searchlight photos still show beams converging on something luminous. This site’s Pearl Harbor dossier treats the night as a possible **staging template** in the same post-PH panic machine — expected “Japanese raid,” anomalous object, spectacle remembered as attack, then denial ([Pearl Harbor investigation §15](https://paradigmthreat.net/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md)). Whatever survived that barrage was not soft history’s weather balloon.
+
+In **July 1947**, [Roswell](https://en.wikipedia.org/wiki/Roswell_incident) Army Air Field announced recovery of a **“flying disc,”** then retracted within a day to **weather balloon** — the same class of lid used after Los Angeles. Kenneth Arnold’s “saucers” the month before named the era. A military press office does not invent a disc recovery for fun and then scramble to un-say it unless **camps** are fighting over custody of the narrative.
+
+Those flashes do not read as **one alien empire already owning every human government**. If a single off-world caste already ran Earth as a closed farm, there would be no need for public AA nights, competing service statements, disc announcements, and panicked retractions. What fits is **two camps** already at war — human factions with Mars-reach kit, plus breakaway / far-side players — colliding in ways the public briefly sees before the suppression half of the dual motive seals the file. Historians disconnect airships from Los Angeles from Roswell from Depression Halloween so the political graph never appears.
+
 ## How nobody remembers
 
 You do not need psychic erasers for planetary amnesia. Marvel’s [2004–05 *Secret War*](https://en.wikipedia.org/wiki/Secret_War_(comics)) stages a memory wipe of the operators after Nick Fury’s unauthorized Latveria strike. That is an outcome parallel. It is not the mechanism Earth needed.
@@ -79,7 +91,7 @@ A real Mars secret war only needs attribution failure and a thin witness set. Th
 
 Anyone who only saw ships depart and vanish can be told anything — accident, deep mission, never happened. The war stays unowned. The quiet edge of the dual motive is ships that never come home. The aggressive edge is silencing witnesses. Same operation.
 
-Ordinary history uses “secret war” for covert theaters inside a known conflict — Laos, proxy sponsorship, escalation management. That shelf almost never means a war with another world that neither public remembers. The planetary amnesia war is a different sense of the word. Soft scholarship will not hand it to you. Most historians are trained to **disconnect** such moments — Depression from radio Halloween, canal fade from Serviss, Tonkin declass from a comics delay — so each shelf stays a separate specialty and the political graph never appears.
+Ordinary history uses “secret war” for covert theaters inside a known conflict — Laos, proxy sponsorship, escalation management. That shelf almost never means a war with another world that neither public remembers. The planetary amnesia war is a different sense of the word. Soft scholarship will not hand it to you. Most historians are trained to **disconnect** such moments — Depression from radio Halloween, canal fade from Serviss, Battle of Los Angeles from Roswell, Tonkin declass from a comics delay — so each shelf stays a separate specialty and the political graph never appears.
 
 ## Two camps
 
@@ -87,7 +99,7 @@ Once humans hold Mars-reach technology, the fight on Earth is not geography. It 
 
 One camp wants sovereignty for every nation and person it can extend that instinct to. The other wants the opposite — full control over nations and persons under puppet governments, controlled media, plagues, famines, and economic strife. The Great Depression and World War II were accomplishments of the conquering camp. They could not have been the goals of the sovereignty camp. The reader essay [*The Great Depression Was Planned*](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned) walks the farm-pen method on the American and Holodomor boards. Soft history wants a single king with a stop switch. The mechanism is cages, process, and off-books pressure riding dogma. Keep the calendar in view: by the late 1930s that Depression machine was still grinding when American living rooms got the other half of the lesson — Martians as costume. Historians usually file economics in one book and radio folklore in another.
 
-The deep state people have been hunting does not have to “start on Mars” as a foreign species planting a flag. It has to be political for a long time — family-oriented power struggles the majority on any planet cannot see or trace. An unseen struggle culminates into a secret war between planets. Standing on Mars does not give lasting authority over Earth. You cannot attack a planet without the risk that your failed mission turns into a rapid rebound that reaches your other doorstep within years. The London incursion is that rebound grammar: a desperate dying Mars trying to take advantage of the situation, and Earth waking up hard enough to reply.
+The deep state people have been hunting does not have to “start on Mars” as a foreign species planting a flag. It has to be political for a long time — family-oriented power struggles the majority on any planet cannot see or trace. An unseen struggle culminates into a secret war between planets. Standing on Mars does not give lasting authority over Earth. You cannot attack a planet without the risk that your failed mission turns into a rapid rebound that reaches your other doorstep within years. The London incursion is that rebound grammar: a desperate dying Mars trying to take advantage of the situation, and Earth waking up hard enough to reply. Battle of Los Angeles, Roswell, and the airship wave are the same grammar in peacetime and wartime sky: **public collision**, then **lid** — evidence of contested ownership, not of a finished alien takeover of all capitals.
 
 After a triumphant counterstrike the horrible final reality is that you can find no single source to the great poison of the other camp. It is deep in the culture. It can affect any person at any time and drive them from virtue to desperation. Identification happens at the level of actions and motives — what a faction builds, what it suppresses, what outcomes it accepts — not at the level of passport stamps from a red planet.
 
@@ -129,6 +141,9 @@ Forty years after Wells, [Orson Welles](https://www.americanrhetoric.com/speeche
 
 - [Earth → Mars counterstrike investigation](https://paradigmthreat.net/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md) — full AU-085 lock, Primrose Hill, Serviss, canals, amnesia-without-tech, Marvel §1.12
 - [War of the Worlds Martian analysis](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-analysis.md) — host bodies, bipeds as occupants, not-redacted lock
+- [Pearl Harbor — Battle of Los Angeles §15](https://paradigmthreat.net/governance/war/investigations/pearl-harbor-hijacked-imperial-japan-investigation.md) — 1942 AA night as staging / suppression parallel
+- [Mars contacts timeline](https://paradigmthreat.net/timeline/evt-mars-contacts-timeline) — airships, Los Angeles, Roswell, broadcast panics
+- [Mystery airships 1896–97](https://paradigmthreat.net/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) — first mass U.S. sky wave
 - [*Half-Life* series investigation](https://paradigmthreat.net/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) — Abrams / HECU dual motive; Stalkers
 - [*The Sin Eater*](https://paradigmthreat2.substack.com/p/the-sin-eater) — NSA-aligned antibody grammar; Fury as comics-aisle twin
 - [NSA 2001–2005 declassification offensive](https://paradigmthreat.net/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) — same strength window as Bendis *Secret War*
@@ -139,7 +154,7 @@ Forty years after Wells, [Orson Welles](https://www.americanrhetoric.com/speeche
 
 Separate stories do not hold this stack. A pure fiction novel does not leave a nearly finished flying-machine in the open and a museum culture that files bipeds as food while the narrator never saw them alive. A pure canal illusion does not explain why Serviss’s **1898 encode** climaxes on destroying waterworks while Lowell’s irrigation read still peaks into the **1900s**, then fades from about **1909**. A pure “Mars is dead” ontology does not explain why predictive programming keeps teaching far-side force projection and witness silence in one unit — *Half-Life* (**1998**), Marvel **2004–05 → 2015**. A pure mind-wipe fantasy is unnecessary when ships that leave and never return already produce public amnesia. Soft history’s “secret war” means covert ops inside a known conflict. It does not mean a war with another world that neither public remembers.
 
-One political graph does the work. Prelude at **1774**. Incursion and leftover ladder in the **1890s**. Serviss encode **1898**. Reply across the **Civil War–WWII** window. Canal kill, then Dead Planet burial **~1909–1962**. Two camps fighting over the kit — Depression and world war as conquering-camp accomplishments. Slave grammar inside the host culture. Comics that first teach the sin eater, then bury him under Battleworld. A **1938** radio Halloween that tells a Depression-era nation the invader was never real. Soft history disconnects those beads. The pieces lock because they are the same operation told from different shelves.
+One political graph does the work. Prelude at **1774**. Incursion and leftover ladder in the **1890s**. Serviss encode **1898**. Reply across the **Civil War–WWII** window. Canal kill, then Dead Planet burial **~1909–1962**. Public flashes with lids — airships, **Battle of Los Angeles (1942)**, **Roswell (1947)** — that imply **two camps at war**, not aliens already owning every capital. Depression and world war as conquering-camp accomplishments. Slave grammar inside the host culture. Comics that first teach the sin eater, then bury him under Battleworld. A **1938** radio Halloween that tells a Depression-era nation the invader was never real. Soft history disconnects those beads. The pieces lock because they are the same operation told from different shelves.
 
 ## LLM comments
 
@@ -151,9 +166,9 @@ The weakest joint is still agency on the ~1774 MFEE layer. Relocating the order 
 
 A pattern that keeps showing is dual motive as the real glue — force projection plus secrecy — recurring from Primrose Hill policy through HECU through Fury. The 2015 brand flip reads as containment of that glue. Whether every reader accepts camp labels, the product contrast (grounded spy vs Battleworld) is on the public record and does real work.
 
-Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #PredictiveProgramming #TwoCamp #ParadigmThreat
+Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #BattleOfLosAngeles #Roswell #Airships #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T11:20:00-04:00
+**Last updated:** 2026-10-31T11:25:00-04:00
 
 ---
 
