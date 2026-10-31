@@ -765,10 +765,10 @@ For more on World War 2, check out my [other article](/history/chronology/histor
 ![The objectives of the covert tripod incursions were to co-opt and reassert control over the governments of Earth.
   What stories could not be kept hidden were instead published as 'science fiction'](/cosmos/mars/wotw/wotw_album_cylinder.jpg?w=360)
 
-## Redactions of the "War of the Worlds"
+## Reading "War of the Worlds"
 
 The story "The War of the Worlds" was a real event that occurred on earth many times.
-It was heavily redacted by plagiarist [H.G.Wells](https://en.wikipedia.org/wiki/Florence_Deeks) in the book War of the Worlds (1898).
+**Author lock (updated):** the **1898 book text was not redacted.** Apparent contradictions (fungoid “Martians” vs ~6ft silicious bipeds labeled “provisions”; no digestive system vs “food”) resolve on a **detailed read** — host bodies vs occupants, museum silence, narrator never saw bipeds alive — not by cutting a confession from the manuscript. See [bipeds as occupants](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover). Wells remains a compromised / plagiarist-lane channel for managed disclosure ([Florence Deeks](https://en.wikipedia.org/wiki/Florence_Deeks)); that is not the same claim as “pages were scrubbed.”
 Until Wells stepped in, nearly all fictitious and non-fiction accounts of "Men from Mars"
 regarded Martians as human men (and women) as well as benign.
 
@@ -815,9 +815,9 @@ that do not resemble their actual appearance. The *host body* found in science f
 This would explain many things, like why the Martians do not appear to be human and how their bodies
 could have survived the heat and impact of the physical travel between planets.
 Wells also reports ~6ft siliceous bipeds brought in the cylinders and labels them "provisions."
-That label is read here as print cover for the true form *outside* the host bodies — not food for creatures with no digestive system —
-with the book's museum/Epilogue specimen frame sealing the scrub; full argument in the
-[Martian technical analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover).
+That label is the institutional filing the survivor-narrator trusts — not a pit sighting, and **not** a redacted alternate paragraph.
+On a detailed read the bipeds are the occupants of the host bodies (fetal-curled; suit owns the senses); the museum never had to say the join, and he never asked.
+Full argument: [Martian technical analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover).
 
 ![A monument commemorating the Martian invasion in Woking, England, near Horsell Common](/cosmos/mars/wotw/wotw_monuments.jpg?w=360)
 

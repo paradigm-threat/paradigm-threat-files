@@ -39,7 +39,7 @@
 - **Documented:** Wells says their preference for men as nourishment is "partly explained" by "victims they had brought with them as **provisions from Mars**": bipedal creatures with flimsy siliceous skeletons, ~6 feet tall, round erect heads, large eyes in flinty sockets — 2–3 per cylinder, "all killed before earth was reached" ([corpus](wotw.md)). The blood-injection protocol is described only with **human** victims on Earth. The fungoid Martians have **no digestive system** ("Entrails they had none") — they do not eat, much less digest.
 - Enormous quantities of a **ruddy-brown fluid** spurted from damaged machines (likely the blood supply)
 - **Critical:** Wells never describes the Martians feeding on any non-human terrestrial animal — no cattle, horses, dogs, or wildlife. On Earth, they fed exclusively on **human blood.** Nowhere in Wellsian literature do Martians attempt to use animal blood as a substitute.
-- **Author (supersedes the old "eaten rations" project reading):** Calling the cylinder bipeds "provisions" is the **print cover** that severs the suit/occupant link. Creatures with no digestive system cannot "eat" rations; the label files the **true form outside the host bodies** as livestock so the reader never connects bipeds ↔ occupants. Full argument: [Bipeds as occupants / print cover](#bipeds-as-occupants--the-provisions-cover) below.
+- **Author (supersedes the old "eaten rations" project reading):** Calling the cylinder bipeds "provisions" is institutional filing that severs the suit/occupant link for a casual reader — **not** a cut from a fuller manuscript. Creatures with no digestive system cannot "eat" rations; the label files the **true form / occupants** as livestock so the reader never connects bipeds ↔ hosts. Full argument: [Bipeds as occupants](#bipeds-as-occupants--the-provisions-cover) below.
 - **Antigen compatibility implication:** Cross-species blood transfusion causes severe, usually fatal **hemolytic immune reactions** due to antigen incompatibility. Red blood cell surface antigens differ between species; introducing incompatible blood triggers rapid destruction of transfused cells, organ failure, and death. If the Martians injected human blood directly into their veins and it **sustained** them rather than killing them, their circulatory biology must have been **antigen-compatible with human blood.** This is strong evidence that whoever occupied the host bodies was **biologically human** — or so recently diverged from human stock that blood-group antigens had not yet differentiated. Under the bipeds-as-true-form reading, that compatibility points at the bipeds themselves as human-stock, not Martian livestock.
 
 ### Reproduction
@@ -245,7 +245,7 @@ The great flying-machine at Primrose Hill — the final and largest place the Ma
 
 The Martians had **no bacteria on Mars** and no immune system adapted to terrestrial pathogens. Their sole method of sustenance — injecting fresh human blood directly into their veins — was the precise mechanism of their doom. "Directly they drank and fed, our microscopic allies began to work their overthrow."
 
-Under the slave theory: the Martians were told to use human blood for sustenance. (The blood-injection protocol appears exclusively in connection with human victims. The cylinder bipeds Wells labels "provisions" are read here as the **true form outside host bodies** — a print cover, not eaten rations; see [Host Body Theory](#the-host-body-theory-what-was-inside-the-martians).) But human blood carried **terrestrial bacteria** against which they had zero resistance. Every feeding was a death sentence. Once injured Martians required more blood to heal or sustain themselves, the infection rate would have accelerated.
+Under the slave theory: the Martians were told to use human blood for sustenance. (The blood-injection protocol appears exclusively in connection with human victims. The cylinder bipeds Wells labels "provisions" are read here as the **occupants of the host bodies** — institutional filing, not eaten rations; see [Host Body Theory](#the-host-body-theory-what-was-inside-the-martians).) But human blood carried **terrestrial bacteria** against which they had zero resistance. Every feeding was a death sentence. Once injured Martians required more blood to heal or sustain themselves, the infection rate would have accelerated.
 
 Note the deeper implication: the blood-feeding **worked as nutrition.** Cross-species blood transfusion causes fatal hemolytic reactions — antigen incompatibility destroys foreign red blood cells within minutes. The Martians injected human blood and were sustained by it. This means their circulatory system was **antigen-compatible with human blood**, which is only possible between members of the same species or very recently diverged populations. The bacteria killed them; the blood itself did not. They were biologically human.
 
@@ -303,11 +303,13 @@ The **actual Martian** — the occupant — was inside. And no witness in Wells'
 
 **Documented:** Wells reports "shrivelled remains that had fallen into human hands" — bipeds ~6 feet tall, flimsy siliceous skeletons, round erect heads, large eyes in flinty sockets; two or three per cylinder; "all were killed before earth was reached"; filed as "provisions from Mars."
 
-**Author:** those bipeds are the **actual beings outside the host bodies**, not food. The invasion brought operators and suits; the operators died in transit (or before emergence), so witnesses saw empty or sealed fungoid hosts and separately catalogued biped corpses. Labeling the corpses "provisions" is the cheapest way to hide the *Independence Day* split entirely: if the true form is "livestock," nobody asks what was supposed to wear the suit.
+**Documented (epistemic source):** the narrator **never saw** these bipeds. From the pit he saw only the **4ft fungoid** forms and machines. The biped paragraph sits in a **retrospective** digression that mixes eyewitness memory with later science ("dissection has since shown," Professor Howes, Philips). Knowledge of the bipeds is **100% institutional** — remains that "fallen into human hands," described after the war. He trusts that filing the way a survivor trusts the museum and the anatomists.
 
-That reading also resolves the digestive contradiction: organisms with **no digestive system** do not bring edible rations. The blood-injection protocol on Earth is host-body life support; the bipeds never needed to be eaten.
+**Author:** those bipeds are the **actual Martians who occupy the host bodies**, not a slave/food species. The "food" / "provisions" assumption was **way off** — it is the public story that follows if the museum (and allied science) never tells the public the suit/occupant join. Display fungoid hosts as "the Martians" and bipeds as unrelated livestock/provisions — even **side by side** — and survivors who never saw living bipeds will never invent the connection themselves. Labeling the corpses "provisions" is the cheapest way to hide the *Independence Day* split: if the true form is "livestock," nobody asks what was supposed to wear the suit.
 
-The witness-narrator may never have made the connection. If anyone did — scientists handling remains, military officers, editors — the finished print seals it in the [museum / Epilogue frame](#what-was-redacted).
+That reading also resolves the digestive contradiction: organisms with **no digestive system** do not bring edible rations. The blood-injection protocol on Earth is host-body life support; the bipeds never needed to be eaten. Occupants who lived inside host bodies also need not wear clothes — matching bare shrivelled remains vs clothed tall-thins in the [1984 Mars RV](/influence/controlled_opposition/investigations/cia-reading-room-mars-exploration-1984-rv-investigation.md).
+
+**Fit (Author lock):** a ~6ft biped does **not** stand upright inside the ~4ft-diameter host. Occupants ride **curled / fetal**, while the suit takes over locomotion and the sensory channel (eyes, tympanum, tentacle-hands) — Matrix-style body jack: the host body's five-or-six sense surface is what the world sees; the biped inside never needs to uncurl. Six feet of stature packs into a four-foot round bulk when folded. Wells’s line that standing upright on Earth “would have broken every bone” then reads as confirmation they were **never meant to leave the host bodies** — bare bipeds on Earth are already a failed or dead state (killed in transit / recovered outside), not an intended operating mode. The museum never has to ask this if bipeds are filed as food instead of occupants.
 
 ### Why No One Saw the Occupant (alive)
 
@@ -318,11 +320,11 @@ Wells records that the Martians were observed:
 
 Critically: the narrator describes looking at dead Martians and seeing "red flesh and glittering metal" inside damaged fighting-machine hoods. But he never describes **opening** a Martian body to find what was inside. The "autopsies" described in the text are external examinations. When scientists studied the dead Martians, they studied the **host body** — the "oily brown skin," the tentacles, the "brain."
 
-**Author:** the occupants were already accounted for under another label — the cylinder bipeds filed as provisions. Studying the suit as the organism, and the bipeds as food, keeps the two-layer system invisible. *Independence Day* later stages the public opening Wells never performed; Wells stages the cover by splitting suit and occupant into two unrelated inventory lines.
+**Author:** the occupants were already accounted for under another label — the cylinder bipeds filed as provisions. Studying the suit as the organism, and the bipeds as food, keeps the two-layer system invisible **in the printed text as written** — no cut required. *Independence Day* later stages the public opening Wells’s survivor account never performs.
 
 ### The Occupant Form: Cylinder bipeds (primary); grey atrophy (secondary PP)
 
-**Primary Author ID:** the ~6ft siliceous bipeds — round erect heads, large eyes in flinty sockets, feeble musculature that "would have broken every bone" standing on Earth — are the true form. Weak Earth-gravity frames match operators who lived in suits or low-g habitats and died before walking Earth bare.
+**Primary Author ID:** the ~6ft siliceous bipeds — round erect heads, large eyes in flinty sockets, feeble musculature that "would have broken every bone" standing on Earth — are the true form. They operate **fetal-curled inside** the ~4ft host; the suit owns the senses and movement. Weak skeletons match a species **never designed to stand bare on Earth** — low-g / in-suit life; transit deaths recovered outside are already outside the intended envelope.
 
 **Secondary PP grammar (*ID4* / grey reports):** if some lineages spent generations *inside* host bodies without exiting, atrophy toward enlarged cranium, large eyes, vestigial limbs, and pale skin still maps to mid-20th-century "grey" reports. That morphology is optional encoding of long-term suit habitation — **not** the primary WotW occupant ID in this dossier. The printed text already supplied the occupant body and buried it as rations.
 
@@ -364,21 +366,23 @@ This is the host body concept rendered explicitly. Burroughs set it on Mars. The
 
 The pattern is consistent: across a century of Mars and alien fiction, the concept of **a smaller intelligence operating a larger biological or biomechanical body** recurs with remarkable persistence. Each iteration adds detail. None acknowledge the source.
 
-### What Was Redacted
+### What Stayed Unsaid (not a manuscript redaction)
 
-Most witnesses to the 1898 event (under the framework where WotW describes a real event) saw the host bodies and assumed they were the Martians. The scrub in the finished book is three layers:
+**Author lock:** *The War of the Worlds* **was not redacted.** Contradictions resolve on a **detailed read** of the printed text. Three layers that look like a scrub are already present without cutting anything:
 
-1. **Suit as organism** — Wells describes the fungoid 4ft form as the Martian. That is what most witnesses believed.
-2. **True form as "provisions"** — the ~6ft bipeds that "had fallen into human hands" are filed as food from Mars, so nobody reads them as occupants found dead outside the suits.
-3. **Museum / Epilogue seal** — Book II, Chapter X (*The Epilogue*, restored in [corpus](wotw.md)) moves anatomy into respectable specimen culture: *"everyone is familiar with the magnificent and almost complete specimen in spirits at the Natural History Museum, and the countless drawings that have been made from it; and beyond that the interest of their physiology and structure is purely scientific."* The witness-narrator disclaims comparative physiology, defers to Carver, and tells the general reader the rest is not their business. **Author:** that is where any suit/occupant connection dies in final print — either the witness never knew, or the connection was removed in the museum ending.
+1. **Suit as organism** — Wells describes the fungoid 4ft form as the Martian. That is what most eyewitnesses (including the narrator at the pit) actually saw.
+2. **True form as "provisions"** — the ~6ft bipeds that "had fallen into human hands" are filed as food / a human-slave livestock species from Mars, so a casual reader never joins them to the hosts.
+3. **Museum / Epilogue — institutional trust** — Book II, Chapter X (*The Epilogue*, restored in [corpus](wotw.md)) moves anatomy into respectable specimen culture: *"everyone is familiar with the magnificent and almost complete specimen in spirits at the Natural History Museum, and the countless drawings that have been made from it; and beyond that the interest of their physiology and structure is purely scientific."* The narrator disclaims comparative physiology, defers to Carver, and tells the general reader the rest is not their business.
 
-The host-body finding would be the single most sensitive piece of intelligence from the invasion: it reveals that the "Martians" are a **two-layer system** — a technological species that builds and pilots biological vehicles. That implies:
+**Author conclusion:** the food assumption was never a pit observation. The narrator is a survivor **trusting the museum and later science** with remains he never saw alive. The museum never said the suit/occupant join; he never asked. Shipping **this** public print already keeps the secret **without anyone realizing a secret was kept**. No deleted confession is required. Silence alone suffices.
+
+The host-body finding would still be the single most sensitive piece of intelligence from the invasion: a **two-layer system** — fragile occupants piloting biological vehicles. That implies:
 - Their actual form is fragile and dependent on technology
 - Their host bodies can be analyzed and potentially replicated
 - They can be fought by targeting the host body's life-support systems rather than the occupant
 - Occupants might be captured alive by disabling the host — or identified among the "provisions" remains already in human hands
 
-Every piece of this intelligence would be classified at the highest level. Wells, writing the approved disclosure version, described the host body as if it were the organism and the bipeds as if they were rations. ***Independence Day* (1996)** undoes that scrub for a mass audience: the autopsy **extracts the occupant**. Author read in [Everything in Independence Day Is True](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md): Wells’s closed exterior study plus the provisions label is the cover-up; Emmerich’s open suit is the reveal.
+***Independence Day* (1996)** stages for a mass audience what Wells’s printed survivor account never performs: the autopsy **extracts the occupant**. Author read in [Everything in Independence Day Is True](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md): Wells’s closed exterior study plus the provisions filing is a **self-sealing public story**; Emmerich’s open suit is the later reveal — not proof that a join paragraph was cut from 1898.
 
 > See [Mars hub](/cosmos/mars/page.md) for the Independence Day/host body connection.
 
@@ -453,25 +457,32 @@ Wells's earliest Mars essay speculated on Martian evolution and intelligence, co
 
 > The bipeds could just be the Martians outside of the host bodies, with Wells saying they were for food to hide the connection entirely. That had to be covered up at all costs in the final print. The witness the story is based on probably never knew the truth — or if he was clued into that connection, it was simply removed in the whole "museum" ending of the book.
 
-**What that means:** "Provisions" is not a second feeding protocol. It is the cover that keeps suit and occupant from ever being read as one system. The Natural History Museum specimen / Epilogue frame is the institutional seal. Cannibalism / "eaten rations" was a project misread of Wells's label, not a Documented second diet.
+**Clarified conclusion (2026-10-30):** Early chat assumed a cover-up / cut. **Current lock:** the food assumption was **way off** and **never witnessed**. The book **was not redacted** — contradictions resolve on a **detailed read**. From the pit he saw only host bodies. He learns bipeds later and trusts museum/science. The museum never said the join; he never asked. Fungoid hosts and ~6ft bipeds filed as unrelated → public assumes slave/food species; they are the Martians who occupy the hosts (fetal-curled).
+
+**Self-sealing print:** Shipping **this** survivor account already produces the desired takeaway — a complete-feeling story that hides the occupant secret **without anyone realizing a secret was kept**. No deleted confession required.
+
+**What that means:** "Provisions" is not a second feeding protocol. It is institutional filing the narrator repeats. Cannibalism / "eaten rations" was a project misread of Wells's label, not a Documented second diet and not a pit fact.
 
 ## Author's open claims
 
 Registry: **[AU-084](/history/chronology/investigations/author-unique-theories.md)** (extends AU-079 host-body package).
 
-1. Cylinder bipeds ≈ true Martian form outside Earth-variant host bodies (**Author**; Wells text Documented as "provisions").
-2. "Provisions" / food-rations wording in print = deliberate cover, not logistics fact (**Author**).
+1. Cylinder bipeds ≈ true Martian form / occupants of Earth-variant host bodies (**Author**; Wells text Documented as "provisions").
+2. "Provisions" / food-rations / slave-livestock wording in print = institutional filing the narrator trusts, not logistics fact and **not** evidence of a cut manuscript (**Author**).
 3. No-digestive-system physiology falsifies literal "eaten" reading of the bipeds (**Documented** anatomy + **Author** inference).
-4. Witness may never have known the suit/occupant link; if known, museum/Epilogue scrub removed it (**Author**; Epilogue specimen lines **Documented**).
+4. *WotW* **was not redacted**; narrator never saw bipeds; silence + unasked question self-seals the secret (**Author**; pit vs digression + Epilogue specimen lines **Documented**).
 5. Human-blood antigen compatibility applies to whoever rode the suits — aligned with bipeds as human-stock, not livestock (**Author** on biped ID; antigen argument as before).
 6. Grey-atrophy morphology remains secondary PP (*ID4*), not primary WotW occupant ID (**Author**).
+7. Bare biped remains vs clothed 1984 RV tall-thins: occupants who live in host bodies need not wear clothes (**Author** rhyme).
+8. Fit: ~6ft bipeds ride **fetal-curled** in ~4ft hosts; suit mediates senses/locomotion; "would have broken every bone" standing bare = never meant to leave the suit (**Author**).
 
 ## Questions to clarify, verify, or debunk
 
 | Hook | Why it matters |
 |---|---|
-| Compare serial (*Pearson's*, 1897) vs Heinemann 1898 vs later editions on the biped / provisions paragraph and Epilogue museum lines | Tests whether "provisions" or museum seal tightened in final print |
-| Any period press on Natural History Museum "Martian" specimen or drawings | Documented museum culture vs pure fiction frame |
+| Compare serial (*Pearson's*, 1897) vs Heinemann 1898 vs later editions on the biped / provisions paragraph and Epilogue museum lines | Falsifier if a fuller suit/occupant join existed then vanished (would reopen “redaction” against the self-seal lock) |
+| Any period press on Natural History Museum "Martian" specimen or drawings; any mention of biped remains exhibited beside them | Documented museum culture vs pure fiction frame; tests side-by-side filing |
+| Neural / sensory interface implied by "wearing different bodies … as men wear suits of clothes" vs fetal curl packing | Strengthens Matrix-style jack reading without claiming Wells drew it |
 | Crystal Egg white translucent bipeds vs cylinder siliceous bipeds — same caste or different? | Livestock cover on Mars vs dead operators in cylinders |
 
 ---

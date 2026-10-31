@@ -22,8 +22,8 @@ a martian invasion.
 
 ## Differences between "The War of the Worlds" the book/movie/album and the real event:
 
-The story "The War of the Worlds" was a real event that occurred on earth many times,
-but heavily redacted by plagiarist [H.G. Wells](https://en.wikipedia.org/wiki/Florence_Deeks).
+The story "The War of the Worlds" was a real event that occurred on earth many times.
+**Author lock (updated):** the 1898 book was **not** manuscript-redacted — contradictions resolve on a detailed read (host bodies vs biped occupants; AU-084). Wells remains a plagiarist-lane / managed-disclosure channel ([Florence Deeks](https://en.wikipedia.org/wiki/Florence_Deeks)); that is not “pages were scrubbed.”
 Until Wells stepped in, nearly all fictitious and non-fiction accounts of "Men from Mars"
 regarded Martians as 1\. Human men (and women) and 2\. Benign.  
 "H. G. Wells. His determination (utopianist though he was) to use Mars not for reassuring utopian

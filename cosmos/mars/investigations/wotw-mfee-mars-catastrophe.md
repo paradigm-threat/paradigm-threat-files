@@ -3,7 +3,7 @@
 > **TL;DR:** Death on Mars: The MFEE and the Nuclear Massacre: John E. Brandenburg, PhD in Plasma Physics (Lawrence Livermore National Laboratory), worked on directed energy weapons at Sandia National Laboratories and later on Mars mission propulsion.
 > **⚠️ Editorial Note:** Brandenburg's *Death on Mars* is treated as a **predictive programming dead end** in the paradigm-threat-timeline. His isotope claims, dating, and conclusions are **not used as evidence** in any timeline article. This document catalogues his claims for reference only — to demonstrate that other researchers noticed the same unsolved mystery and to document how the book functions as a research trap. The timeline's Mars catastrophe thesis is independently motivated by melted-city photography, Saturnian Cosmology, MFEE correlation, and the carbon-14 spike.
 
-*Cross-referencing John E. Brandenburg's "Death on Mars: The Discovery of a Planetary Nuclear Massacre" (2015) with the MudFlood Energetic Event (MFEE) hypothesis, H. G. Wells's Mars texts, and the broader predictive programming record. All Martian fiction is treated as redacted truth.*
+*Cross-referencing John E. Brandenburg's "Death on Mars: The Discovery of a Planetary Nuclear Massacre" (2015) with the MudFlood Energetic Event (MFEE) hypothesis, H. G. Wells's Mars texts, and the broader predictive programming record. Martian fiction is treated as managed-disclosure / redacted-fact filing into the science-fiction shelf; *War of the Worlds* physiology specifically is **not** claimed as manuscript-redacted (AU-084: self-sealing detailed read).*
 
 > **Companion documents:**
 > - `wotw-martian-analysis.md` — Technical analysis (physiology, machines, slave theory)

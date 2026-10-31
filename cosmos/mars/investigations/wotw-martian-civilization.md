@@ -1,7 +1,7 @@
 # H.G. Wells — Martian Civilization: Cross-Source Intelligence Dossier
 
 > **TL;DR:** H.G. Wells — Martian Civilization: Cross-Source Intelligence Dossier: The single most significant finding across all four sources is that Wells describes at least two fundamentally different kinds of Martian — and possibly three. Through the crystal surveillance device, the following Martians were observed on the Martian surface:
-> **Classification Framework:** All texts by H.G. Wells concerning Mars are treated as fictionalized accounts of real classified intelligence. Discrepancies between accounts are treated as evidence of redaction, compartmentalization, or caste-specific observation. This dossier cross-references three primary sources:
+> **Classification Framework:** All texts by H.G. Wells concerning Mars are treated as fictionalized accounts of real intelligence. Discrepancies between accounts are treated first as **caste-specific or host/occupant observation** resolvable by a detailed read; **not** as proof that *War of the Worlds* itself was manuscript-redacted (AU-084 lock: self-sealing print). Compartmentalization across Crystal Egg / WotW / 1908 remains possible. This dossier cross-references three primary sources:
 >
 > 1. **"Intelligence on Mars"** (1896, *Saturday Review*) — Wells's earliest speculative essay on Martian life; ideas used "almost unchanged" in *The War of the Worlds*
 > 2. **"The Crystal Egg"** (1897, *The New Review*) — A crystal surveillance device providing real-time visual intelligence of Martian surface activity
@@ -44,7 +44,7 @@ Through the crystal surveillance device, the following Martians were observed on
 - **White and translucent** — almost ghostly in appearance
 - Observed "feeding among certain of the lichenous trees" in the Martian landscape
 - One was observed being **seized by a winged Martian** in its tentacles
-- **Documented:** Wells later files cylinder bipeds as "provisions from Mars." **Author (current):** that label is print cover for the **true form outside host bodies**, not livestock diet — see [analysis — bipeds as occupants](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover). Crystal Egg white bipeds may be the same caste on Mars (operators / subjects under winged rulers) or a related line; "livestock?" remains a possible period misread, not project fact.
+- **Documented:** Wells later files cylinder bipeds as "provisions from Mars." **Author (current):** institutional filing for the **occupants of host bodies**, not livestock diet — and **not** a cut from a fuller WotW manuscript ([analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover)). Crystal Egg white bipeds may be the same caste on Mars or a related line; "livestock?" remains a possible period misread, not project fact.
 
 ### Source B: The War of the Worlds Martians (On Earth)
 
@@ -168,9 +168,11 @@ From "Intelligence on Mars" (1896): Wells speculated that Martians could be **we
 
 ---
 
-## IV. Signs of Redaction and Compartmentalization
+## IV. Apparent Contradictions, Compartmentalization, and Detailed Reads
 
-### Redaction Pattern 1: The Caste Discrepancy
+**Author note:** Section title historically said “Redaction.” For *WotW* physiology (hosts vs bipeds), the current lock is **no manuscript redaction** — silence + detailed read. Patterns below may still mark **cross-text** compartmentalization or managed disclosure; they do not require cutting the 1898 novel.
+
+### Pattern 1: The Caste Discrepancy
 
 The Crystal Egg (1897) describes **winged, agile, visually acute** Martians operating sophisticated surveillance equipment on Mars. One year later, *The War of the Worlds* (1898) describes **bodiless, blind, sluggish** Martians arriving on Earth. Wikipedia notes that the Crystal Egg Martians "bear no resemblance to the octopus-like invaders."
 
@@ -178,7 +180,7 @@ Wells never reconciled these descriptions. In "The Crystal Egg" the narrator spe
 
 **Assessment:** The invading force was not the ruling class. The rulers stayed on Mars, watching through crystals. They sent a different caste — possibly modified, possibly degenerated, possibly a purpose-bred labor variant — to do the dangerous work.
 
-### Redaction Pattern 2: The Gravity Problem
+### Pattern 2: The Gravity Problem
 
 "The Things that Live on Mars" (1908) explicitly states that a Martian arriving on Earth would weigh 2⅔ times its Mars weight and would be **crushed under its own mass:** "His limbs would not support him. Perhaps he would die, self-crushed, at once."
 
@@ -190,20 +192,20 @@ Wells acknowledges this in referring to WotW: "In that story I made my Martians 
 
 Either way, someone chose to send the most expendable, most mechanically-dependent variant.
 
-### Redaction Pattern 3: The Blood-Feeding Protocol (and the "provisions" cover)
+### Pattern 3: The Blood-Feeding Protocol (and the "provisions" filing)
 
 The WotW Martians have **no digestive system.** They subsist entirely by injecting fresh blood directly into their veins. Wells also reports bipedal creatures with flimsy siliceous skeletons brought from Mars, all killed before reaching Earth, labeled **"provisions."** The blood-injection protocol is described **exclusively** in connection with human victims.
 
 Upon reaching Earth, they were observed feeding on **human blood** — injected directly into their veins via pipette. This was the vector for the bacteria that killed them.
 
-**Assessment (updated):** Organisms with no digestive system do not eat rations. The old project reading (bipeds = food; humans = transfusion) treated Wells's label as logistics fact. **Author (current):** the bipeds are the **true form outside host bodies**; "provisions" is the print cover that severs the suit/occupant link ([analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover)). The real puzzle is not "why transfuse when they already had food?" but **why file the occupants as food at all?** Remaining operational reads that still hold:
+**Assessment (updated):** Organisms with no digestive system do not eat rations. The old project reading (bipeds = food; humans = transfusion) treated Wells's label as logistics fact. **Author (current):** the bipeds are the **occupants of the host bodies**; "provisions" is institutional filing the survivor trusts — **not** a redacted alternate paragraph ([analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover)). The real puzzle is not "why transfuse when they already had food?" but **why file the occupants as food at all?** Remaining operational reads that still hold:
 1. The blood-injection protocol was **always intended for use with humans** — host-body life support on Earth, pre-planned before departure
 2. Workers were **instructed** to harvest human blood as a specific resource
 3. Feeding on human blood was the **designed kill switch** — ensuring the labor force could not survive long-term and return with terrestrial contamination
 
 **The antigen problem:** There is a more fundamental question the text never raises. Cross-species blood transfusion causes **fatal hemolytic immune reactions** — incompatible red blood cell antigens trigger rapid cell destruction, organ failure, and death. This is why a human cannot survive on dog blood or horse blood injected into the veins, and vice versa. Yet the Martians injected human blood directly into their circulatory systems and it **sustained them.** It did not trigger rejection. The bacteria in the blood killed them; the blood itself was nutritionally compatible. This is only possible if the Martians' circulatory biology was **antigen-compatible with humans** — meaning they were biologically human, or so recently diverged that blood-group antigens remained identical. Wells never describes the Martians feeding on any non-human terrestrial animal. They used **only** human blood. This detail, buried in the feeding protocol, may be the strongest single piece of evidence that whoever occupied the host bodies — and, under the bipeds-as-true-form reading, the bipeds themselves — were human-stock, not Martian livestock.
 
-### Redaction Pattern 4: The Crystal Recovery
+### Pattern 4: The Crystal Recovery
 
 After Mr. Cave's death, the crystal egg — the only known Earth-side component of the Martian surveillance network — was purchased from Cave's estate by **"a tall, dark man in grey"** and disappeared permanently.
 
@@ -211,7 +213,7 @@ The crystal was in a curiosity shop of no particular distinction. The buyer paid
 
 **Assessment:** This is intelligence recovery. Someone knew what the crystal was and ensured it was removed from public access before its nature could be studied or publicized. The speed of recovery suggests prior awareness of the device's existence.
 
-### Redaction Pattern 5: Publication Chronology
+### Pattern 5: Publication Chronology
 
 - **1896:** "Intelligence on Mars" — Wells publishes speculative essay on Martian evolution and intelligence. Ideas appear "almost unchanged" in WotW. *This is the briefing paper.*
 - **1897:** "The Crystal Egg" — Wells publishes what reads as an intelligence report on Martian surface activity observed through a surveillance device. *This is the reconnaissance report.*
@@ -220,7 +222,7 @@ The crystal was in a curiosity shop of no particular distinction. The buyer paid
 
 If Wells were writing fiction, these texts would be consistent. They are not. They describe **fundamentally different Martians** in ways that Wells himself acknowledged and never resolved. The publication sequence reads like a phased disclosure program: briefing → reconnaissance → event report → post-mortem.
 
-### Redaction Pattern 6: Wells's Retraction in 1908
+### Pattern 6: Wells's 1908 Clarification
 
 In "The Things that Live on Mars," Wells explicitly **walked back** his WotW description:
 
@@ -228,7 +230,7 @@ In "The Things that Live on Mars," Wells explicitly **walked back** his WotW des
 
 He then described what Martians **actually** look like: 9–10 feet tall, feathered, bipedal, with tentacle-hands. This matches the Crystal Egg descriptions far more closely than the WotW invaders.
 
-**Assessment:** By 1908, Wells felt safe enough — or compelled enough — to correct the record. The WotW Martians were a **cover version** — close enough to be useful, distorted enough to conceal the real biology of the ruling caste. The "bodiless brain" description may have been imposed by classification requirements, or it may accurately describe the **slave caste** while concealing the existence of the winged rulers.
+**Assessment:** By 1908 Wells separates the Earth-invasion host-body form from Mars-surface morphology. Under AU-084 this need not mean the 1898 novel was cut — WotW already prints both fungoid hosts and silicious bipeds; a detailed read joins them. The 1908 essay may still disclose **ruling-caste / Mars-variant** form the invasion account did not foreground.
 
 ---
 
@@ -252,13 +254,13 @@ Synthesizing all four sources through the classified intelligence framework:
 - **Role:** Labor force — construction, military operations, resource extraction
 - **Location:** Sent to Earth in cylinders. Expendable.
 - **Observed activities:** Machine construction, aluminium smelting, fighting, human capture, blood-feeding, building the flying-machine (escape vessel)
-- **Fate:** Died of terrestrial bacterial infection contracted through mandatory blood-feeding protocol. The bacteria infected the host body's biological components, which in turn killed the occupant. No surviving witness reported extracting a living occupant from a suit — **Author:** the biped remains were already inventoried as "provisions," so the two-layer system stayed invisible; Epilogue museum specimen culture seals the scrub.
+- **Fate:** Died of terrestrial bacterial infection contracted through mandatory blood-feeding protocol. The bacteria infected the host body's biological components, which in turn killed the occupant. No surviving witness reported extracting a living occupant from a suit — **Author:** biped remains already inventoried as "provisions" + museum trust = self-sealing public story (**not** a manuscript redaction).
 
 ### The Cover / Subject Species (Crystal Egg white bipeds; cylinder "provisions")
 
 - **Physical form:** On Mars (Crystal Egg): white, translucent, bipedal, ape-like. On Earth (WotW cylinders): ~6ft siliceous bipeds, round erect heads, large eyes in flinty sockets — "shrivelled remains," all killed before arrival
 - **Capabilities:** Unknown on Mars — observed feeding passively among trees; cylinder bipeds too fragile for Earth gravity bare
-- **Role (Author):** Not a food source for organisms with no digestive system. Print cover caste / true form of workers outside hosts; possibly also a subjugated line under winged rulers on Mars. Blood-injection protocol remains described only with human victims (host life support)
+- **Role (Author):** Not a food source for organisms with no digestive system. Occupants of Earth-variant hosts (fetal-curled); Crystal Egg white bipeds may be related Mars-side line. Blood-injection protocol remains described only with human victims (host life support)
 - **Location:** Mars surface (observed); cylinder remains "fallen into human hands" on Earth
 - **Observed activities:** Feeding among lichenous trees; being seized by winged Martians; inventoried post-war as "provisions"
 
