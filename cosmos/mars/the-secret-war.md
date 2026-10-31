@@ -97,7 +97,9 @@ Those flashes do not read as one alien empire already owning every human governm
 
 You do not need psychic erasers for planetary amnesia. Marvel’s [2004–05 *Secret War*](https://en.wikipedia.org/wiki/Secret_War_(comics)) stages a memory wipe of Nick Fury’s operators after an unauthorized Latveria strike. That is an outcome parallel. It is not the mechanism Earth needed.
 
-A real Mars secret war only needs a strike that cannot be traced home and almost nobody who saw the ships leave. No victory parade. No after-action report in the clear. People who stayed home have a hole in the sky, not a war story. Then the cover myths fill the hole: bacteria saved us, it was only a novel, the canals were an illusion, Mars is dead. Anyone who only saw ships depart can be told accident, deep mission, or never happened. The quiet half of the job is ships that never come home. The loud half is silencing witnesses.
+A real Mars secret war only needs a strike that cannot be traced home and almost nobody who saw the ships leave. No victory parade. No after-action report in the clear. People who stayed home have a hole in the sky, not a war story. Then the cover myths fill the hole: bacteria saved us, it was only a novel, the canals were an illusion, Mars is dead. Anyone who only saw ships depart can be told accident, deep mission, or never happened.
+
+In a secret war with no public after-action report, the dockside scoreboard is simple: ships that take off and **never return** mean that battle was **lost**; ships that **return** mean it was **won**. Amnesia still comes from untraceable ops plus a thin witness set. The loud half of the job remains silencing witnesses.
 
 Ordinary history uses “secret war” for covert theaters inside a known conflict — Laos, proxies, escalation management. That almost never means a war with another world that neither public remembers. Soft scholarship will not hand you that second sense. Most historians are trained to keep Depression, radio Halloween, canal fade, Los Angeles, Roswell, and a comics delay in separate folders so the join never shows.
 
@@ -141,7 +143,7 @@ In 2015 Jonathan Hickman’s *Secret Wars* re-owns the brand as a Battleworld mu
 
 Try explaining this pile without two camps fighting over Mars-reach technology, and the story falls apart.
 
-If *War of the Worlds* is only a novel, why lights already in the sky *and* an unfinished flyer left in the open, with bipeds filed as food when the narrator never saw them alive — and why does vein-injected human blood **nourish** organisms with no gut if they are not human-stock? If London is the only authentic map, why do the Boston / New York serials look like “piracy” only after Wells’s protest, and why does a 1938 US radio “hoax” need to sound like live invasion traffic if the real beachhead was decades earlier and England stays quiet on physical residue? If the canals were only an optical trick, why does Serviss climax on destroying the waterworks while Lowell’s maps still look alive into the early 1900s? If Mars was always a dead rock, why do [*Half-Life*](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and Marvel keep teaching send-force-then-silence-witnesses? Soft history’s “secret war” means Laos and proxies. It does not mean a war with another world that neither public remembers. Ships that leave and never come home already produce the amnesia without a psychic eraser — and ships that leave **kit and corpses** behind make the cover impossible.
+If *War of the Worlds* is only a novel, why lights already in the sky *and* an unfinished flyer left in the open, with bipeds filed as food when the narrator never saw them alive — and why does vein-injected human blood **nourish** organisms with no gut if they are not human-stock? If London is the only authentic map, why do the Boston / New York serials look like “piracy” only after Wells’s protest, and why does a 1938 US radio “hoax” need to sound like live invasion traffic if the real beachhead was decades earlier and England stays quiet on physical residue? If the canals were only an optical trick, why does Serviss climax on destroying the waterworks while Lowell’s maps still look alive into the early 1900s? If Mars was always a dead rock, why do [*Half-Life*](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and Marvel keep teaching send-force-then-silence-witnesses? Soft history’s “secret war” means Laos and proxies. It does not mean a war with another world that neither public remembers. Untraceable sorties plus a thin witness set produce the amnesia without a psychic eraser — and ships that leave **kit and corpses** behind make the cover impossible.
 
 One alien empire already running every capital does not need public anti-aircraft nights and panicked press retractions. One accidental deep state does not explain both the leftover flyer and a Halloween show that stamps decades-old American invasion audio as costume. The pieces only lock when you stop treating each shelf as its own religion — including the shelf that says Boston was the fake map.
 
@@ -173,7 +175,7 @@ Keywords: #SecretWar #WarOfTheWorlds #Mars #Boston #FightersFromMars #PrimroseHi
 
 **Substack:** [paradigmthreat2.substack.com/p/the-secret-war](https://paradigmthreat2.substack.com/p/the-secret-war)
 
-**Last updated:** 2026-10-31T13:45:00-04:00
+**Last updated:** 2026-10-31T17:30:00-04:00
 
 ---
 

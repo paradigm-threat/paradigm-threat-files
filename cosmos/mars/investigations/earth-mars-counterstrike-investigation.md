@@ -1,10 +1,10 @@
 # Earth → Mars Counterstrike — Investigation
 
-> **TL;DR:** Secret **Earth↔Mars** politics/war (flyer; canals; HECU; humans with Mars reach; Earth-ordered MFEE; 1° political link). Marvel **2004–05 *Secret War*** = **NSA-aligned** evidence (post-9/11 strength window; delays keep payload on desk through **Dec 2005** Tonkin crest): (1) cartoon-contain “secret war”; (2) teach **sin eater** — **Nick Fury**. **2015 *Secret Wars*** = **CIA-camp containment** — Battleworld cosmic opposite of Fury’s grounded spy story; phrase re-owned as toy-multiverse. Real amnesia: **untraceable** war + **ships that left and never returned**. Working synthesis; falsifiable.
+> **TL;DR:** Secret **Earth↔Mars** politics/war (flyer; canals; HECU; humans with Mars reach; Earth-ordered MFEE; 1° political link). Marvel **2004–05 *Secret War*** = **NSA-aligned** evidence (post-9/11 strength window; delays keep payload on desk through **Dec 2005** Tonkin crest): (1) cartoon-contain “secret war”; (2) teach **sin eater** — **Nick Fury**. **2015 *Secret Wars*** = **CIA-camp containment** — Battleworld cosmic opposite of Fury’s grounded spy story; phrase re-owned as toy-multiverse. Real amnesia: **untraceable** war + thin witnesses. Secret-battle scoreboard: ships that leave and **never return** = **lost**; ships that **return** = **won**. Working synthesis; falsifiable.
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-10-31 (Boston-first locus; Wells republication seal vs draft-theft myth; §1.4b).
+**Last updated:** 2026-10-31 (Boston-first; §1.4b; §1.12 D: non-return = lost, return = won).
 
 ### 0.1 Working synthesis — “that explains everything” (Author)
 
@@ -307,7 +307,7 @@ None of the A-list classics are “the whole planet forgot a Mars war.” Closes
 | Unsanctioned after official denial | Dual motive (§1.8); antibody acts when clean desk refuses |
 | Threat = terror pipeline + **city-scale bomb** | **Terrorists with nukes / WMD-path** — smash before the blast |
 | Fury eats the dirt | **Sin eater** ([*The Sin Eater*](/governance/war/the-sin-eater.md)) |
-| **Wipe the operators’ memories** | Outcome match; AU-085 via **ships that never return** (§1.12 D) |
+| **Wipe the operators’ memories** | Outcome match; AU-085 via untraceable ops + thin witnesses (§1.12 D) |
 | Ship **Apr 2004 → Dec 2005** + delays | **NSA window evidence** — AU-058 strength years |
 | Brand title *Secret War* (singular) | Grounded spy sense — later overwritten by **2015** plural cosmic |
 
@@ -332,13 +332,15 @@ Marvel needs gadgets. A real Mars secret war only needs **attribution failure** 
 | Condition | Effect |
 |-----------|--------|
 | Strike **cannot be traced back to Earth** (far-side ops, deniable propulsion, no public telemetry) | No “we did it” evidence chain for historians or newspapers |
-| Almost nobody knows unless they **saw ships leave and not return** | Witnesses = dock/yard/crew families at most — not a planet-wide public |
-| No returning fleet, no victory parade, no after-action in the clear | Survivors who stayed home have **absence**, not a war story |
+| Almost nobody saw the ships leave | Witnesses = dock/yard/crew families at most — not a planet-wide public |
+| No victory parade, no after-action in the clear | People who stayed home have a hole in the sky, not a war story |
 | Cover myths (bacteria miracle, “just a novel,” canals = illusion, Dead Planet) | Fill the gap where a war narrative would be |
 
-**Result:** Same social outcome as Fury’s wipe — operators and publics **do not carry a usable memory of the war** — produced by **secrecy + non-return**, not by psychic erasure. Anyone who only saw ships depart and vanish can be told anything (accident, deep mission, never happened). The war stays unowned.
+**Scoreboard:** In a secret war with no public after-action, ships that leave and **never return** mean that sortie was **lost**; ships that **return** mean it was **won**.
 
-**Join:** Dual motive (§1.8) still holds — project force **and** keep it untraceable. HECU “silence witnesses” is the aggressive edge; **ships that never come home** is the quiet edge.
+**Result:** Same social outcome as Fury’s wipe — operators and publics **do not carry a usable memory of the war** — produced by **secrecy + thin witnesses**, not by psychic erasure. Anyone who only saw ships depart can be told anything (accident, deep mission, never happened). The war stays unowned.
+
+**Join:** Dual motive (§1.8) still holds — project force **and** keep it untraceable. HECU “silence witnesses” is the aggressive edge; deniable departure with almost nobody watching is the quiet edge.
 
 #### C. History / IR — what scholars call “secret war”
 
