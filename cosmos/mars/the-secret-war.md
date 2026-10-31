@@ -95,7 +95,9 @@ After a triumphant counterstrike the horrible final reality is that you can find
 
 ![Body as equipment — host and occupant across War of the Worlds, Independence Day, Half-Life 2 Stalkers, and related Mars encodings](https://paradigmthreat.net/cosmos/mars/investigations/body-as-equipment-host-occupant.jpg)
 
-The domineering camp needs a slave culture deep inside it. Even at the high levels of that society, people know they are using real human slaves as tools — controlled on a transhuman level, made dependent, forced to work. That is the nature of the original War of the Worlds invasion once the bipeds are read as riders rather than rations. Tall thin human-stock occupants locked into Earth-variant hosts, program-driven, building the Primrose Hill return ship or dying painfully on Earth with no rescue. Rebellion is hard when your body is owned by the masters. The suit is life support. Without home servicing it fails. The workers complete the industrial mission or perish.
+![The host bodies — occupant, suit cutaway, fighting-machine layer, and contain/depend/direct/recall control cycle](https://paradigmthreat.net/cosmos/mars/the-secret-war-host-bodies.png)
+
+The domineering camp needs a slave culture deep inside it. Even at the high levels of that society, people know they are using real human slaves as tools — controlled on a transhuman level, made dependent, forced to work. That is the nature of the original War of the Worlds invasion once the bipeds are read as riders rather than rations. Tall thin human-stock occupants locked into Earth-variant hosts, program-driven, building the Primrose Hill return ship or dying painfully on Earth with no rescue. Rebellion is hard when your body is owned by the masters. The suit is life support. Without home servicing it fails. The workers complete the industrial mission or perish. In Wells the first host layer is the fungoid suit the public mistook for the organism; the fighting-machine is the outer war chassis. The control cycle is the same either way: contain, depend, direct, recall.
 
 [*Half-Life 2*](https://en.wikipedia.org/wiki/Half-Life_2) shows the same grammar as mass culture. Stalkers are humans surgically stripped into Combine slave labor — attenuated bodies, little remaining voice, bodies owned by the machine hierarchy. That is not a “food biped” joke. It is the enslaved rider made visible for a game audience.
 
@@ -149,7 +151,7 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T10:55:00-04:00
+**Last updated:** 2026-10-31T11:00:00-04:00
 
 ---
 
