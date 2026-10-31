@@ -151,7 +151,7 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T11:00:00-04:00
+**Last updated:** 2026-10-31T11:05:00-04:00
 
 ---
 
