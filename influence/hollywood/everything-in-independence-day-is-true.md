@@ -56,6 +56,8 @@ When the suit opens at Area 51, a smaller occupant sits inside — fragile, larg
 
 ![Host body theory — *ID4* suit/occupant split and Martian appearance (timeline)](https://timeline.paradigmthreat.net/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png)
 
+![Body as equipment — host/occupant grammar across WotW, ID4, HL2 Stalkers, Kaldane/Rykor, 1984 Mars RV](https://timeline.paradigmthreat.net/media/12.ce-18th-mudflood-and-pugachev/body-as-equipment-host-occupant.jpg)
+
 *Independence Day* implies Earth scientists know the suit/occupant split **only** because they got the original Area 51 finds. The film stages the opening Wells’s public print never performs. Wells remains a compromised / plagiarist-lane channel for managed disclosure; that is not the same claim as “pages were scrubbed.” The novel trained generations to fear the **suit** as if it were the organism. The 1996 hangar trains them to see the **driver**.
 
 Once you see the suit, disease still blocks settlement and harvest stays the mission. Once you see the occupant, you understand why reverse-engineering a fighter and punching a crashed host with a *“Welcome to Earth”* work as **human agency** — not as waiting for bacteria to finish the war. Wells gave nature the kill. Whitmore’s America gives the species a **task**.

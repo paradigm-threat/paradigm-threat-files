@@ -123,6 +123,12 @@ If audiences accept **“Xen = alien dimension far away”**, they will not reco
 
 **Documented pattern in lore summaries:** Combine forces use **human modification** (**Stalkers**, **Overwatch** aesthetics, **Advisor** dependency) and **technocratic management** of populations; **suppression field** alters **biology at civilization scale** ([Combine — OverWiki](https://combineoverwiki.net/wiki/Combine)).
 
+### 4.0 Stalkers ↔ WotW worker caste (Author cross-read)
+
+**Documented (HL2):** Stalkers are humans converted (Nova Prospekt lore) into Combine slave labor — surgically attenuated, stripped of ordinary speech/agency, used for industrial work inside the occupation machine ([Stalker — OverWiki](https://combineoverwiki.net/wiki/Stalker)).
+
+**Author:** same high-tech **transhuman slavery** grammar as Wells’s WotW **worker invaders** under the slave + host-body lock ([AU-084](/history/chronology/investigations/author-unique-theories.md)): tall thin **human-stock** riders locked into Earth-variant hosts; bodies owned by masters; program-driven labor; **build the Primrose Hill return vessel or die painfully on Earth** with no rescue. Stalkers are not “food bipeds” — they rhyme with the **enslaved riders**, not the old provisions misread. Full argument: [WotW analysis — Stalkers cross-read](/cosmos/mars/investigations/wotw-martian-analysis.md#cross-read-half-life-2-stalkers-high-tech-transhuman-slavery); [slave theory](/cosmos/mars/investigations/wotw-martian-analysis.md#the-slave-theory-martians-as-forced-laborers). Chart: [Body as equipment](/cosmos/mars/investigations/body-as-equipment-host-occupant.jpg) (WotW · ID4 · Stalkers · Kaldane/Rykor · 1984 Mars RV).
+
 ### 4.1 Water teleport → dry coasts
 
 | Layer | Content | Tier |

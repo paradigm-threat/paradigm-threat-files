@@ -294,6 +294,10 @@ The narrator observed a Martian picking up humans — not killing them — and t
 
 ![Host body theory — Martian appearance / *ID4* suit-occupant split (timeline)](https://timeline.paradigmthreat.net/media/12.ce-18th-mudflood-and-pugachev/martian-appearance.png)
 
+![Body as equipment — host/occupant grammar: WotW, ID4, HL2 Stalkers, Kaldane/Rykor, 1984 Mars RV](body-as-equipment-host-occupant.jpg)
+
+> **Cross-ref chart:** same suit/rider grammar — Wells closed suit + provisions filing; *Independence Day* opened suit; *Half-Life 2* Stalkers (surgical slavery); Burroughs Kaldane/Rykor; 1984 CIA Mars RV clothed tall-thins vs bare WotW bipeds. Timeline mirror: [media](https://timeline.paradigmthreat.net/media/12.ce-18th-mudflood-and-pugachev/body-as-equipment-host-occupant.jpg).
+
 ### The Independence Day Precedent
 
 In *Independence Day* (1996), the alien invaders appear to be tall, biomechanical creatures in exo-skeletal suits. When the bio-suit is opened, the **actual alien** is revealed inside — a smaller, more fragile being with a large cranium and oversized eyes. The host body is armor, life-support system, and interface unit in one. The occupant cannot survive without it. Full blockbuster case study: [Hollywood two-camp war — Thread O (*ID4*)](/influence/hollywood/investigations/hollywood-two-camp-war-investigation.md#thread-o--independence-day-1996-original-unity-lane-nsa-flagship). Reader essay: [**Everything in Independence Day Is True**](https://paradigmthreat.net/influence/hollywood/everything-in-independence-day-is-true.md) — *ID4* stages the **public opening** Wells never performed; Area 51 autopsy as the only in-film path Earth scientists know the suit/occupant split.
@@ -352,6 +356,10 @@ The host body theory resolves several puzzles in the slave theory:
 3. **Why they showed no individuality.** The host bodies are standardized equipment. The "well-nigh perfect unanimity" of their behavior is not telepathic consensus — it is identical units running identical operational parameters. The occupants may have had individual thoughts, but the host bodies expressed only what they were designed to express.
 
 4. **Why the Crystal Egg Martians look different.** The winged, agile Martians observed on Mars through the crystal may be wearing a **different model of host body** — one designed for Mars's lower gravity and thin atmosphere. The WotW host bodies are the **Earth variant**: heavier, sturdier, tentacle-driven rather than wing-driven, optimized for a high-gravity, high-oxygen environment they would never leave.
+
+### Cross-read: *Half-Life 2* Stalkers (high-tech transhuman slavery)
+
+**Author:** the WotW **worker caste** — tall thin **human-stock** bipeds locked into Earth-variant hosts, program-driven, building the Primrose Hill **return ship** or dying painfully on Earth — rhymes with Valve’s **Stalkers** (*Half-Life 2*, 2004): humans surgically stripped into Combine slave labor (Nova Prospekt conversion; attenuated bodies; little remaining voice/identity; bodies owned by the machine hierarchy). Same grammar: **transhuman slavery** — not voluntary pioneers, but forced units whose locomotion/life-support kit belongs to the masters; complete the assigned industrial mission or perish without rescue. Stalkers are the mass-market demo of “your body is equipment”; Wells’s invaders are the 1898 instance (host suit + unfinished flying-machine + no rescue cylinders). Do **not** collapse Stalkers into the old “bipeds = food” misread — under AU-084 the tall humanoids **are** the enslaved riders. Dossier: [*Half-Life* series — Combine / Stalkers](/influence/predictive_programming/investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md#4-transhumanism-water-teleport-ocean-infestation-fiction-layer--author-mars); timeline: [HL2 PP](/timeline/evt-predictive-programming-film-tv-games).
 
 5. **Why Wells retracted the description.** In 1908, Wells described what Martians "actually" look like — 9–10 feet tall, feathered, bipedal. This may be the description of the **Mars-variant host body** (matching the Crystal Egg observations), not the occupant. The retraction was not a correction of fiction — it was an upgrade from "what the Earth-variant host body looks like" to "what the Mars-variant host body looks like." The cylinder bipeds remain the printed true-form specimen line — already buried as "provisions" in 1898.
 
@@ -487,6 +495,7 @@ Registry: **[AU-084](/history/chronology/investigations/author-unique-theories.m
 7. Bare biped remains vs clothed 1984 RV tall-thins: occupants who live in host bodies need not wear clothes (**Author** rhyme).
 8. Fit: ~6ft bipeds ride **fetal-curled** in ~4ft hosts; suit mediates senses/locomotion; "would have broken every bone" standing bare = never meant to leave the suit (**Author**).
 9. Pre-feed hooting = **anticipation / addict craving**, not mere breath-prep; cheerful post-capture hoot = euphoria (**Author**; invariable hoot + cheerful tone Documented; narrator's "expiration of air" gloss Documented). Spielberg blood-bath / tentacle-as-cannula are optional PP joins on the same blank (**Author**).
+10. *Half-Life 2* **Stalkers** = PP demo of the same high-tech transhuman slavery as the WotW worker/host riders — build/serve or die; body-as-equipment (**Author** rhyme; Stalker conversion Documented in HL2 lore).
 
 ## Questions to clarify, verify, or debunk
 
