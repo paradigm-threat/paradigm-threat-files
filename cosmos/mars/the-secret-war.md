@@ -19,6 +19,8 @@ Stop treating Earth and Mars as two sealed worlds that only meet in pulp. Treat 
 
 Once that frame is on the table, the leftovers stop looking random.
 
+![The Secret War — timeline from MFEE through London incursion, Earth reply, canal kill, Dead Planet Protocol, and media echoes](https://paradigmthreat.net/cosmos/mars/the-secret-war-timeline.png)
+
 The invaders left a great flying-machine on Primrose Hill — already under atmospheric test when disease stopped them. That kit is not a prop. It is a ladder. Earth factions that could finish or copy it suddenly had lift, and a reason to use it.
 
 Within the same publishing season, Garrett P. Serviss published [*Edison’s Conquest of Mars*](https://www.gutenberg.org/ebooks/19141) — a public Earth fleet of electrical ships that defy gravity, a strike on Mars, and a climax that wrecks the canal waterworks. Read as encoding rather than toy adventure, that is Earth’s reply. The canal maps of Schiaparelli and Lowell were not a collective hallucination first. They were a running irrigation signature. Later science called them an illusion because the grid was gone. The finishing move did not turn the water off on Mars for the Martians’ convenience. We did.
@@ -147,7 +149,7 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T10:50:00-04:00
+**Last updated:** 2026-10-31T10:55:00-04:00
 
 ---
 
