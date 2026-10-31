@@ -4,7 +4,7 @@
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-10-31 (reader essay *The Secret War*; §1.12 B — NSA 2004–05 / CIA 2015 containment).
+**Last updated:** 2026-10-31 (Boston-first locus; Wells republication seal vs draft-theft myth; §1.4b).
 
 ### 0.1 Working synthesis — “that explains everything” (Author)
 
@@ -13,6 +13,7 @@ One political graph, not two isolated planets:
 | Seeming mystery | Falls out of AU-085 |
 |-----------------|---------------------|
 | WotW leftover **flying-machine** | Seed for Earth lift / strike |
+| **Boston beachhead** / London encode | Ground-truer US map; Empire shelf relocated (§1.4b) |
 | Serviss fleet + canal flood | Encode of reply; **we** killed waterworks |
 | Schiaparelli canals → later “illusion” | Grid was on; Earth turned it off |
 | MFEE Mars devastation | Overlooked if **ordered from Earth** |
@@ -21,6 +22,7 @@ One political graph, not two isolated planets:
 | Planet-as-base + commander in SF | Never demobilized Mars-reach command |
 | “Martians ruled Earth” | Often **humans who could reach Mars** |
 | Dead Planet / nobody knows the war | Suppression half of the op — backfired into amnesia |
+| 1938 Mercury “hoax” | Lid for **leaked Boston-era radio**, not a same-decade raid |
 
 Keep dating discipline (MFEE ≠ late-19th-c. strike). Keep falsifiers (§7). Breakthrough = **unification**, not exemption from evidence.
 
@@ -50,8 +52,8 @@ Keep dating discipline (MFEE ≠ late-19th-c. strike). Keep falsifiers (§7). Br
 
 ### 1.1 Claim (Author — open)
 
-1. A **Martian incursion** struck Earth in the **late 19th century** (Wells as after-action / managed disclosure; possible multi-theatre waves — London / Spain / US — see Mars hub).
-2. **Critical Documented leftover:** at mission end, humans possessed a **great flying-machine** on Primrose Hill — already under atmospheric test when the invaders died — plus fighting-machines still standing for sight-seers (**§1.4**). That kit is a **very significant, very possible** bridge to Earth lift / space capability and a counterstrike. It is **less** plausible that nearly all humans would successfully **hide** such tech than that factions would **study and fly** it.
+1. A **Martian incursion** struck Earth in the **late 19th century** (Wells as after-action / managed disclosure). **Reconstruction locus (Author):** **Boston / New England** as most likely beachhead; London / Primrose Hill as British-print encode (**§1.4b**). Possible multi-theatre echoes elsewhere — see Mars hub.
+2. **Critical Documented leftover:** at mission end, humans possessed a **great flying-machine** (British text: Primrose Hill) — already under atmospheric test when the invaders died — plus fighting-machines still standing for sight-seers (**§1.4**). That kit is a **very significant, very possible** bridge to Earth lift / space capability and a counterstrike. It is **less** plausible that nearly all humans would successfully **hide** such tech than that factions would **study and fly** it.
 3. Sometime afterward — inside the broad band **~1865–1945**, with **literary encoding concentrated 1898–interwar** — Earth (or an Earth faction) mounted a **counterstrike against Mars**, reverse-engineering leftover Martian hardware (Serviss states this explicitly).
 4. That operation used **advanced technology** (electrical / anti-grav lift, vibratory or DEW-class weapons, superior air/space craft) that later **vanished from public capability** — lost, sequestered, or mythified as pulp.
 5. Fiction filed the memory as **impossible adventure** so institutions would not have to admit either the incursion or the reply.
@@ -94,6 +96,37 @@ Investigation holds **both lanes open**. Lane B is **strengthened** by the unfin
 | **Counterstrike pathway** | Finish / copy the flyer → Earth-built lift tuned in **dense air / high g** → deploy to Mars (asymmetry §4) → Serviss fleet encode. |
 
 Prior dossiers treated the flyer mainly as Martian **return vessel**. This investigation adds: once abandoned, it is also Earth’s **stolen ladder** — the most concrete Documented object that makes a real counterstrike **very possible**.
+
+### 1.4b Locus — Boston-first reconstruction; Wells seal vs “piracy” myth
+
+**Reconstruction default (Author):** the late-19th-c. Earth-surface beachhead is most likely **Boston / New England**, not London. British WotW geography (Woking → London → Primrose Hill) is the **Empire-shelf encode**. For ops maps and residue hunts, prefer Boston. Reader walk: [*The Secret War* — plagiarized prequel](/cosmos/mars/the-secret-war.md). Timeline lock: [Earth↔Mars secret war event](/timeline/evt-1898-1945-ce-earth-mars-secret-war).
+
+| Layer | Geography | Role |
+|-------|-----------|------|
+| Pearson’s / Cosmopolitan serial (Apr–Dec 1897) | London | Documented magazine encode; looks earlier on the shelf |
+| *Fighters from Mars* (NY *Evening Journal* Dec 1897; Boston *Post* Jan 1898) | Concord → Boston; NJ → NY | Soft history = “piracy”; Author = closer to ground |
+| Wells *Critic* letter (21 Jan / 12 Mar 1898) | — | Protest + disavowal seal |
+| Leftover flyer (Documented text) | Primrose Hill in British print | Ladder object; may be relocated place-name |
+
+**Documented — what Wells actually alleged:**
+
+- He did **not** establish that Americans stole an **unpublished draft before** magazine publication.
+- Serial appeared first in *Pearson’s* + *Cosmopolitan* (London geography). Newspaper localizations follow.
+- His complaint: Dewey arranged **republication** with **no alterations** without consent; Boston cabled “as New York Journal,” he wired “Agreed,” then called the geography rewrite infringement ([LOC](https://blogs.loc.gov/headlinesandheroes/2022/12/h-g-wells-fighters-from-mars/); [Wikipedia — *Fighters from Mars*](https://en.wikipedia.org/wiki/Fighters_from_Mars); *The Critic* letter). Soft history flattened this into “piracy.” On paper it is **contract + alteration after print**, not drawer-draft theft. Wells notes uncertainty what a remote Englishman can do — **US board ≠ London board**.
+
+**Author — preferred soft path (no dating fraud):** plant London encode early (including into US *Cosmopolitan*) so Empire geography is “official” from day one; let yellow-press Boston/NY keep or restore the ground-truer map; seal with Wells’s protest so soft history forever says London = original, Boston = mutilation. Pearson’s looking earlier than *Fighters* is then **feature**.
+
+**Author — harder path (open):** magazine chronology was backdated or planted. Useful proof must **not** lean on Wells’s courtroom aura:
+
+| Useful | Weak / poisoned |
+|--------|-----------------|
+| US ads/reviews with Concord–Boston names **before** honest Cosmopolitan/Pearson objects | Wells’s own *Critic* letter (he scripts the seal) |
+| Library accession stamps; printer’s marks; postal wrappers | Later British literary consensus that cites Wells |
+| Copyright-deposit dates vs newsstand myth | Deeks / Privy Council outcomes as clocks for Pearson months |
+
+**Jurisdiction chessboard:** [Deeks v Wells](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) shows a **London** court can anoint narrative ownership of history (*Outline*). That does **not** adjudicate a Boston beachhead, a Hearst localization deal, or a fake Pearson cover month. American serial-rights practice (Chace-era reprint culture, cable “Agreed,” yellow-press rewrite) lives on a different board. AU-085 does not need Wells to win or lose plagiarism court; it needs calendars of **objects** and **US contemporaneous citation**.
+
+**1938 join (Author):** Mercury Theatre’s fake bulletins ride the [SF fiction-quarantine wave](/timeline/evt-mars-literature-as-reclassified-nonfiction) and match leaking **Boston-era** wireless — not a same-decade Mars raid. See reader essay Halloween section.
 
 ### 1.5 The balancing act that backfired (Author)
 
@@ -326,7 +359,7 @@ Marvel needs gadgets. A real Mars secret war only needs **attribution failure** 
 |-------|---------|------|
 | **MFEE** | ~1774 | Mars self-wounding / Earth mudflood — *prior* |
 | **Recovery / Horde redaction** | 19th c. | Advanced memory contested |
-| **Incursion** | Late 19th c. (Wells 1897–98 print; mystery airships 1896–97 adjacency) | Mars→Earth foothold attempt |
+| **Incursion** | Late 19th c. (**Boston-first** Author; Wells London encode 1897–98 print; mystery airships 1896–97 adjacency) | Mars→Earth foothold attempt (§1.4b) |
 | **Canal visibility** | **1877–~1908** (Schiaparelli → Lowell peak) | Active / readable **waterworks** on Mars (§1.6) |
 | **Leftover kit** | Immediate aftermath of incursion | **Primrose Hill flying-machine** + machines on display (§1.4) |
 | **Counterstrike window** | **Civil War → WWII** (**Author** focus); Serviss encode **1898** | Earth→Mars reply; **canal grid killed** (“we turned the water off”) |
@@ -445,6 +478,8 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 ### 6.1 Literary / disclosure
 
 - [x] Wells Primrose Hill **flying-machine** + Epilogue “machine that stands there still” — locked as **primary Documented tech seed** (§1.4).
+- [x] Boston-first locus + Wells republication seal vs draft-theft myth — locked as working Author reconstruction (§1.4b); soft path preferred.
+- [ ] Physical bibliography hunt: Cosmopolitan/Pearson accession stamps, US ads quoting Boston geography before magazine objects, printer/postal marks (§1.4b harder path).
 - [ ] Close-read Serviss for reverse-engineering of **derelict Martian gear** vs Wells leftovers (join language).
 - [ ] Close-read Serviss for **non-Wells** specifics (pyramid claim provenance; Aina chronology ~9,000 yrs / 5,000 Mars years).
 - [ ] Map other **Earth-attacks-Mars** titles 1865–1945 (Hamilton, interwar German Mars fiction, Stapledon war chapters, etc.).
@@ -493,7 +528,7 @@ always  1° political link   Earth↔Mars command caste; publics dark both ends 
                           on Mars overlooked as “consequence” (§1.10)
   …    Remnant            Technocratic / host-body program; canals still runnable
 1877+  Schiaparelli       Telescopes see canali / irrigation signature
-late   Incursion          Mars → Earth (WotW lane); Primrose Hill flyer left
+late   Incursion          Mars → Earth (Boston-first Author; London encode); leftover flyer
 1865–  Counterstrike?     Earth → Mars; dams smashed — WE turn the water off
 1945
 ~1909+ Canals “fade”      Establishment: illusion; Mariner 1965 seals desert
