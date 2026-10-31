@@ -412,11 +412,13 @@ The Martians already had fighting-machines that could stride 100 feet tall at ex
 
 **Why build a flying-machine?**
 
-Not for combat — they didn't need it. Not for colonization — they weren't settling. The flying-machine was being built to **leave**. It was their ticket home. And they died before they could use it.
+Not for combat — they didn't need it. Not for colonization — they weren't settling. The flying-machine was being built to **leave**. It was their ticket home.
+
+**Split force (Author):** The artilleryman’s lights / “something up in the air” already imply **some ships flew**. Clean crews went home. The Primrose Hill machine is the **infected remnant’s** unfinished craft — shunned from the clean ships after breaking host seal for blood. See [`wotw-forbidden-blood.md`](wotw-forbidden-blood.md); reader join [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 **AU-085 addendum (Earth leftovers):** Once abandoned, that **nearly finished** flyer — already tested in Earth’s denser air; still present for Epilogue sight-seers beside other Martian machines — is a **very significant, very possible** seed for human reverse-engineering and a later Earth→Mars **counterstrike**. Hiding such kit from nearly all humans is **less** plausible than using it; over-suppression can backfire into total erasure of the war’s memory. See [`earth-mars-counterstrike-investigation.md`](earth-mars-counterstrike-investigation.md) §1.4–1.5.
 
-Under the slave theory: these were laborers sent to prepare a foothold and return. But the blood-feeding was never part of the mission plan — it was the thing that destroyed it.
+Under the slave theory: these were laborers sent to prepare a foothold and return. Blood-feeding was never part of the mission plan — it destroyed the left-behind cut and leaked the war.
 
 ### The Forbidden Blood: Discipline Collapse, Not Protocol
 
@@ -433,11 +435,11 @@ The text supports this reading:
 - A handling-machine operator **died at the controls and crashed blindly into a house** — consistent with impairment, not orderly sickness
 - The final death scene at Primrose Hill shows Martians dead in overturned machines, slumped in rigid handling-machines — the postures of beings who lost motor control, not who succumbed to slow illness in their quarters
 
-The flying-machine — their return vessel — sat **incomplete** at Primrose Hill. They had military dominance, unlimited labor capacity, and all materials. The only explanation for mission failure is that the workforce became too impaired to function. They got high on human blood and couldn't stop.
+The Primrose Hill flying-machine — the remnant’s return vessel — sat **incomplete**. They still had military dominance and materials. What they lacked was a clean, functioning crew allowed aboard healthy ships. They got high on human blood and couldn't stop; the uninfected left without them.
 
-Their masters on Mars watched through the crystal surveillance network as fifty workers succumbed to terrestrial contamination they had been explicitly warned to avoid. No rescue cylinders were sent. The mission was written off. The blood-addicted labor force was left to die.
+Their masters on Mars watched through the crystal surveillance network as the contaminated cut succumbed to pathogens they had been warned to avoid. No rescue cylinders for the diseased redoubt. That labor force was left to die.
 
-They were never going to be allowed to return.
+They were never going to be allowed to return — and some of the others already had.
 
 > See `wotw-forbidden-blood.md` for the full analysis of blood-feeding as discipline collapse.
 

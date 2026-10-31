@@ -250,7 +250,7 @@ This is the behavior of a labor force preparing a staging ground, not an army be
 
 **3. The flying-machine as an escape vessel.**
 
-The great flying-machine at Primrose Hill — the final and largest place the Martians made — was being experimented with "upon our denser atmosphere when decay and death arrested them." Something flat and broad and very large was seen rushing up into the sky. If the Martians were conquerors, why build a flying machine when they already dominated the ground? The machine makes more sense as a **return vessel** — a way to leave Earth's gravity well. They were building their way home.
+The great flying-machine at Primrose Hill — the final and largest place the Martians made — was being experimented with "upon our denser atmosphere when decay and death arrested them." Something flat and broad and very large was seen rushing up into the sky. The artilleryman’s lights already in the air imply **other ships had flown** — clean crews home. The unfinished pit machine is the infected remnant’s craft. If the Martians were conquerors, why build a flying machine when they already dominated the ground? The machine makes more sense as a **return vessel** — a way to leave Earth's gravity well. Some built their way home. The blood-addicted cut died trying. See [forbidden blood](wotw-forbidden-blood.md); [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 **4. The blood-feeding created their vulnerability.**
 

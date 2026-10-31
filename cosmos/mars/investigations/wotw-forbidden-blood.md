@@ -1,6 +1,6 @@
 # The Forbidden Blood: Human Blood-Feeding as Discipline Collapse
 
-> **TL;DR:** The Martians were never ordered to feed on human blood. The feeding was forbidden — biologically suicidal and operationally catastrophic. What Wells describes is a workforce that achieved its initial military objectives, encountered an intoxicating indigenous substance, lost discipline, and consumed itself to death before completing its primary mission.
+> **TL;DR:** The Martians were never ordered to feed on human blood. The feeding was forbidden — biologically suicidal and operationally catastrophic. Wells’s artilleryman sees lights already in the sky: some slave crews finished clean and **flew home**. The ones who died broke host seal for a blood / [adrenochrome](https://paradigmthreat.net/history/chronology/investigations/skinwalkers-cryptids-rus-horde-extirpation-investigation.md)-class high, were shunned from the clean ships, and left the unfinished Primrose Hill flyer — kit, bodies, and motive — for Earth. Tactical half-win; secrecy catastrophe. Reader join: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 *An analysis of the Martian blood-feeding in H.G. Wells' War of the Worlds — arguing that blood consumption was never an authorised mission protocol but a catastrophic breakdown of discipline that destroyed the entire operation.*
 
 > **Companion documents:**
@@ -132,6 +132,10 @@ Human blood is not a sterile fluid. It is a medium teeming with:
 
 For a being with **zero immunological history** against terrestrial organisms, injecting human blood directly into one's vascular system is the single most dangerous possible interaction with the target planet. It bypasses every external barrier — skin, mucous membranes, stomach acid — and delivers the full complement of Earth's microbial ecosystem directly into the organism's internal environment.
 
+**Host seal vs pipette:** Occupants ride inside Earth-variant host bodies. Stay sealed and surface pathogens mostly stay outside. Break the seal and mainline human blood, and infection is nearly guaranteed. That is the **knowable mistake** the returnees did not make — and the artilleryman’s sky lights already imply returnees existed.
+
+**Why break the seal:** First working answer is the adrenochrome-class high — the biggest rush available, past addiction simply too strong to refuse. Who starts? The most disobedient cut of the slave force: little to live for or return to, willing to burn the mission clock for the high. Once infected they are not allowed on the clean ships. Home cannot usefully order healthy crews onto a diseased flyer any more than it can order addicts clean. The left-behind improvise with limited help and limited stock. That is the unfinished Primrose Hill machine.
+
 Any competent mission planner aware of the biological risk (and the Crystal Egg surveillance network had been monitoring Earth for years, possibly decades) would have issued a strict **biological non-contact protocol.** Do not touch the organisms. Do not consume their fluids. Build the machines, prepare the ground, and return.
 
 The prohibition would have been absolute, and for obvious reason.
@@ -150,17 +154,18 @@ What happened instead:
 1. Workers arrive and perform their assigned tasks competently (Days 1–5)
 2. Military opposition collapses; immediate operational pressure lifts
 3. Humans become available as captives at the pits
-4. Someone tries the blood — discovers it produces euphoria
-5. Consumption spreads through the group
-6. Discipline collapses
+4. Someone tries the blood — discovers it produces euphoria (adrenochrome-class high)
+5. Consumption spreads through the **disobedient** cut of the force
+6. Discipline collapses inside that cut; clean crews refuse them
 7. Contamination accumulates with each feeding
-8. Workers become impaired — machines crash, operations stall
-9. The return vessel is never completed
-10. The entire labor force dies
+8. Impaired operators crash machines; ops stall for the infected
+9. Clean crews finish ships and **leave** (artilleryman lights)
+10. Infected remnant tries its own flyer at Primrose Hill with limited help — unfinished when death arrests them
+11. Kit, bodies, and readable motives stay on Earth
 
-The masters on Mars watched through their crystals. They saw the discipline collapse in real time. They sent no rescue cylinders. No additional workers. No resupply.
+The masters on Mars watched through their crystals. They saw the discipline collapse in real time. They sent no rescue for the contaminated. No additional workers for the diseased redoubt.
 
-**The mission was written off as contaminated.**
+**Tactically:** some returnees — mission half-won. **Strategically:** leftovers on Earth wreck secrecy. For a camp whose plans only work as a secret war, that is possibly the biggest setback those plans ever took.
 
 ---
 
@@ -192,25 +197,25 @@ This is consistent with a being in the final stages of systemic collapse trigger
 
 If the blood-feeding was not protocol but discipline collapse, the implications for the broader Mars contacts narrative shift significantly:
 
-1. **The mission was viable.** The Martians had the technology, military dominance, and industrial capability to establish a permanent Earth foothold. They failed not because of bad planning but because of **behavioral failure** at the operational level.
+1. **The mission was viable — and partly succeeded.** Technology, military dominance, and industrial capacity were enough. Clean crews flew home. The infected remnant failed from **behavioral failure**, not bad engineering.
 
 2. **Mars command learns from the failure.** Subsequent contacts (1938, 1942, 1947) may represent missions with different protocols — automated observation, non-biological contact, or crash analysis — designed to avoid the blood-feeding catastrophe.
 
-3. **The Crystal Egg surveillance continues.** The masters still have eyes on Earth. The failure of the first mission does not end their interest — it ends that particular method.
+3. **The Crystal Egg surveillance continues.** The masters still have eyes on Earth. Writing off the contaminated redoubt does not end interest — it ends that particular method.
 
 4. **The fiction pipeline serves as warning.** By publishing the account, Wells (or his source) ensured that the failure mode was documented. Future readers — human or otherwise — would know exactly what went wrong.
 
-5. **The "forbidden" nature explains the cover-up.** If the mission was destroyed by insubordination rather than enemy action, the ruling caste has every reason to suppress the account. A slave revolt in which the slaves destroyed themselves through forbidden consumption is more embarrassing than military defeat.
+5. **The "forbidden" nature explains the cover-up.** Insubordination plus leftover kit is worse than military defeat: it hands Earth the ladder and the motive map. Secrecy was the real objective. Leaving technology and bodies on Earth undoes the goals the raid scored.
+
+6. **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md) — lights → returnees → blood mistake → secrecy collapse.
 
 ---
 
 ## Summary
 
-The Martians were never ordered to feed on human blood. The feeding was forbidden — biologically suicidal and operationally catastrophic. What Wells describes is a workforce that achieved its initial military objectives, encountered an intoxicating indigenous substance, lost discipline, and consumed itself to death before completing its primary mission.
+The Martians were never ordered to feed on human blood. The feeding was forbidden — biologically suicidal and operationally catastrophic. Some crews stayed sealed, finished ships, and went home. The rest broke host seal for the high, were shunned from the clean craft, and died around an unfinished flyer at Primrose Hill.
 
-The flying-machine sat unfinished at Primrose Hill. The masters watched from Mars through their crystals. No rescue came.
-
-Fifty workers, dead in their machines, killed by the one thing they had been told not to touch.
+The masters watched from Mars through their crystals. No rescue came for the contaminated. The leftovers on Earth made the war impossible to keep fully secret — a strategic undo of a tactical half-win.
 
 ---
 

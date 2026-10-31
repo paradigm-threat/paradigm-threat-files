@@ -265,7 +265,7 @@ Synthesizing all four sources through the classified intelligence framework:
 - **Role:** Labor force — construction, military operations, resource extraction
 - **Location:** Sent to Earth in cylinders. Expendable.
 - **Observed activities:** Machine construction, aluminium smelting, fighting, human capture, blood-feeding, building the flying-machine (escape vessel)
-- **Fate:** Died of terrestrial bacterial infection contracted through mandatory blood-feeding protocol. The bacteria infected the host body's biological components, which in turn killed the occupant. No surviving witness reported extracting a living occupant from a suit — **Author:** biped remains already inventoried as "provisions" + museum trust = self-sealing public story (**not** a manuscript redaction).
+- **Fate:** Split force. Clean crews finished ships and left (artilleryman lights). Infected remnant — host seal broken for forbidden blood / adrenochrome-class high — died of terrestrial bacteria at Primrose Hill around an unfinished flyer; shunned from clean craft. No surviving witness reported extracting a living occupant from a suit — **Author:** biped remains already inventoried as "provisions" + museum trust = self-sealing public story (**not** a manuscript redaction). See [forbidden blood](/cosmos/mars/investigations/wotw-forbidden-blood.md); [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 ### The Cover / Subject Species (Crystal Egg white bipeds; cylinder "provisions")
 
