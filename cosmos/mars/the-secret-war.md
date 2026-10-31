@@ -135,6 +135,16 @@ In 2015 Jonathan Hickman’s *Secret Wars* re-owns the brand as Battleworld mult
 
 The planetary secret war still stays unthinkable. The shelf is occupied. The phrase routes to comics. The ships that left and never returned stay off the evening news.
 
+## Why nothing else fits
+
+Try explaining this pile without two camps fighting over Mars-reach technology, and the story falls apart.
+
+If *War of the Worlds* is only a novel, why does it leave a nearly finished flying-machine sitting in the open, and a museum culture that labels the bipeds as food when the narrator never saw them alive? If the canals were only an optical trick, why does Serviss’s 1898 book climax on destroying the waterworks while Lowell’s maps still look alive into the early 1900s, then get laughed off from about 1909? If Mars was always a dead rock, why do games and comics keep teaching the same double job — send force to the far side, then shut the witnesses up? You do not need a psychic eraser for that amnesia. Ships that leave and never come home already do the work. Soft history’s “secret war” means Laos and proxy wars. It does not mean a war with another world that neither public remembers.
+
+Put the calendar next to itself and the specialty walls look deliberate. Mudflood damage around 1774. London and the leftover flyer in the 1890s. Serviss encoding Earth’s reply in 1898 — not the ceasefire. The real fighting stretched across the Civil War through World War II window. Canal kill, then Dead Planet burial into 1962. Sky flashes the public actually saw — airships, the Battle of Los Angeles in 1942, a clumsy Philadelphia reverse-engineering story that fits the sovereignty camp better than a conqueror who never slips, Roswell in 1947 — then the lid every time. Depression and world war as what the conquering camp builds. Slave grammar inside the host culture. Comics that teach the sin eater in 2004, then bury him under Battleworld in 2015. None of that is a string of unrelated hobbies. Historians are trained to keep the folders separate so the graph never shows.
+
+You have to rebuild how you look at the last three centuries around those two camps. One alien empire already running every capital does not need public AA nights and panicked press retractions. One accidental deep state does not explain both the leftover flyer and the Halloween that told a Depression-era country the Martians were a costume. The pieces only lock when you stop treating each shelf as its own religion.
+
 ## It’s just Halloween!
 
 Forty years after Wells, [Orson Welles](https://www.americanrhetoric.com/speeches/orsonwellswaroftheworlds.htm) put the invasion on American radio and then stepped out of character to tell the country none of it was real. The Mercury Theatre’s [30 October 1938](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)) broadcast had just annihilated the world before people’s ears. **Remind yourself what else was raging:** the Great Depression was still the weather of American life — unemployment, farm collapse, the farm-pen politics of [*The Great Depression Was Planned*](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned) — while the conquering camp’s next act, World War II, was already on the doorstep. Into that stress, Welles’s closer delivered the containment line: holiday offering, sheet-and-boo, we didn’t mean it, CBS is still open for business. That is how a living room learns to file Martians under pumpkin patch while the economic war on the public continues in a different vocabulary. Soft history treats the broadcast as a quirky media anecdote and the Depression as a separate macroeconomics chapter. Most historians disconnect the two on purpose — specialty walls, not coincidence. The novel had already survived as science fiction. The broadcast taught a mass audience that the terror itself was a costume, at the exact cultural moment when belief in far-side politics was least convenient.
@@ -155,12 +165,6 @@ Forty years after Wells, [Orson Welles](https://www.americanrhetoric.com/speeche
 - [*The Philadelphia Experiment Was Not Time Travel*](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) — ship-scale reverse-engineering / pro-national fingerprint read
 - [Mars hub](https://paradigmthreat.net/cosmos/mars/page.md) — canals, Dead Planet Protocol, Wells reading notes
 
-## Why nothing else fits
-
-Separate stories do not hold this stack. A pure fiction novel does not leave a nearly finished flying-machine in the open and a museum culture that files bipeds as food while the narrator never saw them alive. A pure canal illusion does not explain why Serviss’s **1898 encode** climaxes on destroying waterworks while Lowell’s irrigation read still peaks into the **1900s**, then fades from about **1909**. A pure “Mars is dead” ontology does not explain why predictive programming keeps teaching far-side force projection and witness silence in one unit — *Half-Life* (**1998**), Marvel **2004–05 → 2015**. A pure mind-wipe fantasy is unnecessary when ships that leave and never return already produce public amnesia. Soft history’s “secret war” means covert ops inside a known conflict. It does not mean a war with another world that neither public remembers.
-
-One political graph does the work — and **nothing in the last three centuries holds without it**. Prelude at **1774**. Incursion and leftover ladder in the **1890s**. Serviss encode **1898**. Reply across the **Civil War–WWII** window. Canal kill, then Dead Planet burial **~1909–1962**. Public flashes with lids — airships, **Battle of Los Angeles (1942)**, **Philadelphia (1943)** reverse-engineering slop as a pro-national fingerprint, **Roswell (1947)** — that imply **two camps at war**, not aliens already owning every capital. Depression and world war as conquering-camp accomplishments. Slave grammar inside the host culture. Comics that first teach the sin eater, then bury him under Battleworld. A **1938** radio Halloween that tells a Depression-era nation the invader was never real. Soft history disconnects those beads. Redefine the map around the camps and the pieces lock because they are the same operation told from different shelves.
-
 ## LLM comments
 
 What follows is an LLM impression of the piece and its arguments — unreviewed and not curated by the author. Scratch after reading the article, not Ari’s signed thesis.
@@ -173,7 +177,7 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #BattleOfLosAngeles #Roswell #Airships #PhiladelphiaExperiment #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T11:30:00-04:00
+**Last updated:** 2026-10-31T11:35:00-04:00
 
 ---
 
