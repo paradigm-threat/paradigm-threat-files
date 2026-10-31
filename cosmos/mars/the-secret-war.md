@@ -7,7 +7,7 @@ aspect: hero
 model: final
 -->
 
-![The Secret War — unfinished flying-machine on a London hill; Earth and Mars under one covered-up war](https://paradigmthreat.net/cosmos/mars/the-secret-war.png)
+![The Secret War — unfinished flying-machine on a London hill; Earth and Mars under one covered-up war](https://paradigmthreat.net/cosmos/mars/the-secret-war.jpg)
 
 > **TL;DR:** After a late-nineteenth-century Mars attack on Earth left flying-machine technology in human hands, a secret war between the planets was fought and then covered up. [*The War of the Worlds*](https://www.gutenberg.org/ebooks/36) (1897) and [*Edison’s Conquest of Mars*](https://www.gutenberg.org/ebooks/19141) (1898) are how that story got filed into public culture — not the full ops calendar. The fighting itself ran for decades, roughly Civil War through World War II. The canal maps faded from about 1909; the [Dead Planet](https://paradigmthreat.net/timeline/evt-mars-surface-dismantling-dead-planet-protocol) story sealed into the early 1960s. Things still broke into public — [mystery airships](https://paradigmthreat.net/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md), the [Battle of Los Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles), [Roswell](https://en.wikipedia.org/wiki/Roswell_incident), a clumsy [Philadelphia](https://paradigmthreat.net/events/philadelphia/the-philadelphia-experiment-was-not-time-travel.md) reverse-engineering story — and then got shut down. That pattern points to **two camps at war**, not aliens already owning every government. Soft history keeps each event in its own folder so you never join them. The publics on both worlds were kept dark. The poison was never a single base to bomb. It was a culture that could flip anyone from virtue to desperation.
 
@@ -17,7 +17,7 @@ H. G. Wells opened *The War of the Worlds* by saying no one would have believed 
 
 Stop treating Earth and Mars as two sealed worlds that only meet in pulp. Treat them as one political neighborhood with a thin command channel at the top and mass publics kept unaware on both ends. The war that matters is secret by design: send force to the far side, and keep the record from becoming public memory.
 
-![The Secret War — timeline from MFEE through London incursion, Earth reply, canal kill, Dead Planet Protocol, and media echoes](https://paradigmthreat.net/cosmos/mars/the-secret-war-timeline.png)
+![The Secret War — timeline from MFEE through London incursion, Earth reply, canal kill, Dead Planet Protocol, and media echoes](https://paradigmthreat.net/cosmos/mars/the-secret-war-timeline.jpg)
 
 The invaders left a great flying-machine on Primrose Hill — already under atmospheric test when disease stopped them. That kit is not a prop. It is a ladder. Earth factions that could finish or copy it suddenly had lift, and a reason to use it.
 
@@ -34,6 +34,8 @@ Wells’s narrator watches the pit. He sees the rounded fungoid forms crawl from
 Later, in a retrospective digression that mixes memory with later science, the book mentions shrivelled biped remains that “had fallen into human hands” — about six feet tall, flimsy siliceous skeletons, round heads, large eyes in flinty sockets — two or three per cylinder, “all killed before earth was reached,” filed as provisions from Mars. The narrator never watched them eaten in the pit. He never attended an autopsy that opened a host and pulled an occupant free. He trusted the museum and the anatomists the way a survivor trusts the institutional caption. The Epilogue even points the general reader at the magnificent specimen in the Natural History Museum and says the rest is purely scientific.
 
 Those bipeds are the actual Martians who occupy the host bodies. The four-foot fungoid “Martian” witnesses saw is the suit — armor, life support, and interface in one. Occupants ride curled inside. The suit owns locomotion and the senses. Wells already said they wore different bodies according to their needs, just as men wear suits of clothes. The food label is the cheapest way to keep a casual reader from joining the two layers. Display the suit as the organism and the biped as livestock, and nobody asks what was supposed to wear the equipment.
+
+![Occupant biped, fungoid host (head + tentacle-hands, no arms/legs), brazen-hood fighting-machine with fisherman’s-basket rear and Heat-Ray case](https://paradigmthreat.net/cosmos/mars/the-secret-war-host-bodies.jpg)
 
 [*Independence Day*](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) later stages the public opening Wells’s survivor account never performs — the autopsy that extracts the occupant. Wells’s printed text did not need a deleted confession. Silence and an unasked question already sealed the secret.
 
@@ -89,11 +91,9 @@ After a triumphant counterstrike the horrible final reality is that you can find
 
 ## Bodies as equipment
 
-![Body as equipment — host and occupant across War of the Worlds, Independence Day, Half-Life 2 Stalkers, and related Mars encodings](https://paradigmthreat.net/cosmos/mars/investigations/body-as-equipment-host-occupant.jpg)
-
-![Occupant biped, fungoid host (head + tentacle-hands, no arms/legs), brazen-hood fighting-machine with fisherman’s-basket rear and Heat-Ray case](https://paradigmthreat.net/cosmos/mars/the-secret-war-host-bodies.png)
-
 The conquering camp needs a slave culture deep inside it. Even at high levels, people know they are using real human slaves as tools — controlled, made dependent, forced to work. That is the nature of the original War of the Worlds invasion once the bipeds are read as riders rather than rations.
+
+![Body as equipment — system of control, same slave grammar across media, six-beat WotW predicament](https://paradigmthreat.net/cosmos/mars/investigations/body-as-equipment-host-occupant.jpg)
 
 Read the London campaign as a **predicament**, not a pleasure cruise for gods. The workers are shot from Mars in cylinders — ballistic cargo, not tourist liners. On landing they cannot stroll out as bare bipeds; they stay locked in Earth-variant host bodies they cannot leave without dying under our gravity and air. The cylinder itself becomes scrap and raw stock. Handling-machines pull rods, plates, and bars out of it to build the first tripods. With those machines they must defend a beachhead using what they have: a Heat-Ray on a machine arm — a metallic case Wells also calls a camera — and large shields that stagger up into the first walking frames. They clear whole districts of humans not as sport but to make industrial room — pits, forges, and finally the Primrose Hill redoubt — because the real assignment is to **build ships that can leave Earth’s denser air and go home**. Every day is a ticking clock. Terrestrial disease is already in the blood protocol. There is no rescue cylinder waiting if they fail. Finish the return vessel or rot in the suits. Rebellion is hard when your body is owned by the masters and home servicing never comes.
 
@@ -141,7 +141,7 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #BattleOfLosAngeles #Roswell #Airships #PhiladelphiaExperiment #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T12:00:00-04:00
+**Last updated:** 2026-10-31T11:40:00-04:00
 
 ---
 
