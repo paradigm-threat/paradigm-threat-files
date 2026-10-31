@@ -108,7 +108,7 @@ They had total military dominance. Unlimited raw materials. All the labor capaci
 
 Separate from “forbidden / discipline collapse”: **why injection nourishes.**
 
-Lead with **IV antigen**, not eating taboos (cannibalism taboo is poorly understood and **not** used here; oral blood ≠ transfusion).
+**Strong proof — transfusion ≠ eating.** Digestion can process foreign tissue. Intravenous transfusion cannot: wrong species → antigen mismatch → hemolysis. Wells’s Martians have **no gut** (“Entrails they had none”); they do not eat. Pipette → recipient canal → veins **nourishes** them on **human** blood; only Earth bacteria kill. Cattle never appear as donors. ⇒ riders are **human-stock** in hosts, not an unrelated xenophylum sipping plasma. Do **not** argue from cannibalism taboo (poorly understood; irrelevant to IV physiology).
 
 1. Pipette → veins **sustains** them; cross-species transfusion would hemolyze — ⇒ **human-stock**.
 2. Wells: **human donors only** on Earth.
@@ -116,7 +116,7 @@ Lead with **IV antigen**, not eating taboos (cannibalism taboo is poorly underst
 4. Wells: descent “not unlike ourselves”; biped riders + “suits of clothes.”
 5. Sterile Mars: blood accepted; Earth microbes kill.
 
-Full stack: [analysis — Feeding](wotw-martian-analysis.md#feeding).
+Full stack: [analysis — Feeding](wotw-martian-analysis.md#feeding). Reader essay: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 ## Why Human Blood Was Dangerous
 

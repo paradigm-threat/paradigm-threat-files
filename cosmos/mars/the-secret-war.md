@@ -35,6 +35,8 @@ Later, in a retrospective digression that mixes memory with later science, the b
 
 Those bipeds are the actual Martians who occupy the host bodies. The four-foot fungoid “Martian” witnesses saw is the suit — armor, life support, and interface in one. Occupants ride curled inside. The suit owns locomotion and the senses. Wells already said they wore different bodies according to their needs, just as men wear suits of clothes. The food label is the cheapest way to keep a casual reader from joining the two layers. Display the suit as the organism and the biped as livestock, and nobody asks what was supposed to wear the equipment.
 
+The hard proof that the riders are **human-stock** is not a cannibalism taboo and not “they look like us.” It is **transfusion versus eating**. Eating another species is ordinary biology — digestion breaks foreign proteins down. Running fresh blood **into the veins** is not eating. Cross-species transfusion fails: antigen mismatch, hemolysis, shock. Wells’s Martians have **no digestive system** — entrails they had none — and they do not eat, much less digest. On Earth they take living human blood by pipette into a recipient canal and are **nourished** by it. Only terrestrial bacteria kill them; the blood itself works. That only happens when donor and recipient share the same circulatory chemistry, or near enough. Cattle blood is never tried in the book. Human donors only. So the bipeds inside the suits are not an unrelated xenophylum that happens to drink plasma. They are human-stock occupants in Earth-variant hosts. Full stack: [WotW analysis — Feeding](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-analysis.md#feeding).
+
 ![Occupant biped, fungoid host (head + tentacle-hands, no arms/legs), brazen-hood fighting-machine with fisherman’s-basket rear and Heat-Ray case](https://paradigmthreat.net/cosmos/mars/the-secret-war-host-bodies.jpg)
 
 [*Independence Day*](https://paradigmthreat2.substack.com/p/everything-in-independence-day-is) later stages the public opening Wells’s survivor account never performs — the autopsy that extracts the occupant. Wells’s printed text did not need a deleted confession. Silence and an unasked question already sealed the secret.
@@ -119,7 +121,7 @@ In 2015 Jonathan Hickman’s *Secret Wars* re-owns the brand as a Battleworld mu
 
 Try explaining this pile without two camps fighting over Mars-reach technology, and the story falls apart.
 
-If *War of the Worlds* is only a novel, why lights already in the sky *and* an unfinished flyer left in the open, with bipeds filed as food when the narrator never saw them alive? If the canals were only an optical trick, why does Serviss climax on destroying the waterworks while Lowell’s maps still look alive into the early 1900s? If Mars was always a dead rock, why do [*Half-Life*](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and Marvel keep teaching send-force-then-silence-witnesses? Soft history’s “secret war” means Laos and proxies. It does not mean a war with another world that neither public remembers. Ships that leave and never come home already produce the amnesia without a psychic eraser — and ships that leave **kit and corpses** behind make the cover impossible.
+If *War of the Worlds* is only a novel, why lights already in the sky *and* an unfinished flyer left in the open, with bipeds filed as food when the narrator never saw them alive — and why does vein-injected human blood **nourish** organisms with no gut if they are not human-stock? If the canals were only an optical trick, why does Serviss climax on destroying the waterworks while Lowell’s maps still look alive into the early 1900s? If Mars was always a dead rock, why do [*Half-Life*](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and Marvel keep teaching send-force-then-silence-witnesses? Soft history’s “secret war” means Laos and proxies. It does not mean a war with another world that neither public remembers. Ships that leave and never come home already produce the amnesia without a psychic eraser — and ships that leave **kit and corpses** behind make the cover impossible.
 
 One alien empire already running every capital does not need public anti-aircraft nights and panicked press retractions. One accidental deep state does not explain both the leftover flyer and the Halloween that told a Depression-era country the Martians were a costume. The pieces only lock when you stop treating each shelf as its own religion.
 
@@ -145,7 +147,7 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #ForbiddenBlood #Adrenochrome #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #BattleOfLosAngeles #Roswell #Airships #PhiladelphiaExperiment #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T12:00:00-04:00
+**Last updated:** 2026-10-31T12:05:00-04:00
 
 ---
 
