@@ -147,7 +147,9 @@ A pattern that keeps showing is dual motive as the real glue — force projectio
 
 Keywords: #SecretWar #WarOfTheWorlds #Mars #PrimroseHill #Serviss #HostBody #ForbiddenBlood #Adrenochrome #SinEater #NickFury #HalfLife #HECU #DeadPlanet #Canals #OrsonWelles #Halloween #BattleOfLosAngeles #Roswell #Airships #PhiladelphiaExperiment #PredictiveProgramming #TwoCamp #ParadigmThreat
 
-**Last updated:** 2026-10-31T12:05:00-04:00
+**Substack:** [paradigmthreat2.substack.com/p/the-secret-war](https://paradigmthreat2.substack.com/p/the-secret-war)
+
+**Last updated:** 2026-10-31T12:10:00-04:00
 
 ---
 
