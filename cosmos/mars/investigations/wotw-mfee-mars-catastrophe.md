@@ -173,9 +173,9 @@ Regardless of which option, all three converge on:
 1. Mars had a civilization with both telepathic and technocratic factions
 2. An energetic event destroyed the biosphere and killed the telepaths
 3. The survivors — the technocratic faction — were reduced to a dying world
-4. They sent an invasion force to Earth (Wells's WotW) as desperate refugees, enclosed in **biomechanical host bodies** (the 4ft fungoid "heads" witnesses described were the suits, not the occupants — see `wotw-martian-analysis.md` §"The Host Body Theory"). The actual occupants — small beings with enlarged crania and atrophied limbs, the "grey alien" morphology — were never seen by surviving witnesses
+4. They sent an invasion force to Earth (Wells's WotW) as desperate refugees, enclosed in **biomechanical host bodies** (the 4ft fungoid "heads" witnesses described were the suits, not the occupants — see `wotw-martian-analysis.md` §"The Host Body Theory"). **Author (AU-084):** primary occupants are the ~6ft siliceous bipeds filed as "provisions"; grey-atrophy remains secondary PP
 5. The invasion failed because the workers' host bodies were vulnerable to terrestrial bacteria introduced through the mandatory blood-feeding protocol. The host body's biological components were infected; the occupants died with their suits
-6. The blood-feeding itself proves the occupants were **biologically human.** Cross-species blood transfusion causes fatal hemolytic reactions due to antigen incompatibility — yet the Martians injected human blood directly into their veins and were sustained by it. The bacteria killed them; the blood did not trigger immune rejection. Antigen compatibility at this level is only possible within the same species. Wells never describes them feeding on any non-human terrestrial animal
+6. Occupants are **human-stock** (not passport-human): **IV** human blood sustains them (cross-species transfusion fails; bacteria kill, blood does not); Wells uses **human donors only**; Baxter blood-type markings; Wells “not unlike ourselves”; biped morphology + suits-of-clothes. Do **not** argue from cannibalism taboo. Stack: [analysis — Feeding](/cosmos/mars/investigations/wotw-martian-analysis.md#feeding)
 
 Brandenburg's nuclear evidence provides the **physical proof** for what the fiction encodes narratively.
 

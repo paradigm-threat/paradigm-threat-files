@@ -35,12 +35,23 @@
 - They did not eat, much less digest
 - They took the **fresh, living blood of other creatures** and injected it directly into their own veins
 - Blood was obtained from a still living animal — **in most cases from a human being** — and run directly by means of a **little pipette into the recipient canal**
-- Feeding was preceded by a peculiar **hooting** sound — invariably — which had no modulation and was believed to be merely the expiration of air preparatory to the suctional operation
+- **Documented (method blank):** Wells claims he saw feeding done, then refuses the scene — "I cannot bring myself to describe what I could not endure even to continue watching." The lad killed on the third day of imprisonment is "the only occasion on which I actually saw the Martians feed"; he leaves the peephole. No pipette, tentacle, or vein is shown on the page. Technical gloss only: pipette → recipient canal → veins; sensory gloss: "**suctional** operation."
+- Feeding was preceded by a peculiar **hooting** sound — invariably — which had no modulation. **Documented narrator gloss:** "merely the expiration of air preparatory to the suctional operation" (not a signal). After a man is dumped in the pit: **shrieking and sustained cheerful hooting**.
+- **Author (hoot = craving):** invariable pre-feed hoot + cheerful post-capture tone read better as **anticipation / addict ritual** than plumbing warmup. Blood is the only intake path (no gut) — the host's feed cycle is the whole reward loop. Antigen-compatible human-stock transfusion is literally mainlining. See [forbidden blood](wotw-forbidden-blood.md).
+- **Author (host plumbing):** pipette tip may be a tentacle-hand used as cannula; Spielberg 2005's blood-mist / soaked landscape is PP of the suit **bathing in** its circulatory medium, not mouth-eating. Neither book states "through the tentacles" as fact.
 - **Documented:** Wells says their preference for men as nourishment is "partly explained" by "victims they had brought with them as **provisions from Mars**": bipedal creatures with flimsy siliceous skeletons, ~6 feet tall, round erect heads, large eyes in flinty sockets — 2–3 per cylinder, "all killed before earth was reached" ([corpus](wotw.md)). The blood-injection protocol is described only with **human** victims on Earth. The fungoid Martians have **no digestive system** ("Entrails they had none") — they do not eat, much less digest.
 - Enormous quantities of a **ruddy-brown fluid** spurted from damaged machines (likely the blood supply)
 - **Critical:** Wells never describes the Martians feeding on any non-human terrestrial animal — no cattle, horses, dogs, or wildlife. On Earth, they fed exclusively on **human blood.** Nowhere in Wellsian literature do Martians attempt to use animal blood as a substitute.
 - **Author (supersedes the old "eaten rations" project reading):** Calling the cylinder bipeds "provisions" is institutional filing that severs the suit/occupant link for a casual reader — **not** a cut from a fuller manuscript. Creatures with no digestive system cannot "eat" rations; the label files the **true form / occupants** as livestock so the reader never connects bipeds ↔ hosts. Full argument: [Bipeds as occupants](#bipeds-as-occupants--the-provisions-cover) below.
-- **Antigen compatibility implication:** Cross-species blood transfusion causes severe, usually fatal **hemolytic immune reactions** due to antigen incompatibility. Red blood cell surface antigens differ between species; introducing incompatible blood triggers rapid destruction of transfused cells, organ failure, and death. If the Martians injected human blood directly into their veins and it **sustained** them rather than killing them, their circulatory biology must have been **antigen-compatible with human blood.** This is strong evidence that whoever occupied the host bodies was **biologically human** — or so recently diverged from human stock that blood-group antigens had not yet differentiated. Under the bipeds-as-true-form reading, that compatibility points at the bipeds themselves as human-stock, not Martian livestock.
+- **Human-stock argument (lead with IV antigen; do not use cannibalism taboo):**
+  1. **Strongest — IV human blood sustains them.** Not oral “consumption.” Cross-species **transfusion** fails (hemolysis). Wells: fresh human blood run by pipette into the **recipient canal** / **injected into their own veins** and **nourished** them; only terrestrial bacteria killed them. ⇒ circulatory biology is **same species or very recently diverged** (**human-stock**, not passport-human).
+  2. **Human blood only on Earth.** No cattle, horse, dog, or wildlife donors in Wells — exclusive human source matches typed compatibility, not “any mammal fluid.”
+  3. **Baxter sequel (*Massacre of Mankind*).** Blood-bank tubes with markings read as **blood types**; preference for specific human types ⇒ ABO-class kinship (authorised sequel PP).
+  4. **Wells’s own descent line.** Credible that Martians descend from beings “**not unlike ourselves**,” brain and hands hypertrophied.
+  5. **Occupant morphology.** Documented ~6ft siliceous bipeds (round heads, large flinty eyes) are humanoid; under AU-084 they are the riders — human-shaped rider + human-compatible blood converge.
+  6. **“Suits of clothes.”** Wear bodies as clothes ⇒ person-scale occupant in kit, not a unique xenophylum that happens to drink plasma.
+  7. **Sterile Mars / Earth microbes.** Blood itself accepted; microbiome kills — unexposed human-stock physiology, not alien rejection of the blood.
+  Context: oral blood-drinking is a muddy test (digestion ≠ transfusion). Cannibalism taboo is poorly understood and **not** used here. Under bipeds-as-occupants, antigen compatibility attaches to the **bipeds**, not to livestock.
 
 ### Reproduction
 - Absolutely **without sex** — therefore without tumultuous emotions arising from sexual difference
@@ -60,7 +71,7 @@
 ### Communication
 - Commonly supposed to communicate by sounds and tentacular gesticulations
 - However, the narrator (who saw more of the Martians in action than any other surviving human) was **convinced they communicated telepathically** — he watched four, five, and once six of them performing elaborate cooperative operations without either sound or gesture
-- Their hooting was not a signal but merely preparatory breathing for feeding
+- **Documented narrator gloss:** hooting is not a telepathic signal but "preparatory" air before the suctional feed. **Author:** same hoot = **anticipation / addict reaction** (see Feeding)
 
 ### Movement on Earth
 - Sluggish and clumsy on Earth's surface
@@ -247,7 +258,7 @@ The Martians had **no bacteria on Mars** and no immune system adapted to terrest
 
 Under the slave theory: the Martians were told to use human blood for sustenance. (The blood-injection protocol appears exclusively in connection with human victims. The cylinder bipeds Wells labels "provisions" are read here as the **occupants of the host bodies** — institutional filing, not eaten rations; see [Host Body Theory](#the-host-body-theory-what-was-inside-the-martians).) But human blood carried **terrestrial bacteria** against which they had zero resistance. Every feeding was a death sentence. Once injured Martians required more blood to heal or sustain themselves, the infection rate would have accelerated.
 
-Note the deeper implication: the blood-feeding **worked as nutrition.** Cross-species blood transfusion causes fatal hemolytic reactions — antigen incompatibility destroys foreign red blood cells within minutes. The Martians injected human blood and were sustained by it. This means their circulatory system was **antigen-compatible with human blood**, which is only possible between members of the same species or very recently diverged populations. The bacteria killed them; the blood itself did not. They were biologically human.
+Note the deeper implication: the blood-feeding **worked as nutrition.** See [Human-stock argument](#feeding) above — IV antigen compatibility + human-only donors; bacteria killed them, the blood itself did not. Say **human-stock**, not passport-human.
 
 They may have been told they could **never return** precisely because they had consumed the "forbidden" blood — blood tainted with microbes that would be catastrophic to a sterile Martian biosphere. They were expendable.
 
@@ -471,10 +482,11 @@ Registry: **[AU-084](/history/chronology/investigations/author-unique-theories.m
 2. "Provisions" / food-rations / slave-livestock wording in print = institutional filing the narrator trusts, not logistics fact and **not** evidence of a cut manuscript (**Author**).
 3. No-digestive-system physiology falsifies literal "eaten" reading of the bipeds (**Documented** anatomy + **Author** inference).
 4. *WotW* **was not redacted**; narrator never saw bipeds; silence + unasked question self-seals the secret (**Author**; pit vs digression + Epilogue specimen lines **Documented**).
-5. Human-blood antigen compatibility applies to whoever rode the suits — aligned with bipeds as human-stock, not livestock (**Author** on biped ID; antigen argument as before).
+5. Occupants are **human-stock** — IV human blood sustains (antigen); human-only donors; Baxter blood-type markings; Wells “not unlike ourselves”; biped morphology + suits-of-clothes (**Author** on biped ID; stack in [Feeding](#feeding); no cannibalism taboo).
 6. Grey-atrophy morphology remains secondary PP (*ID4*), not primary WotW occupant ID (**Author**).
 7. Bare biped remains vs clothed 1984 RV tall-thins: occupants who live in host bodies need not wear clothes (**Author** rhyme).
 8. Fit: ~6ft bipeds ride **fetal-curled** in ~4ft hosts; suit mediates senses/locomotion; "would have broken every bone" standing bare = never meant to leave the suit (**Author**).
+9. Pre-feed hooting = **anticipation / addict craving**, not mere breath-prep; cheerful post-capture hoot = euphoria (**Author**; invariable hoot + cheerful tone Documented; narrator's "expiration of air" gloss Documented). Spielberg blood-bath / tentacle-as-cannula are optional PP joins on the same blank (**Author**).
 
 ## Questions to clarify, verify, or debunk
 

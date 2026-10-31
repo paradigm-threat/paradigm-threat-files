@@ -74,10 +74,12 @@ Consider the precise analogy: **giving every crew member on a battle cruiser an 
 The parallels are exact:
 
 ### Intoxication Behavior
-The narrator describes the feeding with:
+Wells says hooting **invariably** precedes feeding and offers a tidy physiology gloss — "merely the expiration of air preparatory to the suctional operation." He also refuses the feed scene itself (pipette → recipient canal is all he will write; the lad killed is named, not shown).
+
+The capture sequence:
 > *Silence, then **shrieking and sustained cheerful hooting** from the Martians.*
 
-"Cheerful hooting" after consuming blood. This is not the clinical satisfaction of nutritional requirements. This is **euphoria** — an intoxication response. The Martians experience a high from human blood.
+**Author:** invariable **pre-feed** hoot + **cheerful** post-capture tone read as **anticipation / addict ritual**, not plumbing warmup. Cheerful hooting after the victim hits the pit is **euphoria** — a high from human blood, not clinical nutrition. See [analysis — Feeding](wotw-martian-analysis.md#feeding).
 
 ### Escalation
 Once feeding begins on Day 6, it does not stop. Humans are brought to the pit continuously. By the narrator's observation, a captive is killed approximately every other day for the remaining period. The feeding rate appears to increase as more Martians participate.
@@ -101,6 +103,20 @@ The flying-machine — the return vessel, the primary mission objective — sits
 They had total military dominance. Unlimited raw materials. All the labor capacity they needed. The only missing resource was **functioning workers**. The workforce became too impaired to complete the mission.
 
 ---
+
+## Human-stock (why human blood works at all)
+
+Separate from “forbidden / discipline collapse”: **why injection nourishes.**
+
+Lead with **IV antigen**, not eating taboos (cannibalism taboo is poorly understood and **not** used here; oral blood ≠ transfusion).
+
+1. Pipette → veins **sustains** them; cross-species transfusion would hemolyze — ⇒ **human-stock**.
+2. Wells: **human donors only** on Earth.
+3. Baxter: blood-bank markings as **blood types**.
+4. Wells: descent “not unlike ourselves”; biped riders + “suits of clothes.”
+5. Sterile Mars: blood accepted; Earth microbes kill.
+
+Full stack: [analysis — Feeding](wotw-martian-analysis.md#feeding).
 
 ## Why Human Blood Was Dangerous
 

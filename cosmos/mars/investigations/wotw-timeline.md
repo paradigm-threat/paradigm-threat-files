@@ -289,7 +289,7 @@ On this timeline's read, the wave is **visible overflight** during the oppositio
 - Something struggling violently lifted against the sky — a man, stout and well-dressed.
 - Vanishes behind the mound.
 - Silence, then **shrieking and sustained cheerful hooting** from the Martians.
-- (This is the feeding process — blood injected directly via pipette.)
+- (Feeding implied — Wells's technical gloss is pipette → recipient canal; the act itself is left undescribed. **Author:** pre-feed hoot + cheerful tone = anticipation / addict reaction, not mere breath-prep — [forbidden blood](wotw-forbidden-blood.md); [analysis Feeding](wotw-martian-analysis.md#feeding).)
 
 ### Concurrent Global Events
 - Narrator's brother reaches Chelmsford (Wednesday). News of Martians at Epping. Destruction of Waltham Abbey Powder Mills.
@@ -426,7 +426,7 @@ The analogy is precise: giving every crew member on a battle cruiser unlimited c
 The text supports this reading:
 - No feeding apparatus was brought from Mars — they improvised with pipettes
 - No systematic harvesting infrastructure was built — humans were grabbed ad hoc from cages on fighting-machine backs
-- The feeding is described with **"shrieking and sustained cheerful hooting"** — intoxication behavior, not clinical resource extraction
+- Feeding preceded by invariable hooting (narrator: air before "suctional operation"); capture climax is **"shrieking and sustained cheerful hooting"** — **Author:** anticipation / addict craving + euphoria, not clinical resource extraction
 - A handling-machine operator **died at the controls and crashed blindly into a house** — consistent with impairment, not orderly sickness
 - The final death scene at Primrose Hill shows Martians dead in overturned machines, slumped in rigid handling-machines — the postures of beings who lost motor control, not who succumbed to slow illness in their quarters
 

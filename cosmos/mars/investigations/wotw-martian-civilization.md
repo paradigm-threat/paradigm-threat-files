@@ -196,14 +196,23 @@ Either way, someone chose to send the most expendable, most mechanically-depende
 
 The WotW Martians have **no digestive system.** They subsist entirely by injecting fresh blood directly into their veins. Wells also reports bipedal creatures with flimsy siliceous skeletons brought from Mars, all killed before reaching Earth, labeled **"provisions."** The blood-injection protocol is described **exclusively** in connection with human victims.
 
-Upon reaching Earth, they were observed feeding on **human blood** — injected directly into their veins via pipette. This was the vector for the bacteria that killed them.
+Upon reaching Earth, they were observed feeding on **human blood** — injected directly into their veins via pipette (Wells refuses the visual; pre-feed **hooting** is invariable). **Author:** that hoot + cheerful post-capture tone = **anticipation / addict reaction**, not mere breath-prep ([analysis Feeding](/cosmos/mars/investigations/wotw-martian-analysis.md#feeding); [forbidden blood](/cosmos/mars/investigations/wotw-forbidden-blood.md)). This was the vector for the bacteria that killed them.
 
 **Assessment (updated):** Organisms with no digestive system do not eat rations. The old project reading (bipeds = food; humans = transfusion) treated Wells's label as logistics fact. **Author (current):** the bipeds are the **occupants of the host bodies**; "provisions" is institutional filing the survivor trusts — **not** a redacted alternate paragraph ([analysis](/cosmos/mars/investigations/wotw-martian-analysis.md#bipeds-as-occupants--the-provisions-cover)). The real puzzle is not "why transfuse when they already had food?" but **why file the occupants as food at all?** Remaining operational reads that still hold:
 1. The blood-injection protocol was **always intended for use with humans** — host-body life support on Earth, pre-planned before departure
 2. Workers were **instructed** to harvest human blood as a specific resource
 3. Feeding on human blood was the **designed kill switch** — ensuring the labor force could not survive long-term and return with terrestrial contamination
 
-**The antigen problem:** There is a more fundamental question the text never raises. Cross-species blood transfusion causes **fatal hemolytic immune reactions** — incompatible red blood cell antigens trigger rapid cell destruction, organ failure, and death. This is why a human cannot survive on dog blood or horse blood injected into the veins, and vice versa. Yet the Martians injected human blood directly into their circulatory systems and it **sustained them.** It did not trigger rejection. The bacteria in the blood killed them; the blood itself was nutritionally compatible. This is only possible if the Martians' circulatory biology was **antigen-compatible with humans** — meaning they were biologically human, or so recently diverged that blood-group antigens remained identical. Wells never describes the Martians feeding on any non-human terrestrial animal. They used **only** human blood. This detail, buried in the feeding protocol, may be the strongest single piece of evidence that whoever occupied the host bodies — and, under the bipeds-as-true-form reading, the bipeds themselves — were human-stock, not Martian livestock.
+**Human-stock argument** (lead with IV antigen; **do not** use cannibalism taboo — poorly understood and irrelevant to injection physiology):
+
+1. **IV human blood sustains them** — not oral eating. Cross-species transfusion fails; Wells’s pipette → veins **nourishes**; only bacteria kill. ⇒ same / near-same species (**human-stock**).
+2. **Human donors only** on Earth — no animal substitutes in Wells.
+3. **Baxter** — blood-bank markings as **blood types** / typed preference (*Massacre of Mankind*).
+4. Wells: descent from beings “**not unlike ourselves**.”
+5. ~6ft biped occupants (AU-084) are humanoid; “wear bodies … as … suits of clothes.”
+6. Sterile Mars: blood accepted, Earth microbiome kills.
+
+Full stack: [analysis — Feeding](/cosmos/mars/investigations/wotw-martian-analysis.md#feeding). Under bipeds-as-occupants, compatibility attaches to the **bipeds**, not livestock.
 
 ### Pattern 4: The Crystal Recovery
 
