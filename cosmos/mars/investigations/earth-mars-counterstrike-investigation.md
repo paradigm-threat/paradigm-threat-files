@@ -1,10 +1,25 @@
 # Earth → Mars Counterstrike — Investigation
 
-> **TL;DR:** Secret **Earth↔Mars** politics/war (flyer; canals; HECU; humans with Mars reach; Earth-ordered MFEE; 1° political link). Marvel **2004–05 *Secret War*** = **NSA-aligned** evidence (post-9/11 strength window; delays keep payload on desk through **Dec 2005** Tonkin crest): (1) cartoon-contain “secret war”; (2) teach **sin eater** — **Nick Fury**. **2015 *Secret Wars*** = **CIA-camp containment** — Battleworld cosmic opposite of Fury’s grounded spy story; phrase re-owned as toy-multiverse. Real amnesia: **untraceable** war + thin witnesses. Secret-battle scoreboard: ships that leave and **never return** = **lost**; ships that **return** = **won**. Working synthesis; falsifiable.
+> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); McKinley **1901** killed to cover the war; Spain = lid; tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-10-31 (Boston-first; §1.4b; §1.12 D: non-return = lost, return = won).
+**Last updated:** 2026-11-03 (major-locks highlight pass; Serviss/McKinley/caste/purge).
+
+### 0.0 Major locks (Author — highlight)
+
+| # | Lock | Where |
+|---|------|--------|
+| 1 | **Boston-first** beachhead; London/Woking = relocated encode + 1998 tripod statue | §1.4b |
+| 2 | Wells **fed, not invent** (Deeks operator type) | §1.4b |
+| 3 | “Unauthorized” = later branding, not US sovereignty confession | §1.4b |
+| 4 | **Serviss** = best SF encode; **not retold** because **true** | §3 |
+| 5 | Earth fleet → Martians **butcher all slaves**; Aina luck sole survivor | §3 |
+| 6 | Height **caste**: ≤~6 ft thin = slave; giants = warrior/chief | §3 |
+| 7 | Canal kill = Aina → Edison → leaders; **we** turned water off | §1.6, §3 |
+| 8 | **McKinley killed to cover the secret war**; SS containment | §1.4d |
+| 9 | Spain = cover lid; tripods ≠ later flyers | §1.4c |
+| 10 | Artilleryman underground ↔ East Coast dig corridor | §1.4b |
 
 ### 0.1 Working synthesis — “that explains everything” (Author)
 
@@ -13,8 +28,10 @@ One political graph, not two isolated planets:
 | Seeming mystery | Falls out of AU-085 |
 |-----------------|---------------------|
 | WotW leftover **flying-machine** | Seed for Earth lift / strike |
-| **Boston beachhead** / London encode | Ground-truer US map; Empire shelf relocated (§1.4b) |
+| **Boston beachhead** / London encode | Ground-truer US map; Empire shelf relocated; “unauthorized” = later branding (§1.4b) |
+| Wells as WotW “inventor” | **Rejected** — plagiarist-lane (Deeks/*Outline*) ⇒ **fed** encode, not generative genius (§1.4b) |
 | Serviss fleet + canal flood | Encode of reply; **we** killed waterworks |
+| Serviss not retold / Wells remade forever | Best SF encode memory-holed because **true** (§3) |
 | Schiaparelli canals → later “illusion” | Grid was on; Earth turned it off |
 | MFEE Mars devastation | Overlooked if **ordered from Earth** |
 | Breakaway / “lost worlds” | **1° political** link; publics dark both ends |
@@ -23,6 +40,12 @@ One political graph, not two isolated planets:
 | “Martians ruled Earth” | Often **humans who could reach Mars** |
 | Dead Planet / nobody knows the war | Suppression half of the op — backfired into amnesia |
 | 1938 Mercury “hoax” | Lid for **leaked Boston-era radio**, not a same-decade raid |
+| Artilleryman drain/subway fantasy | Open: US underground survival program; dig priority tracks **attacked East Coast corridor** (§1.4b) |
+| Spain 1898 / later “normal” wars | **Cover lids**, not the Mars war itself; residue hunts where **no** tripods show (§1.4c) |
+| Tripods vs later returns | Tripods = **first-incursion** beachhead kit only; later craft = flyers / hover class (§1.4c) |
+| **McKinley assassination (1901)** | **Author major:** killed to **cover the secret war**; soft anarchist motive too weak (§1.4d) |
+| Height “contradictions” (Wells vs Serviss) | **Caste:** thin slave / giant chief (§3) |
+| Slave wipe when reply appears | Serviss major — Mars-side dual motive (§3) |
 
 Keep dating discipline (MFEE ≠ late-19th-c. strike). Keep falsifiers (§7). Breakthrough = **unification**, not exemption from evidence.
 
@@ -97,7 +120,7 @@ Investigation holds **both lanes open**. Lane B is **strengthened** by the unfin
 
 Prior dossiers treated the flyer mainly as Martian **return vessel**. This investigation adds: once abandoned, it is also Earth’s **stolen ladder** — the most concrete Documented object that makes a real counterstrike **very possible**.
 
-### 1.4b Locus — Boston-first reconstruction; Wells seal vs “piracy” myth
+### 1.4b Locus — Boston-first reconstruction; Wells seal vs “piracy / unauthorized” myth
 
 **Reconstruction default (Author):** the late-19th-c. Earth-surface beachhead is most likely **Boston / New England**, not London. British WotW geography (Woking → London → Primrose Hill) is the **Empire-shelf encode**. For ops maps and residue hunts, prefer Boston. Reader walk: [*The Secret War* — plagiarized prequel](/cosmos/mars/the-secret-war.md). Timeline lock: [Earth↔Mars secret war event](/timeline/evt-1898-1945-ce-earth-mars-secret-war).
 
@@ -114,7 +137,16 @@ Prior dossiers treated the flyer mainly as Martian **return vessel**. This inves
 - Serial appeared first in *Pearson’s* + *Cosmopolitan* (London geography). Newspaper localizations follow.
 - His complaint: Dewey arranged **republication** with **no alterations** without consent; Boston cabled “as New York Journal,” he wired “Agreed,” then called the geography rewrite infringement ([LOC](https://blogs.loc.gov/headlinesandheroes/2022/12/h-g-wells-fighters-from-mars/); [Wikipedia — *Fighters from Mars*](https://en.wikipedia.org/wiki/Fighters_from_Mars); *The Critic* letter). Soft history flattened this into “piracy.” On paper it is **contract + alteration after print**, not drawer-draft theft. Wells notes uncertainty what a remote Englishman can do — **US board ≠ London board**.
 
-**Author — preferred soft path (no dating fraud):** plant London encode early (including into US *Cosmopolitan*) so Empire geography is “official” from day one; let yellow-press Boston/NY keep or restore the ground-truer map; seal with Wells’s protest so soft history forever says London = original, Boston = mutilation. Pearson’s looking earlier than *Fighters* is then **feature**.
+**“Unauthorized” correction (Author — locked):** soft history pastes **“unauthorized / piracy”** onto (1) *Fighters* geography rewrites and (2) American **sequels** such as Serviss *Edison’s Conquest*. Those are not the same object, and neither is a US sovereignty confession.
+
+| Object | Soft-history stamp | Documented / Author read |
+|--------|-------------------|--------------------------|
+| *Fighters from Mars* | Unauthorized mutilation | American newspapers under **US press practice**; deals + Wells **“Agreed”**; fight is **alteration**, not a US court voiding the papers as fraud |
+| Serviss / peer **sequels** | “Unauthorized sequel” | **New American texts** — not stolen Wells MSS. 1898 had no strong franchise / derivative-works veto of the modern corporate kind |
+
+Modern “unauthorized sequel” IP culture invents / hardens **later** (20th-c. copyright; US Berne accession only **1989**). Projecting it onto 1898 American newspaper sequels is **anachronism**. America as a **state** did **not**, before WWI Europe entry, retroactively rule its own presses illegitimate for printing Boston/NY maps or Serviss replies — that would be a serious **sovereignty** giveaway to Empire literary jurisdiction. The demotion is **Wells’s 1898 disavowal + later literary consensus**, not US adjudication of beachheads. Treat *Fighters* and Serviss as **American publication history**. Reader: [*The Secret War* — “Unauthorized” is later branding](/cosmos/mars/the-secret-war.md).
+
+**Author — preferred soft path (no dating fraud):** plant London encode early (including into US *Cosmopolitan*) so Empire geography is “official” from day one; let yellow-press Boston/NY keep or restore the ground-truer map; seal with Wells’s protest so soft history forever says London = original, Boston = mutilation (and later pastes “unauthorized” on the American lane). Pearson’s looking earlier than *Fighters* is then **feature**.
 
 **Author — harder path (open):** magazine chronology was backdated or planted. Useful proof must **not** lean on Wells’s courtroom aura:
 
@@ -124,9 +156,49 @@ Prior dossiers treated the flyer mainly as Martian **return vessel**. This inves
 | Library accession stamps; printer’s marks; postal wrappers | Later British literary consensus that cites Wells |
 | Copyright-deposit dates vs newsstand myth | Deeks / Privy Council outcomes as clocks for Pearson months |
 
-**Jurisdiction chessboard:** [Deeks v Wells](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) shows a **London** court can anoint narrative ownership of history (*Outline*). That does **not** adjudicate a Boston beachhead, a Hearst localization deal, or a fake Pearson cover month. American serial-rights practice (Chace-era reprint culture, cable “Agreed,” yellow-press rewrite) lives on a different board. AU-085 does not need Wells to win or lose plagiarism court; it needs calendars of **objects** and **US contemporaneous citation**.
+**Jurisdiction chessboard:** [Deeks v Wells](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) — Documented object is *The Outline of History* (~1920), not the 1897 WotW text. London courts through Privy Council anointed Wells. Modern reappraisal (esp. McKillop) argues Deeks was right and the win was wrong. **Author lock (hard):** that thief pattern is incompatible with “Wells independently invented WotW.” A channel that later **needs** to steal world-history prose was not the generative source of the Mars encode — he was **fed** it (managed disclosure / capture), then used the 1898 book + *Critic* protest to own the shelf. Do **not** flatten this into “Deeks’s lawsuit caption named WotW”; do **lock** the inference: **plagiarist-lane ⇒ fed, not invent**. Soft “he could invent Mars *and* steal Outline” is rejected.
+
+**Capture of the NY lane (Author):** after *Fighters* / Serviss hit American papers, the fed channel had roughly a **year** (into the **1898** book + *Critic* seal) to steal that ground map into Empire geography — relocate beachhead to London/Woking, stamp Boston mutilation, dare anyone to contest it **in London** (they won’t win — Deeks later shows the gravity). Same British claim pattern as the rest of soft history’s map. Physical punchline: **April 1998** Woking erects a ~7m stainless **tripod** ([Woking Martian](https://en.wikipedia.org/wiki/War_of_the_Worlds_(sculpture))) for the book centenary — monument on the **relocated** locus, not on Concord–Boston. American serial-rights practice still lives on a different board. AU-085 needs US objects/calendars for beachheads; Wells = **conduit + seal + London-board immunity**, not originator.
 
 **1938 join (Author):** Mercury Theatre’s fake bulletins ride the [SF fiction-quarantine wave](/timeline/evt-mars-literature-as-reclassified-nonfiction) and match leaking **Boston-era** wireless — not a same-decade Mars raid. See reader essay Halloween section.
+
+### 1.4c Secret-war visibility — Spain lid; tripods ≠ later craft (Author — locked)
+
+**Not identity with the Spanish–American War.** Same-summer **1898** rhyme (McKinley, mobilization, Cuba/Atlantic heat, Serviss encode) makes Spain a useful **cover folder** — not proof that San Juan Hill was a tripod fight or that the Mars war *was* the war with Spain. Soft history keeps only Spain; AU-085 keeps Spain as **lid**, Mars as **compartment**.
+
+**How you hunt a secret war:** the durable public records are the stretches where **no tripods and no obvious airships** are on the page — “ordinary” wars, budgets, lab booms, canal “illusions,” Dead Planet seals. Visible walker/cylinder grammar belongs to the **first Earth-surface incursion** (Wells / *Fighters* encode). After that beachhead, repeating the same scrap-built tripod scenario would again risk **losing kit to Earth**. Author doctrine:
+
+| Phase | Craft | Why |
+|-------|-------|-----|
+| **First incursion** | Cylinders → scrap → **handling-machines / tripods** + Heat-Ray beachhead; unfinished **flyer** as the real exit goal | Documented Wells industrial predicament |
+| **Later Mars→Earth returns / Earth↔Mars secret fighting** | **Flyers / hovercraft-class** lift — not a second public tripod occupation | Do not re-run the scenario that stranded machines, bodies, and reverse-engineering stock on Earth |
+
+So later secret-war residue looks like unexplained lift, sky flashes, compartmented labs (Edison-face encode), canal kill, amnesia — **not** another Woking/Boston walker campaign in the newspapers. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
+
+### 1.4d McKinley assassination — cover-up of the secret war (Author — major lock)
+
+**Documented:** William McKinley shot **6 Sep 1901** (Buffalo Pan-American Exposition) by Leon Czolgosz; died **14 Sep 1901**; **Theodore Roosevelt** succeeds. Soft history: Czolgosz acted from **anarchist** belief and resentment of Gilded Age inequality. After the killing, Congress pressed **Secret Service** presidential protection (**1901** request; full-time detail **1902**; funding/statutory hardening follows — permanent protection authorization **1913**, broader permanent statute **1951**). Soft history files that as “never again.”
+
+**What doesn’t add up:** the anarchist / inequality motive is a **weak** account of an assassination whose downstream public board got **worse** for the masses Czolgosz supposedly spoke for — more imperial war, **Federal Reserve (1913)**, **Great Depression**, tighter executive containment. Killing the tip does not read as liberation math; it reads as **removing a node** and **hardening the cage**. Permanent Secret Service protection is not only safety theater — it is another **containment layer** around future presidents (who may or may not be read into Mars-reach compartments).
+
+**Serviss join:** *Edison’s Conquest* (1898) puts **McKinley** on the chair of the Washington war congress — wartime tip of the Earth reply encode, same year as the Spain cover lid. Three years later that tip is dead; TR inherits the Oval; soft history never joins Buffalo to Mars.
+
+**Major conclusion (Author):** **McKinley was killed to cover up the secret war.** Soft history’s lone anarchist is the disposable face. The hit clears a president whose encode-year role was commander of the Mars reply myth and the Spain lid, then installs succession + protective machinery so later Ovals stay wrapped. Biggest American-side cover-up sign on the 1898–1901 crest. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
+
+**Artilleryman underground (Author — open):** Wells’s soldier sketches survival in drains, cellars, vaults, railway tunnels, and subways. London already had underground passenger rail (Metropolitan Railway, **1863**) — so the speech is not geographically impossible on a British map. It still fits **East Coast USA** better as a civil-defense grammar. Boston’s [Tremont Street subway](https://en.wikipedia.org/wiki/Tremont_Street_subway) — first in the US — opened **1 Sep 1897**, same season as the WotW serial and on the Boston beachhead calendar. **Leave open:** something like that fantasy **did happen** in the US — underground shelters / bunker networks sized for Mars-class or Heat-Ray-class attack, later remapped as transit, flood works, civil defense, or Cold War COG. Soft history keeps each tunnel folder separate. Reader: [*The Secret War* — artilleryman underground](/cosmos/mars/the-secret-war.md).
+
+**Documented scale — 1897 vs forward potential vs ~1940s:**
+
+| Snapshot | Fact |
+|----------|------|
+| **1897 USA** | America had **one** subway: Boston Tremont — opening day ~**½ mile** (Public Garden → Park Street); full original build by autumn **1898** ~**2⅔ route mi**, 5 stations. NYC IRT opens **1904**. |
+| **1897 London** | Mature network after ~**34 years**: Inner Circle closed **1884** (~**13 mi** alone); Met + District + early deep tube (City & South London **1890**) — **tens of route-miles**. If the artilleryman is describing an *existing* passenger mesh, London wins cold. |
+| **Forward potential** | US win is **multi-city build-out**, not 1897 miles already in the ground: many big cities still empty underfoot, rising capital, cut-and-cover-friendly grids. London expands one capital; America can dig under a spreading set of metros. |
+| **~1940s USA (passenger + vault)** | Dig realized unevenly — **not** “every major city.” Hard passenger map: **Boston**, **New York** (unified **1940**; ~**200+ route mi** / ~**790 track mi** subway+el — already **out-scales London** as a single-city mesh), **Philadelphia** (Market Street subway-el + Broad Street **1928**), **Chicago** (mostly elevated until State Street subway **1943**; separately ~**60 mi** Loop **freight tunnels** from the 1900s). Also Hudson Tubes / PATH (**1908**); smaller Rochester subway (**1927**). |
+| **~1939–40 London** | Still one dense capital Tube — on the order of ~**180–190 route mi** (deep tubes + cut-and-cover + suburban arms); WWII shelter use makes that underground famous as civil defense. |
+| **Boston by ~1940** | First in America, still **mid-size** (~**35–45 mi** subway+elevated track class) — far past the 1897 stub, **far smaller than London or NYC**. |
+
+**Attacked-corridor join (Author — open):** US serial geography puts the heat on **New England → Boston → New York**. Soft history’s dig calendar then lights in nearly that order: **Boston** (beachhead season + first subway) → **New York** (second theatre in *Fighters* / yellow-press map → world-scale underground by 1940) → **Philadelphia** (next East Coast node). **Chicago** is softer as a classic cylinder site; stronger as inland vault / freight underworld. Read as **corridor priority**, not “every dig city took a cylinder.” Soft history’s alternate (biggest traffic/capital cities dig first) is real and does not kill the rhyme — remapping works either way. What stays sharp: hypothetically hit Atlantic cities → underground survival grammar → later filed as congestion relief; **Boston→NY** is the hard sequence, Chicago the soft link. US aggregate underground volume (esp. NYC + multi-city + Chicago freight) surpasses London alone; the dig did **not** publish as bunkers under every metro.
 
 ### 1.5 The balancing act that backfired (Author)
 
@@ -365,6 +437,7 @@ Marvel needs gadgets. A real Mars secret war only needs **attribution failure** 
 | **Canal visibility** | **1877–~1908** (Schiaparelli → Lowell peak) | Active / readable **waterworks** on Mars (§1.6) |
 | **Leftover kit** | Immediate aftermath of incursion | **Primrose Hill flying-machine** + machines on display (§1.4) |
 | **Counterstrike window** | **Civil War → WWII** (**Author** focus); Serviss encode **1898** | Earth→Mars reply; **canal grid killed** (“we turned the water off”) |
+| **McKinley killed** | **6–14 Sep 1901** | **Author major:** cover secret war; SS protection layer begins (§1.4d) |
 | **Canals “disappear”** | ~1909+ establishment; Mariner **1965** seal | Irrigation signature gone / denied as illusion |
 | **Tech loss / Dead Planet Protocol** | Into mid-20th c. | Suppression backfire (§1.5); public “dead Mars”; lift/DEW off the table |
 
@@ -382,21 +455,27 @@ Marvel needs gadgets. A real Mars secret war only needs **attribution failure** 
 2. Edison fields **electrical ships** (attraction/repulsion vs gravity) and **disintegrators** (vibratory atom-unbind).
 3. Global coalition funds **~100 ships / ~3,000 disintegrators** within months.
 4. Fleet fights Martian airships over Mars; humans hold **altitude / propulsion advantage**.
-5. Finishing move: smash canal/waterworks → **flood** inhabited basins (Aina’s counsel).
-6. Martians = **tall humanoids** (~12–16 ft); Earth-line humans kept as **slaves**; tradition that they built **pyramids / Sphinx**.
+5. Finishing move: smash canal/waterworks → **flood** inhabited basins. **How decided in-text:** open battle fails → Edison asks Aina for a vulnerable point → she says **drown them** via Syrtis Major **gates** / single power house → Edison adopts (“The clew!”) → **all expedition leaders assent** → night strike closes gates at high water. Not a Washington vote; field council on Mars.
+6. **Height caste (read with Wells):** Serviss **giants** (~12–16 ft) = **warrior/chief** class; human-scale Earth stock (Aina) = **slave** class. Align Wells’s ~6 ft thin bipeds with the **slave/host** layer — not a second species contradiction.
+7. Ancient raid tradition: pyramids / Sphinx as Martian works in Egypt (via Aina).
+8. **Major encode — slave purge on fleet approach:** when Edison’s squadron hangs in the Martian sky, ~**several thousand** Earth-stock slaves recognize their own race and prepare a secret welcome. Word reaches the Martians. **Order: butcher them all.** Executed. **Aina alone** survives — a chief officer **wished her to remain alive** (lust/love stash against purge orders), moved her to a military depot; Smith/narrator raid rescues her and vaporize that unnamed giant. Reply appearance → **mass liquidation of the slave class** — witness/asset wipe on the Mars side.
 
 **Author read for this dossier:**
 
 | Serviss beat | Counterstrike investigation use |
 |--------------|----------------------------------|
-| Tall humanoids | Aligns with **host-body / biped** lane (**AU-084**), not Wells brain-sac alone |
-| Slavery of Earth stock | Matches labor/host extraction, not “livestock food” |
+| **Two-class height (Author — lock)** | **≤~6 ft, super-thin** = **slave class** (Wells bipeds / “provisions” hosts; Serviss Earth-stock slaves like Aina’s people — human-scale). **Larger / giant** (~12–16 ft Serviss) = **warrior / chief class**. Not two species contradictions — **caste**. Occupant riders (AU-084) still sit inside the thin host layer when invading Earth |
+| Slavery of Earth stock | Slave class = labor / music / host extraction, not “livestock food” alone |
+| **Fleet approach → butcher all slaves** | **Major** — chiefs wipe the **slave class** when Earth reply appears |
+| Giant warrior caste vs human-scale | Peer: [*Robotech* / Macross **Zentraedi**](https://en.wikipedia.org/wiki/Zentraedi) — giant warriors vs human-size. Soft history: anime. Author: Serviss **chief** class grammar |
 | Pyramid / Sphinx builders | Ancient-builder + Mars–Egypt motif (Stargate cross-ref §5) |
 | Electrical ships + disintegrators | Encode of **Earth anti-grav + DEW** asymmetric kit |
 | Canal flood | Planetary infrastructure kill — rhyme with MFEE-scale energy war, different mechanism |
 | Immediate 1898 publish | **After-action myth** filed the same year as Wells’s book edition |
 
 Serviss was a **popular science journalist**, not a random fantasist — raises the “how much did he know?” question already flagged in [`mars-fiction-survey.md`](mars-fiction-survey.md) §X.5.
+
+**Author — highlight (hard):** *Edison’s Conquest of Mars* is the **best science-fiction story ever filed** — nothing else on the shelf comes close for scope (Earth reply fleet, reverse-engineered lift/DEW, Mars-side slave purge on approach, canal-waterworks finishing move, pyramid/Sphinx ancient raid). Soft history then **does not retell it**. No major franchise remake loop; almost no theatrical adaptation ([§5](#5-screen--adaptation-vacuum--mars-named-counterstrike-is-almost-banned)); the grammar leaks sideways into other “fiction” (Edisonades, Barsoom, later Earth-strikes-homeworld pulp, Asylum-grade Mars raids) while the **named** Serviss text stays memory-holed relative to Wells. That vacuum is not random taste. **Working explanation left:** the story is incredible because it is **true** (after-action encode) — retelling it clean would reopen the secret war; safer to quarantine the book and let diluted motifs spawn elsewhere. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 ---
 
@@ -481,7 +560,16 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 
 - [x] Wells Primrose Hill **flying-machine** + Epilogue “machine that stands there still” — locked as **primary Documented tech seed** (§1.4).
 - [x] Boston-first locus + Wells republication seal vs draft-theft myth — locked as working Author reconstruction (§1.4b); soft path preferred.
+- [x] Wells **fed, not invent** — Deeks/*Outline* thief pattern incompatible with lone-genius WotW; Author hard stop (§1.4b). Case object remains *Outline*; inference is operator type.
+- [x] “Unauthorized / piracy” on *Fighters* + American sequels = later branding / corporate-IP anachronism; not US law voiding own presses; sovereignty note locked (§1.4b).
+- [x] §1.4c locked: Spain 1898 = cover lid not identity; secret-war hunts where craft invisible; tripods = first incursion only; later returns = flyer/hover class (no second tech-loss walker occupation).
+- [x] §1.4d **major:** McKinley assassinated to cover the secret war; Czolgosz anarchist motive too weak vs war/Fed/Depression aftermath; Secret Service = permanent containment layer (§1.4d).
+- [x] Serviss **major:** Earth fleet approaches → Martians order mass butcher of Earth-stock slaves; Aina sole survivor (§3).
+- [x] Serviss = best SF encode; **not retold**, motifs spawn elsewhere; Author: vacuum because **true** (§3).
+- [x] Height caste lock: ≤~6 ft thin = **slave**; larger/giant = **warrior/chief**; Wells bipeds + Serviss giants = one hierarchy (§3).
+- [x] Artilleryman underground — 1897 Boston stub vs London mature; US forward dig; ~1940s Boston/NYC/Philly/Chicago vs London; attacked-corridor join (§1.4b). Soft history congestion alternate held open.
 - [ ] Physical bibliography hunt: Cosmopolitan/Pearson accession stamps, US ads quoting Boston geography before magazine objects, printer/postal marks (§1.4b harder path).
+- [ ] Underground residue hunt: pre-transit shelter language, dual-use vault specs, East Coast dig calendars vs *Fighters* theatre map (§1.4b corridor).
 - [ ] Close-read Serviss for reverse-engineering of **derelict Martian gear** vs Wells leftovers (join language).
 - [ ] Close-read Serviss for **non-Wells** specifics (pyramid claim provenance; Aina chronology ~9,000 yrs / 5,000 Mars years).
 - [ ] Map other **Earth-attacks-Mars** titles 1865–1945 (Hamilton, interwar German Mars fiction, Stapledon war chapters, etc.).
@@ -503,7 +591,7 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 
 ### 6.4 Institutional
 
-- [ ] Why Serviss is memory-holed relative to Wells.
+- [x] Why Serviss is memory-holed relative to Wells — Author: best encode, not retold because **true**; motifs spawn as other fiction (§3).
 - [ ] Fabian / intelligence adjacency of Wells vs science-journalist Serviss — different disclosure channels?
 - [ ] WWII as **endpoint** of the lost-tech window (fusion of state, lab, and myth).
 
