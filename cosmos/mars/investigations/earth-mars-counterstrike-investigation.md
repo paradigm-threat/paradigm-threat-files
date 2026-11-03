@@ -5,7 +5,7 @@
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
 **Q&A hub (foundational Q1):** [What was the Secret War?](/cosmos/mars/qa/page.md#q1-what-was-the-secret-war) — lead with Q1 for related WotW-as-truth questions.  
-**Last updated:** 2026-11-03 (foundational Q1 / mars qa hub).
+**Last updated:** 2026-11-03 (Heat-Ray as forge / cylinder reshape lock).
 
 ### 0.0 Major locks (Author — highlight)
 
@@ -25,6 +25,7 @@
 | 11 | **Mystery airships 1896–97 = successful ground-build → fly-away ops**; Boston = failure that leaked | §1.4e |
 | 12 | **Working equation:** most successful missions leave **no witnesses** — perfect execution **exterminates** them; leaks = failed wipe | §1.4e, §1.5 |
 | 13 | **We blew ourselves up** — humans of all shapes/sizes on both worlds; no other species to blame (*Planet of the Apes* rhyme) | reader essay |
+| 14 | **Heat-Ray = forge**, not kill-only: Wells softens iron; Serviss metal **curls**; curled Mars architecture + cylinder→kit reshape | §1.4c |
 
 ### 0.1 Working synthesis — “that explains everything” (Author)
 
@@ -190,6 +191,8 @@ Modern “unauthorized sequel” IP culture invents / hardens **later** (20th-c.
 |-------|-------|-----|
 | **First incursion** | Cylinders → scrap → **handling-machines / tripods** + Heat-Ray beachhead; unfinished **flyer** as the real exit goal | Documented Wells industrial predicament |
 | **Later Mars→Earth returns / Earth↔Mars secret fighting** | **Flyers / hovercraft-class** lift — not a second public tripod occupation | Do not re-run the scenario that stranded machines, bodies, and reverse-engineering stock on Earth |
+
+**Author lock — Heat-Ray as forge (not kill-only):** Wells: Heat-Ray **softens iron**, melts glass, flashes water to steam; beachhead cylinders are **scrap stock** rebuilt into handling-machines / walkers / flyer. Serviss: Martian heat engine makes Earth ship metal **curl and wither**. **Join:** that curl is **native Martian engineering grammar** — heat used to bend plate the way a forge bends stock. Curled metal objects and buildings on Mars are craft residue, not only battle scars. On the Earth beachhead the same tool is a **primary means of reshaping a cylinder** into other forms (soften → curl → cut → restack) without an Earth-side mill. Soft history files death-ray; the industrial half is the forge. Reader: [*The Secret War* — Bodies as equipment](/cosmos/mars/the-secret-war.md).
 
 So later secret-war residue looks like unexplained lift, sky flashes, compartmented labs (Edison-face encode), canal kill, amnesia — **not** another Woking/Boston walker campaign in the newspapers. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
