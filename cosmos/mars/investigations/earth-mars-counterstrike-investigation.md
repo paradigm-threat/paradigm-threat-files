@@ -1,10 +1,10 @@
 # Earth → Mars Counterstrike — Investigation
 
-> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); McKinley **1901** killed to cover the war (**cover-up, not “ultimate irony”**); Spain = lid that only earns *war* because the secret war ran inside it (Church vs Constitution influence stakes); tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
+> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); McKinley **1901** killed to cover the war (**cover-up, not “ultimate irony”**); **TR / Progressive Era = Martian counter-move** (lose ground, win ideology/influence; WWs + imposed famines planned after canal kill); Spain = lid that only earns *war* because the secret war ran inside it (Church vs Constitution); tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-11-03 (Spain lid + McKinley irony→cover-up polish pass).
+**Last updated:** 2026-11-03 (TR/Progressive = Martian counter-move after canal kill).
 
 ### 0.0 Major locks (Author — highlight)
 
@@ -17,7 +17,7 @@
 | 5 | Earth fleet → Martians **butcher all slaves**; Aina luck sole survivor | §3 |
 | 6 | Height **caste**: ≤~6 ft thin = slave; giants = warrior/chief | §3 |
 | 7 | Canal kill = Aina → Edison → leaders; **we** turned water off | §1.6, §3 |
-| 8 | **McKinley killed to cover the secret war**; soft “ultimate irony” = lid; SS containment | §1.4d |
+| 8 | **McKinley killed to cover the secret war**; soft “ultimate irony” = lid; **TR/Progressive = Martian counter-move** after canal kill; SS containment | §1.4d |
 | 9 | Spain = cover lid that only earns *war* because secret war ran inside; Church vs Constitution; tripods ≠ later flyers | §1.4c |
 | 10 | Artilleryman underground ↔ East Coast dig corridor | §1.4b |
 
@@ -44,6 +44,7 @@ One political graph, not two isolated planets:
 | Spain 1898 / later “normal” wars | **Cover lids**, not identity; soft history already calls Spain a skirmish / “organized assassination” / barely a war — **Author:** only earns *war* because secret Mars war ran **inside** it; sovereignty stakes = Catholic Church (Spain) vs Constitution (US); influence war of Martian-remote conquering church vs Protestant exile lane (§1.4c) |
 | Tripods vs later returns | Tripods = **first-incursion** beachhead kit only; later craft = flyers / hover class (§1.4c) |
 | **McKinley assassination (1901)** | Soft history sells “ultimate irony” (Civil War survivor / 1898 war leader / empire → killed over domestic grievance). **Author major:** cover-up, not irony — killed to **cover the secret war**; soft anarchist motive too weak (§1.4d) |
+| **TR / Progressive Era** | Soft history: reform cures the domestic problems that “triggered” Buffalo. **Author:** Martian **counter-move** — lose on ground (canal kill), win on ideology / info suppression / mass influence; WWs + imposed famines planned in that shape; brutality = Earth wrecked their canal survival (§1.4d) |
 | Height “contradictions” (Wells vs Serviss) | **Caste:** thin slave / giant chief (§3) |
 | Slave wipe when reply appears | Serviss major — Mars-side dual motive (§3) |
 
@@ -191,7 +192,11 @@ So later secret-war residue looks like unexplained lift, sky flashes, compartmen
 
 **Serviss join:** *Edison’s Conquest* (1898) puts **McKinley** on the chair of the Washington war congress — wartime tip of the Earth reply encode, same year as the Spain cover lid. Three years later that tip is dead; TR inherits the Oval; soft history never joins Buffalo to Mars.
 
-**Major conclusion (Author):** **McKinley was killed to cover up the secret war.** Soft history’s lone anarchist and “ultimate irony” framing are the disposable face. The hit clears a president whose encode-year role was commander of the Mars reply myth and the Spain lid, then installs succession + protective machinery so later Ovals stay wrapped. Biggest American-side cover-up sign on the 1898–1901 crest. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
+**Major conclusion (Author):** **McKinley was killed to cover up the secret war.** Soft history’s lone anarchist and “ultimate irony” framing are the disposable face. The hit clears a president whose encode-year role was commander of the Mars reply myth and the Spain lid, then installs succession + protective machinery so later Ovals stay wrapped. Biggest American-side cover-up sign on the 1898–1901 crest.
+
+**Documented soft-history sequel package:** McKinley’s death as a sudden, jarring end to the 19th century; leadership snaps to **Theodore Roosevelt**; the **Progressive Era** opens as reform dedicated to fixing the domestic social/economic problems that supposedly triggered the assassination.
+
+**Author lock — Progressive / TR as Martian counter-move:** Roosevelt and the Progressive movement are another beat of the long war, not a separate civics chapter. Pattern: **lose on the ground** (Earth reply; canal waterworks killed — *we* turned the water off), **win on ideology**, information suppression, and mass human influence. That is the shape the war took afterward. **World wars** and **imposed famines** (Depression farm pens, Holodomor-class boards) were planned as part of that counter-move. Brutality makes sense once the order is seen: Earth had just destroyed Mars’s ability to survive by canal; they brought that disillusionment to Earth **with no regrets**. Soft history’s reform branding is the Earth-side face of the same revenge. Join: [*The Great Depression Was Planned*](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned); reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 **Artilleryman underground (Author — open):** Wells’s soldier sketches survival in drains, cellars, vaults, railway tunnels, and subways. London already had underground passenger rail (Metropolitan Railway, **1863**) — so the speech is not geographically impossible on a British map. It still fits **East Coast USA** better as a civil-defense grammar. Boston’s [Tremont Street subway](https://en.wikipedia.org/wiki/Tremont_Street_subway) — first in the US — opened **1 Sep 1897**, same season as the WotW serial and on the Boston beachhead calendar. **Leave open:** something like that fantasy **did happen** in the US — underground shelters / bunker networks sized for Mars-class or Heat-Ray-class attack, later remapped as transit, flood works, civil defense, or Cold War COG. Soft history keeps each tunnel folder separate. Reader: [*The Secret War* — artilleryman underground](/cosmos/mars/the-secret-war.md).
 
@@ -571,7 +576,7 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 - [x] Wells **fed, not invent** — Deeks/*Outline* thief pattern incompatible with lone-genius WotW; Author hard stop (§1.4b). Case object remains *Outline*; inference is operator type.
 - [x] “Unauthorized / piracy” on *Fighters* + American sequels = later branding / corporate-IP anachronism; not US law voiding own presses; sovereignty note locked (§1.4b).
 - [x] §1.4c locked: Spain 1898 = cover lid not identity; soft history already calls it skirmish / “organized assassination” / barely a war; **Author:** only earns *war* because secret Mars war ran inside; sovereignty stakes = Catholic Church (Spain) vs Constitution (US); influence war of Martian-remote conquering church vs Protestant exile lane; craft doctrine: tripods = first incursion only; later returns = flyer/hover class.
-- [x] §1.4d **major:** McKinley assassinated to cover the secret war; soft “ultimate irony” package (Civil War / 1898 war / empire → domestic-grievance assassin) reads as cover-up not irony; Czolgosz anarchist motive too weak vs war/Fed/Depression aftermath; Secret Service = permanent containment layer (§1.4d).
+- [x] §1.4d **major:** McKinley assassinated to cover the secret war; soft “ultimate irony” package reads as cover-up not irony; **TR / Progressive Era = Martian counter-move** (lose ground / win ideology+influence; WWs + imposed famines planned after canal kill; brutality = Earth wrecked their canal survival); Czolgosz motive too weak; Secret Service = containment layer (§1.4d).
 - [x] Serviss **major:** Earth fleet approaches → Martians order mass butcher of Earth-stock slaves; Aina sole survivor (§3).
 - [x] Serviss = best SF encode; **not retold**, motifs spawn elsewhere; Author: vacuum because **true** (§3).
 - [x] Height caste lock: ≤~6 ft thin = **slave**; larger/giant = **warrior/chief**; Wells bipeds + Serviss giants = one hierarchy (§3).
