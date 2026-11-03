@@ -1,10 +1,10 @@
 # Earth → Mars Counterstrike — Investigation
 
-> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); **Edison hard-default = reverse engineer** (absent convincing inventorship docs; Serviss examines Martian engines/flyers); lone-name credit whitewashes secret war; **Buffalo unused X-ray** = fear of recent inheritance; McKinley **1901** killed to cover the war (**cover-up, not “ultimate irony”**); **TR / Progressive Era = Martian counter-move**; Spain = lid that only earns *war* because the secret war ran inside it (Church vs Constitution); tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
+> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); **Edison hard-default = reverse engineer** (absent convincing inventorship docs; Serviss examines Martian engines/flyers); lone-name credit whitewashes secret war; **Buffalo unused X-ray** = fear of recent inheritance; **mystery airships = successful ground-build fly-aways**; **perfect missions exterminate witnesses**; Boston = failure leak; McKinley **1901** killed to cover the war (**cover-up, not “ultimate irony”**); **TR / Progressive Era = Martian counter-move**; Spain = lid that only earns *war* because the secret war ran inside it (Church vs Constitution); tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-11-03 (Edison hard-default = reverse engineer absent inventorship docs).
+**Last updated:** 2026-11-03 (we blew ourselves up / Planet of the Apes human-only ledger).
 
 ### 0.0 Major locks (Author — highlight)
 
@@ -21,6 +21,9 @@
 | 8 | **McKinley killed to cover the secret war**; soft “ultimate irony” = lid; **TR/Progressive = Martian counter-move** after canal kill; SS containment | §1.4d |
 | 9 | Spain = cover lid that only earns *war* because secret war ran inside; Church vs Constitution; tripods ≠ later flyers | §1.4c |
 | 10 | Artilleryman underground ↔ East Coast dig corridor | §1.4b |
+| 11 | **Mystery airships 1896–97 = successful ground-build → fly-away ops**; Boston = failure that leaked | §1.4e |
+| 12 | **Working equation:** most successful missions leave **no witnesses** — perfect execution **exterminates** them; leaks = failed wipe | §1.4e, §1.5 |
+| 13 | **We blew ourselves up** — humans of all shapes/sizes on both worlds; no other species to blame (*Planet of the Apes* rhyme) | reader essay |
 
 ### 0.1 Working synthesis — “that explains everything” (Author)
 
@@ -44,6 +47,8 @@ One political graph, not two isolated planets:
 | Dead Planet / nobody knows the war | Suppression half of the op — backfired into amnesia |
 | 1938 Mercury “hoax” | Lid for **leaked Boston-era radio**, not a same-decade raid |
 | Artilleryman drain/subway fantasy | Open: US underground survival program; dig priority tracks **attacked East Coast corridor** (§1.4b) |
+| **Mystery airships 1896–97** | **Author solution:** artilleryman grammar — ships **built on ground**, flown away (off-world); wave = **successful** ops of same class as Boston; **Boston = massive failure** that leaked (§1.4e) |
+| Why successful ops leave no story | **Working equation:** perfect missions **exterminate witnesses**; total silence = hard success; short airship flash = soft leak; novel geography / leftover kit = failed wipe (§1.4e) |
 | Spain 1898 / later “normal” wars | **Cover lids**, not identity; soft history already calls Spain a skirmish / “organized assassination” / barely a war — **Author:** only earns *war* because secret Mars war ran **inside** it; sovereignty stakes = Catholic Church (Spain) vs Constitution (US); influence war of Martian-remote conquering church vs Protestant exile lane (§1.4c) |
 | Tripods vs later returns | Tripods = **first-incursion** beachhead kit only; later craft = flyers / hover class (§1.4c) |
 | **McKinley assassination (1901)** | Soft history sells “ultimate irony” (Civil War survivor / 1898 war leader / empire → killed over domestic grievance). **Author major:** cover-up, not irony — killed to **cover the secret war**; soft anarchist motive too weak (§1.4d) |
@@ -206,6 +211,20 @@ So later secret-war residue looks like unexplained lift, sky flashes, compartmen
 **Documented soft-history sequel package:** McKinley’s death as a sudden, jarring end to the 19th century; leadership snaps to **Theodore Roosevelt**; the **Progressive Era** opens as reform dedicated to fixing the domestic social/economic problems that supposedly triggered the assassination.
 
 **Author lock — Progressive / TR as Martian counter-move:** Roosevelt and the Progressive movement are another beat of the long war, not a separate civics chapter. Pattern: **lose on the ground** (Earth reply; canal waterworks killed — *we* turned the water off), **win on ideology**, information suppression, and mass human influence. That is the shape the war took afterward. **World wars** and **imposed famines** (Depression farm pens, Holodomor-class boards) were planned as part of that counter-move. Brutality makes sense once the order is seen: Earth had just destroyed Mars’s ability to survive by canal; they brought that disillusionment to Earth **with no regrets**. Soft history’s reform branding is the Earth-side face of the same revenge. Join: [*The Great Depression Was Planned*](https://paradigmthreat2.substack.com/p/the-great-depression-was-planned); reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
+
+### 1.4e Mystery airships 1896–97 — successful ground-build fly-aways (Author — locked solution)
+
+**Documented:** nationwide US [mystery airship wave](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) (Nov 1896–May 1897) — structured craft, lights, short sightings, ridicule, no lasting official answer; same season as WotW / *Fighters* / Serviss encode window. Soft history: yellow press, Venus, secret inventors, contagion.
+
+**Documented artilleryman join (Wells):** lights / “something up in the air”; “I believe they've built a **flying-machine**, and are learning to fly” — craft **assembled on the ground**, then flown. Unfinished Primrose Hill flyer = same grammar mid-build when disease stopped the remnant. Lights already in the sky = some ships **already left**.
+
+**Author solution (most likely):** the mystery airships were **built on Earth** (or at Earth beachheads) and **flown away** — return / transfer to another planet — which is why they were never seen again as a standing local fleet. That is successful execution of the same ground-build → lift grammar the artilleryman files. Incursions of the **same class as Boston**, run clean.
+
+**Working equation (Author — locked):** the **most successful missions have no witnesses**, because perfect execution **exterminates** them. No survivors → no durable story, no second novel geography, no museum leftover arguing with the cover. Total silence after lift-off is the hard success mark. A short airship flash that dies into ridicule is already a **soft leak**. Novel geography, leftover kit, and living witnesses mean the wipe **failed**. Same dual-motive grammar as Serviss’s Mars-side slave butcher when Earth’s fleet appears (§3): erase the ledger the moment the other side can hear it. HECU / Fury memory-wipe fiction is the soft echo of that equation (§2).
+
+**Boston = the massive failure:** cylinder scrap, tripods, leftover machines, disease, paper encodes, later statue fights — witnesses and kit both escaped the wipe. The 1896–97 wave sites are the contrast: short public sky, then gone, almost no durable novel geography from those towns. Soft history’s “Martian overflight only” read stays weaker than ground-build → fly-away once the artilleryman lights and unfinished flyer are on the board.
+
+**Thin leak lane (open):** Mike Resnick’s *The Roosevelt Dispatches* and related Global Dispatches pulp may still carry **real stories of the same event in other locations**, filed as fiction the way Serviss filed the reply — not proof every Dispatch beat is telemetry; leave as a hunt target for multi-locus residue. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 **Artilleryman underground (Author — open):** Wells’s soldier sketches survival in drains, cellars, vaults, railway tunnels, and subways. London already had underground passenger rail (Metropolitan Railway, **1863**) — so the speech is not geographically impossible on a British map. It still fits **East Coast USA** better as a civil-defense grammar. Boston’s [Tremont Street subway](https://en.wikipedia.org/wiki/Tremont_Street_subway) — first in the US — opened **1 Sep 1897**, same season as the WotW serial and on the Boston beachhead calendar. **Leave open:** something like that fantasy **did happen** in the US — underground shelters / bunker networks sized for Mars-class or Heat-Ray-class attack, later remapped as transit, flood works, civil defense, or Cold War COG. Soft history keeps each tunnel folder separate. Reader: [*The Secret War* — artilleryman underground](/cosmos/mars/the-secret-war.md).
 
@@ -574,7 +593,7 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 | ***Independence Day* (+ Resurgence setup)** | Kill command ship / future homeworld war | Source-strike without (then with) leaving Earth |
 | ***Stargate* (1994)** | Pyramid = ship pad; gods as **hosts in human bodies**; slave builders | Pyramid + host + slavery cluster with Serviss |
 | **Wells WotW** | Incursion; unfinished flying-machine | Sets the wound that counterstrike answers |
-| **Mystery airships 1896–97** | Mass sky reporting under *airship* vocabulary | Possible pre-/peri-incursion traffic; see [vocabulary bridge](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) |
+| **Mystery airships 1896–97** | Mass sky reporting under *airship* vocabulary | **Author solution (§1.4e):** ground-build → fly-away (off-world); successful ops vs Boston failure leak; see [vocabulary bridge](/influence/controlled_opposition/mystery-airships-1896-1897-vocabulary-bridge.md) |
 
 ---
 
@@ -605,7 +624,9 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 
 ### 6.2 Historical / anomaly
 
-- [ ] 1896–97 airship wave vs opposition/Mars calendar.
+- [x] **Mystery airships 1896–97 solution:** artilleryman ground-build → fly-away; wave = successful ops of Boston class; Boston = failure leak; *Roosevelt Dispatches* open multi-locus hunt (§1.4e).
+- [x] **Working equation:** most successful missions leave **no witnesses** — perfect execution **exterminates** them; soft airship flash = soft leak; Boston novel/kit = failed wipe; joins Serviss slave purge / HECU dual motive (§1.4e).
+- [ ] Close-read *The Roosevelt Dispatches* / Global Dispatches for other-locus residue of same event (§1.4e).
 - [ ] Tesla / Wardenclyffe / “death ray” press as **public residue** of DEW-class research after the window.
 - [ ] Sudden **loss** of exotic propulsion claims between Belle Époque and post-WWII aerospace orthodoxy.
 - [ ] Any military or explorer memoir language that rhymes with **retaliation beyond Earth** (expect metaphor; score specificity).
