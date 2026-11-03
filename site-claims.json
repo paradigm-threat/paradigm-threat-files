@@ -3235,5 +3235,71 @@
       "DK64 alone is proven to be the sole cause of the 3D platformer market’s death.",
       "Microsoft and Sony published a memo commissioning Banjo to dumb down games."
     ]
+  },
+  {
+    "id": "earth-mars-secret-war",
+    "title": "The Secret War (Earth↔Mars, AU-085)",
+    "claim": "Late-19th-century Earth and Mars fought a covered-up secret war as one political neighborhood: human-stock riders in host suits hit Earth (Boston failure leaked; successful missions exterminated witnesses), Wells was fed a London encode, Edison reverse-engineered leftover kit, Earth struck Mars and killed the canals, McKinley was killed to cover it, and Progressive/world-war/famine revenge followed without regret — humans of all shapes and sizes, no other species to blame.",
+    "answerOpener": "Earth and Mars were never two sealed worlds that only meet in pulp — they are one political neighborhood with a thin command channel at the top and mass publics kept dark on both ends — and in the late nineteenth century a secret war ran across that neighborhood while soft history filed it as novels, canal illusions, and a dead rock in the sky: human-stock riders in Earth-variant host suits hit Earth in cylinders, scraped scrap into tripods for a first beachhead only, built flying machines on the ground and flew them home when they could, and left unfinished kit and museum bipeds when disease and the forbidden-blood high stranded the remnant; the most successful versions of those missions left no witnesses because perfect execution exterminated them, which is why the 1896–97 mystery airships appear briefly and vanish, while Boston–New England was the massive failure that leaked — leftover machines, paper encodes, later radio lids — and London was the Empire shelf encode that Wells, who was fed rather than inventing, sealed with protest and a later Woking statue so everyone would call Boston the fake map; Edison was not a blank-page inventor but the reverse-engineering face of that inherited kit, still so new that doctors in Buffalo would not even use an X-ray on the dying McKinley; Earth’s reply, filed in Serviss the same season as the Spain cover lid, reverse-engineered lift, struck Mars under a McKinley wartime tip, butchered or watched butchered the slave class when fleets appeared, and turned the canal water off — flooding the innocent because retaliation felt like survival even when nobody was sure how to win — then McKinley was killed to cover the war, Roosevelt Progressivism opened as the next lid, and the conquering camp’s revenge on Earth took the shape of ideology, information suppression, mass influence, world wars, and imposed famines without regret, because we had just wrecked their planet’s ability to live by canal; Spain 1898 only earns the word war because that secret war ran inside it, with Church versus Constitution as the real sovereignty stakes, and soft history’s alien costume is the last mercy — strip it and the cast is humans of all shapes and sizes on both worlds, thin slaves under giant chiefs, and we blew ourselves up with no other species left to blame.",
+    "bullets": [
+      "Q1 foundational answer on cosmos/mars/qa — lead with it for any related WotW-as-truth question.",
+      "Boston = leaked failure; successful missions leave no witnesses; airships = ground-build fly-aways.",
+      "Wells fed not invent; Edison reverse engineer; Serviss best encode memory-holed because true.",
+      "We turned the canals off; McKinley killed to cover; TR/Progressive = revenge counter-move.",
+      "Spain 1898 = cover lid (Church vs Constitution); humans only — no alien other."
+    ],
+    "confidence": "author-thesis",
+    "uniqueness": "site-distinctive",
+    "uniquenessNote": "AU-085 Secret War package: Boston-first + witness equation + Edison RE hard-default + Spain/McKinley/Progressive locks + we-blew-ourselves-up human-only ledger.",
+    "topics": [
+      "secret war",
+      "war of the worlds",
+      "wotw",
+      "mars",
+      "boston",
+      "serviss",
+      "edison",
+      "mckinley",
+      "canals",
+      "mystery airships",
+      "au-085",
+      "fighters from mars"
+    ],
+    "demoQuestions": [
+      "What was the Secret War?",
+      "Was War of the Worlds true?",
+      "Was the Martian beachhead London or Boston?",
+      "Did Edison invent from leftover Martian tech?",
+      "What were the 1896–97 mystery airships?",
+      "Was McKinley killed to cover a Mars war?",
+      "Did we destroy the Martian canals?"
+    ],
+    "searchQueries": [
+      "secret war earth mars boston wells serviss",
+      "war of the worlds true boston beachhead",
+      "edison reverse engineer martian canals mckinley"
+    ],
+    "searchPrefixes": [
+      "cosmos/mars/",
+      "timeline/"
+    ],
+    "canonicalPaths": [
+      "cosmos/mars/qa/page.md",
+      "cosmos/mars/the-secret-war.md",
+      "cosmos/mars/investigations/earth-mars-counterstrike-investigation.md",
+      "cosmos/mars/investigations/wotw-martian-analysis.md",
+      "timeline/evt-1898-1945-ce-earth-mars-secret-war"
+    ],
+    "relatedClaimIds": [
+      "deep-state-mars-nexus",
+      "cern-mars-dead-planet-protocol",
+      "mfee-mud-flood-reset"
+    ],
+    "doNotSay": [
+      "Wells independently invented War of the Worlds as pure entertainment with no encode.",
+      "Edison is proven to have invented the entire electrical stack from a blank page.",
+      "The Spanish–American War was literally a tripod battle at San Juan Hill.",
+      "Martians are a non-human xenophylum with no human-stock continuity."
+    ]
   }
 ]

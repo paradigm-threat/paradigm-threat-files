@@ -36,6 +36,7 @@ Hand-stamped dates and **`Last updated`** lines use **US Eastern** (`America/New
 | Hub `page.md` / AutoIndex | [`docs/instructions/PAGE_MD_AUTOINDEX.md`](docs/instructions/PAGE_MD_AUTOINDEX.md) |
 | Site chat leads → reply + live link | [`docs/CHAT_REQUEST_RESPONSE.md`](docs/CHAT_REQUEST_RESPONSE.md) |
 | Cosmology social Q&A routing | [`docs/LLM_COSMOLOGY_QA.md`](docs/LLM_COSMOLOGY_QA.md) |
+| Secret War / War of the Worlds as truth Q&A | [`cosmos/mars/qa/page.md`](cosmos/mars/qa/page.md) — **always lead with Q1**; reader [`the-secret-war.md`](cosmos/mars/the-secret-war.md); dossier [`earth-mars-counterstrike-investigation.md`](cosmos/mars/investigations/earth-mars-counterstrike-investigation.md) |
 | Satan / Saturn, God-and-Satan split, Satanism Q&A | [`influence/religion/qa/page.md`](influence/religion/qa/page.md) → dossier [`influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md`](influence/religion/investigations/satan-saturn-same-creator-good-evil-split-investigation.md) |
 | Æther / Maxwell vocabulary | [`docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) |
 | Git remotes (operator detail) | [`docs/GIT_REMOTE_STRATEGY.md`](docs/GIT_REMOTE_STRATEGY.md) |

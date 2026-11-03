@@ -4,7 +4,8 @@
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-11-03 (we blew ourselves up / Planet of the Apes human-only ledger).
+**Q&A hub (foundational Q1):** [What was the Secret War?](/cosmos/mars/qa/page.md#q1-what-was-the-secret-war) — lead with Q1 for related WotW-as-truth questions.  
+**Last updated:** 2026-11-03 (foundational Q1 / mars qa hub).
 
 ### 0.0 Major locks (Author — highlight)
 
