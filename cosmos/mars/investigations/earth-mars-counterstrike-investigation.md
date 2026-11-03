@@ -1,10 +1,10 @@
 # Earth → Mars Counterstrike — Investigation
 
-> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); McKinley **1901** killed to cover the war (**cover-up, not “ultimate irony”**); **TR / Progressive Era = Martian counter-move** (lose ground, win ideology/influence; WWs + imposed famines planned after canal kill); Spain = lid that only earns *war* because the secret war ran inside it (Church vs Constitution); tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
+> **TL;DR:** Secret **Earth↔Mars** war (Boston beachhead; fed Wells/London seal; Serviss reply encode; canal kill; McKinley cover-up). **Highlights:** Serviss = best SF / not retold because **true**; fleet approach → **slave purge**; height **caste** (thin slaves / giant chiefs); **Edison hard-default = reverse engineer** (absent convincing inventorship docs; Serviss examines Martian engines/flyers); lone-name credit whitewashes secret war; **Buffalo unused X-ray** = fear of recent inheritance; McKinley **1901** killed to cover the war (**cover-up, not “ultimate irony”**); **TR / Progressive Era = Martian counter-move**; Spain = lid that only earns *war* because the secret war ran inside it (Church vs Constitution); tripods = first beachhead only. Marvel **2004–05 *Secret War*** = NSA sin-eater; **2015** = CIA Battleworld flip. Scoreboard: ships that never return = **lost**; return = **won**. Working synthesis; falsifiable.
 
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
-**Last updated:** 2026-11-03 (TR/Progressive = Martian counter-move after canal kill).
+**Last updated:** 2026-11-03 (Edison hard-default = reverse engineer absent inventorship docs).
 
 ### 0.0 Major locks (Author — highlight)
 
@@ -17,6 +17,7 @@
 | 5 | Earth fleet → Martians **butcher all slaves**; Aina luck sole survivor | §3 |
 | 6 | Height **caste**: ≤~6 ft thin = slave; giants = warrior/chief | §3 |
 | 7 | Canal kill = Aina → Edison → leaders; **we** turned water off | §1.6, §3 |
+| 7b | **Edison hard-default = reverse engineer** absent convincing inventorship docs; lone-name patents whitewash; Buffalo unused X-ray = fear of recent inheritance | §1.4, §1.4d, §3 |
 | 8 | **McKinley killed to cover the secret war**; soft “ultimate irony” = lid; **TR/Progressive = Martian counter-move** after canal kill; SS containment | §1.4d |
 | 9 | Spain = cover lid that only earns *war* because secret war ran inside; Church vs Constitution; tripods ≠ later flyers | §1.4c |
 | 10 | Artilleryman underground ↔ East Coast dig corridor | §1.4b |
@@ -31,6 +32,8 @@ One political graph, not two isolated planets:
 | **Boston beachhead** / London encode | Ground-truer US map; Empire shelf relocated; “unauthorized” = later branding (§1.4b) |
 | Wells as WotW “inventor” | **Rejected** — plagiarist-lane (Deeks/*Outline*) ⇒ **fed** encode, not generative genius (§1.4b) |
 | Serviss fleet + canal flood | Encode of reply; **we** killed waterworks |
+| Soft-history lone-genius **Edison** | **Hard-default rejected** — absent convincing inventorship documentation, Edison = **reverse engineer** not generative inventor; Serviss opens with Edison/Kelvin/Röntgen examining Martian engines, flyers, generators; lone-name credit = whitewash (§1.4, §3) |
+| Unused **X-ray on McKinley (1901)** | Kit present (fair + Edison NJ machine); doctors refuse from fear/risk — **Author:** recent **inheritance**, not mature famous-inventor tech (§1.4d) |
 | Serviss not retold / Wells remade forever | Best SF encode memory-holed because **true** (§3) |
 | Schiaparelli canals → later “illusion” | Grid was on; Earth turned it off |
 | MFEE Mars devastation | Overlooked if **ordered from Earth** |
@@ -118,8 +121,10 @@ Investigation holds **both lanes open**. Lane B is **strengthened** by the unfin
 | **Very possible reverse-engineering path** | Heat-ray, Black Smoke, handling-machines, aluminium plant, **plus** the flyer → same stack Serviss has Edison study from derelict Martian gear. |
 | **Hiding from nearly all humans = less plausible** | Epilogue already shows **public** machines and museum specimens. Total concealment of a Primrose Hill flyer from “nearly all humans” fights the text and fights incentives (military, industrial, national prestige). Partial compartmentalization is plausible; **universal** silence is not the default. |
 | **Counterstrike pathway** | Finish / copy the flyer → Earth-built lift tuned in **dense air / high g** → deploy to Mars (asymmetry §4) → Serviss fleet encode. |
+| **Edison = reverse engineer (Author — hard default)** | Soft history’s generative-inventor claim bears the **burden of proof**. Absent real, convincing documentation that Edison invented the stack hung on his name, AU-085 **hard-defaults**: he was **not** an inventor; he was a **reverse engineer**. Soft history needs nearly all major electrical / industrial miracles traced to a **single celebrated person** — that packaging is the extraordinary claim. **Documented in Serviss:** Edison, Kelvin, Röntgen et al. “examined with the utmost care the engines of war, the flying machines, the generators of mysterious destructive forces that the Martians had produced,” then Edison’s Orange lab announces discovery of how the invaders produced those energies **and** how to overcome them. That is reverse engineering in clear text. **Author:** lone-name patent/schoolbook credit is a **whitewash of necessity** once the secret war and beachhead leftovers must stay unnamed — same operator-type problem as Wells the lone novelist. Edison = public face of a compartmented reverse-engineering program. Falsifier: primary inventorship documentation that actually earns blank-page generative credit independent of beachhead inheritance / RE lanes. |
+| **Buffalo X-ray refusal (Author — locked join)** | Soft history mature-invention story fails the bedside test. Famous-inventor tech people trust; recently inherited kit people fear. See §1.4d. |
 
-Prior dossiers treated the flyer mainly as Martian **return vessel**. This investigation adds: once abandoned, it is also Earth’s **stolen ladder** — the most concrete Documented object that makes a real counterstrike **very possible**.
+Prior dossiers treated the flyer mainly as Martian **return vessel**. This investigation adds: once abandoned, it is also Earth’s **stolen ladder** — the most concrete Documented object that makes a real counterstrike **very possible**. Soft history’s later Edison biography is how you keep that ladder off the patents.
 
 ### 1.4b Locus — Boston-first reconstruction; Wells seal vs “piracy / unauthorized” myth
 
@@ -188,7 +193,11 @@ So later secret-war residue looks like unexplained lift, sky flashes, compartmen
 
 **Documented soft-history “irony” package:** McKinley survived Civil War front lines, led through the 1898 overseas war soft history still calls global in scale for the republic, expanded an overseas empire — then died to a disillusioned citizen over domestic economic grievances. Soft history sells that as the ultimate irony of the era.
 
+**Documented — unused X-ray (Buffalo 1901):** After the shooting, an X-ray apparatus was available at the Exposition; aides also had Edison rush a machine from New Jersey to locate the second bullet ([NLM Visible Proofs](https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/cases/mckinley.html); [Wikipedia — Assassination of William McKinley](https://en.wikipedia.org/wiki/Assassination_of_William_McKinley)). Soft history agrees the kit **arrived** and was **not used**. Attending physicians cited disturbance of the patient, “certain risk,” fear of side effects; some later accounts add equipment embarrassment. Soft history files that as medical caution with a six-year-old Röntgen discovery (1895→1901).
+
 **What doesn’t add up:** that package is too neat. Soft history cannot have it both ways: Spain 1898 is a skirmish / “organized assassination” / barely a war when the cover folder must stay small (§1.4c), and a “global war” when McKinley’s death needs tragic irony. Everything on the board reads as **cover-up**, not irony. The anarchist / inequality motive is a **weak** account of an assassination whose downstream public board got **worse** for the masses Czolgosz supposedly spoke for — more imperial war, **Federal Reserve (1913)**, **Great Depression**, tighter executive containment. Killing the tip does not read as liberation math; it reads as **removing a node** and **hardening the cage**. Permanent Secret Service protection is not only safety theater — it is another **containment layer** around future presidents (who may or may not be read into Mars-reach compartments).
+
+**Author lock — X-ray fear = recent inheritance:** refusing to use an already-present machine on the dying president is not how soft history’s mature Edison-class inventions behave. Trusted famous-inventor tech gets used. Recently inherited kit gets feared. The doctors did not know what they held well enough to trust it on the wartime tip — exactly the posture of technology Earth had **stumbled onto** and that the Edison-face program was still trying to push into use. It could not have been generative invention from a blank page by a celebrated inventor whose workshop the public already believed. It fits **reverse-engineered / beachhead-inherited** tech still in the scary window. Röntgen sits beside Edison in Serviss’s examine-the-Martian-engines open for the same reason (§1.4, §3). Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 **Serviss join:** *Edison’s Conquest* (1898) puts **McKinley** on the chair of the Washington war congress — wartime tip of the Earth reply encode, same year as the Spain cover lid. Three years later that tip is dead; TR inherits the Oval; soft history never joins Buffalo to Mars.
 
@@ -465,13 +474,14 @@ Marvel needs gadgets. A real Mars secret war only needs **attribution failure** 
 **Documented** (public-domain text):
 
 1. Martians devastate Earth; disease ends the first wave; Mars prepares **another**.
-2. Edison fields **electrical ships** (attraction/repulsion vs gravity) and **disintegrators** (vibratory atom-unbind).
-3. Global coalition funds **~100 ships / ~3,000 disintegrators** within months.
-4. Fleet fights Martian airships over Mars; humans hold **altitude / propulsion advantage**.
-5. Finishing move: smash canal/waterworks → **flood** inhabited basins. **How decided in-text:** open battle fails → Edison asks Aina for a vulnerable point → she says **drown them** via Syrtis Major **gates** / single power house → Edison adopts (“The clew!”) → **all expedition leaders assent** → night strike closes gates at high water. Not a Washington vote; field council on Mars.
-6. **Height caste (read with Wells):** Serviss **giants** (~12–16 ft) = **warrior/chief** class; human-scale Earth stock (Aina) = **slave** class. Align Wells’s ~6 ft thin bipeds with the **slave/host** layer — not a second species contradiction.
-7. Ancient raid tradition: pyramids / Sphinx as Martian works in Egypt (via Aina).
-8. **Major encode — slave purge on fleet approach:** when Edison’s squadron hangs in the Martian sky, ~**several thousand** Earth-stock slaves recognize their own race and prepare a secret welcome. Word reaches the Martians. **Order: butcher them all.** Executed. **Aina alone** survives — a chief officer **wished her to remain alive** (lust/love stash against purge orders), moved her to a military depot; Smith/narrator raid rescues her and vaporize that unnamed giant. Reply appearance → **mass liquidation of the slave class** — witness/asset wipe on the Mars side.
+2. **Documented reverse-engineering open:** Edison, Kelvin, Röntgen et al. examine Martian **engines of war, flying machines, generators** of destructive force; Edison’s Orange lab then announces how the invaders produced those energies **and** how to overcome them — not blank-page invention in the encode.
+3. Edison fields **electrical ships** (attraction/repulsion vs gravity) and **disintegrators** (vibratory atom-unbind).
+4. Global coalition funds **~100 ships / ~3,000 disintegrators** within months.
+5. Fleet fights Martian airships over Mars; humans hold **altitude / propulsion advantage**.
+6. Finishing move: smash canal/waterworks → **flood** inhabited basins. **How decided in-text:** open battle fails → Edison asks Aina for a vulnerable point → she says **drown them** via Syrtis Major **gates** / single power house → Edison adopts (“The clew!”) → **all expedition leaders assent** → night strike closes gates at high water. Not a Washington vote; field council on Mars.
+7. **Height caste (read with Wells):** Serviss **giants** (~12–16 ft) = **warrior/chief** class; human-scale Earth stock (Aina) = **slave** class. Align Wells’s ~6 ft thin bipeds with the **slave/host** layer — not a second species contradiction.
+8. Ancient raid tradition: pyramids / Sphinx as Martian works in Egypt (via Aina).
+9. **Major encode — slave purge on fleet approach:** when Edison’s squadron hangs in the Martian sky, ~**several thousand** Earth-stock slaves recognize their own race and prepare a secret welcome. Word reaches the Martians. **Order: butcher them all.** Executed. **Aina alone** survives — a chief officer **wished her to remain alive** (lust/love stash against purge orders), moved her to a military depot; Smith/narrator raid rescues her and vaporize that unnamed giant. Reply appearance → **mass liquidation of the slave class** — witness/asset wipe on the Mars side.
 
 **Author read for this dossier:**
 
@@ -483,6 +493,7 @@ Marvel needs gadgets. A real Mars secret war only needs **attribution failure** 
 | Giant warrior caste vs human-scale | Peer: [*Robotech* / Macross **Zentraedi**](https://en.wikipedia.org/wiki/Zentraedi) — giant warriors vs human-size. Soft history: anime. Author: Serviss **chief** class grammar |
 | Pyramid / Sphinx builders | Ancient-builder + Mars–Egypt motif (Stargate cross-ref §5) |
 | Electrical ships + disintegrators | Encode of **Earth anti-grav + DEW** asymmetric kit |
+| **Edison examines Martian engines/flyers first** | Soft history lone genius **rejected as default** — reverse-engineering face; lone-name patents/schoolbooks = **whitewash** so secret war / beachhead leftovers stay unnamed (§1.4) |
 | Canal flood | Planetary infrastructure kill — rhyme with MFEE-scale energy war, different mechanism |
 | Immediate 1898 publish | **After-action myth** filed the same year as Wells’s book edition |
 
@@ -580,10 +591,13 @@ This asymmetry makes a successful Earth counterstrike **more plausible**, not le
 - [x] Serviss **major:** Earth fleet approaches → Martians order mass butcher of Earth-stock slaves; Aina sole survivor (§3).
 - [x] Serviss = best SF encode; **not retold**, motifs spawn elsewhere; Author: vacuum because **true** (§3).
 - [x] Height caste lock: ≤~6 ft thin = **slave**; larger/giant = **warrior/chief**; Wells bipeds + Serviss giants = one hierarchy (§3).
+- [x] **Edison hard-default = reverse engineer:** absent convincing inventorship docs, not generative inventor; Serviss Documented open has Edison/Kelvin/Röntgen examine Martian engines, flyers, generators before Orange lab “victory” announce; lone-name credit whitewashes secret war / beachhead leftovers (§1.4, §3). Soft-history inventor claim bears burden of proof. Same operator-type problem as Wells fed-not-invent.
+- [ ] Edison inventorship falsifier hunt: primary docs that would earn blank-page generative credit independent of RE / beachhead inheritance (if found, reopen soft-history inventor lane) (§1.4).
+- [x] **Buffalo unused X-ray (1901):** kit present (fair + Edison NJ machine); doctors refuse from fear/risk — Author: proves recent **inheritance**, not mature famous-inventor tech (§1.4d).
 - [x] Artilleryman underground — 1897 Boston stub vs London mature; US forward dig; ~1940s Boston/NYC/Philly/Chicago vs London; attacked-corridor join (§1.4b). Soft history congestion alternate held open.
 - [ ] Physical bibliography hunt: Cosmopolitan/Pearson accession stamps, US ads quoting Boston geography before magazine objects, printer/postal marks (§1.4b harder path).
 - [ ] Underground residue hunt: pre-transit shelter language, dual-use vault specs, East Coast dig calendars vs *Fighters* theatre map (§1.4b corridor).
-- [ ] Close-read Serviss for reverse-engineering of **derelict Martian gear** vs Wells leftovers (join language).
+- [ ] Close-read remainder of Serviss for join language tying derelict gear specifics to Wells leftovers beyond the opening examine beat.
 - [ ] Close-read Serviss for **non-Wells** specifics (pyramid claim provenance; Aina chronology ~9,000 yrs / 5,000 Mars years).
 - [ ] Map other **Earth-attacks-Mars** titles 1865–1945 (Hamilton, interwar German Mars fiction, Stapledon war chapters, etc.).
 - [ ] George H. Smith *Second War of the Worlds* (1976) — parallel-world second try; **not on AA**; physical DAW — later echo, lower priority.
