@@ -4,6 +4,8 @@ No one would have believed that in the last years of the nineteenth century a se
 
 ![The Secret War — unfinished flying-machine on a London hill; Earth and Mars under one covered-up war](https://paradigmthreat.net/cosmos/mars/the-secret-war.jpg)
 
+> Earth and Mars were never two sealed worlds that only meet in pulp — they are one political neighborhood with a thin command channel at the top and mass publics kept dark on both ends — and in the late nineteenth century a secret war ran across that neighborhood while soft history filed it as novels, canal illusions, and a dead rock in the sky: human-stock riders in Earth-variant host suits hit Earth in cylinders, scraped scrap into tripods for a first beachhead only, built flying machines on the ground and flew them home when they could, and left unfinished kit and museum bipeds when disease and the forbidden-blood high stranded the remnant; the most successful versions of those missions left no witnesses because perfect execution exterminated them, which is why the 1896–97 mystery airships appear briefly and vanish, while Boston–New England was the massive failure that leaked — leftover machines, paper encodes, later radio lids — and London was the Empire shelf encode that Wells, who was fed rather than inventing, sealed with protest and a later Woking statue so everyone would call Boston the fake map; Edison was not a blank-page inventor but the reverse-engineering face of that inherited kit, still so new that doctors in Buffalo would not even use an X-ray on the dying McKinley; Earth’s reply, filed in Serviss the same season as the Spain cover lid, reverse-engineered lift and struck Mars under a McKinley wartime tip; as that fleet arrived the Martian chiefs ordered their Earth-stock slaves massacred; then, with open war failing and no clean path to victory, the Earth expedition on Mars — not a Washington authorization — closed the canal gates in desperation and flooded the inhabited basins; then McKinley was killed to cover the war, Roosevelt Progressivism opened as the next lid, and the conquering camp’s revenge on Earth took the shape of ideology, information suppression, mass influence, world wars, and imposed famines without regret, because we had just wrecked their planet’s ability to live by canal; Spain 1898 only earns the word 'war' because that secret war ran inside it, with Church versus Constitution as the real sovereignty stakes, and soft history’s alien costume is the last mercy — strip it and the cast is humans of all shapes and sizes on both worlds, thin slaves under giant chiefs, and we blew ourselves up with no other species left to blame.
+
 H. G. Wells opened *The War of the Worlds* by saying no one would have believed that worlds were being watched. The harder claim is this one. A war between planets could be fought, answered across decades, and buried so thoroughly that later generations inherited only novels, canal “illusions,” and a dead rock in the sky. Once you put the pieces next to each other, they stop looking like separate mysteries.
 
 ## This explains everything
@@ -122,7 +124,7 @@ Why the brutality once you see the order of operations: Earth had just wrecked t
 
 ### We blew ourselves up
 
-Soft history wants an alien other — tentacles, saucers, a species you can hate from a safe distance. Strip the costume and the cast is human on both ends: thin slave-class hosts and giant chiefs, Earth stock on Mars, Earth crews in electrical ships, publics kept dark in both skies. Incursions around the world, most of them clean enough that witnesses never lived to file a novel. Boston as the beachhead that failed and leaked. Then Earth’s reply — uncertain how to defeat the far-side command, still willing to smash canal waterworks and flood inhabited basins, innocent populations included, because retaliation felt like survival. Then their brutal return blow on this planet: famine, world war, fights over water and bread, ideology and suppression, without regret.
+Soft history wants an alien other — tentacles, saucers, a species you can hate from a safe distance. Strip the costume and the cast is human on both ends: thin slave-class hosts and giant chiefs, Earth stock on Mars, Earth crews in electrical ships, publics kept dark in both skies. Incursions around the world, most of them clean enough that witnesses never lived to file a novel. Boston as the beachhead that failed and leaked. Then Earth’s reply — uncertain how to defeat the far-side command, and when open war failed the expedition on Mars closed the canal gates in desperation (not a Washington order) and flooded inhabited basins, innocent populations included. Then their brutal return blow on this planet: famine, world war, fights over water and bread, ideology and suppression, without regret.
 
 That is the *Planet of the Apes* story - our story - with no other species left to blame. Humans of all shapes and sizes did this to each other across multiple worlds. We blew ourselves up. We covered it up again and again. We never found out...
 
@@ -228,7 +230,7 @@ Keywords: #SecretWar #WarOfTheWorlds #Mars #Boston #FightersFromMars #PrimroseHi
 
 **Substack:** [paradigmthreat2.substack.com/p/the-secret-war](https://paradigmthreat2.substack.com/p/the-secret-war)
 
-**Last updated:** 2026-11-03T07:37:00-05:00
+**Last updated:** 2026-11-03T07:40:00-05:00
 
 ---
 
