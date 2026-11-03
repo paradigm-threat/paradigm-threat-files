@@ -232,7 +232,7 @@ Keywords: #SecretWar #WarOfTheWorlds #Mars #Boston #FightersFromMars #PrimroseHi
 
 **Substack:** [paradigmthreat2.substack.com/p/the-secret-war](https://paradigmthreat2.substack.com/p/the-secret-war)
 
-**Last updated:** 2026-11-03T08:18:00-05:00
+**Last updated:** 2026-11-03T08:25:00-05:00
 
 ---
 
