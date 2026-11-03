@@ -27,11 +27,13 @@ which (possibly unintentionally) destroyed Martian surface cities as well.
 
 ![CIA remote viewing experiments on Mars in 1984 observe alien vehicles and environments](/cosmos/mars/cia_remote_viewing.jpg?w=360)
 
-> **TL;DR:** Connects “martial” state power to a Mars-associated deep state: surface evidence read as massacre and geometry, CIA remote viewing, biomechanical Martian hosts in fiction, and consolidation after the MudFlood discharge—JFK’s “monolithic conspiracy” as terrestrial framing.
+> **TL;DR:** Connects “martial” state power to a Mars-associated deep state: surface evidence read as massacre and geometry, CIA remote viewing, biomechanical Martian hosts in fiction, and consolidation after the MudFlood discharge—JFK’s “monolithic conspiracy” as terrestrial framing. **Crest correction (2026-11):** conquering-camp influence still dominates most of Earth, but its **source is political and family-oriented** — just as likely seated on **Earth** as on **Mars**. Cleanest Deep State frame until sealed history is known: **pro-conquest** (Catholic Church / CIA-class) vs **pro-sovereignty** (NSA-class, including false-flag plays to retake control). MFEE tip stays **open** (*Ender*-class child/incomplete operator). Canal stay-off after Earth fleet kill = Martian **hide**, not dry preference. Living crest: [*The Secret War*](/cosmos/mars/the-secret-war.md) · [AU-085](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md).
 
 ## What is the Deep State?
 
-The **Deep State** is an international technocratic cabal that imposes systems of control over
+Until sealed history is known, soft history’s “Deep State” is not cleanly a Mars-species headquarters. The cleanest depiction is **two camps**: a **pro-conquest** lane (modern faces include the Catholic Church and the CIA and kin) versus a **pro-sovereignty** lane (modern faces include the NSA and kin — willing to stage false flags and hard containment to retake control). That conquering camp still dominates most of Earth; the rulership is **political and family-oriented**, and its seat is just as likely always to have been on **Earth** as on **Mars**.
+
+In older shorthand this page still uses **Deep State** for the international technocratic cabal that imposes systems of control over
 all human civilization within its influence.
 On April 27, 1961, at the Waldorf-Astoria Hotel in New York City,
 [President John F. Kennedy said:](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)
@@ -87,8 +89,7 @@ accusing an entire *race* or *alien species* of a conspiracy - they are just bei
 These familiar terms of conquest are named after the planet of conquest: **Mars**.
 The origins of these words suggest systems of control imposed upon us
 by humans who associate themselves with the planet Mars.
-The headquarters of the **Deep State** is located in the secret places of the Earth, as well as places we were told
-Humans cannot live, like on the *inside* of the planet Mars.
+Older wording put the headquarters of the **Deep State** in the secret places of the Earth *and* places we were told humans cannot live, like the *inside* of Mars. Keep the Mars-reach and compartmented-geography evidence. Do **not** treat “HQ on Mars” as settled: the command caste is a thin political/family channel that can sit on either world.
 
 The Deep State cannot be identified by its locations alone, but rather by the literature and iconography promoted by
 its agents. Throughout history, all Earth literature became compromised, redacted, and encrypted by Deep State

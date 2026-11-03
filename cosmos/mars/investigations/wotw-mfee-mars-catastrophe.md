@@ -218,6 +218,8 @@ He also notes that someone in the film destroyed Alderaan as "an example to othe
 
 A child trained as a weapon unknowingly commits xenocide — the complete destruction of an alien species — through a technologically mediated remote attack. The aliens communicate telepathically. The destroyer doesn't fully understand what he's doing. This maps onto the MFEE framework: the DEW operators on Mars may not have understood the secondary discharge consequences.
 
+**Author crest (AU-085 join — open):** MFEE was left to a **child** (or incomplete operator) to own in the encode sense — *Ender* grammar. Until sealed history is known, **do not name who ordered the shot or what family/political influences produced that moment**. Earth-ordered option (§1.10 of [AU-085](earth-mars-counterstrike-investigation.md)) stays open beside Mars-fired and intrigue-mix reads. Physical secondary-discharge models above are not deleted; the **tip** is unknown.
+
 ### Wells's War of the Worlds (1898)
 
 Wells describes Mars as a dying world — cooling, drying, resources depleted:

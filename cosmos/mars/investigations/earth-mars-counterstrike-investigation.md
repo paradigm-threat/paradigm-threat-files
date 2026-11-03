@@ -5,7 +5,7 @@
 **Status:** Open (**AU-085**) — **working lock** as unifying frame (§0.1); not closed proof.  
 **Reader essay:** [*The Secret War*](/cosmos/mars/the-secret-war.md)  
 **Q&A hub (foundational Q1):** [What was the Secret War?](/cosmos/mars/qa/page.md#q1-what-was-the-secret-war) — lead with Q1 for related WotW-as-truth questions.  
-**Last updated:** 2026-11-03 (Heat-Ray as forge / cylinder reshape lock).
+**Last updated:** 2026-11-03 (rulership Earth-or-Mars open; two-camp Deep State; MFEE tip unknown).
 
 ### 0.0 Major locks (Author — highlight)
 
@@ -17,7 +17,11 @@
 | 4 | **Serviss** = best SF encode; **not retold** because **true** | §3 |
 | 5 | Earth fleet → Martians **butcher all slaves**; Aina luck sole survivor | §3 |
 | 6 | Height **caste**: ≤~6 ft thin = slave; giants = warrior/chief | §3 |
-| 7 | Canal kill = Aina → Edison → leaders; **we** turned water off | §1.6, §3 |
+| 7 | Canal kill = Aina → Edison → leaders; **we** turned water off; Martians **never intended** it | §1.6, §3 |
+| 7c | **Water stays off = Martian hide** after Earth fleet carnage — fear of **slave-revenge terrorism/sabotage**, not peer rematch; Dead Planet = concealment, not dry preference | §1.6 |
+| 15 | **Rulership source open:** conquering camp still dominates most of Earth; seat is **political/family** — just as likely **Earth** as **Mars** | §1.4c, §1.11, reader Two camps |
+| 16 | **Deep State clean frame:** **pro-conquest** (Church / CIA-class) vs **pro-sovereignty** (NSA-class; false flags to retake control) — not Mars-species HQ | reader Two camps |
+| 17 | **MFEE tip unknown:** *Ender* child/incomplete-operator grammar; do not name a sealed culprit until actual history | §1.10 |
 | 7b | **Edison hard-default = reverse engineer** absent convincing inventorship docs; lone-name patents whitewash; Buffalo unused X-ray = fear of recent inheritance | §1.4, §1.4d, §3 |
 | 8 | **McKinley killed to cover the secret war**; soft “ultimate irony” = lid; **TR/Progressive = Martian counter-move** after canal kill; SS containment | §1.4d |
 | 9 | Spain = cover lid that only earns *war* because secret war ran inside; Church vs Constitution; tripods ≠ later flyers | §1.4c |
@@ -40,7 +44,7 @@ One political graph, not two isolated planets:
 | Soft-history lone-genius **Edison** | **Hard-default rejected** — absent convincing inventorship documentation, Edison = **reverse engineer** not generative inventor; Serviss opens with Edison/Kelvin/Röntgen examining Martian engines, flyers, generators; lone-name credit = whitewash (§1.4, §3) |
 | Unused **X-ray on McKinley (1901)** | Kit present (fair + Edison NJ machine); doctors refuse from fear/risk — **Author:** recent **inheritance**, not mature famous-inventor tech (§1.4d) |
 | Serviss not retold / Wells remade forever | Best SF encode memory-holed because **true** (§3) |
-| Schiaparelli canals → later “illusion” | Grid was on; Earth turned it off |
+| Schiaparelli canals → later “illusion” | Grid was on; Earth turned it off; Mars **keeps it off** to hide from slave-revenge / next fleet (§1.6) |
 | MFEE Mars devastation | Overlooked if **ordered from Earth** |
 | Breakaway / “lost worlds” | **1° political** link; publics dark both ends |
 | HL1 **Abrams on Xen** + HECU silence | Project force **and** erase witnesses |
@@ -183,7 +187,7 @@ Modern “unauthorized sequel” IP culture invents / hardens **later** (20th-c.
 
 **Author lock — why it is still called a war:** the only honest reason for that word is that a **secret war ran inside** the same summer. The public Spain campaign is the visible lid. The Mars compartment is what made the stakes real. Strip the secret war out and soft history’s own skirmish / assassination language is enough.
 
-**Author lock — sovereignty stakes (influence war):** Spain’s sovereignty, as the board that mattered, was the **Catholic Church**. America’s sovereignty was the **Constitution**. Surface objects (Cuba, Manila, *Maine*) are cover geography. The real fight is a **war of influence**: a monotheistic conquering church, **remotely steered by the Martian conquering camp**, versus the **Protestant lane** that same church-power once drove out of Europe — with the Constitution-side republic as that exile’s American continuation. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
+**Author lock — sovereignty stakes (influence war):** Spain’s sovereignty, as the board that mattered, was the **Catholic Church**. America’s sovereignty was the **Constitution**. Surface objects (Cuba, Manila, *Maine*) are cover geography. The real fight is a **war of influence**: a monotheistic **pro-conquest** church lane (modern kin: Church / **CIA**-class faces) versus the **Protestant / Constitution** sovereignty lane (modern kin: **NSA**-class faces willing to run hard plays / false flags to retake control). That conquering camp still dominates most of Earth; its seat is **political and family-oriented** — just as likely **Earth** as **Mars**. Reader: [*The Secret War*](/cosmos/mars/the-secret-war.md).
 
 **How you hunt a secret war:** the durable public records are the stretches where **no tripods and no obvious airships** are on the page — “ordinary” wars, budgets, lab booms, canal “illusions,” Dead Planet seals. Visible walker/cylinder grammar belongs to the **first Earth-surface incursion** (Wells / *Fighters* encode). After that beachhead, repeating the same scrap-built tripod scenario would again risk **losing kit to Earth**. Author doctrine:
 
@@ -275,18 +279,20 @@ Schiaparelli and Lowell were not crazy — they were looking at a planet whose *
 So the later absence of canals is misread as “they were never there.” Better AU-085 read:
 
 > **The Martians didn’t turn off their water. We did.**
+> **They never intended to.** After the kill, **they could not safely turn it back on.**
 
-Earth’s finishing move (or its aftermath) broke the irrigation signature that 1877–1908 telescopes were reporting. Then Dead Planet Protocol / Mariner optics finished the public story: dry rock, canals = illusion, Lowell = crank.
+Earth’s finishing move (or its aftermath) broke the irrigation signature that 1877–1908 telescopes were reporting. Restoring the grid would re-advertise inhabited basins and command sites to the next Earth fleet — a repeat of the same carnage. **Author lock — water stays off = hide, not preference:** what Mars feared was less a peer open-fleet rematch than **slave-revenge terrorism / sabotage** — Earth-stock ledger and Earth crews who had already drowned basins when open war failed. Hiding from further Earth use required staying dark. Dead Planet Protocol is that forced concealment (surface scrub / no readable cities for later cameras), not a Martian choice to live dry. Soft history’s “illusion” + Mariner dry-rock postcard is the Earth-side filing of that hide. Conquering-camp revenge on *Earth* (Progressive influence war, WWs, imposed famines — §1.4d) is a separate beat: ideology on this planet, not Mars restoring canals.
 
 **Keep distinct from:**
 
 | Layer | Water story |
 |-------|-------------|
 | **MFEE ~1774** | Biosphere / ocean-scale wreck — earlier |
-| **Counterstrike (this §)** | Kill **remaining engineered canal grid** after late-19th-c. war — *why canals were seen, then gone* |
-| **Dead Planet Protocol** | Surface dismantling / “no cities” for Mariner-era cameras |
+| **Counterstrike (this §)** | Kill **remaining engineered canal grid** after late-19th-c. war — *why canals were seen, then gone* (**Earth** did it; field desperation, not Martian intent) |
+| **Water stays off / Dead Planet** | **Martian hide** after Earth fleet carnage — fear of **slave-revenge sabotage** + next fleet; not meaningful open counterstrike by restoring the grid |
+| **Earth-side revenge (§1.4d)** | Progressive / WW / famine influence war on Earth — conquering camp; **not** Mars turning taps back on |
 
-**Falsifier:** prove canal maps have **zero** correlation with any real linear/hydrologic features and that Serviss’s flood beat has no peer encodes. Until then, treat “illusion-only” as the **suppression end-state**, not the default.
+**Falsifier:** prove canal maps have **zero** correlation with any real linear/hydrologic features and that Serviss’s flood beat has no peer encodes. Until then, treat “illusion-only” as the **suppression end-state**, not the default. Falsifier for the hide lock: show a restored post-kill irrigation signature that soft history erased for other reasons while Mars openly advertised cities again.
 
 ### 1.7 *Half-Life* (1998) — Abrams on Xen / HECU dual mission (**highlight**)
 
@@ -351,13 +357,16 @@ Examples (motif family, not a claim each title knows AU-085): *Starship Troopers
 
 **New perspective (Author — open):** If the shot was **ordered from Earth** (Earth-side command / breakaway faction with Mars-reach already in the loop), then the “2nd discharge” on Mars is easily **misfiled as natural consequence / tragic accident / Mars attacking itself**, when it is the **predictable return path of an Earth-initiated energy war**. Analysts looking for “Mars fired first” miss the **political** trigger: Earth ordered the engagement; Mars surface paid the blowback bill.
 
+**Child / incomplete-operator lock (Author — open):** the encode that fits the unknown tip is *Ender’s Game* grammar — a **child** (or incomplete operator) left owning a weapon-class trigger without understanding the full board. Until sealed history is known, **we do not know who was behind MFEE or what family/political influences led to that moment**. Do not force a single Mars-HQ or Earth-HQ culprit. Agency stays open: Earth-ordered, Mars-fired, child-held, intrigue mix.
+
 | Misread | AU-085 preferred read |
 |---------|----------------------|
-| Mars attacked Earth; karma fried Mars | **Earth ordered** the DEW event; secondary discharge = consequence of that order |
+| Mars attacked Earth; karma fried Mars | **Earth-ordered option** open; secondary discharge = consequence of that order |
 | Two isolated worlds colliding | Same political graph; weapons and command already linked |
 | MFEE “proves” Martian agency alone | Proves **shared infrastructure + Earth command option** |
+| Named adult war cabinet on the record | **Unknown tip** — child/incomplete operator encode; wait for actual history |
 
-This does **not** delete the physical secondary-discharge model in [`wotw-mfee-mars-catastrophe.md`](wotw-mfee-mars-catastrophe.md). It relocates **agency**: the overlooked question is **who gave the order**, not only what the beam did.
+This does **not** delete the physical secondary-discharge model in [`wotw-mfee-mars-catastrophe.md`](wotw-mfee-mars-catastrophe.md). It relocates **agency**: the overlooked question is **who gave the order**, not only what the beam did — and that answer is **not yet known**.
 
 ### 1.11 Breakaway civilizations — **never imply isolation** (Author lock)
 
