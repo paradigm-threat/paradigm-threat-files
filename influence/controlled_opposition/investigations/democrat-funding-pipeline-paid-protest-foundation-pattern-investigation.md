@@ -366,12 +366,14 @@ Hinge: give up nukes (may stay) vs cling to JCPOA dream (bet on Democrats)
 | [This Is America ads](/governance/usury/communism/investigations/this-is-america-percentage-ads-democratic-bait-switch-investigation.md) | Democrat brand vs delivered order |
 | [Controlled opposition hub](/influence/controlled_opposition/page.md) | Parent hub |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-069** registry |
+| [2026 midterms — four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) | Post-election Camp 4 / protest-vote map; Big Surprise claims |
+| [*The Big Surprise*](/governance/constitution/the-big-surprise.md) | Reader essay — midterm sin-eater / MTG path |
 
 ---
 
 Keywords: #ControlledOpposition #PaidProtest #CrowdsOnDemand #USAID #ActBlue #SPLC #ClintonFoundation #ColorRevolution #Otpor #CANVAS #Obama #SteeleDossier #RiotLogistics #Astroturf #JCPOA #Ayatollah #Iran #DemocratForeignPolicy #Midterms2026 #ParadigmThreatFiles #AU069
 
-*Last updated: 2026-10-11* (§8 Democrat ↔ Ayatollah; absolute header image path)
+*Last updated: 2026-11-05* (Related → four-camp midterm dossier)
 
 ## Limits and disclaimers
 

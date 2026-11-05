@@ -39,6 +39,8 @@ Master list of dossiers and reader essays on this park. Browse by folder in the 
 #### Governance & slavery
 
 * [This is the most important midterm in American history](/governance/constitution/voting-for-insecticide.md) - Reader essay: it looks like both sides would burn everything; only one side actually would; hatred / insecticide test.
+* [2026 midterms - four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) - Open: four camps; Big Surprise claims registry (undefined surprise, $5k, Vance I-told-you-so tiers, no-confession rule); Stevens mirror protest.
+* [The Big Surprise](/governance/constitution/the-big-surprise.md) - Reader essay: why expect a sweep; bury-it sin-eater rule; MTG path; voting as human.
 * [Abolish the justice system](/governance/constitution/abolish-the-justice-system.md) - Reader essay: do not vote for judges; mediation outside the courts; abolition of the courts and the jails.
 * [TONA, Not War - Liberty's Rebrand](/governance/constitution/tona-not-war-liberty-rebrand.md) - Reader essay: TONA abolition-by-disconnect; war tangent; Liberty 1886 rebrand; amendment cascade; *Trump v. Barbara* (June 2026).
 * [Constitution & amendments - nationalist vs globalist battlefield](/governance/constitution/investigations/constitution-amendments-nationalist-globalist-battlefield-investigation.md) - TONA "original 13th"; carceral replacement 13th; 14th birthright; Liberty section 12; cascade section 13; SCOTUS section 14; full scorecard.

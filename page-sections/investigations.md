@@ -51,6 +51,8 @@ History is written by victors of war and protected by the threat of further war.
 * [Bombings in the 20th Century](/governance/war/bombings)
 * [Tax is Slavery](/governance/usury)
 * [Voting for Insecticide](/governance/constitution/voting-for-insecticide.md) — Midterm fork: it looks like both sides would burn everything; only one side actually would.
+* [2026 midterms — four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — Four camps + validated Big Surprise claims; Vance vs Stevens; $5k taunt; no-confession rule.
+* [The Big Surprise](/governance/constitution/the-big-surprise.md) — Even I expected a Republican sweep. Then I asked why.
 * [Abolish the justice system](/governance/constitution/abolish-the-justice-system.md) — Do not vote for judges. Take the dispute to mediation. The courts and the jails go.
 * [Justice system and judges (AU-072)](/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md) — The court as a rival government: English equity kept after independence, voting for judges, and AI in chambers.
 * [Poe’s City in the Sea and Byron’s Darkness (AU-079)](/history/mudflood/investigations/poe-city-in-the-sea-mudflood-investigation.md) — A sinking city, the long dark, and the later science-fiction shelf.

@@ -37,6 +37,8 @@ The [printable flyer](https://paradigmthreat.net/governance/constitution/voting-
 
 ## Where next
 
+- [2026 midterms — four camps / Big Surprise](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — camps + claims registry
+- [The Big Surprise](https://paradigmthreat.net/governance/constitution/the-big-surprise.md) — post-election reader: undefined surprise, bury-it rule, MTG
 - [Justice system and judges (AU-072)](https://paradigmthreat.net/governance/constitution/investigations/justice-system-judges-branches-as-opposites-investigation.md)
 - [Abolish the justice system](https://paradigmthreat.net/governance/constitution/abolish-the-justice-system.md) — do not vote the judicial line
 - [Managed democracy, puppets, and redemption](https://paradigmthreat.net/governance/war/managed-democracy-puppets-and-redemption.md)

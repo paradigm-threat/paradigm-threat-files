@@ -110,6 +110,8 @@ The gold-backed Islamic takeover shadow, no matter how deep, was threatened by a
 
 ## Where next
 
+- [2026 midterms — four camps / Big Surprise](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — Camp 1 + no-confession claims registry
+- [The Big Surprise](https://paradigmthreat.net/governance/constitution/the-big-surprise.md) — midterm sin-eater reading; bury it; MTG path
 - [Dubious stand-down — Libya / Benghazi dossier](https://paradigmthreat.net/governance/war/investigations/dubious-stand-down-orders-libya-benghazi-investigation.md) — KEEP/POISON, stand-down, gold/dinar, *Three Kings*, private server
 - [It was the only way](https://paradigmthreat2.substack.com/p/it-was-the-only-way) — Strange bargain; gold/dinar; Animatrix money-to-war
 - [Mission Accomplished (Again) — Iran 2026](https://paradigmthreat2.substack.com/p/mission-accomplished-again-what-the) — live Iran ledger

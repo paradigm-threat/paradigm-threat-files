@@ -710,10 +710,13 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 - [x] **DINO mirror §** + bidirectional link to [Obama / Malcolm X dossier](/governance/war/investigations/obama-malcolm-x-paternity-birth-record-curation-investigation.md)
 - [x] **Reader article** sibling — [managed-democracy-puppets-and-redemption.md](/governance/war/managed-democracy-puppets-and-redemption.md)
 - [x] **House of Cards instance catalog** — [house-of-cards-kompromat-blackmail-instances-investigation.md](/governance/war/investigations/house-of-cards-kompromat-blackmail-instances-investigation.md)
+- [x] **2026 four-camp / Big Surprise map** — [2026-midterm-four-camps-big-surprise-investigation.md](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) (Thune / filibuster as Camp 3; claims registry)
 
 ---
 
-Keywords: #Rino #LindseyGraham #MitchMcConnell #Trump #Ukraine #ControlledOpposition #ReverseCrusade #Epstein #Governance #Filibuster
+**Related (Nov 2026):** [2026 midterms — four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) · [*The Big Surprise*](/governance/constitution/the-big-surprise.md)
+
+Keywords: #Rino #LindseyGraham #MitchMcConnell #Trump #Ukraine #ControlledOpposition #ReverseCrusade #Epstein #Governance #Filibuster #Midterms2026
 
 ---
 
