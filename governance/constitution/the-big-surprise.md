@@ -3,7 +3,7 @@
 
 ![The Big Surprise — toppled elephant, standing donkey, Capitol crowd; Trump, Greene, and Schumer panels](https://paradigmthreat.net/governance/constitution/the-big-surprise.jpg)
 
-Republicans may be very angry and disillusioned in this moment. Even I was expecting a Republican sweep — but I have to immediately ask myself why. We’ve never seen anything like that before unless it was low-stakes elections, or part of the big NSA push of 2001 through 2005, Patriot Act and all that. This was the most divisive election in my memory. So why did we expect a sweep?
+Republicans may be very angry and disillusioned in this moment. Even I was expecting a Republican sweep — but I have to immediately ask myself why. Midterm cycles almost never reward the party in the White House. The last time Republicans actually swept both chambers in a midterm was [1994](https://www.presidency.ucsb.edu/statistics/data/seats-congress-gainedlost-the-presidents-party-mid-term-elections) — against a Democratic president. Under Trump the first time, [2018](https://usafacts.org/articles/how-to-know-a-red-or-blue-wave-when-you-see-one/) already handed Democrats the House while Republicans held the Senate. The closer rhyme for this night is more like [2006](https://www.ibtimes.com/democrats-win-both-chambers-congress-midterms-3809395) — wartime backlash flipping both chambers — or a deeper blue wave than 2018, not the rare 2002 exception when the president’s party briefly gained after the Patriot Act years. A lot of people hoped for a sweep because they believed Trump had done the right thing on all the issues. That perspective is not shared across the country. And more importantly, even if the claim that the Iran war was necessary turns out to be historically sound, that does not guarantee midterm wins. Future historians will have to decide the war. Midterm voters decide the Congress.
 
 ## Trump Projections
 
@@ -100,7 +100,7 @@ Keywords: #BigSurprise #Midterms2026 #DonaldTrump #JDVance #MarjorieTaylorGreene
 
 **Substack:** [paradigmthreat2.substack.com/p/the-big-surprise](https://paradigmthreat2.substack.com/p/the-big-surprise)
 
-**Last updated:** 2026-11-05T09:54:34-05:00
+**Last updated:** 2026-11-05T09:58:17-05:00
 
 ---
 
