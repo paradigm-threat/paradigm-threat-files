@@ -11,11 +11,12 @@ Single entry point for assistants working in this repo. **Deep dives stay in lin
 | Step | Action |
 |------|--------|
 | 1 | Branch **`main`** (or catalog `publish_branch`). |
-| 2 | **`git push iad1 HEAD:main`** first (publish origin). Server **`update` hook** waits for mesh peers — **push failure = publish failed** (timeout or lagging replica). |
+| 2 | **`git push iad1 HEAD:main`** first (Relay **publish origin** for `paradigmthreat.net`). Server **`update` hook** waits for mesh peers — **push failure = publish failed** (timeout or lagging replica). |
 | 3 | **`git push gitlab HEAD:main`** (forge backup) after iad1 succeeds. |
-| 4 | Report outcome to the author: **success** if iad1 push exited 0; on failure read `remote: mesh sync failed:` lines. |
+| 4 | **`git push origin HEAD:main`** (and **`github`** if that remote exists) — GitHub mirror; **not** sufficient alone for the live site. |
+| 5 | Report outcome: **success** if iad1 push exited 0 (or tip already matched HEAD after peer notify); on failure read `remote: mesh sync failed:` lines. |
 
-**Hard rules:** one tip everywhere; never force-push Relay `main` unless ordered; never land long-lived commits on only one node; real binaries at public paths ([`docs/MEDIA_AND_IPFS.md`](docs/MEDIA_AND_IPFS.md)).
+**Hard rules:** one tip everywhere; **never stop at GitHub/GitLab without iad1**; never force-push Relay `main` unless ordered; never land long-lived commits on only one node; real binaries at public paths ([`docs/MEDIA_AND_IPFS.md`](docs/MEDIA_AND_IPFS.md)). Cursor rule: [`.cursor/rules/git-push-relay.mdc`](.cursor/rules/git-push-relay.mdc).
 
 **Mesh failures:** `/opt/relay/state/post_push_sync/<repo>.json` on iad1; `journalctl -g 'peer notify'`. Operator debug: `relay-gateway/scripts/relay-push-and-wait.sh` or `POST /api/sync/mesh/<repo>`.
 

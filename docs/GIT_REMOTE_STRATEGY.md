@@ -88,7 +88,7 @@ This repo keeps **real binaries** at public paths. **`assets.manifest.json`** is
 
 ## Assistant / agent defaults
 
-**Canon:** [`AGENTS.md`](../AGENTS.md) (git push order, server-side mesh gate on iad1, dates, doc routing). Chat live-publish: [`CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) §6.
+**Canon:** [`AGENTS.md`](../AGENTS.md) (git push order, server-side mesh gate on iad1, dates, doc routing). Cursor always-on rule: [`.cursor/rules/git-push-relay.mdc`](../.cursor/rules/git-push-relay.mdc) — **iad1 → gitlab → origin/github**; forge-only / origin-only is a fail. Chat live-publish: [`CHAT_REQUEST_RESPONSE.md`](CHAT_REQUEST_RESPONSE.md) §6.
 
 ---
 
