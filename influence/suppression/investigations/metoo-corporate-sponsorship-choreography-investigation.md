@@ -110,7 +110,7 @@
 
 **Investigation use:** Invert burden — when a campaign **goes viral at Hollywood/political scale**, ask **who lit the match and who paid**, before accepting “the people rose.”
 
-**Gang stalking (author L4 open):** Named here as **suppressor / protector** tool — can **kill** organic virality or **shield** sponsored frames. **No dedicated dossier yet**; treat as **author open claim** pending evidence registry (FOIA, civil suits, clinical literature on “gang-stalking” as contested category vs. real harassment campaigns).
+**Gang stalking (author L4 → dedicated dossier):** Named here as **suppressor / protector** tool — can **kill** organic virality or **shield** sponsored frames. Continuum + demographic-isolation package now in [Demographic isolation / gangstalking continuum (**AU-086**)](/influence/suppression/investigations/demographic-isolation-gangstalking-virtual-physical-continuum-investigation.md).
 
 ---
 
@@ -277,7 +277,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | - | ----- | --------- | ------ |
 | **AU-053a** | 2017+ public MeToo wave = **corporate-choreographed** campaign with declared targets — Alef-class tool asset (salary, gig, bots, press); **foreign-office / foreign-capital pathways inside those multinationals stay open** (corporate ≠ domestic-only) | Partial — Time’s Up elite critiques; Occupy sponsorship literature; repo celebrity slavery essential | **Open** — pattern strong; single-memo proof not required; **do not** treat missing “foreign state funded MeToo” headline as clearance |
 | **AU-053b** | Organic welfare / pollution / gang / immigration causes **cannot** achieve MeToo-scale virality under current media ownership | Partial — media-bias literature; absolute “cannot” is author | **Open** |
-| **AU-053c** | **Gang stalking** systematically kills organic virality or protects sponsored campaigns | Contested clinical/social category; harassment campaigns real in other dossiers | **Open** — needs own file |
+| **AU-053c** | **Gang stalking** systematically kills organic virality or protects sponsored campaigns | Continuum dossier shipped as **AU-086** | **Moved** → [AU-086](/influence/suppression/investigations/demographic-isolation-gangstalking-virtual-physical-continuum-investigation.md) |
 | **AU-053d** | Celebrity MeToo pile-ons ignore **non-neutral** containment (arranged marriage, child leverage, adjacency squeeze → narrative flip) | Celebrity slavery L1–L2 adjacent; flip mechanism case-by-case | **Open** |
 | **AU-053e** | **Spacey** = highlight of thin accusation + real punishment; model response = ¶2 *“This story has encouraged me to address other things about my life”* (open the frame); media **whitewashed** toward backlash so public talked about reaction, not his statement | Statement L1; backlash headlines L2; whitewash-as-intent **author L3** | **Locked** to primary line (2026-08-29b); whitewash intent still **open** |
 | **AU-053f** | MeToo ignited to **anticipate/brand Trump**; **Carroll** case kept as **structural head** — without it house of cards falls | Partisan exploitation L2; anticipation blueprint L3–L4; Aug 2026 finalize L1 | **Open** |
@@ -310,7 +310,7 @@ Seeking **non-genuine / elite-sponsored** language: mainstream critics rarely sa
 | ---- | -------- | ----- |
 | Expand accusation registry toward census | **P0** | Seed table only |
 | Headline corpus: statement vs backlash framing (Oct–Nov 2017) | **P1** | Q3b — whitewash pattern evidence |
-| Gang-stalking dedicated dossier | **P1** | New lane |
+| Gang-stalking dedicated dossier | **Done** | [AU-086](/influence/suppression/investigations/demographic-isolation-gangstalking-virtual-physical-continuum-investigation.md) |
 | Map foreign assets of named MeToo-era corporate sponsors (CAA, streamers, press parents, platforms) | **P0** | Q8 — corporate sponsorship **implies** multinational surface; do **not** rule out foreign-sited order |
 | Specific foreign-desk / foreign-principal OSINT (if any) | **P1** | Q8b — optional smoking gun; absence ≠ clearance |
 | Cross-link every registry row to primary URLs | **P1** | Many rows still summary-level |

@@ -2,7 +2,7 @@
 
 Constitutional text, amendments, and sovereignty threads in the Paradigm Threat corpus.
 
-The 2026 midterm read is [Voting for insecticide](/governance/constitution/voting-for-insecticide.md): it looks like both sides would burn everything; only one side actually would, and the voter has to tell the difference without outsourcing the call. Post-election camp map + Big Surprise claims: [2026 midterms — four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md). Reader: [*The Big Surprise*](/governance/constitution/the-big-surprise.md).
+The 2026 midterm read is [Voting for insecticide](/governance/constitution/voting-for-insecticide.md): it looks like both sides would burn everything; only one side actually would, and the voter has to tell the difference without outsourcing the call. Post-election camp map + Big Surprise claims: [2026 midterms — four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md). Reader: [*The Big Surprise*](/governance/constitution/the-big-surprise.md). Common objection Q&A: [Why vote if elections are rigged?](/governance/constitution/qa/q01-why-vote-in-rigged-elections.md).
 
 ---
 
@@ -16,10 +16,13 @@ The 2026 midterm read is [Voting for insecticide](/governance/constitution/votin
 | [abolish-the-justice-system.md](/governance/constitution/abolish-the-justice-system.md)   | **Do not vote for judges.** Courts as a rival government; mediation outside the system; complete abolition of the courts and the jails                                                                                                |
 | [tona-not-war-liberty-rebrand.md](/governance/constitution/tona-not-war-liberty-rebrand.md) | **TONA, Not War — Liberty’s Rebrand:** TONA as peaceful abolition-by-disconnect; Civil War tangent; carceral 13th + birthright 14th; Statue of Liberty (1886); amendment cascade XV–XVI; *Trump v. Barbara* (June 2026); MAGA sovereignty doctrine |
 
+## Q&A
+
+| File | Focus |
+|------|--------|
+| [qa/q01-why-vote-in-rigged-elections.md](/governance/constitution/qa/q01-why-vote-in-rigged-elections.md) | **Why vote if “rigged”?** Local/legislative stake; Vance silence on fraud; Nonwo specimen; optional Flock-trap join |
 
 ---
-
-
 
 ## Investigations
 
