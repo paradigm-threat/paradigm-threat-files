@@ -8,7 +8,7 @@ Nothing here counts as resignation until I send a dated copy to named recipients
 **Prior notice:** [make-gordonston-draft-notice-of-intentions.md](make-gordonston-draft-notice-of-intentions.md) — polite intentions email to Art Fair committee + short GNA note. This letter is the follow-through, not a second first-notice.
 
 **Author:** Ari Asulin  
-**Draft date:** 2026-10-28
+**Draft date:** 2026-11-07 (revised; prior 2026-10-28)
 
 ---
 
@@ -18,7 +18,7 @@ Nothing here counts as resignation until I send a dated copy to named recipients
 
 To Gordonston Neighborhood Association leadership, Juliette Gordon Low Park trustees, and Art Fair organizers:
 
-This is the formal resignation I said would follow if nobody would even promise to try.
+This is the formal resignation I said would follow if nobody would even promise to try. The November 2026 election made the picture clearer, not softer. So the resolve is harder.
 
 I wrote you earlier with a notice of intentions. I finished the 2027 fair cycle I owed the artists — booth fees collected, funds in the destination bank, jurying and late-entry mail handled. I was honest then: even with trustees fully on board, getting Georgia “purely public charity” property-tax status back might be hard or fail — Chatham can say no, and private trust ownership can stay forever. I did not demand a stamped exemption. I asked for a real promise to try for the Low / Scout / Savannah’s-children goal, with Twickenham included in that try. If we tried our best and had to quit, that would have been enough. What I got instead is the same picture as the history: no try, and no sign anyone will. So I’m done.
 
@@ -71,6 +71,18 @@ Corruption in a small trust is common. What got me was everyone else’s reactio
 
 The main person who attacked me online and ripped my notices off the park bulletin board lives across the street from the park trustee, in the center circle of Gordonston, and helps plan the social events. That is not a coincidence of geography. That is how private ownership of this ground turns into real neighbor abuse and exclusion: the trust sits in the middle, the enforcer sits next door, the calendars and cottage socials keep rolling, and the rest of the neighborhood treats it as normal. That pattern — online purge, board posters torn down, nasty notes back (lizard people, the carnival, because years ago there were Trump signs in my yard), Hollywood / filming dressed up as “no politics” — is what triggered this resignation. The paperwork made the faith die. The neighbor war made staying as volunteer labor impossible.
 
+### What the election made unmistakable
+
+On November 6, 2026, Governor-elect Keisha Lance Bottoms (D) announced at the Georgia State Capitol that filmmaker and entertainment mogul Tyler Perry would co-chair her gubernatorial transition team — “Georgia’s Promise” — preparing the administration for inauguration in January 2027. That is not a ceremonial ribbon cut. That is Hollywood money and Hollywood messaging put next to the governor’s own public voice: a media-facing director translating the state to constituents through an industry lens.
+
+Prominent Black filmmakers, scholars, and critics have long argued that Perry’s work perpetuates regressive stereotypes. Spike Lee and others have said the Madea character and related comedy reduce complex Black life to loud, buffoonish caricature — a one-to-one echo of minstrel / “coonery” tropes this country once broadly recognized as racist. His dramas get the same charge in another key: simplistic moral dichotomies that punish educated or independent Black women and reward submissive or hyper-religious types. That critique is not fringe. It is on the record from people inside Black film culture. We are not supposed to say the word “racist” out loud about any of it right now — that branding is how you get labeled a Republican and lose elections. Fine. Call the agenda whatever you want. The substance does not change.
+
+I finally understand why I was treated so badly here in Gordonston. The neighborhood has connections — real and aspirational — to that same Hollywood pipeline. Filming already came through our blocks. The money is starting to flow big time. Things are about to kick into high gear, and with a governor directing essentially a media director, there may be more Hollywood influence in Georgia than ever. They absolutely did not want somebody like me: somebody who would call out the whole process — the subsidized backlot ethics, the guest-list park dressed as charity, the Facebook purge when criticism of Hollywood was reclassified as “politics.”
+
+That is why I got banned from the local Gordonston Facebook group. They did not tolerate criticism of Hollywood, period. Whatever Perry’s statewide agenda is or is not, Gordonston’s local agenda of feeding that pipeline — courting filming, money, and influence in the hope studios come here and sprinkle some of it around — is absolutely not enough of a policy to ban a person who lives in Gordonston from online speech or from posting flyers. Hope of Hollywood cash does not buy a muzzle on a resident.
+
+This election hardens that read. It hardens my resolve to resign and never have anything to do with these agendas, or with Gordonston Park as volunteer labor, until they mend their ways — and unban the Black neighborhood that sits in full view of the park. Those kids should be able to access that park. With this governor and this Hollywood co-chair, it looks like the opposite will harden instead: white residents clinging to territory as long as they can, while Black neighbors campaign against the fence. That is a lose-lose for everyone. Even if people in Gordonston are too stuck-up and politically stringent to have this discussion, it is still important enough for me to resign — so I do not feed it with the thousands of dollars of revenue I was bringing in, or with the technical expertise I offered at an extreme discount.
+
 The responsibility to stop that lies with the rest of the neighborhood. Zero people came to my aid when it counted. People said that’s just the way it is. Private kindness after a purge does not count. So there is no community here — just a private club. I’ve already been cut out. This resignation is not really my choice in the sense people mean when they say someone “walked away.” Why stay where I am not welcome? Why keep building the website and checkout for a place that already showed me the door?
 
 I live on the edge of an apartheid at Gwinnett — Twickenham on one side of the sign, Gordonston on the other — and I will not volunteer to paint it pretty. Volunteers are free labor on private trust land. Someone collects the money and decides who may stay. Posted hours and fair rules can exist on a park that is honest. Residents Only plus park-priced taxes plus “we’re a charity” talk cannot.
@@ -95,7 +107,7 @@ Without a try, the more likely path is uglier: let the park rot, keep the token 
 - On December 31, 2027: entire website, all data, all code deleted. After that, no Gordonston Park labor from me. Hands washed.
 - I’m not leaving this corridor. My daughter may still be in the park when access allows. That’s parenting, not volunteering for your brand.
 
-It is nothing personal toward most people I built pages with. If you disagree, it may be personal for you. I did the work on faith, read the roll, and then lived the exclusion. The notice left a door open for a promise to try. This letter closes it — not because I found a warmer club elsewhere, but because this one already cut me out.
+It is nothing personal toward most people I built pages with. If you disagree, it may be personal for you. I did the work on faith, read the roll, lived the exclusion, and then watched the state put Hollywood at the governor’s transition table. The notice left a door open for a promise to try. This letter closes it — not because I found a warmer club elsewhere, but because this one already cut me out, and because I will not be free labor for an agenda that needs silence more than it needs neighbors.
 
 Respectfully,
 
@@ -122,7 +134,8 @@ Respectfully,
 - **Ask that failed:** Not “get the exemption.” Failed = no good-faith promise/try for Low-aligned children’s / public-charity use + Twickenham. Honest try that fails at Chatham would have satisfied the notice.  
 - **Lizard people / Trump yard / crumpled posters:** Author-supplied; keep unless shorter trustee-only version.  
 - **Online/board attacker + Hollywood:** Role/geography in letter (across from trustee, center circle, helps plan socials). Name (e.g. Jack Taylor) only if author confirms address vs trustee at 1806 E Henry. Full Facebook thread in MGGA.  
-- **Racial / apartheid:** Author ethical read; 2011 press does not prove racial intent as a court fact.  
+- **Bottoms / Perry (2026-11-06):** Governor-elect Keisha Lance Bottoms named Tyler Perry co-chair of “Georgia’s Promise” transition team (Capitol press conference). Letter frame: Hollywood money/messaging next to governor’s public voice; Spike Lee + others’ stereotype critique of Madea / melodramas as author-cited cultural record, not a court finding of racism by the neighborhood. Facebook ban = no criticism of Hollywood (MGGA May 2026). Local filming-hope agenda ≠ enough policy to ban resident speech/flyers. Harden resolve + Twickenham unban ask; lose-lose fence politics. Do **not** claim Gordonston has a documented contractual pipeline to Perry personally — “connections / aspirational pipeline / filming already came” is the careful line.  
+- **Racial / apartheid:** Author ethical read; 2011 press does not prove racial intent as a court fact. Perry stereotype critique is public cultural criticism (Spike Lee et al.), not a claim that GNA voted for minstrel tropes.  
 - **Exclusive city venue:** GNA minutes e.g. **2026-10-19** — Code (Ombengi), SPD (King), City (Gibson) as guests at cottage/park meeting for Gordonston. Claim = **exclusive venue** structure, not that ordinary city is closed to Twickenham.  
 - **Fridge (2026-10):** Author used ordinary city dump-removal; city closed it ~**2026-10-27** with satisfaction; **no evidence** GNA-meeting code officer caused the fix. Author stance: prefer slow/fee city over exclusive help; abhors exclusivity; exclusivity ≈ feeling not shared. Do **not** keep the old “meetup fixed my fridge in days / undue priority” line.  
 - **Mini-split AC:** Oct 19 2026 minutes — Art Fair + GNA **$600/$600**; cage on exterior unit. Frame: volunteers fund → private control / no community oversight (“we provide the money, they tell us where it’s used”). April 2026 HVAC priority after wiring.  
