@@ -97,7 +97,7 @@ When generating or landing a **new** `.md` article, **hub**, or **major investig
 - **Do not lose data.** Merge sections by moving paragraphs and tables into the surviving heading; never drop citations, URLs, or checklist rows without pasting them elsewhere.
 - **Reduce redundancy.** One **Limits** block at **file end** (before Investigator notes); one **Related investigations** table (do not duplicate the same links in a separate “Cross-links” section). One interpretive “premise” statement — cross-reference earlier sections instead of restating.
 - **Everyday readers:** Keep a short **Guide (read order)** as a numbered list (reliable on all renderers). Prefer plain sentences; **bold** for emphasis and labels, not every entity name.
-- **Closing a session:** Refresh **`governance/war/investigations/page.md`** row if scope changed; add/update **`docs/INVESTIGATIONS_DEEP_DIVE.md`** row **and** §2 validation block when the file has material open TODOs; update **site root [`page.md`](../page.md)** **`## Investigation Categories`** (and **`## My Articles`** if featured) per **New article or hub — discovery checklist** above; update **topic hub `page.md`** and **`index-investigations.md`** when the lane uses them; run final pass on **open questions** and **weak points / TODOs**; **`npm run autogen`**; **commit** and **push all configured remotes** (`origin`, relays, etc.) when the author asks for repo sync. **Optional quality pass:** run or schedule an **[Investigation LLM sweep](INVESTIGATION_LLM_SWEEP.md)** (plan file only — **no** autonomous investigation edits).
+- **Closing a session:** Refresh **`governance/war/investigations/page.md`** row if scope changed; add/update **`docs/INVESTIGATIONS_DEEP_DIVE.md`** row **and** §2 validation block when the file has material open TODOs; update **site root [`page.md`](../page.md)** / **`page-sections/investigations.md`** (and **`## My Articles`** if featured) per **New article or hub — discovery checklist** above; update **topic hub `page.md`** and **`index-investigations.md`** when the lane uses them; run final pass on **open questions** and **weak points / TODOs**; **`npm run autogen`**; **commit** and **push in order `iad1` → `gitlab` → `origin`/`github`** when the author asks for repo sync (**Relay first** — GitHub alone does not update paradigmthreat.net; see [`GIT_REMOTE_STRATEGY.md`](GIT_REMOTE_STRATEGY.md)). **Optional quality pass:** run or schedule an **[Investigation LLM sweep](INVESTIGATION_LLM_SWEEP.md)** (plan file only — **no** autonomous investigation edits).
 
 ---
 
@@ -140,7 +140,7 @@ When discussing defense budgets vs commercial games: cite **parallel ecosystems*
 ## Git
 
 - Commit investigation changes with a clear one-line message.
-- **Go-live / sync:** follow [`AGENTS.md`](../AGENTS.md) and [`GIT_REMOTE_STRATEGY.md`](GIT_REMOTE_STRATEGY.md) — **`git push iad1 HEAD:main`** first, then GitLab, then poll mesh sync. Do not re-add retired nodes (`lon1`, `atlanta2`, `jp-osa`, …) unless ops restores them.
+- **Go-live / sync:** follow [`AGENTS.md`](../AGENTS.md) and [`GIT_REMOTE_STRATEGY.md`](GIT_REMOTE_STRATEGY.md) — **`timeout 90 git push iad1 HEAD:main`** first (live site), then **`gitlab`**, then **`origin`/`github`**, then confirm `ls-remote iad1` matches `HEAD`. Do not re-add retired nodes (`lon1`, `atlanta2`, `jp-osa`, …) unless ops restores them.
 
 ---
 

@@ -24,10 +24,14 @@ git checkout main
 git pull --ff-only   # from gitlab/main (or your upstream)
 
 # Catalog repos with publish_origin=iad1 (paradigm-threat-files, paradigm-threat-timeline, …):
-git push iad1 HEAD:main
-git push gitlab HEAD:main
-# hkg1/ord1: peer notify + catalog sync — optional direct push
+# ALL THREE — live site will not update without iad1
+timeout 90 git push iad1 HEAD:main      # Relay publish origin → paradigmthreat.net
+timeout 90 git push gitlab HEAD:main    # forge backup / CI
+timeout 90 git push origin HEAD:main    # GitHub mirror (not sufficient alone)
+# hkg1/ord1: peer notify + catalog sync — optional direct push if iad1 peers lag
 ```
+
+**Assistants:** when the author says **push** / **commit and push** / **publish**, run the **iad1 → gitlab → origin** sequence above. Stopping after GitHub alone is a **failed publish** for this site (article visible on GitHub, missing on paradigmthreat.net). Cursor always-on: [`.cursor/rules/git-push-relay.mdc`](../.cursor/rules/git-push-relay.mdc).
 
 **Why iad1 before GitLab:** startup catalog sync on replicas pulls from GitLab (forge). If GitLab is pushed while iad1 still lags, hkg1/ord1 can land **ahead of the publish origin** until iad1 catches up — Observer flags that as a mesh anomaly.
 

@@ -1,27 +1,28 @@
 ---
-description: Always push to Relay publish_origin (iad1) plus GitLab and GitHub — never forge/origin alone.
+description: Always push to Relay publish_origin (iad1) plus GitLab and GitHub — never forge/origin alone. Live site is Relay.
 alwaysApply: true
 ---
 
 # Git push — Relay publisher + forges (always)
 
-When the author asks to **commit and push**, **push**, or a **diff-tab commit-and-push** for this repo:
+When the author asks to **commit and push**, **push**, **publish**, or a **diff-tab commit-and-push** for this repo:
 
-**Order (do not stop early):**
+**Order (do not stop early — all three required):**
 
-1. **Relay publish origin first** — currently **`iad1`** (check [`.relay.yaml`](../../.relay.yaml) / catalog `publish_origin` / [`docs/GIT_REMOTE_STRATEGY.md`](../../docs/GIT_REMOTE_STRATEGY.md) if unsure).
+1. **Relay publish origin first** — currently **`iad1`** (`git://iad1.relaygateway.net:9418/paradigm-threat-files.git`). This is what **`paradigmthreat.net`** serves. Check catalog `publish_origin` / [`docs/GIT_REMOTE_STRATEGY.md`](../../docs/GIT_REMOTE_STRATEGY.md) if unsure.
    ```bash
    timeout 90 git push iad1 HEAD:main
    ```
 2. **GitLab forge:** `timeout 90 git push gitlab HEAD:main`
-3. **GitHub** (`origin` and/or `github` as remotes exist): `timeout 90 git push origin HEAD:main` (and `github` if it is a separate remote pointing at the same repo).
-4. Confirm: `git ls-remote iad1 refs/heads/main` matches `git rev-parse HEAD`. Live site (`paradigmthreat.net`) reads **Relay**, not GitHub alone.
+3. **GitHub** (`origin` and/or `github`): `timeout 90 git push origin HEAD:main` (and `github` if separate).
+4. Confirm: `git ls-remote iad1 refs/heads/main` matches `git rev-parse HEAD`. Optionally `hkg1` if iad1 peer-notify failed.
 
 **Hard fails**
 
-- Stopping after `git push origin` / `git push github` / `git push gitlab` **without** `iad1` = **publish failed** for this site.
-- Generic user rules that say “push origin” or “push -u origin HEAD” do **not** override this repo. In `paradigm-threat-files`, always include **iad1** (then gitlab + github).
+- Stopping after `git push origin` / `git push github` / `git push gitlab` **without** `iad1` = **publish failed**. The article will appear on GitHub and **not** on the live site.
+- Generic Cursor / user rules that say “push origin” or “push -u origin HEAD” do **not** override this repo. In `paradigm-threat-files`, **iad1 is mandatory** every push (then gitlab + github).
 - Never force-push Relay `main` unless the author explicitly orders it.
+- Do **not** treat “ahead of origin” as done — Relay and GitLab may still lag.
 
 **If iad1 rejects** with “is at \<same SHA\> but expected \<old\>”: treat as **already published** via peer notify — verify with `ls-remote`; do not force-push. Prefer `hkg1` only if iad1 is unreachable, then repair iad1.
 

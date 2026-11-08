@@ -307,7 +307,9 @@ LLM drafts **confabulate** text that *sounds* quotable: **song lyrics**, **film 
 
 ## After you ship (discovery)
 
-Follow **[`INVESTIGATIONS.md`](../INVESTIGATIONS.md) → “New article or hub — discovery checklist”**: site root **`page.md`** **Investigation Categories**, topic **`page.md`**, **`index-investigations.md`** (or sibling index), bidirectional **Related** links, **`npm run autogen`**.
+Follow **[`INVESTIGATIONS.md`](../INVESTIGATIONS.md) → “New article or hub — discovery checklist”**: site root **`page.md`** / **`page-sections/investigations.md`** **Investigation Categories**, topic **`page.md`**, **`index-investigations.md`** (or sibling index), bidirectional **Related** links, **`npm run autogen`**.
+
+**Go-live remotes (`paradigm-threat-files`):** when the author asks to **push** / **publish**, always push **Relay first**, then forges — **`iad1` → `gitlab` → `origin`/`github`**. Live **`paradigmthreat.net`** reads Relay (`iad1`); GitHub alone leaves the article missing on the website. Canon: [`AGENTS.md`](../../AGENTS.md) § Git and go-live; [`GIT_REMOTE_STRATEGY.md`](../GIT_REMOTE_STRATEGY.md); [`.cursor/rules/git-push-relay.mdc`](../../.cursor/rules/git-push-relay.mdc).
 
 **`Last updated` line:** use the **calendar date in US Eastern** (`America/New_York`) — see **[`INVESTIGATIONS.md` → Dates and timezone](../INVESTIGATIONS.md#dates-and-timezone)**. Place after **`## Framing and limits`** (or equivalent), before **`Keywords:`** and the attribution footer.
 

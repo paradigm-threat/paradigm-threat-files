@@ -8,17 +8,19 @@ Single entry point for assistants working in this repo. **Deep dives stay in lin
 
 **Canon:** [`docs/GIT_REMOTE_STRATEGY.md`](docs/GIT_REMOTE_STRATEGY.md)
 
+**Live site = Relay.** `paradigmthreat.net` reads **`iad1`** (publish origin), not GitHub. A push that only hits `origin` / `github` / `gitlab` leaves new articles **invisible** on the website.
+
 | Step | Action |
 |------|--------|
 | 1 | Branch **`main`** (or catalog `publish_branch`). |
-| 2 | **`git push iad1 HEAD:main`** first (Relay **publish origin** for `paradigmthreat.net`). Server **`update` hook** waits for mesh peers — **push failure = publish failed** (timeout or lagging replica). |
-| 3 | **`git push gitlab HEAD:main`** (forge backup) after iad1 succeeds. |
-| 4 | **`git push origin HEAD:main`** (and **`github`** if that remote exists) — GitHub mirror; **not** sufficient alone for the live site. |
-| 5 | Report outcome: **success** if iad1 push exited 0 (or tip already matched HEAD after peer notify); on failure read `remote: mesh sync failed:` lines. |
+| 2 | **`timeout 90 git push iad1 HEAD:main`** first (Relay **publish origin**). Server **`update` hook** waits for mesh peers — **push failure = publish failed** (timeout or lagging replica). |
+| 3 | **`timeout 90 git push gitlab HEAD:main`** (forge backup) after iad1 succeeds. |
+| 4 | **`timeout 90 git push origin HEAD:main`** (and **`github`** if that remote exists) — GitHub mirror; **never sufficient alone**. |
+| 5 | Confirm `git ls-remote iad1 refs/heads/main` == `git rev-parse HEAD`. Report **success** only when iad1 tip matches (or peer notify already matched); on failure read `remote: mesh sync failed:` lines. |
 
-**Hard rules:** one tip everywhere; **never stop at GitHub/GitLab without iad1**; never force-push Relay `main` unless ordered; never land long-lived commits on only one node; real binaries at public paths ([`docs/MEDIA_AND_IPFS.md`](docs/MEDIA_AND_IPFS.md)). Cursor rule: [`.cursor/rules/git-push-relay.mdc`](.cursor/rules/git-push-relay.mdc).
+**Hard rules:** one tip everywhere; **never stop at GitHub/GitLab without iad1**; generic “push origin” user rules do **not** override this; never force-push Relay `main` unless ordered; never land long-lived commits on only one node; real binaries at public paths ([`docs/MEDIA_AND_IPFS.md`](docs/MEDIA_AND_IPFS.md)). Cursor rule: [`.cursor/rules/git-push-relay.mdc`](.cursor/rules/git-push-relay.mdc).
 
-**Mesh failures:** `/opt/relay/state/post_push_sync/<repo>.json` on iad1; `journalctl -g 'peer notify'`. Operator debug: `relay-gateway/scripts/relay-push-and-wait.sh` or `POST /api/sync/mesh/<repo>`.
+**Mesh failures:** `/opt/relay/state/post_push_sync/<repo>.json` on iad1; `journalctl -g 'peer notify'`. Operator debug: `relay-gateway/scripts/relay-push-and-wait.sh` or `POST /api/sync/mesh/<repo>`. Prefer **`hkg1`** only if iad1 is unreachable, then repair iad1.
 
 ---
 
@@ -68,6 +70,6 @@ Do **not** load unless the task touches that topic:
 
 - **Iran 2026 / Rubio “world none of us want to leave behind”** — [`governance/war/mission-accomplished-again-iran-2026.md`](governance/war/mission-accomplished-again-iran-2026.md) (cite **Rubio**, not Vance; May 5, 2026 briefing).
 
-*Last updated: 2026-09-12*
+*Last updated: 2026-11-08*
 
 **Catalog index:** [`relay-master/docs/CATALOG_AGENTS.md`](../relay/relay-master/docs/CATALOG_AGENTS.md) lists all mesh catalog repos.
