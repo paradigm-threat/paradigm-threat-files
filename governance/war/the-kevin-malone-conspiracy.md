@@ -211,6 +211,7 @@ I could be wrong about what the Kevin pattern means, but I am not wrong that the
 - [Cryptic *Office* catalogue](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#possible-cryptic-office-lines-kevin-heavy--double-meaning-search-seeds) — table form of the beats in this essay
 - [Finale rescue — GET OUT cake](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#finale-rescue--get-out-cake-as-the-head-of-the-attempt) — cake as head of the rescue; companion note
 - [Jade Helm hypothesis stack](https://paradigmthreat.net/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack) — Angry Birds gate, May 2016 volcano cluster, Cruz–Trump endgame
+- [*Echos of Jade HELM*](https://paradigmthreat.net/governance/war/echos-of-jade-helm.md) — Helm → TX Minnesota-type bloc machine; 2026 midterms; Big Surprise reframe
 - [Mission Accomplished (Again) — Iran 2026](https://paradigmthreat.net/governance/war/mission-accomplished-again-iran-2026.md) — present war ledger
 - [Watch *The Pentagon Papers* (2003)](https://paradigmthreat.net/governance/war/watch-the-pentagon-papers-2003.md) — James Spader as Ellsberg
 - [Trump-era Hollywood PP](https://paradigmthreat.net/influence/hollywood/trump-era-hollywood-political-media-investigation.md) — *Boss Baby* and related dam examples

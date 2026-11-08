@@ -725,6 +725,7 @@ Output path (developer machine): `~/dev/subs/the-office-us-kevin-malone-master.m
 ## Cross-links
 
 - **Reader essay:** [*The Kevin Malone Conspiracy*](/governance/war/the-kevin-malone-conspiracy.md) — narrative Office catalogue; Pharaoh / ritual hijack; **GET OUT** cake as head of finale rescue; *Parks and Rec* continuation; Scotland open; May 2016 volcano / Iran bridge
+- **Reader essay:** [*Echos of Jade HELM*](/governance/war/echos-of-jade-helm.md) — Helm hinge → Texas Minnesota-type immigrant-bloc elections; 2026 midterms; Big Surprise observe/foreign-influence layers
 - [Jade Helm — Texas coup / Cruz hypothesis](./us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack)
 - [CIA investigation](./cia-investigation.md) (institutional “deep state” framing elsewhere in this corpus)
 - [Mission Accomplished (Again) — Iran 2026](/governance/war/mission-accomplished-again-iran-2026.md)

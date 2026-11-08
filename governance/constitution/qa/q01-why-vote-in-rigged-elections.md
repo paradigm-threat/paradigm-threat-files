@@ -28,6 +28,8 @@ National elections are already owned by global finance. Both parties are puppets
 - [2026 midterms investigation — § common “rigged, so don’t vote”](../investigations/2026-midterm-four-camps-big-surprise-investigation.md#13-common-objection--rigged-so-dont-vote)
 - [*Voting for insecticide*](../voting-for-insecticide.md)
 - [2020 selective battleground / legitimacy](../investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md)
+- [2026 county anomalies / late changes](../investigations/2026-midterm-county-anomalies-late-changes-investigation.md)
+- [*Echos of Jade HELM*](../../war/echos-of-jade-helm.md)
 - [*Mission Accomplished again — Iran 2026*](../../war/mission-accomplished-again-iran-2026.md)
 
 ## Limits

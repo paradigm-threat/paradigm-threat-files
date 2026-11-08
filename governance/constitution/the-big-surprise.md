@@ -79,6 +79,8 @@ And hopefully the effect of all this sin-eating will be that those who are compl
 ## Where next
 
 - [2026 midterms — four camps / Big Surprise](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — claims registry, quote banks, four camps
+- [*Echos of Jade HELM*](https://paradigmthreat.net/governance/war/echos-of-jade-helm.md) — Helm → TX bloc machine; observe-fraud + foreign-influence readings of the Surprise
+- [2026 county anomalies / late changes](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-county-anomalies-late-changes-investigation.md) — living specimen harvest
 - [Voting for insecticide](https://paradigmthreat.net/governance/constitution/voting-for-insecticide.md) — pre-election fork; sit-out still dies
 - [Q1 — Why vote if elections are rigged?](https://paradigmthreat.net/governance/constitution/qa/q01-why-vote-in-rigged-elections.md) — local vote; silence on fraud; Nonwo specimen
 - [The Sin Eater](https://paradigmthreat.net/governance/war/the-sin-eater.md) — Bourne bury-it grammar; Libya / Iran money spine

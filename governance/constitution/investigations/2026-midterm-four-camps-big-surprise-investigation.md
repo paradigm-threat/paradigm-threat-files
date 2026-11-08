@@ -264,6 +264,8 @@ Author mistakes get checked here. Article [*The Big Surprise*](/governance/const
 | [*Children of Men* PP](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md) | 2027 setting / holy-war grammar companion |
 | [NSA 2001–2005 AU-058](/governance/war/investigations/nsa-2001-2005-declassification-offensive-investigation.md) | Patriot-era exception for “sweep” expectation |
 | [Q1 — Why vote if rigged?](/governance/constitution/qa/q01-why-vote-in-rigged-elections.md) | Common Nonwo / stay-home objection |
+| [2026 county anomalies / late changes](/governance/constitution/investigations/2026-midterm-county-anomalies-late-changes-investigation.md) | USB/card/late-flip specimen harvest |
+| [*Echos of Jade HELM*](/governance/war/echos-of-jade-helm.md) | Helm → TX bloc machine; Surprise observe/foreign-influence layers |
 
 ---
 
