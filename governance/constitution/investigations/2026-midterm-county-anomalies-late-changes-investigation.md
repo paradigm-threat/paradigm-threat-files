@@ -2,7 +2,7 @@
 
 > **TL;DR:** Living **daily** catalog of **published** 2026 county anomalies (USB/card/entry/mail). **Priority: Texas** (+ Jade Helm hijack thesis). New core: **[§4.5](#45-frequency--outcome-change-likelihood)** — how often these channels appear, and a ladder for whether they **can / did** change outcomes. Premise: the sneaky modern techniques are ordinary election plumbing poorly understood even by staff; “human error” ≠ forensic close. Method: D/F/R/K buckets, not all-or-nothing fraud. Cross-read: [voter fraud catalog](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md) · [Jade Helm stack](/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack) · [Cruz/Kevin](/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md).
 
-**Status:** Open — **daily harvest** (next pass target **2026-11-09**). Passes **2026-11-08**: #1 seed · #2 dated timeline · #3 Texas/Jade Helm · **#4 frequency + outcome-change likelihood + S11–S12**.  
+**Status:** Open — **daily harvest** (next pass target **2026-11-10**). Passes **2026-11-08**: #1–#7; **2026-11-09**: **#8** §7 claim-family consolidation · **#9** Islam influence / T11 headcount dual.  
 **Scope:** County / city / town published anomalies for **2026 elections** (Nov midterms primary; 2026 primaries as cycle context). Every specimen carries **Event** + **first Revealed** dates; scale trend in [§4.3](#43-revelation-timeline--trend-at-scale); **how often / could it flip races** in [§4.5](#45-frequency--outcome-change-likelihood). **Priority theater: Texas** ([§4.4](#44-texas-theater--priority)). Investigation premise: some of the most **advanced / subtle** manipulation channels are poorly understood even inside election offices — so “human error” frames are not forensic closes.
 
 ---
@@ -213,7 +213,8 @@ Unofficial Texas SOS / AP-track figures (Updated ~**2026-11-04**; remain unoffic
 | **Minnesota — Somali / absentee / elders** | Yes — years of accusation (family/proxy, ballot delivery) | FBI interviewed elders; [Muse Mohamud Mohamed](https://apnews.com/article/2022-midterm-elections-minnesota-minneapolis-voting-9b57b4d1fc875d5c3b0512c1cd3673f8) convicted **2022** for **lying to grand jury** about delivering ballots (agent-delivery abuse; source of ballots never disclosed — [Reformer](https://minnesotareformer.com/2022/11/07/state-senators-campaign-volunteer-sentenced-for-lying-to-grand-jury-about-delivering-ballots/)); Project Veritas / Snapchat “hundreds of ballots” = **allegation** (Omar deny); **2026** federal grand-jury subpoena to MN SOS on **noncitizen rolls** (~125 individuals) — [CBS](https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/) | **Open** — narrow conviction + open probes; full “imam ordered household ballots” **unproven**; blue-state investigability barrier |
 | **National “noncitizen voting rare”** | Continuously | Spot prosecutions; surveys that sample *caught* incidents | **F-frame** — rarity claims measure enforcement yield, not true rate |
 | **Household / proxy — absent family cast** | Raised constantly | **Hard D:** [Melowese Richardson](https://www.usatoday.com/story/news/nation/2013/07/17/cincinnati-illegal-voting/2530119/) (OH) — 5 yrs for voting for comatose sister / family; [Marie Beren](https://www.inquirer.com/news/marie-beren-sentence-ozzie-myers-philadelphia-elections-fraud-20230119.html) (PA) — guilty plea: encouraged poll voters to cast for **absent family**, plus fake votes ([complaint](https://storage.courtlistener.com/recap/gov.uscourts.paed.589769/gov.uscourts.paed.589769.1.0.pdf)) | **Demonstrated crime class** when caught; scale under-investigated |
-| **Imam / mosque bloc preference** | Sermons urging vote / obligation for named candidates | e.g. MI El-Sayed primary sermons ([MEMRI / Free Beacon lane](https://americanalmanac.com/abdul-el-sayeds-imam-denounces-homosexuality-complains-about-jewish-scholars-and-calls-voting-for-el-sayed-a-muslim-obligation/)) | **D for preference pressure**; ≠ conviction for marking household ballots |
+| **Imam / mosque bloc preference** | Sermons urging vote / obligation for named candidates | e.g. MI El-Sayed primary sermons ([MEMRI / Free Beacon lane](https://americanalmanac.com/abdul-el-sayeds-imam-denounces-homosexuality-complains-about-jewish-scholars-and-calls-voting-for-el-sayed-a-muslim-obligation/)) | **D for preference pressure** (= Islamic *influence*, not headcount); ≠ conviction for marking household ballots |
+| **Muslim officials headcount vs influence** | CAIR-directory / “N Muslims elected” scare graphics | Dual: identity body-count dies easy; values/Sharia/handler test does not ([§7 T11](#7-tainted-memes--poison-nodes); essay Islam section) | Score **influence**; do not equate “hate the threat” with poison-pill bigotry |
 | **Mail / kitchen-table coercion** | Integrity literature + common sense | No booth privacy; household head can watch/mark ([LegalClarity](https://legalclarity.org/family-voting-whats-illegal-and-when-help-is-allowed/)) | **Structural weak point** — author: strong case to end mail-in on this alone |
 | **Sanctuary / Dem-governed states** | Accusations that you must fight **another state’s government** | DOJ lawsuits for roll data; states refuse or slow-walk | Matches author: can’t nab individuals → must pierce a protected admin |
 
@@ -312,17 +313,28 @@ These are **not** substitutes for §4 rows. They are the wider board:
 
 ## 7. Tainted memes — poison nodes
 
-**Working rule (author):** Viral fraud memes often carry a **real signal** and a **debunkable bait**. Debunking the bait produces the establishment product: “nothing to see.” Keep the signal.
+**Working rule (author):** Score before filing. A **poison-pill** meme plants a claim ordinary fact-checking / LLM dump can kill — and when that claim dies, the **main message** is meant to die with it (“nothing to see”). A **genuine** meme may still be boastful or exaggerated; nothing in it is set up so that killing the swagger erases the point. **Test:** after the chatbot’s best debunk, does the core claim still stand? If yes → genuine (keep, discount tone). If no → poison (kill bait, ask what signal was coated). Viral fraud memes often carry a **real signal** and a **debunkable bait**. Debunking the bait produces the establishment product: “nothing to see.” Keep the signal when one exists.
 
-| ID | Packet | Bait (kill) | Signal (keep) | Status |
-|----|--------|-------------|-----------------|--------|
-| **T1** | @MAGAVoice-style “70–72M Dem midterm vs 75M Harris / no Senate = ghosts” | Dems beat Harris; Senate calendar proves ghosts | Shallow Dem cliff vs historical midterm drop; R House collapse vs Trump | Analyzed 2026-11-07 |
-| **T2** | Germany servers / soldiers killed (2020 lore recycled) | Raid + KIAs | E-tabulator vulnerability literature is a separate lane | Prior Nonwo pass |
+**Consolidation rule:** When many mouths say the **same claim**, file **one family row** (list amplifiers in Packet). Do not open a new **T#** for each remix. Full scored walk + forged-Trump-voice class + certification cluster: [*Echos of Jade HELM*](https://paradigmthreat.net/governance/war/echos-of-jade-helm.md#tainted-memes--bury-them-with-their-own-confusion).
+
+| ID | Family (amplifiers) | Bait (kill) | Signal (keep) | Status |
+|----|---------------------|-------------|-----------------|--------|
+| **T1** | Midterm-vs-Harris ghosts (@MAGAVoice-style) | Dems beat Harris; Senate calendar “proves ghosts” | Shallow Dem cliff vs historical midterm drop; R House collapse vs Trump | Analyzed 2026-11-07 |
+| **T2** | Germany servers / soldiers killed (2020 lore) | Raid + KIAs | E-tabulator vulnerability literature (separate lane) | Prior Nonwo pass |
 | **T3** | Dual-citizen Hoyer / HAVA-for-Israel | Dual citizenship claim | HAVA modernization + e-voting risk history | Prior Nonwo pass |
-| **T4** | @GenXGigi **2026-11-05** — “Texas was stolen!” + graphic: if each of **2.9M** voters had 50% chance, P(all same)=(0.5)^2,900,000 ≈ 1 in 10^873,000 | Treats 2.9M as **unanimous coin-flips for one candidate**; wrong model (voters aren’t fair coins; new registrants ≠ bloc; figure is **EAVS new valid registrations 2022–24**, not “2.9M identical ballots”) | **Keep:** EAVS **2,900,357** new valid regs; TX share **56.5%** vs ~**25%** national; **no documentary citizenship** at registration; Dem raw explosion vs flat Abbott ([§4.4](#44-texas-theater--priority)) | Packeted 2026-11-08; kill math theater, keep roll root |
-| **T5** | Houston FBI raid / **20k** Dem ballots in storage locker (Election Day posts) | Entire raid story | FBI Houston: fabricated / no op; recycled photos (Atlanta FBI van, SF ballots) | **K** complete for raid claim; does **not** close TX1/TX2 or statewide audit demand |
+| **T4** | **Registration / 2.9M poison** — GenXGigi Nov 5 coin-flip; Hernando Arce / remixes (DHS “250k” + TX 2.9M “without proof”) | Coin-flip / “2.9M illegal ballots” / overstated DHS *potential* matches as midterm explosion | EAVS **2,900,357** new valid regs; TX **56.5%** vs ~**25%** national; no documentary citizenship; Dem raw explosion vs flat Abbott ([§4.4](#44-texas-theater--priority)) | Packeted 2026-11-08; essay family 2026-11-09 |
+| **T5** | Houston FBI raid / **20k** Dem ballots | Entire raid story | Fabricated / no op (KHOU, AFP) | **K** for raid; does **not** close TX1/TX2 |
+| **T6** | **Uniform left-shift** — Harris Jr (254 TX counties / do-not-certify); Wall Street Apes (~95% counties shifted Dem) | “Do not certify” / “95% of Americans abandoned patterns” | Near-universal margin shift vs 2024 (electorate rebuild / roll weight) | Essay family 2026-11-09 |
+| **T7** | **Land-count / independence math** — Gaetz-watermark / SaltyGoat county-land; Grok 0.8^n; “1 in a trillion / 3,330 turning blue” | Land ≠ people; independent-coin theater | National left-shift shape (same as T6 signal) | Essay family 2026-11-09 |
+| **T8** | **Seminole / forged Trump** — Gateway Pundit S1 wrap; fake TS “Great card / casino lady” | Ditch-card myth; **Trump misquote** (attribution kill) | S1 HD-154 late upload / soft channel ([§4.1](#41-specimen-table--current-harvest)) | Essay family 2026-11-09 |
+| **T9** | **EO / observation** — “Buckle up” 13848 / 14248 / 14399 | Optional Insurrection Act foam | Orders real; catch-and-mitigate architecture | Genuine (boastful) 2026-11-09 |
+| **T10** | **Certification / hold-swearing-in** — Chris X ask; Harris certify leap; Trump/Fleischer seating talk; Vance–Dunleavy–DOJ Alaska; Rogers *v. Benge*; Johnson / Gottheimer–Bacon counterweights | Meme = accomplished hold | Live Jan. 3 / certificate path; three lanes in essay Layer A | Essay family 2026-11-09 — do not re-list each amplifier as new T# |
+| **T11** | **Muslim headcount** — “255 Muslim elected officials” / CAIR 2026 directory mosaics / “recipe for disaster” | Body-count = sin; “Muslims aren’t inherently bad” chatbot kill | **Influence / values / who they serve** (American law vs Islamic/Sharia priorities); handler networks; civic-platform Muslims ≠ invasion chassis | Dual packet 2026-11-09; essay *Islam — influence, not a headcount litmus* |
+| **T12** | **Bessent / IRS Minnesota funds** — Whiplash437-class “massive audits / TORCHED” | ALL-CAPS cable foam | Treasury: IRS auditing FIs that facilitated laundering of MN funds; FinCEN MSB NOI; Hennepin/Ramsey GTO; later FinCEN MSB/charity alerts ([sb0354](https://home.treasury.gov/news/press-releases/sb0354); [sb0670](https://home.treasury.gov/news/press-releases/sb0670/)) | Genuine 2026-11-09 — admin invisible-fight specimen; essay Layer A |
 
-Add new **T#** rows when a meme hits the feed. Always separate bait vs signal.
+Same mouth, different claim: SaltyGoat land-count = **T7** poison; SaltyGoat “overplayed their hand” = genuine boast (no new T#). Add **T#** only for a **new claim family**.
+
+**Author sentiment (Islam lane — not a moral apology):** Resentment/hatred toward Islam as a political-religious threat system, and toward violence done in its name, is treated as **natural**, not as a character defect. Being Muslim ≠ the offense. Load-bearing question = **Islamic influence inside government** (values, Sharia collision, handlers), not census of Muslim officeholders. Post-9/11 “religion of peace” litmus = major deception; subsequent uprisings / murders / mass crackdowns are the empirical reply. Headcount scare without a values test = poison or dual; influence without apology = keep. Omar-class: face may be secondary to brokers/family/mosque (incl. brother-husband allegation lane); clean when constituents knowingly bought a civic American platform. Full prose: [*Echos of Jade HELM*](/governance/war/echos-of-jade-helm.md#islam--influence-not-a-headcount-litmus).
 
 ---
 
@@ -385,6 +397,9 @@ None of these rows alone = “national theft.” Together they are enough that *
 | **2026-11-08** | Reader essay shipped: [*Echos of Jade HELM*](/governance/war/echos-of-jade-helm.md). |
 | **2026-11-08** (pass 6) | **TX4** TEAM audit logged. Essay [*Echos of Jade HELM*](/governance/war/echos-of-jade-helm.md) gains post-election revelations assessment through **2026-11-08**. |
 | **2026-11-08** (pass 7) | Hierarchy / family-voting evidence ladder: Richardson (OH), Beren (PA), Mohamed (MN), imam preference sermons, mail structural weak point; essay + §4.6 updated. |
+| **2026-11-09** (pass 8) | **§7 consolidation:** claim-family rule; **T4** absorbs Hernando remixes; new **T6–T10** (left-shift, land/independence math, Seminole/forged Trump, EO, certification cluster). Pointer to essay Layer A — no per-amplifier T# duplicates. |
+| **2026-11-09** (pass 9) | **T11** Muslim headcount dual packet; author Islam-influence sentiment locked (hate-of-threat natural; values/Sharia/handlers not body-count; religion-of-peace litmus as deception). Essay section + §4.6 row. |
+| **2026-11-09** (pass 10) | **T12** Bessent/IRS/FinCEN Minnesota-funds audits validated via Treasury press; essay Layer A “invisible fight” specimen. |
 
 ---
 
@@ -403,5 +418,5 @@ None of these rows alone = “national theft.” Together they are enough that *
 
 Keywords: #ElectionIntegrity #2026Midterms #VoterFraud #Texas #JadeHelm #MemoryCard #USB #Lubbock #SeminoleCounty #DorchesterCounty #Raffensperger #Anomalies #TaintedMemes #HumanError #USPS #RevelationTimeline #EAVS #OutcomeChange #SubtleTechniques #ParadigmThreat
 
-**Last updated:** 2026-11-08T08:05:00-05:00
-**Next daily harvest:** 2026-11-09
+**Last updated:** 2026-11-09T04:35:00-05:00
+**Next daily harvest:** 2026-11-10
