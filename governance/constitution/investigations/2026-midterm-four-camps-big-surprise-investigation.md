@@ -2,8 +2,8 @@
 
 > **TL;DR:** After Democrats took the House and Senate in the **3 Nov 2026** midterms, **JD Vance** said **2024 Trump voters crossed to Democrats** over the **Iran war**, costs, **America First**, and **Israel**. Mirror protest: **Haley Stevens** → Republican **Mike Rogers**. This file maps **four camps** and a validated **Big Surprise** claims registry: Trump teased an undefined midterm surprise; he did **not** say they knew they would lose; **$5,000** conditional dividend is Documented (Author = late taunt); Vance’s “I told you so… share your worldview” is Documented (sin-eater / hats packaging = Author extension). Sin-eater rule: bury the cost; no confession. Reader essay: [*The Big Surprise*](/governance/constitution/the-big-surprise.md). Companions: [*Voting for insecticide*](/governance/constitution/voting-for-insecticide.md) · [*The Sin Eater*](/governance/war/the-sin-eater.md) · [AU-046](/governance/war/investigations/presidential-alignment-globalist-vs-nationalist-investigation.md) · [RINO](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md).
 
-**Status:** Open — camps + Big Surprise claims registry validated 2026-11-05; reader article shipping same day.  
-**Date:** 2026-11-05
+**Status:** Open — camps + Big Surprise claims registry validated 2026-11-05; **Massie reclassified controlled opposition 2026-11-10** (§5.2 / Hegseth impeachment).  
+**Date:** 2026-11-05 (Massie update 2026-11-10)
 
 ![2026 midterms — four camps of American politics; two protest-vote flows](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise.jpg)
 
@@ -15,7 +15,7 @@
 2. **Outcome sketch (documented)** → [§2](#2-2026-outcome-sketch--documented-layer)
 3. **Four camps defined** → [§3](#3-four-camps--definitions)
 4. **Camp 1 quote bank** → [§4](#4-camp-1--sin-eater--trump-style)
-5. **Camp 2 quote bank** → [§5](#5-camp-2--true-nationalist--greene-style)
+5. **Camp 2** + **Massie CO** + **Greene exit / Gallrein replace** → [§5](#5-camp-2--true-nationalist--greene-style) · [§5.2](#52-thomas-massie--reclassified-controlled-opposition-author) · [§5.3](#53-greene-exited-early-massie-stayed-useful-the-seat-was-replaced-author)
 6. **Two directions of protest** + Camp 3 → [§6](#6-two-directions-of-protest-voting--camp-3)
 7. **Camp 4 lockstep vs variation** → [§7](#7-camp-4--brave-new-world--lockstep-and-fracture)
 8. **Filibuster warning lane** → [§8](#8-filibuster--pre-election-warnings-and-post-election-asks)
@@ -29,7 +29,7 @@
 
 > **Author (session 2026-11-05, condensed from midterm research brief):**
 >
-> Republicans lost the vote because a lot of people were trying to find a protest party — to protest Republican actions — and they only had the Democrats. The biggest thing felt in this election was that people wanted a way to protest. The Republicans that ventured away from the pro-national message and too far into an Israel war left voters without a nationalist protest vehicle other than voting Democrat. On the other side of the coin, by enabling Iran to become too powerful to stop, Democrats push the opposite international plan. In confusion and anger, people are willing to protest NSA-style action in order to promote the CIA-style default as a matter of protest. By electing Democrats to take over the Senate and the House, they basically voted for the other plan — pro-Iranian nuclear proliferation and worldwide terrorism. The main lesson they still have to learn: if you want to protest pro-war and internationally biased entities like Reagan-style Republicans or neocons, you need to do better than vote Democrat, because Democrat is not just a protest — it goes against those same pro-nationalist values. The election looked pre-predicted; everyone knew Democrats were going to sweep. Republicans blamed narrative (war / Israel / America First failure), not voter fraud — and they are right that the narrative cost them. Voters had to choose between two major evils. Trump is the biggest senator / sin-eater figure; when he goes down he wants to leave a Republican party untainted by foreign influences, Israel off the table. The real strategy may not have been winning but documenting as much fraud as possible and eating the major sin of destroying CIA-backed plans while going down forever as an unpopular MAGA party that itself ventured into foreign interests. Prediction held open: Marjorie Taylor Greene (or someone like Thomas Massie) shows up as the next / first female president lane.
+> Republicans lost the vote because a lot of people were trying to find a protest party — to protest Republican actions — and they only had the Democrats. The biggest thing felt in this election was that people wanted a way to protest. The Republicans that ventured away from the pro-national message and too far into an Israel war left voters without a nationalist protest vehicle other than voting Democrat. On the other side of the coin, by enabling Iran to become too powerful to stop, Democrats push the opposite international plan. In confusion and anger, people are willing to protest NSA-style action in order to promote the CIA-style default as a matter of protest. By electing Democrats to take over the Senate and the House, they basically voted for the other plan — pro-Iranian nuclear proliferation and worldwide terrorism. The main lesson they still have to learn: if you want to protest pro-war and internationally biased entities like Reagan-style Republicans or neocons, you need to do better than vote Democrat, because Democrat is not just a protest — it goes against those same pro-nationalist values. The election looked pre-predicted; everyone knew Democrats were going to sweep. Republicans blamed narrative (war / Israel / America First failure), not voter fraud — and they are right that the narrative cost them. Voters had to choose between two major evils. Trump is the biggest senator / sin-eater figure; when he goes down he wants to leave a Republican party untainted by foreign influences, Israel off the table. The real strategy may not have been winning but documenting as much fraud as possible and eating the major sin of destroying CIA-backed plans while going down forever as an unpopular MAGA party that itself ventured into foreign interests. Prediction held open: Marjorie Taylor Greene shows up as the next / first female president lane. *(Earlier drafts floated “or someone like Thomas Massie”; Massie is now Author-reclassified as controlled opposition — [§5.2](#52-thomas-massie--reclassified-controlled-opposition-author) — not a Camp 2 successor.)*
 >
 > Four camps for the map: (1) **sin-eater Trump style**; (2) **true nationalist Greene style**, including libertarians who protested the same things (surveillance, forever war) for decades; (3) **caught in the middle** — everyone not aligned, not fully informed, but not willing to vote Democrat anymore, considering that party largely choreographed and remote-controlled, not representing the people — including spectacular switches that protest by “voting for the enemy,” in reverse of Trump voters crossing to Democrats over the war; (4) **Brave New World** perfect global citizens who always vote liberal causes, do not think outside the bubble, punish deviation, and are opposed to pro-nationalist camps.
 
@@ -100,9 +100,9 @@ Donald Trump Jr. publicly amplified the post as fully agreed ([The Hill](https:/
 
 ## 5. Camp 2 — True nationalist / Greene-style
 
-**Roster (Author placement):** Marjorie Taylor Greene · Thomas Massie · Rand Paul · Joe Kent · Tucker Carlson · Ron Paul (ancestor) · Warren Davidson (thinner — war-powers partial).
+**Roster (Author placement):** Marjorie Taylor Greene · Rand Paul · Joe Kent · Tucker Carlson · Ron Paul (ancestor) · Warren Davidson (thinner — war-powers partial).
 
-**Not Camp 2:** John Thune (institutional filibuster fight → Camp 3).
+**Not Camp 2:** John Thune (institutional filibuster fight → Camp 3). **Thomas Massie** — previously rostered here as “true nationalist”; **reclassified 2026-11-10** as **controlled opposition / planted RINO-style brake** ([§5.2](#52-thomas-massie--reclassified-controlled-opposition-author)). Documented America First *rhetoric* stays in the quote bank as surface theater, not as Camp 2 membership.
 
 ### 5.1 Quote bank
 
@@ -110,14 +110,33 @@ Donald Trump Jr. publicly amplified the post as fully agreed ([The Hill](https:/
 |---------|-------------|------|
 | Greene | “We said no more foreign wars… But he’s betrayed us all.” / “The movement has begun.” (Carlson Maine huddle, Aug 2026) | Documented ([POLITICO](https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860)) |
 | Greene | Pre-election: Democrats win because Trump prefers “Epstein friends and Netanyahu” (with Massie) | Documented (press paraphrases / X) |
-| Massie | “This is not ‘America First.’” / Iran war unauthorized; war powers with Khanna | Documented |
-| Massie | “The war with Iran is UNCONSTITUTIONAL… ILLEGAL under the 1973 WPA.” | Documented ([Newsweek](https://www.newsweek.com/full-list-of-republicans-whove-opposed-donald-trumps-iran-war-heres-why-12223730)) |
+| Massie *(surface — not Camp 2)* | “This is not ‘America First.’” / Iran war unauthorized; war powers with Khanna | Documented — **rhetoric**; see §5.2 for Author read |
+| Massie *(surface)* | “The war with Iran is UNCONSTITUTIONAL… ILLEGAL under the 1973 WPA.” | Documented ([Newsweek](https://www.newsweek.com/full-list-of-republicans-whove-opposed-donald-trumps-iran-war-heres-why-12223730)) |
 | Massie | Primary loss May 2026; heavy pro-Israel outside spend; concession dig at opponent “in Tel Aviv” | Documented |
+| Massie | Nov 2026: privileged articles of impeachment vs Defense Secretary **Pete Hegseth** (Iran war powers + other counts); forces House vote | Documented ([Massie House release](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863); [NBC](https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989); [NPR](https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth)) |
 | Paul | Opposes presidential war without Congress; career anti–regime-change lane | Documented |
 | Kent | Resigned NCTC; Iran “no imminent threat”; pressure from Israel / lobby (Author-weight contested by WH) | Documented resignation + contested claim |
 | Carlson | America First ≠ tens of billions to ethnostate war (Semafor text exchange, Oct 2026) | Documented as attributed quote |
 
-**Author join:** Vance’s closer — take anger into electing Republicans who share the worldview — points **toward** Camp 2 without Vance leaving Camp 1’s administration.
+**Author join:** Vance’s closer — take anger into electing Republicans who share the worldview — points **toward** Camp 2 (Greene lane) without Vance leaving Camp 1’s administration. That handoff does **not** clear Massie.
+
+### 5.2 Thomas Massie — reclassified controlled opposition (Author)
+
+**Prior error in this file:** Massie was listed with Greene as a **true American nationalist**. That was wrong for this investigation’s purposes.
+
+1. **Accused many times of being a RINO.** Trump and MAGA amplifiers branded him a **RINO** / disloyal Republican for years — “Weak and Pathetic RINO,” “thrown out of office,” primary purge spend, Prayer Breakfast “moron” / “automatic no” framing ([Fox](https://www.foxnews.com/politics/rep-thomas-massie-responds-after-trump-calls-him-moron-national-prayer-breakfast-speech); [The Hill](https://thehill.com/homenews/state-watch/5882724-donald0-trump-targets-thomas-massie-primary/); [CNN](https://www.cnn.com/2025/06/24/politics/thomas-massie-trump-oust-incumbent)). That accusation record is **Documented**. Massie’s libertarian / America First *branding* answers it; branding is not the adjudication.
+
+2. **This investigation’s accusation:** Massie is a **controlled opposition agent**, **deliberately pinned** to make the **MAGA movement look bad** — the “principled” anti-war Republican face whose real product is permanent chaos inside the coalition. Companion grammar: [RINO / controlled GOP opposition](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md).
+
+3. **Final proof — the attempt to impeach Pete.** Forcing a House vote to impeach Defense Secretary **Pete Hegseth** ([Massie House release](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863); [NBC](https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989); [NPR](https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth)) is the biggest tell of all. For him it was **not** about nationalism, foreign influence, or money. It was about being a **useful idiot** to **smash the Republican Party to pieces**, cause **infighting**, and make them look **very unorganized**. In the author’s opinion, that is exactly what Massie contributed. Greene-style Camp 2 remains the protest lane; Massie is **not** that lane.
+
+### 5.3 Greene exited early; Massie stayed useful; the seat was replaced (Author)
+
+**Documented timeline:** Greene announced resignation **Nov 2025**, effective **5 Jan 2026** — long before Election Night’s blue wave and long before Massie’s post-midterm Hegseth impeachment theater ([AP](https://apnews.com/article/marjorie-taylor-green-congress-resigns-trump-maga-5f42d4893343babc8e87da1491a0de2b); [Congress.gov resignation letters](https://www.congress.gov/119/crec/2026/01/03/171/220/modified/CREC-2026-01-03-pt1-PgH6137-6.htm)). Surface press framed Trump feud / Epstein-file fight / primary threat. Massie lost the **May 2026** KY-04 GOP primary to Trump-backed **Ed Gallrein** (~55–45) and Gallrein held the seat in November ([AP](https://apnews.com/article/massie-gallrein-trump-kentucky-republican-primary-03a658b1a45593ad04ebf6283a3fdb47); [Cincinnati Enquirer](https://www.cincinnati.com/story/news/northern-kentucky/2026/11/03/ed-gallrein-wins-kentucky-4th-district-seat/92600687007/)).
+
+**Author read — why Greene left:** She saw the **contrived blue-wave storm** / election scheme coming. Resigning early protected her family and preserved her as a **real uncompromised** candidate for the next cycle. Outside Congress she could keep the **message pure** while the big fight detonated between MAGA Republicans (Camp 1 sin-eater brand under midterm fire) and true pro-nationalist Republicans (Camp 2). Massie, still inside the chamber, kept acting like the **useful idiot** — America First costume, RINO product, Hegseth impeachment as fratricide after the wave.
+
+**Author read — NSA-aligned counter-move:** The same nationalist∩NSA lane that runs Camp 1/2 grammar ([*The Sin Eater*](/governance/war/the-sin-eater.md); AU-046) saw Massie’s controlled-opposition role coming. The counter was to put a **real MAGA** candidate on him and **defeat him** — which is what happened with Gallrein. Had that replacement failed, Massie would have **preserved the seat as a Democrat opportunity** (chaos incumbent, soft loyalty, blue-wave math), and the sweep would have been **much worse**. Documented: Trump/PAC primary pressure + Gallrein win. Author: that pressure was not random spite; it was containment of a pinned agent before November.
 
 ---
 
@@ -222,10 +241,10 @@ Author mistakes get checked here. Article [*The Big Surprise*](/governance/const
 2. **Protest-without-nationalist-pole** dumps voters into Camp 4’s brand even when they hate Camp 4’s foreign-policy outcomes. (**Author**; Vance supplies crossover half)
 3. **Stevens→Rogers** is the structural reverse of Vance’s crossover, same protest mechanism. (**Author** join on **Documented** acts)
 4. **Camp 1** is sin-eater / Nationalist∩NSA midterm loser that still owns the Iran smash as necessary. (**Author** + corpus grammar)
-5. **Camp 2** (Greene / Massie / Paul / Kent / Carlson) is the lane voters should have used instead of Democrat protest ballots. (**Author** prescription)
+5. **Camp 2** (Greene / Paul / Kent / Carlson — **not Massie**) is the lane voters should have used instead of Democrat protest ballots. (**Author** prescription)
 6. **Camp 4** is choreographed Brave New World on institutions and culture; foreign policy varies. (**Author** with Documented fracture)
 7. **Narrative > fraud** as the *official* GOP loss explanation matches the author’s “they named narrative” observation; separate fraud-documentation strategy remains **Author**, not proven White House memo. (**Split**)
-8. **Greene / Massie 2028** presidential possibility rises after the purge + midterm validation of their warning. (**Author** prediction; open)
+8. **Greene 2028** presidential possibility rises after early resignation (message purity / family / uncompromised lane) + midterm validation of the warning. (**Author** prediction; open). **Massie** is **not** in that lane — controlled opposition; Hegseth impeachment = final tell; Gallrein replacement = NSA-aligned containment so the seat did not soften into a worse Democrat pickup ([§5.2](#52-thomas-massie--reclassified-controlled-opposition-author)–[§5.3](#53-greene-exited-early-massie-stayed-useful-the-seat-was-replaced-author)).
 9. **Undefined “big surprise” + $5k taunt + buried cost** form one sin-eater midterm package without requiring a spoken “we knew we’d lose.” (**Author**; B1–B6)
 10. **Vance I-told-you-so** is a Documented energy handoff to Camp 2 worldview; merchandise / permanent non-opposition is Author packaging. (**Split** B7–B8)
 11. **Silence on fraud in the public loss story** is deliberate (avoid faith/treason backfire); local vote still required; optional Flock-trap / switcharoo join stays **Author speculative** ([§13](#13-common-objection--rigged-so-dont-vote)).
@@ -277,9 +296,9 @@ Author mistakes get checked here. Article [*The Big Surprise*](/governance/const
 
 **Author answer (brief):** Local / legislative vote still matters more than the presidential faith fight. Sit-out still dies ([*Voting for insecticide*](/governance/constitution/voting-for-insecticide.md)). Public fraud headlines would backfire into faith wars and jail over treason accusations — so the handoff language stays on Iran cost and Camp 2 energy. **Author speculative:** one reading of the undefined Big Surprise is a switcharoo — trap a massive fraud bout where Flock-class cameras / logs can hold it, never say so in public, name the Iran war, hand MAGA to true America First candidates, smash Iran — mission accomplished; next cycle Democrats must explain a post-Trump field and may split as the right already did; parties must split or die. Full write-up: [constitution Q1](/governance/constitution/qa/q01-why-vote-in-rigged-elections.md).
 
-Keywords: #Midterms2026 #FourCamps #BigSurprise #ProtestVote #JDVance #DonaldTrump #MarjorieTaylorGreene #ThomasMassie #HaleyStevens #AbdulElSayed #Filibuster #TrumpDividend #AmericaFirst #IranWar #Israel #SinEater #BraveNewWorld #Nationalist #Globalist #Constitution #ElectionIntegrity #ParadigmThreatFiles
+Keywords: #Midterms2026 #FourCamps #BigSurprise #ProtestVote #JDVance #DonaldTrump #MarjorieTaylorGreene #ThomasMassie #ControlledOpposition #RINO #PeteHegseth #HaleyStevens #AbdulElSayed #Filibuster #TrumpDividend #AmericaFirst #IranWar #Israel #SinEater #BraveNewWorld #Nationalist #Globalist #Constitution #ElectionIntegrity #ParadigmThreatFiles
 
-*Last updated: 2026-11-06*
+*Last updated: 2026-11-10 (Greene early-exit / Massie CO / Gallrein containment §5.3)*
 
 ---
 
