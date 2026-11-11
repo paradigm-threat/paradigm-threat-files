@@ -238,6 +238,8 @@ The longer foreign-policy lane sits behind that stack. Obama gave Iran a histori
 
 **Gallrein successor math (Author deduction).** Trump-backed **Ed Gallrein** primary-beat Massie and held KY-04 ([AP](https://apnews.com/article/massie-gallrein-trump-kentucky-republican-primary-03a658b1a45593ad04ebf6283a3fdb47)). Massie did **not** lose the seat to a Democrat. Preferred read: the hardline dance set up a **less-vulnerable** MAGA successor who does not need Massie’s compromised optics. **Marjorie Taylor Greene** resigned effective **5 Jan 2026** — see [*The Big Surprise*](https://paradigmthreat2.substack.com/p/the-big-surprise). Thin CO rival still available; not the lead. Author join: spotty surface wins still leave America dancing out of Europe-style collapse fire — the critical virtues were tracked.
 
+**Hegseth refer — Author conclusion on the absences (10 Nov 2026).** Massie’s articles forced the fight. The House **referred** them to Judiciary **211–204** — kill by procedure. Massie was the only Republican nay; **11 Democrats** and **7 Republicans** did not vote. Dem absences were larger than the margin. Several blamed traffic / a motorcade / a police-escorted bus and filed Record statements that do not change the tally ([Clerk](https://clerk.house.gov/Votes/2026317)). **Conclusion:** those absences killed a **unity protest vote** — both parties against establishment war entitlements and Israel / foreign-influence ties — that could not be packaged as red-vs-blue campaign fuel or conquered as a government story. **NSA∩Camp 1** stacks the bury; **CIA∩Camp 4** takes accountability credit without standing present. Full registry: four-camps §5.4 (Where next).
+
 Iran can still be the public loss story. Observation, the foreign-influence nail, and this **conjecture** candidate-war read can still be the deeper surprise. Those readings stack on top of the older intake plan — not instead of it.
 
 ## The whole stack
@@ -253,7 +255,7 @@ Voting still matters under that pattern — local, state, and federal (Q1 in Whe
 - [2026 midterm county anomalies — late changes](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-county-anomalies-late-changes-investigation.md) — living D/F/R/K specimen harvest; Texas §4.4–4.6; registration=fraud rule
 - [*TONA, Not War — Liberty’s Rebrand*](https://paradigmthreat.net/governance/constitution/tona-not-war-liberty-rebrand.md) — Civil War parchment; birthright XIV; Alexandria / Suez lighthouse → Liberty; Lazarus plaque 1903
 - [*The Big Surprise*](https://paradigmthreat.net/governance/constitution/the-big-surprise.md) — public midterm surprise; Iran cost; Vance I-told-you-so; silence on fraud as bury-it
-- [2026 midterms — four camps / Big Surprise](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — claims registry; Massie divorce-dance conjecture §5.2; both leave / Gallrein §5.3
+- [2026 midterms — four camps / Big Surprise](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — claims registry; Massie divorce-dance §5.2; both leave / Gallrein §5.3; Hegseth absences / unity-protest conclusion §5.4
 - [Q1 — Why vote if elections are rigged?](https://paradigmthreat.net/governance/constitution/qa/q01-why-vote-in-rigged-elections.md)
 - [*The Kevin Malone Conspiracy*](https://paradigmthreat.net/governance/war/the-kevin-malone-conspiracy.md) — Jade Helm hinge on Cruz / Texas
 - [Jade Helm hypothesis stack](https://paradigmthreat.net/governance/war/investigations/us-citizens-vs-federal-armed-confrontations-investigation.md#jade-helm-hypothesis-stack)
@@ -273,7 +275,7 @@ Strongest where foam-vs-beam, GenXGigi T4 as living poison-packet specimen, and 
 
 Keywords: #JadeHelm #TedCruz #KevinMalone #Trump #MAGA #Texas #Minnesota #Arizona #California #ElectionFraud #VoterRegistration #ImmigrantBloc #Attrition #SanctuaryCities #TaintedMeme #GenXGigi #StatueOfLiberty #EmmaLazarus #Alexandria #Napoleon #CivilWar #TONA #Midterms2026 #Iran #Tehran #JCPOA #Obama #SeminoleCounty #Lubbock #Dorchester #Wallingford #TEAM #MailInBallots #BigSurprise #JDVance #MarjorieTaylorGreene #ThomasMassie #DualSinEater #DivorceDance #GobbleThenSplit #ControlledOpposition #EdGallrein #PeteHegseth #NSA #CIA #NationalDivorce #Hollywood #SpaceX #Europe #ForeignInfluence #Israel #Nationalist #Globalist #ParadigmThreat
 
-**Last updated:** 2026-11-10T09:35:00-05:00
+**Last updated:** 2026-11-11T01:32:00-05:00
 
 ---
 
