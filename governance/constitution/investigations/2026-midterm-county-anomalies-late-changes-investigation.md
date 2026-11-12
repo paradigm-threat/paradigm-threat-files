@@ -331,6 +331,7 @@ These are **not** substitutes for §4 rows. They are the wider board:
 | **T10** | **Certification / hold-swearing-in** — Chris X ask; Harris certify leap; Trump/Fleischer seating talk; Vance–Dunleavy–DOJ Alaska; Rogers *v. Benge*; Johnson / Gottheimer–Bacon counterweights | Meme = accomplished hold | Live Jan. 3 / certificate path; three lanes in essay Layer A | Essay family 2026-11-09 — do not re-list each amplifier as new T# |
 | **T11** | **Muslim headcount** — “255 Muslim elected officials” / CAIR 2026 directory mosaics / “recipe for disaster” | Body-count = sin; “Muslims aren’t inherently bad” chatbot kill | **Influence / values / who they serve** (American law vs Islamic/Sharia priorities); handler networks; civic-platform Muslims ≠ invasion chassis | Dual packet 2026-11-09; essay *Islam — influence, not a headcount litmus* |
 | **T12** | **Bessent / IRS Minnesota funds** — Whiplash437-class “massive audits / TORCHED” | ALL-CAPS cable foam | Treasury: IRS auditing FIs that facilitated laundering of MN funds; FinCEN MSB NOI; Hennepin/Ramsey GTO; later FinCEN MSB/charity alerts ([sb0354](https://home.treasury.gov/news/press-releases/sb0354); [sb0670](https://home.treasury.gov/news/press-releases/sb0670/)) | Genuine 2026-11-09 — admin invisible-fight specimen; essay Layer A |
+| **T13** | **Michigan registration > CVAP** — `_Patriot1776Q_` / @political_rock map (“107.9% statewide… 74 of 83 counties”); Facebook remixes (“nearly a MILLION ghost registrations”; “biggest election scandal”) | “Ghosts” / “million” / “biggest scandal” leap; recycling **November 2024** totals as midterm BREAKING; treating **total** registered (active+inactive) as current eligible capacity | EAVS 2024 MI: **8,440,236** registered / **7,267,666** active / **1,172,570** inactive ([PollCheck](https://www.pollcheck.com/registration/michigan/)); active ≈ **95%** of Census citizen 18+; total registered > CVAP is the known dirty-roll ratio; ~**13** counties where even *active* exceeds CVAP estimate; inactive retained for years under MI / NVRA list rules ([USA TODAY](https://www.usatoday.com/story/news/factcheck/2024/06/26/105-percent-michigan-residents-registered-vote/74192009007/)); RNC sued Benson on over-100% county rates ([Oakland Press](https://www.theoaklandpress.com/2024/03/20/rnc-sues-benson-over-states-voter-roles/)) | Dual packet 2026-11-12 — same registration-beam family as **T4**; kill packaging; keep roll hygiene + soft investigability |
 
 Same mouth, different claim: SaltyGoat land-count = **T7** poison; SaltyGoat “overplayed their hand” = genuine boast (no new T#). Add **T#** only for a **new claim family**.
 
@@ -400,6 +401,7 @@ None of these rows alone = “national theft.” Together they are enough that *
 | **2026-11-09** (pass 8) | **§7 consolidation:** claim-family rule; **T4** absorbs Hernando remixes; new **T6–T10** (left-shift, land/independence math, Seminole/forged Trump, EO, certification cluster). Pointer to essay Layer A — no per-amplifier T# duplicates. |
 | **2026-11-09** (pass 9) | **T11** Muslim headcount dual packet; author Islam-influence sentiment locked (hate-of-threat natural; values/Sharia/handlers not body-count; religion-of-peace litmus as deception). Essay section + §4.6 row. |
 | **2026-11-09** (pass 10) | **T12** Bessent/IRS/FinCEN Minnesota-funds audits validated via Treasury press; essay Layer A “invisible fight” specimen. |
+| **2026-11-12** (pass 11) | **T13** Michigan registration-vs-CVAP map (`_Patriot1776Q_` / Facebook remix). Dual: kill “million ghosts / biggest scandal”; keep total-reg > CVAP + ~1.17M inactive + RNC/Benson roll fight. Essay short pointer + meme asset. |
 
 ---
 
@@ -416,7 +418,7 @@ None of these rows alone = “national theft.” Together they are enough that *
 - [*The Kevin Malone Conspiracy*](/governance/war/the-kevin-malone-conspiracy.md)
 - [*Echos of Jade HELM*](/governance/war/echos-of-jade-helm.md) — reader essay: Helm → MN-type bloc machine; Big Surprise observe/foreign-influence layers
 
-Keywords: #ElectionIntegrity #2026Midterms #VoterFraud #Texas #JadeHelm #MemoryCard #USB #Lubbock #SeminoleCounty #DorchesterCounty #Raffensperger #Anomalies #TaintedMemes #HumanError #USPS #RevelationTimeline #EAVS #OutcomeChange #SubtleTechniques #ParadigmThreat
+Keywords: #ElectionIntegrity #2026Midterms #VoterFraud #Texas #Michigan #JadeHelm #MemoryCard #USB #Lubbock #SeminoleCounty #DorchesterCounty #Raffensperger #Anomalies #TaintedMemes #HumanError #USPS #RevelationTimeline #EAVS #CVAP #OutcomeChange #SubtleTechniques #ParadigmThreat
 
-**Last updated:** 2026-11-09T04:35:00-05:00
-**Next daily harvest:** 2026-11-10
+**Last updated:** 2026-11-12T07:27:00-05:00
+**Next daily harvest:** 2026-11-13
