@@ -15,8 +15,12 @@
  * let you delete it from the UI — avoid selecting it; this script will refuse to
  * re-create anything with spaces or a `Keywords:` prefix.
  *
+ * 2026-11-12 fixes:
+ * - Do NOT send Escape (closes Substack publish/preview).
+ * - Do NOT force-clear immediately after Enter (that raced React and wiped chips).
+ * - Prefer clicking listbox Create / exact option; wait until chip sticks, then clear.
+ *
  * Tags for: governance/war/echos-of-jade-helm.md
- * (Keywords line mirrored from the article; paste via startTagPaste().)
  */
 
 (() => {
@@ -89,23 +93,16 @@
   ];
 
   const PLACEHOLDER = "Select or create tags";
-  const BLANK_MS = 120;
-  const AFTER_ENTER_MS = 350;
-  const MAX_WAIT_BLANK_MS = 15000;
-  /** Substack mega-chips are whole Keywords lines; refuse anything that looks like one. */
+  const AFTER_TYPE_MS = 250;
+  const AFTER_COMMIT_MS = 200;
+  const CHIP_WAIT_MS = 4000;
+  const AFTER_CLEAR_MS = 120;
   const MAX_TAG_LEN = 48;
 
   let queue = [];
   let running = false;
   let timer = null;
 
-  /**
-   * Expand any mix of:
-   * - single tags
-   * - "Keywords: #Foo #Bar"
-   * - "#Foo #Bar #Baz"
-   * into individual hash-free tokens. Never returns a mega-line.
-   */
   function expandToIndividualTags(input) {
     const rawList = Array.isArray(input) ? input : [input];
     const out = [];
@@ -114,7 +111,6 @@
     for (const raw of rawList) {
       let s = String(raw ?? "");
       s = s.replace(/^\s*Keywords\s*:\s*/i, "");
-      // Split on #, whitespace, commas, semicolons — never keep a multi-hash blob.
       const parts = s.split(/[#\s,;]+/).map((p) => p.trim()).filter(Boolean);
 
       for (let part of parts) {
@@ -137,11 +133,10 @@
   function isSafeIndividualTag(tag) {
     const t = String(tag ?? "").trim();
     if (!t) return false;
-    if (/\s/.test(t)) return false; // mega-chip / Keywords blob
+    if (/\s/.test(t)) return false;
     if (/^keywords$/i.test(t)) return false;
     if (t.includes("#")) return false;
     if (t.length > MAX_TAG_LEN) return false;
-    // Prefer Option B style: letters/digits (PascalCase, short acronyms, e.g. 501c3).
     if (!/^(?=.*[A-Za-z])[A-Za-z0-9]+$/.test(t)) return false;
     return true;
   }
@@ -154,10 +149,17 @@
     return document.querySelector('input[role="combobox"][aria-autocomplete="list"]');
   }
 
-  function setInputValue(input, value) {
-    if (!isSafeIndividualTag(value)) {
-      throw new Error(`[substack-tags] refused to type mega/unsafe tag: ${JSON.stringify(value)}`);
+  function findTagSection(input) {
+    let el = input;
+    for (let i = 0; i < 8 && el; i++) {
+      const text = el.innerText || "";
+      if (/Add tags/i.test(text)) return el;
+      el = el.parentElement;
     }
+    return input.parentElement || document.body;
+  }
+
+  function nativeSetValue(input, value) {
     const proto = window.HTMLInputElement.prototype;
     const desc = Object.getOwnPropertyDescriptor(proto, "value");
     if (desc && desc.set) desc.set.call(input, value);
@@ -168,17 +170,42 @@
       new InputEvent("input", {
         bubbles: true,
         cancelable: true,
-        data: value,
-        inputType: "insertText",
+        data: value || null,
+        inputType: value ? "insertText" : "deleteContentBackward",
       })
     );
     input.dispatchEvent(new Event("change", { bubbles: true }));
   }
 
-  function pressEnter(input) {
-    const opts = { key: "Enter", code: "Enter", keyCode: 13, which: 13, bubbles: true, cancelable: true };
+  function setInputValue(input, value) {
+    if (!isSafeIndividualTag(value)) {
+      throw new Error(`[substack-tags] refused to type mega/unsafe tag: ${JSON.stringify(value)}`);
+    }
+    nativeSetValue(input, value);
+  }
+
+  function clearInput(input) {
+    nativeSetValue(input, "");
+  }
+
+  function pressKey(input, key, keyCode) {
+    const opts = {
+      key,
+      code:
+        key === "Enter"
+          ? "Enter"
+          : key === "ArrowDown"
+            ? "ArrowDown"
+            : key,
+      keyCode,
+      which: keyCode,
+      bubbles: true,
+      cancelable: true,
+    };
     input.dispatchEvent(new KeyboardEvent("keydown", opts));
-    input.dispatchEvent(new KeyboardEvent("keypress", opts));
+    if (key === "Enter" || key.length === 1) {
+      input.dispatchEvent(new KeyboardEvent("keypress", opts));
+    }
     input.dispatchEvent(new KeyboardEvent("keyup", opts));
   }
 
@@ -190,15 +217,135 @@
     return !String(input.value || "").trim();
   }
 
-  async function waitUntilBlank(input) {
-    const start = Date.now();
-    while (!isBlank(input)) {
-      if (Date.now() - start > MAX_WAIT_BLANK_MS) {
-        throw new Error("Timed out waiting for Add tags field to clear");
-      }
-      await sleep(BLANK_MS);
+  function normalizeChipText(raw) {
+    return String(raw || "")
+      .replace(/\u00d7/g, "") // ×
+      .replace(/\s*Remove.*$/i, "")
+      .replace(/\s+/g, "")
+      .trim();
+  }
+
+  /** Selected chips only — scoped to Add tags section, not the whole page. */
+  function selectedChips(input) {
+    const section = findTagSection(input);
+    const found = [];
+    const seen = new Set();
+
+    section.querySelectorAll("button, span, div, a").forEach((el) => {
+      if (el === input || el.contains(input) || input.contains(el)) return;
+      // Prefer compact chip-like nodes (short exact token).
+      const t = normalizeChipText(el.textContent);
+      if (!isSafeIndividualTag(t)) return;
+      // Ignore long containers that merely include a tag name among other copy.
+      if ((el.textContent || "").trim().length > t.length + 4) return;
+      const key = t.toLowerCase();
+      if (seen.has(key)) return;
+      seen.add(key);
+      found.push(t);
+    });
+    return found;
+  }
+
+  function alreadyHasChip(input, tag) {
+    const want = tag.toLowerCase();
+    return selectedChips(input).some((t) => t.toLowerCase() === want);
+  }
+
+  async function typeIntoCombobox(input, text) {
+    input.focus();
+    input.click();
+    clearInput(input);
+    await sleep(40);
+
+    // insertText is what many React controlled inputs listen for.
+    let inserted = false;
+    try {
+      inserted = document.execCommand("insertText", false, text);
+    } catch (_) {
+      inserted = false;
     }
-    await sleep(BLANK_MS);
+    if (!inserted || String(input.value || "").trim() !== text) {
+      setInputValue(input, text);
+    }
+    await sleep(AFTER_TYPE_MS);
+  }
+
+  function listboxOptions() {
+    return Array.from(document.querySelectorAll('[role="option"]'));
+  }
+
+  function clickCommitOption(tag) {
+    const options = listboxOptions();
+    if (!options.length) return null;
+
+    const want = tag.toLowerCase();
+
+    // Exact existing-tag row (not "Create …").
+    const exact = options.find((o) => {
+      const t = normalizeChipText(o.textContent);
+      return t.toLowerCase() === want && !/create/i.test(o.textContent || "");
+    });
+    if (exact) {
+      exact.dispatchEvent(new MouseEvent("mousedown", { bubbles: true }));
+      exact.click();
+      return "exact";
+    }
+
+    // Create “TagName” / Create TagName
+    const create = options.find((o) => {
+      const raw = o.textContent || "";
+      return /create/i.test(raw) && raw.toLowerCase().includes(want);
+    });
+    if (create) {
+      create.dispatchEvent(new MouseEvent("mousedown", { bubbles: true }));
+      create.click();
+      return "create";
+    }
+
+    return null;
+  }
+
+  async function commitTag(input, tag) {
+    const clicked = clickCommitOption(tag);
+    if (clicked) return clicked;
+
+    // No option yet — give the listbox a moment, try again.
+    await sleep(200);
+    const clicked2 = clickCommitOption(tag);
+    if (clicked2) return clicked2;
+
+    // Arrow to first/create option, then Enter.
+    pressKey(input, "ArrowDown", 40);
+    await sleep(80);
+    pressKey(input, "Enter", 13);
+    await sleep(AFTER_COMMIT_MS);
+
+    if (alreadyHasChip(input, tag)) return "arrow-enter";
+
+    // Plain Enter on the input (Substack docs: enter keyword + Enter).
+    pressKey(input, "Enter", 13);
+    return "enter";
+  }
+
+  async function waitForChip(input, tag) {
+    const start = Date.now();
+    while (Date.now() - start < CHIP_WAIT_MS) {
+      if (alreadyHasChip(input, tag)) return true;
+      // Sometimes the field clears on success before our chip scan catches up.
+      if (isBlank(input)) {
+        await sleep(120);
+        if (alreadyHasChip(input, tag)) return true;
+      }
+      await sleep(100);
+    }
+    return alreadyHasChip(input, tag);
+  }
+
+  async function clearAfterSuccess(input) {
+    if (!isBlank(input)) {
+      clearInput(input);
+      await sleep(AFTER_CLEAR_MS);
+    }
   }
 
   async function pasteOne(tag) {
@@ -213,15 +360,38 @@
     const input = findTagInput();
     if (!input) throw new Error(`No tag input found (placeholder="${PLACEHOLDER}")`);
 
-    input.focus();
-    await waitUntilBlank(input);
+    if (alreadyHasChip(input, one)) {
+      console.log(`[substack-tags] skip (already present): ${one} (${queue.length} left)`);
+      await clearAfterSuccess(input);
+      return;
+    }
 
-    setInputValue(input, one);
-    await sleep(80);
-    pressEnter(input);
-    await sleep(AFTER_ENTER_MS);
+    await typeIntoCombobox(input, one);
+    const how = await commitTag(input, one);
+    await sleep(AFTER_COMMIT_MS);
 
-    console.log(`[substack-tags] added: ${one} (${queue.length} left)`);
+    const ok = await waitForChip(input, one);
+    if (ok) {
+      await clearAfterSuccess(input);
+      console.log(`[substack-tags] added (${how}): ${one} (${queue.length} left)`);
+      return;
+    }
+
+    // One retry: re-type and click Create if the listbox appeared late.
+    console.warn(`[substack-tags] first pass missed ${one}; retrying…`);
+    await typeIntoCombobox(input, one);
+    await commitTag(input, one);
+    const ok2 = await waitForChip(input, one);
+    if (ok2) {
+      await clearAfterSuccess(input);
+      console.log(`[substack-tags] added (retry): ${one} (${queue.length} left)`);
+      return;
+    }
+
+    console.warn(
+      `[substack-tags] FAILED to stick: ${one} — leaving field alone (${queue.length} left). Selected now:`,
+      selectedChips(input)
+    );
   }
 
   async function runQueue() {
@@ -235,7 +405,7 @@
         const tag = queue.shift();
         await pasteOne(tag);
       }
-      if (running) console.log("[substack-tags] done");
+      if (running) console.log("[substack-tags] done", selectedChips(findTagInput() || document.body));
     } catch (err) {
       console.error("[substack-tags]", err);
     } finally {
@@ -243,14 +413,12 @@
     }
   }
 
-  /** Queue individual tags only. Accepts TAGS array or a raw Keywords: #A #B line. */
   window.startTagPaste = function startTagPaste(tags = TAGS) {
     queue = expandToIndividualTags(tags);
-    console.log(`[substack-tags] queue ${queue.length} individual tags (no #, no mega-lines):`, queue.slice());
+    console.log(`[substack-tags] queue ${queue.length} individual tags:`, queue.slice());
     return runQueue();
   };
 
-  /** Paste only the next individual tag once the field is blank. */
   window.pasteNextTag = async function pasteNextTag() {
     if (!queue.length) {
       queue = expandToIndividualTags(TAGS);
@@ -261,19 +429,12 @@
     return tag;
   };
 
-  /**
-   * Split a pasted Keywords mega-line into individuals (preview only).
-   * Example:
-   *   expandKeywordsLine('Keywords: #ControlledOpposition #PoisonPill #Mudflood')
-   * → ['ControlledOpposition','PoisonPill','Mudflood']
-   */
   window.expandKeywordsLine = function expandKeywordsLine(line) {
     const tags = expandToIndividualTags([line]);
     console.log("[substack-tags] expanded to", tags.length, "tags:", tags);
     return tags;
   };
 
-  /** Queue from a Keywords line / clipboard blob, then paste one-by-one. */
   window.startTagPasteFromKeywordsLine = function startTagPasteFromKeywordsLine(line) {
     return startTagPaste(expandToIndividualTags([line]));
   };
@@ -288,7 +449,12 @@
     return queue.slice();
   };
 
+  window.peekSelectedTags = function peekSelectedTags() {
+    const input = findTagInput();
+    return input ? selectedChips(input) : [];
+  };
+
   console.log(
-    "[substack-tags] ready. startTagPaste() uses individual tags only; never paste a Keywords: #A #B mega-line as one chip."
+    "[substack-tags] ready (click Create / wait-for-chip; no Escape; clear only after stick). startTagPaste(); peekSelectedTags(); stopTagPaste()."
   );
 })();
