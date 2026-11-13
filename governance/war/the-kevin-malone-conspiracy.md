@@ -126,7 +126,9 @@ In [*Dwight K. Schrute, (Acting) Manager*](https://www.officequotes.net/no7-23.h
 
 ### Season nine — the secret you didn’t know
 
-[*Stairmageddon*](https://en.wikipedia.org/wiki/Stairmageddon): Kevin says he has a secret so good that “you didn’t freaking know — but I knew.” He kept knowledge other people did not have. Oscar and Senator Lipton are in the story. The final season is already bending toward a show that never ends. The secret line hits harder once you have seen the rest of this record.
+[*Vandalism*](https://en.wikipedia.org/wiki/Vandalism_(The_Office)) airs **31 January 2013** — weeks after Cruz’s Senate oath. Senator Lipton hugs Oscar at a political party and runs the Hispanic-outreach script out loud: friend of the Latino community, bid bigotry *hasta luego*, does hugging Hispanics make him more electable given demographic trends, then *Mi amigo*. Oscar’s aside: he was the token Mexican; the senator’s other Hispanic option is a gardener who turns out Malaysian. Kevin eats the food and tells Lipton he is a terrible person for using Angela and Oscar as props. That is mockery of the Texas / national “win the Spanish vote” method. Cruz’s real chassis got Latino-adjacent brand without fluent Spanish and without ever revealing Kevin. Full stack: [investigation — *Vandalism*](https://paradigmthreat.net/governance/war/investigations/cruz-kevin-malone-deep-state-hypothesis-investigation.md#vandalism-s09e14--latino-demographic-theater--mock-hispanic-outreach).
+
+[*Stairmageddon*](https://en.wikipedia.org/wiki/Stairmageddon): Kevin says he has a secret so good that “you didn’t freaking know — but I knew.” He kept knowledge other people did not have. Oscar and Senator Lipton are in the story — Lipton’s public gay reveal is the same senator’s second authenticity scam. The final season is already bending toward a show that never ends. The secret line hits harder once you have seen the rest of this record.
 
 Add the floating lines that still rhyme: few word do trick; when me president they see (*The Incentive*); six numbers almost a complete phone number (*Niagara*); I can’t keep doing this forever (*Stress Relief* CPR); it’s not Ashton Kutcher, it’s Kevin Malone (*Training Day*). Almost winning a primary. Holding out. Taking the mask off. Six numbers short of a full phone number is almost winning in one joke.
 
@@ -228,11 +230,11 @@ What follows is an LLM impression of this piece and its arguments. It is unrevie
 
 Strongest where the binge hook meets the Kevin density, and where the finale is architecture rather than nostalgia. A hostile reader will still quarrel with the leap from UK short design to a one-to-three-season chassis, and from *Parks* liberalism to CIA continuation. The war-safety close needs the early danger section to land first. A later pass could lock two or three more Spader mid-season hard statements so “throughout his run” is as concrete as the Oprah exit.
 
-Keywords: #KevinMalone #TedCruz #TheOffice #JadeHelm #Bodysuit #HollywoodDam #ParksAndRec #NSA #CIA #Epstein #RitualPunishment #SupremeCourt #MarjorieTaylorGreene #SinEater #ArsiaMons #Mars #ParadigmThreat
+Keywords: #KevinMalone #TedCruz #TheOffice #JadeHelm #Bodysuit #HollywoodDam #ParksAndRec #NSA #CIA #Epstein #RitualPunishment #SupremeCourt #MarjorieTaylorGreene #SinEater #HispanicVote #Latino #Vandalism #SenatorLipton #ArsiaMons #Mars #ParadigmThreat
 
 **Substack:** [paradigmthreat2.substack.com/p/the-kevin-malone-conspiracy](https://paradigmthreat2.substack.com/p/the-kevin-malone-conspiracy)
 
-**Last updated:** 2026-10-28
+**Last updated:** 2026-11-13
 
 ---
 
