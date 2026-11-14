@@ -1,8 +1,8 @@
 # Investigation: NSA 2001–2005 Declassification Offensive — *Pentagon Papers* (2003), Tonkin, Mars RV, and the Pre-Obama Bunker
 
-> **TL;DR:** Treat **2001–2005** (bleeding into **2006**) as a **concentrated NSA antibody declassification offensive** kicked off by the **9/11** false-flag window and peaking culturally with FX’s ***The Pentagon Papers* (2003)** — public Ellsberg / Vietnam-truth grammar while **Hanyok** was still fighting to put **Tonkin SIGINT** on the open record (**released Nov–Dec 2005**; second installment **May 2006**). Parallel surface: **CIA Reading Room** **STARGATE** batch including [**MARS EXPLORATION, 22 May 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`Approved For Release 2000/08/08`). **Comics aisle evidence:** Marvel ***Secret War*** (**Apr 2004 → Dec 2005**, with delays) = **NSA-aligned** sin-eater / Fury smash deposit in the same window; **2015 *Secret Wars*** = later **CIA** brand containment (§6.1). **Author frame:** 1990s **NSA-aligned** cinema seeded **9/11** calm; by **~2006** antibody lane **bunkers** ahead of **Obama / CIA-reign**. Watch the **2003** film → dig [**McNaughton midair / AU-059**](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md); read **Ellsberg** as historic **antibody** (insider pushed too far who turned on his masters — not a purity saint). **AU-058.**
+> **TL;DR:** Treat **2001–2005** (bleeding into **2006**) as a **concentrated NSA antibody declassification offensive** kicked off by the **9/11** false-flag window and peaking culturally with FX’s ***The Pentagon Papers* (2003)** — public Ellsberg / Vietnam-truth grammar while **Hanyok** was still fighting to put **Tonkin SIGINT** on the open record (**released Nov–Dec 2005**; second installment **May 2006**). Parallel surface: **CIA Reading Room** **STARGATE** batch including [**MARS EXPLORATION, 22 May 1984**](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001900760001-9.pdf) (`Approved For Release 2000/08/08`). **Comics aisle evidence:** Marvel ***Secret War*** (**Apr 2004 → Dec 2005**, with delays) = **NSA-aligned** sin-eater / Fury smash deposit in the same window; **2015 *Secret Wars*** = later **CIA** brand containment (§6.1). **Author frame:** 1990s **NSA-aligned** cinema seeded **9/11** calm; by **~2006** antibody lane **bunkers** ahead of **Obama / CIA-reign**. ***Children of Men*** was built inside the window and released at the close: the novel is the cover, and the whole plot had no literary parent ([§7.1](#71-children-of-men--the-picture-that-stays-hidden-until-the-film-is-finished)). Watch the **2003** film → dig [**McNaughton midair / AU-059**](/governance/war/investigations/john-t-mcnaughton-mysterious-death-ellsberg-investigation.md); read **Ellsberg** as historic **antibody** (insider pushed too far who turned on his masters — not a purity saint). **AU-058.**
 
-**Date:** 2026-09-17 (updated **2026-10-31** — *Secret War* comics evidence)  
+**Date:** 2026-09-17 (updated **2026-11-14** — *Children of Men* book-cover find, §7.1)  
 **Status:** Open — catalog + author thesis; declass inventory incomplete by design (expand via FOIA / NSA.gov historical releases)
 
 **Timeline:** [2000–2005: Tonkin declass fight vs Mars RV release](/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight) · [CIA vs NSA / *Tron*](/timeline/evt-cia-vs-nsa-sigint-antibody-tron) · [Historical antibodies](/timeline/evt-historical-antibodies)
@@ -20,7 +20,7 @@
 5. **Mars RV as Reading Room exemplar** → §5  
 6. **1990s NSA-aligned PP → 9/11 calm** → §6  
 6a. **Comics — *Secret War* 2004–05 / *Secret Wars* 2015 contain** → §6.1  
-7. **2006 bunker / Obama-CIA return** → §7  
+7. **2006 bunker / Obama-CIA return** → §7 · ***Children of Men* cover** → [§7.1](#71-children-of-men--the-picture-that-stays-hidden-until-the-film-is-finished)  
 8. **Author open claims → questions → TODOs** → §8–§10  
 9. **Limits / Investigator notes** (end)
 
@@ -86,6 +86,7 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 | **2005-11-30** | NSA **Gulf of Tonkin** first public installment (Hanyok + SIGINT pack) | [NSA.gov](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Gulf-of-Tonkin/) | **Documented** |
 | **2005-12** | National Security Archive briefing on release; ***Secret War* #5** same month | Press + comics | **Documented** |
 | **2006-05-30** | NSA Tonkin **second / final** installment | NSA.gov | **Documented** |
+| **2001 → 2006-09-22 / 2006-12-25** | ***Children of Men*** — Cuarón attached **2001**; UK release **22 Sept 2006**, US **25 Dec 2006**. James’s novel is the infertility shell only | Film | Dates **Documented**. **Author:** the whole plot had no literary parent; the novel was the cover until the film was nearly finished — [§3.7](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md#37-major-find--no-book-had-the-whole-plot) |
 | **2006→** | Author: antibody lane **bunkers**; CIA board recovers into Obama era | Pattern | **Author** |
 | **2015** | Marvel ***Secret Wars*** (Hickman) — Battleworld cosmic event | Comics / PP | **Documented** product; **CIA-camp containment** of 2004–05 Fury sense **Author** — [§1.12 B3](/cosmos/mars/investigations/earth-mars-counterstrike-investigation.md#112-lexicon--what-secret-war-usually-means-and-why-au-085-is-the-clean-match) |
 
@@ -183,6 +184,12 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 
 **Documented adjacent:** Tonkin Release 2 = **2006-05-30**. Obama inauguration = **2009-01-20**. The **gap years** are where this dossier expects **containment**, **ridicule**, and **curriculum non-adoption** to do the work bombs and FOIA cannot.
 
+### 7.1 *Children of Men* — the picture that stays hidden until the film is finished
+
+**Documented:** Alfonso Cuarón was brought onto *Children of Men* in **2001**, inside this offensive, and the film reached audiences in **2006** (UK **22 Sept**, US **25 Dec**). The credits name P. D. James’s 1992 novel. He said he took only the infertility premise. The immigration story is not in the book.
+
+**Major find (Author, 2026-11-14):** No pre-2006 book found joins that sterility to the overflow and the holy-war wallpaper. The combined idea did not come from fiction. It came from the need to depict the matured threat that 9/11, on this dossier’s reading, had warned about without showing the end-state. Iran and Israel are not named. Through **2001–2005**, opening the novel does not show what the NSA-aligned picture was doing. The picture becomes legible when the movie is nearly finished. Full receipt grid: [*Children of Men* §3.7](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md#37-major-find--no-book-had-the-whole-plot).
+
 **Cross-read:** [CIA investigation — Iran / DU / proxy](/governance/war/investigations/cia-investigation.md) · [1979 religious revival](/influence/religion/1979-religious-revival-investigation.md) · [presidency decoupling](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md).
 
 ---
@@ -195,7 +202,8 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 4. **Mars RV PDF** is the cleanest exhibit that **Mars-life discourse** has **agency provenance**.  
 5. **90s NSA-aligned films** were **pre-seeding** calm / recognition for 9/11.  
 6. From **~2006**, NSA **bunkers**; **Obama-era CIA** recovers the long board (Ayatollah / DU / proxy terror).  
-7. **Textbook non-adoption** of Tonkin-as-lie proves the fight is **ongoing**, not won in 2005.
+7. **Textbook non-adoption** of Tonkin-as-lie proves the fight is **ongoing**, not won in 2005.  
+8. ***Children of Men*** (attached **2001**, released **2006**) is the end-state picture of that warning. No book had the whole plot. James’s novel is the cover until the film is nearly finished ([§7.1](#71-children-of-men--the-picture-that-stays-hidden-until-the-film-is-finished)).
 
 ---
 
@@ -238,12 +246,13 @@ From the English SubRip matching the **DVDRip.x264-HANDJOB** release (see Invest
 | [*The Sin Eater*](/governance/war/the-sin-eater.md) | Sin-eater grammar; Fury comics-aisle twin |
 | [author-unique-theories.md](/history/chronology/investigations/author-unique-theories.md) | **AU-058** / **AU-085** |
 | [watch-the-pentagon-papers-2003.md](/governance/war/watch-the-pentagon-papers-2003.md) | Reader essay — timeline crest + 2026 close |
+| [*Children of Men* §3.7](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md#37-major-find--no-book-had-the-whole-plot) | **2001–2006** film; novel is the cover; whole plot has no literary parent |
 
 ---
 
 Keywords: #NSA #CIA #Declassification #FOIA #GulfOfTonkin #Hanyok #PentagonPapers #Ellsberg #RemoteViewing #Mars #ReadingRoom #NineEleven #WTC7 #PredictiveProgramming #Antibody #SecretWar #NickFury #SinEater #AU058 #AU085 #ParadigmThreatFiles
 
-*Last updated: 2026-10-31*
+*Last updated: 2026-11-14 (§7.1 Children of Men — novel as cover until the film is nearly finished)*
 
 ---
 

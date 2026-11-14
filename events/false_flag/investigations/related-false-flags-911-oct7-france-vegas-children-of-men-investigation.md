@@ -60,7 +60,7 @@
 
 ## 3. *Children of Men* predictor — hotspots and early response
 
-Canonical dossier: [*Children of Men* — NSA future warning](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md).
+Canonical dossier: [*Children of Men* — NSA future warning](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md). **Major find (2026-11-14):** no earlier book has the whole plot. James’s novel is the infertility cover. The overflow outcome did not come from fiction, and it stays unreadable until the film is nearly finished in 2006 — [§3.7](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md#37-major-find--no-book-had-the-whole-plot).
 
 | Film grammar (documented) | Author overlay (this file) |
 |---------------------------|----------------------------|
@@ -285,7 +285,7 @@ Hamas-led attack from Gaza into Israel; mass casualties; hostages; subsequent Ga
 | [Gage / AE911Truth §12](./richard-gage-ae911truth-controlled-demolition-investigation.md#12-perp-walk--epstein-files-accountability-path--major-co-flag-author-2026-08) | Perp-walk CO flags; Oct 7 specimen lives there too |
 | [09-11 good-actor](./09-11-investigation.md) | Parent 9/11 antibody |
 | [Good-actor interagency](./good-actor-theory-interagency-antibody-investigation.md) | Oct 7 ISIS-flag open; proxy terror |
-| [*Children of Men*](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md) | End-state predictor |
+| [*Children of Men* §3.7](/influence/predictive_programming/investigations/children-of-men-nsa-warning-predictive-programming-investigation.md#37-major-find--no-book-had-the-whole-plot) | End-state predictor; **no book had the whole plot**; novel is the cover |
 | [Netanyahu faked death / controlled visibility](./netanyahu-faked-death-shiva-rumors-investigation.md) | Bibi hate-load / Iran carrier; protective continuity; sin-eater cross-read to this FF spine |
 | [The Death Rumor That Protected Him](/events/false_flag/the-death-rumor-that-protected-him.md) | Reader essay — FF sin-load + controlled visibility |
 | [Iran 2026 / leave-behind](/governance/war/mission-accomplished-again-iran-2026.md) | Antibody harvest at risk of rebrand |
@@ -295,7 +295,7 @@ Hamas-led attack from Gaza into Israel; mass casualties; hostages; subsequent Ga
 
 Keywords: #October7 #FalseFlag #RichardGage #CorbettReport #Netanyahu #Bibi #CharlieHebdo #Bataclan #NiceAttack #LasVegas #StephenPaddock #ISIS #Amaq #NotreDame #AlMuntasir #RachidKassim #ChildrenOfMen #PredictiveProgramming #NSA #Mossad #CIA #DeepState #PerpWalk #ControlledOpposition #Antibody #HolyWar #NineEleven #SinEater #ParadigmThreatFiles
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-11-14 (§3 pointer to the no-literary-parent find)*
 
 ---
 
