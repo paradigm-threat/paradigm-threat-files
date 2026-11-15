@@ -6,7 +6,7 @@
 
 **Agent hub:** [`AGENTS.md`](../AGENTS.md) § Site chat
 
-*Last updated: 2026-10-17*
+*Last updated: 2026-11-15*
 
 ---
 
@@ -27,13 +27,14 @@
 
 | Item | Value |
 |------|--------|
-| UI | https://paradigmthreat.net/chat (park `ChatApp`); in-article embeds via markdown only |
+| UI | https://paradigmthreat.net/chat (park `ChatApp` + Cleverchat board iframe); in-article embeds via markdown only |
 | Prefix | `pt` — lobby `#pt`, topics `#pt-<topic>`, ops `#logs-pt` |
-| Embeds | Opt-in markdown `<ChatRoom channel="…" />` → LiveChat on `#pt-<topic>` on park (`ChatRoomLive`) and on the Vercel archive (`old.paradigmthreat.net`, loads park hosts). No shell auto-chat. Legacy `#pt-page-*` / `#pt-doc-*` were path-derived shell channels (not imported); general backlog is `#pt-general` only. |
+| Cleverchat | https://api.clevertree.chat/chat/`<topic>` — durable comments SoT; IRC bridge nick `clevertree-si` mirrors `#pt-<topic>` ↔ submit |
+| Embeds | Opt-in markdown `<ChatRoom channel="…" />` → LiveChat on `#pt-<topic>` on park. Vercel `old.paradigmthreat.net` is **archive only** (embeds may load park hosts). Legacy `#pt-page-*` / `#pt-doc-*` were path-derived shell channels (not imported); general backlog is `#pt-general` only. |
 | History API | `GET https://paradigmthreat.net/chat/api/history?channel=pt-general&limit=50` |
-| Durable store | JSONL on **iad1**: `/opt/relay/chat/logs/<channel>/<YYYY-MM-DD>.jsonl` |
-| IRC | `flashbackrepository.org:6697` (TLS) — same Ergo mesh |
-| Import | ~5402 posts from legacy `chat/public` → `#pt-<topic>` (see fan-edits `ops/chat/scripts/import-pt-chat-public.mjs`) |
+| Durable store | JSONL on **iad1** (audit) + Cleverchat comments git SoT (debate UI / SI) |
+| IRC | `flashbackrepository.org:6697` (TLS) — same Ergo mesh; Cleverchat bridge joins `#pt-*` |
+| Import | ~5402 posts from legacy `chat/public` → `#pt-<topic>` (see fan-edits `ops/chat/scripts/import-pt-chat-public.mjs`); also refiled into clevertree-chat-comments |
 
 ### Topic mapping (legacy ChatRoom → mesh)
 
@@ -111,9 +112,10 @@ There is **no** MCP PUT to `chat/public` anymore.
 
 | Store | Survives reboot? |
 |-------|------------------|
-| JSONL `/opt/relay/chat/logs` | Yes (web history) |
+| JSONL `/opt/relay/chat/logs` | Yes (web history / audit) |
 | Ergo SQLite `ergo_history.db` | Yes (IRC CHATHISTORY) |
+| Cleverchat comments SoT | Yes (debate UI + SI); bridge nick `clevertree-si` |
 | Daily tar + rsync → ord1/hkg1 | Cold mirrors |
 | Laptop pull | `ops/chat/scripts/pull-chat-backup-local.sh` in fan-edits |
 
-See **fan-edits** `ops/chat/README.md` for install/backup/restore.
+See **fan-edits** `ops/chat/README.md` for install/backup/restore. Cleverchat host docs: `clevertree-chat/docs/irc-backbone.md`.

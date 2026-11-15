@@ -1,12 +1,14 @@
 /**
  * Full-page mesh chat lobby (#pt-general) for /chat.
  * CleverScript-safe (no regex character-class negation).
+ * IRC mesh stays primary; Cleverchat durable board is linked per topic.
  */
 import React from 'react'
 import ChatApp from 'hooks/client/native/ChatApp.js'
 import { siteHref } from 'hooks/client/loadArticles.jsx'
 
 const DEFAULT_LOBBY = 'pt-general'
+const CLEVERCHAT_HOST = 'https://api.clevertree.chat'
 
 function chatChannelFromLocation(fallback) {
   try {
@@ -42,8 +44,22 @@ function chatChannelFromLocation(fallback) {
   return fallback
 }
 
+/** Map mesh channel pt-<topic> / pt → Cleverchat topic slug. */
+function cleverTopicFromChannel(channel) {
+  let c = ('' + (channel || '')).trim().toLowerCase()
+  if (c.charAt(0) === '#') c = c.slice(1)
+  if (c === 'pt' || c === 'pt-general' || c === 'general') return 'general'
+  if (c.indexOf('pt-') === 0) {
+    const rest = c.slice(3)
+    if (rest) return rest
+  }
+  return 'general'
+}
+
 export default function ChatPage() {
   const channel = chatChannelFromLocation(DEFAULT_LOBBY)
+  const cleverTopic = cleverTopicFromChannel(channel)
+  const boardHref = CLEVERCHAT_HOST + '/chat/' + cleverTopic
   return (
     <main className="pt-main pt-chat-page">
       <article className="pt-article">
@@ -53,9 +69,35 @@ export default function ChatPage() {
         <h1>Chat</h1>
         <p className="pt-muted">
           {
-            'Live lobby and topic channels (imported history + mesh IRC). Default room is #pt-general; pick any #pt-* topic.'
+            'Live lobby and topic channels (imported history + mesh IRC). Default room is #pt-general; pick any #pt-* topic. Organized debate board (Cleverchat) mirrors the same channel via the IRC bridge.'
           }
         </p>
+        <p className="pt-muted">
+          <a href={boardHref} target="_blank" rel="noopener noreferrer">
+            {'Open organized debate board (' + cleverTopic + ')'}
+          </a>
+          {' · '}
+          <a href={CLEVERCHAT_HOST + '/chat/flock-cameras'} target="_blank" rel="noopener noreferrer">
+            flock demo
+          </a>
+          {' · '}
+          <a href={CLEVERCHAT_HOST + '/chat/5g'} target="_blank" rel="noopener noreferrer">
+            5g review
+          </a>
+        </p>
+        <iframe
+          className="pt-cleverchat-frame"
+          title={'Cleverchat board ' + cleverTopic}
+          src={boardHref}
+          style={{
+            width: '100%',
+            minHeight: '28rem',
+            border: '1px solid rgba(0,0,0,0.12)',
+            borderRadius: '0.5rem',
+            marginBottom: '1.25rem',
+            background: '#f7f3ea',
+          }}
+        />
         <ChatApp channel={channel} />
       </article>
     </main>
