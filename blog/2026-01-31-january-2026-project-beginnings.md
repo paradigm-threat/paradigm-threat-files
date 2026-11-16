@@ -24,7 +24,7 @@ Significant refactoring throughout January:
 
 - **January 15** — Major restructure
 - **January 25** — Refactor PopImage components to standard Markdown images
-- **January 26** — Index.json with tree structure, _count, _title, and _lqip metadata; GitHub Actions for static deployment; forgotten-future page and assets; CleverTree projects; Relay URL update; logo and image updates
+- **January 26** — Index.json with tree structure, _count, _title, and _lqip metadata; GitHub Actions for static deployment; forgotten-future page and assets; Clevertree projects; Relay URL update; logo and image updates
 - **January 31** — History/chronology page update
 
 ---
