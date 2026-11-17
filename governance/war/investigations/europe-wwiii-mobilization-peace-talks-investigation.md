@@ -256,6 +256,7 @@ The 2022 invasion is the pressure point on his history sentence. Russia did cros
 
 | File | Why |
 |------|-----|
+| [World War 3 Anyway](/governance/war/world-war-3-anyway.md) | Reader essay on the same week: the three builds, the street, and the reasons given for the wars. |
 | [Four Reverse Crusades](/governance/war/investigations/reverse-crusades-comparison.md) | 1812, 1914, 1941, 2022. The history sentence in §7 lives there. |
 | [RINO effect](/governance/war/investigations/rino-effect-graham-mcconnell-trump-controlled-opposition-investigation.md) | U.S. hawk lane that copies Europe; polls versus aid. |
 | [Zelensky open letter](/governance/war/investigations/zelensky-open-letter-reality-model-investigation.md) | Figurehead text. |
