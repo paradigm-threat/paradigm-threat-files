@@ -162,6 +162,7 @@ Each iteration learns from the previous failure. The progression from visible fi
 - [Zelensky forward-history memory war](../zelensky-forward-history-memory-war.md) — reader essay: letter + Holodomor memory on same soil
 - [Call of Duty *Modern Warfare* — original vs reboot militainment](./call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) — **game** **Russia** as **supplier/PMC** vs **peer invasion** (original trilogy); **2022** **proxy** **narrative** **rhyme** with **§** **WW3/Proxy (2022)** column — **fiction**, not proof of **site** **thesis**
 - [British royalty as a controlled scheme (AU-049)](./british-royalty-controlled-scheme-investigation.md) — Crown as dignified mask of the same Russia-erase OS; four crusades as court-priority lock
+- [Europe WWIII mobilization during the Nov 2026 peace talks (AU-087)](./europe-wwiii-mobilization-peace-talks-investigation.md) — service laws, NATO Political Guidance, and the Abu Dhabi round in one week; author’s “ordered to attack anyway” line on this crusade’s current wrapper
 
 ---
 

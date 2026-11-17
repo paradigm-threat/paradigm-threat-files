@@ -478,6 +478,8 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 
 **Russia peace effort (author, contested):** [Russian perspective](/influence/perspective/russian-perspective.md) **lane** on site — **investigation** **does not** **adopt** **either** **as** **sole truth**.
 
+The Nov 2026 week — Abu Dhabi talks beside European service laws and NATO’s Russia-first planning draft — is the present-tense file: [Europe WWIII mobilization during the peace talks (AU-087)](/governance/war/investigations/europe-wwiii-mobilization-peace-talks-investigation.md).
+
 ---
 
 ## Historical backward pass — democracy as managed game
