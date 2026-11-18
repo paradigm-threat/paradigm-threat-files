@@ -274,7 +274,7 @@ The 2022 invasion is the pressure point on his history sentence. Russia did cros
 | [Four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#83-iran-misread-the-midterm--six-year-unity-card--last-two-year-break-author) | B27. The midterm miss, the six-year unity card, and the last two years. |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-087**. |
 
-Keywords: #WorldWarIII #EuropeMobilization #Russia #Ukraine #PeaceTalks #Conscription #DeepState #ReverseCrusades #NATO #AbuDhabi #Germany #France #Busification #CoalitionOfTheWilling #AU087 #ParadigmThreatFiles
+Keywords: #WorldWarIII #EuropeMobilization #Russia #Ukraine #PeaceTalks #Conscription #FriedrichMerz #Wehrdienst #DeepState #ReverseCrusades #NATO #AbuDhabi #Germany #France #Croatia #Busification #CoalitionOfTheWilling #AU087 #ParadigmThreatFiles
 
 ## Limits and disclaimers
 
