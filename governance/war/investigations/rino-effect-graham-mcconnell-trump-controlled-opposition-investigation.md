@@ -197,6 +197,8 @@ McConnell is the **institutional** RINO archetype: **public feuds** with Trump o
 
 **Filibuster takeaway:** McConnell **did** bend rules for **Gorsuch/Barrett** (judiciary) but **would not** for **Trump’s legislative agenda** (health care, wall, populist spending). That is the **RINO brake** in **one sentence**.
 
+**Author, 18 Nov 2026:** that brake is the dysfunction the sin-eater clock takes as given. A majority while the filibuster exists mostly decides who calls a vote, and how. The MAGA unity card is played strongest for the first six years he is in office. The last two years are when they deliberately break the GOP in half. Ledger: [four-camps §8.3](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#83-iran-misread-the-midterm--six-year-unity-card--last-two-year-break-author) / **B27**. Not a found order. The 2025 floor was still a high-unity floor. The half is the camps.
+
 **Contrast with Graham:** McConnell **less golf-buddy TV**; more **Senate procedure** and **donor-class internationalism**. Same **Ukraine** row in [master axis](#master-axis--ukraine-vs-israeliran-where-rinos-and-trump-split-and-merge).
 
 ---
@@ -803,4 +805,4 @@ Keywords: #Rino #LindseyGraham #MitchMcConnell #Trump #Ukraine #ControlledOpposi
 - **Christian revolution / crucifixion–resurrection comparison:** **Historical** **pattern** **read** — **ancient** **lesson** (**survival** **past** **defeat** **→** **new** **revolution**) **applied** **in** **the** **present**; **not** **claim** **Jan** **6** **=** **Calvary**.
 - **Assistant bias:** **Default** **pressure** **toward** **“respectable”** **obit** **frames**; **this** **file** **preserves** **author** **thesis** **alongside** **Tier** **A** **citations**.
 
-*Last updated: 2026-11-15 (274 speech-act disclosure / declassify-by-saying-it; Bush PDB + Libby/Cheney + Clinton EO precedent)*
+*Last updated: 2026-11-18* (sin-eater clock takes the filibuster brake as given; four-camps §8.3 / B27). Prior: 2026-11-15 (274 speech-act disclosure / declassify-by-saying-it; Bush PDB + Libby/Cheney + Clinton EO precedent)

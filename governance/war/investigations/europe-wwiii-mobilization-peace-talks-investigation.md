@@ -197,6 +197,8 @@ The repo’s account of why America could slip the grip is already written, and 
 
 **Author, joined to those files:** Europe can be given the war because its governments survive their voters on this subject. America could not be given it in the same way. The RINO lane tried. The second-term diplomacy is what the lane could not stop. That is why the mobilization order, if there is one, lands in Berlin, Paris, London, and Warsaw in the same week the American envoys are counting prisoners.
 
+**Author, 18 Nov 2026 — why Tehran misread that American exception.** Spoken for [*World War 3 Anyway*](/governance/war/world-war-3-anyway.md). The verbatim and the clock are in [four-camps §8.3](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#83-iran-misread-the-midterm--six-year-unity-card--last-two-year-break-author). Iran thought a Democratic Congress was the old pattern: wait him out, Europe included, and 2028 is another Obama. He says America is changing. Democrats bet everything on Trump Derangement Syndrome, hoping everyone including Europe would ignore him until he went away, and forgot Biden as a stain on the party, a president who was braindead for long stretches of the term. They need another Obama moment. They are not going to get that, or anything near it, in 2028. The sin-eater aim was not a political win and not a battlefield conquest. It was to starve the depleted-uranium and holy-war threat until it is no longer world threatening, and leave Iran to determine its own destiny. Regime change was the bluff. It split Iranians into those willing to work with the world and with Trump, and those still on the CIA script. The MAGA unity card runs the first six years he is in office. The last two years are when they deliberately break the GOP in half. That break takes the dysfunction as given: RINO leadership already stopped most of the list while Republicans held both chambers, because a majority under the filibuster mostly decides who calls the votes.
+
 This is a pattern claim across dossiers. It is not a cable.
 
 ---
@@ -224,6 +226,7 @@ The 2022 invasion is the pressure point on his history sentence. Russia did cros
 | 3 | The Nov 2026 mobilization, sanctions, and Coalition troop offer are an order to attack, or to stay attack-ready, whose purpose is to kill a peace limited to the disputed territories. | **Author / speculative** as an order. **Documented** as simultaneous policy |
 | 4 | A Russian invasion of NATO Europe, after a settlement on those territories, is the story being told, and it does not survive the 1812 / 1941 pattern. Those were attacks on Russia. They were not Russian openings against a settled West. | **Author**, with the 2022 inversion carried by the reverse-crusades dossier |
 | 5 | There is no coherent threat narrative past those territories. Probe talk, 2029 capability talk, and “Article 5 is a bluff” talk are the scraps of a story that cannot say what Russia would be invading for. | **Author** judgment on the **documented** official stack in §4 |
+| 6 | Iran got the midterms wrong by reading a Democratic Congress as the old restoration. Democrats bet Trump Derangement Syndrome and a 2028 Obama moment that is not coming. The sin-eater aim was to shrink the depleted-uranium and holy-war threat and leave Iran its government. Regime-change talk was a bluff that split Tehran. The GOP unity card is the first six years in office. The last two years are the deliberate break, and it counts the filibuster dysfunction as given. | **Author**. Seat swing, Rezaei, Mojtaba, and the 12 Nov post are **Documented** in the essay and in [four-camps §8.3](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#83-iran-misread-the-midterm--six-year-unity-card--last-two-year-break-author) / **B27**. “Deliberately” is not a found order |
 
 ---
 
@@ -263,6 +266,7 @@ The 2022 invasion is the pressure point on his history sentence. Russia did cros
 | [British royalty controlled scheme](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) | Observable removal of a European head of government. |
 | [Presidency decoupling](/governance/war/investigations/presidency-decoupling-pattern-eisenhower-to-trump-investigation.md) | Why a U.S. president is a bad long-term instrument for this war. |
 | [Islamabad peace deal](/governance/war/investigations/islamabad-peace-deal-investigation.md) | Earlier 2026 case of a signed pause the war system did not treat as the end of the board. |
+| [Four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#83-iran-misread-the-midterm--six-year-unity-card--last-two-year-break-author) | B27. The midterm miss, the six-year unity card, and the last two years. |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-087**. |
 
 Keywords: #WorldWarIII #EuropeMobilization #Russia #Ukraine #PeaceTalks #Conscription #DeepState #ReverseCrusades #NATO #AbuDhabi #Germany #France #Busification #CoalitionOfTheWilling #AU087 #ParadigmThreatFiles
@@ -278,7 +282,7 @@ Keywords: #WorldWarIII #EuropeMobilization #Russia #Ukraine #PeaceTalks #Conscri
 - Cross-links to reverse crusades, RINO, royalty, and the presidency files are thematic. They are not proof that one office wrote the November sanctions and the NATO draft.
 - Assistant bias: the week was read forward from the author’s question. Counter-sources that cut against a general mobilization (voluntary service still the rule in France and Germany, Stubb, Latvian “no imminent attack,” Sollfrank’s “too tied down”) are in the body on purpose.
 
-*Last updated: 2026-11-17*
+*Last updated: 2026-11-18* (§6 / claim 6 — Iran misread the midterm; sin-eater aim and the six-year / two-year clock, joined to four-camps B27)
 
 ## Investigator notes
 

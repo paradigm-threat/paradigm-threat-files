@@ -284,7 +284,17 @@ Biden: years trying to restore the same deal shape
 Author: Ayatollah prices 2026 Democrat midterms as the soft-power reset
         ↓
 Hinge: give up nukes (may stay) vs cling to JCPOA dream (bet on Democrats)
+        ↓
+18 Nov 2026 Author: the bet used the old calendar. The restoration is what broke
 ```
+
+### 8.6 The bet failed the restoration test (Author, 18 Nov 2026)
+
+Spoken for [*World War 3 Anyway*](/governance/war/world-war-3-anyway.md). Verbatim and the six-year clock are in [four-camps §8.3](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#83-iran-misread-the-midterm--six-year-unity-card--last-two-year-break-author) / **B27**. This section only keeps the part that changes AU-069h.
+
+> Essentially this is why Iran got the midterms wrong. America is changing and the usual political patterns are not repeating. The Democrat part bet everything on TDS (Trump Derangement Syndrome) and hoping everyone including Europe would just ignore him till he went away — but they forgot how bad Biden was, not as a person, but as a stain on the Democratic reputation in general, especially if he was braindead most of the time. They need another Obama moment, and they aren't going to get that, or anything near it, in 2028. This is what the Iranians got wrong about us. … The sin eater strategy was not to defeat the enemies politically and on the battlefield. It was to starve the DU/holy-war dragon, so it deflates and shrinks to a size that is no longer world threatening, and leave Iran to determine its own destiny. Regime change was another bluff. It caused the Iranians to split into those willing to work with the world (and Trump) and those still on the CIA script.
+
+**Unpack against §8.3–§8.4.** AU-069h still stands as the bet Tehran made: Democrat weather brings the Obama/Biden bargain back. What failed is the theory inside the bet. A Democratic Congress happened. The restoration did not. He is explicit that the stain is Biden’s effect on the party’s reputation, not a personal grudge, and that “braindead most of the time” is how he names the stretches the country watched. They need another Obama moment. He does not think 2028 produces one, or anything near it. The war’s aim on this reading is the nuke hinge this file already uses — shrink the depleted-uranium and holy-war threat until it is no longer world threatening — and then leave Iran to determine its own destiny. “Regime change was another bluff” does not erase Ali Khamenei’s death or §8.4’s conditional removal. It means the promise to pick the next government. That bluff is what he says split Iranians into those willing to work with the world and with Trump, and those still on the CIA script. Democrats betting that Europe would ignore him until he went away is the same wait-him-out theory. Europe’s rearmament while the Ukraine talks were live is the specimen that the wait failed on that front too.
 
 ---
 
@@ -318,6 +328,7 @@ Hinge: give up nukes (may stay) vs cling to JCPOA dream (bet on Democrats)
 7. **AU-069g — Ayatollah ↔ Democrats:** The durable link is **JCPOA incentive geometry** (Obama deal + cash grammar; Biden restore; Democrat electorate still wants the bargain) — not shared agency cards.  
 8. **AU-069h — Midterm fortune bet:** The Ayatollah apparatus has priced **2026 Democrat midterm / soft-power weather** as its best remaining path back to subsistence money and non-enforcement; that is why it refuses to surrender the deal dream under Trump.  
 9. **AU-069i — Nuke hinge, not “America lost”:** U.S. military goals on the Author’s scoreboard were **accomplished**; the open question is **nuke surrender**; Trump already floated **regime survival** as the trade — “America lost” is the wrong ledger.
+10. **AU-069j — The midterm bet used a dead restoration (Author, 18 Nov 2026):** Tehran and the Democratic bet both priced a Democratic Congress as wait-him-out plus a 2028 Obama moment. The seats moved. The restoration is what he says is not repeating. Biden is the stain on the party. The sin-eater aim matches this file’s hinge: starve the depleted-uranium and holy-war threat, leave Iran its own government. Regime change as picking the successor was the bluff, and it split the Iranians. Full clock and the GOP break: [four-camps B27](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#9-big-surprise--validated-claims-registry).
 
 ---
 
@@ -373,13 +384,13 @@ Hinge: give up nukes (may stay) vs cling to JCPOA dream (bet on Democrats)
 
 Keywords: #ControlledOpposition #PaidProtest #CrowdsOnDemand #USAID #ActBlue #SPLC #ClintonFoundation #ColorRevolution #Otpor #CANVAS #Obama #SteeleDossier #RiotLogistics #Astroturf #JCPOA #Ayatollah #Iran #DemocratForeignPolicy #Midterms2026 #ParadigmThreatFiles #AU069
 
-*Last updated: 2026-11-05* (Related → four-camp midterm dossier)
+*Last updated: 2026-11-18* (§8.6 / AU-069j — the 2026 midterm bet used a restoration that did not come back)
 
 ## Limits and disclaimers
 
 > **Prisca sapientia (epistemic foundation):** This investigation assumes [**prisca sapientia**](/docs/PRISCA_SAPIENTIA.md)—the historical and philosophical belief that the ancients possessed a vast, profound understanding of the universe, nature, and theology that was subsequently lost or degraded. Modern consensus science and institutions are not treated as default truth; evidence tiers below adjudicate specific claims.
 
-This file is **not** legal advice, **not** a court finding, and **not** a claim that every Democrat donor, NGO worker, or protester is criminal — nor that Iranian officials are “agents” of the DNC. **Documented** rows cite public DOJ, FEC-adjacent staff reports, Treasury, State, and press. **Author** rows (especially **AU-069**, riot day-job, USAID→DNC causation, and **Ayatollah midterm bet**) are **first-class pattern stakes** for Paradigm Threat and are **not** automatically factual. Indictments are allegations until adjudicated. The meme is preserved as an **artifact** under investigation, not as a sworn affidavit. Fiction and thematic rhymes from other dossiers are **cross-links**, not proof of identical conspiracies. **Iran war scoreboard:** this file rejects “America lost / failed its goals” as the controlling narrative; the Author hinge is **nuke surrender**, with regime survival as a stated trade.
+This file is **not** legal advice, **not** a court finding, and **not** a claim that every Democrat donor, NGO worker, or protester is criminal — nor that Iranian officials are “agents” of the DNC. **Documented** rows cite public DOJ, FEC-adjacent staff reports, Treasury, State, and press. **Author** rows (especially **AU-069**, riot day-job, USAID→DNC causation, and **Ayatollah midterm bet**) are **first-class pattern stakes** for Paradigm Threat and are **not** automatically factual. Indictments are allegations until adjudicated. The meme is preserved as an **artifact** under investigation, not as a sworn affidavit. Fiction and thematic rhymes from other dossiers are **cross-links**, not proof of identical conspiracies. **Iran war scoreboard:** this file rejects “America lost / failed its goals” as the controlling narrative; the Author hinge is **nuke surrender**, with regime survival as a stated trade. **18 Nov 2026:** the Democrat midterm bet is still the bet Tehran made. The restoration inside that bet is what the author says did not come back (§8.6 / AU-069j).
 
 ## Investigator notes
 
