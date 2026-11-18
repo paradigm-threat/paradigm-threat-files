@@ -1,8 +1,8 @@
 # World War 3 Anyway
 
-Built on every side, and Europe would not stand down
+History is written by the victors of the last war, leaving the public blind and forcibly marching toward the next war
 
-![World War 3 Anyway — two jets at dusk over a city, a line of men with papers outside a glass office, military trucks at the curb](https://paradigmthreat.net/governance/war/world-war-3-anyway.jpg)
+![World War 3 Anyway — four jets at dusk over a spired city, tanks on a wet street, a line of men with papers, and soldiers beside the Ukrainian and EU flags](https://paradigmthreat.net/governance/war/world-war-3-anyway.jpg)
 
 I heard jets resume their overhead training today. I felt like it's been a while since I heard them, like everyone paused for the elections, and now the fight is back on. The last long stretch over this city was the 4th Fighter Wing. F-15E Strike Eagles from the 333rd and 334th flew out of the Savannah Combat Readiness Training Center while the runway at Seymour Johnson, in Goldsboro, was being worked on.
 
@@ -159,7 +159,7 @@ An order sent this week because a peace was about to be signed runs ahead of the
 
 Keywords: #WorldWarIII #WorldWarZero #Napoleon #SecretWar #WorldWarI #WorldWarII #PearlHarbor #Firebombing #DepletedUranium #DeepStateInfluence #Ukraine #Russia #Iran #Europe #NATO #AbuDhabi #Conscription #Busification #Minsk #Savannah #F15E #Trump #ParadigmThreatFiles
 
-**Last updated:** 2026-11-18T07:42:09-05:00
+**Last updated:** 2026-11-18T08:54:04-05:00
 
 ---
 
