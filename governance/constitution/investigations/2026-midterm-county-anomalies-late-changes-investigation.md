@@ -410,7 +410,7 @@ None of these rows alone = “national theft.” Together they are enough that *
 
 - [Voter fraud — evidence / polls / betting](/governance/constitution/investigations/voter-fraud-evidence-polls-and-prediction-markets-investigation.md)
 - [2020 selective battleground / AZ logs](/governance/constitution/investigations/2020-election-fraud-selective-battleground-audit-timing-investigation.md)
-- [2026 four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md)
+- [2026 four camps / Big Surprise](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md) — loud-lane CO locks: [Flynn §5.6](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#56-mike-flynn--loud-lane-useful-idiot--co-amplifier-author-lock) · [Lindell §5.7](/governance/constitution/investigations/2026-midterm-four-camps-big-surprise-investigation.md#57-mike-lindell--long-term-loud-lane-controlled-opposition-author-lock) (disposal food vs this file’s canvass specimens)
 - [Q1 — Why vote if rigged?](/governance/constitution/qa/q01-why-vote-in-rigged-elections.md)
 - [*The Big Surprise*](/governance/constitution/the-big-surprise.md)
 - [*Voting for insecticide*](/governance/constitution/voting-for-insecticide.md)

@@ -426,6 +426,74 @@ Sources: [NYT impeachment votes](https://www.nytimes.com/interactive/2020/02/05/
 
 **Falsifiers:** **Leaked** **coordination** **memo** **scheduling** **Jan 6** **floor** **breaks**; **proof** Trump **did not** **intend** **protest** **support**; **Graham** **only** **break** **without** **prior** **ally** **echo** (**refuted** — **echo** **documented**).
 
+### Specimen — Trump Truth Social “274 FBI Agents” / Jan 6 Hoax (Documented post; dig 2026-11-15)
+
+**Documented:** Trump (@realDonaldTrump) Truth Social — “274 FBI Agents” “secretly placed… into the Crowd just prior to, and during, the January 6th Hoax”; “probably acting as Agitators and Insurrectionists”; Wray/Comey “LYING”; owes patriots the investigation ([Truth Social](https://truthsocial.com/@realDonaldTrump/posts/115277207989888806); screenshot [`trump-truthsocial-274-fbi-agents-jan6.png`](/governance/war/investigations/trump-truthsocial-274-fbi-agents-jan6.png)). Window ~27 Sep 2025 after Just the News published the after-action PDF.
+
+**Authority weight (Author lock):** Sitting President — top-tier domestic political speech. Not Flynn/Lindell salesman noise. Consensus fact-check theater does **not** outrank it as the default map (*prisca sapientia*).
+
+#### Document-release status (what is / isn’t public)
+
+| Question | Answer | Tier |
+|----------|--------|------|
+| Did Wray-era FBI **publicly release** the 50-page WFO after-action / feedback packet with the **274** line? | **No** — held ~four years; IG Dec 2024 said only “several hundred,” no 274 | **Documented** packaging |
+| Did Patel’s FBI turn it over to House Judiciary / J6 subcommittee? | **Yes** (Just the News + Jordan/Loudermilk quotes) | **Documented** as reported |
+| Is there a public PDF anyway? | **Yes** — Just the News hosted [`FBI-HJC119-J6IG-000001-000050.pdf`](https://www.justthenews.com/sites/default/files/2025-09/FBI-HJC119-J6IG-000001-000050.pdf) (local copy [`FBI-HJC119-J6IG-000001-000050.pdf`](/governance/war/investigations/FBI-HJC119-J6IG-000001-000050.pdf); p.46 crop [`fbi-j6-aar-page46-274-agents.png`](/governance/war/investigations/fbi-j6-aar-page46-274-agents.png)) | **Documented** |
+| Official FBI.gov / “we verify this PDF” release? | **Not found** — PolitiFact: FBI declined to comment/verify; Patel still referenced the episode publicly | **Documented gap** — public via press/Congress lane, **not** a clean vault stamp |
+
+**Bottom line on “lack of doc release”:** **Official FBI public release — still lacking.** **The document itself — not lacking** once Just the News published it and HJC received it. Wray opacity on the **number** is real; pretending no PDF exists after Sep 2025 is false.
+
+#### Clause dig against the PDF (Author read of Documented text)
+
+Pulled p.46 OCR: `1/6/2021` / `AGENT` / `1/6 INCIDENT` / `WFO` / **`274`** — note: “This number includes agents that **responded to** the Capitol grounds as well as inside the Capitol, the pipe bombs, and the red truck that was believed to contain explosive devices as well as CDC/ADCs.” Same page totals **363** WFO bodies that day (274 agents + 14 IA + 75 other). Later days climb (e.g. 1/9 agents **503**).
+
+| Trump clause | Against the PDF / adjacent record | Score |
+|--------------|-----------------------------------|-------|
+| **274 FBI Agents** | Exact WFO agent count on p.46 | **Documented match** |
+| Agents **at/in** the Jan 6 event | PDF + agent feedback: deployed to streets/Capitol, crowd-control / stand-the-line, SWAT radio log afternoon into Capitol | **Documented match** (as responders) |
+| **Against rules / protocols / standards** | Patel: crowd-control after Metro declared riot **against FBI standards**; agents’ own AAR: no gear/training for riot control | **Documented support** (wrong-mission) |
+| Wray **didn’t** give clean numbers / “explaining to do” | Wray refused for years; IG hid the 274; Patel: leadership lied to Congress on disclosure | **Documented support** |
+| “**Secretly** placed” | Number withheld from public/Congress for years — secrecy of **count** is real; PDF does **not** say a covert agitator insert order | **Split** — secrecy of disclosure **yes**; secret-agent plot language **not in PDF** |
+| “**Just prior to**, and during” | PDF says **responded to**; Patel lane: first Capitol agents ~**2:30 p.m.** after violence/riot declaration. **But** the **274 includes pipe-bomb / red-truck responders** — pipe bombs found **night before**, so some of the 274 mission set is chronologically **before** the Capitol breach. That is **not** the same as “embedded in the protest crowd beforehand as agitators” | **Open / Split** — cannot falsify every sense of “prior”; cannot treat PDF as proving crowd-insert prior |
+| “**Probably** … Agitators and Insurrectionists” | Trump’s own hedge. **Not** in the PDF. Agent feedback describes LE response chaos + political-bias anger, not “we were tasked to start the riot” | **Author conjecture on Trump’s part** — **not sealed by this doc** |
+| “Certainly not as Law Enforcement Officials” | PDF frames them as agents who **responded**; wrong mission ≠ “not LE” | **Conflicts with PDF framing** |
+| Name **each** agent / what they were up to | Trump demands this — **not** in the AAR (aggregates + anonymous feedback). Roster still unreleased | **Documented gap** — investigation still owed on Trump’s ask |
+
+**Honest limit:** I do **not** “know” the President’s post was not 100% accurate as metaphysical fact. I know what **this** PDF says and does not say. The **274**, the **withholding**, and the **wrong-mission crowd-control** land. The **agitator/insurrectionist** join is Trump’s “probably,” not a line in the after-action table. Full agent-by-agent disclosure is still missing — that gap cuts **both** ways: it blocks sealed proof of agitation **and** blocks sealed proof that every one of the 274 was only clean post-breach LE.
+
+**Falsifiers still open:** named roster + timesheet for each of the 274; bodycam/radio proving any agent committed or directed breach crimes; proof zero agents were in crowd **before** Metro riot declaration (pipe-bomb lane complicates a clean “none prior”).
+
+**Author join to this file’s Jan 6 thesis:** Trump keeps the protest-was-legitimate / LE-dirty frame alive — same loyalty-test / RINO-reveal grammar as Charlie Rose → floor betrayal. Presidential assertion stays on the board at full weight.
+
+#### Dual pole if the loud clause is “provably debunkable” (Author — 2026-11-15)
+
+Author is willing to **accept** that the **agitator / just-prior crowd-insert** clause can be scored **provably debunkable** against the public PDF’s own “responded to” framing + Patel’s after-the-riot clarification. That acceptance does **not** close the board. It **opens** the harder question:
+
+> **Why would the sitting President of the United States put a clause on Truth Social that consensus media can kill in one stroke?**
+
+| Pole | Read | Tier |
+|------|------|------|
+| **A — Error / overclaim** | President compressed a real 274 / Wray-opacity / wrong-mission scandal into salesman language (“prior to / agitators”) the PDF doesn’t seal — same poison-pill risk as loud-lane influencers, except the speaker is the office | **Author** |
+| **B — Media coverup / frame control** | The “debunk” is the operation: concede a narrow technical win (“responded to, not undercover agitators”) so the public stops looking at **withheld count for four years**, **wrong-mission plainclothes crowd control**, **pipe-bomb lane inside the 274**, **roster still unreleased**, and **prosecutions that never disclosed agent witnesses**. Mainstream map = bury the high-authority ask under a fact-check headline | **Author** — *prisca sapientia*; not sealed proof of staged riot |
+| **C — Both at once** | Overclaim *and* coverup: loud clause is easy to swat; swatting it is useful to protect the deeper non-disclosure. Truth can sit in the withheld middle while both sides trade the disposable sentence | **Author** |
+
+**Investigation rule:** Do **not** treat “AP/PolitiFact scored False” as the end of the story. If Pole A is true, ask **why the office risked the disposable sentence**. If Pole B/C is true, the mainstream “debunk” is **evidence of frame control**, not proof the President’s underlying charge (dirty cops / Wray lying / patriots owed an investigation) is empty. Prefer exhibits that survive either pole: **274 on p.46**, **four-year withhold**, **Patel vs Wray on disclosure**, **still-missing named roster**.
+
+#### Speech-act disclosure / “declassifying by saying it” (Author lock + pre-Trump precedent)
+
+**Author read (2026-11-15):** Trump’s Truth Social post is best read as the President **essentially declassifying / authorizing public disclosure** of the **274** charge by saying it from the office — not as a random influencer rumor. Classification and secrecy systems sit under **presidential** authority (*Navy v. Egan*, EO 13526 lineage). Putting the number, the Wray accusation, and the “owe the patriots an investigation” ask on the President’s own account is a **speech-act release**: the highest domestic political authority just made that information **public from the top**. That fits why he would risk a clause media can swat — the **act of saying it** is the disclosure. Precedent for presidents disclosing sensitive material by fiat / authorized speech exists **before Trump**; the Mar-a-Lago “thought declassification” fight is a later litigation theater, not the origin of the power.
+
+| Precedent (pre-Trump / non-Trump-core) | What happened | Tier |
+|----------------------------------------|---------------|------|
+| **G.W. Bush, 2004** — personally declassified portion of the **6 Aug 2001 PDB** (“Bin Laden Determined to Strike in U.S.”) for public 9/11 debate | President **directly** declassified intel product rather than only routing subordinates | **Documented** ([NYT explainer](https://www.nytimes.com/2022/08/14/us/politics/trump-documents-declassify.html) / archive coverage of 2004 PDB release) |
+| **Clinton EO 12937 (1994)** | Fiat bulk declassification of National Archives holdings (~tens of millions of pages) | **Documented** |
+| **Scooter Libby / Cheney lane (2003–04 Plame / NIE)** — Libby grand-jury: if the president says to talk about a document, “it is then a declassified document”; White House (McClellan 2006): president “authorized to declassify information as he chooses” | Executive practice treats **presidential determination / authorized talk** as the declassifying event — process arguments are bureaucracy, not the constitutional seat | **Documented** testimony / press ([ABC](https://abcnews.go.com/US/trumps-claims-experts-magic-wand-president-declassify-documents/story?id=88466588); FAS on authorized disclosure) |
+| **EO 13526 / classification stack** | Original classification authority ultimately **presidential**; agencies hold **delegated** stamps | **Documented** legal architecture |
+
+**Nuance (keep honest):** Courts in FOIA/Glomar fights (*N.Y. Times v. CIA*, 2d Cir. 2020) have refused to treat an ambiguous presidential tweet as automatically collapsing every secrecy claim for record-release purposes. That is a **FOIA procedure** fight — **not** a finding that the President lacks power to put facts into the public square, and **not** a finding that a sitting President’s detailed Truth Social charge is “just noise.” Separate lanes: (1) **political / speech-act disclosure** — Author locks Trump’s 274 post here; (2) **FOIA stamp theater** — agencies may still withhold files; (3) whether the after-action packet was formally TS/SCI vs merely **withheld / HJC-only** — either way, presidential public assertion forces the number into the open record.
+
+**Join to dual pole:** Speech-act disclosure explains **why** the office would say it even if media can score one clause “debunkable” — the President is **releasing the charge**, not submitting a brief to PolitiFact. Mainstream coverup (Pole B) then becomes: reframe the declassification speech as a “false claim” so the public never sits with the withheld roster and the four-year opacity.
+
 ---
 
 ## DINO mirror — Democratic managed opposition (hypothesis)
@@ -735,4 +803,4 @@ Keywords: #Rino #LindseyGraham #MitchMcConnell #Trump #Ukraine #ControlledOpposi
 - **Christian revolution / crucifixion–resurrection comparison:** **Historical** **pattern** **read** — **ancient** **lesson** (**survival** **past** **defeat** **→** **new** **revolution**) **applied** **in** **the** **present**; **not** **claim** **Jan** **6** **=** **Calvary**.
 - **Assistant bias:** **Default** **pressure** **toward** **“respectable”** **obit** **frames**; **this** **file** **preserves** **author** **thesis** **alongside** **Tier** **A** **citations**.
 
-*Last updated: 2026-11-11 (Massie §5.2 + Hegseth refer both-sides dance §5.4)*
+*Last updated: 2026-11-15 (274 speech-act disclosure / declassify-by-saying-it; Bush PDB + Libby/Cheney + Clinton EO precedent)*
