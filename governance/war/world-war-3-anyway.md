@@ -2,6 +2,8 @@
 
 Built on every side, and Europe would not stand down
 
+![World War 3 Anyway — two jets at dusk over a city, a line of men with papers outside a glass office, military trucks at the curb](https://paradigmthreat.net/governance/war/world-war-3-anyway.jpg)
+
 I heard jets resume their overhead training today. I felt like it's been a while, like everyone paused for the elections, and now the fight is back on.
 
 The last long stretch over this city was the 4th Fighter Wing. F-15E Strike Eagles from the 333rd and 334th flew out of the Savannah Combat Readiness Training Center while the runway at Seymour Johnson, in Goldsboro, was being worked on. A [local radio log on 8 August](https://coastalgeorgiaradio.blogspot.com/2026/08/4th-fighter-wing-from-seymour-johnson.html) still had them flying morning through night, and a photograph on that page is dated 15 June. People here were still under them in mid-September. On [6 October](https://www.reddit.com/r/savannah/comments/1wyx21o/are_the_f15s_still_at_the_airport/) someone in town asked if the F-15s had gone back to North Carolina, and a reply that day said they were home. Then the election. Today I heard them again.
@@ -144,7 +146,7 @@ An order sent this week because a peace was about to be signed runs ahead of the
 
 Keywords: #WorldWarIII #WorldWarZero #Napoleon #SecretWar #WorldWarI #WorldWarII #PearlHarbor #Firebombing #DepletedUranium #DeepStateInfluence #Ukraine #Russia #Iran #Europe #NATO #AbuDhabi #Conscription #Busification #Minsk #Savannah #F15E #Trump #ParadigmThreatFiles
 
-**Last updated:** 2026-11-17T18:45:00-05:00
+**Last updated:** 2026-11-17T19:01:56-05:00
 
 ---
 
