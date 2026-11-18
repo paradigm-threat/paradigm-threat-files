@@ -74,6 +74,7 @@
 - **Timing + Ukraine trip:** Maximum **symbolic** load for readers already tracking **Graham–Trump Ukraine divergence** and **Reverse Crusade** geometry ([§ master axis](#master-axis--ukraine-vs-israeliran-where-rinos-and-trump-split-and-merge)).
 - **“Loose end” hypothesis:** Requires **evidence of threat**, **beneficiary**, or **anomaly** beyond **71 + cardiac** — **not met** in open sources **as of 12 Jul 2026** for **literal murder**. Logged as **sentiment**, not finding — **unless** [§ fake-death lane](#fake-death--staged-cardiac-lane-author-thesis--jul-2026) applies.
 - **Press default:** Obituaries lead **“Trump ally”** ([BBC headline](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo)) — exemplifies [§ media pattern](#media-pattern--trump-ally-boilerplate-vs-vote-record).
+- **18 Nov 2026, for the essay:** He views the death as the sunsetting of the Reagan influence over the GOP. That influence was the rampant anti-Russia line, a disregard for the facts on the ground in pretty much any region, and a willingness to take America into foreign wars and to support them. On this read the ally label is there because MAGA and Trump held him close for the Iran war.
 
 ### Fake-death / staged cardiac lane (author thesis — Jul 2026)
 
