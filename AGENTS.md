@@ -54,7 +54,7 @@ Hand-stamped dates and **`Last updated`** lines use **US Eastern** (`America/New
 
 ## Articles (summary)
 
-When editing **reader-facing articles** (not investigations): **`I`** only for personal witness; **chronicle / documentary** prose (no poetry, no manifesto cadence); the reader decides — put the facts they need in order. Link **Substack** when the target essay already has a `**Substack:**` post; otherwise **`https://paradigmthreat.net/...`**. Images stay on paradigmthreat.net. Dossiers hold proof density. Full rules: [`docs/instructions/ARTICLES.md`](docs/instructions/ARTICLES.md). Cursor: **`.cursor/rules/articles.mdc`** and **`.cursor/rules/plain-spoken-prose.mdc`**.
+When editing **reader-facing articles** (not investigations): **`I`** only for personal witness; **chronicle / documentary** prose (no poetry, no manifesto cadence); the reader decides — put the facts they need in order. On revise, **fact-check claims one at a time** (counts, dates, thresholds, who said it) — author and model both miss these; investigations may stay open and wrong, articles may not. Link **Substack** when the target essay already has a `**Substack:**` post; otherwise **`https://paradigmthreat.net/...`**. Images stay on paradigmthreat.net. Dossiers hold proof density. Full rules: [`docs/instructions/ARTICLES.md`](docs/instructions/ARTICLES.md) → [Claim fact-check](docs/instructions/ARTICLES.md#claim-fact-check-required-on-revise). Cursor: **`.cursor/rules/articles.mdc`** and **`.cursor/rules/plain-spoken-prose.mdc`**.
 
 ---
 
@@ -70,6 +70,6 @@ Do **not** load unless the task touches that topic:
 
 - **Iran 2026 / Rubio “world none of us want to leave behind”** — [`governance/war/mission-accomplished-again-iran-2026.md`](governance/war/mission-accomplished-again-iran-2026.md) (cite **Rubio**, not Vance; May 5, 2026 briefing).
 
-*Last updated: 2026-11-08*
+*Last updated: 2026-11-18*
 
 **Catalog index:** [`relay-master/docs/CATALOG_AGENTS.md`](../relay/relay-master/docs/CATALOG_AGENTS.md) lists all mesh catalog repos.
