@@ -41,6 +41,7 @@
     "Ukraine",
     "Russia",
     "Iran",
+    "Oil",
     "Israel",
     "Europe",
     "Germany",
