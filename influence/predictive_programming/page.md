@@ -145,6 +145,8 @@ Predictive programming presents AI in a very dim light: humans rely on robots as
 | ***Terranigma* / Beruga** | [investigations/terranigma-beruga-predictive-programming-investigation.md](investigations/terranigma-beruga-predictive-programming-investigation.md) | 1995 JRPG (PAL English): masked biotech savior, **Asmodeus** virus, robot triage, Asimov laws, eschatological city-kill; geo/name rhymes dossier |
 | ***Half-Life* series** | [investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md](investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) | **HL1** Xen/CERN portal realism; **HL2** NSA-aligned occupation warning (benefactors, water teleport, G-Man); Episodes + *Alyx* = containment — [HL2 stub](investigations/half-life-2-nsa-combine-warning-containment-investigation.md) redirects here |
 | ***Children of Men* (2006)** | [investigations/children-of-men-nsa-warning-predictive-programming-investigation.md](investigations/children-of-men-nsa-warning-predictive-programming-investigation.md) | Grounded future warning; Ark / Quietus / false-flag fear; intellectual PP; **§3.7 major find** — no book had the whole plot; the novel is the cover |
+| **Mars needs women — recent cataclysm** | [investigations/mars-needs-women-recent-cataclysm-investigation.md](investigations/mars-needs-women-recent-cataclysm-investigation.md) | Known shelf in §3. Exact recent-war raid: *Frankenstein Meets the Space Monster* (1965). Neighbors include *Mars Needs Women* (1967), *Mutant Swinger from Mars* (2009), *Mars Needs Moms* (2011), *Devil Girl from Mars* (1954), *The Mysterians* (1957), *Queen of Outer Space* (1958), *Species II* (1998) |
+| **Lifelike human robots — JFK center** | [/events/jfk/investigations/lifelike-human-robot-deception-investigation.md](/events/jfk/investigations/lifelike-human-robot-deception-investigation.md) | A machine passed off as a person. Center: the 1965 android astronaut at the Kennedy Space Center. Shelf includes *Stepford Wives*, *Futureworld*, *Screamers*, *Impostor*, *Ex Machina*, *Terminator Salvation*, *Companion* |
 
 **Grounded NSA warnings (twin pair):** *Half-Life 2* (in [HL series dossier](investigations/half-life-series-cern-combine-xen-predictive-programming-investigation.md) §6+) · [*Children of Men*](investigations/children-of-men-nsa-warning-predictive-programming-investigation.md)
 | **Time-travel literature (Wells pivot)** | [investigations/time-travel-literature-wells-deposit-investigation.md](investigations/time-travel-literature-wells-deposit-investigation.md) | Genre **firsts**; **§11 Wells containment anchor** — eponym capture, chronology flood, R6 path-back block; §9 Mars ending; Philadelphia rhyme |
@@ -189,7 +191,8 @@ Media identified as containing predictive programming by external sources or our
 | Title | Year | Description | Source |
 |-------|------|-------------|--------|
 | *The Manchurian Candidate* | 1962 | MK Ultra–like mind control; code phrase triggers assassination. Novel 1959. | Wikispooks |
-| *Mars Needs Women* | 1967 | Martian breeding programme; women abducted for repopulation. | Ours |
+| *Frankenstein Meets the Space Monster* | 1965 | Cheap Allied Artists double bill with *Curse of the Voodoo* (about $60,000). U.S. android astronaut at the John F. Kennedy Space Center. Atomic-war crew: “we have no women”; “Capture of the Earth women.” Ed Wood-style hokiness and a breeding-stock plot are how the picture asks to be dismissed. A general stays in the room for the fake astronaut. The hardware is transplanted parts and a remote electronic control. *Capricorn One* (1977) plays a faked Mars mission straight and is still only a movie. Lines in [JFK §2.3](/events/jfk/investigations/jfk-rfk-staged-assassination-hoax-investigation.md#5-frankenstein-meets-the-space-monster-1965). Breeding-raid list: [Mars needs women](investigations/mars-needs-women-recent-cataclysm-investigation.md). Robot shelf: [lifelike human robots](/events/jfk/investigations/lifelike-human-robot-deception-investigation.md). | Ours |
+| *Mars Needs Women* | 1967 | Title and abduction of Earth women. Published cause is a genetic shortage of girls, not a dated cataclysm. Exact recent-war specimen is the 1965 picture. [Investigation](investigations/mars-needs-women-recent-cataclysm-investigation.md). | Ours |
 | *Night of the Living Dead* | 1968 | Zombie apocalypse; bodies without consciousness. | Ours, Common |
 | *Plan 9 from Outer Space* | 1957 | Aliens resurrect dead via pituitary assault; zombie armies overwhelm capitals; solaronite doomsday; takeover through disclosure. Ed Wood controlled-opposition thesis. | Ours |
 | *Rocketship X-M* | 1950 | Dead Mars civilization; Geiger counters register nuclear war. | Ours |
@@ -356,7 +359,7 @@ Media identified as containing predictive programming by external sources or our
 
 ---
 
-Keywords: #Predictive #Programming #Animatrix #SecondRenaissance #GreatAwakening #IraqiDinar #GCR #Revaluation #SoftCensorship #FanEdit
+Keywords: #Predictive #Programming #Animatrix #SecondRenaissance #GreatAwakening #IraqiDinar #GCR #Revaluation #SoftCensorship #FanEdit #FrankensteinMeetsTheSpaceMonster #KennedySpaceCenter #MarsNeedsWomen
 
 ---
 

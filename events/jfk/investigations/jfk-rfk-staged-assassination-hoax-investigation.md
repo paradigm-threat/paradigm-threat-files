@@ -243,7 +243,7 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 | **3** | **Motorcade geometry** ([§2.1](#21-dallas-motorcade-audit--luncheon-mission-vs-spectacle-mission)) | **Weak / hated locally** → you don't **crawl slowly** through the **most hostile downtown** in an **open car** on a **published route** **six weeks after** your UN ambassador was **physically attacked** in the **same city**, with a **hostile newspaper ad** that **morning** — **faction healing** is a **luncheon** problem; **Dealey** is a **spectacle** problem |
 | **4** | **Vietnam board (documented)** | **Hard sell** → **president “shot”** → **escalation** — **timeline fact**, not conspiracy garnish |
 | **5** | **Russia / deep-state board** | Long **anti-Russia** war arc; JFK as **Rex Bellator** war-prep; early **“Russia killed JFK”** press **rejected** → **Oswald / Warren / magic bullet** confusion layer |
-| **6** | **Dealey spectacle** | **Exploding head** read as **robot / automatronic** + blood pack — **predictive programming** lane ([§2.3 Tier A–C](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics): *Girl Hair*, *F/X*, *TDKR*, *Friday*); **witnesses can be real** while **fatal shot layer** is synthetic |
+| **6** | **Dealey spectacle** | **Exploding head** read as **robot / automatronic** + blood pack — **predictive programming** lane ([§2.3 Tier A–C](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics): *Frankenstein Meets the Space Monster*, *Girl Hair*, *F/X*, *TDKR*, *Friday*); **witnesses can be real** while **fatal shot layer** is synthetic |
 | **7** | **Forensic distraction** | **No requirement** for **shooters**, **bullets**, or **magic bullet** if kill layer is **theater** — Warren / **single-bullet** wedge **poisons** serious audit ([§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract)) |
 | **8** | **RFK parallel (Hartwell)** | **1968** pantry **same grammar** — Sirhan **decoy**, **slug size** vs **.22** — forensic wedge for **paired hoax** |
 
@@ -255,7 +255,7 @@ Start with **documented pre-Dallas pressure**, not Zapruder minutiae:
 - **Why comply:** Deep State would **continue real assassination attempts** if JFK stayed in power; **fake death** allowed **Asian war** scale-up **without** his resistance — **Vietnam escalation after Dallas** is **documented**, not speculative.
 - **Dealey Plaza** motorcade = **elaborate ruse**; **automatronic robot / mannequin** + **exploding head** timed like gunshot; **Jacqueline** and **Connally** party went along under **car-party threat**.
 - **No shooters required (thesis):** Spectacle can run **without** resolving **Oswald**, **magic bullet**, or **grassy knoll** — those are **distraction** once the **kill layer** is read as **synthetic**.
-- **Predictive programming:** Film/TV/music **robot-decoy / blood-squib / motorcade-mock / generational ridicule** grammar **prefigures** Dealey **hand-wave** read — **canonical catalog:** [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (**Tier A:** *Girl Hair* — motorcade + Tooth Fairy/Baby Tooth + **Bizarro Santa** + *“fairy tale?”* **laugh-track containment**, ***F/X***, ***TDKR***, **Rebecca Black *Friday***); **not sole proof**.
+- **Predictive programming:** Film/TV/music **robot-decoy / blood-squib / motorcade-mock / generational ridicule** grammar **prefigures** Dealey **hand-wave** read — **canonical catalog:** [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) (**Tier A:** ***Frankenstein Meets the Space Monster*** (1965) — **Kennedy Space Center** press conference, **android astronaut**, atomic-war crew with **no women**; *Girl Hair* — motorcade + Tooth Fairy/Baby Tooth + **Bizarro Santa** + *“fairy tale?”* **laugh-track containment**, ***F/X***, ***TDKR***, **Rebecca Black *Friday***); **not sole proof**.
 - **JFK as Rex Bellator** — war-prep figure (Cuba, Asia, **Russia** containment), **not** peace-icon; **Russia** framed as **world deep state** while **Washington** board escalates same war.
 - **Oswald** + **Warren Commission** **magic bullet** = **confusion / containment layer** after **“Russia did it”** failed — **mock → divide → distract** grammar parallel to [§2.2 *Friday*](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect); full audit [§2.4](#24-warren-commission--magic-bullet-containment-mock-divide-distract); CIA **1035-960** **“conspiracy theorist”** ridicule **poisons** serious audit.
 - **FBI / Secret Service negligence envelope** ([§2.5](#25-investigate--attempt--nonaction-fbi--secret-service-negligence-envelope)): **documented** repeat of **(1) agency investigates or files subject → (2) attempt proceeds → (3) no conspiracy proved, but also weak proof agencies acted on prior knowledge** — **Pavlick**, **Oswald file**, **Moore informant**, **Hinckley**, post-JFK **Ford/Reagan** lane; **Trump 2024** (**Crooks** real-time intel failure, **Routh** closed 2019 tip) — **institutional deniability** without requiring **provable FBI order**.
@@ -406,7 +406,7 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 
 **Purpose:** **Canonical list** of film/TV/music cited for the **JFK Dealey robot / exploding-head / fake-death / generational-mock** thesis in [JFK Was Never Assassinated](../jfk-was-never-assassinated.md) and **evidence ladder step 6**. **PP prefigures grammar** — **not** proof Dallas was staged.
 
-**Reply discipline:** Lead forensic skeptics with **Pavlick**, **§2.1 motorcade**, **Hartwell** — use **§2.3** when asked *“where does the robot / blood-bag / generational-mock read come from?”* **Do not** treat cartoons, action films, or viral pop as **ballistics exhibits**.
+**Reply discipline:** Lead forensic skeptics with **Pavlick**, **§2.1 motorcade**, **Hartwell** — use **§2.3** when asked *“where does the robot / blood-bag / generational-mock read come from?”* For the earliest picture of a **U.S. lifelike android** passed off as a public astronaut, cite ***Frankenstein Meets the Space Monster*** (1965) at the **Kennedy Space Center**. *Girl Hair* remains the **motorcade** cite. **Do not** treat cartoons, action films, or viral pop as **ballistics exhibits**.
 
 #### Master table (quick reference)
 
@@ -416,9 +416,10 @@ Presidents sometimes visit **unpopular** places — but **not like this**:
 | **A** | ***F/X*** (*Murder by Illusion*) | 1986 | **Public staged hit** — blanks + **radio-triggered blood squib vest**; victim enters protection **alive** | **Exploding blood bag / squib “death”** |
 | **A** | ***The Dark Knight Rises*** (opening plane hijack) | 2012 | **Live target’s blood drawn** → **transfused into age-matched corpse** → **crash wreckage** fools agency forensics | **Blood staging for investigators** |
 | **A** | **Rebecca Black — *Friday*** | 2011 | **Nov 22 = Friday**; seat / “get down” / cereal / Russian-pun meme stack; **Kickin + Bran Flakes** as poisoned hinges; **mass mockery** | **Conviction trap + generational mock** — [§2.2](#22-rebecca-black-friday-tier-a-pp--motorcade-mock-generational-disconnect) |
+| **A** | ***Frankenstein Meets the Space Monster*** | 1965 | **U.S. android** passed off as **Colonel Frank Saunders** at a **Kennedy Space Center** press conference; general against the project; atomic-war survivors who **have no women** | **Lifelike government robot as a public astronaut**, on the center named for Kennedy — [below](#5-frankenstein-meets-the-space-monster-1965) |
 | **B** | ***Scanners*** | 1981 | **Plaster/gelatin dummy head** destroyed in public (ConSec demo) — **exploding-head spectacle** | **Synthetic head destruction** (not hoax plot) |
 | **B** | ***Gravity Falls* — “A Tale of Two Stans”** | 2015 | **Dummy in car** pushed off cliff; crash/explosion **fakes death** for identity swap | **Prop body for public death record** |
-| **B** | ***Capricorn One*** | 1977 | **Empty spacecraft burns on re-entry** — world believes crew dead; astronauts alive | **Forensic death without blood** |
+| **B** | ***Capricorn One*** | 1977 | **Faked Mars mission** on a set, played as a straight thriller; empty craft burns; crew alive | **Fiction-only twin** of the 1965 fake astronaut — realistic register, still only a movie. Also **forensic death without blood** |
 | **B** | ***Assassin*** (CBS TV movie) | 1986 | **Human-looking government assassination robot** | **Synthetic killer / double grammar** |
 | **B** | ***Space Ghost C2C* — “Whipping Post”** | 2003 (aired **Nov 22**) | *“Machines were building robot babies to replace other babies. Everyone knows what happened next.”* | **Replacement + Dallas anniversary** — not explicit JFK |
 | **B** | **“Paul is dead” lore** (+ 2010 mockumentary) | 1969→ | **Lookalike replacement** after alleged fatal crash | **Double/living-star-hidden** folklore |
@@ -595,13 +596,108 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 
 **Tier:** **Author PP — Tier A** for **conviction trap + generational mock**; **not** forensic proof; Rebecca **not** assumed **culpable**.
 
+##### 5. *Frankenstein Meets the Space Monster* (1965)
+
+| Field | Detail |
+|-------|--------|
+| **Release** | 22 September 1965, Allied Artists, double bill with *Curse of the Voodoo*. Reported budget about $60,000. Filmed in Florida and Puerto Rico in 1964. Also sold as *Duel of the Space Monsters*, *Mars Invades Puerto Rico*, *Mars Attacks Puerto Rico*, and *Operation San Juan*. [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein_Meets_the_Space_Monster) |
+| **Credits** | Robert Gaffney, director. Writers R. H. W. Dillard, George Garrett, John Rodenbeck. [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein_Meets_the_Space_Monster) |
+| **Kennedy center** | Car destination credited as the **John F. Kennedy Space Center**; also Patrick Air Force Base rocket garden and the Cocoa Beach drive. [IMDb locations](https://www.imdb.com/title/tt0059199/locations/). The A1A approach is the Cocoa Beach strip of that year ([Space Coast Daily](https://spacecoastdaily.com/2013/07/throwback-thursday-video-of-a1a-cocoa-beach-in-1960s/)) |
+| **Name in law** | Executive Order 11129 (29 November 1963) designated the NASA Launch Operations Center and Station No. 1 of the Atlantic Missile Range as the **John F. Kennedy Space Center**. [National Archives](https://www.archives.gov/federal-register/codification/executive-order/11129.html) |
+| **Dialogue check** | English subtitle of the feature. The picture is the center: the drive, the press conference, and the launch. Spoken name in the car: “the Space Center.” Lines below are spoken |
+
+**Spoken arrival:**
+
+> How much longer before we reach the Space Center, Sergeant?
+
+**Press conference.** Saunders is introduced as the astronaut for a solo trip. A reporter asks about “a trip of 49 million miles” and “when you do get to Mars.” Another reporter:
+
+> Colonel, I've been covering the Space Program for quite a long time yet prior to today I never even heard of you. How do you explain that?
+
+Saunders: “I guess I'm the shy type.” The track then has “Colonel?” twice. The room is closed:
+
+> Gentlemen, the colonel wasn't kidding. He really is shy.
+
+**What is on the table.** The general, to Steele:
+
+> Doctor Steele, I've been against this project from the beginning.
+
+Steele:
+
+> We have here, for all practical purposes, a normal human being created out of normal parts transplanted except for his synthetic skin and the electronic sensory control system of course.
+>
+> But the significant factor here is that we can control him with this simple mechanism.
+>
+> His brain can record the data that we need and transmit it to us.
+
+The general says they have plenty of good men willing to risk their lives in space. Steele:
+
+> Exactly. Risk their lives. Well why risk one? We can learn all we need to know about extended space travel without the loss of a solitary life. That's the whole point, General. Besides that, we don't have to contend with the possibility of human error.
+
+The general:
+
+> That's fine, Steele. Well what if the machine breaks? Or something goes wrong with his brain?
+
+At liftoff a reporter says “Great day for the United States of America.” The general, to Steele: “Let's hope your creation doesn't fall apart.”
+
+**After the capsule is shot down:**
+
+> An astro-robot without a control system.
+
+The reply in the room: “What you're saying is that he could turn into a Frankenstein.” At the repair, Adam to Karen:
+
+> Remember, he's a robot, not a man, Karen.
+
+**The other plot.** The princess (credited as Princess Marcuzan) to her crew:
+
+> Of course you all know why we left our planet home so suddenly. As a result of the recent atomic war, it was determined unfit for further habitation. At least until the radiation level decreases.
+
+Dr. Nadir:
+
+> The lucky ones are dead. Of the others, some will go mad. The others will slowly rot away and die in gradual agony. We have won the war. We are the sole survivors. It belongs to us. But it means that we are extinct as a race unless, of course, we can find some good breeding stock and repopulate our planet.
+
+The princess:
+
+> We have won the war but we have no women. We have come here to this planet for one purpose only. To acquire breeding stock to repopulate our planet.
+>
+> Capture of the Earth women.
+
+“It belongs to us” comes right after “we have won the war” and “we are the sole survivors.” The next order is the capture of women.
+
+**Author (2026-11-18)**
+
+> I never said the movie would show a robot president. That would give away too much. Nothing in this investigation looks for a smoking gun like that. We look for patterns, and this pattern is too hard to ignore. It lines up with too much, and the message is deliberate. All the things in the movie are supposed to be dismissed as science fiction. The hokiness, done in the Ed Wood style, lends itself to that outcome. So does the topic. Most women watching will feel alienated from a science-fiction genre that treats them like objects to be captured and bred on another planet.
+
+> Anyone can watch this movie and see a general supporting a deception of a fake astronaut human, and might assume that the robot is possible and that it is run by the persistent layer of government — unelected, and lasting through many presidential administrations. There was little reason, beyond the science-fiction genre, for anyone at the time to debunk or disbelieve this kind of technology. It could have been presented in a real fashion by a real authority: a reanimated corpse, using an electric-impulse system, remotely controlled. Instead it was presented in a hokey movie, and for that reason we are told that such technology is not possible, or just made up, imaginary. In the 1950s, people did not automatically think that any of this technology was not real. This is very similar to *Capricorn One* (1977), which showed the faking of a Mars mission in a very realistic sense, but is meant to be taken as fiction only.
+
+The pattern has four parts, and they are all in this one picture. A U.S. program puts a lifelike robot in front of reporters and calls him an astronaut. The stage is the Kennedy Space Center, and it takes up the Earth half of the movie. The other half is a recent atomic war and a crew that has no women and comes to capture Earth women for breeding. The general has been against the project from the beginning. The case is that pattern: the robot, the center that already carries his name, and a story built to be thrown out.
+
+Two things in the picture train the audience to throw it out. One is the surface. Allied Artists opened it on a double bill with *Curse of the Voodoo*, on a reported budget of about $60,000, under a Frankenstein title. That is the Ed Wood manner already filed for *Plan 9*: a picture people are ready to call junk, with a plot that is doing work. See [Ed Wood and Plan 9](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md). The other is the breeding raid. Women in the audience are shown a genre that takes them as bodies to capture and breed on another planet. Many of them want nothing to do with that genre. Once the audience has laughed the movie off, the robot, the center, and the ruined planet go with it. The same breeding shelf is the [Mars needs women investigation](/influence/predictive_programming/investigations/mars-needs-women-recent-cataclysm-investigation.md), the [Mars page](/cosmos/mars/page.md), and the 1967 title *Mars Needs Women* in the [predictive-programming catalog](/influence/predictive_programming/page.md). The astronaut in this picture is assigned to Mars. The alternate titles put Mars in the name. The alien speech says atomic war, “we have no women,” and “Capture of the Earth women.”
+
+| Pattern | Record |
+|---------|--------|
+| Lifelike U.S. robot passed off as a public astronaut | **Dialogue.** Synthetic skin, electronic control, remote brain link, press conference, “he's a robot, not a man.” The known film shelf of the same deception is [lifelike human robots](lifelike-human-robot-deception-investigation.md). |
+| Kennedy Space Center is the stage, and it is a large part of the Earth plot | **Picture and location.** Drive, conference, launch. [IMDb](https://www.imdb.com/title/tt0059199/locations/). The center’s name was already law under [EO 11129](https://www.archives.gov/federal-register/codification/executive-order/11129.html). Spoken words in the car: “the Space Center.” |
+| A general is inside the fake-astronaut deception | **Dialogue.** He says he has been against the project from the beginning, and he is still the general when the press is told the robot is a shy colonel and the machine is launched. **Author:** that is support a viewer can see. The office is unelected and outlasts any one president. The film shows that standing layer running the robot. |
+| The body on the table could have been stated as a real capability | **Dialogue.** Transplanted parts, synthetic skin, an electronic sensory control, a simple mechanism, a brain that records and transmits. **Author:** that is a reanimated corpse on a remote electric impulse. A real authority could have said so in plain clothes. In the 1950s and at this 1965 release, audiences did not already treat that hardware as automatically imaginary. The hokey bill is what later teaches “made up.” |
+| Atomic war, no women, Earth women as breeding stock | **Dialogue.** “We have no women.” “Capture of the Earth women.” |
+| Mars needs women | **Pattern.** The astronaut is going to Mars. The alternate titles say Mars. The speech is the breeding raid. Film list and the recent-cataclysm gate: [Mars needs women](/influence/predictive_programming/investigations/mars-needs-women-recent-cataclysm-investigation.md). |
+| Cheap science fiction is how the pattern gets dismissed | **Author.** Ed Wood hokiness and a plot that treats women as capture-and-breed objects. Women are the viewers most likely to walk away from the genre, and the robot and the center go with that walk-away. The genre label is the debunk. |
+| *Capricorn One* (1977) is the straight-played twin | **Author pair.** A faked Mars mission, shot as a realistic thriller, still marked fiction only. [Wikipedia](https://en.wikipedia.org/wiki/Capricorn_One). The 1965 picture does the fake astronaut in the cheap register. The 1977 picture does the fake Mars mission in the realistic register. Both tell the audience it is only a movie. |
+
+The general’s own line is “I've been against this project from the beginning.” He then asks why good men are not flying, and what happens if the machine or the brain fails. The press conference and the launch still happen with him there. At liftoff he tells Steele, “Let's hope your creation doesn't fall apart.” A viewer does not need a speech in favor of lying. The viewer sees the uniform of the program in the room while a robot is introduced as a man. That uniform is the persistent layer: unelected, and still there after presidents change. Steele’s hardware is the part a 1965 authority could have described without a monster title. “Normal parts transplanted,” “synthetic skin,” “electronic sensory control,” a mechanism that controls him, a brain that records and transmits. The author’s name for that package is a reanimated corpse on a remote electric impulse. The same electric-body shelf is already filed for [Ed Wood / *Plan 9*](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md). The hokey double bill is the reason a later audience is told the package is imaginary. The author does not grant that a 1950s audience already believed that.
+
+[*Capricorn One*](https://en.wikipedia.org/wiki/Capricorn_One) (1977) is the later picture in the realistic register. NASA fakes a Mars mission on a set. The crew is alive. The empty craft is what the public gets. It is played as a straight thriller, and it is still only a movie. The 1965 picture and the 1977 picture split the tone and keep the instruction: government can fake the man in the Mars program, and you are to take that as fiction.
+
+**Tier:** **Author PP — Tier A** for that pattern: government android, Kennedy center, breeding raid, cheap monster bill, genre label as the debunk. *Girl Hair* remains the motorcade cite. *F/X* and *The Dark Knight Rises* remain the blood cites. *Capricorn One* stays Tier B as the realistic fiction-only twin.
+
 #### Tier B — adjacent (spectacle, JFK rhyme, identity swap)
 
 | Work | Why listed | Source |
 |------|------------|--------|
 | ***Scanners*** (1981) | Iconic **public exploding head** on dummy — assassination **spectacle** grammar | [Wikipedia](https://en.wikipedia.org/wiki/Scanners) |
 | ***Gravity Falls* — “A Tale of Two Stans”** (2015) | **Dummy driven off cliff**; crash **fakes Stanley Pines’ death** for identity takeover | [GF wiki](https://gravityfalls.fandom.com/wiki/A_Tale_of_Two_Stans) |
-| ***Capricorn One*** (1977) | **Empty craft destroyed on re-entry** — believed-dead crew | [Wikipedia](https://en.wikipedia.org/wiki/Capricorn_One) |
+| ***Capricorn One*** (1977) | **Faked Mars mission**, played straight, still marked fiction only; empty craft destroyed; crew alive. Pair with the 1965 hokey android at the Kennedy center | [Wikipedia](https://en.wikipedia.org/wiki/Capricorn_One); [§2.3 item 5](#5-frankenstein-meets-the-space-monster-1965) |
 | ***Assassin*** (1986 TV) | **Human-indistinguishable robot** assassinates officials | [NYT review](https://www.nytimes.com/1986/03/19/arts/assassin-a-cbs-movie-about-a-killer-robot.html) |
 | ***Space Ghost C2C* — “Whipping Post”** (2003-11-22) | Robot **replacement** monologue on **Dallas anniversary** | [snard.com ep. 84](https://www.snard.com/sg/guide/?ep=84&fmt=2) |
 | **“Paul is dead”** | **Lookalike replacement** after alleged crash — pre-TV **double folklore** | [Wikipedia](https://en.wikipedia.org/wiki/Paul_is_dead) |
@@ -612,7 +708,7 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 
 #### Tier B2 — discourse lanes (same thesis neighborhood — not PP exhibits)
 
-**Purpose:** Map **where else** robot-double / surviving-JFK talk lives — so reply discipline can **use** or **refuse** each lane without confusing them with Tier A (*Girl Hair*, *F/X*, *TDKR*, *Friday*).
+**Purpose:** Map **where else** robot-double / surviving-JFK talk lives — so reply discipline can **use** or **refuse** each lane without confusing them with Tier A (*Frankenstein Meets the Space Monster*, *Girl Hair*, *F/X*, *TDKR*, *Friday*).
 
 | Lane | Core claim | Fit to site thesis | Reply discipline |
 |------|------------|--------------------|------------------|
@@ -641,6 +737,9 @@ Source: [“The Accidental Assassination? Book Adds Twist to JFK Theories,” *W
 |-------|------|
 | Mainstream film/TV/music **taught audiences** robot-decoy, blood-squib, **motorcade-mock**, and **generational ridicule** grammar before and after Dallas | **Pattern** — **Tier A** titles dated |
 | **Girl Hair** line is **verbatim** match for **“robot built to look like me”** decoy thesis | **Citable** — [snard transcript](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
+| ***Frankenstein Meets the Space Monster*** (1965) puts a **U.S. android** in front of reporters as **Colonel Frank Saunders**, at the **Kennedy Space Center**, and states the **no-women / Earth breeding-stock** plot in dialogue | **Citable** — film dialogue in [§2.3 item 5](#5-frankenstein-meets-the-space-monster-1965); location [IMDb](https://www.imdb.com/title/tt0059199/locations/); center name [EO 11129](https://www.archives.gov/federal-register/codification/executive-order/11129.html) |
+| The **message is the pattern**, and the **Ed Wood surface** plus the **breeding raid** are how the audience is trained to dismiss it. An on-screen robot president would give the method away | **Author** — [§2.3 item 5](#5-frankenstein-meets-the-space-monster-1965). Same hokey-picture / working-plot shelf as [Ed Wood / *Plan 9*](/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation.md) |
+| A **general in the room** while a robot is passed off as an astronaut shows the **unelected lasting layer** running a **remote-controlled body**. The hokey bill is why that body is later called imaginary. ***Capricorn One*** plays the faked Mars mission straight and is still only a movie | **Author** — dialogue is the general’s objection plus the launch; hardware lines are transplanted parts, synthetic skin, electronic control. *Capricorn One* plot: [Wikipedia](https://en.wikipedia.org/wiki/Capricorn_One) |
 | **Girl Hair** **Phantom Cruiser** ↔ **Dealey motorcade** (moving-car kill platform) | **Author rhyme** — vehicle + witnesses + decoy reveal |
 | **Girl Hair** **Tooth Fairy** ↔ **Baby Tooth Survey** / Kennedy PTBT lane | **Documented** survey + treaty link; **author** = Kennedy-adjacent mask (nickname **not** required) |
 | **Girl Hair** **Bizarro Santa** — children’s teeth for **“bizarre and twisted”** toys; **not** the Santa everyone knows | **Citable** plot ([snard](https://www.snard.com/sg/guide/?ep=71&fmt=2)); **author** = surviving JFK alter / Rex Bellator under Camelot brand |
@@ -1442,7 +1541,8 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Dan Moldea, *The Killing of Robert F. Kennedy* (1995; **50th ann. ed. 2018**) | Thane Cesar MMO — Hartwell’s cited source for [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026) |
 | [Epstein staged death](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) | Later **public death ≠ exit** precedent |
 | Rebecca Black — **“Friday”** (2011) | **§2.2 / §2.3 Tier A** — motorcade mock, generational disconnect; **not** ballistics evidence |
-| **§2.3 PP media catalog** | **Canonical list** — *Girl Hair*, *F/X*, *TDKR*, Tier B–C table; [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) |
+| **§2.3 PP media catalog** | **Canonical list** — *Frankenstein Meets the Space Monster*, *Girl Hair*, *F/X*, *TDKR*, Tier B–C table; [§2.3](#23-predictive-programming-media-catalog-robot-decoy--blood-forensics) |
+| ***Frankenstein Meets the Space Monster*** (1965) | **§2.3 Tier A** — android astronaut at the Kennedy Space Center; atomic-war crew with no women. [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein_Meets_the_Space_Monster); [IMDb locations](https://www.imdb.com/title/tt0059199/locations/); [EO 11129](https://www.archives.gov/federal-register/codification/executive-order/11129.html) |
 | ***Space Ghost C2C* — “Girl Hair”** transcript | **§2.3 Tier A** — [snard.com ep. 71](https://www.snard.com/sg/guide/?ep=71&fmt=2) |
 | **Baby Tooth Survey** | **§2.3 Girl Hair** Tooth Fairy encode — [Wikipedia](https://en.wikipedia.org/wiki/Baby_Tooth_Survey); [Smithsonian — Tooth Fairy goes scientific](https://americanhistory.si.edu/explore/stories/tooth-fairy-goes-scientific) |
 | ***F/X*** (1986) | **§2.3 Tier A** — [Wikipedia](https://en.wikipedia.org/wiki/F/X) |
@@ -1502,6 +1602,7 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | File | Link |
 |------|------|
 | JFK essay | [../jfk-was-never-assassinated.md](../jfk-was-never-assassinated.md) |
+| Lifelike human robots | [lifelike-human-robot-deception-investigation.md](./lifelike-human-robot-deception-investigation.md) |
 | JFK survival tabloid CO | [jfk-survival-tabloid-controlled-opposition-investigation.md](./jfk-survival-tabloid-controlled-opposition-investigation.md) |
 | Downard tribute | [../prophet.md](../prophet.md) |
 | Staged death / suspended animation | [epstein-death-escape](../../false_flag/investigations/epstein-death-escape-suspended-animation-bloodline-investigation.md) |
@@ -1509,9 +1610,9 @@ Not **total defeat** of the script — **partial** **institutional antibodies** 
 | Good-actor / NSA antibody | [good-actor-theory-interagency-antibody](../../false_flag/investigations/good-actor-theory-interagency-antibody-investigation.md) |
 | NSA / Ellsberg / Tonkin | [nsa-investigation](/governance/war/investigations/nsa-investigation.md) |
 
-Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #BizarroSanta #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #WeeklyWorldNews #Tabloid #ControlledOpposition #ParadigmThreatFiles
+Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath #AnnouncedDead #DeathPackageEpistemics #DisclosureEnvelope #ContradictionsAsMethod #MarilynMonroe #DorothyKilgallen #WarrenCommission #MagicBullet #Salandria #CounteringWarrenReport #AmbassadorHotel #Hartwell #RebeccaBlack #Friday #PredictiveProgramming #GirlHair #SpaceGhost #ToothFairy #BabyToothSurvey #BizarroSanta #PhantomCruiser #FX #DarkKnightRises #RobotDecoy #BloodSquib #FrankensteinMeetsTheSpaceMonster #KennedySpaceCenter #AstroRobot #MarsNeedsWomen #BusinessPlot #Pavlick #PresidentialPrecedents #Nixon #Watergate #BIDENAct #25thAmendment #Autopen #InvestigateAttemptNonaction #FBIAssassinationEnvelope #TargetListIntimidation #CongressionalBaseballShooting #RogueDeepState #MotiveInversion #Chappaquiddick #TedKennedy #MaryJoKopechne #WeeklyWorldNews #Tabloid #ControlledOpposition #ParadigmThreatFiles
 
-**Last updated:** 2026-08-20 (Tier B2 + Related: WWN / supermarket JFK-alive tabloid CO dossier)
+**Last updated:** 2026-11-18 (*Frankenstein Meets the Space Monster* in §2.3; film shelf in [lifelike human robots](lifelike-human-robot-deception-investigation.md))
 
 ---
 
@@ -1525,4 +1626,4 @@ Keywords: #JFK #RFK #Kennedy #Sirhan #ThaneCesar #StagedAssassination #FakeDeath
 
 ---
 
-*Investigator notes: Hartwell — [deanhartwell.weebly.com](https://deanhartwell.weebly.com/), *Who Shot RFK* (2025) via [Substack @pwp911](https://substack.com/@pwp911), [Thane Cesar Did Not Shoot RFK](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) (Jul 15, 2026) → [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026); local mirror `~/dev/wget/hartwell/`; Hunt 2022; NARA RFK 2025 paths in Hartwell pamphlet.*
+*Investigator notes: Hartwell — [deanhartwell.weebly.com](https://deanhartwell.weebly.com/), *Who Shot RFK* (2025) via [Substack @pwp911](https://substack.com/@pwp911), [Thane Cesar Did Not Shoot RFK](https://deanhartwell.weebly.com/essays/thane-cesar-did-not-shoot-rfk) (Jul 15, 2026) → [§3.0](#30-thane-cesar--hartwell-clears-secondgun-lane-jul-2026); local mirror `~/dev/wget/hartwell/`; Hunt 2022; NARA RFK 2025 paths in Hartwell pamphlet. **2026-11-18 Space Monster dialogue check:** English subtitle and English auto-generated subtitle, both DownSub tracks on the author machine under `/media/ari/HD/Downloads/` with the feature title in the filename. Neither track contains “Kennedy” or “Canaveral.” Quotes in §2.3 item 5 are from the English track. Do not move those paths into the body.*
