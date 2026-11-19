@@ -57,6 +57,7 @@
     "Savannah",
     "F15E",
     "Trump",
+    "Dumocrats",
     "LindseyGraham",
     "Biden",
     "Reagan",
