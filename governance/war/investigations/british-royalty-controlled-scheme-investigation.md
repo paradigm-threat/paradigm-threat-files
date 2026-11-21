@@ -214,7 +214,7 @@ Soft history pretends “control of the royals” is a conspiracy pamphlet. The 
 |------|--------|----------------------------|-------------|
 | **1936** | **Edward VIII** | Abdicates; becomes Duke of Windsor; **leaves** for Continent / later Bahamas post | Opposition (or unusable face) **removed from the island court**. Marriage pretext = **legible cancel reason** (High Poppy table). |
 | **1955 / 1978** | **Princess Margaret** | Peter Townsend blocked; later divorce from Snowdon | Household **marriage board** still operating after 1772 statute |
-| **1992–97** | **Diana** | “Annus horribilis”; divorce; dies in Paris **1997** | Inner-court oust then **permanent removal**. Soft: accident. Author: too-popular nationalist-adjacent face vs Firm — **open**, not closed murder file here |
+| **1992–97** | **Diana** | “Annus horribilis”; divorce; dies in Paris **1997** | Inner-court oust then **permanent removal**. Soft: accident. Author: too-popular face vs Firm — **open**. Cause, murder story, and the alienation read are in the [Diana dossier](/events/diana/investigations/princess-diana-death-alienation-investigation.md) (**AU-090**) |
 | **2019–22** | **Andrew** | Epstein interview; stripped of military titles / HRH use **2022** | Kompromat face **parked** while the brand continues |
 | **2020** | **Harry & Meghan** | Step back from working royal duties; **leave the UK** for North America (“Megxit”) | **The visible opposition split.** Forced out of royalty **and** country — Author’s specimen |
 | **2025-10-30 / Letters Patent 2025-11-03** | **Andrew Mountbatten Windsor** | Charles strips **prince** title and HRH; eviction from Royal Lodge ([Reuters](https://www.reuters.com/world/uk/king-charles-strips-brother-andrew-titles-his-home-2025-10-30/); [Gazette / BBC](https://www.bbc.co.uk/news/articles/cvgmkm8516ko)) | Firm **discards** a brother to protect the remaining compromised court. Agenda > blood. |
@@ -470,7 +470,7 @@ Same operator: **someone changes the timeline overnight**. The public is not all
 | **Q1** | Exact Fomenko **vassal / vicegerent** wording vs paraphrase | Chron4 English chapters + [en_history](https://chronologia.org/en/en_history/index.html) full pull-quotes |
 | **Q2** | Did any **primary** English chronicle call the king a **Russian** subordinate in those words? | Chronicle corpus vs NC reading |
 | **Q3** | Surrogacy / faked-pregnancy claims — **quality-press** vs forum-only? | AU-048 rumor rule audit (denials, lawsuits, tabloid vs broadsheet) |
-| **Q4** | Diana: accident vs Firm removal | Inquest record vs Author open — **do not** close this file on rumor |
+| **Q4** | Diana: accident vs Firm removal | Spun out to [Diana death / alienation](/events/diana/investigations/princess-diana-death-alienation-investigation.md) (**AU-090**). Inquest record vs Author open — **do not** close either file on rumor |
 | **Q5** | Churchill camp — keep **Nationalist (failed)** or move **Globalist war OS**? | Author lock pass |
 | **Q6** | Truss 2022 overnight kill (§11.2): gilt/LDI as **board** analogue — **named** City/BoE/party actors beyond Hunt/Kwarteng | OBR, BoE minutes, LDI manager filings, 1922 Committee letters |
 | **Q7** | Farage as **Nationalist (failed) near-miss** vs Angry Bird | AU-046 near-miss bars applied to UK |
@@ -519,12 +519,13 @@ Same operator: **someone changes the timeline overnight**. The public is not all
 | [Celebrity slavery](/influence/suppression/investigations/celebrity-modern-slavery-containment-creative-control-investigation.md) | G2 private-life control |
 | [Helen Mirren (AU-082)](/influence/conspiracy/celebrities/helen-mirren.md) | Performer of the dignified Elizabeth mask (*The Queen*, *Elizabeth I*, *The Audience*) and of Catherine; Smolensk grandfather stranded in 1917. Author: a Russian house playing any British queen is the obvious rhyme, and Elizabeth I is the breakaway royal the Tudor break filed as purely English |
 | [Designed from birth](/influence/suppression/designed-from-birth.md) | Nursery leash |
+| [Princess Diana — crash, murder story, alienation](/events/diana/investigations/princess-diana-death-alienation-investigation.md) | **AU-090.** Q4’s death, pulled out: inquest, note, Al-Fayed, *2012*, *The Office*, lament as the isolation |
 | [Author-unique theories](/history/chronology/investigations/author-unique-theories.md) | **AU-049** |
 | [site-claims.json](/site-claims.json) | `british-royalty-controlled-scheme` · `liz-truss-observable-deep-state` |
 
 Keywords: #BritishRoyalty #ControlledScheme #RexBellator #CharlesIII #Coronation #JamesBond #WokeScapegoat #Fomenko #NewChronology #HordeVassal #HouseOfWindsor #Bagehot #Megxit #PrinceHarry #MeghanMarkle #PrinceAndrew #EdwardVIII #Diana #CompromiseMath #ReverseCrusades #BritishEmpire #ProtestantIntel #NewWorldOrder #LizTruss #OvernightFateChange #ObservableDeepState #Brexit #PresidentialAlignment #AU049 #ParadigmThreatFiles
 
-*Last updated: 2026-10-25*
+*Last updated: 2026-11-21*
 
 ---
 
@@ -537,7 +538,7 @@ Keywords: #BritishRoyalty #ControlledScheme #RexBellator #CharlesIII #Coronation
 - **Bagehot, statutes, abdication, Megxit, Andrew 2025 Letters Patent, Head of the Armed Forces, 6 May 2023 coronation military rites, Navy prerogative** are **documented**. “Controlled scheme since Horde detach,” **Rex Bellator sin-bearer**, **NWO-return**, and **Bond/woke scapegoat** are **Author synthesis**.
 - **Rex Bellator** is **not** the AU-046 **antibody sin-eater**. Do not merge those hinges.
 - **Surrogacy / faked-pregnancy** claims are **circulating accusations**, not a finding of this file. Do not promote them to birth-certificate fact. They enter as **control-weather** under the AU-048 rumor rule.
-- **Diana’s death** stays **open** — documented death, Author removal-suspicion, **no** closed homicide claim here.
+- **Diana’s death** stays **open** — documented death, Author removal-suspicion, **no** closed homicide claim here. The crash, the murder story, and the alienation read are [AU-090](/events/diana/investigations/princess-diana-death-alienation-investigation.md).
 - **PM scorecard (§11)** is a **first-pass overlay**, not a wall-chart lock. Churchill / Thatcher / Johnson rows are the weakest. **Truss Nationalist (failed)** is locked on **attempt + overnight removal**, not a Jefferson-class keep-word badge. Remain 2016 is **documented contrast**, not a silent debunk.
 - **Truss clock, BoE gilt/LDI operations, 49-day premiership** are **documented**. **Weaponized crash, blame-script, desperate overnight scheme, Brexit sibling, teaching-case elevation** are **Author**. Soft history’s “unfunded tax cuts crashed the economy” is the caption this file treats as the kill, not the cause. **Claim 14** (Truss as corpus reference for observable deep-state control) is Author lock, not a claim that every board-kill looks like 49 days.
 - **Reverse crusade numbering** vs “third and fourth world war” is **label variance**; motive lock is Russia-erase, not the integer.

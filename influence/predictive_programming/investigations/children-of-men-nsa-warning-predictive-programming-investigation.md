@@ -57,7 +57,7 @@
 
 | Beat | On-screen (short) | Why it matters here |
 |------|-------------------|---------------------|
-| Global infertility | No births ~18 years; Baby Diego death opens film | Depopulation premise |
+| Global infertility | No births ~18 years; Baby Diego death opens film | Depopulation premise. The **1992** novel already kills Joseph Ricardo in a Buenos Aires pub brawl. The **2006** news voice adds lifelong celebrity, a refused autograph, and a fan. Author cross-read to Diana and to Lennon is in the [Diana file §7.4](/events/diana/investigations/princess-diana-death-alienation-investigation.md) |
 | “Only Britain soldiers on” | Propaganda / news texture; world collapsed into chaos | Fortress state |
 | Café bombing (cold open) | Blast after news of Diego | Terror as weather |
 | **Quietus** | Govt-issued suicide kit ads (“You Decide When”) | State-managed exit |
@@ -278,10 +278,11 @@ With Emmanuel Lubezki: no close-up privilege for hero over environment; minimize
 | [*Echos of Jade Helm*](/governance/war/echos-of-jade-helm.md) | Reader article — the year, and the novel as cover |
 | [*The Big Surprise*](/governance/constitution/the-big-surprise.md) | Reader article — 2027 holy war; points at §3.7 |
 | [Trump-era Hollywood PP](/influence/hollywood/trump-era-hollywood-political-media-investigation.md) | Later scorecard neighbors |
+| [Princess Diana — alienation](/events/diana/investigations/princess-diana-death-alienation-investigation.md) | Author (**AU-090**): post-1997 Crown weathers the public and bunkers in this film’s split. **21 Nov 2026:** Baby Diego’s fame, the fan, and the autograph are his closer allusion to her, and to a Lennon shooting he does not take as real |
 
 ---
 
-*Last updated: 2026-11-14 (§3.7 no literary parent; novel as cover; legible when the film is nearly finished)*
+*Last updated: 2026-11-21 (Baby Diego news voice; novel bar-fight is 1992; celebrity, autograph, and fan are the film’s). Prior: 2026-11-14 (§3.7 no literary parent; novel as cover; legible when the film is nearly finished)*
 
 Keywords: #ChildrenOfMen #AlfonsoCuaron #PredictiveProgramming #NSA #FalseFlag #Depopulation #Immigration #Quietus #ArkOfTheArts #BookCover #NoLiteraryParent #ParadigmThreatFiles #Hollywood #NineEleven
 

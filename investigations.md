@@ -34,6 +34,7 @@ Master list of dossiers and reader essays on this park. Browse by folder in the 
 * [Netanyahu faked death / controlled visibility](/events/false_flag/investigations/netanyahu-faked-death-shiva-rumors-investigation.md) - Appearance log, Congress falsifier, Graham funeral epistemology.
 * [Ariel Sharon - Gaza, coma, British/CO threads](/events/false_flag/investigations/ariel-sharon-gaza-coma-controlled-opposition-investigation.md) - Author thesis: 2004-2006 Epstein-network revelation window, Bush letter "bullseye," Cruz/Bibi echoes, Bushes as wedges; Gaza || Iran/Iraq/Libya; sourced history and review questions.
 * [JFK survival tabloids — WWN CO leaks](/events/jfk/investigations/jfk-survival-tabloid-controlled-opposition-investigation.md) - Blurry “JFK alive” covers as mockery/hardening; colonization of the death-hoax claim; Pope CIA psych-warfare adjacency.
+* [Princess Diana — crash, murder story, or the alienation](/events/diana/investigations/princess-diana-death-alienation-investigation.md) - Comment on the JFK essay; 2008 unlawful-killing verdict; note and Al-Fayed; *2012* tunnel; *The Office* “Diana was nothing”; **AU-090**.
 * [Trump, historic antibodies, dynasty thesis](/events/trump/index-trump-investigation.md) - Trump as antibody / "uncompromised elite" political-media reading.
 
 #### Governance & slavery
@@ -53,7 +54,7 @@ Master list of dossiers and reader essays on this park. Browse by folder in the 
 * [American Revolution](/governance/war/investigations/american-revolution-investigation.md) - Atlantic context; a small piece of a larger puzzle.
 * [British Civil War](/governance/war/investigations/british-civil-war-investigation.md) - Societized consolidation; template for Western governance.
 * [British Empire Divide-and-Conquer](/governance/war/investigations/british-divide-conquer-israel-investigation.md) - Israel, India/Pakistan, Africa; deep-state hypothesis.
-* [British royalty as a controlled scheme](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) - Horde-vassal floor; Protestant denial; oustings as power plays; **Liz Truss 49 days as observable deep-state reference**; AU-046 rocking; **AU-049**.
+* [British royalty as a controlled scheme](/governance/war/investigations/british-royalty-controlled-scheme-investigation.md) - Horde-vassal floor; Protestant denial; oustings as power plays; **Liz Truss 49 days as observable deep-state reference**; AU-046 rocking; **AU-049**. Diana’s death is [AU-090](/events/diana/investigations/princess-diana-death-alienation-investigation.md).
 * [*Call of Duty: Modern Warfare*](/governance/war/investigations/call-of-duty-modern-warfare-original-vs-reboot-militainment-investigation.md) - Original trilogy vs soft reboot; militainment; Iran-Russia framing.
 * [CIA](/governance/war/investigations/cia-investigation.md) - OSS rebrand, Nazi gold, Iran pipeline, 9/11, antibody thesis.
 * [NSA - SIGINT antibody, Tonkin, *Tron*](/governance/war/investigations/nsa-investigation.md) - MINARET / Church; Hanyok Tonkin fight; *Tron* watchdog allegory.
