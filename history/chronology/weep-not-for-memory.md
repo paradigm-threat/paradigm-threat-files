@@ -8,7 +8,7 @@ The three paths are the truth, the fiction, and the power that comes from knowin
 
 > **TL;DR:** Teaching a true history cuts the person who says it. Putin told Emir Kusturica that Moscow is the Third Rome, and a fourth there shall not be, and he left the years off. He has not subscribed to Fomenko's New Chronology. The school dates were set in 1583 and 1627 by men who were arguing with each other, and the other account of the Horde stays unsaid. These topics were lesser known, and a hollow Earth or a civilization on Mars already drew the same dismissal. Right now the truth does more damage than good, from bad people and from good people who will not pay the cost. The peace they are waiting on is still not here.
 
-Putin told Emir Kusturica that Moscow is the Third Rome, and that a fourth there shall not be. It inspired me to write an article about the dangers of true history.
+Putin’s remark to the filmmaker is what got me writing about the cost of saying the rest.
 
 ## This morning
 
