@@ -5,7 +5,7 @@
 **Status:** Open (active build-out of verification ladder and tooling goals)  
 **Scope:** What can be checked *now* with public or mirrored material; what would be required for *full* replication; access barriers for Western researchers; classification; a lay-readable case for why the *statistical layer* deserves scholarly attention (without asserting that global conclusions are proven).
 
-**Related:** [Illig–Fomenko boundary](/history/chronology/investigations/illig-fomenko-boundary.md); [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md); [Rus–Horde lexicon (open)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md). **Local mirror index:** `~/dev/wget/investigations/chronology/index-chronologia.md` (chronologia.org snapshot); live site [chronologia.org](https://chronologia.org/en/index.html).
+**Related:** [Political leaders, Third Rome, and the sin-eater parallel](/history/chronology/investigations/political-leaders-new-chronology-third-rome-sin-eater-investigation.md) (speech and strategy; not this file’s fact-check); [Illig–Fomenko boundary](/history/chronology/investigations/illig-fomenko-boundary.md); [Two branches: Fomenko vs author](/history/chronology/investigations/two-branches-christianity-fomenko-vs-author.md); [Rus–Horde lexicon (open)](/history/chronology/investigations/rus-horde-english-political-lexicon-speculation.md). **Local mirror index:** `~/dev/wget/investigations/chronology/index-chronologia.md` (chronologia.org snapshot); live site [chronologia.org](https://chronologia.org/en/index.html).
 
 ---
 
