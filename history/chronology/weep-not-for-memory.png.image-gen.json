@@ -1,0 +1,12 @@
+{
+  "prompt": "Wide cinematic documentary painting, 16:9, photorealistic. Exact center: a huge double-bitted battle axe planted upright. The axe head is symmetric, with one broad curved steel blade pointing left and a matching broad curved steel blade pointing right. No flat hammer side. No engravings, no runes, no letters, no numbers on the steel or the wooden haft. Left half: ordinary people fighting in a street, grappling and striking, some on the ground, blood on the cobbles, no banners, no flags, no signs. Right half: people at ease together, many cultures, a market, a growing city, spacecraft in a clear sky. No words, no letters, no numbers, no newspapers, no logos, no watermark, no captions.",
+  "model_id": "Tongyi-MAI/Z-Image-Turbo",
+  "seed": 33911,
+  "source_md": "history/chronology/weep-not-for-memory.md",
+  "slot": "hero",
+  "aspect": "hero",
+  "width": 2048,
+  "height": 1152,
+  "created_at": "2026-11-21T14:34:20.332837+00:00",
+  "prompt_hash": "9ccd21697d9c0b07"
+}
