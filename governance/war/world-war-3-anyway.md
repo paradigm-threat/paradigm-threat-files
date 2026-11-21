@@ -312,7 +312,9 @@ The strong part a reader can check without accepting the reading is the sequence
 
 Keywords: #WorldWarIII #WorldWarZero #Napoleon #SecretWar #McKinley #SecretService #CIA #WorldWarI #WorldWarII #PearlHarbor #Firebombing #Dresden #DepletedUranium #Radiation #NuclearHalfHoax #DeepStateInfluence #Tolkien #RedBook #CSLewis #RusHorde #Tartaria #GreatDepression #Ukraine #Russia #Iran #Oil #Israel #Europe #AndyBurnham #Germany #France #LePen #Croatia #FriedrichMerz #Wehrdienst #NATO #AbuDhabi #MelaniaTrump #Conscription #Busification #Minsk #Savannah #F15E #Trump #Dumocrats #LindseyGraham #Biden #Obama #ShadowPresident #Reagan #SinEater #TrumpDerangementSyndrome #ParadigmThreatFiles
 
-**Last updated:** 2026-11-20T10:43:52-05:00
+**Substack:** [paradigmthreat2.substack.com/p/world-war-3-anyway](https://paradigmthreat2.substack.com/p/world-war-3-anyway)
+
+**Last updated:** 2026-11-21T07:56:14-05:00
 
 ---
 
