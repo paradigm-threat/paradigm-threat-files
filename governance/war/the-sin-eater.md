@@ -1,10 +1,10 @@
 # The Sin Eater
 
-*“we take the moral excrement we find … and we bury it … so that the rest of our case can stay pure”*
+*“we take the moral excrement we find … and we bury it … so that the rest of our cause can stay pure”*
 
-![The Sin Eater — moral dirt buried so the case can stay pure; Libya gold war; Iran endgame](https://paradigmthreat.net/governance/war/the-sin-eater.png)
+![The Sin Eater — moral dirt buried so the cause can stay pure; Libya gold war; Iran endgame](https://paradigmthreat.net/governance/war/the-sin-eater.png)
 
-> **TL;DR:** A **sin eater** works with the same tools as the enemy—terror, deception, espionage, starving resources—so the rest of the case can stay pure. **NSA-aligned** antibodies take that dirt; **CIA-camp** operations light hard-money threats that force the smash. After **Nixon 1971**, gold-settlement rivals became a kill-for hill: Iraq, Afghanistan, then **Libya** (gold dinar / African settlement ambition). Libya was a **CIA bluff** that forced the military smash, removed Gaddafi, and left African chaos the Agency could rent. The West then **legitimized the NTC with frozen billions**. **Benghazi** was a terrorist attack; stand-down friction and a private server sit in the fog after Stevens died. A viral “truth” chain-letter looks like **revelation of the method**—KEEP what adds up, drop the POISON, and treat **“not CIA”** as the most suspicious line. The durable fuse was **Iran**: Islamist state + WMD/DU path + gold settlement. What the West did about it was smash those plans while trying to limit the carnage.
+> **TL;DR:** A **sin eater** works with the same tools as the enemy—terror, deception, espionage, starving resources—so the rest of the cause can stay pure. **NSA-aligned** antibodies take that dirt; **CIA-camp** operations light hard-money threats that force the smash. After **Nixon 1971**, gold-settlement rivals became a kill-for hill: Iraq, Afghanistan, then **Libya** (gold dinar / African settlement ambition). Libya was a **CIA bluff** that forced the military smash, removed Gaddafi, and left African chaos the Agency could rent. The West then **legitimized the NTC with frozen billions**. **Benghazi** was a terrorist attack; stand-down friction and a private server sit in the fog after Stevens died. A viral “truth” chain-letter looks like **revelation of the method**—KEEP what adds up, drop the POISON, and treat **“not CIA”** as the most suspicious line. The durable fuse was **Iran**: Islamist state + WMD/DU path + gold settlement. What the West did about it was smash those plans while trying to limit the carnage.
 
 ---
 
@@ -14,7 +14,7 @@ I watched *The Bourne Legacy* about a year after it came out. I remembered one l
 
 Retired Air Force colonel Eric Byer names the job:
 
-> We are the sin eaters. It means that we take the moral excrement we find in this equation and we bury it down deep inside of us, so that the rest of our case can stay pure. That is the job. We are morally indefensible, and absolutely necessary.
+> We are the sin eaters. It means that we take the moral excrement that we find in this equation and we bury it down deep inside of us, so that the rest of our cause can stay pure. That is the job. We are morally indefensible and absolutely necessary.
 
 Clip: [The Bourne Legacy — “Sin Eater”](https://www.youtube.com/watch?v=X8JNGaGYlfE).
 

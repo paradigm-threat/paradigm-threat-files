@@ -74,9 +74,9 @@ That idiot is Shakespeare: a real man the project raised into a brand, then used
 
 ### 2026-10-29 — [The Sin Eater](https://paradigmthreat2.substack.com/p/the-sin-eater)
 
-A sin eater uses the enemy’s tools — terror, deception, espionage, starving resources — so the rest of the case can stay pure. The essay files NSA-aligned work on that job. After Nixon ended gold convertibility in 1971, a gold-settlement rival became a hill to kill for: Iraq, Afghanistan, then Libya’s gold dinar. Benghazi was a terrorist attack. A viral “contained truth” chain letter is treated as revelation of the method: keep what adds up, drop the poison. The durable fuse is Iran. On 29 October the *Bourne Legacy* “sin eater” clip was blocked on YouTube, Facebook, and Instagram. **Repo:** [the-sin-eater](https://paradigmthreat.net/governance/war/the-sin-eater) · [clip-block note](https://paradigmthreat.net/influence/censorship/youtube-bourne-legacy-sin-eater-clip-blocked-2026-10).
+A sin eater uses the enemy’s tools — terror, deception, espionage, starving resources — so the rest of the cause can stay pure. The essay files NSA-aligned work on that job. After Nixon ended gold convertibility in 1971, a gold-settlement rival became a hill to kill for: Iraq, Afghanistan, then Libya’s gold dinar. Benghazi was a terrorist attack. A viral “contained truth” chain letter is treated as revelation of the method: keep what adds up, drop the poison. The durable fuse is Iran. On 29 October the *Bourne Legacy* “sin eater” clip was blocked on YouTube, Facebook, and Instagram. **Repo:** [the-sin-eater](https://paradigmthreat.net/governance/war/the-sin-eater) · [clip-block note](https://paradigmthreat.net/influence/censorship/youtube-bourne-legacy-sin-eater-clip-blocked-2026-10).
 
-![The Sin Eater — moral dirt buried so the case can stay pure; Libya gold war; Iran endgame](https://paradigmthreat.net/governance/war/the-sin-eater.png)
+![The Sin Eater — moral dirt buried so the cause can stay pure; Libya gold war; Iran endgame](https://paradigmthreat.net/governance/war/the-sin-eater.png)
 
 ### 2026-10-31 — [The Secret War](https://paradigmthreat2.substack.com/p/the-secret-war)
 
