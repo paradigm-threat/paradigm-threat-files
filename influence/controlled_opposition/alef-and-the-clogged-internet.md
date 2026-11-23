@@ -4,7 +4,7 @@ How industrial engagement meshes block ideas from reaching each other
 
 ![Alef and the clogged internet — industrial mesh, clogged flows, debunk-host cross-examination](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.png)
 
-**Live recording (audio, ~52 min):** [June 28, 2026 call](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet.m4a)
+**Live recording (audio, ~52 min):** [June 28, 2026 call with 9/11 Revisionist](https://paradigmthreat.net/influence/controlled_opposition/alef-and-the-clogged-internet.m4a)
 
 > **TL;DR:** The internet was built to move ideas — forums, personal sites, peer discovery, merit bubbling to the surface. That failure is not protocol. It is **clogging**: scripted engagement saturates the flows, walled gardens and personal sites sit on different index tiers, and blacklisted topics never surface in the wider web. COVID showed what happens when a body politic has no immune response — warnings could not propagate while industrial meshes converted the free internet into a **controlled internet**. The Alef scam network is the reference diagram at industrial scale: respectable front, text containment, scheduled credibility slot, extraction. The same grammar clogs 9/11 Truth — coalition time and debate prevention, not wallet fraud alone. A live call with a debunk-host lane was cross-examination of a node — contradictions, evangelical dodges, and **plausible deniability** as the hardest barrier. That dodge architecture is the root of the astroturfing problem truth communities face.
 
@@ -155,7 +155,7 @@ Keywords: #AlefScam #InternetIntransigence #OpaqueAlgorithms #ControlledOppositi
 
 **Substack:** [paradigmthreat2.substack.com/p/alef-and-the-clogged-internet](https://paradigmthreat2.substack.com/p/alef-and-the-clogged-internet)
 
-**Last updated:** 2026-07-03T11:20:00-04:00
+**Last updated:** 2026-11-23
 
 ---
 
