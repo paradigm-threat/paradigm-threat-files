@@ -32,9 +32,13 @@ Trumpcare is a misnomer when the ear hears a new system everyone signs up for, t
 
 Obama put a private-insurer law on his name. Trump is putting the answer on his. For the next two years the country can slam red versus blue over the brand. Little of that fight settles the plumbing until the next president. Trump as president was not trying to defeat his political enemies for sport. He was trying to keep globalist strategies from eating America alive, and to get the country through this stretch. Calling it Trumpcare is simpler than explaining every day that people are getting their money back and that this will not be another ACA. The brand absorbs the heat. That is the job.
 
+![2026 midterms — four camps: sin-eater, Greene nationalist, caught in the middle, Brave New World](https://paradigmthreat.net/governance/constitution/investigations/2026-midterm-four-camps-big-surprise.jpg)
+
 ## Antibody, not a seesaw
 
 This is not a rocking red-versus-blue theater where each side just reverses the last bill for the cameras. It is an [antibody strategy](https://paradigmthreat.net/governance/war/the-sin-eater.md). A sin eater takes the moral cost — the cut, the blame, the ugly months — so the rest of the cause can stay cleaner. Trump will be the one who looks like he cut people off when the subsidy addiction hits the cliff. He also has a plan for what rises after Obamacare falls to pieces.
+
+![The Sin Eater — moral dirt buried so the cause can stay pure](https://paradigmthreat.net/governance/war/the-sin-eater.png)
 
 The fight was never only about which branded service sits on the ID card. It was about the economic problems behind medicine. During Trump’s first term he pushed hard on drug prices, and he is doing the same again now, including most-favored-nation style pressure in the Great Health Care Plan. A few years ago I went to the dentist and she told me I really could not afford the nitrous oxide right then — the price had gone up about ten times, and it was not something I should spend money on. That is how a price spike lands on ordinary care. Equipment and drug prices skyrocketed, and the press blamed a CEO, while households and clinics ate the bill. Clinical care access, wait times, and staffing took sharp strain in 2014 and again in 2025–2026. The denser receipts live in the [companion write-up](https://paradigmthreat.net/science/health/investigations/obamacare-trumpcare-nsa-cia-alignment-investigation.md). The aim is getting back toward a place where households hold the purse and care can be bought without feeding a conglomerate first.
 
@@ -65,7 +69,7 @@ Strongest where the money-path hinge and the Obamacare naming / Trumpcare naming
 
 Keywords: #Trumpcare #Obamacare #AffordableCareAct #PublicOption #HealthSavingsAccount #MedicalIndustrialComplex #SinEater #NSAAligned #CIAAligned #ElSayed #MedicareForAll #HealthcarePolicy #ParadigmThreatFiles
 
-**Last updated:** 2026-11-25T08:06:57-05:00
+**Last updated:** 2026-11-25T08:09:32-05:00
 
 ---
 
