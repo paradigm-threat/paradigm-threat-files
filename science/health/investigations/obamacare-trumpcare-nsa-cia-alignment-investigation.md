@@ -236,7 +236,7 @@ Globalist strategies **create situations guaranteed to explode after a delay**. 
 | **Trump spoken / WH release** | Puts extra money “straight into the **healthcare savings account** in your name” | [WH release 15 Jan 2026](https://www.whitehouse.gov/releases/2026/01/president-trump-unveils-the-great-healthcare-plan-to-lower-costs-and-deliver-money-directly-to-the-people/) |
 | **Concrete Senate vehicle** | HHS payments into an **“Exchange plan HSA”** — **$1,000**/yr ages 18–49 or **$1,500**/yr ages 50–64 for eligible bronze/catastrophic enrollees in **2026–27** (income ≤700% FPL) | [S.3386 — Health Care Freedom for Patients Act (Crapo/Cassidy)](https://www.congress.gov/bill/119th-congress/senate-bill/3386/text) |
 
-**Lock for readers:** Yes — the **load-bearing contrast** is **where the money goes** (insurer vs person). **HSA** is Trump’s **stated** destination and the **leading bill’s** deposit target. It is **not** yet locked as enacted law by the one-page plan alone; amounts in S.3386 are far below many prior enhance-PTC levels ([CNBC / KFF commentary](https://www.cnbc.com/2026/01/15/trump-direct-payments-health-care.html)). Legacy HSA rules also blocked using HSA cash for **premiums** unless Congress/IRS change that — a live mechanic risk if “buy your own insurance” is the pitch.
+**Lock for readers:** Yes — the **load-bearing contrast** is **where the money goes** (insurer vs person). **HSA** is Trump’s **stated** destination and the **leading bill’s** deposit target. It is **not** yet locked as enacted law by the one-page plan alone; amounts in S.3386 are far below many prior enhance-PTC levels ([CNBC / KFF commentary](https://www.cnbc.com/2026/01/15/trump-direct-payments-health-care.html)). Legacy HSA rules ([IRS Pub 969](https://www.irs.gov/publications/p969)) generally **block** using HSA cash for **insurance premiums** (narrow exceptions) — a live mechanic risk if “buy your own insurance” is the pitch. **Enacted HSA expansion (not the deposit pitch):** [P.L. 119-21](https://www.congress.gov/bill/119th-congress/house-bill/1) + [IRS Notice 2026-05](https://www.irs.gov/pub/irs-drop/n-26-05.pdf) made bronze and catastrophic ACA plans **HSA-eligible** starting **2026**. **S.3386** failed cloture **51–48** on **11 Dec 2025** (§7.4.3). Reader essay: [Get Ready for Trumpcare](/science/health/get-ready-for-trumpcare.md).
 
 **Documented caveats (press / analysts):** PDF is short on eligibility amounts and whether purchases must meet ACA essential-benefit / pre-ex rules; risk that healthier buyers exit exchanges ([CNN](https://www.cnn.com/2026/01/16/politics/trump-great-health-care-bill-details); [Becker’s](https://www.beckerspayer.com/payer/3-big-questions-about-trumps-healthcare-policy-plan/); [CNBC](https://www.cnbc.com/2026/01/15/trump-direct-payments-health-care.html); [Reuters](https://www.reuters.com/world/trump-unveils-healthcare-plan-2026-01-15/)).
 
@@ -468,7 +468,7 @@ Globalist strategies **create situations guaranteed to explode after a delay**. 
 
 Keywords: #Obamacare #Trumpcare #AffordableCareAct #PublicOption #MedicalIndustrialComplex #NSAAligned #CIAAligned #HealthcarePolicy #SubsidyCliff #SinEater #ParadigmThreatFiles
 
-*Last updated: 2026-11-25* — §7.4.5 veto-leverage strategy (Dem long want × Trump signer); Oval Office veto + “great things” + Truth Social repost locked; dual-track §10; AU-091 claim 8
+*Last updated: 2026-11-25* — §7.1a Pub 969 premium bar + P.L. 119-21 / Notice 2026-05 HSA eligibility + S.3386 fail lock; reader fact-fix; §7.4.5 veto-leverage; dual-track §10
 
 ---
 
