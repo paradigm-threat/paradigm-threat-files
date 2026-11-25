@@ -14,6 +14,8 @@ These things we were instructed not to believe, but are actually true
 * [Existence of Giant and tiny humanoids is Suppressed](governance/genocide/giants_faeries)
 * [Free Speech is Suppressed](influence/censorship)
 * [Health Science is Suppressed](science/health)
+* [Obamacare → Trumpcare — government healthcare / NSA vs CIA (**AU-091**)](/science/health/investigations/obamacare-trumpcare-nsa-cia-alignment-investigation.md) — Public option denied; latency/subsidy cliff; running Trumpcare headline dossier.
+* [Get Ready for Trumpcare](/science/health/get-ready-for-trumpcare.md) — Money path; public option snatched; El-Sayed gold card; sin-eater naming.
 * [Telepathy is Suppressed](science/telepathy)
 * [Stolen Credit in Media - Plagiarism as Control](influence/stolen_credit)
 
@@ -90,6 +92,7 @@ These familiar terms of conquest are named after the planet of conquest: Mars.
 
 ## Featured
 
+* [Get Ready for Trumpcare](/science/health/get-ready-for-trumpcare.md) — Where the money goes; Obamacare naming sin; El-Sayed window.
 * [Crichton's Prophecy](/science/computing/crichtons-prophecy.md) — *Disclosure* and leadership vs process containment (**AU-057**).
 * [PURSUE Release 01 - *What Am I Asking U FO?*](/influence/controlled_opposition/pursue-release-01-what-am-i-asking-u-fo.md) — May 2026 UAP drop audit.
 * [None of Them Survived](/history/chronology/none-of-them-survived.md) — Peaceful bands erased; gold by redaction (**AU-044**).
