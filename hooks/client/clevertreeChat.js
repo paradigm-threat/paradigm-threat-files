@@ -6,6 +6,9 @@ const BASE = 'https://clevertree.chat'
 const SCRIPTS = [
   BASE + '/fronts/room/context-tags.js',
   BASE + '/fronts/room/channel-route.js',
+  BASE + '/fronts/room/stream-playback.js',
+  BASE + '/fronts/room/media-controller.js',
+  BASE + '/fronts/room/ct-builtins.js',
   BASE + '/fronts/room/clevertree-room.js',
   BASE + '/fronts/room/chat-launcher.js',
   BASE + '/fronts/room/clevertree-ces.js',

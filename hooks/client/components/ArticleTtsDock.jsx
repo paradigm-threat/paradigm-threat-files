@@ -21,6 +21,9 @@ const PIPER_VOICES = [
 const CT_SCRIPTS = [
   CT_BASE + '/fronts/room/context-tags.js',
   CT_BASE + '/fronts/room/channel-route.js',
+  CT_BASE + '/fronts/room/stream-playback.js',
+  CT_BASE + '/fronts/room/media-controller.js',
+  CT_BASE + '/fronts/room/ct-builtins.js',
   CT_BASE + '/fronts/room/clevertree-room.js',
   CT_BASE + '/fronts/room/chat-launcher.js',
   CT_BASE + '/fronts/room/clevertree-ces.js',

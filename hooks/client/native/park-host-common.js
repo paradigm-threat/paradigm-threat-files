@@ -512,4 +512,246 @@
 
     scheduleParkNativeReupgrade(run);
   })();
+
+  /**
+   * PT bottom chrome + fullscreen Clevertree Chat — park-native (SSR-static).
+   * Mirrors old.paradigmthreat.net / Vercel ArticleTTSOverlay: <pt-bottom-overlay>
+   * Chat button toggles ClevertreeChatLauncher dock=fullscreen on #pt.
+   */
+  ;(function bootPtBottomOverlayChat() {
+    var CT = 'https://clevertree.chat';
+    var API = 'https://api.clevertree.chat';
+    var HOST_ID = 'pt-bottom-overlay-park-host';
+    var loadPromise = null;
+    var SCRIPTS = [
+      CT + '/fronts/room/context-tags.js',
+      CT + '/fronts/room/channel-route.js',
+      CT + '/fronts/room/stream-playback.js',
+      CT + '/fronts/room/media-controller.js',
+      CT + '/fronts/room/ct-builtins.js',
+      CT + '/fronts/room/clevertree-room.js',
+      CT + '/fronts/room/chat-launcher.js',
+      CT + '/fronts/room/clevertree-ces.js',
+      CT + '/fronts/site-chrome/pt-bottom-overlay.js',
+    ];
+    var STYLES = [
+      CT + '/fronts/room/tokens.css',
+      CT + '/fronts/room/clevertree-room.css',
+      CT + '/fronts/site-chrome/pt-bottom-overlay.css',
+    ];
+
+    function loadCss(href) {
+      try {
+        if (document.querySelector('link[data-pt-ct="' + href + '"]')) return;
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = href;
+        link.setAttribute('data-pt-ct', href);
+        document.head.appendChild(link);
+      } catch (_) {}
+    }
+
+    function loadScript(src) {
+      return new Promise(function (resolve) {
+        var existing = document.querySelector('script[data-pt-ct="' + src + '"]');
+        if (existing) {
+          if (existing.getAttribute('data-loaded') === '1') return resolve();
+          existing.addEventListener('load', function () {
+            resolve();
+          });
+          existing.addEventListener('error', function () {
+            resolve();
+          });
+          return;
+        }
+        var s = document.createElement('script');
+        s.src = src;
+        s.async = false;
+        s.setAttribute('data-pt-ct', src);
+        s.onload = function () {
+          s.setAttribute('data-loaded', '1');
+          resolve();
+        };
+        s.onerror = function () {
+          resolve();
+        };
+        document.head.appendChild(s);
+      });
+    }
+
+    function ensureAssets() {
+      if (loadPromise) return loadPromise;
+      for (var i = 0; i < STYLES.length; i++) loadCss(STYLES[i]);
+      loadPromise = Promise.resolve();
+      for (var j = 0; j < SCRIPTS.length; j++) {
+        ;(function (src) {
+          loadPromise = loadPromise.then(function () {
+            return loadScript(src);
+          });
+        })(SCRIPTS[j]);
+      }
+      return loadPromise;
+    }
+
+    function openOrToggleChat() {
+      var L = global.ClevertreeChatLauncher;
+      if (!L || typeof L.open !== 'function') return;
+      if (L.isOpen && L.isOpen()) {
+        L.close();
+        return;
+      }
+      L.open({
+        channel: '#pt',
+        title: 'Paradigm Threat',
+        topicId: 0,
+        siteOrigin: location.origin,
+        apiBase: API,
+        dock: 'fullscreen',
+        noFab: true,
+      });
+    }
+
+    function syncChatOpenAttr(el) {
+      if (!el) return;
+      var open = false;
+      try {
+        open = !!(
+          global.ClevertreeChatLauncher &&
+          global.ClevertreeChatLauncher.isOpen &&
+          global.ClevertreeChatLauncher.isOpen()
+        );
+      } catch (_) {}
+      if (open) el.setAttribute('chat-open', '');
+      else el.removeAttribute('chat-open');
+    }
+
+    function ensureHost() {
+      if (!document.body) return null;
+      var host = document.getElementById(HOST_ID);
+      if (!host) {
+        host = document.createElement('div');
+        host.id = HOST_ID;
+        host.className = 'pt-tts-dock pt-tts-dock-visible';
+        host.setAttribute('data-pt-park-overlay', '1');
+        host.style.cssText =
+          'position:fixed;z-index:2147483001;right:0;bottom:0;left:0;pointer-events:none;';
+        document.body.appendChild(host);
+      }
+      var el = host.querySelector('pt-bottom-overlay');
+      if (!el) {
+        el = document.createElement('pt-bottom-overlay');
+        el.setAttribute('show-ai', 'false');
+        el.setAttribute('show-settings', 'false');
+        el.style.pointerEvents = 'auto';
+        // Park-native has no CleverScript TTS yet — keep Chat + Top only.
+        if (!document.getElementById('pt-park-overlay-hide-tts')) {
+          var st = document.createElement('style');
+          st.id = 'pt-park-overlay-hide-tts';
+          st.textContent =
+            '#pt-bottom-overlay-park-host .pt-bo-play,' +
+            '#pt-bottom-overlay-park-host .pt-bo-stop,' +
+            '#pt-bottom-overlay-park-host .pt-bo-seek{display:none!important}';
+          document.head.appendChild(st);
+        }
+        host.appendChild(el);
+        el.addEventListener('pt-overlay:chat', function () {
+          openOrToggleChat();
+          syncChatOpenAttr(el);
+        });
+        el.addEventListener('pt-overlay:top', function () {
+          try {
+            global.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+          } catch (_) {
+            try {
+              global.scrollTo(0, 0);
+            } catch (_2) {}
+          }
+        });
+      }
+      return el;
+    }
+
+    function onScroll() {
+      var el = ensureHost();
+      if (!el) return;
+      var y = 0;
+      try {
+        y = global.scrollY || document.documentElement.scrollTop || 0;
+      } catch (_) {}
+      if (y > 50) el.setAttribute('scrolled', '');
+      else el.removeAttribute('scrolled');
+    }
+
+    function wireChatNavLinks() {
+      try {
+        document.addEventListener(
+          'click',
+          function (ev) {
+            var t = ev.target;
+            if (!t || !t.closest) return;
+            var a = t.closest('a[href]');
+            if (!a) return;
+            var href = a.getAttribute('href') || '';
+            var abs = '';
+            try {
+              abs = new URL(href, location.href).pathname;
+            } catch (_) {
+              abs = href;
+            }
+            var isChatNav =
+              abs === '/chat' ||
+              abs === '/chat/' ||
+              href === 'https://chat.paradigmthreat.net/' ||
+              href === 'https://chat.paradigmthreat.net';
+            if (!isChatNav) return;
+            if (a.getAttribute('data-pt-chat-external') === '1') return;
+            ev.preventDefault();
+            ensureAssets().then(function () {
+              ensureHost();
+              openOrToggleChat();
+              syncChatOpenAttr(document.querySelector('pt-bottom-overlay'));
+            });
+          },
+          true
+        );
+      } catch (_) {}
+    }
+
+    function boot() {
+      if (!document.querySelector('.pt-shell') && !document.querySelector('[data-site-navbar]')) {
+        return;
+      }
+      try {
+        document.documentElement.setAttribute('data-pt-hydrated', '1');
+      } catch (_) {}
+      wireChatNavLinks();
+      ensureAssets().then(function () {
+        var el = ensureHost();
+        onScroll();
+        syncChatOpenAttr(el);
+        try {
+          document.addEventListener('clevertree-chat:openchange', function (ev) {
+            var d = ev && ev.detail;
+            var node = document.querySelector('pt-bottom-overlay');
+            if (!node) return;
+            if (d && d.open) node.setAttribute('chat-open', '');
+            else node.removeAttribute('chat-open');
+          });
+        } catch (_) {}
+      });
+      try {
+        document.addEventListener('scroll', onScroll, { passive: true });
+      } catch (_) {
+        try {
+          document.addEventListener('scroll', onScroll);
+        } catch (_2) {}
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', boot);
+    } else {
+      boot();
+    }
+  })();
 })(typeof globalThis !== 'undefined' ? globalThis : window);
