@@ -123,7 +123,7 @@ export default function ParadigmFilesRelayRoot() {
     page = <ArticleView currentPath={route} filePath={articleFilePath(route)} />
   }
 
-  // LiveChat embeds via markdown <ChatRoom /> (ChatRoomLive); /chat uses ChatApp.
+  // Clevertree Chat: markdown <ChatRoom /> → ChatRoomLive; /chat is a pointer page.
   return (
     <BootShell>
       <StyleContext src="hooks/client/theme.yaml" fullScreen={isCsrHost() !== true}>

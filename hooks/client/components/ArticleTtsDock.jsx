@@ -420,9 +420,31 @@ export default function ArticleTtsDock() {
     )
   }
 
+  function onFallbackChat() {
+    ensureAssets(
+      () => {
+        openOrToggleChat()
+      },
+      () => {
+        openOrToggleChat()
+      },
+    )
+  }
+
   return (
     <div className="pt-tts-dock pt-tts-dock-visible pt-client-only" data-pt-tts-dock="true">
       <div ref={hostRef} data-pt-overlay-host="1" />
+      {!assetsReady ? (
+        <button
+          type="button"
+          className="pt-chat-open-btn pt-tts-chat-fallback"
+          data-clevertree-chat-open="1"
+          data-channel="#pt"
+          onClick={onFallbackChat}
+        >
+          Chat
+        </button>
+      ) : null}
       {expanded ? (
         <div className="pt-tts-settings-strip pt-tts-settings-float">
           <div className="pt-tts-setting">

@@ -1,32 +1,15 @@
 /**
- * CleverScript stub — div[data-relay-park-native=fb-live-chat].
- * Quoted object keys / spreads are not CleverScript-safe; use JSX attrs.
- * Optional props via propStr — CleverScript throws on missing keys.
+ * Legacy mesh LiveChat stub — retired.
+ * Markdown chat uses ChatRoomLive (Clevertree #pt). This host only exists so
+ * old data-relay-park-native=fb-live-chat mounts do not resurrect mesh UI.
  */
 import React from 'react'
+import ChatRoomLive from 'hooks/client/components/ChatRoomLive.jsx'
 import { propStr } from 'hooks/client/propOr.jsx'
 
 export default function LiveChat(props) {
   const p = props || {}
-  const channel = propStr(p, 'channel', '')
-  const path = propStr(p, 'path', '/')
-  const mode = propStr(p, 'mode', 'embed')
-  const prefix = propStr(p, 'prefix', '')
-  const title = propStr(p, 'title', '')
-  let origin = propStr(p, 'origin', '')
-  if (origin.length === 0) {
-    origin = propStr(p, 'chatOrigin', '')
-  }
-  return (
-    <div
-      className="fb-live-chat-host"
-      data-relay-park-native="fb-live-chat"
-      data-path={path}
-      data-mode={mode}
-      data-channel={channel}
-      data-prefix={prefix}
-      data-title={title}
-      data-chat-origin={origin}
-    />
-  )
+  const channel = propStr(p, 'channel', 'general')
+  const title = propStr(p, 'title', 'Open chat')
+  return <ChatRoomLive channel={channel} title={title} />
 }

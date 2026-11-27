@@ -22,7 +22,7 @@ function FooterLink(props) {
 export default function SiteChrome(props) {
   const currentPath = propStr(props, 'currentPath', '/')
   const children = props.children
-  // Mesh chat is opt-in via markdown <ChatRoom channel="…" /> (ChatRoomLive), not shell-wide.
+  // Clevertree Chat is opt-in via markdown <ChatRoom /> (ChatRoomLive) + article overlay Chat.
   return (
     <div className="pt-shell">
       <Nav currentPath={currentPath} />
