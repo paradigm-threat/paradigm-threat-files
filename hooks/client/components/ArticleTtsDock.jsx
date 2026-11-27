@@ -1,23 +1,36 @@
 /**
  * Bottom chrome — portable <pt-bottom-overlay> + Piper TTS wiring.
  * Order: Top → Chat → AI → Play → Settings (AI hidden on park for now).
+ * CleverScript-safe: no import of plain .js helpers (those stay on window via CDN).
  */
 import React, { useState, useEffect, useRef } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { AudioPlayer, synthesize } from '@relay/tts'
 import { splitSentences as hostSplitSentences, takeSentenceChunk } from '@relay/util'
-import {
-  ensureClevertreeAssets,
-  togglePtChat,
-} from 'hooks/client/clevertreeChat.js'
 
 const DEFAULT_VOICE = 'en_US-lessac-medium'
+const CT_BASE = 'https://clevertree.chat'
 
 const PIPER_VOICES = [
   { id: 'en_US-lessac-medium', label: 'Lessac (US)' },
   { id: 'en_GB-cori-medium', label: 'Cori (GB)' },
   { id: 'en_US-amy-medium', label: 'Amy (US)' },
   { id: 'en_US-libritts-high', label: 'LibriTTS (US)' },
+]
+
+const CT_SCRIPTS = [
+  CT_BASE + '/fronts/room/context-tags.js',
+  CT_BASE + '/fronts/room/channel-route.js',
+  CT_BASE + '/fronts/room/clevertree-room.js',
+  CT_BASE + '/fronts/room/chat-launcher.js',
+  CT_BASE + '/fronts/room/clevertree-ces.js',
+  CT_BASE + '/fronts/site-chrome/pt-bottom-overlay.js',
+]
+
+const CT_STYLES = [
+  CT_BASE + '/fronts/room/tokens.css',
+  CT_BASE + '/fronts/room/clevertree-room.css',
+  CT_BASE + '/fronts/site-chrome/pt-bottom-overlay.css',
 ]
 
 function articlePlainText() {
@@ -93,6 +106,84 @@ function setBoolAttr(el, name, on) {
   else el.removeAttribute(name)
 }
 
+function loadCss(href) {
+  try {
+    if (document.querySelector('link[data-ct-asset="' + href + '"]')) return
+    const link = document.createElement('link')
+    link.rel = 'stylesheet'
+    link.href = href
+    link.setAttribute('data-ct-asset', href)
+    document.head.appendChild(link)
+  } catch (e) {}
+}
+
+function loadScriptSeq(i, done, fail) {
+  if (i >= CT_SCRIPTS.length) {
+    done()
+    return
+  }
+  const src = CT_SCRIPTS[i]
+  try {
+    const existing = document.querySelector('script[data-ct-asset="' + src + '"]')
+    if (existing && existing.getAttribute('data-loaded') === '1') {
+      loadScriptSeq(i + 1, done, fail)
+      return
+    }
+    if (existing) {
+      existing.addEventListener('load', () => {
+        loadScriptSeq(i + 1, done, fail)
+      })
+      existing.addEventListener('error', () => {
+        fail()
+      })
+      return
+    }
+    const s = document.createElement('script')
+    s.src = src
+    s.async = false
+    s.setAttribute('data-ct-asset', src)
+    s.onload = () => {
+      s.setAttribute('data-loaded', '1')
+      loadScriptSeq(i + 1, done, fail)
+    }
+    s.onerror = () => {
+      fail()
+    }
+    document.head.appendChild(s)
+  } catch (e) {
+    fail()
+  }
+}
+
+function ensureAssets(done, fail) {
+  let i = 0
+  while (i < CT_STYLES.length) {
+    loadCss(CT_STYLES[i])
+    i = i + 1
+  }
+  loadScriptSeq(0, done, fail)
+}
+
+function openOrToggleChat() {
+  try {
+    const L = window.ClevertreeChatLauncher
+    if (!L) return
+    if (L.isOpen && L.isOpen()) {
+      L.close()
+      return
+    }
+    L.open({
+      channel: '#pt',
+      title: 'Paradigm Threat',
+      topicId: 0,
+      siteOrigin: location.origin,
+      apiBase: 'https://api.clevertree.chat',
+      dock: 'fullscreen',
+      noFab: true,
+    })
+  } catch (e) {}
+}
+
 export default function ArticleTtsDock() {
   const live = isClientLivePhase(4) === true
   const hostRef = useRef(null)
@@ -111,22 +202,27 @@ export default function ArticleTtsDock() {
 
   useEffect(() => {
     if (!live) return
-    ensureClevertreeAssets()
-      .then(() => {
+    ensureAssets(
+      () => {
         setAssetsReady(true)
-      })
-      .catch(() => {
+      },
+      () => {
         setAssetsReady(false)
-      })
+      },
+    )
   }, [live])
 
   useEffect(() => {
     if (!live) return
-    const onScroll = () => setScrolled(scrollY() > 280)
+    const onScroll = () => {
+      setScrolled(scrollY() > 280)
+    }
     onScroll()
     try {
       document.addEventListener('scroll', onScroll)
-      return () => document.removeEventListener('scroll', onScroll)
+      return () => {
+        document.removeEventListener('scroll', onScroll)
+      }
     } catch (e) {}
   }, [live])
 
@@ -137,7 +233,9 @@ export default function ArticleTtsDock() {
     }
     try {
       document.addEventListener('clevertree-chat:openchange', onChange)
-      return () => document.removeEventListener('clevertree-chat:openchange', onChange)
+      return () => {
+        document.removeEventListener('clevertree-chat:openchange', onChange)
+      }
     } catch (e) {}
   }, [])
 
@@ -233,16 +331,22 @@ export default function ArticleTtsDock() {
       host.appendChild(el)
     }
 
-    const onTop = () => scrollToTop()
-    const onChat = () => {
-      togglePtChat({ topicId: 0, title: 'Paradigm Threat' })
+    const onTop = () => {
+      scrollToTop()
     }
-    const onPlayEv = () => onPlayToggle()
+    const onChat = () => {
+      openOrToggleChat()
+    }
+    const onPlayEv = () => {
+      onPlayToggle()
+    }
     const onPauseEv = () => {
       setPlaying(false)
       setCmdSeq(cmdSeq + 1)
     }
-    const onStopEv = () => stopAll()
+    const onStopEv = () => {
+      stopAll()
+    }
     const onSeek = (ev) => {
       const idx = ev && ev.detail && ev.detail.index
       if (typeof idx === 'number') onSeekCommit(idx)
@@ -251,8 +355,12 @@ export default function ArticleTtsDock() {
       const open = !!(ev && ev.detail && ev.detail.open)
       setExpanded(open)
     }
-    const onRetry = () => onPlayToggle()
-    const onDismiss = () => setErr('')
+    const onRetry = () => {
+      onPlayToggle()
+    }
+    const onDismiss = () => {
+      setErr('')
+    }
 
     el.addEventListener('pt-overlay:top', onTop)
     el.addEventListener('pt-overlay:chat', onChat)
@@ -312,13 +420,15 @@ export default function ArticleTtsDock() {
     <div className="pt-tts-dock pt-tts-dock-visible pt-client-only" data-pt-tts-dock="true">
       <div ref={hostRef} data-pt-overlay-host="1" />
       {expanded ? (
-        <div className="pt-tts-settings-strip" style={{ position: 'fixed', zIndex: 2147483002, right: '2rem', bottom: '6rem', maxWidth: '28rem' }}>
+        <div className="pt-tts-settings-strip pt-tts-settings-float">
           <div className="pt-tts-setting">
             <span className="pt-tts-setting-label">Voice</span>
             <select
               className="pt-tts-setting-select"
               value={voiceId}
-              onChange={(e) => setVoiceId(e.target.value)}
+              onChange={(e) => {
+                setVoiceId(e.target.value)
+              }}
               aria-label="Piper voice"
             >
               {PIPER_VOICES.map((v) => (
