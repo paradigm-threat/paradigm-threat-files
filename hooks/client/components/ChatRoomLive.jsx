@@ -80,14 +80,19 @@ function topicIdFromSlug(slug, topics) {
 
 function openDock(topicId, topicSlug, title) {
   try {
-    const L = window.ClevertreeChatLauncher
+    const g = globalThis
+    const L = g && g.ClevertreeChatLauncher
     if (!L || !L.open) return
+    let origin = ''
+    try {
+      if (g && g.location) origin = '' + g.location.origin
+    } catch (e) {}
     L.open({
       channel: '#pt',
       title: title || 'Paradigm Threat',
       topicId: topicId,
       topicSlug: topicSlug,
-      siteOrigin: location.origin,
+      siteOrigin: origin,
       apiBase: 'https://api.clevertree.chat',
       dock: 'fullscreen',
       noFab: true,

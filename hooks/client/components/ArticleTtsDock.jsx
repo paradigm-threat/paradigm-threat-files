@@ -165,17 +165,22 @@ function ensureAssets(done, fail) {
 
 function openOrToggleChat() {
   try {
-    const L = window.ClevertreeChatLauncher
+    const g = globalThis
+    const L = g && g.ClevertreeChatLauncher
     if (!L) return
     if (L.isOpen && L.isOpen()) {
       L.close()
       return
     }
+    let origin = ''
+    try {
+      if (g && g.location) origin = '' + g.location.origin
+    } catch (e) {}
     L.open({
       channel: '#pt',
       title: 'Paradigm Threat',
       topicId: 0,
-      siteOrigin: location.origin,
+      siteOrigin: origin,
       apiBase: 'https://api.clevertree.chat',
       dock: 'fullscreen',
       noFab: true,
