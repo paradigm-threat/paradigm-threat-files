@@ -122,13 +122,29 @@ export function topicIdFromSlug(slug, topics) {
   return 0
 }
 
+function fetchTopicsUrl(url) {
+  return fetch(url, { credentials: 'omit' }).then(function (r) {
+    if (!r || !r.ok) throw new Error('topics')
+    return r.json()
+  })
+}
+
 export function loadTopics() {
   if (topicsCache) return Promise.resolve(topicsCache)
-  return fetch('/chat/topics.json', { credentials: 'omit' })
-    .then(function (r) {
-      if (!r || !r.ok) throw new Error('topics')
-      return r.json()
-    })
+  const urls = [
+    '/chat/topics.json',
+    'https://clevertree.chat/fixtures/pt-topics.json',
+    'https://raw.githubusercontent.com/paradigm-threat/paradigm-threat-files/main/chat/topics.json',
+  ]
+  let chain = Promise.reject(new Error('start'))
+  for (let i = 0; i < urls.length; i++) {
+    ;(function (u) {
+      chain = chain.catch(function () {
+        return fetchTopicsUrl(u)
+      })
+    })(urls[i])
+  }
+  return chain
     .then(function (j) {
       topicsCache = j
       return j
