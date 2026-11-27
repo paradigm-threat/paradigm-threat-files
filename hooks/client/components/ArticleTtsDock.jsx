@@ -140,7 +140,6 @@ function loadScriptSeq(i, done, fail) {
     }
     const s = document.createElement('script')
     s.src = src
-    s.async = false
     s.setAttribute('data-ct-asset', src)
     s.onload = () => {
       s.setAttribute('data-loaded', '1')

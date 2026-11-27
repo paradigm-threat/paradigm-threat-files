@@ -52,7 +52,6 @@ function loadScriptSeq(i, done, fail) {
     const s = existing || document.createElement('script')
     if (!existing) {
       s.src = src
-      s.async = false
       s.setAttribute('data-ct-asset', src)
       document.head.appendChild(s)
     }
