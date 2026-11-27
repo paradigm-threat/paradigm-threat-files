@@ -1,0 +1,22 @@
+{
+  "schema": "clevertree.chat-topics.v1",
+  "irc_channel": "#pt",
+  "topics": [
+    { "id": 0, "slug": "general", "title": "General", "href": "/" },
+    { "id": 1, "slug": "nukes", "title": "Nuclear weapons", "href": "/science/nukes" },
+    { "id": 2, "slug": "hollow-earth", "title": "Hollow Earth", "href": "/cosmos/cosmology/hollow_earth" },
+    { "id": 3, "slug": "cosmos-cosmology", "title": "Cosmology", "href": "/cosmos/cosmology" },
+    { "id": 4, "slug": "cosmos-mars", "title": "Mars", "href": "/cosmos/mars" },
+    { "id": 5, "slug": "ech-in-time", "title": "Echo in Time", "href": "/cosmos/cosmology/ech-in-time" },
+    { "id": 6, "slug": "history-chronology", "title": "Chronology", "href": "/history/chronology" },
+    { "id": 7, "slug": "history-maps", "title": "Maps", "href": "/history/maps" },
+    { "id": 8, "slug": "history-mudflood", "title": "Mudflood", "href": "/history/mudflood" },
+    { "id": 9, "slug": "rus-horde-tartaria", "title": "Rus Horde / Tartaria", "href": "/history/chronology/christ" },
+    { "id": 10, "slug": "governance-usury", "title": "Usury", "href": "/governance/usury" },
+    { "id": 11, "slug": "governance-war", "title": "War", "href": "/governance/war" },
+    { "id": 12, "slug": "governance-genocide", "title": "Genocide", "href": "/governance/genocide" },
+    { "id": 13, "slug": "influence-censorship", "title": "Censorship", "href": "/influence/censorship" },
+    { "id": 14, "slug": "controlled-opposition", "title": "Controlled opposition", "href": "/influence/controlled_opposition" },
+    { "id": 15, "slug": "suppressed-tech", "title": "Suppressed tech", "href": "/influence/conspiracy" }
+  ]
+}

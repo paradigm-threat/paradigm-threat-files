@@ -10,7 +10,6 @@ import {
   IconHeart,
   IconHome,
   IconMenu,
-  IconMessage,
   IconRss,
   IconSearch,
   IconFilm,
@@ -253,12 +252,6 @@ export default function Nav(props) {
         (typeof currentPath === 'string' && currentPath.indexOf('/search/') === 0)
       )
     }
-    const onChat =
-      currentPath === '/chat' ||
-      (typeof currentPath === 'string' && currentPath.indexOf('/chat/') === 0)
-    if (onChat && typeof href === 'string' && href.indexOf('/chat') >= 0) {
-      return true
-    }
     return currentPath === href
   }
 
@@ -276,12 +269,6 @@ export default function Nav(props) {
       label: 'Timeline',
       icon: <IconClock />,
       external: true,
-    },
-    {
-      href: siteHref('/chat'),
-      label: 'Chat',
-      icon: <IconMessage />,
-      active: isActive('/chat'),
     },
     {
       href: 'https://paradigmthreat2.substack.com/',

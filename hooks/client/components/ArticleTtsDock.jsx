@@ -1,22 +1,18 @@
 /**
- * Bottom TTS dock — visual match for paradigm-threat-site ArticleTTSOverlay
- * (circular indigo play/pause, stop when session active, seek, settings).
+ * Bottom chrome — portable <pt-bottom-overlay> + Piper TTS wiring.
+ * Order: Top → Chat → AI → Play → Settings (AI hidden on park for now).
  */
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 import { isClientLivePhase } from '@clevertree/style-internal'
 import { AudioPlayer, synthesize } from '@relay/tts'
 import { splitSentences as hostSplitSentences, takeSentenceChunk } from '@relay/util'
 import {
-  IconPlay,
-  IconPause,
-  IconStop,
-  IconChevronUp,
-  IconSettings,
-} from 'hooks/client/components/Icons.jsx'
+  ensureClevertreeAssets,
+  togglePtChat,
+} from 'hooks/client/clevertreeChat.js'
 
 const DEFAULT_VOICE = 'en_US-lessac-medium'
 
-/** Known Piper ids (gateway /voices may offer a subset). */
 const PIPER_VOICES = [
   { id: 'en_US-lessac-medium', label: 'Lessac (US)' },
   { id: 'en_GB-cori-medium', label: 'Cori (GB)' },
@@ -74,20 +70,14 @@ function scrollY() {
 
 function scrollToTop() {
   try {
-    if (document && document.documentElement) {
-      document.documentElement.scrollTop = 0
-    }
+    if (document && document.documentElement) document.documentElement.scrollTop = 0
   } catch (e) {}
   try {
-    if (document && document.body) {
-      document.body.scrollTop = 0
-    }
+    if (document && document.body) document.body.scrollTop = 0
   } catch (e2) {}
   try {
     const view = document.defaultView
-    if (view && view.scrollTo) {
-      view.scrollTo(0, 0)
-    }
+    if (view && view.scrollTo) view.scrollTo(0, 0)
   } catch (e3) {}
 }
 
@@ -97,67 +87,65 @@ function clamp(n, lo, hi) {
   return n
 }
 
-/** Bottom playback dock — Piper via @relay/tts (client-live only). */
+function setBoolAttr(el, name, on) {
+  if (!el) return
+  if (on) el.setAttribute(name, '')
+  else el.removeAttribute(name)
+}
+
 export default function ArticleTtsDock() {
   const live = isClientLivePhase(4) === true
-  const playingState = useState(false)
-  const playing = playingState[0]
-  const setPlaying = playingState[1]
-  const srcState = useState('')
-  const src = srcState[0]
-  const setSrc = srcState[1]
-  const errState = useState('')
-  const err = errState[0]
-  const setErr = errState[1]
-  const idxState = useState(0)
-  const sentenceIdx = idxState[0]
-  const setSentenceIdx = idxState[1]
-  const sentencesState = useState([])
-  const sentences = sentencesState[0]
-  const setSentences = sentencesState[1]
-  const cmdState = useState(0)
-  const cmdSeq = cmdState[0]
-  const setCmdSeq = cmdState[1]
-  const busyState = useState(false)
-  const busy = busyState[0]
-  const setBusy = busyState[1]
-  const scrollState = useState(false)
-  const scrolled = scrollState[0]
-  const setScrolled = scrollState[1]
-  const expandedState = useState(false)
-  const expanded = expandedState[0]
-  const setExpanded = expandedState[1]
-  const voiceState = useState(DEFAULT_VOICE)
-  const voiceId = voiceState[0]
-  const setVoiceId = voiceState[1]
-  const seekState = useState(-1)
-  const seekValue = seekState[0]
-  const setSeekValue = seekState[1]
+  const hostRef = useRef(null)
+  const [assetsReady, setAssetsReady] = useState(false)
+  const [chatOpen, setChatOpen] = useState(false)
+  const [playing, setPlaying] = useState(false)
+  const [src, setSrc] = useState('')
+  const [err, setErr] = useState('')
+  const [sentenceIdx, setSentenceIdx] = useState(0)
+  const [sentences, setSentences] = useState([])
+  const [cmdSeq, setCmdSeq] = useState(0)
+  const [busy, setBusy] = useState(false)
+  const [scrolled, setScrolled] = useState(false)
+  const [expanded, setExpanded] = useState(false)
+  const [voiceId, setVoiceId] = useState(DEFAULT_VOICE)
 
   useEffect(() => {
     if (!live) return
-    const onScroll = () => {
-      setScrolled(scrollY() > 280)
-    }
+    ensureClevertreeAssets()
+      .then(function () {
+        setAssetsReady(true)
+      })
+      .catch(function () {
+        setAssetsReady(false)
+      })
+  }, [live])
+
+  useEffect(() => {
+    if (!live) return
+    const onScroll = () => setScrolled(scrollY() > 280)
     onScroll()
     try {
-      if (document && document.addEventListener) {
-        document.addEventListener('scroll', onScroll)
-        return () => {
-          try {
-            document.removeEventListener('scroll', onScroll)
-          } catch (e) {}
-        }
-      }
-    } catch (e2) {}
+      document.addEventListener('scroll', onScroll)
+      return () => document.removeEventListener('scroll', onScroll)
+    } catch (e) {}
   }, [live])
+
+  useEffect(() => {
+    const onChange = (ev) => {
+      const d = ev && ev.detail
+      setChatOpen(!!(d && d.open))
+    }
+    try {
+      document.addEventListener('clevertree-chat:openchange', onChange)
+      return () => document.removeEventListener('clevertree-chat:openchange', onChange)
+    } catch (e) {}
+  }, [])
 
   function stopAll() {
     setPlaying(false)
     setSrc('')
     setSentenceIdx(0)
     setSentences([])
-    setSeekValue(-1)
     setCmdSeq(cmdSeq + 1)
   }
 
@@ -172,10 +160,7 @@ export default function ArticleTtsDock() {
     setBusy(true)
     setErr('')
     try {
-      const dataUrl = synthesize({
-        text: chunk.text,
-        voiceId: voiceId,
-      })
+      const dataUrl = synthesize({ text: chunk.text, voiceId: voiceId })
       if (typeof dataUrl !== 'string' || dataUrl.length === 0) {
         setErr('TTS returned empty audio')
         setBusy(false)
@@ -223,10 +208,6 @@ export default function ArticleTtsDock() {
     playFrom(list, 0)
   }
 
-  function onStopClick() {
-    stopAll()
-  }
-
   function onEnded() {
     if (!live) return
     playFrom(sentences, sentenceIdx)
@@ -235,7 +216,6 @@ export default function ArticleTtsDock() {
   function onSeekCommit(idx) {
     if (!sentences || sentences.length === 0) return
     const i = clamp(idx, 0, sentences.length - 1)
-    setSeekValue(-1)
     setPlaying(false)
     setSrc('')
     setSentenceIdx(i)
@@ -243,145 +223,113 @@ export default function ArticleTtsDock() {
     playFrom(sentences, i)
   }
 
+  useEffect(() => {
+    const host = hostRef.current
+    if (!host || !assetsReady) return
+    let el = host.querySelector('pt-bottom-overlay')
+    if (!el) {
+      el = document.createElement('pt-bottom-overlay')
+      el.setAttribute('show-ai', 'false')
+      host.appendChild(el)
+    }
+
+    const onTop = () => scrollToTop()
+    const onChat = () => {
+      togglePtChat({ topicId: 0, title: 'Paradigm Threat' })
+    }
+    const onPlayEv = () => onPlayToggle()
+    const onPauseEv = () => {
+      setPlaying(false)
+      setCmdSeq(cmdSeq + 1)
+    }
+    const onStopEv = () => stopAll()
+    const onSeek = (ev) => {
+      const idx = ev && ev.detail && ev.detail.index
+      if (typeof idx === 'number') onSeekCommit(idx)
+    }
+    const onSettings = (ev) => {
+      const open = !!(ev && ev.detail && ev.detail.open)
+      setExpanded(open)
+    }
+    const onRetry = () => onPlayToggle()
+    const onDismiss = () => setErr('')
+
+    el.addEventListener('pt-overlay:top', onTop)
+    el.addEventListener('pt-overlay:chat', onChat)
+    el.addEventListener('pt-overlay:play', onPlayEv)
+    el.addEventListener('pt-overlay:pause', onPauseEv)
+    el.addEventListener('pt-overlay:stop', onStopEv)
+    el.addEventListener('pt-overlay:seek', onSeek)
+    el.addEventListener('pt-overlay:settings', onSettings)
+    el.addEventListener('pt-overlay:retry', onRetry)
+    el.addEventListener('pt-overlay:dismiss-error', onDismiss)
+    return () => {
+      el.removeEventListener('pt-overlay:top', onTop)
+      el.removeEventListener('pt-overlay:chat', onChat)
+      el.removeEventListener('pt-overlay:play', onPlayEv)
+      el.removeEventListener('pt-overlay:pause', onPauseEv)
+      el.removeEventListener('pt-overlay:stop', onStopEv)
+      el.removeEventListener('pt-overlay:seek', onSeek)
+      el.removeEventListener('pt-overlay:settings', onSettings)
+      el.removeEventListener('pt-overlay:retry', onRetry)
+      el.removeEventListener('pt-overlay:dismiss-error', onDismiss)
+    }
+  }, [assetsReady, playing, src, sentences, sentenceIdx, busy, voiceId, cmdSeq, live])
+
+  useEffect(() => {
+    const host = hostRef.current
+    if (!host) return
+    const el = host.querySelector('pt-bottom-overlay')
+    if (!el) return
+    const session = sentences && sentences.length > 0
+    setBoolAttr(el, 'scrolled', scrolled)
+    setBoolAttr(el, 'chat-open', chatOpen)
+    setBoolAttr(el, 'playing', playing)
+    setBoolAttr(el, 'session', session)
+    setBoolAttr(el, 'settings-open', expanded)
+    setBoolAttr(el, 'busy', busy)
+    el.setAttribute('show-ai', 'false')
+    if (session) {
+      el.setAttribute('seek-max', String(sentences.length))
+      el.setAttribute('seek-value', String(clamp(sentenceIdx, 0, sentences.length - 1)))
+    } else {
+      el.setAttribute('seek-max', '0')
+      el.setAttribute('seek-value', '0')
+    }
+    if (err) el.setAttribute('error', err)
+    else el.removeAttribute('error')
+  }, [scrolled, chatOpen, playing, sentences, sentenceIdx, expanded, busy, err, assetsReady])
+
   if (!live) {
     return (
-      <div
-        className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible pt-client-only"
-        hidden={true}
-        aria-hidden="true"
-        data-pt-tts-css="true"
-      >
-        <span
-          aria-hidden="true"
-          hidden={true}
-          className="pt-tts-panel pt-tts-dock-row pt-tts-play pt-tts-stop pt-tts-top pt-tts-settings pt-tts-seek-wrap pt-tts-count pt-tts-err pt-tts-settings-strip"
-        />
+      <div className="pt-tts-dock pt-client-only" hidden={true} aria-hidden="true" data-pt-tts-css="true">
+        <span aria-hidden="true" hidden={true} />
       </div>
     )
   }
 
-  const sessionActive = sentences && sentences.length > 0
-  let displayIdx = sentenceIdx
-  if (seekValue >= 0) displayIdx = seekValue
-  displayIdx = clamp(displayIdx, 0, sessionActive ? sentences.length - 1 : 0)
-  let countShown = displayIdx + 1
-  if (countShown < 1) countShown = 1
-  if (sessionActive && countShown > sentences.length) countShown = sentences.length
-
   return (
-    <div
-      className="pt-tts-dock lg:pt-tts-dock-lg pt-tts-dock-visible pt-client-only"
-      data-pt-tts-dock="true"
-    >
-      {err.length > 0 ? <div className="pt-tts-err">{err}</div> : null}
-      <div className="pt-tts-panel">
-        <div className="pt-tts-dock-row">
-          <button
-            type="button"
-            className="pt-tts-play"
-            disabled={busy}
-            aria-busy={busy ? 'true' : 'false'}
-            onClick={onPlayToggle}
-            aria-label={playing ? 'Pause' : 'Play article'}
-            title={busy ? 'Synthesizing…' : playing ? 'Pause' : 'Play article (Piper)'}
-          >
-            {playing ? <IconPause /> : <IconPlay />}
-          </button>
-          {sessionActive ? (
-            <button
-              type="button"
-              className="pt-tts-stop"
-              onClick={onStopClick}
-              aria-label="Stop"
-              title="Stop"
+    <div className="pt-tts-dock pt-tts-dock-visible pt-client-only" data-pt-tts-dock="true">
+      <div ref={hostRef} data-pt-overlay-host="1" />
+      {expanded ? (
+        <div className="pt-tts-settings-strip" style={{ position: 'fixed', zIndex: 2147483002, right: '2rem', bottom: '6rem', maxWidth: '28rem' }}>
+          <div className="pt-tts-setting">
+            <span className="pt-tts-setting-label">Voice</span>
+            <select
+              className="pt-tts-setting-select"
+              value={voiceId}
+              onChange={(e) => setVoiceId(e.target.value)}
+              aria-label="Piper voice"
             >
-              <IconStop />
-            </button>
-          ) : null}
-          {scrolled ? (
-            <button
-              type="button"
-              className="pt-tts-top"
-              onClick={() => {
-                scrollToTop()
-              }}
-              aria-label="Back to top"
-              title="Back to top"
-            >
-              <IconChevronUp />
-            </button>
-          ) : null}
-          {sessionActive ? (
-            <div className="pt-tts-seek-wrap">
-              <input
-                type="range"
-                className="pt-tts-seek"
-                min={0}
-                max={sentences.length - 1}
-                step={1}
-                value={displayIdx}
-                aria-label="Seek position in article"
-                onChange={(e) => {
-                  let v = 0
-                  try {
-                    v = parseInt(e.target.value, 10)
-                  } catch (err2) {
-                    v = 0
-                  }
-                  if (typeof v !== 'number' || v !== v) v = 0
-                  setSeekValue(v)
-                }}
-                onMouseUp={() => {
-                  if (seekValue >= 0) onSeekCommit(seekValue)
-                }}
-                onTouchEnd={() => {
-                  if (seekValue >= 0) onSeekCommit(seekValue)
-                }}
-              />
-              <span className="pt-tts-count">
-                {countShown + ' / ' + sentences.length}
-              </span>
-            </div>
-          ) : null}
-          <button
-            type="button"
-            className={
-              expanded
-                ? 'pt-tts-settings pt-tts-settings-open'
-                : 'pt-tts-settings'
-            }
-            onClick={() => {
-              setExpanded(!expanded)
-            }}
-            aria-label="TTS settings"
-            aria-expanded={expanded ? 'true' : 'false'}
-            title="TTS settings"
-          >
-            <IconSettings />
-          </button>
-        </div>
-        {expanded ? (
-          <div className="pt-tts-settings-strip">
-            <div className="pt-tts-setting">
-              <span className="pt-tts-setting-label">Voice</span>
-              <select
-                className="pt-tts-setting-select"
-                value={voiceId}
-                onChange={(e) => {
-                  setVoiceId(e.target.value)
-                }}
-                aria-label="Piper voice"
-              >
-                {PIPER_VOICES.map((v) => (
-                  <option key={v.id} value={v.id}>
-                    {v.label}
-                  </option>
-                ))}
-              </select>
-            </div>
+              {PIPER_VOICES.map((v) => (
+                <option key={v.id} value={v.id}>
+                  {v.label}
+                </option>
+              ))}
+            </select>
           </div>
-        ) : null}
-      </div>
+        </div>
+      ) : null}
       {src.length > 0 ? (
         <AudioPlayer
           src={src}

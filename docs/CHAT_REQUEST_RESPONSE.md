@@ -6,7 +6,7 @@
 
 **Agent hub:** [`AGENTS.md`](../AGENTS.md) § Site chat
 
-*Last updated: 2026-11-15*
+*Last updated: 2026-11-27*
 
 ---
 
@@ -27,60 +27,29 @@
 
 | Item | Value |
 |------|--------|
-| UI | https://paradigmthreat.net/chat (park `ChatApp` + Cleverchat board iframe); in-article embeds via markdown only |
-| Prefix | `pt` — lobby `#pt`, topics `#pt-<topic>`, ops `#logs-pt` |
-| Cleverchat | https://api.clevertree.chat/chat/`<topic>` — durable comments SoT; IRC bridge nick `clevertree-si` mirrors `#pt-<topic>` ↔ submit |
-| Embeds | Opt-in markdown `<ChatRoom channel="…" />` → LiveChat on `#pt-<topic>` on park. Vercel `old.paradigmthreat.net` is **archive only** (embeds may load park hosts). Legacy `#pt-page-*` / `#pt-doc-*` were path-derived shell channels (not imported); general backlog is `#pt-general` only. |
-| History API | `GET https://paradigmthreat.net/chat/api/history?channel=pt-general&limit=50` |
-| Durable store | JSONL on **iad1** (audit) + Cleverchat comments git SoT (debate UI / SI) |
-| IRC | `flashbackrepository.org:6697` (TLS) — same Ergo mesh; Cleverchat bridge joins `#pt-*` |
-| Import | ~5402 posts from legacy `chat/public` → `#pt-<topic>` (see fan-edits `ops/chat/scripts/import-pt-chat-public.mjs`); also refiled into clevertree-chat-comments |
+| UI | Bottom overlay **Chat** button (Top → Chat → AI → Play → Settings) → Clevertree fullscreen dock or extension side panel; `/chat` is a placeholder only |
+| IRC | **One** channel `#pt` for the whole repo |
+| Topics | Human index [`chat/topics.json`](../chat/topics.json) — `0` = general; trailing `[[t:N]]` on messages |
+| Cleverchat | https://api.clevertree.chat — SI panel SoT; bridge nick `clevertree-si` |
+| History API | `GET https://paradigmthreat.net/chat/api/history?channel=pt&limit=50` |
+| Durable store | JSONL on pub1 + Cleverchat comments git SoT |
+| IRC | `pub1.relaygateway.net:6697` (TLS) — same Ergo mesh |
 
-### Topic mapping (legacy ChatRoom → mesh)
+Markdown `<ChatRoom channel="nukes" />` is an **open-chat** control (not an in-article scrolled LiveChat). It opens `#pt` with that topic’s index attribution.
 
-| Legacy | Mesh |
-|--------|------|
-| `general` | `#pt-general` |
-| `nukes`, `hollow-earth`, … | `#pt-nukes`, `#pt-hollow-earth`, … |
-| `governance/usury` | `#pt-governance-usury` |
+### Topic mapping
 
-```md
-<ChatRoom channel="nukes" title="Nuclear Weapons Chatroom"/>
-```
-
-On the park tip this renders LiveChat on `#pt-nukes`. Pages without a `<ChatRoom />` tag have no chat embed.
-
-### Archive only (do not write)
-
-| Item | Value |
-|------|--------|
-| Git branch | `chat/public` on `paradigm-threat-site` (forensic) |
-| Neon `posts` | Legacy backup; not live |
-| MCP `submit_chat_comment` | **Retired** |
+See `chat/topics.json`. Slugs like `nukes` map to numeric ids; wire tag is `[[t:N]]`. Do **not** open `#pt-nukes`.
 
 ---
 
 ## 3. Finding leads
 
-### 3.1 Recent mesh history
-
 ```bash
-curl -fsS 'https://paradigmthreat.net/chat/api/history?channel=pt-general&limit=50'
-curl -fsS 'https://paradigmthreat.net/chat/api/channels?q=pt-'
+curl -fsS 'https://paradigmthreat.net/chat/api/history?channel=pt&limit=50'
 ```
 
-Or open https://paradigmthreat.net/chat?c=pt-general
-
-### 3.2 Forensic sweep (pre-import archive)
-
-```bash
-cd paradigm-threat-site
-git grep -i 'needle' chat/public -- '.relay/chat/channels/'
-```
-
-### 3.3 Check the corpus first
-
-Before writing a new dossier: `rg` / glob under `paradigm-threat-files` for the person, URL, or topic.
+Or open https://paradigmthreat.net/chat
 
 ---
 
@@ -88,23 +57,19 @@ Before writing a new dossier: `rg` / glob under `paradigm-threat-files` for the 
 
 | Lead type | Deliverable | Chat reply |
 |-----------|-------------|------------|
-| Deep claim / “add a section” | Full `*investigation.md` | Brief + link in `#pt-<topic>` |
+| Deep claim / “add a section” | Full `*investigation.md` | Brief + link in `#pt` with `[[t:N]]` |
 | Simple FAQ | Short answer | In-channel |
 | Already covered | Point at existing page | Brief + link |
 
 **Voice:** short chronicle, plain spoken. ~2–4 sentences. Keep under ~400 chars for live IRC/web send limits.
 
-> Re: \<topic\> — \<what you did\>. \<finding / status\>. \<live URL\>
-
 ---
 
 ## 5. Posting a reply
 
-1. Open https://paradigmthreat.net/chat?c=pt-\<topic\> (or article embed).
-2. Set nick (e.g. `protricity`) and send the reply.
-3. Optionally use a normal IRC client on `flashbackrepository.org:6697` and `JOIN #pt-<topic>`.
-
-There is **no** MCP PUT to `chat/public` anymore.
+1. Open chat via header button or https://paradigmthreat.net/chat
+2. Set nick (e.g. `protricity`) and send the reply (topic tag appended by UI when known).
+3. Optionally use a normal IRC client on `pub1.relaygateway.net:6697` and `JOIN #pt`.
 
 ---
 
@@ -114,8 +79,8 @@ There is **no** MCP PUT to `chat/public` anymore.
 |-------|------------------|
 | JSONL `/opt/relay/chat/logs` | Yes (web history / audit) |
 | Ergo SQLite `ergo_history.db` | Yes (IRC CHATHISTORY) |
-| Cleverchat comments SoT | Yes (debate UI + SI); bridge nick `clevertree-si` |
+| Cleverchat comments SoT | Yes (SI panel + SI); bridge nick `clevertree-si` |
 | Daily tar + rsync → ord1/hkg1 | Cold mirrors |
 | Laptop pull | `ops/chat/scripts/pull-chat-backup-local.sh` in fan-edits |
 
-See **fan-edits** `ops/chat/README.md` for install/backup/restore. Cleverchat host docs: `clevertree-chat/docs/irc-backbone.md`.
+See **fan-edits** `ops/chat/README.md`. Cleverchat host docs: `clevertree-chat/docs/irc-backbone.md`.
