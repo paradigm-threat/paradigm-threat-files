@@ -133,7 +133,7 @@ export function loadTopics() {
   if (topicsCache) return Promise.resolve(topicsCache)
   const urls = [
     '/chat/topics.json',
-    'https://clevertree.chat/fixtures/pt-topics.json',
+    'https://clevertree.chat/fronts/site-chrome/pt-topics.json',
     'https://raw.githubusercontent.com/paradigm-threat/paradigm-threat-files/main/chat/topics.json',
   ]
   let chain = Promise.reject(new Error('start'))
