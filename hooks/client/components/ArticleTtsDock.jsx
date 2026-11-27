@@ -290,8 +290,8 @@ export default function ArticleTtsDock() {
     setBoolAttr(el, 'busy', busy)
     el.setAttribute('show-ai', 'false')
     if (session) {
-      el.setAttribute('seek-max', String(sentences.length))
-      el.setAttribute('seek-value', String(clamp(sentenceIdx, 0, sentences.length - 1)))
+      el.setAttribute('seek-max', '' + sentences.length)
+      el.setAttribute('seek-value', '' + clamp(sentenceIdx, 0, sentences.length - 1))
     } else {
       el.setAttribute('seek-max', '0')
       el.setAttribute('seek-value', '0')
