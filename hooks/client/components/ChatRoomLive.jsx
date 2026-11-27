@@ -35,11 +35,11 @@ export default function ChatRoomLive(props) {
 
   function onOpen() {
     loadTopics()
-      .then(function (index) {
+      .then((index) => {
         const topicId = topicIdFromSlug(topicSlug, index)
         return openPtChat({ topicId: topicId, topicSlug: topicSlug, title: label })
       })
-      .catch(function () {
+      .catch(() => {
         return openPtChat({ topicSlug: topicSlug, title: label })
       })
   }

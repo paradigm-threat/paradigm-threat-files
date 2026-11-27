@@ -112,10 +112,10 @@ export default function ArticleTtsDock() {
   useEffect(() => {
     if (!live) return
     ensureClevertreeAssets()
-      .then(function () {
+      .then(() => {
         setAssetsReady(true)
       })
-      .catch(function () {
+      .catch(() => {
         setAssetsReady(false)
       })
   }, [live])
